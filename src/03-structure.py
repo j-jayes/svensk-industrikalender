@@ -1,7 +1,5 @@
 import os
 from openai import OpenAI
-
-client = OpenAI(api_key=openai_api_key)
 import json
 import yaml
 from pathlib import Path
@@ -21,7 +19,7 @@ else:
     # Access the value of OPEN_AI_KEY from the environment variables
     openai_api_key = os.getenv("OPEN_AI_KEY")
 
-
+client = OpenAI(api_key=openai_api_key)
 
 FILE_RANGE = [50, 60]
 
