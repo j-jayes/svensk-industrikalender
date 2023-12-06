@@ -21,7 +21,7 @@ else:
 
 client = OpenAI(api_key=openai_api_key)
 
-FILE_RANGE = [50, 60]
+FILE_RANGE = [60, 200]
 
 schema = {
   "type": "object",
