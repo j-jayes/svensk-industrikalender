@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  translate:
+  structure:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install openai pyyaml
+          pip install openai pyyaml dotenv
 
       - name: Pull latest changes
         run: |
@@ -36,7 +36,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "translate files" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "structure files" --allow-empty)
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
