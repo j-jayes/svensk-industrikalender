@@ -1,0 +1,239 @@
+{
+    "original": "<h2>A</h2>\n\n* utmärker till Sveriges Industriförbund anslutna företag.\n\n<b>Abrahamsons Berednings AB.,</b>\n<i>Norrköping.</i>\n\nFärgeri och appreturverk. Mottager\nvävnader för beredning och färgning\nsamt utför kettings-skärning och limning.\n\nKontor: Kvarng. 39. Telefon: 20054 o.\n20854. Postgiro: 161457.\n\nAkt.-kap.: 115,000 kr. Antal\nindustriarb.: beredningen 25, färgeriet 7.\nOmsättn.-värde pr år: 500,000 kr. — Bolaget\ngrundat 1925, varvid firman Th.\nAbrahamson uppgick i bolaget.\n\n<i>Verkst. dir.:</i> Gunnar Abrahamson.\n\n<b>*Abrahamssons Möbelfabrik AB.,</b>\n<i>Smålands Taberg.</i>\n\nTillverkar herrums-, matrums-,\nsovrums- och kompletteringsmöbler vid\nfabrik i Smålands Taberg (Jönköp. l.).\n\nTelefon: 37 o. 197. Postgiro: 91233. —\nAkt.-kap.: 100,000 kr. Antal industriarb.:\n60. Tillv.-värde pr år: 1,100,000 kr. —\nBolaget grundat 1935 under namn AB.\nAbrahamsson &amp; Jonsson, nuv. namn 1945.\n\n<i>Styrelse:</i> disp. Birger Abrahamsson\n(ordf.), fabr. Arnold Abrahamsson, fabr.\nHans Abrahamsson, fabr. Henning\nAbrahamsson, försäljn.-chef Eskil Törnqvist.\n\n<i>Verkst. dir. o. disp.:</i> Birger\nAbrahamsson.\n\n<b>*Abrahamssons Snickerifabrik,</b>\n<i>Smålands Taberg.</i>\n\nTillverkar byggnadssnickerier samt\ntrappor vid fabrik i Smålands Taberg\n(Jönköp. l.).\n\nTelefon: 77 o. 277. Postgiro: 23420.\nAntal industriarb.: 25. Tillv.-värde pr\når: 600,000 kr. — Firman etabl. 1926.\n\n<i>Ägare o. chefer:</i> fabr. Arnold\nAbrahamsson o. fabr. Hans Abrahamsson.\n\n<b>*Ackumulator-Fabriks AB. Tudor,</b>\n<i>Stockholm.</i>\n\nSe AB. Tudor, Stockholm.\n\n<b>*Ackumulatorfabriken, Nordiska,</b>\n<i>Malmö.</i>\n\nSe G. C. Faxe AB., Malmö.\n\n<b>*Ackumulator AB. Jungner,</b>\n<i>Stockholm.</i>\n\nSe Svenska Ackumulator AB. Jungner,\nStockholm.\n\n<b>*E. A. Adamsons Snickerifabrik,</b> <i>Sala.</i>\n\nTillverkar inredningar för apotek,\naffärer, skolor och laboratorier.\n\nTelefon: 710. Postgiro: 4076. —\nArb.-antal: 18. Tillv.-värde pr år: 200,000 kr.\n— Firman etabl. 1917, nuv. namn 1945.\n\n<i>Ägare o. chef:</i> fabr. Ernst A.\nAdamson.\n\n<i>Disp.:</i> Elof Johansson.\n\n<b>*AB. Addo,</b> <i>Malmö.</i>\n\nMek. verkstad. Tillverkar additions- och\nsubtraktionsmaskiner samt\nbokföringsmaskiner. Märke: »Addo».\n\nHuvudkontor: Malmö, Industrig. 20.\nTelefon: »Addo». Postgiro: 24470.\nFörsäljn.-kontor: Stockholm, Norrlandsg. 2 o.\nBirger Jarlsg. 13, telefon: 230390;\nMalmö, Gust. Adolfs Torg 6, telefon: »Addo»;\nGävle, telefon: 584: Norrköping, telefon:\n25110, med flera platser.\n\nAkt.-kap.: 600,000 kr. Antal\nindustriarb.: 400. — Bolaget grundat 1918.\n\n<i>Styrelse:</i> dir. Hugo Agrell (ordf.),\nciviling. Gunnar Agrell, disp. Göran\nAgrell.\n\n<i>Verkst. dir.:</i> H. Agrell.\n\n<i>Vice verkst. dir.:</i> Gunnar Agrell.\n\n<i>Försäljn.-chef:</i> Göran Agrell.\n\n<b>*Adebolaget, Ad. Larsson &amp; Co. AB.,</b>\n<i>Borås.</i>\n\nKonfektionsfabriker i Borås samt i\nKinnarumma, Fritsla (Älvsb. l.).\nTillverkar skjortor, pyjamas, byxor samt\nsport- och arbetskläder. Varumärken:\n»AD»-stjärnan, »Ad-permanent» och\n»Stjärnkläder».\n\nTelegr.-adr. o. telefon: »Adebolaget»,\nBorås. Postgiro: 10590. Fabrikskontor:\nKinnarumma; telefon: Kinna 7241.\n\nAkt.-kap.: 300,000 kr. Tillv.-värde pr\når: 3,000,000 kr. — Firman etabl. 1910,\nbolag 1936.\n\n<i>Styrelse:</i> dir. Ad. Larsson (ordf.),\ndisp. Åke Adlarson, disp. Yngve Frizell.\n\n<i>Verkst. dir.:</i> Ad. Larsson.\n",
+    "structured": {
+        "firms": [
+            {
+                "name": "Abrahamsons Berednings AB.",
+                "location": "Norrköping",
+                "business": "Färgeri och appreturverk",
+                "products": "Mottager vävnader för beredning och färgning samt utför kettings-skärning och limning",
+                "contact": {
+                    "office": "Kvarng. 39",
+                    "phone": [
+                        "20054",
+                        "20854"
+                    ],
+                    "postgiro": "161457"
+                },
+                "financials": {
+                    "capital": "115,000 kr",
+                    "employees": {
+                        "beredningen": 25,
+                        "färgeriet": 7
+                    },
+                    "annual_turnover": "500,000 kr",
+                    "annual_production_value": "500,000 kr"
+                },
+                "foundation_year": 1925,
+                "predecessor": "Th. Abrahamson",
+                "director": "Gunnar Abrahamson"
+            },
+            {
+                "name": "Abrahamssons Möbelfabrik AB.",
+                "location": "Smålands Taberg",
+                "business": "Möbeltillverkning",
+                "products": "Herrums-, matrums-, sovrums- och kompletteringsmöbler",
+                "contact": {
+                    "phone": [
+                        "37",
+                        "197"
+                    ],
+                    "postgiro": "91233"
+                },
+                "financials": {
+                    "capital": "100,000 kr",
+                    "employees": {
+                        "total": 60
+                    },
+                    "annual_turnover": "1,100,000 kr",
+                    "annual_production_value": "1,100,000 kr"
+                },
+                "foundation_year": 1935,
+                "current_name_year": 1945,
+                "board": [
+                    {
+                        "name": "Birger Abrahamsson",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Arnold Abrahamsson",
+                        "role": "fabr."
+                    },
+                    {
+                        "name": "Hans Abrahamsson",
+                        "role": "fabr."
+                    },
+                    {
+                        "name": "Henning Abrahamsson",
+                        "role": "fabr."
+                    },
+                    {
+                        "name": "Eskil Törnqvist",
+                        "role": "försäljn.-chef"
+                    }
+                ],
+                "director": "Birger Abrahamsson"
+            },
+            {
+                "name": "Abrahamssons Snickerifabrik",
+                "location": "Smålands Taberg",
+                "business": "Tillverkning av byggnadssnickerier och trappor",
+                "products": "Byggnadssnickerier samt trappor",
+                "contact": {
+                    "phone": [
+                        "77",
+                        "277"
+                    ],
+                    "postgiro": "23420"
+                },
+                "financials": {
+                    "employees": {
+                        "total": 25
+                    },
+                    "annual_turnover": "600,000 kr"
+                },
+                "foundation_year": 1926,
+                "owners": [
+                    "Arnold Abrahamsson",
+                    "Hans Abrahamsson"
+                ],
+                "manager": "Arnold Abrahamsson"
+            },
+            {
+                "name": "Ackumulator-Fabriks AB. Tudor",
+                "location": "Stockholm",
+                "business": "",
+                "products": "",
+                "contact": {},
+                "financials": {},
+                "reference": "AB. Tudor, Stockholm"
+            },
+            {
+                "name": "Ackumulatorfabriken, Nordiska",
+                "location": "Malmö",
+                "business": "",
+                "products": "",
+                "contact": {},
+                "financials": {},
+                "reference": "G. C. Faxe AB., Malmö"
+            },
+            {
+                "name": "Ackumulator AB. Jungner",
+                "location": "Stockholm",
+                "business": "",
+                "products": "",
+                "contact": {},
+                "financials": {},
+                "reference": "Svenska Ackumulator AB. Jungner, Stockholm"
+            },
+            {
+                "name": "E. A. Adamsons Snickerifabrik",
+                "location": "Sala",
+                "business": "Tillverkning av inredningar för apotek, affärer, skolor och laboratorier",
+                "products": "Inredningar för apotek, affärer, skolor och laboratorier",
+                "contact": {
+                    "phone": "710",
+                    "postgiro": "4076"
+                },
+                "financials": {
+                    "employees": {
+                        "total": 18
+                    },
+                    "annual_turnover": "200,000 kr"
+                },
+                "foundation_year": 1917,
+                "current_name_year": 1945,
+                "director": "Ernst A. Adamson",
+                "manager": "Elof Johansson"
+            },
+            {
+                "name": "AB. Addo",
+                "location": "Malmö",
+                "business": "Mek. verkstad",
+                "products": "Tillverkar additions- och subtraktionsmaskiner samt bokföringsmaskiner under märket «Addo»",
+                "contact": {
+                    "office": "Industrig. 20",
+                    "phone": [
+                        "Addo",
+                        "230390"
+                    ],
+                    "postgiro": "24470",
+                    "sales_offices": [
+                        {
+                            "location": "Stockholm",
+                            "phone": "230390"
+                        },
+                        {
+                            "location": "Malmö",
+                            "phone": "Addo"
+                        },
+                        {
+                            "location": "Gävle",
+                            "phone": "584"
+                        },
+                        {
+                            "location": "Norrköping",
+                            "phone": "25110"
+                        }
+                    ]
+                },
+                "financials": {
+                    "capital": "600,000 kr",
+                    "employees": {
+                        "total": 400
+                    }
+                },
+                "foundation_year": 1918,
+                "board": [
+                    {
+                        "name": "Hugo Agrell",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Gunnar Agrell",
+                        "role": "civiling."
+                    },
+                    {
+                        "name": "Göran Agrell",
+                        "role": "disp."
+                    }
+                ],
+                "director": "H. Agrell",
+                "vice_director": "Gunnar Agrell",
+                "sales_manager": "Göran Agrell"
+            },
+            {
+                "name": "Adebolaget, Ad. Larsson & Co. AB.",
+                "location": "Borås",
+                "business": "Konfektionsfabrik",
+                "products": "Tillverkar skjortor, pyjamas, byxor samt sport- och arbetskläder under varumärkena «AD»-stjärnan, «Ad-permanent» och «Stjärnkläder»",
+                "contact": {
+                    "telegraph": "Adebolaget",
+                    "phone": "Kinna 7241",
+                    "postgiro": "10590"
+                },
+                "financials": {
+                    "capital": "300,000 kr",
+                    "annual_turnover": "3,000,000 kr"
+                },
+                "foundation_year": 1910,
+                "corporation_year": 1936,
+                "board": [
+                    {
+                        "name": "Ad. Larsson",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Åke Adlarson",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Yngve Frizell",
+                        "role": "disp."
+                    }
+                ],
+                "director": "Ad. Larsson"
+            }
+        ]
+    }
+}

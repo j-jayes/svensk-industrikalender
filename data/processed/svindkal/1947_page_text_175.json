@@ -1,0 +1,235 @@
+{
+    "original": "Bengtsfors—Berg\n\n* Bengtsfors Sulfit AB.,\n\nBengtsfors.\n\nSulfitfabrik i Bengtsfors (Älvsb. l.).\nTillverkar som specialitet sulfitcellulosa\nför konstsilke samt sulfitsprit.\n\nTelegr.-adr.: Sulfit, Bengtsfors.\nTelefon: 5. Postgiro: 36512. Ensamförsälj.:\nEkman &amp; Co. AB., Göteborg, V. Hamng.\n7. Telegr.-adr.: Ekmans, Göteborg.\nTelefon: 174580.\n\nAkt.-kap.: 900,000 kr. Antal\nindustriarb.: 200. Årstillv.: 18,000 ton\nsulfitcellulosa, 2,000,000 1. sulfitsprit. — Fabriken\nanlagd 1901, ombyggd 1935, bolag 1916.\n\nStyrelse: bankdir. Rolf Steffenburg\n(ordf.), konsul Carl Ekman, dir. Håkan\nEkman, disp. Rich. Hedlund, frih. C.-G.\nLangenskiöld.\n\nVerkst. dir. o. disp.: Otto Knuts.\n\nKamrer: Emil Johansson.\n\nDriftsin g.: J. Kassberg.\n\nBengtsson, Bröderna, Falkenberg.\nSe Bröderna Bengtsson, Falkenberg.\n\n* Bengtsons Konfektions AB.,\n\nStockholm.\n\nDamkonfektionsfabrik. Tillverkar\nklänningar, blusar, morgonroekar m. m.\n\nKontor: Mästersamuelsg. 32.\nTelegr.-adr. : Nybengt. Stockholm. Telefon: 232495.\nPostgiro: 4787.\n\nAkt.-kap.: 200,000 kr. Antal\nindustriarb.: 150. Tillv.-värde pr år: 3,000,000 kr.\n— Bolaget grundat 1915, ombildat 1928.\n\nStyrelse: fru A. Falkenborg, dir. Eric\nFalkenborg, bankdir. Rob. Sundvik.\nVerkst. dir.: Eric Falkenborg.\n\nBengtsons Litografiska AB.,\n\nStockholm.\n\nOffsettrycken. Utför affischer, skyltar,\nbroschyrer, folders, kartor, planscher och\nandra litografiska tryckalster samt\ntillverkar fröpåsar. Bolaget driver även\nförlagsrörelse och konsulterande\nreklamverk-samhet.\n\nKontor: Sveavägen 90. Telegr.-adr.:\nBengtlito, Stockholm. Telefon: 232220.\nPostgiro: 3101.\n\n^ Bolaget grundades 1922 och är anslutet\ntill AB. Sveriges Litografiska\nTryckerier, Stockholm (se detta bolag).\n\nStyrelse: disp. O. Dahlström, disp. H.\nRenander, ryttmast. Åke G. Wiekman,\ndir. Knut Östberg.\n\nDisp.: H. Renander.\n\nBentes Trikåfabrik i Borås AB.,\n\nBorås.\n\nTillverkar damunderkläder.\nTelefon: 15610. Postgiro: 140874. —\nAkt.-kap.: 15,000 kr. Antal industriarb.:\n7. — Firman etabl. 1937, bolag 1945.\n\nChefer: fabr. Lars Peterson o. fabr.\nFolke Eckerström.\n\nBentfors &amp; Co. AB., Motala.\n\nTillverkar lackerade\nväggbeklädnads-plattor (genom lackering av\nträfiberplattor) samt klister för fastsättning av all\nslags väggbeklädnad. Varunamn:\n»Benty-plattor».\n\nTelefon: 2363. Postgiro: 272440. —\nAkt.-kap.: 15,000 kr. Antal industriarb.:\n10. Tillv.-värde pr är: 200,000 kr. —\nBolaget grundat 1944.\n\nVerkst. dir.: fabr. Elias Baard.\n\nAB. Bento, Västerås.\n\nTextilfabrik. Tillverkar underkläder,\ndamblusar, städrockar, förkläden,\nskjortor samt plasticartiklar.\n\nTelefon: 34343. Postgiro: 137070. Repr.\ni Stockholm: Eric Ohlsson &amp; Son,\nKnngsg. 44, telefon: 110428.\n\nAkt.-kap.: 35,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 320,000 kr.\n— Bolaget grundat 1937.\n\nVerkst. dir.: ing. Einar Tour.\n\n\"Berg &amp; Co. Mek. Verkstad AB.,\n\nLindesberg.\n\nSe Bergbolageu AB., Lindesberg.\n\nBerg &amp; Johansson AB., Hönö.\n\nMek. verkstad och båtslip vid Hönö,\nKlova (Göteb. o. Bohus l.). Tillverkar\nvinschar, tåguppskjutningsmaskiner,\nspol-pu-mpar samt trålutrustnihgar; utför\nmotorinstallationer och båtreparationer.\n\nTelefon: Hönö 80. Postgiro: 49960. —\nAkt.-kap.: 30,000 kr. Antal industriarb.:\n20. Tillv.-värde pr år: 500,000 kr. —\nFirman grundad 1925, bolag 1944.\n\nVerkst. dir.: Ernst D. Berg.\n\nKamrer: Gunnar Nyberg.\n\n*Chr. Bergh &amp; Co:s Elektriska AB.,\n\nSvalöv.\t\"\n\nSe Cebe AB., Svalöv.",
+    "structured": {
+        "1": {
+            "name": "Bengtsfors Sulfit AB.",
+            "location": "Bengtsfors",
+            "business": "Sulfitfabrik",
+            "products": "Specializes in sulfit cellulose for artificial silk and sulfite spirit",
+            "contact": {
+                "office": "Bengtsfors",
+                "phone": [
+                    "5"
+                ],
+                "postgiro": "36512",
+                "telegraph": "Sulfit, Bengtsfors",
+                "factory_phone": "Factory phone number"
+            },
+            "financials": {
+                "capital": "900,000 kr",
+                "employees": {
+                    "industriarb": 200
+                },
+                "annual_turnover": "18,000 ton sulfitcellulosa, 2,000,000 1. sulfitsprit"
+            },
+            "foundation_year": 1901,
+            "board": [
+                {
+                    "name": "Rolf Steffenburg",
+                    "role": "Bank Director (ordf.)"
+                },
+                {
+                    "name": "Carl Ekman",
+                    "role": "Consul"
+                },
+                {
+                    "name": "Håkan Ekman",
+                    "role": "Director"
+                },
+                {
+                    "name": "Rich. Hedlund",
+                    "role": "Managing Director"
+                },
+                {
+                    "name": "C.-G. Langenskiöld",
+                    "role": "Freiherr"
+                }
+            ],
+            "manager": "Otto Knuts",
+            "director": "",
+            "managing_director": "",
+            "sales_manager": "",
+            "current_name_year": "",
+            "predecessor": "",
+            "original_name": "",
+            "corporation_year": ""
+        },
+        "2": {
+            "name": "Bengtsons Konfektions AB.",
+            "location": "Stockholm",
+            "business": "Damkonfektionsfabrik",
+            "products": "Manufactures dresses, blouses, morning robes, etc.",
+            "contact": {
+                "office": "Stockholm",
+                "phone": [
+                    "232495"
+                ],
+                "postgiro": "4787",
+                "telegraph": "Nybengt, Stockholm"
+            },
+            "financials": {
+                "capital": "200,000 kr",
+                "employees": {
+                    "industriarb": 150
+                },
+                "annual_turnover": "3,000,000 kr"
+            },
+            "foundation_year": 1915,
+            "board": [
+                {
+                    "name": "A. Falkenborg",
+                    "role": "Fru"
+                },
+                {
+                    "name": "Eric Falkenborg",
+                    "role": "Director"
+                },
+                {
+                    "name": "Rob. Sundvik",
+                    "role": "Bank Director"
+                }
+            ],
+            "manager": "Eric Falkenborg",
+            "director": "",
+            "managing_director": "",
+            "sales_manager": "",
+            "current_name_year": 1928,
+            "predecessor": "",
+            "original_name": "",
+            "corporation_year": ""
+        },
+        "3": {
+            "name": "Bengtsons Litografiska AB.",
+            "location": "Stockholm",
+            "business": "Offsettrycken",
+            "products": "Produces posters, signs, brochures, maps, etc.",
+            "contact": {
+                "office": "Sveavägen 90",
+                "phone": [
+                    "232220"
+                ],
+                "postgiro": "3101",
+                "telegraph": "Bengtlito, Stockholm"
+            },
+            "financials": {
+                "capital": "",
+                "employees": {},
+                "annual_turnover": ""
+            },
+            "foundation_year": 1922,
+            "board": [
+                {
+                    "name": "O. Dahlström",
+                    "role": "Director"
+                },
+                {
+                    "name": "H. Renander",
+                    "role": "Disp."
+                },
+                {
+                    "name": "Åke G. Wiekman",
+                    "role": "Ryttmast."
+                },
+                {
+                    "name": "Knut Östberg",
+                    "role": "Director"
+                }
+            ],
+            "manager": "",
+            "director": "",
+            "managing_director": "",
+            "sales_manager": "",
+            "current_name_year": "",
+            "predecessor": "",
+            "original_name": "",
+            "corporation_year": ""
+        },
+        "4": {
+            "name": "Bentes Trikåfabrik i Borås AB.",
+            "location": "Borås",
+            "business": "Tillverkar damunderkläder",
+            "products": "",
+            "contact": {
+                "phone": [
+                    "15610"
+                ],
+                "postgiro": "140874"
+            },
+            "financials": {
+                "capital": "15,000 kr",
+                "employees": {
+                    "industriarb": 7
+                },
+                "annual_turnover": ""
+            },
+            "foundation_year": 1937,
+            "board": [],
+            "manager": "fabr. Lars Peterson o. fabr. Folke Eckerström",
+            "director": "",
+            "managing_director": "",
+            "sales_manager": "",
+            "current_name_year": "",
+            "predecessor": "",
+            "original_name": "",
+            "corporation_year": 1945
+        },
+        "5": {
+            "name": "Bentfors & Co. AB.",
+            "location": "Motala",
+            "business": "Tillverkar lackerade väggbeklädnads-plattor",
+            "products": "Benty-plattor",
+            "contact": {
+                "phone": [
+                    "2363"
+                ],
+                "postgiro": "272440"
+            },
+            "financials": {
+                "capital": "15,000 kr",
+                "employees": {
+                    "industriarb": 10
+                },
+                "annual_turnover": "200,000 kr"
+            },
+            "foundation_year": 1944,
+            "board": [],
+            "manager": "fabr. Elias Baard",
+            "director": "",
+            "managing_director": "",
+            "sales_manager": "",
+            "current_name_year": "",
+            "predecessor": "",
+            "original_name": "",
+            "corporation_year": ""
+        },
+        "6": {
+            "name": "AB. Bento",
+            "location": "Västerås",
+            "business": "Textilfabrik",
+            "products": "Underkläder, damblusar, städrockar, förkläden, skjortor, plasticartiklar",
+            "contact": {
+                "phone": [
+                    "34343"
+                ],
+                "postgiro": "137070"
+            },
+            "financials": {
+                "capital": "35,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "320,000 kr"
+            },
+            "foundation_year": 1937,
+            "board": [],
+            "manager": "ing. Einar Tour",
+            "director": "",
+            "managing_director": "",
+            "sales_manager": "",
+            "current_name_year": "",
+            "predecessor": "",
+            "original_name": "",
+            "corporation_year": ""
+        }
+    }
+}

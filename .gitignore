@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.pydevproject
+
+# Miscellaneous
+*.DS_Store
+
+.env
+.venv
