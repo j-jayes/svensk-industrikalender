@@ -1,0 +1,199 @@
+{
+    "original": "Specialband—Sporrong\n\nAB. Specialbandy Borås.\n\nSyfabrik. Tillverkar hak- och hyskband\nför korsettindustrien.\n\nTelefon: 11042. Postgiro: 140680. —\nAkt.-kap.: 15,000 kr. Arb.-antal: 6.\nTillv.-värde pr år: 150,000 kr. — Bolaget\ngrundat 1938.\n\nStyrelse o. verkst. dir.: Erik M. Uhlin.\n\nSpeclalindustri, Hälsingborg.\n\nSnickerifabrik och mek. verkstad.\nTillverkar vertikalfack för ritningar,\nkopieramar för ljuskopiering samt ställbara\nritbord med järnstativ och\nparallellfö-ring.\n\nTelefon: 18300. Postgiro: 140798. —\nAntal industriarb.: 3. Tillv.-värde pr år:\n40,000 kr. — Firman etabl. 1936.\n\nÄgare o. chef: fabr. Valter Gustavsson.\n\n\"Spexeryds Mangangruvor, Tenhult.\n\nSe Wargöns AB., Vargön.\n\n*Sphinx, Strumpfabriks AB., Mjölby.\n\nSe AB. Norrköpings Tricotfabrik, Alb.\nWesterholm, Norrköping.\n\n\"AB. Spik, Västervik.\n\nTråddrageri och spikfabrik. Tillverkar\ntrådspik, formstift och skostift samt\ndragen järntråd.\n\nTelefon: 384. Postgiro: 32880. —-\nAkt.-kap.: 135,000 kr. Antal industriarb.: 25.\n—- Bolaget grundat 1913.\n\nStyrelse: dir. Pehr Carlson (ordf.), dir.\nJohn Anderson, kamrer G. Leijon, disp.\nRudolf Sunström.\n\nJourh. dir.: Pehr Carlson.\n\n(Jfr annons nr 22.)\n\nSpinneri AB. Hermann Kurzel,\n\nGöteborg.\n\nKardgarns- och vigognespinneri samt\nväveri och färgeri. Tillverkar kardgarn,\nvigognegarn, cellullgarn, effektgarn samt\nkamgarns- och kardgarnstyger.\n\nKontor: Åvägen 6. Telegr.-adr.: Kurzel,\nGöteborg. Telefon: 192560. Postgiro:\n40802.\n\nAkt.-kap.: 300,000 kr. Antal\nindustriarb.: 157. — Firman, etabl. 1880, bolag\n1909, äges av Gårda Fabrikers AB.,\nGöteborg.\n\nStyrelse: dir. Gustaf Werner (ordf.),\ndir. Åke Arvidius, dir. Frans H. Nilsson.\n\nVerkst. dir. o. disp.: Åke Arvidius.\n\n\"Spiralfabriken, Svenska, Stockholm.\n\nSe AB. Svenska Spiralfabriken,\nStockholm.\n\n\"AB. Spiralslang, Stockholm.\n\nSe Nordiska Slangfabriken, AB.\nSpiralslang, Stockholm.\n\nSpirella AB., Korsettfabriken,\n\nMalmö.\n\nSe Korsettfabriken Spirella AB.,\nMalmö.\n\n\"Spiros, Fjäderfabriken, Ulvsunda.\n\nSe Fjäderfabriken Spiros AB.,\nUlvsunda.\n\n\"AB. Splintfabriken, Vara.\n\nTräförädlingsfabrik i Ulricehamn.\nTillverkar skopligg, pliggband,\ntandpetare, glaceskedar och -pinnar,\nkaramellpinnar, fruktgafflar, köttpinnar,\ntungspat-lar, tamponpinnar, trädgårdsetiketter,\nblomsterpinnar och fönsterblomsterställ,\ntrappledstänger, klädklykor m. m.\n\nKontor: Vara. Telefon: 73. Postgiro:\n10253.\n\nAkt.-kap.: 225,000 kr. Antal\nindustriarb.: 20. Tillv.-värde pr år: 110,000 kr.\n— Bolaget grundat 1920.\n\nStyrelse: grossh. Carl Mauritz\nPehrs-son (ordf.), ing. Gustaf Hedin, dir.-assist.\nCarl Wilhelm Pehrsson.\n\nVerkst. dir.: C. M. Pehrsson.\n\nAB. Splitterfritt Clas, Stockholm.\n\nTillverkar splitterfritt lamellglas.\nVarumärke: »Splittex».\n\nKontor: Tranebergsvägen 50, Telefon:\n252093. — Akt.-kap.: 10,000 kr. Antal\narb.: 4. Tillv.-värde pr år: 50,000 kr. —\nBolaget grundat 1939.\n\nVerkst. dir.: disp. Ragnar Eriksson.\n\nSporda Yaddfabrik, Sporda.\n\nTillverkar täck- och madrassvadd,\nlimvadd samt madrasser vid fabrik i Sporda\n(Jönköp. l.).\n\nTelefon: 19. Postgiro: 166892. —\nAntal industriarb.: 4. Tillv.-värde pr år:\n30,000 kr. — Vaddfabriken grundad 1939.\n\nÄgare o. chef: fabr. Claes Andersson.\n\n\"C. C. Sporrong &amp; Co., Stockholm.\n\nSe Metallfabriks AB. C. O. Sporrong\n&amp; Co., Stockholm.",
+    "structured": {
+        "1": {
+            "name": "Specialband—Sporrong AB",
+            "location": "Borås",
+            "business": "Syfabrik",
+            "products": "Tillverkar hak- och hyskband för korsettindustrien",
+            "contact": {
+                "phone": [
+                    "11042"
+                ],
+                "postgiro": "140680"
+            },
+            "financials": {
+                "capital": "15,000 kr",
+                "employees": {
+                    "Arb.-antal": 6
+                },
+                "annual_production_value": "150,000 kr"
+            },
+            "foundation_year": 1938,
+            "board": [
+                {
+                    "name": "Erik M. Uhlin",
+                    "role": "Styrelse o. verkst. dir."
+                }
+            ]
+        },
+        "2": {
+            "name": "Specialindustri",
+            "location": "Hälsingborg",
+            "business": "Snickerifabrik och mek. verkstad",
+            "products": "Tillverkar vertikalfack för ritningar, kopieramar för ljuskopiering samt ställbara ritbord med järnstativ och parallellfö-ring",
+            "contact": {
+                "phone": [
+                    "18300"
+                ],
+                "postgiro": "140798"
+            },
+            "financials": {
+                "employees": {
+                    "Antal industriarb.": 3
+                },
+                "annual_production_value": "40,000 kr"
+            },
+            "foundation_year": 1936,
+            "owners": [
+                "fabr. Valter Gustavsson"
+            ]
+        },
+        "3": {
+            "name": "Spik AB",
+            "location": "Västervik",
+            "business": "Tråddrageri och spikfabrik",
+            "products": "Tillverkar trådspik, formstift och skostift samt dragen järntråd",
+            "contact": {
+                "phone": [
+                    "384"
+                ],
+                "postgiro": "32880"
+            },
+            "financials": {
+                "capital": "135,000 kr",
+                "employees": {
+                    "Antal industriarb.": 25
+                }
+            },
+            "foundation_year": 1913,
+            "board": [
+                {
+                    "name": "Pehr Carlson",
+                    "role": "Styrelse o. disp."
+                },
+                {
+                    "name": "John Anderson",
+                    "role": "Styrelse o. disp."
+                },
+                {
+                    "name": "G. Leijon",
+                    "role": "Kamrer"
+                },
+                {
+                    "name": "Rudolf Sunström",
+                    "role": "Disp."
+                }
+            ],
+            "director": "Pehr Carlson",
+            "managing_director": "Pehr Carlson"
+        },
+        "4": {
+            "name": "Spinneri AB. Hermann Kurzel",
+            "location": "Göteborg",
+            "business": "Kardgarns- och vigognespinneri samt väveri och färgeri",
+            "products": "Tillverkar kardgarn, vigognegarn, cellullgarn, effektgarn samt kamgarns- och kardgarnstyger",
+            "contact": {
+                "office": "Åvägen 6",
+                "telegraph": "Kurzel, Göteborg",
+                "phone": "192560",
+                "postgiro": "40802"
+            },
+            "financials": {
+                "capital": "300,000 kr",
+                "employees": {
+                    "Antal industriarb.": 157
+                }
+            },
+            "foundation_year": 1880,
+            "owners": [
+                "Gårda Fabrikers AB., Göteborg"
+            ],
+            "board": [
+                {
+                    "name": "Gustaf Werner",
+                    "role": "Styrelse o. verkst. dir."
+                },
+                {
+                    "name": "Åke Arvidius",
+                    "role": "Styrelse o. disp."
+                },
+                {
+                    "name": "Frans H. Nilsson",
+                    "role": "Styrelse"
+                }
+            ],
+            "managing_director": "Åke Arvidius"
+        },
+        "5": {
+            "name": "Splintfabriken AB",
+            "location": "Vara",
+            "business": "Träförädlingsfabrik",
+            "products": "Tillverkar skopligg, pliggband, tandpetare, glaceskedar och -pinnar, karamellpinnar, fruktgafflar, köttpinnar, tungspat-lar, tamponpinnar, trädgårdsetiketter, blomsterpinnar och fönsterblomsterställ, trappledstänger, klädklykor m. m.",
+            "contact": {
+                "office": "Vara",
+                "phone": "73",
+                "postgiro": "10253"
+            },
+            "financials": {
+                "capital": "225,000 kr",
+                "employees": {
+                    "Antal industriarb.": 20
+                },
+                "annual_production_value": "110,000 kr"
+            },
+            "foundation_year": 1920,
+            "board": [
+                {
+                    "name": "Carl Mauritz Pehrsson",
+                    "role": "Styrelse o. disp."
+                },
+                {
+                    "name": "Gustaf Hedin",
+                    "role": "Ing."
+                },
+                {
+                    "name": "Carl Wilhelm Pehrsson",
+                    "role": "Dir.-assist."
+                }
+            ],
+            "director": "C. M. Pehrsson"
+        },
+        "6": {
+            "name": "Splitterfritt Clas AB",
+            "location": "Stockholm",
+            "business": "Tillverkar splitterfritt lamellglas",
+            "products": "Varumärke: »Splittex»",
+            "contact": {
+                "office": "Tranebergsvägen 50",
+                "phone": "252093"
+            },
+            "financials": {
+                "capital": "10,000 kr",
+                "employees": {
+                    "Arb.": 4
+                },
+                "annual_production_value": "50,000 kr"
+            },
+            "foundation_year": 1939,
+            "managing_director": "Ragnar Eriksson"
+        },
+        "7": {
+            "name": "Sporda Yaddfabrik",
+            "location": "Sporda",
+            "business": "Tillverkar täck- och madrassvadd, limvadd samt madrasser",
+            "contact": {
+                "phone": "19",
+                "postgiro": "166892"
+            },
+            "financials": {
+                "employees": {
+                    "Antal industriarb.": 4
+                },
+                "annual_production_value": "30,000 kr"
+            },
+            "foundation_year": 1939,
+            "owner": "fabr. Claes Andersson"
+        }
+    }
+}

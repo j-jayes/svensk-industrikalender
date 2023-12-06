@@ -1,0 +1,233 @@
+{
+    "original": "Simonsson—Sjöberg\n\nKontor: Gävleg. 12 A. Telegr.-adr.:\nSilverman. Telefon: 230255. Postgiro:\n54946.\n\nAkt.-kap.: 10,000 kr. Arb.-antal: 15,\n(ävensom 10 hemarb.). Tillv.-värde pr år:\n300,000 kr. — Bolaget grundat 1932.\n\nStyrelse: fru I. A. E. Hultman (ordf.),\ndir. Sten Hultman.\n\nVerkst. dir.: Sten Hultman.\n\n\"Nils Edv. Simonssons\nMöblerings-affär, Lund.\n\nTillverkar möbler.\n\nTelefon: 10362. — Arb.-antal: 2. —\nFirman etabl. 1909.\n\nDelägare: snickarm. Nils Edv.\nSimonsson o. snickarm. Per Johan Simonsson.\n\nSimrishamns Cjuteri, Frode Yiis,\n\nSimrishamn.\n\nMek. verkstad. Tillverkar\nslakterimaskiner. Firman utför även värme- och\nsanitära anläggningar samt\nånginstalla-tioner.\n\nTelefon: 35 o. 395. Postgiro: 142485.\n\nAntal industriarb.: 20. Tillv.-värde pr\når: 400,000 kr. — Firman etabl. 1875\nsåsom gjuteri, vilket numera nedlagts.\n\nÄgare o. chef: ing. Frode Vils.\n\nKamrer: Birger Johnsson.\n\n\"Simrishamns Tegelbruks AB.,\n\nSimrishamn.\n\nSe Oimbrishamns Tegelbruks ÅB.,\nSimrishamn.\n\n\"AB. Sipla, Stockholm.\n\nFörsilvringsfabrik i Gröndal,\nStockholm. Utför försilvring.\n\nKontor: Sjöbjörnsvägen 10, Gröndal;\npostadr.: Box 102, Stockholm 1. Telefon:\n452016. — Akt.-kap.: 10,000 kr.\nArb.-antal: 12. — Bolaget grundat 1940.\n\nStyrelse o. disp.: L. Hultenheim.\n\nDriftschef: Harald Gustafsson.\n\nSirius, AB. Konservfabriken,\n\nGöteborg.\n\nSe AB. Konservfabriken Sirius,\nGöteborg.\n\nSivers St Häger, Elektriska AB.,\n\nJ önköping.\n\nSe Elektriska AB. Sivers &amp; Häger,\nJönköping.\n\n\"AB. Sjuntorp, Sjuntorp.\n\nBomullsspinneri och väveri i Sjuntorp\n(Älvsb. l.). Tillverkar bomullsgarn och\nband samt bomullsvävnader. Bolaget\nidkar jämväl jordbruk.\n\nTelegr.-adr.: »Sjuntorp», Sjuntorp.\nTelefon: Göteborg 174104 o. Trollhättan\n40200. Postgiro: 9080.\n\nAkt.-kap.: 1,200,000 kr. Antal\nindustriarb.: 650. Tillv.-värde pr år: 10,000,000\nkr. — Fabriken anlagd 1813, bolaget\ngrundat 1882.\n\nStyrelse: disp. Ingvar E:son Mark\n(ordf.), grossh. Gustaf Delin, disp. H.\nMuller.\n\nDisponenter: Ingvar E: son Mark o. E.\nMjörne.\n\nKassör: E. Niklasson.\n\n\"Själevads Ångbryggeri, Själevad.\n\nSe Ångbryggeri AB. i Själevad,\nSjälevad.\n\n\"Sjöbacka Sågverk, Maspelösa.\n\nSe AB. Statens Skogsindustrier,\nStockholm.\n\n\"AB. Sjöberg &amp; Haglund, Bjursås.\n\nSkofabrik i Bjursås (Kopparb. L).\nTillverkar arbetskängor, sport- och\nvandrar-skodon samt skidpjäxor.\n\nTelefon: 19. Postgiro: 27517. —\nAkt.-kap.: 60,000 kr. Antal industriarb.: 50.\nTillv.-värde pr år: 1,000,000 kr. —\nFirman etabl. 1922.\n\nStyrelse: fabr. Axel Sjöberg, fabr.\nAlrik Sjöberg, fabr. Wiktor Haglund.\n\nVerkst. dir.: Axel Sjöberg.\n\nV. verkst. dir.: Wiktor Haglund.\n\n\"A. Ferd. Sjöberg AB., Gävle.\n\nUll- och kamgarnsspinneri samt\nfärgeri. Tillverkar oblekta och färgade\null-och kamgarner. Varumärke: »Nornan».\n\nTelegr.-adr.: Sjöberg, Gävle. Telefon:\n132. Postgiro: 21383.\n\nAkt.-kap.: 247,500 kr. Antal\nindustriarb.: 160. Tillv.-värde pr år: 4,000,000 kr.\n— Firman etabl. 1874, bolag 1917.\n\nStyrelse: bankdir. Gunnar Hedberg\n(ordf.), disp. Carl V. Larsson, ing. Karl\nOlving, disp. Sven Olving.\n\nVerkst. dir.: Sven Olving.\n\nKontorschef: ing. Martin Sjöberg.",
+    "structured": {
+        "1": {
+            "name": "Simonsson—Sjöberg",
+            "location": "Gävleg. 12 A",
+            "contact": {
+                "telegraph": "Silverman",
+                "phone": [
+                    "230255"
+                ],
+                "postgiro": "54946"
+            },
+            "financials": {
+                "capital": "10,000 kr",
+                "employees": {
+                    "total": 15,
+                    "home_workers": 10
+                },
+                "annual_turnover": "300,000 kr",
+                "annual_production_value": "300,000 kr"
+            },
+            "foundation_year": 1932,
+            "board": [
+                {
+                    "name": "fru I. A. E. Hultman",
+                    "role": "ordf."
+                },
+                {
+                    "name": "dir. Sten Hultman",
+                    "role": null
+                }
+            ],
+            "director": "Sten Hultman"
+        },
+        "2": {
+            "name": "Nils Edv. Simonssons Möblerings-affär",
+            "location": "Lund",
+            "products": "Tillverkar möbler",
+            "contact": {
+                "phone": [
+                    "10362"
+                ],
+                "postgiro": null
+            },
+            "foundation_year": 1909
+        },
+        "3": {
+            "name": "Simrishamns Cjuteri",
+            "location": "Frode Yiis, Simrishamn",
+            "business": "Mek. verkstad",
+            "products": "Tillverkar slakterimaskiner",
+            "contact": {
+                "phone": [
+                    "35",
+                    "395"
+                ],
+                "postgiro": "142485"
+            },
+            "financials": {
+                "employees": {
+                    "total": 20
+                },
+                "annual_turnover": "400,000 kr",
+                "annual_production_value": "400,000 kr"
+            },
+            "foundation_year": 1875,
+            "owners": [
+                "ing. Frode Vils"
+            ]
+        },
+        "4": {
+            "name": "AB. Sipla",
+            "location": "Stockholm",
+            "business": "Försilvringsfabrik",
+            "products": "Utför försilvring",
+            "contact": {
+                "office": "Sjöbjörnsvägen 10, Gröndal",
+                "phone": [
+                    "452016"
+                ],
+                "post_address": "Box 102, Stockholm 1",
+                "postgiro": "10,000 kr"
+            },
+            "financials": {
+                "employees": {
+                    "total": 12
+                },
+                "annual_turnover": null,
+                "annual_production_value": null
+            },
+            "foundation_year": 1940,
+            "board": [
+                {
+                    "name": "L. Hultenheim",
+                    "role": "disp."
+                }
+            ],
+            "sales_manager": "Harald Gustafsson"
+        },
+        "5": {
+            "name": "Sjuntorp",
+            "location": "Sjuntorp",
+            "business": "Bomullsspinneri och väveri",
+            "products": "Tillverkar bomullsgarn och band samt bomullsvävnader. Idkar jordbruk.",
+            "contact": {
+                "telegraph": "Sjuntorp",
+                "phone": [
+                    "Göteborg 174104",
+                    "Trollhättan 40200"
+                ],
+                "postgiro": "9080"
+            },
+            "financials": {
+                "capital": "1,200,000 kr",
+                "employees": {
+                    "total": 650
+                },
+                "annual_turnover": "10,000,000 kr",
+                "annual_production_value": "10,000,000 kr"
+            },
+            "foundation_year": 1882,
+            "board": [
+                {
+                    "name": "disp. Ingvar E:son Mark",
+                    "role": "ordf."
+                },
+                {
+                    "name": "grossh. Gustaf Delin",
+                    "role": null
+                },
+                {
+                    "name": "disp. H. Muller",
+                    "role": null
+                }
+            ],
+            "director": "Ingvar E: son Mark",
+            "manager": "E. Mjörne",
+            "sales_manager": "E. Niklasson"
+        },
+        "6": {
+            "name": "Själevads Ångbryggeri",
+            "location": "Själevad",
+            "products": "Se Ångbryggeri AB. i Själevad",
+            "foundation_year": null
+        },
+        "7": {
+            "name": "Sjöbacka Sågverk",
+            "location": "Maspelösa",
+            "products": "Se AB. Statens Skogsindustrier",
+            "foundation_year": null
+        },
+        "8": {
+            "name": "AB. Sjöberg & Haglund",
+            "location": "Bjursås",
+            "business": "Skofabrik",
+            "products": "Tillverkar arbetskängor, sport- och vandrar-skodon samt skidpjäxor",
+            "contact": {
+                "phone": [
+                    "19"
+                ],
+                "postgiro": "27517"
+            },
+            "financials": {
+                "capital": "60,000 kr",
+                "employees": {
+                    "total": 50
+                },
+                "annual_turnover": "1,000,000 kr",
+                "annual_production_value": "1,000,000 kr"
+            },
+            "foundation_year": 1922,
+            "board": [
+                {
+                    "name": "fabr. Axel Sjöberg",
+                    "role": null
+                },
+                {
+                    "name": "fabr. Alrik Sjöberg",
+                    "role": null
+                },
+                {
+                    "name": "fabr. Wiktor Haglund",
+                    "role": null
+                }
+            ],
+            "director": "Axel Sjöberg",
+            "manager": "Wiktor Haglund"
+        },
+        "9": {
+            "name": "A. Ferd. Sjöberg AB.",
+            "location": "Gävle",
+            "business": "Ull- och kamgarnsspinneri samt färgeri",
+            "products": "Tillverkar oblekta och färgade ull-och kamgarner. Varumärke: »Nornan»",
+            "contact": {
+                "telegraph": "Sjöberg, Gävle",
+                "phone": [
+                    "132"
+                ],
+                "postgiro": "21383"
+            },
+            "financials": {
+                "capital": "247,500 kr",
+                "employees": {
+                    "total": 160
+                },
+                "annual_turnover": "4,000,000 kr",
+                "annual_production_value": "4,000,000 kr"
+            },
+            "foundation_year": 1917,
+            "board": [
+                {
+                    "name": "bankdir. Gunnar Hedberg",
+                    "role": "ordf."
+                },
+                {
+                    "name": "disp. Carl V. Larsson",
+                    "role": null
+                },
+                {
+                    "name": "ing. Karl Olving",
+                    "role": null
+                },
+                {
+                    "name": "disp. Sven Olving",
+                    "role": null
+                }
+            ],
+            "director": "Sven Olving",
+            "manager": "ing. Martin Sjöberg"
+        }
+    }
+}

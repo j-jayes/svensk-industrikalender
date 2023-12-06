@@ -1,0 +1,159 @@
+{
+    "original": "Konfektion\n\n— Firman etabl. 1915, bolag 1924 under\nnamn Konfektions-Kompaniet Lindström\n&lt;&amp; Co. AB., nuv. namn 1945.\n\nStyrelse: dir. David Lindström (ordf.),\ndir. Nils Lindström, herr Harald\nLundberg.\n\nVerkst. dir.: Nils Lindström.\n\n\"Konfektions AB. Lyon, Göteborg.\n\nTillverkar herr- och damkläder.\n\nKontor: Karl Johansg. 29. Telegr.-adr.:\nLejonkläder, Göteborg. Telefon: 172655.\nPostgiro: 40326.\n\nAkt.-kap.: 500,000 kr. Antal\nindustriarb.: 350. Tillv.-värde pr år: 4,000,000 kr.\n— Bolaget grundat 1927.\n\nStyrelse o. verkst. dir.: N. Garellick.\n\nDisp.: H. Garellick.\n\n\"Konfektions AB. Oscar Molander,\n\nAlingsås.\n\nTillverkar herr- och gosskläder.\nVarumärke: »Kabom».\n\nTelegr.-adr. o. telefon: Kabom,\nAlingsås. Postgiro: 20600.\n\nAkt.-kap.: 1,280,000 kr. Antal\nindustriarb.: 405. — Bolaget grundat 1906.\n\nStyrelse: dir. Oscar Molander (ordf.),\ndir. Hj. Grahl, disp. Carl Axel Molander.\n\nVerkst. dir.: Oscar Molander.\n\nKontorschef: Erik A. Falk.\n\nKonfektions AB. Noreka, Lund.\n\nTillverkar gabardinroekar, trenchcoats,\nvindtygs- och gummirockar, motorkläder\nm. m.\n\nTelefon: 10067. Postgiro: 90970. —\nAkt.-kap.: 200,000 kr. — Bolaget grundat\n1935.\n\nVerkst. dir.: J. Alfr. Persson.\n\nV. verkst. dir.: N. Elmer-Madsen.\n\nKonfektions AB. Perfekt,\n\nLandskrona.\n\nTillverkar herr- och gosskläder.\nVarumärke : » Perfektkläder».\n\nTelefon: 1555. Postgiro: 73430. —\nAkt.-kap.: 50,000 kr. Antal industriarb.: 30.\n— Bolaget grundat 1928.\n\nVerkst. dir.: E. Hörlitz.\n\n\"Konfektions AB. Robby, Borås.\n\nKonfektionsfabrik. Tillverkar goss- och\nflickkläder. Varumärke: »Robby».\n\nTelegr.-adr.: Robby, Borås. Telefon:\n11635. Postgiro: 93219.\n\nAkt.-kap.: 250,000 kr. Tillv.-värde pr\når: 1,700,000 kr. — Firman etabl. 1935.\n\nStyrelse: dir. Gunnar Roos, fru Signe\nRoos.\n\nVerkst. dir.: Gunnar Roos.\n\n\"Konfektions AB. Salén, Stockholm.\n\nDamkonfektionsfabrik. Tillverkar\nklänningar, kjolar, damblusar samt\ntricot-varor. Varumärken: »Saléns» o.\n»Stjärn-tricot».\n\nKontor och utställningslokaler: N.\nStationsg. 79—81. Telegr.-adr.: Salenko,\nStockholm. Telefon: 230950. Postgiro:\n1779.\n\nAkt.-kap.: 380,000 kr. Antal\nindustriarb.: 300. Omsättn.-värde pr år: 6,000,000\nkr. — Bolaget grundat 1914.\n\nStyrelse: dir. Sven G. Salén (ordf.),\nadv. Gösta Ekelund, dir. Sixten Nilson.\n\nVerkst. dir.: Sven G. Salén.\n\nV. verkst. dir.: Sixten Nilson.\n\nKontorschef: Lars Hägg.\n\n\"Konfektions AB. S:t Erik,\n\nStockholm.\n\nFabriker för tillverkning av\nherrkläder, skjortor och klänningar\n(»Pubson-fabriken») samt för överdragskläder\nm. m. (»Slitmanfabriken»).\n\nKontor: Pubsonfabriken, Flemingg. 77,\ntelegr.-adr.: Kvalitet Stockholm, telefon:\n520230; Slitmanfabriken, Hornsg. 54,\ntelefon: 419993 o. 419943.\n— Bolaget, grundat 1932, äges av\nKooperativa Förbundet.\n\nStyrelse: dir. Albin Johansson (ordf.),\nfil. lic. Mauritz Bonow, dir. Hj.\nDeger-stedt, dir. Hugo Edstam, dir. G. Osvald,\ndir. Ernst Persson.\n\nVerkst. dir.: Carl Sandkvist.\n\nKonfektions AB. Tonex,\n\nUlricehamn.\n\nTillverkar herr- och gosskläder samt\ndamblazers, damdräkter och flickkappor\nvid fabriker i Ulricehamn (Älvsb. l.) och\nMarbäck (Hallands l.).\n\nTelegr.-adr.: Tonex, Ulricehamn.\nTelefon: 69. Postgiro: 98901.\n\nAkt.-kap.: 135,000 kr. Antal\nindustriarb.: 70. — Firman etabl. 1936, bolag\n1938 under namn AB. ölsremma\nKonfektionsindustri, nuv. namn 1943.\n\nVerkst. dir.-, disp. Eric Nordenström.\n\n\"Konfektions AB. J. A. Wettergren\n&amp; Co., Göteborg.\n\nSe AB. J. A. Wettergren &amp; Co.,\nGöteborg.",
+    "structured": {
+        "1": {
+            "name": "Konfektions-Kompaniet Lindström & Co. AB",
+            "location": "Göteborg",
+            "business": "Tillverkar herr- och damkläder",
+            "contact": {
+                "office": "Karl Johansg. 29",
+                "phone": [
+                    "172655"
+                ],
+                "telegraph": "Lejonkläder, Göteborg",
+                "postgiro": "40326"
+            },
+            "financials": {
+                "capital": "500,000 kr",
+                "employees": {
+                    "industriarb.": 350
+                },
+                "annual_turnover": "4,000,000 kr"
+            },
+            "foundation_year": 1915,
+            "corporation_year": 1924,
+            "board": [
+                {
+                    "name": "David Lindström",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Nils Lindström",
+                    "role": "dir."
+                },
+                {
+                    "name": "Harald Lundberg",
+                    "role": "herr"
+                }
+            ]
+        },
+        "2": {
+            "name": "Konfektions AB. Lyon",
+            "location": "Göteborg",
+            "business": "Tillverkar herr- och damkläder"
+        },
+        "3": {
+            "name": "Konfektions AB. Oscar Molander",
+            "location": "Alingsås",
+            "business": "Tillverkar herr- och gosskläder",
+            "contact": {
+                "office": "Oscar Molander, Alingsås",
+                "phone": [
+                    "Kabom"
+                ],
+                "postgiro": "20600"
+            },
+            "financials": {
+                "capital": "1,280,000 kr",
+                "employees": {
+                    "industriarb.": 405
+                }
+            },
+            "foundation_year": 1906
+        },
+        "4": {
+            "name": "Konfektions AB. Noreka",
+            "location": "Lund",
+            "business": "Tillverkar gabardinrockar, trenchcoats, vindtygs- och gummirockar, motorkläder m. m.",
+            "contact": {
+                "phone": [
+                    "10067"
+                ],
+                "postgiro": "90970"
+            },
+            "financials": {
+                "capital": "200,000 kr"
+            },
+            "foundation_year": 1935
+        },
+        "5": {
+            "name": "Konfektions AB. Perfekt",
+            "location": "Landskrona",
+            "business": "Tillverkar herr- och gosskläder",
+            "contact": {
+                "phone": [
+                    "1555"
+                ],
+                "postgiro": "73430"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb.": 30
+                }
+            },
+            "foundation_year": 1928
+        },
+        "6": {
+            "name": "Konfektions AB. Robby",
+            "location": "Borås",
+            "business": "Tillverkar goss- och flickkläder",
+            "contact": {
+                "phone": [
+                    "11635"
+                ],
+                "postgiro": "93219"
+            },
+            "financials": {
+                "capital": "250,000 kr",
+                "annual_production_value": "1,700,000 kr"
+            },
+            "foundation_year": 1935
+        },
+        "7": {
+            "name": "Konfektions AB. Salén",
+            "location": "Stockholm",
+            "business": "Damkonfektionsfabrik",
+            "contact": {
+                "office": "N. Stationsg. 79-81",
+                "phone": [
+                    "230950"
+                ],
+                "telegraph": "Salenko, Stockholm",
+                "postgiro": "1779"
+            },
+            "financials": {
+                "capital": "380,000 kr",
+                "employees": {
+                    "industriarb.": 300
+                },
+                "annual_turnover": "6,000,000 kr"
+            },
+            "foundation_year": 1914
+        },
+        "8": {
+            "name": "Konfektions AB. S:t Erik",
+            "location": "Stockholm",
+            "business": "Fabriker för tillverkning av herrkläder, skjortor och klänningar samt för överdragskläder m. m.",
+            "contact": {
+                "office": "Pubsonfabriken, Flemingg. 77; Slitmanfabriken, Hornsg. 54"
+            },
+            "corporation_year": 1932,
+            "board": [
+                {
+                    "name": "Albin Johansson",
+                    "role": "ordf."
+                }
+            ]
+        },
+        "9": {
+            "name": "Konfektions AB. Tonex",
+            "location": "Ulricehamn",
+            "business": "Tillverkar herr- och gosskläder samt damblazers, damdräkter och flickkappor"
+        },
+        "10": {
+            "name": "Konfektions AB. J. A. Wettergren & Co.",
+            "location": "Göteborg"
+        }
+    }
+}

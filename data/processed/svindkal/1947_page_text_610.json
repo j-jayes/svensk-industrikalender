@@ -1,0 +1,181 @@
+{
+    "original": "Schumacher—S egerström\n\nC. W. Schumacher AB.,\n\nStockholm.\n\nBageri. Tillverkar mjukt bröd och\nkonditorivaror.\n\nKontor o. försäljn.: Norrlandsg. 17.\nTelegr.-adr.: Schumacher, Stockholm.\nTelefon: 100417 o. 100470. Postgiro: 933.\n\nAkt.-kap.: 250,100 kr. Tillv.-värde pr\når: 1,500,000 kr. — Firman etabl. 1864,\nbolag 1930.\n\nDisp.: O. Ankarlöv.\n\n\"AB. Schwartzman &amp; Nordström,\n\nUddevalla.\n\nHerrkonfektionsfabrik. Tillverkar\nkostymer, paletåer, ulstrar och trenchcoats.\nVarumärke: »Tiger».\n\nTelegr.-adr.: Schwartzman, Uddevalla.\nTelefon: »Schwartzman &amp; Nordström».\nPostgiro: 32196.\n\nAkt.-kap.: 2,000,000 kr. Antal\nindustriarb.: 817. Tillv.-värde pr år: 11,000,000\nkr. — Firman grundades 1903.\n\nStyrelse: dir. Marcus Fr. Schwartzman\n(ordf.), disp. Leon Schwartzman, disp.\nRob. Schwartzman.\n\nVerkst. dir.: M. Fr. Schwartzman.\n\nV. verkst. dir.: Rob. Schwartzman.\n\nFörsäljn.-chef: L. Schwartzman.\n\n\"Georg Schönander, Stockholm.\n\nTillverkar röntgenapparater och\nröntgenrör.\n\nKontor: Kungsbroplan 3. Telegr.-adr.:\nInstrument, Stockholm. Telefon: 520470.\nPostgiro: 762.\n\nAntal industriarb.: 100. — Firman\netabl. 1921.\n\nÄgare o. chef: ing. Georg Schönander.\n\nR. Schönwell, Mössfabrik,\n\nMalmö.\n\nTillverkar sport-, skid-, uniforms- och\nskolmössor.\n\nKontor: S. Förstadsg. 23 A. Telefon:\n20635. Postgiro: 37908.\n\nAntal industriarb.: 30. Tillv.-värde pr\når: 250,000 kr. — Firman etabl. 1934.\n\nÄgare o. chef: fabr. R. Schönwell.\n\n\"Scott &amp; Svedman, Snickerifabrik,\n\nStureby.\n\nTillverkar möbler samt inredningar för\naffärer, biografer, bankkontor och skolor\nvid fabrik i Stureby (Stockholm).\n\nTelefon: Stockholm 494008-09.\nPostgiro: 3764. — Antal industriarb.: 15.\n\nTillv.-värde pr år: 250,000 kr. — Firman\netabl. 1928.\n\nÄgare o. chefer: fabr. Gunnar Scott o.\nfabr. Erik Svedman.\n\n\"See Fabriks AB., Sandviken.\n\nRördrageri och\nstålmanufakturerings-verk i Sandviken (Gävleb. l.).\n\nTillverkar kalldragna stålrör till t. ex.\ncyklar, bilar och flygplan, marintuber, rör\ntill den mek. och elektr.\nverkstadsindustrien m. m. samt rörmanufaktur,\nstänkskärmar och hjulringar, paraplyspröt,\nskidstavar, sjukbårar och vagnar,\npilbågar m. m. (märke: »Seefab»).\n\nTelegr.-adr.: See, Sandviken. Telefon:\n4070. Postgiro: 9993. Representanter: AB.\nSandvikens Lager, Stockholm, John\nEricssonsg. 10, telefon: 520080; AB.\nSandviksstål, Göteborg, N. Hamng. 36,\ntelefon: 172610; Edw. H. Thomée AB.,\nMalmö, Engelbrektsg. 11, telefon:\n»Tho-mées Järn»; Sandvikslagret i Sundsvall\nAB., telefon: 55410; Sandviksstål\nJönköping AB., Jönköping, telefon: 6520.\n\nAkt.-kap.: 2,160,000 kr. Antal\nindustriarb.: 655. Tillv.-värde pr år: 10,000,000\nkr.\n\nBolaget grundat 1895.\n\nStyrelse: dir. Erik W. Forsberg (ordf.},\ndir. Gunnar Dalen, överste E. G. Erici,\ndisp. Nils J. Gille, civiling. S. Håål.\n\nVerkst. dir. o. disp.: Nils J. Gille.\n\nFörsäljn.-chef: Henrik Edlund.\n\nÖvering.: Roy Schultz.\n\n(Jfr annons nr 68.)\n\nSeffle, se Säffle.\n\n\"AB. Segerbioms Mek. Verkstad,\n\nLingbo.\n\nSe AB. Lingbo Verkstäder, Lingbo.\n\n\"Segerdahls Läderfabrik, Linköping.\n\nSe Handelsbolaget Segerdahls\nLäderfabrik, Linköping.\n\n\"AB. W. Segerströms Metallvaru-\n\nfabrik, Ängelholm.\n\nTillverkar velocipedtillbehör såsom\npumpar och pumpfästen, slangventiler\nsamt reflexer. Varumärken: »WS» och\n»SeGe».\n\nTelefon: 137 o. 637. Postgiro: 91450.\n\nAkt.-kap.: 150,000 kr. Antal\nindustriarb.: 40. Tillv.-värde pr år: 1,000,000 kr.\n\nFirman etabl. 1902, bolag 1944.",
+    "structured": {
+        "firms": [
+            {
+                "name": "C. W. Schumacher AB.",
+                "location": "Stockholm",
+                "business": "Bageri",
+                "products": "Tillverkar mjukt bröd och konditorivaror",
+                "contact": {
+                    "office": "Norrlandsg. 17",
+                    "phone": [
+                        "100417",
+                        "100470"
+                    ],
+                    "postgiro": "933",
+                    "telegraph": "Schumacher, Stockholm"
+                },
+                "financials": {
+                    "capital": "250,100 kr",
+                    "annual_turnover": "1,500,000 kr"
+                },
+                "foundation_year": 1864,
+                "corporation_year": 1930,
+                "board": [
+                    {
+                        "name": "O. Ankarlöv",
+                        "role": "Disp."
+                    }
+                ]
+            },
+            {
+                "name": "AB. Schwartzman & Nordström",
+                "location": "Uddevalla",
+                "business": "Herrkonfektionsfabrik",
+                "products": "Tillverkar kostymer, paletåer, ulstrar och trenchcoats",
+                "contact": {
+                    "telegraph": "Schwartzman, Uddevalla",
+                    "phone": "Schwartzman & Nordström",
+                    "postgiro": "32196"
+                },
+                "financials": {
+                    "capital": "2,000,000 kr",
+                    "annual_turnover": "11,000,000 kr"
+                },
+                "foundation_year": 1903,
+                "board": [
+                    {
+                        "name": "Marcus Fr. Schwartzman",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Leon Schwartzman",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Rob. Schwartzman",
+                        "role": "disp."
+                    }
+                ],
+                "director": "M. Fr. Schwartzman",
+                "managing_director": "Rob. Schwartzman",
+                "sales_manager": "L. Schwartzman"
+            },
+            {
+                "name": "Georg Schönander",
+                "location": "Stockholm",
+                "business": "Tillverkar röntgenapparater och röntgenrör",
+                "contact": {
+                    "office": "Kungsbroplan 3",
+                    "telegraph": "Instrument, Stockholm",
+                    "phone": "520470",
+                    "postgiro": "762"
+                },
+                "financials": {
+                    "employees": {
+                        "antal": 100
+                    }
+                },
+                "foundation_year": 1921,
+                "director": "ing. Georg Schönander"
+            },
+            {
+                "name": "R. Schönwell, Mössfabrik",
+                "location": "Malmö",
+                "business": "Tillverkar sport-, skid-, uniforms- och skolmössor",
+                "contact": {
+                    "office": "S. Förstadsg. 23 A",
+                    "phone": "20635",
+                    "postgiro": "37908"
+                },
+                "financials": {
+                    "annual_production_value": "250,000 kr"
+                },
+                "foundation_year": 1934,
+                "director": "fabr. R. Schönwell"
+            },
+            {
+                "name": "Scott & Svedman, Snickerifabrik",
+                "location": "Stureby",
+                "business": "Tillverkar möbler samt inredningar för affärer, biografer, bankkontor och skolor",
+                "contact": {
+                    "phone": "Stockholm 494008-09",
+                    "postgiro": "3764"
+                },
+                "financials": {
+                    "annual_production_value": "250,000 kr"
+                },
+                "foundation_year": 1928,
+                "owners": [
+                    "fabr. Gunnar Scott",
+                    "fabr. Erik Svedman"
+                ]
+            },
+            {
+                "name": "See Fabriks AB.",
+                "location": "Sandviken",
+                "business": "Rördrageri och stålmanufakturerings-verk",
+                "products": "Tillverkar kalldragna stålrör till t. ex. cyklar, bilar och flygplan m.m.",
+                "contact": {
+                    "telegraph": "See, Sandviken",
+                    "phone": "4070",
+                    "postgiro": "9993"
+                },
+                "financials": {
+                    "capital": "2,160,000 kr",
+                    "employees": {
+                        "antal": 655
+                    },
+                    "annual_turnover": "10,000,000 kr"
+                },
+                "foundation_year": 1895,
+                "board": [
+                    {
+                        "name": "Erik W. Forsberg",
+                        "role": "dir. (ordf.)"
+                    },
+                    {
+                        "name": "Gunnar Dalen",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "överste E. G. Erici",
+                        "role": "övering."
+                    },
+                    {
+                        "name": "Nils J. Gille",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "S. Håål",
+                        "role": "civiling."
+                    }
+                ],
+                "manager": "Roy Schultz"
+            },
+            {
+                "name": "AB. W. Segerströms Metallvarufabrik",
+                "location": "Ängelholm",
+                "business": "Tillverkar velocipedtillbehör såsom pumpar och pumpfästen, slangventiler samt reflexer",
+                "products": "Varumärken: »WS» och »SeGe»",
+                "contact": {
+                    "phone": [
+                        "137",
+                        "637"
+                    ],
+                    "postgiro": "91450"
+                },
+                "financials": {
+                    "capital": "150,000 kr",
+                    "employees": {
+                        "antal": 40
+                    },
+                    "annual_turnover": "1,000,000 kr"
+                },
+                "foundation_year": 1902,
+                "corporation_year": 1944
+            }
+        ]
+    }
+}

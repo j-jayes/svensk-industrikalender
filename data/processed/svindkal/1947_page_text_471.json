@@ -1,0 +1,228 @@
+{
+    "original": "Lindgren—Lindqvist\n\nAB. N. O. Lindgrens Maskinfabrik,\n\nMalmö.\n\nTillverkar kaffe-, kött-, krydd-,\nsocker- och pulveriseringskvarnar samt\nvispmaskiner m. m. Varumärke: »Nolma».\n\nKontor: Almedalsg. 4. Telegr.-adr.:\nMaskinlindgren, Malmö. Telefon: 21247.\nPostgiro: 24442.\n\nAkt.-kap.: 66,000 kr. Antal\nindustriarb.: 35. Tillv.-värde pr år: 300,000 kr.\n\n—\tFirman etabl. 1891, bolag 1922.\n\nStyrelse o. verkst. dir.: ing. Edmund\n\nLindgren.\n\nLindholm &amp; Wikström,\n\nStockholm.\n\nElektromek. verkstad. Tillverkar\npumpar, elektr. motorer, strykjärn, fläktar\noch ventilatorer m. m.\n\nKontor: Odeng. 14. Telegr.-adr.:\nLihd-wikmaskin, Stockholm. Telefon: 335558\no. 311556. Postgiro: 52043. — Antal\nindustriarb.: 22. Tillv.-värde pr år: 130,000\nkr. Firman etabl. 1885.\n\nÄgare o. chef: ing. Johan Wikström.\n\nAB. Lindholms Instrumentfabrik,\n\nStockholm.\n\nFinmek. verkstad. Tillverkar\nritinstru-ment.\n\nKontor: Bolidenvägen 22, Enskede.\nTelefon: 481214. Postgiro: 51099. —\nAkt.-kap.: 20,000 kr. Antal industriarb.: 20.\n\n—\tFirman etabl. 1851, bolag 1944.\n\nVerkst. dir.: Sven Fröde.\n\n*AB. Lindholmens Varv, Göteborg.\n\nSkeppsvarv och mek. verkstad,\ntorrdocka och flytdocka. Bygger och\nreparerar krigsfartyg, passagerare- och\nlastfartyg: tillverkar ångmaskiner, ångpannor\noch järnkonstruktioner.\n\nTelegr.-adr. o. telefon: Lindholmen,\nGöteborg. Postgiro: 42900.\n\nAkt.-kap.: 700,000 kr. Antal\nindustriarb.: 1,200. Tillv.-värde pr år: 25,000,000\nkr. — Varvet anlagt 1844.\n\nStyrelse: bankdir. Anton Dahlin\n(ordf.), dir. Vilhelm Björkman, dir.\nRobert Fredrikson, dir. Erik Larsson, dir.\nGustav Raabe.\n\nVerkst. dir.: Erik Larsson.\n\n* Lindmarks Snickerifabrik,\nBröderna, Jokkmokk.\n\nSe Bröderna Lindmarks Snickerifabrik,\nJokkmokk.\n\n\"AB. C. &lt;1. Lindners Pelsvarulndustri,\n\nStockholm.\n\nTillverkar pälsvaror.\nKontor: Birger Jarlsg. 18.\nTelegr.-adr.: Ilindner, Stockholm. Telefon:\n670275. Postgiro: 2495.\n\nAkt.-kap.: 60,000 kr. Antal\nindustriarb.: 15. —- Firman etabl. 1882.\n\nStyrelse: disp. Curt Lindner (ordf.),\nherr Alfred Danielson, fru Viran\nLindner.\n\nVerkst. dir.: Curt Lindner.\n\n\"Lindofors Möbelfabrik, Gustaf\nJonsson &amp; Son, Gisebo.\n\nTillverkar sovrums- och\nkompletteringsmöbler vid fabrik i Gisebo\n(Jönköp. l.).\n\nKontor: Gisebo. Telefon: Huskvarna 2.\nPostgiro: 90282. — Antal industriarb.:\n15. Tillv.-värde pr år: 200,000 kr. —\nFirman etabl. 1919.\n\nDelägare o. chef: fru Kerstin Jonsson.\n\nLindqvist, Bröderna, Säter.\nSe Bröderna Lindqvist, Säter.\n\nLindqulst &amp; Larsson, Gnosjö.\n\nLädervarufabriker i Gnosjö (Jönköp. l.)\noch i Vessingebro (Hallands l.).\nTillverkar portmonnäer och plånböcker m. m.\nSpecialitet: reklamartiklar i skinn.\n\nKontor: Gnosjö. Telefon: 68. Postgiro:\n143126. — Antal industriarb.: 30.\nTillv.-värde pr år: 500,000 kr. — Firman etabl.\n1938.\n\nÄgare o. chefer: fabr. Henry Lindquist\no. fabr. Holger Larsson.\n\n\"Lindqvists Smidesfabrik, Grythyttan.\n\nTillverkar hästskor, spec. stålade\nvin-tergrävskor, stålmöbler såsom\nträdgårds-och industrimöbler, skolbänkar samt\nredskapsvagnar och slangrullar för\nbrandkårer vid mek. verkstad i Grythyttan\n(Örebro l.).\n\nTelegr.-adr.: Lindqvists, Grythyttan.\nTelefon: 54 o. 58. Postgiro: 34028. —\nAntal industriarb.: 38. Tillv.-värde pr år:\n800,000 kr. — Firman etabl. 1895.\n\nÄgare o. chef: fabr. Artur Lindqvist.\n(Jfr annons nr 49.)\n\nAB. C. Lindqvists Mek. Verkstad,\n\nBorensberg.\n\nTillverkar nitar av järn och metall,\n\nstållegerade tegelmunstycken samt utför\npress- och plåtarbeten m. m. vid mek.\nverkstad i Borensberg (Östergötl. L),",
+    "structured": {
+        "1": {
+            "name": "AB N. O. Lindgrens Maskinfabrik",
+            "location": "Malmö",
+            "business": "Tillverkar kaffe-, kött-, krydd-, socker- och pulveriseringskvarnar samt vispmaskiner m. m.",
+            "products": "Varumärke: »Nolma»",
+            "contact": {
+                "office": "Almedalsg. 4",
+                "phone": [
+                    "21247"
+                ],
+                "postgiro": "24442",
+                "telegraph": "Maskinlindgren, Malmö"
+            },
+            "financials": {
+                "capital": "66,000 kr",
+                "employees": {
+                    "industriarb": 35
+                },
+                "annual_turnover": "300,000 kr",
+                "annual_production_value": "300,000 kr"
+            },
+            "foundation_year": 1891,
+            "corporation_year": 1922,
+            "board": [
+                {
+                    "name": "ing. Edmund Lindgren",
+                    "role": "Styrelse o. verkst. dir."
+                }
+            ]
+        },
+        "2": {
+            "name": "Lindholm & Wikström",
+            "location": "Stockholm",
+            "business": "Elektromek. verkstad. Tillverkar pumpar, elektr. motorer, strykjärn, fläktar och ventilatorer m. m.",
+            "contact": {
+                "office": "Odeng. 14",
+                "phone": [
+                    "335558",
+                    "311556"
+                ],
+                "postgiro": "52043",
+                "telegraph": "Lihd-wikmaskin, Stockholm"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 22
+                },
+                "annual_turnover": "130,000 kr"
+            },
+            "foundation_year": 1885,
+            "manager": "ing. Johan Wikström"
+        },
+        "3": {
+            "name": "AB Lindholms Instrumentfabrik",
+            "location": "Stockholm",
+            "business": "Finmek. verkstad. Tillverkar ritinstrument",
+            "contact": {
+                "office": "Bolidenvägen 22, Enskede",
+                "phone": [
+                    "481214"
+                ],
+                "postgiro": "51099"
+            },
+            "financials": {
+                "capital": "20,000 kr",
+                "employees": {
+                    "industriarb": 20
+                }
+            },
+            "foundation_year": 1851,
+            "corporation_year": 1944,
+            "manager": "Sven Fröde"
+        },
+        "4": {
+            "name": "AB Lindholmens Varv",
+            "location": "Göteborg",
+            "business": "Skeppsvarv och mek. verkstad, torrdocka och flytdocka. Bygger och reparerar krigsfartyg, passagerare- och lastfartyg: tillverkar ångmaskiner, ångpannor och järnkonstruktioner",
+            "contact": {
+                "telegraph": "Lindholmen, Göteborg",
+                "postgiro": "42900"
+            },
+            "financials": {
+                "capital": "700,000 kr",
+                "employees": {
+                    "industriarb": 1,
+                    "**": 200
+                },
+                "annual_turnover": "25,000,000 kr"
+            },
+            "foundation_year": 1844,
+            "board": [
+                {
+                    "name": "bankdir. Anton Dahlin",
+                    "role": "styrelse"
+                },
+                {
+                    "name": "dir. Vilhelm Björkman",
+                    "role": "styrelse"
+                },
+                {
+                    "name": "dir. Robert Fredrikson",
+                    "role": "styrelse"
+                },
+                {
+                    "name": "dir. Erik Larsson",
+                    "role": "styrelse"
+                },
+                {
+                    "name": "dir. Gustav Raabe",
+                    "role": "styrelse"
+                }
+            ],
+            "manager": "Erik Larsson"
+        },
+        "5": {
+            "name": "AB C.&lt;1. Lindners Pelsvarulndustri",
+            "location": "Stockholm",
+            "business": "Tillverkar pälsvaror",
+            "contact": {
+                "office": "Birger Jarlsg. 18",
+                "phone": [
+                    "670275"
+                ],
+                "postgiro": "2495",
+                "telegraph": "Ilindner, Stockholm"
+            },
+            "financials": {
+                "capital": "60,000 kr",
+                "employees": {
+                    "industriarb": 15
+                }
+            },
+            "foundation_year": 1882,
+            "board": [
+                {
+                    "name": "disp. Curt Lindner",
+                    "role": "styrelse"
+                },
+                {
+                    "name": "herr Alfred Danielson",
+                    "role": "styrelse"
+                },
+                {
+                    "name": "fru Viran Lindner",
+                    "role": "styrelse"
+                }
+            ],
+            "manager": "Curt Lindner"
+        },
+        "6": {
+            "name": "Lindofors Möbelfabrik, Gustaf Jonsson& Son",
+            "location": "Gisebo",
+            "business": "Tillverkar sovrums- och kompletteringsmöbler vid fabrik i Gisebo (Jönköp. l.)",
+            "contact": {
+                "office": "Gisebo",
+                "phone": [
+                    "Huskvarna 2"
+                ],
+                "postgiro": "90282"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "200,000 kr"
+            },
+            "foundation_year": 1919,
+            "manager": "fru Kerstin Jonsson"
+        },
+        "7": {
+            "name": "Lindqulst& Larsson",
+            "location": "Gnosjö",
+            "business": "Lädervarufabriker i Gnosjö (Jönköp. l.) och i Vessingebro (Hallands l.). Tillverkar portmonnäer och plånböcker m. m. Specialitet: reklamartiklar i skinn.",
+            "contact": {
+                "office": "Gnosjö",
+                "phone": [
+                    "68"
+                ],
+                "postgiro": "143126"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "500,000 kr"
+            },
+            "foundation_year": 1938,
+            "owners": [
+                "fabr. Henry Lindquist",
+                "fabr. Holger Larsson"
+            ]
+        },
+        "8": {
+            "name": "Lindqvists Smidesfabrik, Grythyttan",
+            "location": "Grythyttan",
+            "business": "Tillverkar hästskor, spec. stålade vin-tergrävskor, stålmöbler såsom trädgårds-och industrimöbler, skolbänkar samt redskapsvagnar och slangrullar för brandkårer vid mek. verkstad i Grythyttan (Örebro l.).",
+            "contact": {
+                "telegraph": "Lindqvists, Grythyttan",
+                "phone": [
+                    "54",
+                    "58"
+                ],
+                "postgiro": "34028"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 38
+                },
+                "annual_turnover": "800,000 kr"
+            },
+            "foundation_year": 1895,
+            "manager": "fabr. Artur Lindqvist"
+        },
+        "9": {
+            "name": "AB C. Lindqvists Mek. Verkstad",
+            "location": "Borensberg",
+            "business": "Tillverkar nitar av järn och metall, stållegerade tegelmunstycken samt utför press- och plåtarbeten m. m. vid mek. verkstad i Borensberg (Östergötl. L).",
+            "financials": {
+                "employees": {
+                    "industriarb": "**"
+                }
+            }
+        }
+    }
+}

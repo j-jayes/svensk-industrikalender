@@ -1,0 +1,192 @@
+{
+    "original": "M öbe lindustrihom pani e t—Möller\n\nTelefon: »Åbergsmöbler». Postgiro:\n86189. — Antal industriarb.: 65.\nTillv.-värde pr år: 1,360,000 kr. — Firman\netabl. 1932.\n\nÄgare o. chef: grossh. Georg Åberg.\n\n\"AB. Möbelindustrikompaniet,\n\nTranås.\n\nTillverkar möbler för kontor, bostäder,\nlunchrum, konditorier och restauranger.\n\nTelegr.-adr. o. telefon:\nMöbelkompaniet, Tranås. Postgiro: 29436.\n\nAkt.-kap.: 250,000 kr. Antal\nindustriarb.: 100. Tillv.-värde pr år: 1,800,000 kr.\n\n—\tBolaget grundat 1907.\n\nStyrelse: dir. Elis Kågén (ordf.),\nfröken Ester Kågén, disp. Alfr. Rydén.\nVerkst. dir.: Elis Kågén.\nDisp.: Alfr. Rydén.\nVerkstadschef: Ruben Andersson.\nKamrer: Eric Furne.\n\n\"Möbelkompaniet, Åstorp.\n\nTillverkar möbler vid fabrik i Åstorp\n(Kristianst. l.).\n\nTelefon: 191 o. 577. Postgiro: 14476.\n\n—\tAntal industriarb.: 60. Tillv.-värde pr\når: 500,000 kr. — Firman etabl. 1921.\n\nÄgare o. chefer: dir. Carl Sewring o.\ndir. Hilding Andersson.\n\nFörsäljn.-chef: Rudolf Dahlin.\n\nAB. Möbelkompaniet Rex,\n\nYaggeryd.\n\nTillverkar möbler vid fabrik i\nVagge-ryd (Jönköp. l.).\n\nTelefon: 5. Postgiro: 163410. —\nAkt.-kap.: 120,000 kr. Antal industriarb.: 45.\n\n—\tBolaget grundat 1930.\nVerkst. dir.: Viktor Olson.\n\n\"AB. Möbellås, Eskilstuna.\n\nTillverkar alla slags möbellås,\ngarage-och kammarlås, deuxbattantlås,\nfartygs-och postfackslås, nycklar samt pressade\nmassartiklar i järn och metall.\n\nTelegr.-adr.: Möbellås, Eskilstuna.\nTelefon: 37505. Postgiro: 6690.\nRepresentant i Stockholm: AB. Leon Andersson,\nMästersamuelsg. 56 B. Telefon: 112202.\n\nAkt.-kap.: 75,000 kr. Antal\nindustriarb.: 75. Tillv.-värde pr år: 835,000 kr.\n\n—\tBolaget grundat 1918.\n\nStyrelse: fru Sigrid Johansson (ordf.),\ning. Gunnar Johansson, verkm. Ernst\nNykvist.\n\nVerkst. dir.: fru Sigrid Johansson.\n\n\"Möbeltygs- och Mattfabriksbolaget,\n\nGöteborg.\n\nSe Nya Svenska Möbeltygs- och\nMattfabriks AB., Göteborg.\n\n\"Möbel verkstäder na Falun AB.,\n\nFalun.\n\nTillverkar möbler samt kontors- och\naffärsinredningar. Specialitet:\ninredningar.\n\nTelefon: 1196. Postgiro: 28658. —\nAkt.-kap.: 50,000 kr. Antal industriarb.:\n8. Tillv.-värde pr år: 80,000 kr. —\nFirman grundad 1872, nuv. bolag 1942.\n\nStyrelse: fabr. Emil Karlsson (ordf.),\naffärsförest. Emil Lindberg, kontorist\nWiola Mattsson.\n\nVerkst. dir.: Emil Karlsson.\n\nMöbler &amp; Träslöjd AB., Äng.\n\nTillverkar möbler, kanoter och\nslöjdvaror vid fabrik i Äng (Jönköp. l.).\n\nTelefon: 18 o. 60. Postgiro: 277270. —\nAkt.-kap.: 30,500 kr. Antal industriarb.:\n20. Tillv.-värde pr år: 325,000 kr. —\nBolaget grundat 1930 under namn AB.\nTräslöjd, nuv. namn 1945.\n\nDisp.: Ingemar Uhr.\n\n\"Möllefors Fabriks AB.,\n\nAnderstorp.\n\nMek. verkstad och snickerifabrik i\nAnderstorp (Jönköp. l.). Tillverkar\nresår-bottensängar och ottomaner i trä och\njärn.\n\nTelefon: 8. Postgiro: 71008. —\nAkt.-kap.: 135,000 kr. Antal industriarb.: 25.\n— Firman etabl. 1887, bolag 1938.\n\nChefer: fröken Anna Andersson (ordf.)\no. fabr. Axel Andersson.\n\nHenning Möllers Mek. Verkstad,\n\nJ önköping.\n\nUtför järnkonstruktioner till\nhusbyggnader, grovplåtsarbeten såsom cisterner,\nkokare och mindre ångpannor samt\ntillverkar såsom specialitet\nuppvärmningsaggregat för snickerier såsom limspisar,\nlimhallar, värmebord och limkokare.\n\nTelefon: 2174. Postgiro:\t—\n\nArb.-antal: 10. Tillv.-värde pr är: ö5,000\nkr. — Firman etabl. 1919.\n\nÄgare o. chef: fabr. Georg Möller.\n\n*",
+    "structured": {
+        "1": {
+            "name": "AB. Möbelindustrikompaniet",
+            "location": "Tranås",
+            "business": "Tillverkar möbler för kontor, bostäder, lunchrum, konditorier och restauranger.",
+            "products": "Möbler för olika ändamål.",
+            "contact": {
+                "office": "Tranås",
+                "phone": [
+                    "191",
+                    "577"
+                ],
+                "postgiro": "29436"
+            },
+            "financials": {
+                "capital": "250,000 kr",
+                "employees": {
+                    "industriarb": 100
+                },
+                "annual_turnover": "1,800,000 kr"
+            },
+            "foundation_year": 1932,
+            "board": [
+                {
+                    "name": "Elis Kågén",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Ester Kågén",
+                    "role": "disp."
+                },
+                {
+                    "name": "Alfr. Rydén",
+                    "role": "disp."
+                }
+            ],
+            "owners": [
+                "grossh. Georg Åberg"
+            ],
+            "director": "Elis Kågén"
+        },
+        "2": {
+            "name": "AB. Möbelkompaniet Rex",
+            "location": "Yaggeryd",
+            "business": "Tillverkar möbler vid fabrik i Vagger yd (Jönköp. l.).",
+            "contact": {
+                "office": "Yaggeryd",
+                "phone": "5",
+                "postgiro": "163410"
+            },
+            "financials": {
+                "capital": "120,000 kr",
+                "employees": {
+                    "industriarb": 45
+                }
+            },
+            "foundation_year": 1930,
+            "board": [
+                {
+                    "name": "Viktor Olson",
+                    "role": "Verkst. dir."
+                }
+            ],
+            "owners": [
+                "dir. Carl Sewring",
+                "dir. Hilding Andersson"
+            ]
+        },
+        "3": {
+            "name": "AB. Möbellås",
+            "location": "Eskilstuna",
+            "business": "Tillverkar alla slags möbellås, garage-och kammarlås, deuxbattantlås, fartygs-och postfackslås, nycklar samt pressade massartiklar i järn och metall.",
+            "contact": {
+                "office": "Eskilstuna",
+                "phone": "37505",
+                "postgiro": "6690"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "employees": {
+                    "industriarb": 75
+                },
+                "annual_turnover": "835,000 kr"
+            },
+            "foundation_year": 1918,
+            "board": [
+                {
+                    "name": "fru Sigrid Johansson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "ing. Gunnar Johansson",
+                    "role": "disp."
+                }
+            ],
+            "director": "fru Sigrid Johansson"
+        },
+        "4": {
+            "name": "Möbelverkstäderna Falun AB.",
+            "location": "Falun",
+            "business": "Tillverkar möbler samt kontors- och affärsinredningar. Specialitet: inredningar.",
+            "contact": {
+                "office": "Falun",
+                "phone": "1196",
+                "postgiro": "28658"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 8
+                },
+                "annual_turnover": "80,000 kr"
+            },
+            "foundation_year": 1942,
+            "board": [
+                {
+                    "name": "fabr. Emil Karlsson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Emil Lindberg",
+                    "role": "affärsförest."
+                }
+            ],
+            "director": "Emil Karlsson"
+        },
+        "5": {
+            "name": "Möbler & Träslöjd AB.",
+            "location": "Äng",
+            "business": "Tillverkar möbler, kanoter och slöjdvaror vid fabrik i Äng (Jönköp. l.).",
+            "contact": {
+                "office": "Äng",
+                "phone": [
+                    "18",
+                    "60"
+                ],
+                "postgiro": "277270"
+            },
+            "financials": {
+                "capital": "30,500 kr",
+                "employees": {
+                    "industriarb": 20
+                },
+                "annual_turnover": "325,000 kr"
+            },
+            "foundation_year": 1945,
+            "director": "Ingemar Uhr"
+        },
+        "6": {
+            "name": "Möllefors Fabriks AB.",
+            "location": "Anderstorp",
+            "business": "Mek. verkstad och snickerifabrik i Anderstorp (Jönköp. l.). Tillverkar resår-bottensängar och ottomaner i trä och järn.",
+            "contact": {
+                "office": "Anderstorp",
+                "phone": "8",
+                "postgiro": "71008"
+            },
+            "financials": {
+                "capital": "135,000 kr",
+                "employees": {
+                    "industriarb": 25
+                }
+            },
+            "foundation_year": 1938,
+            "board": [
+                {
+                    "name": "fröken Anna Andersson",
+                    "role": "ordf."
+                }
+            ]
+        },
+        "7": {
+            "name": "Henning Möllers Mek. Verkstad",
+            "location": "Jönköping",
+            "business": "Utför järnkonstruktioner till husbyggnader, grovplåtsarbeten såsom cisterner, kokare och mindre ångpannor samt tillverkar såsom specialitet uppvärmningsaggregat för snickerier såsom limspisar, limhallar, värmebord och limkokare.",
+            "contact": {
+                "office": "Jönköping",
+                "phone": "2174"
+            },
+            "financials": {
+                "employees": {
+                    "antal": 10
+                },
+                "annual_turnover": "ö5,000 kr"
+            },
+            "foundation_year": 1919,
+            "director": "fabr. Georg Möller"
+        }
+    }
+}

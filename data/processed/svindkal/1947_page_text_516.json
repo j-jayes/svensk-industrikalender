@@ -1,0 +1,154 @@
+{
+    "original": "Modelia—Monark\n\nmonteringsfärdiga hus. Varunamn:\n»Tree-tex».\n\nKontor: Stockholm, Strandvägen 1.\nTelefon: 670040.\n\nAkt.-kap.: 3,600,000 kr. Antal\nindustriarb.: 300. Årstillv.: 35,000 ton wallboard.\n— Bolaget grundat 1929.\n\nStyrelse: adv. Ernst Treffenberg\n(ordf.), jägmäst. Mauritz Carlgren,\ngene-rallöjtn. T. Friis, dir. Carl Kempe, fil.\ndr Erik Kempe, civiling. Ragnar Kempe,\ndir. Ragnar Lagergren.\n\nVerkst. dir.: Ragnar Lagergren.\n\nDisp.: civiling. Edvin Adner.\n\nDriftsing.: Hj. öhgren.\n\n*AB. Modelia, Malmö.\n\nDamkonfektionsfabrik. Tillverkar\nklänningar.\n\nKontor: Stora Nygatan 58. Telefon:\n16415. Postgiro: 149086. — Akt.-kap.:\n25,000 kr. Antal industriarb.: 88.\nTillv.-värde pr år: 1,000,000 kr. — Bolaget\ngrundat 1944.\n\nStyrelse o. verkst. dir.: disp. Bengt\nPåhlsson.\n\nDriftsing.: Åke Rahlskog.\n\n\"AB. Modellkonfektion, Stockholm.\n\nTillverkar klänningar.\nKontor: Norra Stationsg. 79—81.\nTelefon: 337880. Postgiro: 194443.\n\nAkt.-kap.: 25,000 kr. Antal\nindustriarb.: 17. Tillv.-värde pr år: 150,000 kr.\n— Bolaget, grundat 1936, är dotterbolag\ntill Konfektions AB. Salén, Stockholm.\n\nStyrelse: dir. Sven Salén (ordf.), adv.\nGösta Ekelund, dir. Sixten Nilson.\nVerkst. dir.: Sven Salén.\n\nAB. Paul Modig, Härnösand.\n\nTäck- och madrassfabrik. Tillverkar\ntäcken, madrasser, kuddar, vadd samt\nrullgardiner och skjortor. Bolaget driver\nsåsom huvudrörelse engroshandel med\ntextilvaror.\n\nHuvudkontor: Härnösand.\nTelegr.-adr.: Paulmodig, Härnösand. Telefon:\n3400 o. 3440. Postgiro: 7649.\nNederlagskontor: Skellefteå, telefon: 11360.\n\nAkt.-kap.: 200,000 kr. Antal\nindustriarb.: 35. — Firman etabl. 1869, bolag\n1918.\n\nStyrelse: grossh. Paul Modig (ordf.),\nköpm. Gustaf Boström, köpm. Gösta\nModig.\n\nVerkst. dir.: Gösta Modig.\n\nAB. Mofors Bruk, Anderstorp.\n\nGjuteri och mek. verkstad vid\nAnderstorp (Jönköp. l.). Tillverkar\nlantbruksmaskiner såsom tröskverk,\nhästvandringar, hackelsemasikiner, halmskakare,\npota-tisrivare, cambridgevältar, harvar,\nsten-och stubbrytare, tippvagnar för\ntorv-transport, vattenvärmare samt\ntackjärns-gjutgods.\n\nTelefon: 3 o. 103. Postgiro: 82321. —\nAkt.-kap.: 51,100 kr. Antal industriarb.:\n35. Tillv.-värde pr år: 500,000 kr. —\nFirman etabl. 1874, nuv. bolag 1932.\n\nVerkst. dir.: Emil Lindén.\n\nAB. Moheda Skofabrik, Moheda.\n\nTillverkar randsydda och sandalsydda\nskodon vid fabrik i Moheda (Kronob. l.).\nVarumärke: »M. S. M.».\n\nTelefon: 24. Postgiro: 22516. —\nAkt.-kap.: 92,000 kr. Antal industriarb.: 55.\nTillv.-värde pr år: 825,000 kr. — Firman\netabl. 1918, bolag 1933.\n\nDisp.: Johan E. Kallin.\n\n\"AB. Mohögs Mekaniska Verkstad,\n\nSkönsmon.\n\nMek. verkstad, gjuteri, grovplåtslageri\noch fartygsslip i Skönsmon\n(Västernorrl. l.). Tillverkar maskiner för\nsågverk och cellulosafabriker, plåtarbeten,\njärn- och metallgjutgods samt utför\nom-och nybyggnader av fartyg. Bolaget\ninnehar Kronans torrdocka »Gustafsvik»\nvid Ramvik, Härnösand.\n\nTelegr.-adr.: Mohög, Sundsvall.\nTelefon: Sundsvall 1807 o. 3115. Postgiro:\n178757.\n\nAkt.-kap.: 275,300 kr. Antal\nindustriarb.: 85. — Firman etabl. 1857, bolag\n1911.\n\nStyrelse: dir. Gustaf Fröberg, dir.\nBror Hjerpstedt, ing. Folke Sjöberg.\n\nVerkst dir.: Yngve Carlström.\n\n\"Oscar Molanders Konfektionsfabrik,\n\nAlingsås.\n\nSe Konfektions AB. Oscar Molander,\nAlingsås.\n\n\"AB. Molinderska Konservfabriken,\n\nStockholm.\n\nSe AB. Sveriges Förenade\nKonservfabriker, Göteborg.\n\n\"Monark, Svenska Cykelfabriken,\n\nVarberg.\n\nSe AB. Cykelfabriken Monark,\nVarberg.",
+    "structured": {
+        "1": {
+            "name": "AB. Modelia",
+            "location": "Stockholm",
+            "business": "Damkonfektionsfabrik",
+            "contact": {
+                "office": "Stora Nygatan 58",
+                "phone": [
+                    "16415"
+                ],
+                "postgiro": "149086"
+            },
+            "financials": {
+                "capital": "25,000 kr",
+                "employees": {
+                    "industriarb": 88
+                },
+                "annual_production_value": "1,000,000 kr"
+            },
+            "foundation_year": 1944,
+            "board": [
+                {
+                    "name": "disp. Bengt Påhlsson",
+                    "role": "verkst. dir."
+                }
+            ],
+            "director": "disp. Bengt Påhlsson"
+        },
+        "2": {
+            "name": "AB. Modellkonfektion",
+            "location": "Stockholm",
+            "business": "Tillverkar klänningar.",
+            "contact": {
+                "office": "Norra Stationsg. 79—81",
+                "phone": [
+                    "337880"
+                ],
+                "postgiro": "194443"
+            },
+            "financials": {
+                "capital": "25,000 kr",
+                "employees": {
+                    "industriarb": 17
+                },
+                "annual_production_value": "150,000 kr"
+            },
+            "foundation_year": 1936,
+            "board": [
+                {
+                    "name": "dir. Sven Salén",
+                    "role": "verkst. dir."
+                }
+            ],
+            "director": "disp. Bengt Påhlsson"
+        },
+        "3": {
+            "name": "AB. Paul Modig",
+            "location": "Härnösand",
+            "business": "Täck- och madrassfabrik",
+            "contact": {
+                "office": "Härnösand",
+                "telegraph": "Paulmodig, Härnösand",
+                "phone": [
+                    "3400",
+                    "3440"
+                ],
+                "postgiro": "7649",
+                "factory_office": "Skellefteå",
+                "factory_phone": "11360"
+            },
+            "financials": {
+                "capital": "200,000 kr",
+                "employees": {
+                    "industriarb": 35
+                }
+            },
+            "foundation_year": 1918,
+            "board": [
+                {
+                    "name": "grossh. Paul Modig",
+                    "role": "ordf."
+                }
+            ],
+            "director": "Gösta Modig"
+        },
+        "4": {
+            "name": "AB. Mofors Bruk",
+            "location": "Anderstorp",
+            "business": "Gjuteri och mek. verkstad",
+            "contact": {
+                "phone": [
+                    "3",
+                    "103"
+                ],
+                "postgiro": "82321"
+            },
+            "financials": {
+                "capital": "51,100 kr",
+                "employees": {
+                    "industriarb": 35
+                },
+                "annual_production_value": "500,000 kr"
+            },
+            "foundation_year": 1932,
+            "board": [],
+            "director": "Emil Lindén"
+        },
+        "5": {
+            "name": "AB. Moheda Skofabrik",
+            "location": "Moheda",
+            "business": "Tillverkar randsydda och sandalsydda skodon",
+            "contact": {
+                "phone": [
+                    "24"
+                ],
+                "postgiro": "22516"
+            },
+            "financials": {
+                "capital": "92,000 kr",
+                "employees": {
+                    "industriarb": 55
+                },
+                "annual_production_value": "825,000 kr"
+            },
+            "foundation_year": 1933,
+            "board": [],
+            "director": "Johan E. Kallin"
+        },
+        "6": {
+            "name": "AB. Mohögs Mekaniska Verkstad",
+            "location": "Skönsmon",
+            "business": "Mek. verkstad, gjuteri, grovplåtslageri och fartygsslip",
+            "contact": {
+                "telegraph": "Mohög, Sundsvall",
+                "phone": [
+                    "Sundsvall 1807",
+                    "3115"
+                ],
+                "postgiro": "178757"
+            },
+            "financials": {
+                "capital": "275,300 kr",
+                "employees": {
+                    "industriarb": 85
+                }
+            },
+            "foundation_year": 1911,
+            "board": [],
+            "director": "Yngve Carlström"
+        }
+    }
+}

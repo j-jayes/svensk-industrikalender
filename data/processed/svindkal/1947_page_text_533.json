@@ -1,0 +1,166 @@
+{
+    "original": "Norberg—Norden\n\n\"Norbergs Grufförvaltning,\n\nKärrgruvan.\n\nFörening u. p. a. för förvaltning av\nvissa i Norbergs socken (Västmanl. l.)\nbelägna järngruvor och anrikningsverk\nsamt elektr. kraftstationer. Bryter\nblodstens- och magnetitmalm samt producerar\nslig och distribuerar elektr. energi.\n\nTelegr.-adr.: Norbergsgrufvor,\nNorberg. Telefon: Norberg 2. — Antal\nindustriarb.: 345.\n\nDelägare i gruvförvaltningen:\n\nNorbergs Gruf AB. Styrelse:\ngeneralkonsul Axel Ax:son Johnson (ordf.),\ndisp. Hj. Åselius (v. ordf.), dir. Joel\nLarsson, disp. Ernst Malmgren, dir. Erik\nG. Pehrsson.\n\nKolningbergs Grufve AB. Styrelse:\ndisp. Hj. Åselius (ordf.), disp. Ernst\nMalmgren, dir. Erik G. Pehrsson.\n\nStorgrufve AB. Styrelse:\ngeneralkonsul Axel Ax:son Johnson (ordf.), disp.\nErnst Malmgren, disp. Hj. Åselius.\n\nGröndals Gruf ve AB. Styrelse:\ndisp. Hj. Åselius (ordf.), disp. Ernst\nMalmgren, disp. Helge Silverstolpe.\n\nNorbergs Elektriska AB. Styrelse:\ngeneralkonsul Axel Ax:son Johnson\n(ordf.), disp. Hj. Åselius (v. ordf.), dir.\nJoel Larsson, disp. Ernst Malmgren, dir.\nErik G. Pehrsson.\n\nDisp. o. gruving.: Ernst Malmgren.\n\nGruvmätare o. bitr. gruving.: Sven\nMueller.\n\nElektr. o. mek. ing.: Thage Essling.\n\nKamrer: Bertil Lennmarker.\n\nKassör: J. E. Tunell.\n\n\"AB. Korbergs Mek. Verkstad,\n\nKärrgruvan.\n\nMek. verkstad och gjuteri vid\nKärrgruvan. Tillverkar transportmaskinerier för\ngruvor och järnverk, maskiner för\nsintrings- och anrikningsverk,\njärnkonstruktioner, plåtarbeten m. m. samt gjutgods.\n\nTelegr.-adr.: Verkstaden, Norberg.\nTelefon: Norberg 46. Postgiro: 94110.\n\nAkt.-kap.: 225,000 kr. Antal\nindustriarb.: 50. Tillv.-värde pr år: 800,000 kr.\n— Bolaget grundat 1890.\n\nStyrelse: disp. Herman Magnusson\n(ordf.), amanuens Hans Bergström,\nbergsing. Sten Dahlström.\n\nVerkst. dir. o. disp.: F. Leander.\n\nAB. Kordbakels, Göteborg.\n\nKem.-teknisk industri. Tillverkar\nhalvfabrikat för bagerier och konditorier.\nVarumärken: »Novazea», »Pettina»,\n»Hercules» o. »Fino».\n\nKontor: Waterloog. 2. Telegr.-adr.:\nNordbakels, Göteborg. Telefon: 192040.\nPostgiro: 46729. — Akt.-kap.: 120,000 kr.\nAntal industriarb.: 15. — Firman etabl.\n1940, bolag 1943.\n\nVerkst. dir.: Bernard J. Bakels.\n\nNorco, Leksaksfabriken, Stockholm.\nSe Leksaksfabriken Norco, Stockholm.\n\n\"Nordarmatur, Linköping.\n\nSe AB. Nordiska Armaturfabrikerna,\nLinköping.\n\nGustaf Kordbergs Vagnfabrik AB.,\n\nStockholm.\n\nTillverkar automobilkarosserier av olika\ntyper.\n\nKontor: Tegnérsg. 37. Telefon: 212638.\nPostgiro: 155416. — Akt.-kap.: 22,000 kr.\nAntal industriarb.: 15. Tillv.-värde pr år:\n200,000 kr. — Firman etabl. 1901, bolag\n1929.\n\nStyrelse: herr Carl Adolf Nordberg,\nfabr. Nils Nordberg, verkm. Nils J.\nSvensson.\n\nVerkst. dir.: Nils Nordberg.\n\n*H. N. Kordén, Malmö.\n\nSnickeri- och tapetserareverkstäder.\nTillverkar möbler.\n\nKontor: Norreg. 27. Telefon: 15086.\nPostgiro: 24434. — Arb.-antal: 4. —\nFirman etabl. 1894.\n\nÄgare o. chef: snickaremäst. Helmer\nNorden.\n\nNorden, AB. Kemiska Fabriken,\n\nGöteborg.\n\nSe AB. Kemiska Fabriken Norden,\nGöteborg.\n\n\"AB. Kordens Textilfabrik, Borås.\n\nBlekeri, färgeri, tryckeri och\nappreturverk. Förädlar oblekta bomullsvävnader.\n\nHuvudkontor: Borås. Telegr.-adr.:\nNorden, Borås. Telefon: »Nordens Textil».\nPostgiro: 14944.\n\nAkt.-kap.: 1,200,000 kr. Antal\nindustriarb.: 125. Tillv.-värde pr år: 4,000,000 kr.\n\nAppreterings AB. Norden bildat 1895,\nombildat 1921 under namn AB. Svenson\n&amp; Hagberg; nuv. bolag, stiftat 1925, äges\nav Nääs Fabriks AB.\n\nStyrelse: f. d. landshövd. Axel v.\nSneidern (ordf.), civiling. Gunnar Berg,\n\n395*\n",
+    "structured": {
+        "1": {
+            "name": "Norbergs Grufförvaltning",
+            "location": "Kärrgruvan",
+            "business": "Förvaltning av järngruvor och anrikningsverk samt elektrisk kraftproduktion",
+            "products": "Bryter blodstens- och magnetitmalm samt producerar slig och distribuerar elektrisk energi",
+            "contact": {
+                "office": "Norbergsgrufvor, Norberg",
+                "phone": [
+                    "Norberg 2"
+                ],
+                "telegraph": "Norbergsgrufvor, Norberg"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb.": 345
+                },
+                "foundation_year": 0,
+                "board": [
+                    {
+                        "name": "Axel Ax:son Johnson",
+                        "role": "ordf"
+                    },
+                    {
+                        "name": "Hj. Åselius",
+                        "role": "v. ordf"
+                    },
+                    {
+                        "name": "Joel Larsson",
+                        "role": "dir"
+                    },
+                    {
+                        "name": "Ernst Malmgren",
+                        "role": "disp"
+                    },
+                    {
+                        "name": "Erik G. Pehrsson",
+                        "role": "dir"
+                    }
+                ],
+                "owners": [
+                    "Norbergs Gruf AB",
+                    "Kolningbergs Grufve AB",
+                    "Storgrufve AB",
+                    "Gröndals Gruf ve AB",
+                    "Norbergs Elektriska AB"
+                ],
+                "director": "Not provided"
+            }
+        },
+        "2": {
+            "name": "AB. Korbergs Mek. Verkstad",
+            "location": "Kärrgruvan",
+            "business": "Tillverkar transportmaskinerier för gruvor och järnverk, maskiner för sintrings- och anrikningsverk, järnkonstruktioner, plåtarbeten m. m. samt gjutgods",
+            "contact": {
+                "office": "Verkstaden, Norberg",
+                "phone": [
+                    "Norberg 46"
+                ],
+                "postgiro": "94110"
+            },
+            "financials": {
+                "capital": "225,000 kr",
+                "employees": {
+                    "industriarb.": 50
+                },
+                "annual_turnover": "Not provided",
+                "annual_production_value": "800,000 kr"
+            }
+        },
+        "3": {
+            "name": "AB. Kordbakels",
+            "location": "Göteborg",
+            "business": "Kemisk-teknisk industri. Tillverkar halvfabrikat för bagerier och konditorier",
+            "products": "Varumärken: Novazea, Pettina, Hercules, Fino",
+            "contact": {
+                "office": "Waterloog. 2, Göteborg",
+                "phone": [
+                    "192040"
+                ],
+                "postgiro": "46729"
+            },
+            "financials": {
+                "capital": "120,000 kr",
+                "employees": {
+                    "industriarb.": 15
+                },
+                "annual_turnover": "Not provided",
+                "annual_production_value": "Not provided"
+            },
+            "director": "Bernard J. Bakels"
+        },
+        "4": {
+            "name": "Nordarmatur",
+            "location": "Linköping",
+            "business": "Not provided"
+        },
+        "5": {
+            "name": "Gustaf Kordbergs Vagnfabrik AB.",
+            "location": "Stockholm",
+            "business": "Tillverkar automobilkarosserier av olika typer",
+            "contact": {
+                "office": "Tegnérsg. 37, Stockholm",
+                "phone": [
+                    "212638"
+                ],
+                "postgiro": "155416"
+            },
+            "financials": {
+                "capital": "22,000 kr",
+                "employees": {
+                    "industriarb.": 15
+                },
+                "annual_turnover": "Not provided",
+                "annual_production_value": "200,000 kr"
+            },
+            "director": "Nils Nordberg"
+        },
+        "6": {
+            "name": "H. N. Kordén",
+            "location": "Malmö",
+            "business": "Snickeri- och tapetserareverkstäder. Tillverkar möbler",
+            "contact": {
+                "office": "Norreg. 27",
+                "phone": [
+                    "15086"
+                ],
+                "postgiro": "24434"
+            },
+            "financials": {
+                "employees": {
+                    "Arb.-antal": 4
+                }
+            },
+            "director": "Not provided"
+        },
+        "7": {
+            "name": "Norden, AB. Kemiska Fabriken",
+            "location": "Göteborg",
+            "business": "Not provided"
+        },
+        "8": {
+            "name": "AB. Kordens Textilfabrik",
+            "location": "Borås",
+            "business": "Blekeri, färgeri, tryckeri och appreturverk. Förädlar oblekta bomullsvävnader",
+            "contact": {
+                "office": "Borås",
+                "phone": [
+                    "Nordens Textil"
+                ],
+                "postgiro": "14944"
+            },
+            "financials": {
+                "capital": "1,200,000 kr",
+                "employees": {
+                    "industriarb.": 125
+                },
+                "annual_turnover": "Not provided",
+                "annual_production_value": "4,000,000 kr"
+            },
+            "director": "Not provided"
+        }
+    }
+}

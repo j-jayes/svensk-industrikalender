@@ -1,0 +1,366 @@
+{
+    "original": "S kara—S keinge\n\nSkara Syfabrik, Skara.\n\nTillverkar klänningar, blusar oeh\nförkläden.\n\nTelefon: 487. Postgiro: 32903. —\nAntal industriarb.: 25 (ävensom 50\nhemarbetare). Tillv.-värde pr år: 325,000 kr.\n— Firman etabl. 1929.\n\nÄgare o. chef: fabr. Torsten Hernqvist.\n\nChefsassisi.: Gunnar Roempke.\n\nSkara Tegelbruk AB., Skara.\n\nTillverkar tak-, mur- och nocktegel,\nreveteringstegel samt dräneringsrör.\n\nTelefon: 171. — Akt.-kap.: 80,000 kr.\nAntal industriarb.: 15. Årstillv.: 1,5 milj.\nst. tegelvaror. — Firman etabl. 1902,\nbolag 1946.\n\nVerkst. dir.: godsäg. Per Ehn.\n\nTegelm, o. platschef: Karl Svensson.\n\nAB. Skaraborgs Möbelindustri,\n\nTibro.\n\nTillverkar möbler vid fabrik i Tibro\n(Skarab. l.).\n\nTelefon: 343. Postgiro: 280711 —\nAkt.-kap.: 30,000 kr. Antal industriarb.: 15.\nTillv.-värde pr år: 150,000 kr. — Bolaget\ngrundat 1938.\n\nVerkst. dir.: Harry Carlsson.\n\nRobert Skarstedt AB., Göteborg.\n\nWellpapp- och kartonnagefabrik,\nbok-och offsettryckeri samt\nreproduktionsanstalt Tillverkar askar och kartonger,\nkapslar, wellpappkartonger, flaskhylsor\nav wellpapp samt wellpapp i rullar och\nark; utför tryckning av etiketter och\nskyltar i flerfärgsoffset. Varumärke:\n»Skarbox».\n\nKontor: Gamlestadsvägen. Telegr.-adr.:\nWellemballage, Göteborg. Telefon:\n»Skar-stedts AB.». Postgiro: 12105.\n\nAkt.-kap.: 10,000 kr. Antal\nindustriarb.: 250. Tillv.-värde pr år: 6,000,000 kr.\n\nFirman, etabl. 1921, anslöts 1935 till\nAB. F. W. Hasselblad &amp; Co.\n\nStyrelse: dir. Victor Hasselblad, adv.\nEmil Heijne, dir. Rob. Skarstedt.\n\nDir.: civiling. C. G. Bröden.\n\nSkattkärrs Tagelspinneri AB.,\n\nSkattkärr.\n\nTagelspinneri och kapokfabrik i\nSkatt-kärr (Värml. l.). Tillverkar spunnet tagel,\nborstbinderi- och textiltagel samt kapok.\n\nTelefon: 71. Postgiro: 273660. —\nAkt.-kap.: 25,000 kr. Antal industriarb.: 14.\n\nTillv.-värde pr år: 285.000 kr. — Bolaget\ngrundat 1942.\n\nDisp.: Gustaf Persson.\n\n*AB. Skattkärrs Tegel, Skattkärr.\n\nTillverkar mur- och fasadtegel vid\ntegelbruk i Skattkärr (Värml. l.).\nBolaget driver även jordbruk och\nskogshantering.\n\nTelefon: 17. Postgiro: 94987.\n\nAkt.-kap.: 300,000 kr. Antal\nindustriarb.: 30. Årstillv.: 2,5 milj. st. tegelvaror.\n— Firman etabl. 1900, bolag 1907.\n\nDisp.: Ivar Tjerneld.\n\nDriftsing.: förvalt. Lars Tjerneld.\n\n*Skattmansö Tegelbruk, Vittinge.\n\nSe Upsala-Ekeby AB., Ekebybruk.\n\nAB. Skattungbyns Kalkbruk,\n\nMässbacken.\n\nKalkstensbrott och kalkbruk vid\nKall-holsfors i Orsa s:n (Kopparb. l.). Bryter\nkalksten och tillverkar bränd kalk,\nhydrat-kalk samt kalkstensmjöl.\n\nTelegr.-adr.: Orsakalk, Mässbacken.\nTelefon: 21 o. 52. Postgiro: 23456. —\nAkt.-kap.: 200,000 kr. Antal industriarb.:\n65. Tillv.-värde pr år: 850,000 kr. —\nBolaget grundat 1902.\n\nStyrelse: grossh. G. A. Setterlund\n(ordf.), hemmansäg. Carl Matsson,\nförvalt. Eric Ångman.\n\nVerkst. dir.: G. A. Setterlund (Gävle).\n\nKamrer: J. A. Arvidson.\n\nSkeinge Bandfabrik, Osby.\n\nTillverkar skoband och kängsnören\nvid fabrik i Osby (Kristianst. l.).\nVarumärke: »Schevia».\n\nTelefon: 556. Postgiro: 84268. —\nAntal industriarb.: 15. — Firman etabl.\n1933.\n\nÄgare o. chef: disp. K.-M. Brunnström.\nSkeinge Säteri, Osby.\n\nTunnbinderi, möbelfabrik och sågverk\nvid Skeinge, Osby (Kristianst. l.).\nTillverkar laggkärl, trädgårdsmöbler,\nfåtöljer, såghandtag, träkol och gengasved\nm. m.\n\nTelefon: 20. — Antal industriarb.: 25.\n— Tunnbinderiet anlagt 1871.\n\nÄgare o. chef: godsäg. Sten\nBrunnström.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Skara Syfabrik",
+                "location": "Skara",
+                "business": "Tillverkning av klänningar, blusar och förkläden",
+                "products": "Tillverkar klänningar, blusar och förkläden",
+                "contact": {
+                    "office": null,
+                    "phone": [
+                        "487"
+                    ],
+                    "postgiro": "32903",
+                    "head_office": null,
+                    "sales_offices": null,
+                    "telegraph": null,
+                    "factory_office": null,
+                    "factory_phone": null
+                },
+                "financials": {
+                    "capital": null,
+                    "employees": {
+                        "industriarb": 25,
+                        "hemarbetare": 50
+                    },
+                    "annual_turnover": "325 000 kr",
+                    "annual_production_value": "325 000 kr"
+                },
+                "foundation_year": 1929,
+                "current_name_year": null,
+                "predecessor": null,
+                "original_name": null,
+                "corporation_year": null,
+                "board": null,
+                "owners": null,
+                "director": "fabr. Torsten Hernqvist",
+                "managing_director": null,
+                "sales_manager": "Gunnar Roempke",
+                "manager": null
+            },
+            {
+                "name": "Skara Tegelbruk AB.",
+                "location": "Skara",
+                "business": null,
+                "products": "Tillverkar tak-, mur- och nocktegel, reveteringstegel samt dräneringsrör",
+                "contact": {
+                    "office": null,
+                    "phone": [
+                        "171"
+                    ],
+                    "postgiro": null,
+                    "head_office": null,
+                    "sales_offices": null,
+                    "telegraph": null,
+                    "factory_office": null,
+                    "factory_phone": null
+                },
+                "financials": {
+                    "capital": "80 000 kr",
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": "1,5 milj. st. tegelvaror"
+                },
+                "foundation_year": 1902,
+                "current_name_year": null,
+                "predecessor": null,
+                "original_name": null,
+                "corporation_year": 1946,
+                "board": null,
+                "owners": null,
+                "director": null,
+                "managing_director": null,
+                "sales_manager": null,
+                "manager": "godsäg. Per Ehn"
+            },
+            {
+                "name": "AB. Skaraborgs Möbelindustri",
+                "location": "Tibro",
+                "business": "Tillverkning av möbler",
+                "products": "Tillverkar möbler vid fabrik i Tibro",
+                "contact": {
+                    "office": null,
+                    "phone": [
+                        "343"
+                    ],
+                    "postgiro": "280711",
+                    "head_office": null,
+                    "sales_offices": null,
+                    "telegraph": null,
+                    "factory_office": null,
+                    "factory_phone": null
+                },
+                "financials": {
+                    "capital": "30 000 kr",
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_turnover": "150 000 kr",
+                    "annual_production_value": "150 000 kr"
+                },
+                "foundation_year": 1938,
+                "current_name_year": null,
+                "predecessor": null,
+                "original_name": null,
+                "corporation_year": null,
+                "board": null,
+                "owners": null,
+                "director": "Harry Carlsson",
+                "managing_director": null,
+                "sales_manager": null,
+                "manager": null
+            },
+            {
+                "name": "Robert Skarstedt AB.",
+                "location": "Göteborg",
+                "business": "Tillverkning av wellpapp- och kartonnageprodukter",
+                "products": "Tillverkar askar och kartonger, kapslar, wellpappkartonger, flaskhylsor av wellpapp samt wellpapp i rullar och ark; utför tryckning av etiketter och skyltar i flerfärgsoffset",
+                "contact": {
+                    "office": "Gamlestadsvägen",
+                    "phone": [
+                        "Skar-stedts AB."
+                    ],
+                    "postgiro": "12105",
+                    "head_office": null,
+                    "sales_offices": null,
+                    "telegraph": "Wellemballage, Göteborg",
+                    "factory_office": null,
+                    "factory_phone": null
+                },
+                "financials": {
+                    "capital": "10 000 kr",
+                    "employees": {
+                        "industriarb": 250
+                    },
+                    "annual_turnover": "6 000 000 kr",
+                    "annual_production_value": "6 000 000 kr"
+                },
+                "foundation_year": 1921,
+                "current_name_year": null,
+                "predecessor": "AB. F. W. Hasselblad & Co.",
+                "original_name": null,
+                "corporation_year": 1935,
+                "board": [
+                    {
+                        "name": "Victor Hasselblad",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Emil Heijne",
+                        "role": "adv."
+                    },
+                    {
+                        "name": "Rob. Skarstedt",
+                        "role": "dir."
+                    }
+                ],
+                "owners": null,
+                "director": "civiling. C. G. Bröden",
+                "managing_director": null,
+                "sales_manager": null,
+                "manager": null
+            },
+            {
+                "name": "Skattkärrs Tagelspinneri AB.",
+                "location": "Skattkärr",
+                "business": "Tillverkning av spunnet tagel, borstbinderi- och textiltagel samt kapok",
+                "products": "Tillverkar spunnet tagel, borstbinderi- och textiltagel samt kapok",
+                "contact": {
+                    "office": null,
+                    "phone": [
+                        "71"
+                    ],
+                    "postgiro": "273660",
+                    "head_office": null,
+                    "sales_offices": null,
+                    "telegraph": null,
+                    "factory_office": null,
+                    "factory_phone": null
+                },
+                "financials": {
+                    "capital": "25 000 kr",
+                    "employees": {
+                        "industriarb": 14
+                    },
+                    "annual_turnover": "285 000 kr",
+                    "annual_production_value": "285 000 kr"
+                },
+                "foundation_year": 1942,
+                "current_name_year": null,
+                "predecessor": null,
+                "original_name": null,
+                "corporation_year": null,
+                "board": null,
+                "owners": null,
+                "director": "Gustaf Persson",
+                "managing_director": null,
+                "sales_manager": null,
+                "manager": null
+            },
+            {
+                "name": "AB. Skattkärrs Tegel",
+                "location": "Skattkärr",
+                "business": "Tillverkning av mur- och fasadtegel",
+                "products": "Tillverkar mur- och fasadtegel vid tegelbruk i Skattkärr",
+                "contact": {
+                    "office": null,
+                    "phone": [
+                        "17"
+                    ],
+                    "postgiro": "94987",
+                    "head_office": null,
+                    "sales_offices": null,
+                    "telegraph": null,
+                    "factory_office": null,
+                    "factory_phone": null
+                },
+                "financials": {
+                    "capital": "300 000 kr",
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": "2,5 milj. st. tegelvaror"
+                },
+                "foundation_year": 1900,
+                "current_name_year": null,
+                "predecessor": null,
+                "original_name": null,
+                "corporation_year": 1907,
+                "board": null,
+                "owners": null,
+                "director": null,
+                "managing_director": null,
+                "sales_manager": null,
+                "manager": "förvalt. Lars Tjerneld"
+            },
+            {
+                "name": "AB. Skattungbyns Kalkbruk",
+                "location": "Mässbacken",
+                "business": "Tillverkning av bränd kalk, hydratkalk samt kalkstensmjöl",
+                "products": "Bryter kalksten och tillverkar bränd kalk, hydratkalk samt kalkstensmjöl",
+                "contact": {
+                    "office": null,
+                    "phone": [
+                        "21",
+                        "52"
+                    ],
+                    "postgiro": "23456",
+                    "head_office": null,
+                    "sales_offices": null,
+                    "telegraph": "Orsakalk, Mässbacken",
+                    "factory_office": null,
+                    "factory_phone": null
+                },
+                "financials": {
+                    "capital": "200 000 kr",
+                    "employees": {
+                        "industriarb": 65
+                    },
+                    "annual_turnover": "850 000 kr",
+                    "annual_production_value": "850 000 kr"
+                },
+                "foundation_year": 1902,
+                "current_name_year": null,
+                "predecessor": null,
+                "original_name": null,
+                "corporation_year": null,
+                "board": [
+                    {
+                        "name": "G. A. Setterlund",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Carl Matsson",
+                        "role": "hemmansäg."
+                    },
+                    {
+                        "name": "Eric Ångman",
+                        "role": "förvalt."
+                    }
+                ],
+                "owners": null,
+                "director": "G. A. Setterlund (Gävle)",
+                "managing_director": null,
+                "sales_manager": null,
+                "manager": "J. A. Arvidson"
+            },
+            {
+                "name": "Skeinge Bandfabrik",
+                "location": "Osby",
+                "business": "Tillverkning av skoband och kängsnören",
+                "products": "Tillverkar skoband och kängsnören vid fabrik i Osby",
+                "contact": {
+                    "office": null,
+                    "phone": [
+                        "556"
+                    ],
+                    "postgiro": "84268",
+                    "head_office": null,
+                    "sales_offices": null,
+                    "telegraph": null,
+                    "factory_office": null,
+                    "factory_phone": null
+                },
+                "financials": {
+                    "capital": null,
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": null
+                },
+                "foundation_year": 1933,
+                "current_name_year": null,
+                "predecessor": null,
+                "original_name": null,
+                "corporation_year": null,
+                "board": null,
+                "owners": null,
+                "director": null,
+                "managing_director": "disp. K.-M. Brunnström",
+                "sales_manager": null,
+                "manager": null
+            },
+            {
+                "name": "Skeinge Säteri",
+                "location": "Osby",
+                "business": "Tillverkning av laggkärl, trädgårdsmöbler och trävaror",
+                "products": "Tillverkar laggkärl, trädgårdsmöbler, fåtöljer, såghandtag, träkol och gengasved m. m.",
+                "contact": {
+                    "office": null,
+                    "phone": [
+                        "20"
+                    ],
+                    "postgiro": null,
+                    "head_office": null,
+                    "sales_offices": null,
+                    "telegraph": null,
+                    "factory_office": null,
+                    "factory_phone": null
+                },
+                "financials": {
+                    "capital": null,
+                    "employees": null,
+                    "annual_turnover": null,
+                    "annual_production_value": null
+                },
+                "foundation_year": null,
+                "current_name_year": null,
+                "predecessor": null,
+                "original_name": null,
+                "corporation_year": null,
+                "board": null,
+                "owners": null,
+                "director": null,
+                "managing_director": null,
+                "sales_manager": null,
+                "manager": "godsäg. Sten Brunnström"
+            }
+        ]
+    }
+}

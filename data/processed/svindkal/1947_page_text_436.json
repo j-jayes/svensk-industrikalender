@@ -1,0 +1,283 @@
+{
+    "original": "Konfektion\n\nTelegr.-adr.: Drabant, Alingsås.\nTelefon: 769. Postgiro: 80049.\n\nAkt.-kap.: 150,000 kr. Antal\nindustriarb.: 85. Tillv.-värde pr år: 900,000 kr.\n—- Firman etabl. 1932.\n\nStyrelse: dir. Gösta Bolling (ordf.),\n&lt;3isp. C. G. Almgren, fru D. Bolling.\nVerkst. dir.: Gösta Bolling.\n\n*Konfekions AB. Elfsborg, Borås.\n\nTillverkar skjortor, pyjamas,\narbets-och sportkläder, lång- och golfbyxor för\nherr och dam samt gosskostymer.\n\nTelefon: 14404. Postgiro: 140026. —\nAkt.-kap.: 75,000 kr. Antal industriarb.:\n25. Tillv.-värde pr år: 700,000 kr. —\nBolaget grundat 1938.\n\nVerkst. dir.: Malcus Forsberg.\n\n^Konfektions AB. Funk, Borås.\n\nTillverkar goss- och ynglingakläder.\nVarumärke: »Funk».\n\nTelefon: 14705 o. 14707. Postgiro:\n135897. — Akt.-kap.: 75,000 kr. Antal\nindustriarb.: 100. Tillv.-värde pr år:\n1,000,000 kr. — Bolaget grundat 1936.\nVerkst. dir.: Nils Nizén.\n\nKonfektions AB. Garpen, A sed a.\n\nTillverkar herr- och gosskläder vid\nfabrik i Åseda (Kronob. l.).\n\nTelefon: 102. Postgiro: 96440. —\nAkt.-kap.: 95,000 kr. Antal industriarb.: 65.\nTillv.-värde pr år: 630,000 kr. — Bolaget\n»grundat 1932.\n\nVerkst. dir.: Ture Pettersson.\n\n* Konfektions AB. Gripen,\n\nAlingsås.\n\nTillverkar herrkläder. Varumärke:\n»Gripen».\n\nTelefon: 18 o. 443. Postgiro: 32344. —\nAkt.-kap.: 50,000 kr. Antal industriarb.:\n30 samt 30 hemarbetare. — Bolaget\ngrundat 1919.\n\nStyrelse: dir. Nils Dahlqvist (ordf.),\nadv. Gunnar Berg, disp. Rutger\nDahlqvist.\n\nVerkst. dir.: Nils Dahlqvist.\n\nKonfektions AB. Holmex, Tidaholm.\n\nTillverkar herr-kostymer vid fabrik i\nTidaholm.\n\nHuvudkontor o. ensamförsälj.:\nGöteborgs Konfektions AB., Göteborg,\nAlme-dalsvägen 2. Telefon: 163425.\n\nAkt.-kap.: 5,000 kr. Antal industriarb.:\n120. Tillv.-värde pr år: 1,000,000 kr. —\nBolaget grundat 1934.\n\nVerkst. dir.: Ernst Johansson\n(Göteborg).\n\n^Konfektions AB. Karlson &amp; Starck,\n\nGöteborg.\n\nTillverkar korsetter och korseletter,\nreformliv, bysthållare och strumphållare.\nVarumärken: »Kronan»,\n»Nästan-Ingen-ting», »Midi-Belt», »Nobleline»,\n»Frag-ma», »Correct Form» m. fl.\n\nKontor: Kastellg. 1. Telegr.-adr.:\nKonfektion, Göteborg. Telefon: 110377 o.\n134394. Postgiro: 12157. Representant i\nStockholm: Rolf Lilljekvist,\nMalmskill-nadsg. 29, telefon: 201338 o. 111612.\n\nAkt.-kap.: 60,000 kr. Antal\nindustriarb.: 170. Tillv.-värde pr år: 3,000,000 kr.\n\n—\tBolaget grundat 1906.\n\nStyrelse: dir. Arvid Starck (ordf.),\ndir. Sten Winström.\n\nVerkst. dir.: Sten Winström.\n\nDisp.: Thure Jarlöv.\n\nKonfektions AB. Kerema, Borås.\n\nDamkonfektionsfabrik. Tillverkar\nklänningar, kjolar och blusar. Telegr.-adr.:\nKerema, Borås. Telefon: 11046. Postgiro:\n263768.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 75 samt 125 hemarbetare. — Bolaget\ngrundat 1943.\n\nStyrelse o. verkst. dir.: Sven Salén\n(Sthlm).\n\nV. verkst. dir.: Sixten Nilsson (Sthlm).\n\nDisp.: John Wallén.\n\n\"Konfektions AB. Lesslie, Göteborg.\n\nTillverkar damdräkter och damkappor,\nklänningar samt pälsar.\n\nKontor: Carl Johansg. 60—62.\nTelegr.-adr. o. telefon: Lesslies, Göteborg.\nPostgiro: 41744.\n\nAkt.-kap.: 500,000 kr. Antal\nindustriarb.: 420. Tillv.-värde pr år: 6,400,000 kr.\n\n—\tBolaget grundat 1910.\n\nStyrelse o. verkst dir.: könsulinnan\nB. Lesslie.\n\nKonfektions AB. Lindström,\n\nStockholm.\n\nDamkonfektionsfabrik. Tillverkar\nklänningar, kjolar, blusar m. m.\n\nKontor: Sveavägen 34. Telefon: 107354.\nPostgiro: 1208. — Akt.-kap.: 80,000 kr.\nAntal industriarb.: 45. Tillv.-värde pr år:\n500,000 kr.",
+    "structured": {
+        "1": {
+            "name": "Konfektion",
+            "location": "Alingsås",
+            "contact": {
+                "telegraph": "Drabant, Alingsås",
+                "phone": [
+                    "769"
+                ],
+                "postgiro": "80049"
+            },
+            "financials": {
+                "capital": "150,000 kr",
+                "employees": {
+                    "industriarb": 85
+                },
+                "annual_turnover": "900,000 kr",
+                "annual_production_value": "900,000 kr"
+            },
+            "foundation_year": 1932,
+            "board": [
+                {
+                    "name": "Gösta Bolling",
+                    "role": "ordf."
+                },
+                {
+                    "name": "C. G. Almgren",
+                    "role": "3isp."
+                },
+                {
+                    "name": "fru D. Bolling",
+                    "role": ""
+                }
+            ],
+            "director": "Gösta Bolling",
+            "managing_director": "Gösta Bolling"
+        },
+        "2": {
+            "name": "Konfekions AB. Elfsborg",
+            "location": "Borås",
+            "products": "Tillverkar skjortor, pyjamas, arbets-och sportkläder, lång- och golfbyxor för herr och dam samt gosskostymer.",
+            "contact": {
+                "phone": [
+                    "14404"
+                ],
+                "postgiro": "140026"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "employees": {
+                    "industriarb": 25
+                },
+                "annual_turnover": "700,000 kr",
+                "annual_production_value": "700,000 kr"
+            },
+            "foundation_year": 1938,
+            "director": "Malcus Forsberg"
+        },
+        "3": {
+            "name": "Konfektions AB. Funk",
+            "location": "Borås",
+            "products": "Tillverkar goss- och ynglingakläder. Varumärke: »Funk».",
+            "contact": {
+                "phone": [
+                    "14705",
+                    "14707"
+                ],
+                "postgiro": "135897"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "employees": {
+                    "industriarb": 100
+                },
+                "annual_turnover": "1,000,000 kr",
+                "annual_production_value": "1,000,000 kr"
+            },
+            "foundation_year": 1936,
+            "director": "Nils Nizén"
+        },
+        "4": {
+            "name": "Konfektions AB. Garpen",
+            "location": "Åseda",
+            "products": "Tillverkar herr- och gosskläder vid fabrik i Åseda (Kronob. l.).",
+            "contact": {
+                "phone": [
+                    "102"
+                ],
+                "postgiro": "96440"
+            },
+            "financials": {
+                "capital": "95,000 kr",
+                "employees": {
+                    "industriarb": 65
+                },
+                "annual_turnover": "630,000 kr",
+                "annual_production_value": "630,000 kr"
+            },
+            "foundation_year": 1932,
+            "director": "Ture Pettersson"
+        },
+        "5": {
+            "name": "Konfektions AB. Gripen",
+            "location": "Alingsås",
+            "products": "Tillverkar herrkläder. Varumärke: »Gripen».",
+            "contact": {
+                "phone": [
+                    "18",
+                    "443"
+                ],
+                "postgiro": "32344"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 30
+                }
+            },
+            "foundation_year": 1919,
+            "board": [
+                {
+                    "name": "Nils Dahlqvist",
+                    "role": "ordf."
+                },
+                {
+                    "name": "adv. Gunnar Berg",
+                    "role": ""
+                },
+                {
+                    "name": "disp. Rutger Dahlqvist",
+                    "role": ""
+                }
+            ],
+            "director": "Nils Dahlqvist"
+        },
+        "6": {
+            "name": "Konfektions AB. Holmex",
+            "location": "Tidaholm",
+            "products": "Tillverkar herr-kostymer vid fabrik i Tidaholm.",
+            "contact": {
+                "office": "Huvudkontor o. ensamförsälj.: Göteborgs Konfektions AB., Göteborg, Alme-dalsvägen 2",
+                "phone": [
+                    "163425"
+                ],
+                "postgiro": " "
+            },
+            "financials": {
+                "capital": "5,000 kr",
+                "employees": {
+                    "industriarb": 120
+                },
+                "annual_turnover": "1,000,000 kr",
+                "annual_production_value": "1,000,000 kr"
+            },
+            "foundation_year": 1934,
+            "director": "Ernst Johansson (Göteborg)"
+        },
+        "7": {
+            "name": "Konfektions AB. Karlson & Starck",
+            "location": "Göteborg",
+            "products": "Tillverkar korsetter och korseletter, reformliv, bysthållare och strumphållare. Varumärken: »Kronan», »Nästan-Ingen-ting», »Midi-Belt», »Nobleline», »Frag-ma», »Correct Form» m. fl.",
+            "contact": {
+                "office": "Kontor: Kastellg. 1",
+                "telegraph": "Konfektion, Göteborg",
+                "phone": [
+                    "110377",
+                    "134394"
+                ],
+                "postgiro": "12157",
+                "sales_offices": [
+                    {
+                        "location": "Representant i Stockholm",
+                        "phone": "Rolf Lilljekvist, Malmskill-nadsg. 29, telefon: 201338 o. 111612"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "60,000 kr",
+                "employees": {
+                    "industriarb": 170
+                },
+                "annual_turnover": "3,000,000 kr",
+                "annual_production_value": "3,000,000 kr"
+            },
+            "foundation_year": 1906,
+            "board": [
+                {
+                    "name": "Arvid Starck",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Sten Winström",
+                    "role": ""
+                }
+            ],
+            "director": "Sten Winström",
+            "disp": "Thure Jarlöv"
+        },
+        "8": {
+            "name": "Konfektions AB. Kerema",
+            "location": "Borås",
+            "products": "Damkonfektionsfabrik. Tillverkar klänningar, kjolar och blusar.",
+            "contact": {
+                "telegraph": "Kerema, Borås",
+                "phone": [
+                    "11046"
+                ],
+                "postgiro": "263768"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 75
+                }
+            },
+            "foundation_year": 1943,
+            "board": [
+                {
+                    "name": "Sven Salén (Sthlm)",
+                    "role": "verkst. dir."
+                },
+                {
+                    "name": "Sixten Nilsson (Sthlm)",
+                    "role": "V. verkst. dir."
+                },
+                {
+                    "name": "John Wallén",
+                    "role": "Disp."
+                }
+            ]
+        },
+        "9": {
+            "name": "Konfektions AB. Lesslie",
+            "location": "Göteborg",
+            "products": "Tillverkar damdräkter och damkappor, klänningar samt pälsar.",
+            "contact": {
+                "office": "Kontor: Carl Johansg. 60—62",
+                "telegraph": "Lesslies, Göteborg",
+                "phone": [
+                    "107354"
+                ],
+                "postgiro": "41744"
+            },
+            "financials": {
+                "capital": "500,000 kr",
+                "employees": {
+                    "industriarb": 420
+                },
+                "annual_turnover": "6,400,000 kr",
+                "annual_production_value": "6,400,000 kr"
+            },
+            "foundation_year": 1910,
+            "board": [
+                {
+                    "name": "könsulinnan B. Lesslie",
+                    "role": "verkst dir."
+                }
+            ]
+        },
+        "10": {
+            "name": "Konfektions AB. Lindström",
+            "location": "Stockholm",
+            "products": "Damkonfektionsfabrik. Tillverkar klänningar, kjolar, blusar m. m.",
+            "contact": {
+                "office": "Kontor: Sveavägen 34",
+                "phone": [
+                    "107354"
+                ],
+                "postgiro": "1208"
+            },
+            "financials": {
+                "capital": "80,000 kr",
+                "employees": {
+                    "industriarb": 45
+                },
+                "annual_turnover": "500,000 kr",
+                "annual_production_value": "500,000 kr"
+            }
+        }
+    }
+}

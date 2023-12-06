@@ -1,0 +1,198 @@
+{
+    "original": "Merinos—Metallfabrik\n\n*AB. Merinos, Borås.\n\nYlleväveri, färgeri och appreturverk.\nTillverkar helyllevävnader.\n\nTelegr.-adr.: Merinos, Borås. Telefon:\n10856, 10060 o. 13365. Postgiro: 9506.\n\nAkt.-kap.: 835,000 kr. Antal\nindustriarb.: 215. Tillv.-värde pr år: 5,000,000 kr.\n\nBolaget, grundat 1891, äges av\nKilsunds AB., Borås.\n\nStyrelse: dir. Arthur Anderson, dir.\nC. E. Edlund, dir. Carl Eiserman, dir.\nNils Hörstadius.\n\nVerkst dir.: Arthur Anderson.\n\nMerkantil, Oljefabriken,\n\nKristianstad.\n\nSe Oljefabriks AB. Merkantil,\nKristianstad.\n\n\"Merkur, AB. Linnefabriken,\n\nGöteborg.\n\nSe AB. Linnefabriken Merkur,\nGöteborg.\n\n\"Merkur, AB. Textilfabriken, Borås.\nSe AB. Textilfabriken Merkur, Borås.\n\nMetallbolaget Cranstrand &amp; Co.,\n\nGnosjö.\n\nMetallfabrik i Gnosjö (Jönköp. l.).\nTillverkar möbelbeslag, fönstervred,\nbadrums- och hyllkrok.\n\nTelegr.-adr.: Metallbolaget, Gnosjö.\nTelefon: 21. Postgiro: 84110. Antal\nindustriarb.: 18. — Firman etabl. 1916.\n\nÄgare: fabr. Carl Svensson, fabr.\nGottfrid Johansson o. fabr. Helge Söderlund\nm. fl.\n\nMetall AB. Ivar Hageberg,\n\nHillerstorp.\n\nMetailgjuteri, järn- och\nmetallvaru-fabrik i Hillerstorp (Jönköp. l.).\nTillverkar beslag för läderindustrien, söljor och\nspännen, trådarbeten, ankarkrok,\nkarbin-hakar, nyckelringar m. m. samt\nbyggnadsbeslag.\n\nTelefon: 36. Postgiro: 139601. —\nAkt.-kap.: 21,000 kr. Arb.-antal: 10.\nTillv.-värde pr år: 75,000 kr. — Bolaget\ngrundat 1937.\n\nDisp.: ing. Yngve Jägerroth.\n\nMetall- &amp; Bakelitfabriken Meba,\n\nGislaved.\n\nTillverkar elektr. bakelitartiklar,\nhandlampor, normal- och\nljusimitationslamp-hållare, tryckknappar och möbelbeslag i\nbakelit m. m. vid fabrik i Gislaved\n(Jönköp. l.).\n\nTelefon: 357. Postgiro: 287662. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n250,000 kr. — Firman etabl. 1942.\n\nÄgare o. chef: fabr. Theodor Svensson.\n\n\"AB. Metallduk, Bruzaholm.\n\nMetallduks väveri i Bruzaholm\n(Jönköp. l.). Specialtillverkning av viror och\nmetalldukar för trämasse-, cellulosa- och\npappersindustrien samt av syrafast\nstålduk.\n\nTelegr.-adr.: Metallduk, Bruzaholm.\nTelefon: 1. Postgiro: 74455.\n\nAkt.-kap.: 225,000 kr. Antal\nindustriarb.: 65. Tillv.-värde pr år: 1,500,000 kr.\n— Bolaget grundat 1906.\n\nStyrelse o. verkst. dir.: Gösta\nBengtson.\n\n\"Metallduksväveriet, AB. Nordiska,\n\nUppsala.\n\nSe AB. Nordiska Metallduksväveriet,\nUppsala.\n\n\"AB. Metallegeringar, Göteborg.\n\nSmältverk i Mölndal. Framställer\nmässing, rödgods, bronser i tackor, bly-, tenn-,\naluminium- och zinklegeringar.\n\nKontor: Hvitfeldsplatsen 9 A.\nTelegr.-adr.: Alloys, Göteborg. Telefon: »Olof\nManner Aktiebolag».\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 30. — Bolaget grundat 1938.\n\nStyrelse: adv. William Kristensen,\ndir. Conny Lisnell, revisor Mauritz\nLundberg, köpm. Benkt Manner, ing. Arne\nWicknertz.\n\nVerkst. dir.: Conny Lisnell.\n\nAB. Metallfabriken Ljunghäll,\n\nAnderstorp.\n\nKokill- och pressgjuteri i Anderstorp\n(Jönköp. l.). Tillverkar sopnedkastluckor\n(märke: »Ello»), tamburhyllor,\nledstångsbeslag, skruvmejslar, aluminiumklubbor\n(märke: »Rekord») m. m. samt\nmassartiklar av aluminiumgjutgods.\n\nTelefon: 57 o. 227. — Akt.-kap.: 97,100\nkr. Antal industriarb.: 50. Tillv.-värde pr\når: 750,000 kr. — Firman etabl. 1918,\nbolag 1944.\n\nVerkst. dir.,- Harald Ljungkvist.",
+    "structured": {
+        "1": {
+            "name": "AB. Merinos",
+            "location": "Borås",
+            "business": "Ylleväveri, färgeri och appreturverk. Tillverkar helyllevävnader.",
+            "contact": {
+                "telegraph": "Merinos, Borås",
+                "phone": [
+                    "10856",
+                    "10060",
+                    "13365"
+                ],
+                "postgiro": "9506"
+            },
+            "financials": {
+                "capital": "835,000 kr",
+                "employees": {
+                    "industriarb": 215
+                },
+                "annual_turnover": "5,000,000 kr",
+                "annual_production_value": "5,000,000 kr"
+            },
+            "foundation_year": 1891,
+            "owners": [
+                "Kilsunds AB., Borås"
+            ],
+            "board": [
+                {
+                    "name": "Arthur Anderson",
+                    "role": "dir."
+                },
+                {
+                    "name": "C. E. Edlund",
+                    "role": "dir."
+                },
+                {
+                    "name": "Carl Eiserman",
+                    "role": "dir."
+                },
+                {
+                    "name": "Nils Hörstadius",
+                    "role": "dir."
+                }
+            ],
+            "director": "Arthur Anderson"
+        },
+        "2": {
+            "name": "Metallbolaget Cranstrand & Co.",
+            "location": "Gnosjö (Jönköp. l.)",
+            "business": "Tillverkar möbelbeslag, fönstervred, badrums- och hyllkrok.",
+            "contact": {
+                "telegraph": "Metallbolaget, Gnosjö",
+                "phone": "21",
+                "postgiro": "84110"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 18
+                }
+            },
+            "foundation_year": 1916,
+            "owners": [
+                "fabr. Carl Svensson",
+                "fabr. Gottfrid Johansson",
+                "fabr. Helge Söderlund"
+            ]
+        },
+        "3": {
+            "name": "Metall AB. Ivar Hageberg",
+            "location": "Hillerstorp (Jönköp. l.)",
+            "business": "Metailgjuteri, järn- och metallvaru-fabrik. Tillverkar beslag för läderindustrien, söljor och spännen, trådarbeten, ankarkrok, karbin-hakar, nyckelringar m.m.",
+            "contact": {
+                "phone": "36",
+                "postgiro": "139601"
+            },
+            "financials": {
+                "capital": "21,000 kr",
+                "employees": {
+                    "arb.-antal": 10
+                },
+                "annual_turnover": "75,000 kr"
+            },
+            "foundation_year": 1937,
+            "director": "ing. Yngve Jägerroth"
+        },
+        "4": {
+            "name": "Metall- & Bakelitfabriken Meba",
+            "location": "Gislaved (Jönköp. l.)",
+            "business": "Tillverkar elektr. bakelitartiklar, handlampor, normal- och ljusimitationslamp-hållare, tryckknappar och möbelbeslag i bakelit m.m.",
+            "contact": {
+                "phone": "357",
+                "postgiro": "287662"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "250,000 kr"
+            },
+            "foundation_year": 1942,
+            "owners": [
+                "fabr. Theodor Svensson"
+            ]
+        },
+        "5": {
+            "name": "AB. Metallduk",
+            "location": "Bruzaholm (Jönköp. l.)",
+            "business": "Specialtillverkning av viror och metalldukar för trämasse-, cellulosa- och pappersindustrien samt av syrafast stålduk.",
+            "contact": {
+                "telegraph": "Metallduk, Bruzaholm",
+                "phone": "1",
+                "postgiro": "74455"
+            },
+            "financials": {
+                "capital": "225,000 kr",
+                "employees": {
+                    "industriarb": 65
+                },
+                "annual_turnover": "1,500,000 kr"
+            },
+            "foundation_year": 1906,
+            "board": [
+                {
+                    "name": "Gösta Bengtson",
+                    "role": "verkst. dir."
+                }
+            ]
+        },
+        "6": {
+            "name": "AB. Metallegeringar",
+            "location": "Göteborg",
+            "business": "Smältverk. Framställer mässing, rödgods, bronser i tackor, bly-, tenn-, aluminium- och zinklegeringar.",
+            "contact": {
+                "office": "Hvitfeldsplatsen 9 A",
+                "telegraph": "Alloys, Göteborg",
+                "phone": "Olof Manner Aktiebolag",
+                "postgiro": "Unspecified"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 30
+                }
+            },
+            "foundation_year": 1938,
+            "board": [
+                {
+                    "name": "adv. William Kristensen",
+                    "role": "st."
+                },
+                {
+                    "name": "Conny Lisnell",
+                    "role": "dir."
+                },
+                {
+                    "name": "Mauritz Lundberg",
+                    "role": "revisor"
+                },
+                {
+                    "name": "Benkt Manner",
+                    "role": "köpm."
+                },
+                {
+                    "name": "Arne Wicknertz",
+                    "role": "ing."
+                }
+            ],
+            "director": "Conny Lisnell"
+        },
+        "7": {
+            "name": "AB. Metallfabriken Ljunghäll",
+            "location": "Anderstorp (Jönköp. l.)",
+            "business": "Kokill- och pressgjuteri. Tillverkar sopnedkastluckor, tamburhyllor, ledstångsbeslag, skruvmejslar, aluminiumklubbor m.m. samt massartiklar av aluminiumgjutgods.",
+            "contact": {
+                "phone": [
+                    "57",
+                    "227"
+                ]
+            },
+            "financials": {
+                "capital": "97,100 kr",
+                "employees": {
+                    "industriarb": 50
+                },
+                "annual_turnover": "750,000 kr"
+            },
+            "foundation_year": 1918,
+            "board": [
+                {
+                    "name": "Harald Ljungkvist",
+                    "role": "verkst. dir."
+                }
+            ]
+        }
+    }
+}

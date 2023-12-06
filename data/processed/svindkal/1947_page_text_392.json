@@ -1,0 +1,167 @@
+{
+    "original": "Instrumentfabrik—Irvin\n\nStyrelse: dir. Per Lilja (ordf.), disp.\nGunnar Fjelkegård, avd.-ehef Gunnar\nHolm.\n\nVerJcst. dir.: Per Lilja.\nDisp.: Gunnar Fjelkegård.\nFabrikschef: ing. Sven Henning.\n\nInstrumentfabriks AB. Lyth,\n\nStockholm.\n\nInstrumentfabrik och mek. verkstad.\nTillverkar nautiska, geodetiska och\nhydro-metriska instrument, fyrapparater,\nprecisionsinstrument för verkstäder samt\ninstrument för skogsbruk m. m.\n\nKontor: Döbelnsg. 36. Telegr.-adr.:\nLythkompass, Stockholm. Telefon: 234360.\n\nAkt.-kap.: 60,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 400,000 kr.\n\n—\tFirman etabl. 1861, bolag 1917.\nStyrelse: dir. Olof Traung (ordf.), ing.\n\nJ. L. Hassel, dir. Algot Lagerholm.\nVerJcst. dir.: J. L. Hassel.\nV. verkst. dir.: Algot Lagerholm.\n\nInstrumentfabriken Kigus,\n\nStockholm.\n\nSe AB. Kigus Instrumentfabrik,\nStockholm.\n\nInstrumentfirman Axel Ericsson,\n\nGöteborg.\n\nTillverkar kirurgiska instrument och\noperationsmöbler.\n\nKontor: 2:dra Långg. 8. Telegr.-adr.:\nEkif, Göteborg. Telefon: 143908 o. 143992.\nPostgiro: 42006. — Antal industriarb.:\n16. — Firman etabl. 1923.\n\nÄgare o. chef: fabr. Axel Ericsson.\n\nAB. Instrumentverken, Stockholm.\n\nFinmekanisk verkstad. Tillverkar\nterräng-, flyg- och marin-kompasser,\nhöjd-barometrar m. fl. instrument samt\npress-verktyg. Varumärke: »IV».\n\nKontor: Industrivägen 17. Telegr.-adr.:\nIverkenab, Stockholm. Telefon: 272710.\nPostgiro^ 4717. Ensamförsälj.: AB.\nBröderna Kjellström, Stockholm,\nIndustrivägen 17, telefon: 272705.\n\nAkt.-kap.: 20,800 kr. Antal\nindustriarb.: 54. Tillv.-värde pr år: 600,000 kr.\n\n—\tFirman etabl. 1934 under namn AB.\nSvenska Elektro Industri Co., nuv. namn\n1945.\n\nStyrelse: dir. Björn Kjellström (ordf.),\nfabr. Georg Adolfson, fabr. Gunnar\nTilländer.\n\nVerkst. direktörer: G. Adolfson o. G.\nTilländer.\n\n\"AB. Insulator, Malmö.\n\nTillverkar isoleringsmassa och utför på\nentreprenad isoleringar för ång-, värme-,\nkyl- och frysanläggningar samt\nisoleringar för akustik, vibration och fönster.\n\nKontor: österg. 3. Telefon: 15005.\nPostgiro: 149199. — Akt.-kap.: 25,000 kr.\nAntal industriarb.: 18. — Bolaget\ngrundat 1944.\n\nStyrelse: adv. Gunnar Behm (ordf.),\nkapten ^ Torsten Bönnelyehe, konsul\nHerbert Dieden.\n\nVerkst. dir.: Torsten Bönnelyehe.\n\n\"International, Färgbolaget,\n\nGöteborg.\n\nSe Färg AB. International, Göteborg.\n\n\"AB. International Harvester\nCompany, Norrköping.\n\nMek. verkstad och skördegarnsfabrik.\nTillverkar självbindare, slåttermaskiner,\nhästräfsor, radsåningsmaskiner,\nkonstgöd-ningsspridare m. m. samt skördegarn.\nBolaget driver även försäljning av lastbilar,\ntraktorer, traktorredskap, motorer m. m.\n\nTelegr.-adr. o. telefon: Harvester,\nNorrköping. Postgiro: 15000.\n\nAkt.-kap.: 8,000,000 kr. Antal\nindustriarb.: 500. — Bolaget grundat 1904.\n\nStyrelse: bankdir. Jacob Wallenberg\n(ordf.), adv. Nils Berglund, dir. Albert\nW. Pearson.\n\nVerkst. dir.: Albert W. Pearson.\nVerkstadsdisp.: H. Axelsson.\nFörsäljn.-disp.: Robert N. Bergsten.\nDisp. för inköp, planering in. m: Åke\nWerner.\n\n\"Invarit AB., Svenska, Köping.\nSe Svenska Invarit AB., Köping.\n\nIris AB., Skofabriken, Almby.\nSe AB. Skofabriken Iris, Almby.\n\nIrvin Fallskärms AB., Stockholm.\n\nTillverkar Irvin-fallskärmar.\n\nKontor: Strandv. 5 A. Telefon: 624700.\n\n—\tAkt.-kap.: 80,000 kr. Antal\nindustriarb.: 15. Tillv.-värde pr år: 500,000 kr.\n\n—\tBolaget grundat 1938.\n\nStyrelse: kammarherre C. Löwenhjelm\n(ordf.), dir. Lars Hedberg, mr L. L.\nIrvin.\n\nVerkst. dir.: C. Löwenhjelm.\n\nDriftsing.: Thure E. Nilsson.\n\n*",
+    "structured": {
+        "1": {
+            "name": "Instrumentfabrik—Irvin",
+            "location": "Stockholm",
+            "business": "Instrumentfabrik och mek. verkstad",
+            "products": "Tillverkar nautiska, geodetiska och hydro-metriska instrument, fyrapparater, precisionsinstrument för verkstäder samt instrument för skogsbruk m. m.",
+            "contact": {
+                "office": "Döbelnsg. 36",
+                "telegraph": "Lythkompass, Stockholm",
+                "phone": [
+                    "234360"
+                ]
+            },
+            "financials": {
+                "capital": "60,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "400,000 kr",
+                "annual_production_value": "400,000 kr"
+            },
+            "foundation_year": 1861,
+            "corporation_year": 1917,
+            "board": [
+                {
+                    "name": "Per Lilja",
+                    "role": "verkst. dir."
+                },
+                {
+                    "name": "Gunnar Fjelkegård",
+                    "role": "disp."
+                },
+                {
+                    "name": "Gunnar Holm",
+                    "role": "avd.-ehef"
+                }
+            ]
+        },
+        "2": {
+            "name": "Instrumentfirman Axel Ericsson",
+            "location": "Göteborg",
+            "business": "Tillverkar kirurgiska instrument och operationsmöbler",
+            "products": "N/A",
+            "contact": {
+                "office": "2:dra Långg. 8",
+                "telegraph": "Ekif, Göteborg",
+                "phone": [
+                    "143908",
+                    "143992"
+                ],
+                "postgiro": "42006"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 16
+                }
+            },
+            "foundation_year": 1923,
+            "owners": [
+                "fabr. Axel Ericsson"
+            ]
+        },
+        "3": {
+            "name": "AB. Instrumentverken",
+            "location": "Stockholm",
+            "business": "Finmekanisk verkstad",
+            "products": "Tillverkar terräng-, flyg- och marin-kompasser, höjd-barometrar m. fl. instrument samt press-verktyg. Varumärke: »IV».",
+            "contact": {
+                "office": "Industrivägen 17",
+                "telegraph": "Iverkenab, Stockholm",
+                "phone": "272710",
+                "postgiro": "4717"
+            },
+            "financials": {
+                "capital": "20,800 kr",
+                "employees": {
+                    "industriarb": 54
+                },
+                "annual_turnover": "600,000 kr",
+                "annual_production_value": "600,000 kr"
+            },
+            "foundation_year": 1934,
+            "current_name_year": 1945,
+            "board": [
+                {
+                    "name": "Olof Traung",
+                    "role": "ordf."
+                },
+                {
+                    "name": "J. L. Hassel",
+                    "role": "ing."
+                },
+                {
+                    "name": "Algot Lagerholm",
+                    "role": "dir."
+                }
+            ]
+        },
+        "4": {
+            "name": "AB. Insulator",
+            "location": "Malmö",
+            "business": "Tillverkar isoleringsmassa och utför på entreprenad isoleringar för ång-, värme-, kyl- och frysanläggningar samt isoleringar för akustik, vibration och fönster",
+            "products": "N/A",
+            "contact": {
+                "office": "österg. 3",
+                "phone": "15005",
+                "postgiro": "149199"
+            },
+            "financials": {
+                "capital": "25,000 kr",
+                "employees": {
+                    "industriarb": 18
+                }
+            },
+            "foundation_year": 1944,
+            "board": [
+                {
+                    "name": "Gunnar Behm",
+                    "role": "adv."
+                },
+                {
+                    "name": "Torsten Bönnelyehe",
+                    "role": "kapten"
+                },
+                {
+                    "name": "Herbert Dieden",
+                    "role": "konsul"
+                }
+            ]
+        },
+        "5": {
+            "name": "Irvin Fallskärms AB.",
+            "location": "Stockholm",
+            "business": "Tillverkar Irvin-fallskärmar",
+            "products": "N/A",
+            "contact": {
+                "office": "Strandv. 5 A",
+                "phone": "624700"
+            },
+            "financials": {
+                "capital": "80,000 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "500,000 kr",
+                "annual_production_value": "500,000 kr"
+            },
+            "foundation_year": 1938,
+            "board": [
+                {
+                    "name": "C. Löwenhjelm",
+                    "role": "kammarherre"
+                },
+                {
+                    "name": "Lars Hedberg",
+                    "role": "dir."
+                },
+                {
+                    "name": "L. L. Irvin",
+                    "role": "mr"
+                }
+            ]
+        }
+    }
+}

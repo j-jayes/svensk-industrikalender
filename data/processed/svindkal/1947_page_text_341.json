@@ -1,0 +1,248 @@
+{
+    "original": "Göteborg\n\nBolaget, grundat 1889, arbetar under\ngemensam förvaltning med AB.\nGöteborg-Dals Pappersbruk och Gamlestadens\nPapppersbruks AB.\n\nStyrelse: dir. Nils Troedsson (ordf.),\navd. Gunnar Lewerth, dir. Nils Thenberg,\nköpm. Nathan Troedsson.\n\nFörsäljn.-dir.: Yngve Olin.\n\növering.: Bo Enderlein.\n\n*\tGöteborgs Porslinsfabrik, Göteborg.\n\nSe AB. Rörstrands Porslinsfabriker,\nLidköping.\n\nGöteborgs Pulveriserings AB.,\n\nGöteborg.\n\nKvarnanläggning för pulverisering av\nmineralier, malmer, droger, kemikalier,\nkryddor m. m.; tillverkar rostskyddsfärg\n(märke: »Ironskin»),\neementhärdnings-pulver (märke: »Concrete Hardener»)\nsamt pannrensningsmedel (märke:\n»G. P.A.»).\n\nKontor: Kämpeg. 3. Telegr.-adr.:\nPulver, Göteborg. Telefon: 150431.\nPostgiro: 42939. —. Akt.-kap.: 300,000 kr.\nAntal industriarb.: 20. —- Firman etabl.\n1898, bolag 1900.\n\nStyrelse o. verkst. dir.: Olof Mellgren.\n\n*\tGöteborgs Remfabriks AB.,\n\nGöteborg.\n\nTillverkar driv- och transportremmar\nav bomull, cellull, hampa och kamelhår\nsamt bomullsbromsband.\n\nKontor: Åvägen 15. Telegr.-adr.: Zeta,\nGöteborg. Telefon: 160561. Postgiro:\n40491. Lager: Stockholm, Nybrokajen 5,\ntelefon: 109990.\n\nAkt.-kap.: 200,000 kr. Antal\nindustriarb.: 35. Tillv.-värde pr år: 1,000,000 kr.\n\n—\tBolaget grundat 1891.\n\nStyrelse o. verkst. dir.: disp. Torsten\nHolmstrand.\n\nAB. Göteborgs Reseffektfabrik,\n\nGöteborg.\n\nTillverkar reseffekter,\nresandekoffertar, rese-necessärer, damväskor,\nshoppingväskor, etuier m. m.\n\nKontor: Fabriksg. 3. Telefon: 152713\no. 152732. Postgiro: 12049.\n\nAkt.-kap.: 110,000 kr. Antal\nindustriarb.: 80. Tillv.-värde pr år: 1,400,000 kr.\n\n—\tFirman etabl. 1889, bolag 1928.\n\nStyrelse o. verkst. dir.: dir. Carl Kron-\n\nker.\n\nDisp.: Eric Anderson.\n\nKontorschef: M. Jägerholm.\n\nGöteborgs Resårifidustr i, Hjalmar\nA. Hallberg, Göteborg.\n\nSe Hallbergs Industri AB., Mölndal.\n\nGöteborgs Sand AB., Göteborg.\n\nMurbruks- och betongfabrik i\nGöteborg, cementvarufabrik i Bohus,\nsand-täkter i Bohus och Gunnilse (Älvsb. l.),\ni Ellesbo (Göteborg o. Bohus l.) samt i\nLindome (Hallands l.). Tillverkar\nkalkbruk, betong och cementvaror samt\nlevererar sand och makadam.\n\nKontor: Marieholmsg. 42. Telegr.-adr.\no. telefon: Sandbolaget, Göteborg.\nPostgiro: 25440.\n\nAkt.-kap.: 272,500 kr. Antal\nindustriarb.: 90. Tillv.-värde pr år: 3,500,000 kr\n\n—\tBolaget grundat 1920.\n\nStyrelse: ryttm. R. Schéle (ordf.), ing.\nGunnar Åberg, ing. Erik Ågren, kapten\nP. Gustaf Ågren.\n\nVerkst. dir.: Gunnar Åberg.\n\nAB. Göteborgs Siporexfabrik,\n\nGöteborg.\n\nBetongvarufabrik i Backa, Göteborg.\nTillverkar armerad och oarmerad\nlättbetong (märke: »Siporex») i block,\nplattor och balkar.\n\nKontor: Backa; postadr.: Göteborg 8.\nTelefon: »Siporex». Postgiro: 45077.\n\nAkt.-kap.: 340,000 kr. Antal\nindustriarb.: 100. — Bolaget grundat 1938.\n\nStyrelse: dir. Ernst Wehtje (ordf.), dir.\nBror Sjögren, dir. Fredrik Wehtje, ryttm.\nHugo Wehtje, dir. Walter Wehtje.\n\nVerkst. dir.: Bror Sjögren (Stockholm).\n\nPlatschef: ing. Bertil Linse.\n\n*AB. Göteborgs Skeppssnickeri,\n\nGöteborg.\n\nMöbelfabrik, snickerifabrik och\ntunnfabrik i Älv ängen (Älvsb. l.) samt\nsnickeriverkstad i Göteborg. Tillverkar\nmöbler, inredningar och snickerier för fartyg,\nbutiksinredningar samt tunnor.\n\nHuvudkontor: Göteborg, ö. Hamng.\n30—34. Telefon: 139626 o. 139686.\nPostgiro: 240133.\n\nAkt.-kap.: 70,000 kr. Antal\nindustriarb.: 80. Tillv.-värde pr år: 1,000,000 kr.\n\n—\tFirman etabl. 1944, bolag 1946.\nBolaget har i sig upptagit AB. Götaindustrier,\nÄlvängen.\n\nStyrelse: disp. Elis Jönner (ordf.), ing.\nGösta Bregell, verkmäst. Erik Eriksson,\nverkmäst. Älf Håman, verkmäst. Holger\nJohansson, fru Werna Johansson,\nverkmäst. Carl-Eric Rydgren.\n\nVerkst. dir.: Elis Jönner.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Göteborg-Dals Pappersbruk",
+                "location": "Göteborg",
+                "business": "Pappersbruk",
+                "foundation_year": 1889,
+                "predecessor": "AB. Göteborg-Dals Pappersbruk och Gamlestadens Papppersbruks AB.",
+                "board": [
+                    {
+                        "name": "Nils Troedsson",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Gunnar Lewerth",
+                        "role": "avd."
+                    },
+                    {
+                        "name": "Nils Thenberg",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Nathan Troedsson",
+                        "role": "köpm."
+                    }
+                ],
+                "sales_manager": "Yngve Olin",
+                "manager": "Bo Enderlein"
+            },
+            {
+                "name": "Göteborgs Pulveriserings AB",
+                "location": "Göteborg",
+                "business": "Kvarnanläggning för pulverisering",
+                "products": "Tillverkar rostskyddsfärg (märke: Ironskin), cementhärdnings-pulver (märke: Concrete Hardener) samt pannrensningsmedel (märke: G. P.A.)",
+                "contact": {
+                    "office": "Kämpeg. 3",
+                    "phone": [
+                        "150431"
+                    ],
+                    "postgiro": "42939",
+                    "telegraph": "Pulver",
+                    "description": "Kontaktinformation för företaget."
+                },
+                "financials": {
+                    "capital": "300,000 kr",
+                    "employees": {
+                        "industriarb.": 20
+                    },
+                    "foundation_year": 1898,
+                    "corporation_year": 1900
+                },
+                "director": "Olof Mellgren"
+            },
+            {
+                "name": "Göteborgs Remfabriks AB",
+                "location": "Göteborg",
+                "business": "Tillverkar driv- och transportremmar",
+                "products": "Av bomull, cellull, hampa och kamelhår samt bomullsbromsband",
+                "contact": {
+                    "office": "Åvägen 15",
+                    "phone": [
+                        "160561"
+                    ],
+                    "postgiro": "40491",
+                    "description": "Kontaktinformation för företaget."
+                },
+                "financials": {
+                    "capital": "200,000 kr",
+                    "employees": {
+                        "industriarb.": 35
+                    },
+                    "annual_turnover": "1,000,000 kr",
+                    "foundation_year": 1891
+                },
+                "director": "Torsten Holmstrand"
+            },
+            {
+                "name": "AB. Göteborgs Reseffektfabrik",
+                "location": "Göteborg",
+                "business": "Tillverkar reseffekter",
+                "products": "Resandekoffertar, rese-necessärer, damväskor, shoppingväskor, etuier m. m.",
+                "contact": {
+                    "office": "Fabriksg. 3",
+                    "phone": [
+                        "152713",
+                        "152732"
+                    ],
+                    "postgiro": "12049",
+                    "description": "Kontaktinformation för företaget."
+                },
+                "financials": {
+                    "capital": "110,000 kr",
+                    "employees": {
+                        "industriarb.": 80
+                    },
+                    "annual_turnover": "1,400,000 kr",
+                    "foundation_year": 1889,
+                    "corporation_year": 1928
+                },
+                "director": "Carl Kronker",
+                "managing_director": "dir. Carl Kronker",
+                "sales_manager": "disp. Eric Anderson",
+                "manager": "M. Jägerholm"
+            },
+            {
+                "name": "Göteborgs Sand AB",
+                "location": "Göteborg",
+                "business": "Murbuks- och betongfabrik",
+                "products": "Tillverkar kalkbruk, betong och cementvaror samt levererar sand och makadam",
+                "contact": {
+                    "office": "Marieholmsg. 42",
+                    "phone": [
+                        "Sandbolaget, Göteborg"
+                    ],
+                    "postgiro": "25440",
+                    "description": "Kontaktinformation för företaget."
+                },
+                "financials": {
+                    "capital": "272,500 kr",
+                    "employees": {
+                        "industriarb.": 90
+                    },
+                    "annual_turnover": "3,500,000 kr",
+                    "foundation_year": 1920
+                },
+                "board": [
+                    {
+                        "name": "R. Schéle",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Gunnar Åberg",
+                        "role": "ing."
+                    },
+                    {
+                        "name": "Erik Ågren",
+                        "role": "ing."
+                    },
+                    {
+                        "name": "P. Gustaf Ågren",
+                        "role": "kapten"
+                    }
+                ],
+                "director": "Gunnar Åberg"
+            },
+            {
+                "name": "AB. Göteborgs Siporexfabrik",
+                "location": "Göteborg",
+                "business": "Betongvarufabrik",
+                "products": "Tillverkar armerad och oarmerad lättbetong (märke: Siporex) i block",
+                "contact": {
+                    "office": "Backa",
+                    "phone": [
+                        "Siporex"
+                    ],
+                    "postgiro": "45077",
+                    "description": "Kontaktinformation för företaget."
+                },
+                "financials": {
+                    "capital": "340,000 kr",
+                    "employees": {
+                        "industriarb.": 100
+                    },
+                    "foundation_year": 1938
+                },
+                "board": [
+                    {
+                        "name": "Ernst Wehtje",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Bror Sjögren",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Fredrik Wehtje",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Hugo Wehtje",
+                        "role": "ryttm."
+                    },
+                    {
+                        "name": "Walter Wehtje",
+                        "role": "dir."
+                    }
+                ],
+                "director": "Bror Sjögren"
+            },
+            {
+                "name": "AB. Göteborgs Skeppssnickeri",
+                "location": "Göteborg",
+                "business": "Möbelfabrik, snickerifabrik och tunnfabrik",
+                "products": "Tillverkar möbler, inredningar och snickerier för fartyg, butiksinredningar samt tunnor",
+                "contact": {
+                    "office": "Göteborg, ö. Hamng. 30—34",
+                    "phone": [
+                        "139626",
+                        "139686"
+                    ],
+                    "postgiro": "240133",
+                    "description": "Kontaktinformation för företaget."
+                },
+                "financials": {
+                    "capital": "70,000 kr",
+                    "employees": {
+                        "industriarb.": 80
+                    },
+                    "annual_turnover": "1,000,000 kr",
+                    "foundation_year": 1944
+                },
+                "board": [
+                    {
+                        "name": "Elis Jönner",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Gösta Bregell",
+                        "role": "ing."
+                    },
+                    {
+                        "name": "Erik Eriksson",
+                        "role": "verkmäst."
+                    },
+                    {
+                        "name": "Älf Håman",
+                        "role": "verkmäst."
+                    },
+                    {
+                        "name": "Holger Johansson",
+                        "role": "verkmäst."
+                    },
+                    {
+                        "name": "Werna Johansson",
+                        "role": "fru"
+                    },
+                    {
+                        "name": "Carl-Eric Rydgren",
+                        "role": "verkmäst."
+                    }
+                ],
+                "director": "Elis Jönner"
+            }
+        ]
+    }
+}

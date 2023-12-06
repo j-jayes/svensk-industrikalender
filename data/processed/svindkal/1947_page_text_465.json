@@ -1,0 +1,174 @@
+{
+    "original": "Lidköpin g—LiIje holm en\n\n\"Lidköpings Modellsnickeri,\n\nLidköping.\n\nTillverkar gjuterimodeller.\nTelefon: 20436. Postgiro: 143767. —\nArb.-antal: 5. Tillv.-värde pr år: 40,000\nkr. — Firman etabl. 1926.\n\nÄgare ö. chefer: modellsnickare Oskar\nösterberg, modellsnickare Einar\nHansson o. modellsnickare Birger Svensson.\n\n\"Lidköpings Porslinsfabrik,\n\nLidköping.\n\nSe AB. Rörstrands Porslinsfabriker,\nLidköping.\n\n\"Lidköpings Tändsticksfabriker,\n\nLidköping.\n\nSe Jönköpings och Vulcans\nTändsticksfabriks AB., Jönköping.\n\n\"AB. Lidköpings Vikingsågar,\n\nLidköping.\n\nTillverkar bågfilblad, maskinsågblad,\nband- och cirkelsågblad för trä och\nmetall, handsågar, stocksågar, stockvedsågar,\nvedsågar, timmersågar, fällningssågar,\nramsågar, block-, is- och kransågar samt\nmaskinknivar och maskinhyvelstål.\nVarunamn: »Viking».\n\nTelegr.-adr.: Sågblad, Lidköping.\nTelefon: 127, 218 o. 329. Postgiro: 8779. —\nAkt.-kap.: 300,000 kr. Antal industriarb.:\n110.\n\nBolaget grundat 1915 under namn AB.\nLidköpings Sågbladsfabrik, ombildat 1922.\nSandvikens Jernverks AB. är\nhuvudintressent i bolaget.\n\nStyrelse: bruksdisp. K. F. Göransson\n(ordf.), intendent Nils Eneström, dir.\nErik W. Forsberg, dir. Viktor\nMagnusson.\n\nPlatschef: ing. Anton Petterson.\n\nAB. Lidköpings\nWärmelednings-Industri, Järpås.\n\nMek. verkstad i Järpås (Skarab. l.).\nTillverkar plåtradiatorer.\n\nTelegr.-adr.: Värmeindustri, Järpås.\nTelefon: 31 o. 63. Postgiro: 86898.\n\nRepresentanter: Svenska Rörförsäljn.\nAB., Stockholm, Slussplan 5, telefon:\n»Svenska Rörförsäljningen»; Sani\ntets-firman G. G., Stockholm, Kungsg. 48,\ntelefon: 231690; AB. John Fr. Andersson\n&amp; Co., Göteborg, St. Badhusg. 1 C,\ntelefon: 170405.\n\nAkt.-kap.: 162,000 kr. Antal\nindustriarb.: 70. Tillv.-värde pr år: 1,500,000 kr.\n\n—\tFirman etabl. 1922, bolag 1925.\nStyrelse: dir. John Edvin Franzén\n\n(ordf.), fabr. Anders Franzén, fabr.\nHarry Franzén.\n\nVerkst. dir.: John Edvin Franzén.\n\n\"Lienshyttans Järnbruk, Lienshyttan.\nSe Riddarhytte AB., Riddarhyttan.\n\n\"»Lifaco», Livsmedels Fabrikations\n\nCo. AB., Stockholm.\n\nTillverkar halvfabrikat för bagerier\n\noch konditorier såsom specialgeléer,\ngarneringsfrukter, fettglasyrer, glass-,\nkräm-och bakpulver, ägg- och\nfettersättnings-medel, aromer, kakpuder,\ngräddvispnings-medel, förtjockningsmedel,\nkonserveringsmedel m. m. Varumärken: »Lifaco»,\n»Flavia», »Epocca» o. »Anticrob».\nBolaget driver även handel med färger och\nkemikalier för livsmedelsindustrien.\n\nKontor: Kommendörsg. 15.\nTelegr.-adr.: Flavia, Stockholm. Telefon:\n670665. Postgiro: 156988.\n\nAkt.-kap.: 20,000 kr. Antal\nindustriarb.: 25. Tillv.-värde pr år: 1,400,000 kr.\n\n—\tBolaget grundat 1939.\n\nStyrelse: kamrer Valfrid Johansson.\nVerkst. dir.: K. Eichenberg.\n\n\"Liljedahls Skofabrik AB.,\n\nLindesberg.\n\nTillverkar agoskodon.\nTelefon: 293. — Akt.-kap.: 25,000 kr.\nAntal industriarb.: 20. Tillv.-värde pr år:\n180,000 kr. — Firman etabl. 1929, bolag\n1938.\n\nStyrelse o. verkst. dir.: fabr. John A.\nLiljedahl.\n\n\"J. E. Liljegren, Malmö.\n\nSe Byggnadsingeniör J. E. Liljegren\nAB., Malmö.\n\n\"AB. Liljeholmens Kabelfabrik,\n\nStockholm.\n\nTillverkar elektr. kablar, ledningar,\napparater och kondensatorer samt\nindustriell belysningsarmatur vid Västberga,\nStockholm.\n\nPostadr.: Stockholm 9. Telegr.-adr.:\nKabel, Stockholm. Telefon: »Liljeholmens\nKabelfabrik». Postgiro: 4803. —\nAkt.-kap.: 1,500,000 kr. Antal industriarb.:\n550.\n\n327*",
+    "structured": {
+        "1": {
+            "name": "Lidköpings Modellsnickeri",
+            "location": "Lidköping",
+            "business": "Tillverkar gjuterimodeller",
+            "contact": {
+                "phone": [
+                    "20436"
+                ],
+                "postgiro": "143767"
+            },
+            "financials": {
+                "employees": {
+                    "Arb.-antal": 5
+                },
+                "annual_turnover": "40,000 kr"
+            },
+            "foundation_year": 1926,
+            "owners": [
+                "Oskar Österberg",
+                "Einar Hansson",
+                "Birger Svensson"
+            ]
+        },
+        "2": {
+            "name": "AB. Lidköpings Vikingsågar",
+            "location": "Lidköping",
+            "business": "Tillverkar bågfilblad, maskinsågblad, band- och cirkelsågblad för trä och metall",
+            "products": "handsågar, stocksågar, stockvedsågar, vedsågar, timmersågar, fällningssågar, ramsågar, block-, is- och kransågar samt maskinknivar och maskinhyvelstål. Varunamn: »Viking»",
+            "contact": {
+                "phone": [
+                    "127",
+                    "218",
+                    "329"
+                ],
+                "postgiro": "8779"
+            },
+            "financials": {
+                "capital": "300,000 kr",
+                "employees": {
+                    "Antal industriarb.": 110
+                }
+            },
+            "foundation_year": 1915,
+            "corporation_year": 1922,
+            "owners": [
+                "Sandvikens Jernverks AB."
+            ],
+            "board": [
+                {
+                    "name": "bruksdisp. K. F. Göransson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "intendent Nils Eneström",
+                    "role": null
+                },
+                {
+                    "name": "dir. Erik W. Forsberg",
+                    "role": null
+                },
+                {
+                    "name": "dir. Viktor Magnusson",
+                    "role": null
+                }
+            ],
+            "manager": "Anton Petterson"
+        },
+        "3": {
+            "name": "AB. Lidköpings Wärmelednings-Industri",
+            "location": "Järpås",
+            "business": "Mek. verkstad i Järpås (Skarab. l.). Tillverkar plåtradiatorer",
+            "contact": {
+                "phone": [
+                    "31",
+                    "63"
+                ],
+                "postgiro": "86898"
+            },
+            "financials": {
+                "capital": "162,000 kr",
+                "employees": {
+                    "Antal industriarb.": 70
+                },
+                "annual_turnover": "1,500,000 kr"
+            },
+            "foundation_year": 1922,
+            "corporation_year": 1925,
+            "board": [
+                {
+                    "name": "dir. John Edvin Franzén",
+                    "role": "ordf."
+                },
+                {
+                    "name": "fabr. Anders Franzén",
+                    "role": null
+                },
+                {
+                    "name": "fabr. Harry Franzén",
+                    "role": null
+                }
+            ],
+            "manager": "John Edvin Franzén"
+        },
+        "4": {
+            "name": "»Lifaco», Livsmedels Fabrikations Co. AB.",
+            "location": "Stockholm",
+            "business": "Tillverkar halvfabrikat för bagerier och konditorier",
+            "products": "specialgeléer, garneringsfrukter, fettglasyrer, glass-, kräm-och bakpulver, ägg- och fettersättnings-medel, aromer, kakpuder, gräddvispnings-medel, förtjockningsmedel, konserveringsmedel m. m. Varumärken: »Lifaco», »Flavia», »Epocca» o. »Anticrob»",
+            "contact": {
+                "office": "Kommendörsg. 15",
+                "phone": [
+                    "670665"
+                ],
+                "postgiro": "156988"
+            },
+            "financials": {
+                "capital": "20,000 kr",
+                "employees": {
+                    "Antal industriarb.": 25
+                },
+                "annual_turnover": "1,400,000 kr"
+            },
+            "foundation_year": 1939,
+            "board": [
+                {
+                    "name": "kamrer Valfrid Johansson",
+                    "role": null
+                }
+            ],
+            "manager": "K. Eichenberg"
+        },
+        "5": {
+            "name": "Liljedahls Skofabrik AB.",
+            "location": "Lindesberg",
+            "business": "Tillverkar agoskodon",
+            "contact": {
+                "phone": [
+                    "293"
+                ]
+            },
+            "financials": {
+                "capital": "25,000 kr",
+                "employees": {
+                    "Antal industriarb.": 20
+                },
+                "annual_turnover": "180,000 kr"
+            },
+            "foundation_year": 1929,
+            "corporation_year": 1938,
+            "manager": "John A. Liljedahl"
+        },
+        "6": {
+            "name": "AB. Liljeholmens Kabelfabrik",
+            "location": "Stockholm",
+            "business": "Tillverkar elektr. kablar, ledningar, apparater och kondensatorer samt industriell belysningsarmatur vid Västberga, Stockholm",
+            "contact": {
+                "post_address": "Stockholm 9",
+                "phone": [
+                    "Liljeholmens Kabelfabrik"
+                ],
+                "postgiro": "4803"
+            },
+            "financials": {
+                "capital": "1,500,000 kr",
+                "employees": {
+                    "Antal industriarb.": 550
+                }
+            }
+        }
+    }
+}

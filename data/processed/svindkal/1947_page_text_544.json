@@ -1,0 +1,306 @@
+{
+    "original": "Norrköping\n\nKontor: Åby. Telegr.-adr.: Makaroni\n-fabrik, Norrköping. Telefon: Norrköping\n50264 o. 50042. Postgiro: 171760.\n\nFörsäljningsorganisation:\nMakaronibo-laget, Svenska Makaronifabrikers\nFör-säljn.-AB., Göteborg; telefon: 185847.\nPostgiro: 12021. Repr. i Stockholm:\nHeinr. Griider, Svartmang. 24; telefon:\n109003.\n\nAkt.-kap.: 300,000 kr. Antal\nindustriarb.: 30. — Fabriken grundad 1896,\nbolag 1941.\n\nStyrelse: dir. Alarik Arthur (ordf.),\nherr Göran Arthur, fil. mag. Ingrid\nArthur, fru M. L. Hofman-Bang.\n\nVerkst. dir.: Alarik Arthur.\n\n^Norrköpings Möbelsnickeri,\n\nNorrköping.\n\nTillverkar möbler och\napoteksinredningar.\n\nTelefon: 24430. — Arb.-antal: 10.\nTillv.-värde pr år: 80,000 kr. — Firman\netabl. 1922.\n\nÄgare o. chef: snickaremäst. Lennart\nSvensson.\n\nAB. Norrköpings Paraplyfabrik,\n\nNorrköping.\n\nTillverkar herr- och damparaplyer.\n\nKontor: G :1a Torget 13. Telefon:\n20803. Postgiro: 133603. Repr. i\nStockholm: Henry öqvist, Alströmerg. 9 a.\n\nAkt.-kap.: 35,000 kr. Antal\nindustriarb.: 14. Tillv.-värde pr år: 70,000 kr.\n— Bolaget grundat 1934.\n\nVerkst. dir.: Axel Salomonson.\n\nNorrköpings Slaggplattfabrik,\n\nNorrköping.\n\nTillverkar mellanväggsplattor (s. k.\nslite-plattor) samt slaggtegel.\n\nTelefon: »Vedcentralen», Norrköping.\nPostgiro: 95707. — Arb.-antal: 10.\nTillv.-värde pr år: ,100,000 kr. — Fabriken,\nanlagd 1929, äges av Vedcentralen i\nNorrköping AB.\n\n. Chef: vakant.\n\n^Norrköpings Sodafabriks AB-,\n\nNorrköping.\n\nKem. tekn. fabrik. Tillverkar\nkristallsoda, tekn. och kem. ren soda, koncentr.\nsoda för textil- och garveriindustrier och\ndiskmaskinspulver, disktabletter,\nakvarellfärger, färgkritor samt timmerkritor.\nVarumärken: »Runa», »Wasa», »Gloria»\no. »Sture».\n\nTelegr.-adr.: Sodafabriken, Norrköping.\nTelefon: 20222 o. 20294. Postgiro: 21326.\nEnsamförsäljare för kristallsoda:\nSodafabrikernas Försäljnings AB., Göteborg,\nN. Hamng. 18, telefon: 136904.\n\nAkt.-kap.: 150,000 kr. Antal\nindustriarb.: 32. Tillv.-värde pr år: 330,000 kr.\n\n—\tFirman etabl. 1892, bolag 1917.\nStyrelse: fru G. Appeltofft (ordf.),\n\nbankdir. Erik H. Ljunggren, kontorschef\nHarry Sedin.\n\nVerkst. dir.: fru G. Appeltofft.\nKontorschef: Harry Sedin.\n\n^Norrköpings Strumpfabrik, Stig\nOlsson, Kommanditbolag,\n\nNorrköping.\n\nTillverkar damstrumpor av silke.\nVarumärke: »Gipsy».\n\nKontor: Kneippbaden; postadr.:\nNorrköping 5. Telefon: 23765. Postgiro:\n130584. — Antal industriarb.: 50.\nTillv.-värde pr år: 800,000 kr. — Firman etabl.\n1936.\n\nÄgare o. chef: disp. Stig Olsson.\n\n4B. Norrköpings Strå- &amp;\nFilthattfabrik, Norrköping.\n\nTillverkar mössor, damhattar av flätor,\nsiden, filt etc. Bolaget driver även\nengroshandel med modevaror.\n\nHuvudkontor: Norrköping.\nTelegr.-adr.: Stråhatten, Norrköping. Telefon:\n29355 o. 22940. Postgiro: 94700.\nAvd.-kontor: Stockholm, Vasag. 9, telefon:\n105377; Göteborg, ö. Hamng. 52, telefon:\n138244; Malmö: Stortorget 3, telefon:\n23787.\n\nAkt.-kap.: 400,000 kr. Antal\nindustriarb.: 200. Tillv.-värde pr år: 1,800,000 kr.\n\n—\tBolaget grundat 1889.\n\nStyrelse: dir. B. J. E. Malmqvist\n(ordf.), disp. Josef Malmqvist, köpm. J.\nC. Stenqvist.\n\nVerkst. dir.: B. J. E. Malmqvist.\nDisp.: Josef Malmqvist.\nAvd.-chefer: i Stockholm: fru M.\nMorholm; i Malmö: H. Larsson; i Göteborg:\nR. Stenqvist.\n\n^Norrköpings Tapetfabrik,\n\nNorrköping.\n\nTillverkar tapeter, bårder och\ntapetfärger. Varumärke (för ljusäkta och\ntvättbara tapeter): »Pe-tapeter».\n\nTelegr.-adr.: Tapetfabriken,\nNorrköping. Telefon: 20103, 22898, 20609 o.\n27809. Postgiro: 14533.\n\nAntal industriarb.: 60. Tillv.-värde pr\når: 1,800,000 kr. — Firman etabl. 1880.\nÄgare o. chef: fabr. Alfr. Hedenström.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Makaronifabriken",
+                "location": "Norrköping",
+                "business": "Tillverkning av pasta",
+                "contact": {
+                    "office": "Åby",
+                    "phone": [
+                        "50264",
+                        "50042"
+                    ],
+                    "postgiro": "171760",
+                    "sales_offices": [
+                        {
+                            "location": "Göteborg",
+                            "phone": "185847"
+                        }
+                    ],
+                    "telegraph": "Makaroni-fabrik, Norrköping"
+                },
+                "financials": {
+                    "capital": "300,000 kr",
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_turnover": "Information saknas",
+                    "annual_production_value": "Information saknas"
+                },
+                "foundation_year": 1896,
+                "board": [
+                    {
+                        "name": "Alarik Arthur",
+                        "role": "ordförande"
+                    },
+                    {
+                        "name": "Göran Arthur",
+                        "role": ""
+                    },
+                    {
+                        "name": "Ingrid Arthur",
+                        "role": "fil. mag."
+                    },
+                    {
+                        "name": "M. L. Hofman-Bang",
+                        "role": "fru"
+                    }
+                ],
+                "owners": [],
+                "director": "Alarik Arthur",
+                "managing_director": "Information saknas",
+                "sales_manager": "Information saknas",
+                "manager": "Information saknas"
+            },
+            {
+                "name": "Norrköpings Möbelsnickeri",
+                "location": "Norrköping",
+                "business": "Möbeltillverkning och tillverkning av apoteksinredningar",
+                "contact": {
+                    "office": "Information saknas",
+                    "phone": [
+                        "24430"
+                    ],
+                    "postgiro": "Information saknas",
+                    "factory_phone": "Information saknas"
+                },
+                "financials": {
+                    "capital": "Information saknas",
+                    "employees": {
+                        "arb": 10
+                    },
+                    "annual_turnover": "80,000 kr",
+                    "annual_production_value": "Information saknas"
+                },
+                "foundation_year": 1922,
+                "owners": [
+                    "Lennart Svensson"
+                ],
+                "director": "Lennart Svensson",
+                "managing_director": "Information saknas",
+                "sales_manager": "Information saknas",
+                "manager": "Information saknas"
+            },
+            {
+                "name": "AB. Norrköpings Paraplyfabrik",
+                "location": "Norrköping",
+                "business": "Tillverkning av herr- och damparaplyer",
+                "contact": {
+                    "office": "G :1a Torget 13",
+                    "phone": [
+                        "20803"
+                    ],
+                    "postgiro": "133603",
+                    "sales_offices": [
+                        {
+                            "location": "Stockholm",
+                            "phone": "105377"
+                        },
+                        {
+                            "location": "Göteborg",
+                            "phone": "138244"
+                        },
+                        {
+                            "location": "Malmö",
+                            "phone": "23787"
+                        }
+                    ]
+                },
+                "financials": {
+                    "capital": "35,000 kr",
+                    "employees": {
+                        "industriarb": 14
+                    },
+                    "annual_turnover": "70,000 kr",
+                    "annual_production_value": "Information saknas"
+                },
+                "foundation_year": 1934,
+                "owners": [],
+                "director": "Axel Salomonson",
+                "managing_director": "Information saknas",
+                "sales_manager": "Information saknas",
+                "manager": "Information saknas"
+            },
+            {
+                "name": "Norrköpings Slaggplattfabrik",
+                "location": "Norrköping",
+                "business": "Tillverkning av mellanväggsplattor (slite-plattor) och slaggtegel",
+                "contact": {
+                    "factory_office": "Information saknas",
+                    "phone": [
+                        "Vedcentralen, Norrköping"
+                    ],
+                    "postgiro": "95707"
+                },
+                "financials": {
+                    "capital": "Information saknas",
+                    "employees": {
+                        "arb": 10
+                    },
+                    "annual_turnover": "100,000 kr",
+                    "annual_production_value": "Information saknas"
+                },
+                "foundation_year": 1929,
+                "owners": [
+                    "Vedcentralen i Norrköping AB"
+                ],
+                "director": "vakant",
+                "managing_director": "Information saknas",
+                "sales_manager": "Information saknas",
+                "manager": "Information saknas"
+            },
+            {
+                "name": "Norrköpings Sodafabriks AB",
+                "location": "Norrköping",
+                "business": "Tillverkning av kemikalier (kristallsoda, ren soda, koncentrerad soda, diskmaskinspulver, akvarellfärger, färgkritor, timmerkritor)",
+                "contact": {
+                    "telegraph": "Sodafabriken, Norrköping",
+                    "phone": [
+                        "20222",
+                        "20294"
+                    ],
+                    "postgiro": "21326"
+                },
+                "financials": {
+                    "capital": "150,000 kr",
+                    "employees": {
+                        "industriarb": 32
+                    },
+                    "annual_turnover": "330,000 kr",
+                    "annual_production_value": "Information saknas"
+                },
+                "foundation_year": 1892,
+                "board": [
+                    {
+                        "name": "fru G. Appeltofft",
+                        "role": "ordförande"
+                    },
+                    {
+                        "name": "Erik H. Ljunggren",
+                        "role": "bankdir."
+                    },
+                    {
+                        "name": "Harry Sedin",
+                        "role": "kontorschef"
+                    }
+                ],
+                "owners": [],
+                "director": "fru G. Appeltofft",
+                "managing_director": "Information saknas",
+                "sales_manager": "Information saknas",
+                "manager": "Information saknas"
+            },
+            {
+                "name": "Norrköpings Strumpfabrik, Stig Olsson, Kommanditbolag",
+                "location": "Norrköping",
+                "business": "Tillverkning av damstrumpor av silke",
+                "contact": {
+                    "office": "Kneippbaden",
+                    "phone": [
+                        "23765"
+                    ],
+                    "postgiro": "130584"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 50
+                    },
+                    "annual_turnover": "800,000 kr"
+                },
+                "foundation_year": 1936,
+                "owners": [
+                    "disp. Stig Olsson"
+                ],
+                "director": "disp. Stig Olsson",
+                "managing_director": "Information saknas",
+                "sales_manager": "Information saknas",
+                "manager": "Information saknas"
+            },
+            {
+                "name": "Norrköpings Strå- & Filthattfabrik",
+                "location": "Norrköping",
+                "business": "Tillverkning av mössor och damhattar av flätor, siden, filt, samt engroshandel med modevaror",
+                "contact": {
+                    "head_office": "Norrköping",
+                    "phone": [
+                        "29355",
+                        "22940"
+                    ],
+                    "postgiro": "94700",
+                    "sales_offices": [
+                        {
+                            "location": "Stockholm",
+                            "phone": "105377"
+                        },
+                        {
+                            "location": "Göteborg",
+                            "phone": "138244"
+                        },
+                        {
+                            "location": "Malmö",
+                            "phone": "23787"
+                        }
+                    ]
+                },
+                "financials": {
+                    "capital": "400,000 kr",
+                    "employees": {
+                        "industriarb": 200
+                    },
+                    "annual_turnover": "1,800,000 kr"
+                },
+                "foundation_year": 1889,
+                "board": [
+                    {
+                        "name": "B. J. E. Malmqvist",
+                        "role": "ordförande"
+                    },
+                    {
+                        "name": "Josef Malmqvist",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "J. C. Stenqvist",
+                        "role": "köpm."
+                    }
+                ],
+                "owners": [],
+                "director": "B. J. E. Malmqvist",
+                "managing_director": "Information saknas",
+                "sales_manager": "Information saknas",
+                "manager": "Information saknas"
+            },
+            {
+                "name": "Norrköpings Tapetfabrik",
+                "location": "Norrköping",
+                "business": "Tillverkning av tapeter, bårder och tapetfärger",
+                "contact": {
+                    "office": "Information saknas",
+                    "phone": [
+                        "20103",
+                        "22898",
+                        "20609",
+                        "27809"
+                    ],
+                    "postgiro": "14533"
+                },
+                "financials": {
+                    "employees": {
+                        "arb": 60
+                    },
+                    "annual_turnover": "1,800,000 kr"
+                },
+                "foundation_year": 1880,
+                "owners": [
+                    "fabr. Alfr. Hedenström"
+                ],
+                "director": "fabr. Alfr. Hedenström",
+                "managing_director": "Information saknas",
+                "sales_manager": "Information saknas",
+                "manager": "Information saknas"
+            }
+        ]
+    }
+}

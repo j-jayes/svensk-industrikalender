@@ -1,0 +1,160 @@
+{
+    "original": "Radio—Ram\n\nutmärker till Sveriges Industriförbund anslutna företag\n\n\"Radio AB., Svenska, Stockholm.\n\nSe Svenska Radio AB., Stockholm.\n\nRadiofabriken Luxor, Motala.\nSe Luxor Radio AB., Motala.\n\nRadiofabriken Standard, TJlvsunda.\n\nSe AB. Standard Radiofabrik,\nUlvsunda.\n\n\"AB. Radius, Stockholm.\n\nMetallmanufakturfabrik vid .Tellusborg\n(Stockholm). Tillverkar fotogenkök,\nspritkök, lödlampor, belysningslampor för\nfotogen, bak- och stekugnar, sanitetsarmatur,\nfiskredskap såsom spinnspön och\nspinnrullar. Varumärke: »Radius».\n\nPostadr.: Stockholm 32. Telegr.-adr.:\nRadius, Stockholm. Telefon: 452510.\nPostgiro: 828.\n\nAkt.-kap.: 1,000,000 kr. Antal\nindustriarb.: 300. Tillv.-värde pr år: 4,000,000 kr.\n— Bolaget grundat 1913.\n\nStyrelse: dir. John T. Johansson\n(ordf.), fru I. Hedlund, avd.-chef Georg\nA. Jitelius, dir.-assist. Nils Jitelius, adv.\nAx. T. Nilsson.\n\nVerkst. dir.: J. T. Johansson.\n\nDir.-assist.: Nils Jitelius.\n\nRaintex AB., Stockholm.\n\nRegnklädersfabrik. Tillverkar\nimpregnerade och gummerade dam-, herr- och\nbarnregnkläder samt plastic- och\nnylon-regnkappor.\n\nKontor: Hornsgat. 76. Telegr.-adr.:\nRaintexbol, Stockholm. Telefon: 420424.\nPostgiro: 56498.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 60. — Bolaget grundat 1943.\n\nStyrelse o. verkst. dir.: dir. Erich Zons.\n\n\"Rakbladsfabriken Sollex,\n\nJönköping.\n\nTillverkar rakblad och rakhyvlar.\nVarumärken: »Skandinav» o. »Suverän».\n\nTelegr.-adr.: Sollex, Jönköping. Tele-\n\nfon: 4900—4915. Postgiro: 130730. —\nAntal industriarb.: 45. — Firman etabl.\n1933.\n\nÄgare o. chef: disp. Herman Falk.\n\n\"Ralsta Tegelbruk,\n\nHallstahammar.\n\nTegelbruk vid Ralsta, Hallstahammar\n(Västmanl. l.). Tillverkar mur- och\ntaktegel samt dräneringsrör.\n\nTelefon: »Kanthal», Hallstahammar.\nPostgiro: 73633. — Antal industriarb.:\n30. Årstillv.: 3 milj. tegelvaror. —\nTegelbruket, anlagt 1904, äges av AB. Kanthal,\nHallstahammar.\n\nChef: disp. Hans v. Kantzow.\n\növering.: Gösta Rehnquist.\n\nFörsäljn.-chef: Åke Lindblad.\n\nTegelmäst.: J. N. Wikner.\n\n\"Rambergs Snickerifabrik,\n\nStockholm.\n\nTillverkar inredningar, speciellt\nbar-och restauranginredningar.\n\nKontor: Tomtebogatan 11. Telefon:\n325130. Postgiro: 53789. — Arb.-antal:\n7. — Firman etabl. 1885.\n\nÄgare o. chef: fabr. Th. Ramberg.\n\nAB. Ramlist, Tranås.\n\nSnickerifabrik. Tillverkar ramlister och\nträtoffelbottnar.\n\nTelefon: 2116. Postgiro: 96322. —\nAkt.-kap.: 75,000 kr. Antal industriarb.:\n27. Tillv.-värde pr år: 225,000 kr. —\nFirman etabl. 1920, bolag 1937.\n\nChefer: fabr. Johan Th. Krafth o. disp.\nEinar Tell.\n\n\"Ram- &amp; Lyxfabriken \"Haga\",\n\nMjölby.\n\nTillverkar antikramar,\nserveringabric-kor, nackspeglar, pipställ, tobaksburkar\nm. m.\n\nTelefon: 260. Postgiro: 31311. Repr.:\nK. E. Lundin, Saltsjöbaden.\nArb.-antal: 4. Tillv.-värde pr år: 17,000 kr. —\nFirman etabl. 1917.\n\nÄgare o. chef: fabr. Otto Carlsson.\n\n448*",
+    "structured": {
+        "1": {
+            "name": "AB. Radius",
+            "location": "Stockholm",
+            "business": "Metallmanufaktur",
+            "contact": {
+                "office": "Stockholm 32",
+                "phone": [
+                    "452510"
+                ],
+                "postgiro": "828",
+                "head_office": "Stockholm",
+                "telegraph": "Radius, Stockholm"
+            },
+            "financials": {
+                "capital": "1,000,000 kr",
+                "employees": {
+                    "industriarb": 300
+                },
+                "annual_turnover": "4,000,000 kr"
+            },
+            "foundation_year": 1913,
+            "board": [
+                {
+                    "name": "John T. Johansson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "I. Hedlund",
+                    "role": "Fru"
+                },
+                {
+                    "name": "Georg A. Jitelius",
+                    "role": "avd.-chef"
+                },
+                {
+                    "name": "Nils Jitelius",
+                    "role": "dir.-assist."
+                },
+                {
+                    "name": "Ax. T. Nilsson",
+                    "role": "adv."
+                }
+            ],
+            "manager": "J. T. Johansson",
+            "director": "J. T. Johansson",
+            "sales_manager": "Nils Jitelius"
+        },
+        "2": {
+            "name": "Raintex AB.",
+            "location": "Stockholm",
+            "business": "Regnkläder",
+            "contact": {
+                "office": "Hornsgat. 76",
+                "phone": [
+                    "420424"
+                ],
+                "postgiro": "56498"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 60
+                }
+            },
+            "foundation_year": 1943,
+            "manager": "Erich Zons",
+            "director": "Erich Zons"
+        },
+        "3": {
+            "name": "Rakbladsfabriken Sollex",
+            "location": "Jönköping",
+            "business": "Rakblad och rakhyvlar",
+            "contact": {
+                "telegraph": "Sollex, Jönköping",
+                "phone": "4900—4915",
+                "postgiro": "130730"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 45
+                }
+            },
+            "foundation_year": 1933,
+            "manager": "Herman Falk",
+            "director": "Herman Falk"
+        },
+        "4": {
+            "name": "Ralsta Tegelbruk",
+            "location": "Hallstahammar",
+            "business": "Tegelbruk",
+            "contact": {
+                "phone": "Kanthal, Hallstahammar",
+                "postgiro": "73633"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_production_value": "3 milj. tegelvaror"
+            },
+            "manager": "Hans v. Kantzow",
+            "overing": "Gösta Rehnquist",
+            "sales_manager": "Åke Lindblad",
+            "tegelmäst": "J. N. Wikner"
+        },
+        "5": {
+            "name": "Rambergs Snickerifabrik",
+            "location": "Stockholm",
+            "business": "Snickeri",
+            "contact": {
+                "office": "Tomtebogatan 11",
+                "phone": [
+                    "325130"
+                ],
+                "postgiro": "53789"
+            },
+            "employees": 7,
+            "foundation_year": 1885,
+            "owner": "fabr. Th. Ramberg"
+        },
+        "6": {
+            "name": "AB. Ramlist",
+            "location": "Tranås",
+            "business": "Snickerifabrik",
+            "contact": {
+                "phone": "2116",
+                "postgiro": "96322"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "employees": {
+                    "industriarb": 27
+                },
+                "annual_production_value": "225,000 kr"
+            },
+            "foundation_year": 1920,
+            "owner": [
+                "fabr. Johan Th. Krafth",
+                "disp. Einar Tell"
+            ]
+        },
+        "7": {
+            "name": "Ram- & Lyxfabriken \"Haga\"",
+            "location": "Mjölby",
+            "business": "Tillverkning av antikramar, serveringabric-kor, nackspeglar, pipställ, tobaksburkar m. m.",
+            "contact": {
+                "phone": "260",
+                "postgiro": "31311"
+            },
+            "financials": {
+                "annual_production_value": "17,000 kr"
+            },
+            "foundation_year": 1917,
+            "owner": "fabr. Otto Carlsson"
+        }
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "original": "Malmö\n\nMalmö Cummiförädling, C. O.\nMalmström AB., Malmö.\n\nTillverkar gummiklackar samt tekniska\ngummivaror. Varumärken: »Ido» o.\n»Puma».\n\nKontor: Rönneholmsvägen 32.\nTelefon: 28047. Postgiro: 28347. Repr. i\nÖrebro: Ernst Löfdahl, telefon: 13983.\n\nAkt.-kap.: 42,000 kr. Antal\nindustriarb.: 6. Tillv.-värde pr år: 60,000 kr. —\nBolaget grundat 1936.\n\nVerkst. dir.: Olof Malmström.\n\n*Malmö Handsk- &amp; Glacéläderfabriks\nAB., Kävlinge.\n\nSe AB. Glacéläderfabriken, Kävlinge.\n\nAB. Malmö Hatt- &amp; Mössfabrik,\n\nMalmö.\n\nTillverkar uniforms- och sportmössor\nsamt barnhattar.\n\nKontor: S. Förstadsg. 18. Telefon:\n21918. Postgiro: 37721. — Akt.-kap.:\n100,000 kr. Antal industriarb.: 35. —\nFirman etabl. 1903, bolag 1935.\n\nVerkst. direktörer: John-Erik Mattsson\no. Stig Mattsson.\n\n*AB. Malmö Kappfabrik, Malmö.\n\nTillverkar damkappor, dräkter,\nswag-gers m. m.\n\nKontor: Storg. 20 C. Telefon: 19619 o.\n30124. Postgiro: 38822. — Akt.-kap.:\n100,000 kr. Antal industriarb.: 56.\nTillv.-värde pr år: 700,000 kr. — Firman etabl.\n1933.\n\nStyrelse: kamrer Hans Malmström,\ndisp. Olof Malmström, lagerchef Per\nMalmström, disp. Sven Malmström, dir.\nNils Svensson.\n\nVerkst. dir.: Nils Svensson.\nDisp.: Sven Malmström.\n\n*AB. Malmökonfektion, Malmö.\n\nTillverkar arbetskläder, sportkläder\nsamt lekdräkter. Varumärke: »Malko».\n\nKontor: Per Weijersg. 4. Telefon:\n77100, 20884 o. 16883. Postgiro: 37897.\nRepr. i Göteborg: Frank Endersen,\nHvit-feldtsg. 5, telefon: 113640.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 65. Tillv.-värde pr år: 1,500,000 kr.\n— Bolaget grundat 1925.\n\nStyrelse o. verkst. dir.: J. P. Bager.\n\n\"Malmö Lakrits Fabrik AB.,\n\nMalmö.\n\nTillverkar pastiller, lakrits,\nlakritskon-fekt och toffees. Varumärke: »Malaco».\n\nKontor: Lundavägen 17. Telegr.-adr.:\nMalaco, Malmö. Telefon: 71715. Postgiro:\n38928. —- Akt.-kap.: 100,000 kr. Antal\nindustriarb.: 70. — Firman etabl. 1934.\nStyrelse o. verkst dir.: J. Mörkeberg.\n\n*AB. Malmö Ljustrycksanstalt,\n\nMalmö.\n\nTillverkar ljustryck och vykort.\nKontor: Kalendeg. 10. Telegr.-adr.:\nLjus, Malmö. Telefon: 28280 o. 24544.\nPostgiro: 38088.\n\nAkt.-kap.: 31,000 kr. Arb.-antal: 8.\nTillv.-värde pr år: 125,000 kr. — Bolaget\ngrundat 1919.\n\nStyrelse: hovint. John Kroon (ordf.),\nkamrer Gösta Gustafsson, fru Ida\nHolmgren.\n\nVerkst. dir.: John Kroon.\nKamrer: Gösta Gustafsson.\n\n\"Malmö Läderfabriks AB., Malmö.\n\nLäder- och skofabrik. Tillverkar\nbottenläder och skodon. Varumärke: »Gyllene\nGripen».\n\nKontor: Ystadsvägen 17. Telegr.-adr.:\nLäderfabriken, Malmö. Telefon: »Malmö\nläderfabrik». Postgiro: 38140.\nAvd.-kon-tor: Stockholm, Kungsg. 37, telefon:\n107344; Göteborg, Kungsg. 15, telefon:\n139259.\n\nAkt.-kap.: 3,000,000 kr. Antal\nindustriarb.: 540. Tillv.-värde pr år: 11,000,000\nkr. — Bolaget grundat 1897, ombildat\n1934.\n\nStyrelse: disp. Henry Dunker (ordf.),\ndir. Wilhelm Bahrke, greve Pontus De la.\nGardie, bankdir. Claes A. Lindskog, dir.\nC. F. Tranchell, bankdir. Ivar Åkerman.\nVerkst. dir.: Wilhelm Bahrke.\n\n\"Malmö Mek. Tricotfabriks AB.,\n\nMalmö.\n\nTillverkar trikåvaror och strumpor.\nVarumärke: »M.M.T.».\n\nKontor: Rönneholmsvägen.\nTelegr.-adr.: Tricotfabriken, Malmö. Telefon:\n71435. Postgiro: 38372.\n\nAkt.-kap.: 1,000,000 kr. Antal\nindustriarb.: 350. Tillv.-värde pr år: 5,000,000 kr.\n— Bolaget grundat 1892.\n\nStyrelse: bankdir. Harald Hagberg\n(ordf.), dir. E. Faber, bankdir. Algot\nRii-der.\n\nVerkst. dir.: Victor Bliicher.\n\n359*",
+    "structured": {
+        "1": {
+            "name": "Malmö Cummiförädling, C. O.",
+            "location": "Malmö",
+            "business": "Tillverkar gummiklackar samt tekniska gummivaror",
+            "products": "Varumärken: »Ido» o. »Puma»",
+            "contact": {
+                "office": "Rönneholmsvägen 32",
+                "phone": [
+                    "28047"
+                ],
+                "postgiro": "28347",
+                "sales_offices": [
+                    {
+                        "location": "Örebro",
+                        "phone": "13983"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "42,000 kr",
+                "employees": {
+                    "industriarb": 6
+                },
+                "annual_turnover": "60,000 kr",
+                "annual_production_value": "60,000 kr"
+            },
+            "foundation_year": 1936,
+            "director": "Olof Malmström"
+        },
+        "2": {
+            "name": "AB. Malmö Hatt- & Mössfabrik",
+            "location": "Malmö",
+            "business": "Tillverkar uniforms- och sportmössor samt barnhattar",
+            "contact": {
+                "office": "S. Förstadsg. 18",
+                "phone": [
+                    "21918"
+                ],
+                "postgiro": "37721"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 35
+                }
+            },
+            "foundation_year": 1935,
+            "director": [
+                "John-Erik Mattsson",
+                "Stig Mattsson"
+            ]
+        },
+        "3": {
+            "name": "AB. Malmö Kappfabrik",
+            "location": "Malmö",
+            "business": "Tillverkar damkappor, dräkter, swag-gers m. m.",
+            "contact": {
+                "office": "Storg. 20 C",
+                "phone": [
+                    "19619",
+                    "30124"
+                ],
+                "postgiro": "38822"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 56
+                },
+                "annual_turnover": "700,000 kr"
+            },
+            "foundation_year": 1933,
+            "board": [
+                {
+                    "name": "kamrer Hans Malmström",
+                    "role": "disp. Olof Malmström"
+                },
+                {
+                    "name": "lagerchef Per Malmström",
+                    "role": "disp. Sven Malmström"
+                },
+                {
+                    "name": "dir. Nils Svensson",
+                    "role": "Verkst. dir."
+                }
+            ]
+        },
+        "4": {
+            "name": "AB. Malmökonfektion",
+            "location": "Malmö",
+            "business": "Tillverkar arbetskläder, sportkläder samt lekdräkter",
+            "products": "Varumärke: »Malko»",
+            "contact": {
+                "office": "Per Weijersg. 4",
+                "phone": [
+                    "77100",
+                    "20884",
+                    "16883"
+                ],
+                "postgiro": "37897",
+                "sales_offices": [
+                    {
+                        "location": "Göteborg",
+                        "phone": "113640"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 65
+                },
+                "annual_turnover": "1,500,000 kr"
+            },
+            "foundation_year": 1925,
+            "director": "J. P. Bager"
+        },
+        "5": {
+            "name": "AB. Malmö Lakrits Fabrik AB.",
+            "location": "Malmö",
+            "business": "Tillverkar pastiller, lakrits, lakritskon-fekt och toffees",
+            "products": "Varumärke: »Malaco»",
+            "contact": {
+                "office": "Lundavägen 17",
+                "telegraph": "Malaco, Malmö",
+                "phone": [
+                    "71715"
+                ],
+                "postgiro": "38928"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 70
+                }
+            },
+            "foundation_year": 1934,
+            "director": "J. Mörkeberg"
+        },
+        "6": {
+            "name": "AB. Malmö Ljustrycksanstalt",
+            "location": "Malmö",
+            "business": "Tillverkar ljustryck och vykort",
+            "contact": {
+                "office": "Kalendeg. 10",
+                "telegraph": "Ljus, Malmö",
+                "phone": [
+                    "28280",
+                    "24544"
+                ],
+                "postgiro": "38088"
+            },
+            "financials": {
+                "capital": "31,000 kr",
+                "employees": {
+                    "Arb.-antal": 8
+                },
+                "annual_production_value": "125,000 kr"
+            },
+            "foundation_year": 1919,
+            "board": [
+                {
+                    "name": "hovint. John Kroon",
+                    "role": "ordf."
+                },
+                {
+                    "name": "kamrer Gösta Gustafsson",
+                    "role": ""
+                },
+                {
+                    "name": "fru Ida Holmgren",
+                    "role": ""
+                }
+            ],
+            "director": "John Kroon",
+            "manager": "Gösta Gustafsson"
+        },
+        "7": {
+            "name": "AB. Malmö Läderfabriks AB.",
+            "location": "Malmö",
+            "business": "Läder- och skofabrik",
+            "products": "Tillverkar bottenläder och skodon",
+            "contact": {
+                "office": "Ystadsvägen 17",
+                "telegraph": "Läderfabriken, Malmö",
+                "phone": [
+                    "Malmö läderfabrik"
+                ],
+                "postgiro": "38140",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "107344"
+                    },
+                    {
+                        "location": "Göteborg",
+                        "phone": "139259"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "3,000,000 kr",
+                "employees": {
+                    "industriarb": 540
+                },
+                "annual_turnover": "11,000,000 kr"
+            },
+            "foundation_year": 1934,
+            "owners": [
+                "disp. Henry Dunker (ordf.)",
+                "dir. Wilhelm Bahrke",
+                "greve Pontus De la. Gardie",
+                "bankdir. Claes A. Lindskog",
+                "dir. C. F. Tranchell",
+                "bankdir. Ivar Åkerman"
+            ],
+            "director": "Wilhelm Bahrke"
+        },
+        "8": {
+            "name": "AB. Malmö Mek. Tricotfabriks AB.",
+            "location": "Malmö",
+            "business": "Tillverkar trikåvaror och strumpor",
+            "products": "Varumärke: »M.M.T.»",
+            "contact": {
+                "office": "Rönneholmsvägen",
+                "telegraph": "Tricotfabriken, Malmö",
+                "phone": [
+                    "71435"
+                ],
+                "postgiro": "38372"
+            },
+            "financials": {
+                "capital": "1,000,000 kr",
+                "employees": {
+                    "industriarb": 350
+                },
+                "annual_turnover": "5,000,000 kr"
+            },
+            "foundation_year": 1892,
+            "board": [
+                {
+                    "name": "bankdir. Harald Hagberg",
+                    "role": "ordf."
+                },
+                {
+                    "name": "dir. E. Faber",
+                    "role": ""
+                },
+                {
+                    "name": "bankdir. Algot Riider",
+                    "role": ""
+                }
+            ],
+            "director": "Victor Bliicher"
+        }
+    }
+}

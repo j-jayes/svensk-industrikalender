@@ -1,0 +1,197 @@
+{
+    "original": "Hultsfred—-Huse\n\nTelefon: 158. Postgiro: 164235. —\nAkt.-kap.: 45,000 kr. Antal industriarb.: 30.\nTillv.-värde pr år: 400,000 kr. — Bolaget\ngrundat 1930.\n\nDisp.: Sigfrid Karlsson.\n\nHultsfreds Gjuter i AB.,\n\nHultsfred.\n\nGjuteri och mek. verkstad i Hultsfred\n(Kalmar l.). Tillverkar\ntackjärnsgjut-gods, spec. maskingods upp till 1,5 ton.\n\nTelefon: 6. Postgiro: 22837. —\nAkt.-kap.: 33,000 kr. Antal industriarb.: 10.\nTillv.-värde pr år: 130,000 kr. — Firman\netabl. 1920, bolag 1933.\n\nVerkst. dir. o. drifts chef: Albin\nWred-berg.\n\nHultsfreds Mek. Verkstad,\n\nHultsfred.\n\nTillverkar fräs- och arborrverk,\ngängmaskiner, gänghuvuden och gängbackar\nsamt snabbsågmaskiner för metallkapning\nvid mek. verkstad i Hultsfred (Kalmar\n1.). Varumärke: »HMV».\n\nTelegr.-adr.: Mekaniska, Hultsfred.\nTelefon: 53. Postgiro: 135226. — Antal\nindustriarb.: 45. Tillv.-värde pr år: 550,000\nkr.\n\nFirman etabl. 1918, under namn\nKristdala Mek. Verkstads AB., nuv. namn\n1923.\n\nÄgare o. chef: fabr. B. Wilhelm Ohlcén.\n\nAB. Hultsfreds Skogsprodukter,\n\nHultsfred.\n\nTillverkar dörrar och fönster,\ninredningar samt sågade och hyvlade trävaror\nvid fabrik i Hultsfred (Kalmar l.).\n\nTelefon: 69. Postgiro: 163478. —\nAkt.-kap.: 35,000 kr. Antal industriarb.: 35.\nTillv.-värde pr år: 300,000 kr. — Bolaget\ngrundat 1936.\n\nDisp.: Emil Nilsson.\n\n\"Hultsfreds Träförädlings AB.,\n\nHultsfred.\n\nSnickerifabrik, sågverk och hyvleri i\nHultsfred (Kalmar l.). Tillverkar\nbyggnadssnickerier, sågade och hyvlade\nträvaror, laths, lådbräder samt träkol.\nSpecialitet: exportsnickerier.\n\nTelegr.-adr.: Exportdörrar, Hultsfred.\nTelefon: 54. Postgiro: 14391.\n\nAkt.-kap.: 625,000 kr. Antal\nindustriarb.: 350. Tillv.-värde för snickerier pr\når: 2,500,000 kr. — Bolaget, grundat\n1930, äger AB. Standardhus, Hultsfred.\n\nStyrelse: godsäg. Hadar Hedborg\n(ordf.), dir. Gösta Edström, ryttm. Björn\nHyltén-Cavallius, landstingsm. David\nJohansson, godsäg. Arvid Nilsson, friherre\nLouis Wrede.\n\nVerkst. dir.: Gösta Edström (Växjö).\n\nPlatschef: disp. Torsten Wahlquist.\n\nAB. Huluhammars Bruk,\n\nSmålands Taberg.\n\nMek. verkstad i Smålands Taberg\n(Jönköp. l.). Tillverkar borr- och\ngängmaskiner, gängverktyg, pressar, filmaskiner\nsamt skruvstycken.\n\nTelegr.-adr.: Huleg, Smålands Taberg.\nTelefon: 7. Postgiro: 7739. — Akt.-kap.:\n24,000 kr. Tillv.-värde pr år: 110,000 kr.\n— Bolaget grundat 1927.\n\nStyrelse: ing. Ernst Göranson (ordf.),\nfru I. Göranson.\n\nVerkst. dir.: Ernst Göranson.\n\nHumlabergs Grufvebolag,\n\nGyttorp.\n\nJ ärnmalmsgruvor i Rödbergs- och\nHumlabergsfälten (Örebro l.). Bryter\njärnmalm.\n\nPostadr.: Stadra, Gyttorp. Telefon:\nNora 24 a. — Antal industriarb.: 20.\nProd.-värde pr år: 130,000 kr. —\nBolaget började sin verksamhet 1855.\n\nStyrelse: bergsing. Rickard Lundgren\n(ordf.), bruksäg. Carl E. Carlsson.\n\nGruvförest.: Carl E. Carlsson.\n\n\"Husby Tegelbruk, S tallarholmen.\n\nSe AB. Mälardalens Tegelbruk,\nStockholm.\n\n\"AB. A. Huse &amp; Co., Earlstad.\n\nByggnadsentreprenörfirma för\nbostads-och affärshus, industribyggnader m. m.\nsamt för väg- och vattenbyggnadsarbeten.\n\nTelefon: 15135. Postgiro: 29246.\n\nAkt.-kap.: 75,000 kr. Prod.-värde pr år:\n3,000,000 kr. — Firman etabl. 1912, bolag\n1923.\n\nStyrelse: landssekr. Elias Stenius\n(ordf.), grossh. Alfred Hanes, kamrer\nGunnar Hansson, dir. Bror Håkansson,\nkamrer Frey Thimén.\n\nVerkst. dir.: Bror Håkansson.\n\nArbetschefer: civiling. Sven Österman,\ning. Albert Magnusson o. civiling. Erik\nLindh.\n\nKamrer: Stig Håkansson.",
+    "structured": {
+        "1": {
+            "name": "Hultsfreds Gjuter i AB.",
+            "location": "Hultsfred",
+            "business": "Gjuteri och mek. verkstad",
+            "products": "tackjärnsgjut-gods, spec. maskingods upp till 1,5 ton",
+            "contact": {
+                "phone": [
+                    "6"
+                ],
+                "postgiro": "22837"
+            },
+            "financials": {
+                "capital": "33,000 kr",
+                "employees": {
+                    "industriarb": 10
+                },
+                "annual_production_value": "130,000 kr"
+            },
+            "foundation_year": 1920,
+            "corporation_year": 1933,
+            "director": "Albin Wred-berg"
+        },
+        "2": {
+            "name": "Hultsfreds Mek. Verkstad",
+            "location": "Hultsfred",
+            "business": "Tillverkar fräs- och arborrverk, gängmaskiner, gänghuvuden och gängbackar samt snabbsågmaskiner för metallkapning",
+            "contact": {
+                "phone": "53",
+                "postgiro": "135226"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 45
+                },
+                "annual_production_value": "550,000 kr"
+            },
+            "foundation_year": 1918,
+            "current_name_year": 1923,
+            "manager": "B. Wilhelm Ohlcén"
+        },
+        "3": {
+            "name": "AB. Hultsfreds Skogsprodukter",
+            "location": "Hultsfred",
+            "business": "Tillverkar dörrar och fönster, inredningar samt sågade och hyvlade trävaror",
+            "contact": {
+                "phone": "69",
+                "postgiro": "163478"
+            },
+            "financials": {
+                "capital": "35,000 kr",
+                "employees": {
+                    "industriarb": 35
+                },
+                "annual_production_value": "300,000 kr"
+            },
+            "foundation_year": 1936,
+            "director": "Emil Nilsson"
+        },
+        "4": {
+            "name": "Hultsfreds Träförädlings AB.",
+            "location": "Hultsfred",
+            "business": "Snickerifabrik, sågverk och hyvleri",
+            "products": "byggnadssnickerier, sågade och hyvlade trävaror, laths, lådbräder samt träkol",
+            "contact": {
+                "phone": "54",
+                "postgiro": "14391"
+            },
+            "financials": {
+                "capital": "625,000 kr",
+                "employees": {
+                    "industraib": 350
+                },
+                "annual_turnover": "2,500,000 kr"
+            },
+            "foundation_year": 1930,
+            "owners": [
+                "AB. Standardhus, Hultsfred"
+            ],
+            "board": [
+                {
+                    "name": "godsäg. Hadar Hedborg",
+                    "role": "ordf."
+                },
+                {
+                    "name": "dir. Gösta Edström",
+                    "role": null
+                },
+                {
+                    "name": "ryttm. Björn Hyltén-Cavallius",
+                    "role": null
+                },
+                {
+                    "name": "landstingsm. David Johansson",
+                    "role": null
+                },
+                {
+                    "name": "godsäg. Arvid Nilsson",
+                    "role": null
+                }
+            ],
+            "director": "Gösta Edström",
+            "manager": "Torsten Wahlquist"
+        },
+        "5": {
+            "name": "AB. Huluhammars Bruk",
+            "location": "Smålands Taberg",
+            "business": null,
+            "products": "borr- och gängmaskiner, gängverktyg, pressar, filmaskiner samt skruvstycken",
+            "contact": {
+                "phone": "7",
+                "postgiro": "7739"
+            },
+            "financials": {
+                "capital": "24,000 kr",
+                "annual_production_value": "110,000 kr"
+            },
+            "foundation_year": 1927,
+            "board": [
+                {
+                    "name": "ing. Ernst Göranson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "fru I. Göranson",
+                    "role": null
+                }
+            ],
+            "director": "Ernst Göranson"
+        },
+        "6": {
+            "name": "Humlabergs Grufvebolag",
+            "location": "Gyttorp",
+            "business": "Järnmalmsgruvor",
+            "contact": {
+                "phone": "Nora 24 a"
+            },
+            "financials": {
+                "employees": {
+                    "industraib": 20
+                },
+                "annual_production_value": "130,000 kr"
+            },
+            "foundation_year": 1855,
+            "board": [
+                {
+                    "name": "bergsing. Rickard Lundgren",
+                    "role": "ordf."
+                }
+            ],
+            "director": "Carl E. Carlsson"
+        },
+        "7": {
+            "name": "AB. A. Huse & Co.",
+            "location": "Earlstad",
+            "business": "Byggnadsentreprenörfirma",
+            "products": "bostads-och affärshus, industribyggnader m. m. samt för väg- och vattenbyggnadsarbeten",
+            "contact": {
+                "phone": "15135",
+                "postgiro": "29246"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "annual_production_value": "3,000,000 kr"
+            },
+            "foundation_year": 1912,
+            "corporation_year": 1923,
+            "board": [
+                {
+                    "name": "landssekr. Elias Stenius",
+                    "role": "ordf."
+                },
+                {
+                    "name": "grossh. Alfred Hanes",
+                    "role": null
+                },
+                {
+                    "name": "kamrer Gunnar Hansson",
+                    "role": null
+                },
+                {
+                    "name": "dir. Bror Håkansson",
+                    "role": null
+                }
+            ],
+            "director": "Bror Håkansson",
+            "managers": [
+                "civiling. Sven Österman",
+                "ing. Albert Magnusson",
+                "civiling. Erik Lindh"
+            ],
+            "kamrer": "Stig Håkansson"
+        }
+    }
+}

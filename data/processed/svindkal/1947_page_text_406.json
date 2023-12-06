@@ -1,0 +1,135 @@
+{
+    "original": "J ungner—J ärnfors\n\nStyrelse: dir. Torsten Hérnod (ordf.),\nkamrer Henrik öarlén, jur. kand. Ragnar\nEgerlund, dir. Anders Graab, konsul John\nHjelme-Lundberg, disp. Ivan Lindbladh,\ndir. Ragnar Nordh.\n\nVerkst. dir.: John Hjelme-Lundberg.\n\nFörsäljn.-chef: Ragnar Nordh.\n\nKontorschef: Henrik Carlén.\n\n*«Iungner, Svenska Ackumulator AB.,\n\nStockholm.\n\nSe Svenska Ackumulator AB. Jungner,\nStockholm.\n\nAB. dunohus, Stockholm.\n\nTrähusfabrik i Uddevalla. Tillverkar\nmonteringsfärdiga trähus, HB-balkar\nsamt byggnadssnickerier.\n\nHuvudkontor: Stockholm, Flemingg.\n41. Telefon: »HSB». Postgiro: 151113.\nFabrikskontor: Uddevalla, telefon: 14260.\n\nAkt.-kap.: 1,650,000 kr. Antal\nindustriarb.: 330. Tillv.-värde pr år: 8,600,000 kr.\n— Bolaget grundat 1938.\n\nStyrelse: ombudsm. Fritjof Ekman\n(ordf.), folkskollärare Anders K.\nAndréas-son, ombudsm. Oskar Bengtsson, arkitekt\nSven Wallander, byggm. Hugo Åberg.\n\nVerkst. dir.: Sven Wallander.\n\nVice verkst. dir.: Bertil Adolfsson.\n\nFabrikschef: disp. Valter Elmgren.\n\n*E. W. Just, Borås.\n\nFärgeri, blekeri och\nmerceriseringsan-stalt samt filmtryckeri. Förädlar medelst\nfärgning, blekning och annan beredning\null- och bomullsgarn, konstsilke, vistra,\ncellull, trikåvaror m. m.\n\nTelegr.-adr.: Just, Borås. Telefon:\n17465. Postgiro: 6507. — Antal\nindustriarb.: 140. — Firman etabl. 1898,\nombil-dad 1915.\n\nÄgare o. chef: ing. E. W. Just.\n\nJuvelerare AB. John Pettersons\n\nEftr., Stockholm.\n\nTillverkar guld-, silver- och\ndoubléva-ror samt juvel- och platinasmycken.\n\nKontor: Drottningg. 82, postadr.:\nStockholm 3. Telegr.-adr.: Juvel,\nStockholm. Telefon: 109600. Postgiro: 3232.\n\nAkt.-kap.: 275,000 kr. Antal\nindustriarb.: 45. Tillv.-värde pr år: 1,200,000 kr.\n— Firman etabl. 1872, bolag 1901.\n\nStyrelse o. verkst. dir.: Folke Janson.\n\nJäders Bruks Intressenter,\n\nJ ädersbruk.\n\nSågverk, hyvleri och elektr.\nkraftstation i Jädersbruk (Västmanl. l.).\nTillverkar sågade och hyvlade trävaror samt\ndistribuerar elektr. energi. Vid bruket\ndrives även jordbruk och skogshantering.\nTelefon: Arboga 50. Postgiro: 74877.\n\n—\tAntal industriarb.: 20.\nDisp.: Gösta Reuterswärd.\nKontorschef: John Larsson.\n\n*Jädraås Järnverk, Jädraås.\nSe Kopparfors AB., Ockelbo.\n\nJäger, se Jaeger.\n\n*Järbo Yllefabrik, Järbo.\nSe AB. Gästriklands Yllefabrik, Järbo.\n\nAB. Järna Reseffektfabrik, Järna.\n\nReseffektfabrik i Järna (Sthlms l.).\nTillverkar reseffekter och portföljer.\n\nTelegr.-adr.: Reseffekter, Järna.\nTelefon: 75 o. 165. Postgiro: 36144.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 40. Tillv.-värde pr år: 600,000 kr.\n\n—\tFabriken anlagd 1900, bolaget grundat\n1925.\n\nStyrelse: fabrikschef Fredrik Boman,\ndisp. Sven Nilson.\n\nVerkst. dir.: Sven Nilson.\n\n\"Järnbolaget, Eskilstuna.\n\nSe Eskilstuna Jernmanufaktur AB.,\nEskilstuna.\n\n\"Ernst Järnfelt, Byggnads AB.,\n\nGöteborg.\n\nByggnadsentreprenörfirma för\nindustribyggnader samt bostads- och\naffärshus.\n\nKontor: Skeppsbrohuset. Telefon:\n170955. Postgiro: 44322.\n\nAkt.-kap.: 100,000 kr. Prod.-värde pr\når: 4,500,000 kr. — Firman etabl. 1931,\nbolag 1935.\n\nStyrelse: civiling. Ernst Järnfelt\n(ordf.), arkitekt John Järnfelt.\nVerkst. dir.: Ernst Järnfelt.\növering.: civiling. Carl-Oscar\nAlm-quist.\n\nJärnfors &amp; Hall AB., Svensk\nPappersindustri, Sandared.\n\nSe Svensk Pappersindustri, Järnfors &amp;\nHall AB., Sandared.\n\n-K-",
+    "structured": {
+        "1": {
+            "name": "Jungner, Svenska Ackumulator AB",
+            "location": "Stockholm",
+            "business": "Tillverkar monteringsfärdiga trähus, HB-balkar samt byggnadssnickerier",
+            "products": "Description of products manufactured or services offered.",
+            "contact": {
+                "office": "Flemingg. 41, Stockholm",
+                "phone": [
+                    "HSB"
+                ],
+                "postgiro": "151113",
+                "head_office": "Flemingg. 41, Stockholm",
+                "sales_offices": [
+                    {
+                        "location": "Uddevalla",
+                        "phone": "14260"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "1,650,000 kr",
+                "employees": {
+                    "industriarb": 330
+                },
+                "annual_turnover": "8,600,000 kr",
+                "annual_production_value": "8,600,000 kr"
+            },
+            "foundation_year": 1938
+        },
+        "2": {
+            "name": "E. W. Just",
+            "location": "Borås",
+            "business": "Färgeri, blekeri och merceriseringsan-stalt samt filmtryckeri. Förädlar medelst färgning, blekning och annan beredning ull- och bomullsgarn, konstsilke, vistra, cellull, trikåvaror m. m.",
+            "products": "Description of products manufactured or services offered.",
+            "contact": {
+                "telegraph": "Just, Borås",
+                "phone": [
+                    "17465"
+                ],
+                "postgiro": "6507"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 140
+                }
+            },
+            "foundation_year": 1898
+        },
+        "3": {
+            "name": "Juvelerare AB. John Pettersons Eftr.",
+            "location": "Stockholm",
+            "business": "Tillverkar guld-, silver- och doubléva-ror samt juvel- och platinasmycken",
+            "products": "Description of products manufactured or services offered.",
+            "contact": {
+                "office": "Drottningg. 82, Stockholm",
+                "phone": [
+                    "109600"
+                ],
+                "postgiro": "3232"
+            },
+            "financials": {
+                "capital": "275,000 kr",
+                "employees": {
+                    "industriarb": 45
+                },
+                "annual_turnover": "1,200,000 kr"
+            },
+            "foundation_year": 1872
+        },
+        "4": {
+            "name": "Jäders Bruks Intressenter",
+            "location": "Jädersbruk",
+            "business": "Sågverk, hyvleri och elektr. kraftstation i Jädersbruk (Västmanl. l.). Tillverkar sågade och hyvlade trävaror samt distribuerar elektr. energi. Vid bruket drives även jordbruk och skogshantering",
+            "products": "Description of products manufactured or services offered.",
+            "contact": {
+                "phone": [
+                    "Arboga 50"
+                ],
+                "postgiro": "74877"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 20
+                }
+            }
+        },
+        "5": {
+            "name": "AB. Järna Reseffektfabrik",
+            "location": "Järna (Sthlms l.)",
+            "business": "Tillverkar reseffekter och portföljer",
+            "contact": {
+                "telegraph": "Reseffekter, Järna",
+                "phone": [
+                    "75",
+                    "165"
+                ],
+                "postgiro": "36144"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 40
+                },
+                "annual_turnover": "600,000 kr"
+            },
+            "foundation_year": 1925
+        },
+        "6": {
+            "name": "Ernst Järnfelt, Byggnads AB",
+            "location": "Göteborg",
+            "business": "Byggnadsentreprenörfirma för industribyggnader samt bostads- och affärshus",
+            "contact": {
+                "office": "Skeppsbrohuset, Göteborg",
+                "phone": [
+                    "170955"
+                ],
+                "postgiro": "44322"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "annual_production_value": "4,500,000 kr"
+            },
+            "foundation_year": 1931
+        },
+        "7": {
+            "name": "Järnfors & Hall AB",
+            "location": "Sandared",
+            "business": "Svensk Pappersindustri",
+            "products": "Description of products manufactured or services offered."
+        }
+    }
+}

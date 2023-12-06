@@ -1,0 +1,202 @@
+{
+    "original": "Pålsjö—Q varuström\n\n*AB. Pålsjö Tegelbruk, Lund.\n\nTillverkar gult maskinslaget fasadtegel,\nmurtegel, brunntegel och dräneringsrör.\n\nTelefon: 10104. — Akt.-kap.: 90,200\nkr. Antal industriarb.: 28. Årstillv.: 2\nmilj. st. tegelvaror. — Bolaget grundat\n1926.\n\nDisp.: fru Ida Velinder.\n\nAB. A. Påhlssons Bageri, Malmö.\n\nKvarn och bageri. Tillverkar bröd och\nkonditorivaror.\n\nKontor: Bergsg. 12. Telefon:\n»Påhlssons bröd». Postgiro: 14197. —Akt.-kap.:\n866,800 kr. Antal industriarb.: 269.\nTillv.-värde pr år: 5,490,000 kr. — Firman\netabl. 1878, bolag 1911.\n\nStyrelse: dir. Frans Påhlsson (ordf.),\ndir. Albert Påhlsson, ing. Tor Påhlsson.\n\nVerkst. dir.: Frans Påhlsson.\n\nDir.: Albert Påhlsson.\n\n*AB. Bernh. Pålssons Båtvarv, Råa.\n\nTillverkar liv-, lots-, fiske- och\nsegelbåtar vid båtvarv i Råå (Malmöh. l.).\n\nTelefon: Hälsingborg 90010. Postgiro:\n266757.\n\nAkt.-kap.: 30,000 kr. Antal\nindustriarb.: 15. Tillv.-värde pr år: 200,000 kr.\n— Firman etabl. 1910, bolag 1936.\n\nStyrelse: sjökapten Mauritz Jonasson\n(ordf.), övermaskinist Axel Falkland,\nskeppsmäklare A. Th. Jonasson.\n\nVerkst. dir.: A. Th. Jonasson.\n\n\"AB. Carl P. Påhlssons Choklad- &amp;\nKonfektfabrik, Malmö.\n\nTillverkar choklad, kakao, konfekt,\nkarameller, marmelad och dragéer.\nVarumärke: »Påhls».\n\nKontor: Grynbodg. 3. Telegr.-adr.:\n\nCarlpeter, Malmö. Telefon: »Påhls\nchoklad». Postgiro: 14033.\n\nAkt.-kap.: 300,000 kr. Antal\nindustriarb.: 111. — Bolaget grundat 1917.\n\nStyrelse: dir.-assist. Arne Påhlsson,\ndir. Oskar Påhlsson.\n\nVerkst. dir.: Oskar Påhlsson.\n\nPäls AB. Panter, Sömmen.\n\nTillverkar pälsvaror vid fabrik i\nSömmen (Jönköp. l.). Varumärke: Panter.\n\nTelefon: »Baardsfabriker». Postgiro:\n292957. Repr. i Stockholm: V. Hummel,\nDrottningg. 11, telefon: 211304.\n\nAkt.-kap.: 25,000 kr. Antal\nindustriarb.: 20. — Firman etabl. 1942, bolag\n1945.\n\nVerkst. dir.: Elias Baard.\n\nDisp.: Axel Baard.\n\nAB. Pälsvaror, C. Hellqwist &amp; Co.,\n\nTranås.\n\nTillverkar pälsvaror. Specialitet:\npälskappor.\n\nTelefon: 2768. Postgiro: 130643. —\nAkt.-kap.: 150,000 kr. Antal industriarb.:\n35. Tillv.-värde pr år: 900,000 kr. —\nBolaget grundat 1937.\n\nDisp.: Gunnar Hellqwist.\n\nKamrer: Harry Johansson.\n\n* utmärker till Sveriges Industriförbund anslutna företag.\n\nAB. Qvarnshammars Jernbruk,\n\nDegerön.\n\nJärnbruk med grov- och finvalsverk\nsamt manufaktur smedja vid De Geersfors,\nDegerön (Östergötl. l.). Tillverkar\narmerings- och byggnadsjärn samt\nbyggnads-smiden.\n\nTelegr.-adr.: Qvarnshammar, Motala.\nTelefon: Degerön 8. Postgiro: 22117. —\nAkt.-kap.: 51,000 kr. Antal industriarb.:\n30. Tillv.-värde pr år: 500,000 kr.\n\nBolaget, grundat 1920, arrenderar\njärnbruksrörelsen av Gösta Fagerbergs\nsterb-hus, Degerön.\n\nStyrelse: fil. dr Sven Fagerberg\n(ordf.), fru K. Fagerberg, disp. Oskar\n\nFuhrman.\n\nVerkst. dir.: Sven Fagerberg.\n\nDisp.: Oskar Fuhrman.\n\nKassör: Isak Oliw.\n\nOtto Qvarnströms Maskin- o.\n\nVerktygsfabrik, Eskilstuna,\n\nTillverkar handskruvpressar,\npressverktyg, lövsågar och lövsågblad samt\nventilkedjor vid fabrik i Eskilstuna\n(Södermanl. l.).\n\nTelefon: 31436. Postgiro: 263007. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n150.000 kr. -— Firman etabl. 1888.\n\nÄgare o. chefer: fabr. Otto Qvarnström\no. fabr. Karl-Otto Qvarnström.",
+    "structured": {
+        "1": {
+            "name": "AB. Pålsjö Tegelbruk",
+            "location": "Lund",
+            "business": "Tillverkar gult maskinslaget fasadtegel, murtegel, brunntegel och dräneringsrör",
+            "contact": {
+                "phone": [
+                    "10104"
+                ],
+                "postgiro": "none",
+                "head_office": "none",
+                "sales_offices": [],
+                "factory_office": "none",
+                "factory_phone": "none"
+            },
+            "financials": {
+                "capital": "90,200 kr",
+                "employees": {
+                    "industriarb": 28
+                },
+                "annual_turnover": "2 milj. st. tegelvaror",
+                "annual_production_value": "none"
+            },
+            "foundation_year": 1926
+        },
+        "2": {
+            "name": "AB. A. Påhlssons Bageri",
+            "location": "Malmö",
+            "business": "Kvarn och bageri. Tillverkar bröd och konditorivaror",
+            "contact": {
+                "phone": [
+                    "Påhlssons bröd"
+                ],
+                "postgiro": "14197",
+                "head_office": "Bergsg. 12",
+                "sales_offices": [],
+                "factory_office": "none",
+                "factory_phone": "none"
+            },
+            "financials": {
+                "capital": "866,800 kr",
+                "employees": {
+                    "industriarb": 269
+                },
+                "annual_turnover": "5,490,000 kr",
+                "annual_production_value": "none"
+            },
+            "foundation_year": 1911
+        },
+        "3": {
+            "name": "AB. Bernh. Pålssons Båtvarv",
+            "location": "Råå",
+            "business": "Tillverkar liv-, lots-, fiske- och segelbåtar vid båtvarv i Råå (Malmö)",
+            "contact": {
+                "phone": [
+                    "Hälsingborg 90010"
+                ],
+                "postgiro": "266757",
+                "head_office": "none",
+                "sales_offices": [],
+                "factory_office": "none",
+                "factory_phone": "none"
+            },
+            "financials": {
+                "capital": "30,000 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "200,000 kr",
+                "annual_production_value": "none"
+            },
+            "foundation_year": 1936
+        },
+        "4": {
+            "name": "AB. Carl P. Påhlssons Choklad- & Konfektfabrik",
+            "location": "Malmö",
+            "business": "Tillverkar choklad, kakao, konfekt, karameller, marmelad och dragéer. Varumärke: Påhls",
+            "contact": {
+                "phone": [
+                    "Påhls choklad"
+                ],
+                "postgiro": "14033",
+                "head_office": "Grynbodg. 3",
+                "sales_offices": [],
+                "factory_office": "none",
+                "factory_phone": "none"
+            },
+            "financials": {
+                "capital": "300,000 kr",
+                "employees": {
+                    "industriarb": 111
+                },
+                "annual_turnover": "none",
+                "annual_production_value": "none"
+            },
+            "foundation_year": 1917
+        },
+        "5": {
+            "name": "Päls AB. Panter",
+            "location": "Sömmen",
+            "business": "Tillverkar pälsvaror vid fabrik i Sömmen (Jönköp. l.). Varumärke: Panter",
+            "contact": {
+                "phone": [
+                    "Baardsfabriker"
+                ],
+                "postgiro": "292957",
+                "head_office": "none",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "211304"
+                    }
+                ],
+                "factory_office": "none",
+                "factory_phone": "none"
+            },
+            "financials": {
+                "capital": "25,000 kr",
+                "employees": {
+                    "industriarb": 20
+                },
+                "annual_turnover": "none",
+                "annual_production_value": "none"
+            },
+            "foundation_year": 1945
+        },
+        "6": {
+            "name": "AB. Pälsvaror, C. Hellqwist & Co.",
+            "location": "Tranås",
+            "business": "Tillverkar pälsvaror. Specialitet: pälskappor",
+            "contact": {
+                "phone": [
+                    "2768"
+                ],
+                "postgiro": "130643",
+                "head_office": "none",
+                "sales_offices": [],
+                "factory_office": "none",
+                "factory_phone": "none"
+            },
+            "financials": {
+                "capital": "150,000 kr",
+                "employees": {
+                    "industriarb": 35
+                },
+                "annual_turnover": "900,000 kr",
+                "annual_production_value": "none"
+            },
+            "foundation_year": 1937
+        },
+        "7": {
+            "name": "AB. Qvarnshammars Jernbruk",
+            "location": "Degerön",
+            "business": "Järnbruk med grov- och finvalsverk samt manufaktur smedja vid De Geersfors, Degerön (Östergötl. l.). Tillverkar armerings- och byggnadsjärn samt byggnads-smiden",
+            "contact": {
+                "phone": [
+                    "Degerön 8"
+                ],
+                "postgiro": "22117",
+                "head_office": "none",
+                "sales_offices": [],
+                "factory_office": "none",
+                "factory_phone": "none"
+            },
+            "financials": {
+                "capital": "51,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "500,000 kr",
+                "annual_production_value": "none"
+            },
+            "foundation_year": 1920
+        },
+        "8": {
+            "name": "Otto Qvarnströms Maskin- o. Verktygsfabrik",
+            "location": "Eskilstuna",
+            "business": "Tillverkar handskruvpressar, pressverktyg, lövsågar och lövsågblad samt ventilkedjor vid fabrik i Eskilstuna (Södermanl. l.)",
+            "contact": {
+                "phone": [
+                    "31436"
+                ],
+                "postgiro": "263007",
+                "head_office": "none",
+                "sales_offices": [],
+                "factory_office": "none",
+                "factory_phone": "none"
+            },
+            "financials": {
+                "capital": "none",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "150,000 kr",
+                "annual_production_value": "none"
+            },
+            "foundation_year": 1888
+        }
+    }
+}

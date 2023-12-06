@@ -1,0 +1,174 @@
+{
+    "original": "Nya\n\npr år: 350,000 kr. — Firman etabl. 1924,\nbolag 1931.\n\nStyrelse: disp. Waldemar Johansson\n(ordf.), fabr. Oscar Stomberg.\n\nVerkst. dir.: Waldemar Johansson.\n\nNya Mekaniska Taberg AB.,\n\nSmålands Taberg.\n\nMek. verkstad och gjuteri i Smålands\nTaberg (Jönköp. l.). Tillverkar manglar\noch vricLmaskiner samt gjutgods på\nbeställning.\n\nTelefon: 72 o. 202. Postgiro: 23419.\n\n—\tAkt.-kap.: 200,000 kr. Antal\nindustriarb.: 80. — Firman etabl. 1920, bolag\n1942.\n\nVerkst. dir.: Hjalmar Josefsson.\nNya AB. Eskil Metzén, Malmö.\n\nFärgeri och kemisk tvättanstalt.\n\nKontor: Kopparbergsg. 3. Telefon:\n»Metzéns Kemiska Tvätt». Postgiro:\n39947.\n\nAkt.-kap.: 30,000 kr. Antal\nindustriarb.: 60. — Firman etabl. 1850, nuv.\nbolag 1941.\n\nVerkst. dir.: K.-G. Sellgren.\n\nNya Murbruksfabrikens i Stockholm\n\nAB., Stockholm.\n\nMurbruksfabriker i Stockholm och\nSundbyberg, grus- och sandtag vid\nMälaren och Saltsjön. Tillverkar mur- och\nputsbruk, fasad- och sockelputs (märken:\n»Terrasit» o. »Terazzo»), träullsplattor\n(märke: »Woodex») samt fönster (märke:\n»Pivåfönster»). Bolaget äger varv i\nSödertälje samt driver fraktfart med egna\nbogserbåtar och pråmar.\n\nKontor: Stockholm, Jakobsbergsg. 2.\nTelegr.-adr. och telefon:\nMurbruksfabriken, Stockholm. Postgiro: 1275.\n\nAkt.-kap.: 720,000 kr. Antal\nindustriarb.: 200. Prod.-värde pr år: 6,000,000 kr.\n\n—\tBolaget grundat 1889.\n\nStyrelse: dir. Vilhelm Björkman\n(ordf.), dir. J. Enhard Allstrin, dir. Josef\nGendt, dir. Gustav Raabe.\n\nVerkst. dir.: J. E. Allstrin.\n\n*AB. Nya Möbelfabriken, Pettersson\n\n&amp; Co., Värnamo.\n\nTillverkar möbler av ek och björk.\nSpecialitet: skulpterade och\nantikpatine-rade ekmöbler.\n\nTelefon: 10020, 10199 o. 1061.\nPostgiro: 32703. — Akt.-kap.: 96,000 kr.\nAntal industriarb.: 20. Tillv.-värde pr år:\n200,000 kr. Bolaget grundat 1923.\n\nStyrelse o. disponenter: fabr. J. Gustaf\nPettersson, fabr. Sture Pettersson o. fabr.\nFolke Pettersson.\n\n\"Nya Möbelfabriken, Einar Rostedt,\n\nSävsjö.\n\nTillverkar möbler vid fabrik i Sävsjö\n(Jönköp. l.). Specialitet: Matsalsmöbler.\n\nTelefon: 104. — Arb.-antal: 9.\nTillv.-värde pr år: 120,000 kr. — Firman etabl.\n1926.\n\nÄgare o. chef: fabr. Einar Rostedt.\n\nNya Möbelfabriksföreningen, u. p. a.,\n\nGlimåkra.\n\nMöbelfabrik i Glimåkra (Kristianst. l.).\nTillverkar möbler, butiks- och\nskolinred-ningar.\n\nTelefon: 53. Postgiro: 23792. —\nAntal industriarb.: 50. Tillv.-värde pr år:\n350,000 kr. — Föreningen bildad 1918.\n\nFöreståndare: Edvin Nilsson.\n\nNya AB. Njurunda Industrier,\n\nNjurunda.\n\nSmidesfabrik och\nmotorreparationsverkstad samt elektr. kraftstation i Njurunda\n(Västernorrl. l.). Tillverkar hugg- och\nbarkmasikinsknivar, maskinhyveljärn m.\nfl. specialstål för\nträbearbetningsmaski-ner, väghyvelstål samt hydrauliska\ntippar för lastautomobiler.\n\nTelegr.-adr.: Industrierna, Sundsvall.\nTelefon: Njurunda 8.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 16. Tillv.-värde pr år: 100,000 kr.\n— Bolaget grundat 1919, ombildat 1927.\n\nDisp.: Viktor E. Lundberg.\n\nNya AB. Nordiska\nMåttstockfabriken, Fristad.\n\nTillverkar trämåttstockar,\nträdgårds-möbler samt slipssträckare vid fabrik i\nFristad (Älvsb. l.).\n\nTelegr.-adr.: Nordmått, Fristad.\nTelefon: Borås 60035. Postgiro: 52177. —\nAkt.-kap.: 25,000 kr. Tillv.-värde pr år:\n100,000 kr. — Firman etabl. 1928, bolag\n1930, ombildat 1945.\n\nVerkst. dir.: Ivan Jacobson.\n\nNya AB. Resinit, Västervik.\n\nBakelitfabrik. Tillverkar\nbakelitprodukter såsom elektr. isoleringsmateriel,\ntystgående kugghjul och ämnen härtill m. m.\n\nTelegr.-adr.: Resinit, Västervik.\nTelefon: 191 o. 927. Postgiro: 270800. —",
+    "structured": {
+        "firms": [
+            {
+                "name": "Nya Mekaniska Taberg AB",
+                "location": "Smålands Taberg",
+                "business": "Mek. verkstad och gjuteri",
+                "products": "Tillverkar manglar och vricLmaskiner samt gjutgods på beställning.",
+                "contact": {
+                    "office": "In Smålands Taberg (Jönköp. l.)",
+                    "phone": [
+                        "72",
+                        "202"
+                    ],
+                    "postgiro": "23419"
+                },
+                "financials": {
+                    "capital": "200,000 kr",
+                    "employees": {
+                        "industriarb": 80
+                    }
+                },
+                "foundation_year": 1920
+            },
+            {
+                "name": "Nya AB. Eskil Metzén",
+                "location": "Malmö",
+                "business": "Färgeri och kemisk tvättanstalt",
+                "contact": {
+                    "office": "Kopparbergsg. 3",
+                    "phone": [
+                        "Metzéns Kemiska Tvätt"
+                    ],
+                    "postgiro": "39947"
+                },
+                "financials": {
+                    "capital": "30,000 kr",
+                    "employees": {
+                        "industriarb": 60
+                    }
+                },
+                "foundation_year": 1850
+            },
+            {
+                "name": "Nya Murbruksfabrikens i Stockholm AB.",
+                "location": "Stockholm",
+                "business": "Murbruksfabriker",
+                "products": "Tillverkar mur- och putsbruk, fasad- och sockelputs samt träullsplattor och fönster.",
+                "contact": {
+                    "office": "Jakobsbergsg. 2",
+                    "telegraph": "Murbruksfabriken, Stockholm",
+                    "postgiro": "1275"
+                },
+                "financials": {
+                    "capital": "720,000 kr",
+                    "employees": {
+                        "industriarb": 200
+                    },
+                    "annual_turnover": "6,000,000 kr",
+                    "annual_production_value": "6,000,000 kr"
+                },
+                "foundation_year": 1889
+            },
+            {
+                "name": "AB. Nya Möbelfabriken, Pettersson & Co.",
+                "location": "Värnamo",
+                "business": "Tillverkar möbler",
+                "products": "Tillverkar möbler av ek och björk. Specialitet: skulpterade och antikpatinerade ekmöbler.",
+                "contact": {
+                    "phone": [
+                        "10020",
+                        "10199",
+                        "1061"
+                    ],
+                    "postgiro": "32703"
+                },
+                "financials": {
+                    "capital": "96,000 kr",
+                    "employees": {
+                        "industriarb": 20
+                    }
+                },
+                "foundation_year": 1923
+            },
+            {
+                "name": "Nya Möbelfabriken, Einar Rostedt",
+                "location": "Sävsjö",
+                "business": "Tillverkar möbler",
+                "products": "Tillverkar möbler vid fabrik i Sävsjö (Jönköp. l.). Specialitet: Matsalsmöbler.",
+                "contact": {
+                    "phone": [
+                        "104"
+                    ]
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 9
+                    }
+                },
+                "foundation_year": 1926
+            },
+            {
+                "name": "Nya Möbelfabriksföreningen, u. p. a.",
+                "location": "Glimåkra",
+                "business": "Möbelfabrik",
+                "products": "Tillverkar möbler, butiks- och skolinredningar.",
+                "contact": {
+                    "phone": [
+                        "53"
+                    ],
+                    "postgiro": "23792"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 50
+                    }
+                },
+                "foundation_year": 1918
+            },
+            {
+                "name": "Nya AB. Njurunda Industrier",
+                "location": "Njurunda",
+                "business": "Smidesfabrik och motorreparationsverkstad samt elektr. kraftstation",
+                "products": "Tillverkar hugg- och barkmasikinsknivar, specialstål för träbearbetningsmaskiner, väghyvelstål samt hydrauliska tippar för lastautomobiler.",
+                "contact": {
+                    "telegraph": "Industrierna, Sundsvall",
+                    "phone": [
+                        "Njurunda 8"
+                    ]
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 16
+                    },
+                    "annual_turnover": "100,000 kr"
+                },
+                "foundation_year": 1919
+            },
+            {
+                "name": "Nya AB. Nordiska Måttstockfabriken",
+                "location": "Fristad",
+                "business": "Tillverkar trämåttstockar, trädgårdsmöbler samt slipssträckare",
+                "contact": {
+                    "telegraph": "Nordmått, Fristad",
+                    "phone": [
+                        "Borås 60035"
+                    ],
+                    "postgiro": "52177"
+                },
+                "financials": {
+                    "capital": "25,000 kr",
+                    "annual_turnover": "100,000 kr"
+                },
+                "foundation_year": 1928
+            },
+            {
+                "name": "Nya AB. Resinit",
+                "location": "Västervik",
+                "business": "Bakelitfabrik",
+                "products": "Tillverkar bakelitprodukter såsom elektr. isoleringsmateriel, tystgående kugghjul och ämnen härtill m. m.",
+                "contact": {
+                    "telegraph": "Resinit, Västervik",
+                    "phone": [
+                        "191",
+                        "927"
+                    ],
+                    "postgiro": "270800"
+                }
+            }
+        ]
+    }
+}

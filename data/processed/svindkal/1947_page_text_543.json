@@ -1,0 +1,268 @@
+{
+    "original": "Norrköping\n\n\"Norrköpings Apotekares\nMineralvatten AB., Norrköping.\n\nTillverkar mineralvatten och\nläskedrycker.\n\nTelefon: 20138 o. 21880. Postgiro:\n83066. — Akt.-kap.: 140,000 kr. Antal\nindustriarb.: 20. Tillv.-värde pr år:\n910,000 kr. — Bolaget grundat 1874.\n\nStyrelse: disp. Eric Dagberg, disp. Åke\nDagberg, dir. Bertil Elmfeldt, dir. Gustaf\nEricsson, bankir John Fristedt.\n\nVerkst. dir.: Gustaf Ericsson.\n\n\"Norrköpings BomullsväfverS AB.,\n\nNorrköping.\n\nBomullsväven, spinneri, blekeri,\nfärgeri, tryckeri och appreturverk.\nTillverkar bomullsgarn samt bomulls- och\nkonst-silkevävnader. Varumärke: »Tuppen».\n\nHuvudkontor: Norrköping. Telegr.-adr.\no. telefon: Tuppen, Norrköping. Postgiro:\n8883. Avd.-kontor: i Stockholm,\nRege-ringsg. 19 o. 21, telefon: 109224; i\nGöteborg, ö. Hamng. 15, telefon: 135159; i\nMalmö, Landbyg. 1, telefon: 21837; i\nÖrebro, telefon: 10219.\n\nAkt.-kap.: 7,120,000 kr. Antal\nindustriarb.: 850. — Bolaget grundat 1852.\n\nStyrelse: bankdir. Gösta Gyllensvärd,\növerdir. Ryno Lundquist, konsul Lars\nRingborg, dir. Carl Trygger, civiling.\nOskar Åkerman, disp. Ragnar Öländer.\n\nVerkst. dir.: Ragnar Öländer.\n\n\"Norrköpings Eiektrotekniska\nFabriker AB. (NEFA), Norrköping.\n\nTillverkar radioapparater, radiorör,\nförstärkare- och sändarrör samt\nsvetselektroder. Varumärke: »NEFA».\n\nTelegr.-adr.: Nefa, Norrköping.\nTelefon: 29540. Postgiro: 161720. —\nAkt.-kap.: 500,000 kr. Antal industriarb.: 570.\n— Bolaget grundat 1925.\n\nStyrelse: dir. Herbert Kastengren\n(ordf.), civiling. Bo Ekelund, dir. Rinse\nHylkema, bankdir. John Wagrell.\n\nVerkst. dir.: Rinse Hylkema.\n\nDir.-assist.: civiling. Mats Holmgren.\n\nKontorschef: Einar Nilsson.\n\nInhöpschef: Carl Leif Westring.\n\n\"Norrköpings Exporthyfieri, Trävaru\n\nAB., Norrköping.\n\nSe Trävaru AB. Norrköpings\nExporthyfieri, Norrköping.\n\nNorrköpings Färgeri AB.,\n\nNorrköping.\n\nUtför färgning, blekning och\napprete-ring av silkes-, konstsilkes-, bomulls- och\nyllevaror i styck, garn och löst material\nsamt kemisk tvätt, vittvätt och\nmattrengöring.\n\nTelegr.-adr.: Färgeribolaget,\nNorrköping. Telefon: »Färgeribolaget-Niga».\nPostgiro: 34494.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 75. Prod.-värde pr år: 700,000 kr.\n\n—\tFirman etabl. 1901.\n\nVerkst. dir.: disp. Gunnar Skiöld.\n\n\"AB. Norrköpings Förenade\nBryggerier, Norrköping.\n\nTillverkar malt och maltdrycker.\nTelegr.-adr.: Brvggeribolaget,\nNorrköping. Telefon: 29870. Postgiro: 10370.\n\nAkt.-kap.: 2,335,200 kr. Antal\nindustriarb.: 70. Tillv.-värde pr år: 2,000,000 kr.\n\n—\tBolaget grundat 1912.\nHuvudintressent i bolaget är AB. Stockholm\nBryggerier.\n\nStyrelse: bankir John Fristedt (ordf.),\ndir. Sven Schwartz (v. ordf.), disp. K.\nIvar Andersson, dir. Bertil Elmfeldt, dir.\nHarald Engström, civiling. Carl Gustaf\nPiehl.\n\nVerkst. dir.: B. Elmfeldt.\nV. verkst. dir.: Gustaf Ericsson.\n\n\"Norrköpings Lampfabrik,\n\nNorrköping.\n\nMetallvarufabrik. Tillverkar\nfotogenlampor och elektr. belysningsarmatur.\n\nTelefon: 20302. Postgiro: 10916. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n400,000 kr. — Firman, etabl. 1901, äges\nav Edvard Hagman AB., Norrköping.\nChef: kapten Gösta Hagman.\n\nAB. Norrköpings Lådfabrik,\n\nNorrköping.\n\nTillverkar lådämnen och lådor.\nTelegr.-adr,: Nostal, Norrköping.\nTelefon: 22661 o. 23391.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 70. Tillv.-värde pr år: 800,000 kr.\n\n—\tFirman etabl. 1921, bolag 1940.\nStyrelse o. verkst. dir.: Arne Törnelius.\n\n\"Norrköpings Makaronifabrik AB.,\n\nÅby.\n\nTillverkar makaroner vid fabrik i Åby\n(Östergötl. l.). Varunamn:\n»Munk-makaroner» o. »Drott-makaroner».",
+    "structured": {
+        "firms": [
+            {
+                "name": "Norrköpings Apotekares Mineralvatten AB",
+                "location": "Norrköping",
+                "business": "Tillverkar mineralvatten och läskedrycker",
+                "contact": {
+                    "phone": [
+                        "20138",
+                        "21880"
+                    ],
+                    "postgiro": "83066",
+                    "office": "Norrköping"
+                },
+                "financials": {
+                    "capital": "140,000 kr",
+                    "employees": {
+                        "industriarb": 20
+                    },
+                    "annual_turnover": "910,000 kr",
+                    "annual_production_value": "910,000 kr"
+                },
+                "foundation_year": 1874,
+                "board": [
+                    {
+                        "name": "Eric Dagberg",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Åke Dagberg",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Bertil Elmfeldt",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Gustaf Ericsson",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "John Fristedt",
+                        "role": "bankir"
+                    }
+                ],
+                "director": "Gustaf Ericsson"
+            },
+            {
+                "name": "Norrköpings BomullsväfverS AB",
+                "location": "Norrköping",
+                "business": "Bomullsväven, spinneri, blekeri, färgeri, tryckeri och appreturverk. Tillverkar bomullsgarn samt bomulls- och konst-silkevävnader. Varumärke: »Tuppen»",
+                "contact": {
+                    "postgiro": "8883",
+                    "head_office": "Norrköping",
+                    "sales_offices": [
+                        {
+                            "location": "Stockholm",
+                            "phone": "109224"
+                        },
+                        {
+                            "location": "Göteborg",
+                            "phone": "135159"
+                        },
+                        {
+                            "location": "Malmö",
+                            "phone": "21837"
+                        },
+                        {
+                            "location": "Örebro",
+                            "phone": "10219"
+                        }
+                    ]
+                },
+                "financials": {
+                    "capital": "7,120,000 kr",
+                    "employees": {
+                        "industriarb": 850
+                    }
+                },
+                "foundation_year": 1852,
+                "board": [
+                    {
+                        "name": "Gösta Gyllensvärd",
+                        "role": "bankdir."
+                    },
+                    {
+                        "name": "Ryno Lundquist",
+                        "role": "överdir."
+                    },
+                    {
+                        "name": "Lars Ringborg",
+                        "role": "konsul"
+                    },
+                    {
+                        "name": "Carl Trygger",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Oskar Åkerman",
+                        "role": "civiling."
+                    },
+                    {
+                        "name": "Ragnar Öländer",
+                        "role": "disp."
+                    }
+                ],
+                "director": "Ragnar Öländer"
+            },
+            {
+                "name": "Norrköpings Eiektrotekniska Fabriker AB. (NEFA)",
+                "location": "Norrköping",
+                "business": "Tillverkar radioapparater, radiorör, förstärkare- och sändarrör samt svetselektroder. Varumärke: »NEFA»",
+                "contact": {
+                    "phone": [
+                        "29540"
+                    ],
+                    "postgiro": "161720"
+                },
+                "financials": {
+                    "capital": "500,000 kr",
+                    "employees": {
+                        "industriarb": 570
+                    }
+                },
+                "foundation_year": 1925,
+                "board": [
+                    {
+                        "name": "Herbert Kastengren",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Bo Ekelund",
+                        "role": "civiling."
+                    },
+                    {
+                        "name": "Rinse Hylkema",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "John Wagrell",
+                        "role": "bankdir."
+                    }
+                ],
+                "director": "Rinse Hylkema",
+                "manager": "Mats Holmgren",
+                "sales_manager": "Carl Leif Westring"
+            },
+            {
+                "name": "Norrköpings Färgeri AB",
+                "location": "Norrköping",
+                "business": "Utför färgning, blekning och apprete-ring av silkes-, konstsilkes-, bomulls- och yllevaror i styck, garn och löst material samt kemisk tvätt, vittvätt och mattrengöring",
+                "contact": {
+                    "phone": [
+                        "Färgeribolaget-Niga"
+                    ],
+                    "postgiro": "34494"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 75
+                    },
+                    "annual_production_value": "700,000 kr"
+                },
+                "foundation_year": 1901,
+                "director": "Gunnar Skiöld"
+            },
+            {
+                "name": "AB. Norrköpings Förenade Bryggerier",
+                "location": "Norrköping",
+                "business": "Tillverkar malt och maltdrycker",
+                "contact": {
+                    "phone": [
+                        "29870"
+                    ],
+                    "postgiro": "10370"
+                },
+                "financials": {
+                    "capital": "2,335,200 kr",
+                    "employees": {
+                        "industriarb": 70
+                    },
+                    "annual_turnover": "2,000,000 kr"
+                },
+                "foundation_year": 1912,
+                "board": [
+                    {
+                        "name": "John Fristedt",
+                        "role": "bankir"
+                    },
+                    {
+                        "name": "Sven Schwartz",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "K. Ivar Andersson",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Bertil Elmfeldt",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Harald Engström",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Carl Gustaf Piehl",
+                        "role": "civiling."
+                    }
+                ],
+                "director": "B. Elmfeldt",
+                "sales_manager": "Gustaf Ericsson"
+            },
+            {
+                "name": "Norrköpings Lampfabrik",
+                "location": "Norrköping",
+                "business": "Metallvarufabrik. Tillverkar fotogenlampor och elektr. belysningsarmatur",
+                "contact": {
+                    "phone": [
+                        "20302"
+                    ],
+                    "postgiro": "10916"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_production_value": "400,000 kr"
+                },
+                "original_name": "Edvard Hagman AB"
+            },
+            {
+                "name": "AB. Norrköpings Lådfabrik",
+                "location": "Norrköping",
+                "business": "Tillverkar lådämnen och lådor",
+                "contact": {
+                    "phone": [
+                        "22661",
+                        "23391"
+                    ]
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 70
+                    },
+                    "annual_production_value": "800,000 kr"
+                },
+                "original_name": "Nostal",
+                "director": "Arne Törnelius"
+            },
+            {
+                "name": "Norrköpings Makaronifabrik AB",
+                "location": "Åby",
+                "business": "Tillverkar makaroner vid fabrik i Åby (Östergötl. l.). Varunamn: »Munk-makaroner» o. »Drott-makaroner»",
+                "financials": {
+                    "employees": {
+                        "industriarb": null
+                    }
+                },
+                "foundation_year": null
+            }
+        ]
+    }
+}

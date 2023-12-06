@@ -1,0 +1,236 @@
+{
+    "original": "Jönköping\n\nAB. Jönköpings Karamellfabrik,\n\nJönköping.\n\nTillverkar karameller, konfekt, dragéer\nm. m. samt pastiller (märken: »Joddy» o.\n»Maltex»).\n\nPostadr.: Box 45, Jönköping. Telefon:\n3572. Postgiro: 27982.\n\nAkt.-kap.: 40,100 kr. Antal\nindustriarb.: 15. Tillv.-värde pr år: 200,000 kr.\n— Bolaget grundat 1935.\n\nVerkst. dir.: Reidar Andersén.\n\nJönköpings Linnefabrik AB.,\n\nJ önköping.\n\nTillverkar skjortor, kragar, pyjamas\noch kravatter.\n\nTelefon: 2421. Postgiro: 40020.\n\nAkt.-kap.: 200,000 kr. Antal\nindustriarb.: 175. Tillv.-värde pr år: 3,000,000 kr.\n— Firman etabl. 1908, bolag 1933.\n\nStyrelse o. verkst. dir.: Rud. Herzog.\n\nDisp.: S. v. Zweigbergk.\n\nKontorschef: fröken Siri Andersson.\n\n’Jönköpings Litografiska AB.,\n\nJ önköping.\n\nBoktryckeri, offsettryckeri, litografisk\noch kemigrafisk anstalt och bokbinderi.\n\nTelegr.-adr.: Litbolaget, Jönköping.\nTelefon: 19 o. 3105. Postgiro: 5266.\n\nBolaget, grundat 1868, är anslutet till\nAB. Sveriges Litografiska Tryckerier,\nStockholm. (Se detta bolag.)\n\nStyrelse o. disp.: Gustav Nilsson.\n\n’Jönköpings Mekaniska Werkstads\nAB., Jönköping.\n\nMek. verkstad med gjuteri. Tillverkar\n\nångpannor, ångturbiner, pumpar\n(varumärke: » J. M. W.») samt vid avd.\nJune-verken i Bankeryd: vägmaskiner och\nsläpvagnar (varumärke: »June»).\n\nTelegr.-adr. o. telefon: Verkstaden,\nJönköping. Postgiro: 30234.\n\nAkt.-kap.: 1,000,000 kr. Antal\nindustriarb.: 315. Tillv.-värde pr år: 6,000,000 kr.\n\nFirman grundad 1860, bolag 1898,\nom-bildat 1921.\n\nStyrelse: dir. Torsten Jung (ordf.),\nbankdir. Gustaf Didner, adv. Matts\nFal-lenius, civiling. Anders Graab.\n\nVerkst. dir.: Anders Graab.\n\nVerkstadschef: civiling. Harry\nSamuelson.\n\nKamrer: Karl Nilsson.\n\n’AB. Jönköpings Motorfabrik,\n\nJ önköping.\n\nTillverkar stationära och marina\nråoljemotorer (diesel och semi-diesel),\nmotorlokomotiv, ångmaskiner, kolvpumpar,\nlastoljepumpar. Varumärken: »J. M.»,\n»June» o. »June-Munktell».\n\nTeiegr.-adr.: Motor, Jönköping.\nTelefon: »Jönköpings Motorfabrik». Postgiro:\n91205.\n\nAkt.-kap.: 600,000 kr. Antal\nindustriarb.: 100. — Fabriken anlagd 1911, nuv.\nbolag grundat 1921.\n\nStyrelse: ing. P. W. Dietmann, disp.\nBirger Ekdahl, dir. Gunnar C. Ekström,\nsekr. A. Fridholm.\n\nDisp.: Birger Ekdahl.\n\n(Jfr annons nr 79.)\n\nJönköpings Möbelfabriks AB.,\n\nJ önköping.\n\nTillverkar möbler och inredningar.\n\nTelefon: 2385 o. 5020. Postgiro: 30227.\n\n—\tAkt.-kap.: 62,500 kr. Antal\nindustriarb.: 36. Tillv.-värde pr år: 360,000 kr.\n\n—\tFirman etabl. 1924.\n\nVerkst. dir.: disp. Bernhard Roos.\n\n’AB. Jönköpings Snickerifabrik,\n\nJ önköping.\n\nSågverk, hyvleri och parkettfabrik.\nTillverkar sågade och hyvlade trävaror\nsamt parkettgolv. Bolaget driver jämväl\nbyggnadsmaterialaffär.\n\nTelegr.-adr.: Parkettfabriken o.\nTala-vidfabriken, Jönköping. Telefon: 51, 1515\no. 4932. Postgiro: 30222.\n\nAkt:-kap.: 270,000 kr. Antal\nindustriarb.: 40. Försäljn.-värde pr år: 1,500,000\nkr.\n\nFirman grundad 1882, bolag 1904 under\nnamn Aktiebolagets Snickerifabrik i\nJönköping, nuv. namn 1922.\n\nStyrelse: dir. Gustaf Linderholm, disp.\nLennart Werner, kand. Åke Werner.\n\nDisp.: Lennart Werner.\n\nKamrer: Arvid Gustafsson.\n\nFörsäljn.-chef: H. Granath.\n\nJönköpings Textil AB., Jönköping.\n\nTillverkar strumpor och trikåvaror.\n\nTelefon: 1740. Postgiro: 82781. —\nAkt.-kap.: 56,000 kr. Antal industriarb.:\n20. Tillv.-värde pr år: 250,000 kr. —\nFirman, etabl. 1926, bolag 1934, drives t. v.\nav Göteborgs Tricot &amp; Strumpfabriks\nAB., Göteborg.\n\nVerkst. dir.: Henry Nelson.",
+    "structured": {
+        "1": {
+            "name": "AB. Jönköpings Karamellfabrik",
+            "location": "Jönköping",
+            "business": "Tillverkning av karameller, konfekt, dragéer m.m. samt pastiller (märken: »Joddy» o. »Maltex»)",
+            "contact": {
+                "office": "Box 45, Jönköping",
+                "phone": [
+                    "3572"
+                ],
+                "postgiro": "27982"
+            },
+            "financials": {
+                "capital": "40,100 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "200,000 kr",
+                "annual_production_value": "200,000 kr"
+            },
+            "foundation_year": 1935,
+            "director": "Reidar Andersén"
+        },
+        "2": {
+            "name": "Jönköpings Linnefabrik AB",
+            "location": "Jönköping",
+            "business": "Tillverkning av skjortor, kragar, pyjamas och kravatter",
+            "contact": {
+                "phone": "2421",
+                "postgiro": "40020"
+            },
+            "financials": {
+                "capital": "200,000 kr",
+                "employees": {
+                    "industriarb": 175
+                },
+                "annual_turnover": "3,000,000 kr",
+                "annual_production_value": "3,000,000 kr"
+            },
+            "foundation_year": 1908,
+            "corporation_year": 1933,
+            "board": [
+                {
+                    "name": "Rud. Herzog",
+                    "role": "Styrelse o. verkst. dir."
+                },
+                {
+                    "name": "S. v. Zweigbergk",
+                    "role": "Disp."
+                },
+                {
+                    "name": "fröken Siri Andersson",
+                    "role": "Kontorschef"
+                }
+            ]
+        },
+        "3": {
+            "name": "Jönköpings Litografiska AB",
+            "location": "Jönköping",
+            "business": "Boktryckeri, offsettryckeri, litografisk och kemigrafisk anstalt och bokbinderi",
+            "contact": {
+                "telegraph": "Litbolaget, Jönköping",
+                "phone": [
+                    "19",
+                    "3105"
+                ],
+                "postgiro": "5266"
+            },
+            "predecessor": "AB. Sveriges Litografiska Tryckerier, Stockholm",
+            "board": {
+                "name": "Gustav Nilsson",
+                "role": "Styrelse o. disp."
+            }
+        },
+        "4": {
+            "name": "Jönköpings Mekaniska Werkstads AB",
+            "location": "Jönköping",
+            "business": "Mek. verkstad med gjuteri. Tillverkar ångpannor, ångturbiner, pumpar (varumärke: » J. M. W.») samt vid avd. June-verken i Bankeryd: vägmaskiner och släpvagnar (varumärke: »June»)",
+            "contact": {
+                "telegraph": "Verkstaden, Jönköping",
+                "phone": "Verkstaden, Jönköping",
+                "postgiro": "30234"
+            },
+            "financials": {
+                "capital": "1,000,000 kr",
+                "employees": {
+                    "industriarb": 315
+                },
+                "annual_turnover": "6,000,000 kr",
+                "annual_production_value": "6,000,000 kr"
+            },
+            "foundation_year": 1860,
+            "corporation_year": 1898,
+            "board": [
+                {
+                    "name": "dir. Torsten Jung",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "bankdir. Gustaf Didner",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "adv. Matts Fallenius",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "civiling. Anders Graab",
+                    "role": "Styrelse"
+                }
+            ],
+            "director": "Anders Graab",
+            "manager": "Harry Samuelson",
+            "sales_manager": "Karl Nilsson"
+        },
+        "5": {
+            "name": "AB. Jönköpings Motorfabrik",
+            "location": "Jönköping",
+            "business": "Tillverkar stationära och marina råoljemotorer (diesel och semi-diesel), motorlokomotiv, ångmaskiner, kolvpumpar, lastoljepumpar. Varumärken: »J. M.», »June» o. »June-Munktell»",
+            "contact": {
+                "telegraph": "Motor, Jönköping",
+                "phone": "»Jönköpings Motorfabrik»",
+                "postgiro": "91205"
+            },
+            "financials": {
+                "capital": "600,000 kr",
+                "employees": {
+                    "industriarb": 100
+                }
+            },
+            "corporation_year": 1921,
+            "board": [
+                {
+                    "name": "ing. P. W. Dietmann",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "disp. Birger Ekdahl",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "dir. Gunnar C. Ekström",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "sekr. A. Fridholm",
+                    "role": "Styrelse"
+                }
+            ],
+            "director": "Birger Ekdahl"
+        },
+        "6": {
+            "name": "Jönköpings Möbelfabriks AB",
+            "location": "Jönköping",
+            "business": "Tillverkar möbler och inredningar",
+            "contact": {
+                "phone": [
+                    "2385",
+                    "5020"
+                ],
+                "postgiro": "30227"
+            },
+            "financials": {
+                "capital": "62,500 kr",
+                "employees": {
+                    "industriarb": 36
+                },
+                "annual_turnover": "360,000 kr",
+                "annual_production_value": "360,000 kr"
+            },
+            "foundation_year": 1924,
+            "manager": "Bernhard Roos"
+        },
+        "7": {
+            "name": "AB. Jönköpings Snickerifabrik",
+            "location": "Jönköping",
+            "business": "Sågverk, hyvleri och parkettfabrik. Tillverkar sågade och hyvlade trävaror samt parkettgolv. Bolaget driver jämväl byggnadsmaterialaffär",
+            "contact": {
+                "telegraph": "Parkettfabriken o. Tala-vidfabriken, Jönköping",
+                "phone": [
+                    "51",
+                    "1515",
+                    "4932"
+                ],
+                "postgiro": "30222"
+            },
+            "financials": {
+                "capital": "270,000 kr",
+                "employees": {
+                    "industriarb": 40
+                },
+                "annual_turnover": "1,500,000 kr"
+            },
+            "foundation_year": 1882,
+            "corporation_year": 1904,
+            "original_name": "Aktiebolagets Snickerifabrik i Jönköping",
+            "current_name_year": 1922,
+            "board": [
+                {
+                    "name": "dir. Gustaf Linderholm",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "disp. Lennart Werner",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "kand. Åke Werner",
+                    "role": "Styrelse"
+                }
+            ],
+            "sales_manager": "H. Granath"
+        },
+        "8": {
+            "name": "Jönköpings Textil AB",
+            "location": "Jönköping",
+            "business": "Tillverkning av strumpor och trikåvaror",
+            "contact": {
+                "phone": "1740",
+                "postgiro": "82781"
+            },
+            "financials": {
+                "capital": "56,000 kr",
+                "employees": {
+                    "industriarb": 20
+                },
+                "annual_turnover": "250,000 kr"
+            },
+            "foundation_year": 1926,
+            "corporation_year": 1934,
+            "manager": "Henry Nelson"
+        }
+    }
+}

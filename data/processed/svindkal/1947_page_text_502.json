@@ -1,0 +1,159 @@
+{
+    "original": "Margarinbo laget—Margarin fa b riken\n\nStyrelse: konsul Carl Ekman (ordf.),\nfil. dr Harald Nordenson (v. ordf.),\nbankdir. Alvar Ehrnberg, dir. Sven Malmberg,\ndir. S. Wedel.\n\nVerkst. dir.: S. Wedel.\n\nFabrihschef: Lars Bergman.\n\nKamrer: Birger Rudner.\n\n* Margarinbolaget AB., Stockholm.\n\nBolaget är ensamförsäljare av\nmargarinprodukter för AB. Agra\nMargarinfabrik och AB. Vandenberghs Margarin\n(båda i Stockholm), AB. O. Mustad &amp; Son\noch AB. Pellerins Margarinfabrik (båda i\nGöteborg), AB. Arboga Margarinfabrik,\nArboga, Margarin AB. Svea, Kalmar,\nsamt Margarin AB. Zenith, Malmö.\n\nHuvudkontor: Stockholm, Vasag. 16.\nTelegr.-adr.: Margarin, Stockholm.\nTelefon: 230960. Postgiro: 2140.\n\nAvd.-kontor: Stockholm, Borgarg. 12—\n14. Telegr.-adr. o. telefon:\n»Margarinbolaget». Postgiro: 1819; Göteborg,\ntelegr.-adr. o. telefon: »Margarinbolaget».\nPostgiro: 12444; Malmö, telegr.-adr. o.\ntelefon: »Margarinbolaget». Postgiro: 12800;\nKalmar, telegr.-adr. o. telefon:\n»Margarinbolaget». Postgiro: 13201; Sundsvall,\ntelegr.-adr.: Margarinbolaget. Telefon:\n2901. Postgiro: 13203.\n\nAkt.-kap.: 2,000,000 kr. — Bolaget\ngrundat 1926.\n\nStyrelse: adv. Åke Skiöld (ordf.), dir.\nJ. H. Bruijn, dir. Gillis Husberg, konsul\nGösta Jeansson, ing. Johan Mustad, fil.\ndr Harald Nordenson, disp. M. Pedersen,\ndir. S. Wedel.\n\nVerkst. dir.: Kuno Möller.\n\nFörsäljn.-dir.: Stellan Ryberg.\n\nKassadir.: O. C. Duintjer.\n\nTehn. dir.: fil. dr G. Wode.\n\n*Margarinfabriken, Arboga.\nSe AB. Arboga Margarinfabrik, Arboga.\n\nMargarinfabriken, Uppsala.\n\nSe AB. Upsala Margarinfabrik, Uppsala.\n\n* Margarinfabriken Agra, Stockholm.\n\nSe AB. Agra Margarinfabrik,\nStockholm.\n\nMargarinfabriken Kärnan AB.,\n\nHälsingborg.\n\nTillverkar margarin. Varumärken:\n»Kärn-Växt», »Kärnan», »Husmodern» o.\n»Hushålls-Växt».\n\nTelegr.-adr.: Vegetabil. Hälsingborg.\nTelefon: 20520. Postgiro: 34321. —\nAkt.-kap.: 450,000 kr. Antal industriarb.: 15.\n\n—\tBolaget grundat 1929.\n\nStyrelse: f. assessor Henry Ljunggren\n(ordf.), ryttm. H. Burnett, disp. Gösta\nW. Svensson.\n\nVerkst. dir.: Gösta W. Svensson.\n\n*\tMargarinfabriken O. Mustad &amp; Son,\n\nGöteborg.\n\nSe AB. O. Mustad &amp; Son, Göteborg.\n\n*Margarinfabriken, AB. Nordiska,\n\nStockholm.\n\nSe AB. Nordiska Margarinfabriken,\nStockholm.\n\nMargarinfabriken Oma, E. Hjorth,\n\nOsby.\n\nTillverkar margarin, cocosfett och\nmatolja vid fabrik i Osby (Kristianst. l.).\nVarunamn: »Omar», »Eril», »Osby\nSpecial» o. »Osby växt».\n\nTelefon: 242. Postgiro: 36700. —\nArb.-antal: 3. Tillv.-värde pr år: 300,000 kr.\n\n—\tFirman etabl. 1930.\n\nÄgare o. disp.: Ernst Hjorth.\n\n*\tM argar i nf abr i ken Pellerin,\n\nGöteborg.\n\nSe AB. Pellerins Margarinfabrik,\nGöteborg.\n\nMargarinfabriken Scania-Vega AB.,\n\nM jölby.\n\nTillverkar margarin.\n\nTelefon: 331 o. 131. Postgiro: 86161.\n\n—\tAkt.-kap.: 150,000 kr. Antal\nindustriarb.: 20. Tillv.-värde pr år: 1,500,000 kr.\n\n—\tBolaget grundat 1931.\n\nVerkst. dir.: disp. A. Borup-Jörgensen.\n\n*Margarinfabriken Svea, Kalmar.\nSe Margarin AB. Svea, Kalmar.\n\n*Margarinfabriken Vandenbergh,\n\nStockholm.\n\nSe AB. Vandenberghs Margarin,\nStockholm.\n\n*\tMargarinfabriken Victoria,\n\nHälsingborg.\n\nSe Fabriks AB. Victoria, Hälsingborg.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Margarinbolaget AB",
+                "location": "Stockholm",
+                "business": "ensamförsäljare av margarinprodukter",
+                "contact": {
+                    "office": "Vasag. 16, Stockholm",
+                    "phone": [
+                        "230960"
+                    ],
+                    "postgiro": "2140",
+                    "head_office": "Vasag. 16, Stockholm",
+                    "sales_offices": [
+                        {
+                            "location": "Borgarg. 12—14, Stockholm",
+                            "phone": "unknown"
+                        },
+                        {
+                            "location": "Göteborg",
+                            "phone": "unknown"
+                        },
+                        {
+                            "location": "Malmö",
+                            "phone": "unknown"
+                        },
+                        {
+                            "location": "Kalmar",
+                            "phone": "unknown"
+                        },
+                        {
+                            "location": "Sundsvall",
+                            "phone": "2901"
+                        }
+                    ],
+                    "telegraph": "Margarin, Stockholm"
+                },
+                "financials": {
+                    "capital": "2,000,000 kr.",
+                    "foundation_year": 1926
+                },
+                "board": [
+                    {
+                        "name": "konsul Carl Ekman",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "fil. dr Harald Nordenson",
+                        "role": "v. ordf."
+                    },
+                    {
+                        "name": "bankdir. Alvar Ehrnberg",
+                        "role": "unknown"
+                    },
+                    {
+                        "name": "dir. Sven Malmberg",
+                        "role": "unknown"
+                    },
+                    {
+                        "name": "dir. S. Wedel",
+                        "role": "unknown"
+                    }
+                ],
+                "director": "S. Wedel",
+                "managing_director": "S. Wedel",
+                "sales_manager": "unknown",
+                "manager": "unknown"
+            },
+            {
+                "name": "AB. Arboga Margarinfabrik",
+                "location": "Arboga",
+                "business": "unknown",
+                "contact": {
+                    "factory_office": "Arboga",
+                    "factory_phone": "unknown"
+                },
+                "financials": {
+                    "foundation_year": 1926
+                }
+            },
+            {
+                "name": "Margarinfabriken Kärnan AB.",
+                "location": "Hälsingborg",
+                "business": "Tillverkar margarin. Varumärken: »Kärn-Växt», »Kärnan», »Husmodern» o. »Hushålls-Växt».",
+                "contact": {
+                    "telegraph": "Vegetabil. Hälsingborg",
+                    "phone": [
+                        "20520"
+                    ],
+                    "postgiro": "34321"
+                },
+                "financials": {
+                    "capital": "450,000 kr.",
+                    "foundation_year": 1929
+                },
+                "board": [
+                    {
+                        "name": "f. assessor Henry Ljunggren",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "ryttm. H. Burnett",
+                        "role": "unknown"
+                    },
+                    {
+                        "name": "disp. Gösta W. Svensson",
+                        "role": "unknown"
+                    }
+                ],
+                "director": "Gösta W. Svensson"
+            },
+            {
+                "name": "Margarinfabriken Oma, E. Hjorth",
+                "location": "Osby",
+                "business": "Tillverkar margarin, cocosfett och matolja",
+                "contact": {
+                    "phone": [
+                        "242"
+                    ],
+                    "postgiro": "36700"
+                },
+                "financials": {
+                    "annual_production_value": "300,000 kr.",
+                    "employees": {
+                        "unknown": 3
+                    },
+                    "foundation_year": 1930
+                },
+                "owners": [
+                    "Ernst Hjorth"
+                ],
+                "director": "Ernst Hjorth"
+            },
+            {
+                "name": "Margarinfabriken Scania-Vega AB.",
+                "location": "Mjölby",
+                "business": "Tillverkar margarin",
+                "contact": {
+                    "phone": [
+                        "331",
+                        "131"
+                    ],
+                    "postgiro": "86161"
+                },
+                "financials": {
+                    "capital": "150,000 kr.",
+                    "annual_production_value": "1,500,000 kr.",
+                    "employees": {
+                        "unknown": 20
+                    },
+                    "foundation_year": 1931
+                },
+                "director": "disp. A. Borup-Jörgensen"
+            }
+        ]
+    }
+}

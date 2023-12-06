@@ -1,0 +1,220 @@
+{
+    "original": "M öbe l fabriken—Möbelfirman\n\n\"Möbelfabriken Göta AB.,\n\nVärnamo.\n\nTillverkar möbler.\n\nTelegr.-adr.: Göta, Värnamo. Telefon:\n10125. Postgiro: 30229.\n\nAkt.-kap.: 65,000 kr. Antal\nindustriarb.: 39. Tillv.-värde pr år: 500,000 kr.\n— Firman etabl. 1912, bolag 1937.\n\nStyrelse o. chefer: fabr. Frans\nJohansson, fabr. Johan Lindh, fabr.\nHelmer Lindh.\n\nAB. Möbelfabriken Haga,\n\nVärnamo.\n\nTillverkar möbler.\n\nTelefon: 10312. Postgiro: 73549. —\nAkt,-kap.: 74,500 kr. Antal industriarb.:\n30. Tillv.-värde pr år: 200,000 kr. —\nBolaget grundat 1920.\n\nVerkst. dir.: Frans Haglund.\n\n\"Möbelfabriken Kåge, K. C. Kårbeck,\n\nMjölby.\n\nTillverkar möbler i garnityr samt\nkompletteringsmöbler.\n\nTelefon: 444. — Arb.-antal: 16. —\nFirman etabl. 1914 under namn K. E.\nKarlssons Möbelfabrik, nuv. namn 1946.\n\nÄgare o. chef: ing. Karl-Gustav\nKårbeck.\n\n\"Möbelfabriken Standard, Eriksson &amp;\nCo., Norrköping.\n\n^ Tillverkar möbler och\nbutiksinredningar.\n\nTelefon: 25929. Postgiro: 161428. —\nArb.-antal: 2. — Firman etabl. 1929.\n\nÄgare o. chefer: fabr. Axel Eriksson,\nfabr. Gunnar Jonsson o. fabr. Hugo\nPettersson.\n\n\"Möbelfabriken Svea, Eric Tonebrand,\n\nSävsjö.\n\nTillverkar matsals- och kontorsmöbler\nsamt affärsinredningar vid fabrik i\nSävsjö (Jönköp. l.).\n\nTelefon: 14. Postgiro: 75446. —\nAntal industriarb.: 25. — Firman, etabl.\n1927, äger Sävsjö Svarv- &amp;\nDecoupeur-fabrik, Sävsjö.\n\nÄgare o. chef: fabr. Eric Tonebrand.\n\n\"Möbelfabriken Thule, Kungsör.\n\nTillverkar kontorsmöbler och\ninredningar vid fabrik i Kungsör (Västmanl.\n1.).\n\nTelefon: 140. Postgiro: 72478. — Antal\nindustriarb.: 20. — Firman etabl. 1928.\n\nÄgare o. chef: fabr. Axel Larson.\n\n\"AB. Möbelfabriken Varia, Flen.\n\nMöbelfabrik och sågverk i Flen\n(Södermanl. l.). Tillverkar möbler samt\nkontorsmöbler och inredningar.\n\nTelefon: 52 o. 418. Postgiro: 23738.\n\nAkt.-kap.: 75,500 kr. Antal\nindustriarb.: 74. ^ Tillv.-värde pr år: 900,000 kr.\n— Fabriken anlagd 1901, nuv. bolag\ngrundat 1922.\n\nStyrelse: godsäg. Ernst Karlsson\n(ordf.), handl. Gust. Andersson, disp.\nNils Eriksson, disp. David Lengquist.\n\nDisp.: David Lengquist.\n\nKassör: C. O. Carlheim.\n\n\"Möbelfabrikerna, Förenade,\n\nLinköping.\n\nSe AB. Förenade Möbelfabrikerna*\nLinköping.\n\nMöbelfabrikerna, AB. Nordiska,\n\nÖdeshög.\n\nSe AB. Nordiska Möbelfabrikerna,,\nödeshög.\n\n\"Möbelfabrikerna, Svenska, Bodafors.\n\nSe AB. Svenska Möbelfabrikerna,.\nBodafors.\n\n\"Möbelfabriks AB. Vega,\n\nVaggeryd.\n\nTillverkar möbler vid fabrik i\nVaggeryd (Jönköp. l.).\n\nTelefon: 56 o. 123. Postgiro: 74795. —\nAkt.-kap.: 44,200 kr. Antal industriarb.:\n35. Tillv.-värde pr år: 400,000 kr. —\nBolaget grundat 1927.\n\nStyrelse: herr Svante Svensson, herr\nJohn Winblad, disp. Waldemar\nÅker-blad.\n\nDisp.: Waldemar Åkerblad.\n\nMöbelfabriksföreningen, Glimäkra.\n\nSe Nya Möbelfabriksföreningen u. p. a.*\nGlimåkra.\n\n\"Möbelfirman G. Åberg, Malmbäck.\n\nTillverkar fåtöljer och\nkompletterings-möbler vid fabrik i Malmbäck (Jönköp»\n1.).",
+    "structured": {
+        "1": {
+            "name": "Möbelfabriken Göta AB.",
+            "location": "Värnamo",
+            "business": "Tillverkar möbler",
+            "contact": {
+                "telegraph": "Göta, Värnamo",
+                "phone": [
+                    "10125"
+                ],
+                "postgiro": "30229"
+            },
+            "financials": {
+                "capital": "65,000 kr",
+                "employees": {
+                    "industriarb": 39
+                },
+                "annual_turnover": "500,000 kr"
+            },
+            "foundation_year": 1912,
+            "corporation_year": 1937,
+            "board": [
+                {
+                    "name": "fabr. Frans Johansson",
+                    "role": "fabrikör"
+                },
+                {
+                    "name": "fabr. Johan Lindh",
+                    "role": "fabrikör"
+                },
+                {
+                    "name": "fabr. Helmer Lindh",
+                    "role": "fabrikör"
+                }
+            ]
+        },
+        "2": {
+            "name": "AB. Möbelfabriken Haga",
+            "location": "Värnamo",
+            "business": "Tillverkar möbler",
+            "contact": {
+                "phone": [
+                    "10312"
+                ],
+                "postgiro": "73549"
+            },
+            "financials": {
+                "capital": "74,500 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "200,000 kr"
+            },
+            "foundation_year": 1920,
+            "director": "Frans Haglund"
+        },
+        "3": {
+            "name": "Möbelfabriken Kåge, K. C. Kårbeck",
+            "location": "Mjölby",
+            "business": "Tillverkar möbler i garnityr samt kompletteringsmöbler",
+            "contact": {
+                "phone": [
+                    "444"
+                ]
+            },
+            "employees": {
+                "industriarb": 16
+            },
+            "foundation_year": 1914,
+            "current_name_year": 1946,
+            "owners": [
+                "ing. Karl-Gustav Kårbeck"
+            ]
+        },
+        "4": {
+            "name": "Möbelfabriken Standard, Eriksson & Co.",
+            "location": "Norrköping",
+            "business": "Tillverkar möbler och butiksinredningar",
+            "contact": {
+                "phone": [
+                    "25929"
+                ],
+                "postgiro": "161428"
+            },
+            "employees": {
+                "industriarb": 2
+            },
+            "foundation_year": 1929,
+            "owners": [
+                "fabr. Axel Eriksson",
+                "fabr. Gunnar Jonsson",
+                "fabr. Hugo Pettersson"
+            ]
+        },
+        "5": {
+            "name": "Möbelfabriken Svea, Eric Tonebrand",
+            "location": "Sävsjö (Jönköp. l.)",
+            "business": "Tillverkar matsals- och kontorsmöbler samt affärsinredningar",
+            "contact": {
+                "phone": [
+                    "14"
+                ],
+                "postgiro": "75446"
+            },
+            "employees": {
+                "industriarb": 25
+            },
+            "foundation_year": 1927,
+            "owners": [
+                "fabr. Eric Tonebrand"
+            ]
+        },
+        "6": {
+            "name": "Möbelfabriken Thule",
+            "location": "Kungsör (Västmanl. 1.)",
+            "business": "Tillverkar kontorsmöbler och inredningar",
+            "contact": {
+                "phone": [
+                    "140"
+                ],
+                "postgiro": "72478"
+            },
+            "employees": {
+                "industriarb": 20
+            },
+            "foundation_year": 1928,
+            "owners": [
+                "fabr. Axel Larson"
+            ]
+        },
+        "7": {
+            "name": "AB. Möbelfabriken Varia",
+            "location": "Flen (Södermanl. l.)",
+            "business": "Möbelfabrik och sågverk. Tillverkar möbler samt kontorsmöbler och inredningar",
+            "contact": {
+                "phone": [
+                    "52",
+                    "418"
+                ],
+                "postgiro": "23738"
+            },
+            "financials": {
+                "capital": "75,500 kr",
+                "employees": {
+                    "industriarb": 74
+                },
+                "annual_turnover": "900,000 kr"
+            },
+            "corporation_year": 1922,
+            "board": [
+                {
+                    "name": "godsäg. Ernst Karlsson",
+                    "role": "ordförande"
+                },
+                {
+                    "name": "handl. Gust. Andersson",
+                    "role": "styrelseledamot"
+                },
+                {
+                    "name": "disp. Nils Eriksson",
+                    "role": "styrelseledamot"
+                },
+                {
+                    "name": "disp. David Lengquist",
+                    "role": "styrelseledamot"
+                },
+                {
+                    "name": "C. O. Carlheim",
+                    "role": "kassör"
+                }
+            ]
+        },
+        "8": {
+            "name": "Möbelfabriks AB. Vega",
+            "location": "Vaggeryd (Jönköp. l.)",
+            "business": "Tillverkar möbler",
+            "contact": {
+                "phone": [
+                    "56",
+                    "123"
+                ],
+                "postgiro": "74795"
+            },
+            "financials": {
+                "capital": "44,200 kr",
+                "employees": {
+                    "industriarb": 35
+                },
+                "annual_turnover": "400,000 kr"
+            },
+            "foundation_year": 1927,
+            "board": [
+                {
+                    "name": "herr Svante Svensson",
+                    "role": "styrelseledamot"
+                },
+                {
+                    "name": "herr John Winblad",
+                    "role": "styrelseledamot"
+                },
+                {
+                    "name": "disp. Waldemar Åkerblad",
+                    "role": "styrelseledamot"
+                }
+            ]
+        },
+        "9": {
+            "name": "Möbelfirman G. Åberg",
+            "location": "Malmbäck (Jönköp» l.)",
+            "business": "Tillverkar fåtöljer och kompletterings-möbler",
+            "contact": {
+                "phone": [
+                    "Malmbäck"
+                ]
+            }
+        }
+    }
+}

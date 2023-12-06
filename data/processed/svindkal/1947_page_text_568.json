@@ -1,0 +1,164 @@
+{
+    "original": "O rt v iken— O skar strö m\n\nKontor: Pusterviksgatan 9. Telefon:\n133767 o. 111896. Postgiro: 12185.\n\nAkt.-kap.: 99,000 kr. Antal\nindustriarb.: 25. Tillv.-värde pr år: 500,000 kr.\n— Firman etabl. 1918.\n\nStyrelse: dir. R. Orstadius (ordf.), dir.\nD. Kanter.\n\nVerkst. dir.: D. Kanter.\n\n\"Ortvikens Sulfitfabrik, Sundsvall.\n\nSe Skönviks AB., Sundsvall,\n\nOsby Sågverks AB., Malmö.\n\nSågverk och hyvleri i Osby (Kristianst.\n1.). Tillverkar sågade och hyvlade\nträvaror. Bolaget driver även engroshandel\nmed björkplywood och trävaror.\n\nHuvudkontor: Malmö, Gust. Ad. torg\n45. Telefon: 15760. Postgiro: 176009. —\nAkt.-kap.: 75,000 kr. Antal industriarb.:\n20. — Bolaget grundat 1922.\n\nVerkst. dir. o. disp.: Tord Heime.\n\nOsby verken, H. Lönnqvist, Osby.\n\nGjuteri och mek. verkstad i Osby\n(Kristianst. l.). Tillverkar\nträbearbetnings-maskiner, tunnbinderimaskiner samt\nkullagertransmissioner. Varumärke: »Ovo».\n\nTelegr.-adr.: Osbyverken, Osby.\nTelefon: 234 o. 235. Postgiro: 37444. —\nAntal industriarb.: 70. Tillv.-värde pr år:\n390,000 kr. — Firman etabl. 1906.\n\nÄgare o. chefer: ing. Sven Lönnqvist\no. ing. Gunnar Lönnqvist.\n\nKamrer: Einar Ahlström.\n\nOscaria Skofabrik, Örebro.\n\nSe Skofabriks AB. Oscaria, Örebro.\n\nAB. Oscarsdals Fabriker,\n\nGöteborg.\n\nKem. tekn. fabrik i Lödöse (Älvsb. l.).\nTillverkar tätningsmedel för cement,\nbetong och kalkbruk samt\nträimpregne-ringsmedel och färger. Varumärke:\n»Ofa-lin».\n\nKontor: Göteborg, Kvilleg., postadr.:\nGöteborg 8. Telefon: 222342—43.\nPostgiro: 42517. — Akt.-kap.: 75,000 kr.\nAntal industriarb.: 15. — Bolaget grundat\n1924.\n\nVerkst. dir.: Henry Lindström.\n\n\"Oskarshamns Kopparverk,\n\nOskarshamn.\n\nSe Reymersholms Gamla Industri AB.,\nHälsingborg.\n\nOskarshamns Kuvertfabrik,\n\nOskarshamn.\n\nSe Kommanditbolaget Oskarshamn»\nKuvertfabrik, Friberg &amp; Co.,\nOskarshamn.\n\nOscarshamns Pappersindustri,\nB. Hel I man, Oskarshamn.\n\nTillverkar kuvert, kuvertpåsar,\nprovpåsar och säckar, mynt- och avlöningspåsar^\npergamynpåsar m. m.\n\nTelefon: 205. Postgiro: 267777. —\nAntal industriarb.: 23. Tillv.-värde pr år:\n250,000 kr. — Firman etabl. 1932.\n\nÄgare o. chef: fabr, Birger Hellman.\n\n\"AB. Oskarshamns Varv, Stockholm.\n\nSkeppsvarv i Oskarshamn med\ntorrdocka för fartyg upp till 9,000 ton d. w.\noch två slipar för fartyg upp till 1,500\nresp. 7,000 ton d. w. samt mekanisk\nverkstad och gjuteri.\n\nUtför nybyggnader och reparationer av\nång-, motor- och segelfartyg,\ngrovplåts-och andra förekommande verkstadsarbeten\nsamt järn- och metallgjuteriarbeten.\n\nHuvudkontor: Stockholm, Riddarg. 17.\nTelegr.-adr.: Mfe, Stockholm. Telefon:\n» Jungnerbolaget». Postgiro: 1547.\nVarvskontor: Oskarshamn, telegr.-adr.: Nife,\nOskarshamn; telefon: 24 o. 724.\n\nAkt.-kap.: 2,760,000 kr. Antal\nindustriarb.: 857. — Firman grundad 1863 under\nnamn Oscarshamns Mek. Werkstads och\nSkeppsdockas AB., nuv. namn 1932.\n\nStyrelse: civiling. Robert Amelia\n(ordf.), bankdir. Allan Alexanderson.\n\nVerkst. dir.: Robert Ameln\n(Stockholm).\n\nVarvschef: civiling. T. Segerdahl.\n\n(Jfr annons nr 25.)\n\n\"Oskarströms Linnefabrik,\n\nOskarström.\n\nSe Skandinaviska Jute-Spinneri- &amp;\nVäfveri AB., Oskarström.\n\n\"Oskarström Sulphite Mills AB.,\n\nOskarström.\n\nSulfitfabrik i Oskarström (Hallands l.).\nTillverkar lättblekbar sulfitcellulosa.\nBolaget driver jämväl skogsbruk.\n\nTelegr.-adr.: Sulfitfabriken,\nOskarström. Telefon: Oskarström 11, 29, 155 o.\nHalmstad 28. Postgiro: 32408.\n\nAkt.-kap.: 3,000,000 kr. Antal\nindustriarb.: 140. Årstillv.: 15,000 ton\nsulfitcellulosa. — Bolaget grundat 1915.",
+    "structured": {
+        "1": {
+            "name": "Ortvikens Sulfitfabrik",
+            "location": "Sundsvall",
+            "business": "Sågverk och hyvleri",
+            "products": "Sågade och hyvlade trävaror, björkplywood och trävaror",
+            "contact": {
+                "office": "Pusterviksgatan 9",
+                "phone": [
+                    "133767",
+                    "111896"
+                ],
+                "postgiro": "12185",
+                "head_office": "Gust. Ad. torg 45, Malmö",
+                "sales_offices": [
+                    {
+                        "location": "Osby",
+                        "phone": "234 o. 235"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "99,000 kr",
+                "employees": {
+                    "industriarb": 25
+                },
+                "annual_turnover": "500,000 kr",
+                "annual_production_value": "390,000 kr"
+            },
+            "foundation_year": 1918,
+            "board": [
+                {
+                    "name": "R. Orstadius",
+                    "role": "Ordförande"
+                },
+                {
+                    "name": "D. Kanter",
+                    "role": "Styrelseledamot"
+                }
+            ],
+            "director": "D. Kanter"
+        },
+        "2": {
+            "name": "Osby Sågverks AB.",
+            "location": "Osby",
+            "business": "Tillverkning av träbearbetnings-maskiner, tunnbinderimaskiner samt kullagertransmissioner",
+            "products": "Träbearbetnings-maskiner, tunnbinderimaskiner samt kullagertransmissioner",
+            "contact": {
+                "office": "Kristianst. l.",
+                "phone": [
+                    "234",
+                    "235"
+                ],
+                "postgiro": "37444"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "employees": {
+                    "industriarb": 70
+                },
+                "annual_production_value": "390,000 kr"
+            },
+            "foundation_year": 1922,
+            "director": "Tord Heime"
+        },
+        "3": {
+            "name": "Oscaria Skofabrik",
+            "location": "Örebro",
+            "business": "Tillverkning av skor",
+            "contact": {
+                "office": "Göteborg 8",
+                "phone": [
+                    "222342—43"
+                ],
+                "postgiro": "42517"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "employees": {
+                    "industriarb": 15
+                }
+            },
+            "foundation_year": "Ingen information",
+            "director": "Ingen information"
+        },
+        "4": {
+            "name": "AB. Oscarsdals Fabriker",
+            "location": "Lödöse",
+            "business": "Tillverkning av tätningsmedel för cement, betong och kalkbruk samt träimpregne-ringsmedel och färger",
+            "products": "Tätningsmedel för cement, betong och kalkbruk, träimpregne-ringsmedel och färger",
+            "contact": {
+                "office": "Kvilleg., Göteborg",
+                "phone": [
+                    "222342—43"
+                ],
+                "postgiro": "42517"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "employees": {
+                    "industriarb": 15
+                }
+            },
+            "foundation_year": 1924,
+            "director": "Henry Lindström"
+        },
+        "5": {
+            "name": "AB. Oskarshamns Varv",
+            "location": "Oskarshamn",
+            "business": "Skeppsvarv med mekanisk verkstad och gjuteri",
+            "contact": {
+                "head_office": "Riddarg. 17, Stockholm",
+                "telegraph": "Mfe, Stockholm",
+                "phone": "Jungnerbolaget",
+                "postgiro": "1547",
+                "factory_office": "Oskarshamn",
+                "factory_phone": [
+                    "24",
+                    "724"
+                ]
+            },
+            "financials": {
+                "capital": "2,760,000 kr",
+                "employees": {
+                    "industriarb": 857
+                }
+            },
+            "foundation_year": 1863,
+            "corporation_year": 1932,
+            "board": [
+                {
+                    "name": "civiling. Robert Amelia",
+                    "role": "Ordförande"
+                },
+                {
+                    "name": "bankdir. Allan Alexanderson",
+                    "role": "Styrelseledamot"
+                }
+            ],
+            "director": "Robert Ameln",
+            "manager": "Ingen information"
+        },
+        "6": {
+            "name": "Oskarström Sulphite Mills AB.",
+            "location": "Oskarström",
+            "business": "Tillverkning av lättblekbar sulfitcellulosa",
+            "contact": {
+                "telegraph": "Sulfitfabriken, Oskarström",
+                "phone": "Oskarström 11, 29, 155 o. Halmstad 28",
+                "postgiro": "32408"
+            },
+            "financials": {
+                "capital": "3,000,000 kr",
+                "employees": {
+                    "industriarb": 140
+                },
+                "annual_production_value": "15,000 ton sulfitcellulosa"
+            },
+            "foundation_year": 1915
+        }
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "original": "Konfektion\n\n\"Konfektions AB. Viking,\n\nTrollhättan.\n\nTillverkar herrkostymer och\n-ytterplagg, damkappor och dräkter samt\ngabar-dinrockar. Varumärke: »Viking».\n\nTelegr.-adr.: Vikingkläder, Trollhättan.\nTelefon: »Vikingbolaget». Postgiro:\n33290.\n\nAkt.-kap.: 300,000 kr. Antal\nindustriarb.: 230. Årsproduktion: 45,000 plagg.\n— Firman etabl. 1917 under namn Sigge\nO. Bråthén, nuv. namn 1935, bolag 1941.\n\nStyrelse o. verkst. dir.: dir. Sigge O.\nBråthén.\n\n\"Konfektions AB. Wånéx, Tranås.\n\nTillverkar dam-, flick- och barnkappor\nsamt dräkter. Varumärke: »Wånéx».\n\nTelegr.-adr.: Wånex, Tranås. Telefon:\n2871 o. 2971. Postgiro: 143162.\n\nAkt.-kap.: 60,000 kr. Antal\nindustriarb.: 100. Tillv.-värde pr år: 1,500,000 kr.\n— Bolaget grundat 1938.\n\nStyrelse o. verkst. dir.: Louis\nWång-mark.\n\n\"Konfektions AB. Zober, Tranås.\n\nTillverkar herr- och damkläder.\nSpecialitet: sportkläder. Varumärke: »Zober».\n\nTelefon: »Konfektionsab Zober».\nPostgiro: 97404. Repr.: i Stockholm: Folke\nA-son Lindris, Smålandsg. 10, telefon:\n108398; Göteborg, Rudolf Levinson,\nWik-nesg. 10, telefon: 161099.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 140. Tillv.-värde pr år: 2,000,000 kr.\n\nFirman etabl. 1936 i Kristdala under\nnamn Kristdala Konfektions AB., nuv.\nnamn och adress 1938.\n\nStyrelse: fru A. Olivia Blomqvist, disp.\nThorsten Claezon, grossh. Folke Lindris.\n\nVerkst. dir.: Thorsten Claezon.\n\nKonfektions AB. Algen,\n\nSjuntorp.\n\nHängslefabrik i Sjuntorp (Älvsb. l.).\nTillverkar hängslen, ärm- och\nstrumphållare samt bälten.\n\nTelefon: Trollhättan 40205. Postgiro:\n22192. — Akt.-kap.: 50,000 kr. Antal\nindustriarb.: 35. Tillv.-värde pr år: 500,000\nkr. — Bolaget grundat 1913.\n\nStyrelse: disp. Ingvar Mark (ordf.),\ndir. Oskar Karlberg, disp. E. Mjörne.\n\nVerkst. dir.: O. Karlberg.\n\nAB. Konfektionsdetaljer,\n\nKatrineholm.\n\nTillverkar detaljer för\nkonfektionsindustrin såsom axelvaddar, ärminlägg,\nvingar och ärmstöd för blusar och\nklänningar.\n\nTelefon: 1177. Postgiro: 139250.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 150. Tillv.-värde pr år: 1,500,000 kr.\n— Firman etabl. 1938, bolag 1941.\n\nStyrelse o. verkst. dir.: Nils J.\nJonsson.\n\nKamrer: Harry Pelenius.\n\nKonfektionsfabriken, AB. Nya,\n\nUddevalla.\n\nSe AB. Nya Konfektionsfabriken,\nUddevalla.\n\nKonfektions Kompaniet AB.,\n\nSkånes Fagerhult.\n\nHerrkonfektionsfabrik i Skånes\nFagerhult (Kristianst. l.). Tillverkar såsom\nspecialitet herrkostymer.\n\nTelegr.-adr. o. telefon: Junex, Skånes\nFagerhult.\n\nAkt.-kap.: 500,000 kr. Antal\nindustriarb.: 250.\n\nBolaget, etabl. 1917, är anslutet till\nJunex Konfektions AB., Huskvarna (se\ndetta bolag).\n\nStyrelse: konsul John\nHjelme-Lund-berg (ordf.), nämndeman Werner\nDanielsson, disp. Ivan Lindbladh, dir. Eric\nLöfström, dir. Ragnar Nordh.\n\nVerkst. dir.: John Hjelme-Lundberg.\n\nDisp.: Ivan Lindbladh.\n\nKonfektions-Kompaniet Lindström\n&amp; Co., AB., Stockholm.\n\nSe Konfektions AB. Lindström,\nStockholm.\n\nKonfektions-Metall, Linköping.\n\nMetallvarufabrik. Tillverkar\noverallknappar, knappformar, pappersklämmare,\npåsnitar, skyddskapslar, spännen,\nemblemnålar, flaggnålar samt massartiklar\nav plåt och tråd; utför förnickling och\ngalvanisering samt brännlackering och\nblankglödgning av massartiklar.\n\nTelefon: 25700. Postgiro: 140985.\nFörsälj.: för overallknappar: AB. Skoglund\n&amp; Hultner, Borås; för knappformar:\nFirma Knappformar, Stockholm,\nKungs-holmsg. 4 A.",
+    "structured": {
+        "1": {
+            "name": "Konfektions AB. Viking",
+            "location": "Trollhättan",
+            "business": "Tillverkning av herrkostymer, ytterplagg, damkappor, dräkter och gabardinrockar.",
+            "products": "Varumärke: »Viking»",
+            "contact": {
+                "office": "Vikingkläder, Trollhättan",
+                "phone": [
+                    "Vikingbolaget"
+                ],
+                "postgiro": "33290"
+            },
+            "financials": {
+                "capital": "300,000 kr",
+                "employees": {
+                    "industriarb": 230
+                },
+                "annual_turnover": "45,000 plagg",
+                "annual_production_value": "Firman etabl. 1917 under namn Sigge O. Bråthén, nuv. namn 1935, bolag 1941"
+            },
+            "foundation_year": 1917,
+            "current_name_year": 1935,
+            "corporation_year": 1941,
+            "board": [
+                {
+                    "name": "dir. Sigge O. Bråthén",
+                    "role": "verkst. dir."
+                }
+            ]
+        },
+        "2": {
+            "name": "Konfektions AB. Wånéx",
+            "location": "Tranås",
+            "business": "Tillverkning av dam-, flick- och barnkappor samt dräkter.",
+            "products": "Varumärke: »Wånéx»",
+            "contact": {
+                "office": "Wånex, Tranås",
+                "phone": [
+                    "2871",
+                    "2971"
+                ],
+                "postgiro": "143162"
+            },
+            "financials": {
+                "capital": "60,000 kr",
+                "employees": {
+                    "industriarb": 100
+                },
+                "annual_production_value": "1,500,000 kr"
+            },
+            "foundation_year": 1938,
+            "board": [
+                {
+                    "name": "Louis Wångmark",
+                    "role": "verkst. dir."
+                }
+            ]
+        },
+        "3": {
+            "name": "Konfektions AB. Zober",
+            "location": "Tranås",
+            "business": "Tillverkning av herr- och damkläder, med specialitet på sportkläder.",
+            "products": "Varumärke: »Zober»",
+            "contact": {
+                "phone": "Konfektionsab Zober",
+                "postgiro": "97404",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "108398"
+                    },
+                    {
+                        "location": "Göteborg",
+                        "phone": "161099"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 140
+                },
+                "annual_production_value": "2,000,000 kr"
+            },
+            "foundation_year": 1936,
+            "original_name": "Kristdala Konfektions AB.",
+            "corporation_year": 1938,
+            "board": [
+                {
+                    "name": "fru A. Olivia Blomqvist",
+                    "role": "disp."
+                },
+                {
+                    "name": "Thorsten Claezon",
+                    "role": "disp."
+                }
+            ],
+            "director": "Thorsten Claezon"
+        },
+        "4": {
+            "name": "Konfektions AB. Algen",
+            "location": "Sjuntorp",
+            "business": "Tillverkning av hängslen, ärm- och strumphållare samt bälten.",
+            "contact": {
+                "phone": "Trollhättan 40205",
+                "postgiro": "22192"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 35
+                },
+                "annual_production_value": "500,000 kr"
+            },
+            "foundation_year": 1913,
+            "board": [
+                {
+                    "name": "disp. Ingvar Mark",
+                    "role": "verkst. dir."
+                }
+            ]
+        },
+        "5": {
+            "name": "AB. Konfektionsdetaljer",
+            "location": "Katrineholm",
+            "business": "Tillverkning av detaljer för konfektionsindustrin såsom axelvaddar, ärminlägg, vingar och ärmstöd för blusar och klänningar.",
+            "contact": {
+                "phone": "1177",
+                "postgiro": "139250"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 150
+                },
+                "annual_production_value": "1,500,000 kr"
+            },
+            "foundation_year": 1938,
+            "corporation_year": 1941,
+            "board": [
+                {
+                    "name": "Nils J. Jonsson",
+                    "role": "verkst. dir."
+                },
+                {
+                    "name": "Harry Pelenius",
+                    "role": "Kamrer"
+                }
+            ]
+        },
+        "6": {
+            "name": "Konfektions Kompaniet AB.",
+            "location": "Skånes Fagerhult",
+            "business": "Tillverkning av herrkostymer.",
+            "contact": {
+                "phone": "Junex, Skånes Fagerhult"
+            },
+            "financials": {
+                "capital": "500,000 kr",
+                "employees": {
+                    "industriarb": 250
+                }
+            },
+            "foundation_year": 1917,
+            "board": [
+                {
+                    "name": "konsul John Hjelme-Lundberg",
+                    "role": "ordf."
+                },
+                {
+                    "name": "nämndeman Werner Danielsson",
+                    "role": "disp."
+                },
+                {
+                    "name": "disp. Ivan Lindbladh",
+                    "role": "disp."
+                },
+                {
+                    "name": "dir. Eric Löfström",
+                    "role": "dir."
+                },
+                {
+                    "name": "dir. Ragnar Nordh",
+                    "role": "dir."
+                },
+                {
+                    "name": "John Hjelme-Lundberg",
+                    "role": "verkst. dir."
+                },
+                {
+                    "name": "Ivan Lindbladh",
+                    "role": "disp."
+                }
+            ]
+        },
+        "7": {
+            "name": "Konfektions-Metall",
+            "location": "Linköping",
+            "business": "Metallvarufabrik. Tillverkning av overallknappar, knappformar, pappersklämmare, påsnitar, skyddskapslar, spännen, emblemnålar, flaggnålar samt massartiklar av plåt och tråd; utför förnickling och galvanisering samt brännlackering och blankglödgning av massartiklar.",
+            "contact": {
+                "phone": "25700",
+                "postgiro": "140985",
+                "sales_offices": [
+                    {
+                        "location": "Borås",
+                        "phone": "AB. Skoglund & Hultner"
+                    },
+                    {
+                        "location": "Stockholm",
+                        "phone": "Firma Knappformar"
+                    }
+                ]
+            }
+        }
+    }
+}

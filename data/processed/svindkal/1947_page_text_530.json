@@ -1,0 +1,246 @@
+{
+    "original": "Nilsson\n\n\"Gottfrid Nilsson, Malmö.\n\nByggnadsentreprenörfirma för\nbostads-och affärshus, industribyggnader m. m.\nsamt snickerifabrik.\n\nKontor: Agnesg. 6. Telefon: 71285.\nPostgiro: 148957.\n\nProd.-värde pr år: 3,500,000 kr., varav\ninom entreprenöravd.: 2,800,000 kr. —\nFirman etabl. 1927.\n\nÄgare o. chef: byggnadsing. Gottfrid\nNilsson.\n\n\"AB. Gotthard Nilsson, Älmhult.\n\nSorteringsanstalt för råmaterial till\ntextil- och pappersindustrien,\nkonstull-fabrik, metallsmältverk, tagel- och\nhårberedning i Älmhult (Kronob. l.). Firman\ndriver jämväl engrosrörelse med järn- och\nmetallskrot samt textilavfall, lump, tagel,\null, tomsäckar m. m.\n\nTelegr.-adr. o. telefon: Gotthard,\nÄlmhult. Postgiro: 30260. — Akt.-kap.:\n655,000 kr. Antal industriarb.: 275.\n\nFirman, grundad 1862, bolag 1915, äger\nÄlmhults Benmjölsfabrik.\n\nStyrelse: dir. Gotthard Nilsson (ordf.),\ndir. Gösta Ehrnst, med. lic. Allan\nGott-hardson.\n\nVerkst. dir.: Gotthard Nilsson.\n\nDisp.: E. Meyer-Rosskam.\n\n\"AB. Gunnar Nilsson, Karlskrona.\n\nSnörmakeri och bandfabrik i\nKarlskrona, likkistfabrik och syfabrik i\nHäst-veda (Kristianst. l.). Tillverkar\nsnörmakeri artiklar och band samt\nbegravnings-artiklar.\n\nHuvudkontor: Karlskrona. Telegr.-adr.:\nGenils, Karlskrona. Telefon: 1014 o. 4156.\nPostgiro: 6095. Avd.-kontor: Stockholm,\nSveavägen 125; telefon: 335711 o. 331752.\n— Akt.-kap.: 165,000 kr. Antal\nindustriarb.: 70. — Firman etabl. 1915.\n\nStyrelse o. verkst. dir.: Gunnar\nNilsson.\n\nFabrikschef i Hästveda: Yngve\nNilsson.\n\nAvd.-chef i Stockholm: Sven Carlsson.\n\n\"G. H. Nilssons Trikåfabrik, Borås.\n\nTillverkar herr- och damunderkläder i\nbomull och konstsilke.\n\nTelefon: 13291. Postgiro: 5381. —\nAntal industriarb.: 20. Tillv.-värde pr år:\n250,000 kr. — Firman etabl. 1932.\nÄgare o. chef: dir. G. Herman Nilsson.\n\n\"J. W. Nilsson, Vagn- &amp;\nKarossfabrik, Uppsala.\n\nTillverkar omnibussar, olika slag av\nkarosserier samt sportartiklar såsom\nbandy- och ishockeyklubbor (märke:\n»Siri-us»).\n\nTelefon: 32330. Postgiro: 176255.\n—-Antal industriarb.: 15. Tillv.-värde pr år:\n200,000 kr. — Firman etabl. 1890.\nÄgare o. chef: fabr. Sven Nilsson.\n\n\"K. Nilssons Snickeri- &amp;\nKaross-fabrik, Uppsala.\n\nTillverkar omnibuskarosserier, hytter\noch flak för bilar samt inredningssnic-\n\nTelefon: 35001. Postgiro: 279385. —\nArb.-antal: 16. Tillv.-värde pr år: 200,000\nkr. — Firman etabl. 1924.\n\nÄgare o. chef: fabr. Karl Nilsson.\n\nNils Nilssons Gjuteri, Falköping.\n\nGjuteri och mek. verkstad. Tillverkar\nsom specialitet glasformsgjutgods samt\ntackjärnsgjutgods, gjuterimaskiner och\ntorkugnseldstäder.\n\nTelefon: 260. Postgiro: 80991. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n100,000 kr. — Firman etabl. 1912.\nÄgare o. chef: fabr. Nils Nilsson.\n\n\"AB. Oscar Nilssons Metallfabrik,\n\nEskilstuna.\n\nTillverkar pressade arbeten av plåt i\naluminium, mässing, koppar och järn.\n\nTelefon: 33312 o. 3039(2. Postgiro:\n24313. — Akt.-kap.: 30,000 kr. Antal\nindustriarb.: 37. Tillv.-värde pr år: 480,000\nkr. — Firman etabl. 1898, bolag 1940.\n\nStyrelse: fru Anna Nilsson, fabr. Georg\nNilsson, fabr. Rudolf Nilsson.\nVerkst. dir.: Georg Nilsson.\n\n\"Wilh. Nilssons Snickerifabrik,\n\nOärsnäs.\n\nTillverkar fönster och dörrar samt\ninredningar vid fabrik i Gärsnäs\n(Kristianst. l.).\n\nTelefon: 102. — Arb.-antal: 2.\nTillv.-värde pr år: 20,000 kr. — Firman etabl.\n1926.\n\nÄgare o. chef: fabr. Wilhelm Nilsson.\n\n\"Åke Nilsson, Malmö.\n\nByggnadsentreprenörfirma för\nbostads-och affärshus, industribyggnader m. m.\n\n392*",
+    "structured": {
+        "1": {
+            "name": "Gottfrid Nilsson",
+            "location": "Malmö",
+            "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m. samt snickerifabrik",
+            "contact": {
+                "office": "Agnesg. 6",
+                "phone": [
+                    "71285"
+                ],
+                "postgiro": "148957"
+            },
+            "financials": {
+                "capital": "Not applicable",
+                "employees": {
+                    "entreprenöravd": 20
+                },
+                "annual_turnover": "3,500,000 kr",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": 1927,
+            "director": "Gottfrid Nilsson"
+        },
+        "2": {
+            "name": "AB. Gotthard Nilsson",
+            "location": "Älmhult",
+            "business": "Sorteringsanstalt för råmaterial till textil- och pappersindustrien, konstull-fabrik, metallsmältverk, tagel- och hårberedning i Älmhult (Kronob. l.)",
+            "contact": {
+                "telegraph": "Gotthard, Älmhult",
+                "phone": "Not applicable",
+                "postgiro": "30260",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "335711 o. 331752"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "655,000 kr",
+                "employees": {
+                    "industriarb": 275
+                },
+                "annual_turnover": "Not applicable",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": 1862,
+            "corporation_year": 1915,
+            "board": [
+                {
+                    "name": "Gotthard Nilsson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Gösta Ehrnst",
+                    "role": "Not applicable"
+                },
+                {
+                    "name": "Allan Gott-hardson",
+                    "role": "Not applicable"
+                }
+            ],
+            "owners": [
+                "Not applicable"
+            ],
+            "director": "Gotthard Nilsson"
+        },
+        "3": {
+            "name": "AB. Gunnar Nilsson",
+            "location": "Karlskrona",
+            "business": "Snörmakeri och bandfabrik i Karlskrona, likkistfabrik och syfabrik i Häst-veda (Kristianst. l.)",
+            "contact": {
+                "office": "Karlskrona",
+                "phone": [
+                    "1014",
+                    "4156"
+                ],
+                "postgiro": "6095"
+            },
+            "financials": {
+                "capital": "165,000 kr",
+                "employees": {
+                    "industriarb": 70
+                },
+                "annual_turnover": "Not applicable",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": 1915,
+            "director": "Gunnar Nilsson",
+            "manager": "Sven Carlsson"
+        },
+        "4": {
+            "name": "G. H. Nilssons Trikåfabrik",
+            "location": "Borås",
+            "business": "Tillverkar herr- och damunderkläder i bomull och konstsilke",
+            "contact": {
+                "phone": [
+                    "13291"
+                ],
+                "postgiro": "5381"
+            },
+            "financials": {
+                "capital": "Not applicable",
+                "employees": {
+                    "industriarb": 20
+                },
+                "annual_turnover": "250,000 kr",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": 1932,
+            "director": "G. Herman Nilsson"
+        },
+        "5": {
+            "name": "J. W. Nilsson, Vagn- & Karossfabrik",
+            "location": "Uppsala",
+            "business": "Tillverkar omnibussar, olika slag av karosserier samt sportartiklar såsom bandy- och ishockeyklubbor (märke: »Siri-us»)",
+            "contact": {
+                "phone": "32330",
+                "postgiro": "176255"
+            },
+            "financials": {
+                "capital": "Not applicable",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "200,000 kr",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": 1890,
+            "director": "fabr. Sven Nilsson"
+        },
+        "6": {
+            "name": "K. Nilssons Snickeri- & Kaross-fabrik",
+            "location": "Uppsala",
+            "business": "Tillverkar omnibuskarosserier, hytter och flak för bilar samt inredningssnic",
+            "contact": {
+                "phone": "35001",
+                "postgiro": "279385"
+            },
+            "financials": {
+                "capital": "Not applicable",
+                "employees": {
+                    "Not applicable": 16
+                },
+                "annual_turnover": "200,000 kr",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": 1924,
+            "director": "fabr. Karl Nilsson"
+        },
+        "7": {
+            "name": "Nils Nilssons Gjuteri",
+            "location": "Falköping",
+            "business": "Gjuteri och mek. verkstad. Tillverkar som specialitet glasformsgjutgods samt tackjärnsgjutgods, gjuterimaskiner och torkugnseldstäder",
+            "contact": {
+                "phone": "260",
+                "postgiro": "80991"
+            },
+            "financials": {
+                "capital": "Not applicable",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "100,000 kr",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": 1912,
+            "director": "fabr. Nils Nilsson"
+        },
+        "8": {
+            "name": "AB. Oscar Nilssons Metallfabrik",
+            "location": "Eskilstuna",
+            "business": "Tillverkar pressade arbeten av plåt i aluminium, mässing, koppar och järn",
+            "contact": {
+                "phone": [
+                    "33312",
+                    "3029(2)"
+                ],
+                "postgiro": "24313"
+            },
+            "financials": {
+                "capital": "30,000 kr",
+                "employees": {
+                    "industriarb": 37
+                },
+                "annual_turnover": "480,000 kr",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": 1898,
+            "corporation_year": 1940,
+            "board": [
+                {
+                    "name": "fru Anna Nilsson",
+                    "role": "Not applicable"
+                },
+                {
+                    "name": "fabr. Georg Nilsson",
+                    "role": "Not applicable"
+                },
+                {
+                    "name": "fabr. Rudolf Nilsson",
+                    "role": "Not applicable"
+                }
+            ],
+            "director": "Georg Nilsson"
+        },
+        "9": {
+            "name": "Wilh. Nilssons Snickerifabrik",
+            "location": "Oärsnäs",
+            "business": "Tillverkar fönster och dörrar samt inredningar vid fabrik i Gärsnäs (Kristianst. l.)",
+            "contact": {
+                "phone": "102"
+            },
+            "financials": {
+                "capital": "Not applicable",
+                "employees": {
+                    "Not applicable": 2
+                },
+                "annual_turnover": "20,000 kr",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": 1926,
+            "director": "fabr. Wilhelm Nilsson"
+        },
+        "10": {
+            "name": "Åke Nilsson",
+            "location": "Malmö",
+            "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+            "contact": {
+                "phone": "Not applicable"
+            },
+            "financials": {
+                "capital": "Not applicable",
+                "employees": {
+                    "Not applicable": "Not applicable"
+                },
+                "annual_turnover": "Not applicable",
+                "annual_production_value": "Not applicable"
+            },
+            "foundation_year": "Not applicable",
+            "director": "Åke Nilsson"
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "original": "S ommen—Sparring\n\n\"Sömmens Möbelfabrik, Levi\nMagnuson, Sömmen.\n\nTillverkar möbler i björk, alm, ek och\nmahogny vid fabrik i Sömmen\n(Jönköp. l.).\n\nTelefon: 7 o. 67. Postgiro: 25078. —\nAntaL industriarb.: 28. Tillv.-värde pr\når: 250,000 kr. — Firman etabl. 1901.\n\nÄgare o. chef: fabr. Levi Magnuson.\n\n\"Sömmens Mössfabrik, AB., Sömmen.\n\nTillverkar mössor vid fabrik i\nSömmen (Jönköp. l.). Varumärken: »SM» o.\n» Essem-mössan».\n\nTelefon: »Baards Fabriker». Postgiro:\n11312. Repr. i Stockholm: C. G. Hallberg,\nKornhamnstorg 53, telefon: 106437.\n\nAkt.-kap.: 75,000 kr. Antal\nindustriarb: 50. — Firman etabl. 1921, bolag 1943.\n\nStyrelse: fabr. Elias Baard (ordf.),\nfabr. Axel Baard, fru M. Baard.\n\nVerkst. dir.: Elias Baard.\n\nDisp.: Axel Baard.\n\n\"AB. Sömmens Trämjölskvarn,\n\nSömmen.\n\nTillverkar trämjöl vid fabrik i Sömmen\n(Jönköp. l.).\n\nTelegr.-adr.: Trämjölskvarnen,\nSömmen. Telefon: 24. Postgiro: 265386. —\nAkt.-kap.: 75,000 kr. Tillv.-värde pr år:\n300,000 kr. — Bolaget o grundat 1939.\n\nStyrelse: disp. Nils Åman (ordf.),\nför-säljn.-chef Allan Ankler, fru Julia Åman.\n\nVerkst. dir.: Nils Åman.\n\n\"Sonja, AB. Karamell- &amp;\nChoklad-fabriken, Uppsala.\n\nSe AB. Karamell- &amp; Chokladfabriken\nSonja, Uppsala.\n\n\"Sonnys, Aina Lundin, Stockholm.\n\nKonfektionsfabrik. Tillverkar\nbabyutstyrslar, flick- och gosskläder.\nSpecialitet: babypåsar.\n\nKontor: Apelbergsg. 56. Telegr.-adr.:\nSonnys, Stockholm. Telefon: 210569 o.\n105975. Postgiro: 58939.\n\nAntal industriarb.: 22. Tillv.-värde pr\når: 450,000 kr. — Firman etabl. 1935.\n\nÄgare o. chef: fru Aina Lundin.\n\nDisp.: Albert Lindholm.\n\nAB. Sonora, Stockholm.\n\nInspelning, matristillverkning och\npressning av grammofonskivor samt\ntillverkning av grammofoner. Varumärke:\n\n»Sonora» o. »Sonata». Bolaget driver\näven försäljning av grammofontillbehör.\n\nHuvudkontor: Stockholm, Kungsg. 29.\nTelegr.-adr.: Sonora, Stockholm. Telefon:\n234145. Postgiro: 54991. Avd.-kontor:\nGöteborg, ö. Hamng. 12, telefon: 113837;\nMalmö, S. Förstadsg. 27, telefon: 17958.\n\nAkt.-kap.: 150,000 kr. Tillv.-värde pr\når (egen tillverkning): 1,500,000 kr. —\nBolaget, grundat 1932, äger Sonora\nMusikförlags AB.\n\nVerkst. dir.: generalkonsul Erik\nLjungberg.\n\nFörsäljn.-chef: Helge Roundquist.\n\n\"Spadfabriken Karlstad, Bröderna\nWästlund &amp; Co., Earlstad.\n\nTillverkar spadar, skyfflar, grepar och\nhögafflar, lövräfsor m. m.\n\nTelefon: 15435. Postgiro: 36151.\nRepresentanter: Halmstads Järn var u AB.,\nHalmstad o. Stockholm, AB. J. A. Göthes\nJärnvaruaffär, Falun, Herman Geijer &amp;\nCo. AB., Karlstad, samt Rosengren &amp;\nRiis AB., Malmö.\n\nAntal industriarb.: 30. Tillv.-värde pr\når: 400,000 kr. — Firman grundad 1923.\n\nÄgare: byggm. Olof Wästlund,\nkontorschef Folke Nilson, J ohan Wästlunds\nsterbhus o. Nils Englunds sterbhus.\n\nKontorschef: Folke Nilson.\n\nSparman-Fabri ken AB., Vretstorp.\n\nMek. verkstad i Vretstorp (Örebro l.).\nTillverkar bl. a. transportabla\ncirkelsågverk (märke: »Wire») och transportörer\n(märke: »Sparman»).\n\nTelefon: 130. Postgiro: 269693. -\nAkt.-kap.: 50,000 kr. Antal industriarb.: 12.\nTillv.-värde pr år: 300,000 kr. — Firman\netabl. 1942, bolag 1945.\n\nChefer: dir. David P. Andersson o.\nfabr. John R. Eriksson.\n\nAB. Sparreholms Snickerifabrik,\n\nSparreholm.\n\nSe HSB:s Snickerifabrik i Sparreholm\nAB., Sparreholm.\n\n\"Sparreholms Ångsåg, Sparreholm.\n\nSe Backa-Hosjö AB., Sparreholm.\n\n\"Sparrings’ Kassaskåpsfabrik AB.,\nBröderna, Stockholm.\n\nSe Bröderna Sparrings’\nKassaskåpsfabrik AB., Stockholm.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Sömmens Möbelfabrik, Levi Magnuson",
+                "location": "Sömmen (Jönköp. l.)",
+                "business": "Tillverkar möbler i björk, alm, ek och mahogny",
+                "contact": {
+                    "phone": [
+                        "7",
+                        "67"
+                    ],
+                    "postgiro": "25078"
+                },
+                "financials": {
+                    "capital": "N/A",
+                    "employees": {
+                        "industriarb": 28
+                    },
+                    "annual_turnover": "250,000 kr",
+                    "annual_production_value": "250,000 kr"
+                },
+                "foundation_year": 1901,
+                "owners": [
+                    "Levi Magnuson"
+                ],
+                "director": "Levi Magnuson"
+            },
+            {
+                "name": "Sömmens Mössfabrik, AB.",
+                "location": "Sömmen (Jönköp. l.)",
+                "business": "Tillverkar mössor",
+                "contact": {
+                    "phone": "Baards Fabriker",
+                    "postgiro": "11312",
+                    "sales_offices": [
+                        {
+                            "location": "Stockholm",
+                            "phone": "106437"
+                        }
+                    ]
+                },
+                "financials": {
+                    "capital": "75,000 kr",
+                    "employees": {
+                        "industriarb": 50
+                    },
+                    "annual_turnover": "N/A",
+                    "annual_production_value": "N/A"
+                },
+                "foundation_year": 1921,
+                "owners": [
+                    "Elias Baard",
+                    "Axel Baard",
+                    "fru M. Baard"
+                ],
+                "director": "Elias Baard"
+            },
+            {
+                "name": "AB. Sömmens Trämjölskvarn",
+                "location": "Sömmen (Jönköp. l.)",
+                "business": "Tillverkar trämjöl",
+                "contact": {
+                    "telegraph": "Trämjölskvarnen, Sömmen",
+                    "phone": "24",
+                    "postgiro": "265386"
+                },
+                "financials": {
+                    "capital": "75,000 kr",
+                    "employees": "N/A",
+                    "annual_turnover": "N/A",
+                    "annual_production_value": "300,000 kr"
+                },
+                "foundation_year": 1939,
+                "owners": [
+                    "disp. Nils Åman",
+                    "för-säljn.-chef Allan Ankler",
+                    "fru Julia Åman"
+                ],
+                "director": "Nils Åman"
+            },
+            {
+                "name": "Sonny, Aina Lundin",
+                "location": "Stockholm",
+                "business": "Konfektionsfabrik",
+                "contact": {
+                    "phone": [
+                        "210569",
+                        "105975"
+                    ],
+                    "postgiro": "58939"
+                },
+                "financials": {
+                    "capital": "N/A",
+                    "employees": {
+                        "industriarb": 22
+                    },
+                    "annual_turnover": "450,000 kr",
+                    "annual_production_value": "450,000 kr"
+                },
+                "foundation_year": 1935,
+                "owners": [
+                    "fru Aina Lundin"
+                ],
+                "director": "fru Aina Lundin",
+                "sales_manager": "Albert Lindholm"
+            },
+            {
+                "name": "AB. Sonora",
+                "location": "Stockholm",
+                "business": "Inspelning, matristillverkning och pressning av grammofonskivor samt tillverkning av grammofoner",
+                "contact": {
+                    "phone": "234145",
+                    "postgiro": "54991",
+                    "sales_offices": [
+                        {
+                            "location": "Göteborg",
+                            "phone": "113837"
+                        },
+                        {
+                            "location": "Malmö",
+                            "phone": "17958"
+                        }
+                    ]
+                },
+                "financials": {
+                    "capital": "150,000 kr",
+                    "employees": "N/A",
+                    "annual_turnover": "N/A",
+                    "annual_production_value": "1,500,000 kr"
+                },
+                "foundation_year": 1932,
+                "owners": [
+                    "generalkonsul Erik Ljungberg"
+                ],
+                "director": "generalkonsul Erik Ljungberg",
+                "sales_manager": "Helge Roundquist"
+            },
+            {
+                "name": "Spadfabriken Karlstad, Bröderna Wästlund & Co.",
+                "location": "Earlstad",
+                "business": "Tillverkar spadar, skyfflar, grepar och högafflar, lövräfsor m. m.",
+                "contact": {
+                    "phone": "15435",
+                    "postgiro": "36151"
+                },
+                "financials": {
+                    "capital": "N/A",
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_turnover": "N/A",
+                    "annual_production_value": "400,000 kr"
+                },
+                "foundation_year": 1923,
+                "owners": [
+                    "byggm. Olof Wästlund",
+                    "kontorschef Folke Nilson",
+                    "J ohan Wästlunds sterbhus",
+                    "Nils Englunds sterbhus"
+                ],
+                "manager": "Folke Nilson"
+            },
+            {
+                "name": "Sparman-Fabriken AB.",
+                "location": "Vretstorp (Örebro l.)",
+                "business": "Tillverkar transportabla cirkelsågverk och transportörer",
+                "contact": {
+                    "phone": "130",
+                    "postgiro": "269693"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 12
+                    },
+                    "annual_turnover": "N/A",
+                    "annual_production_value": "300,000 kr"
+                },
+                "foundation_year": 1942,
+                "board": [
+                    {
+                        "name": "dir. David P. Andersson",
+                        "role": "N/A"
+                    },
+                    {
+                        "name": "fabr. John R. Eriksson",
+                        "role": "N/A"
+                    }
+                ]
+            }
+        ]
+    }
+}

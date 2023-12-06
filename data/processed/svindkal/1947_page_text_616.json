@@ -1,0 +1,130 @@
+{
+    "original": "Sjöström—Skandia\n\nStyrelse: dir. Albert Lundvall (ordf.),\ndisp. U. Hasselgren, köpm. K. Malm,\ndisp. Pehr Pehrson.\n\nVerkst. dir.: Albert Lundvall.\n\nFabrikschef: civiling. Sven Berg.\n\nFörsäljn.-chef er: U. Hasselgren o.\nHolger Lundgren.\n\nInköpschef: C. H. Löfgren.\n\nChef f. Sthlmskontoret: Pehr Pehrson.\n\n\"d. F. Sjöström, Snickerifabrik,\n\nGällivare.\n\nTillverkar inredningar för butiker,\nfrisersalonger och kök m. fl.,\nbyggnadssnickerier såsom dörrar, fönster, trappor\nm. m. vid fabrik i Gällivare (Norrbott.\n1.). Firman driver även handel med\nträfiberplattor och kryssfanér.\n\nTelefon: 177. Postgiro: 61233. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n150,000 kr. — Firman etabl. 1928.\n\nÄgare o. chef: fabr. Johan F.\nSjöström.\n\n*AB. Sjötofta Tråddrager i,\n\nSjötofta.\n\nTråddrageri i Sjötofta (Älvsb. l.).\nTillverkar blank, glödgad, galvaniserad och\nförkopprad järntråd, taggtråd,\ngalvaniserad, vriden bandtråd, trådmanufaktur\nm. m.\n\nTelegr.-adr.: Tråddrageriet. Sjötofta.\nTelefon: Svenljunga 63013. Postgiro:\n87380.\n\nAkt.-kap.: 75,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 1,700,000 kr.\n— Bolaget grundat 1913.\n\nStyrelse: ing. Lars Odéen (ordf.), fru\nCecilia Odéen.\n\nVerkst. dir.: Lars Odéen.\n\n\"Sjötorps Sågverk, Sjötorp.\n\nSe Sixten Groths Eftr., Sjötorp.\n\nSjöös Fabriks AB., Hagalund.\n\nSmidesverkstad i Hagalund (Sthlms l.).\nTillverkar rostfria arbeten för sjukhus,\nhushåll och restauranger såsom\nvärmebord och värmeskåp, grillar, diskbänkar\noch tvättrännor, bardiskar med\nkylanläggningar, mattransportvagnar, rostfria\narbeten för livsmedelsindustrin m. m.\n\nKontor: Hagalund. Telefon: Stockholm\n274310—11. Postgiro: 53916. —\nAkt.-kap.: 50,000 kr. Antal industriarb.: 30.\nTillv.-värde pr år: 600,000 kr, — Firman\netabl. 1927, bolag 1937, ombildat 1940.\n\nVerkst. dir.: fabr. Sven Sjöö.\n\nAvd.-chef i. elektr. detaljer, ing. Evert\nSjöö.\n\nSkaftfabriken, Svenska,\n\nS öderhamn.\n\nSe Svenska Skaftfabriken, Söderhamn.\n\n\"Skagersviks Nya Träindustri AB.,\n\nSkagersvik.\n\nSågverk, hyvleri, snickerifabrik samt\nkolningsverk vid Skagersvik (Skarab. l.).\nTillverkar sågade och hyvlade trävaror,\nmonteringsfärdiga trähus samt träkol.\n\nTelegr.-adr.: Skagersåg, # Gullspång.\nTelefon: Gullspång »Skagerviksbolagen».\nPostgiro: 146033. Ensamförsälj. av\nträhus: AB. Svenska Trähus, Stockholm,\nBirger Jarlsg. 27, telefon: »Svenska\nTrähus».\n\nAkt.-kap.: 700,000 kr. Antal\nindustriarb.: 200. Årstillv.: 3,500 stds sågade o.\nhyvlade trävaror, 500,000 kbft trähus o.\n2,000 kbm träkol.\n\nFirman etabl. 1925, ombildad 1938.\n\nStyrelse: disp. David E. Wästlund\n(ordf.), byggm. Olof Wästlund (v. ordf.),\ning. B. V. Karlsson, teknolog Gunnar\nWästlund, disp. Göte Wästlund.\n\nDisp.: Göte Wästlund.\n\n\"Skandia, Elektriska AB., Stockholm.\n\nSe Elektriska AB. Skandia, Sthlm.\n\nSkandia, AB. Färgfabriken,\n\nStockholm.\n\nSe AB. Färgfabriken Skandia,\nStockholm.\n\nSkandia, Instrumentfirman,\n\nAnderstorp.\n\nSe Instrumentfirman Skandia,\nAnderstorp.\n\nSkandia Plywood AB., Skattkärr.\n\nSe Scandia Plywood AB., Skattkärr.\n\n\"Skandia, Silver- &amp; Nysilver AB.,\n\nStockholm.\n\nSe Silver- &amp; Nysilver AB. Skandia,\nStockholm.\n\n\"Skandia Skofabrik, Örebro.\n\nSe AB. Skofabriken Skandia, Örebro.\n\n\"Skandia Verken AB., Lysekil.\n\nSe Bergbolagen AB., Lindesberg.",
+    "structured": {
+        "firms": [
+            {
+                "name": "F. Sjöström, Snickerifabrik",
+                "location": "Gällivare",
+                "business": "Tillverkning av inredningar för butiker, frisersalonger och kök, byggnadssnickerier",
+                "products": "Inredningar, dörrar, fönster, trappor, träfiberplattor, kryssfanér",
+                "contact": {
+                    "office": "Gällivare",
+                    "phone": [
+                        "177"
+                    ],
+                    "postgiro": "61233",
+                    "factory_office": "Gällivare",
+                    "factory_phone": "177",
+                    "telegraph": "Gällivare",
+                    "head_office": "Gällivare"
+                },
+                "financials": {
+                    "capital": "Not available",
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_turnover": "150,000 kr",
+                    "annual_production_value": "Not available"
+                },
+                "foundation_year": 1928,
+                "owner": "Fabr. Johan F. Sjöström"
+            },
+            {
+                "name": "AB. Sjötofta Tråddrageri",
+                "location": "Sjötofta",
+                "business": "Tillverkning av järntråd, taggtråd, bandtråd, trådmanufaktur",
+                "contact": {
+                    "phone": [
+                        "Svenljunga 63013"
+                    ],
+                    "postgiro": "87380",
+                    "telegraph": "Tråddrageriet, Sjötofta"
+                },
+                "financials": {
+                    "capital": "75,000 kr",
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_turnover": "1,700,000 kr",
+                    "annual_production_value": "Not available"
+                },
+                "foundation_year": 1913,
+                "owner": "Not available"
+            },
+            {
+                "name": "Sjötorps Sågverk",
+                "location": "Sjötorp",
+                "business": "Not available",
+                "financials": {
+                    "capital": "Not available",
+                    "employees": "Not available",
+                    "annual_turnover": "Not available",
+                    "annual_production_value": "Not available"
+                },
+                "foundation_year": "Not available",
+                "owner": "Sixten Groths Eftr."
+            },
+            {
+                "name": "Sjöös Fabriks AB.",
+                "location": "Hagalund",
+                "business": "Tillverkning av rostfria arbeten för sjukhus, hushåll och restauranger, smidesverkstad",
+                "products": "Värmebord, värmeskåp, grillar, diskbänkar, tvättrännor, bardiskar, mattransportvagnar",
+                "contact": {
+                    "office": "Hagalund",
+                    "phone": [
+                        "Stockholm 274310—11"
+                    ],
+                    "postgiro": "53916"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_turnover": "600,000 kr",
+                    "annual_production_value": "Not available"
+                },
+                "foundation_year": 1927,
+                "corporation_year": 1937,
+                "owner": "Not available"
+            },
+            {
+                "name": "Skagersviks Nya Träindustri AB.",
+                "location": "Skagersvik",
+                "business": "Tillverkning av sågade och hyvlade trävaror, monteringsfärdiga trähus, träkol",
+                "products": "Sågade och hyvlade trävaror, trähus, träkol",
+                "contact": {
+                    "telegraph": "Skagersåg, # Gullspång",
+                    "phone": [
+                        "Gullspång »Skagerviksbolagen»"
+                    ],
+                    "postgiro": "146033"
+                },
+                "financials": {
+                    "capital": "700,000 kr",
+                    "employees": {
+                        "industriarb": 200
+                    },
+                    "annual_turnover": "Not available",
+                    "annual_production_value": "3,500 stds sågade o. hyvlade trävaror, 500,000 kbft trähus o. 2,000 kbm träkol"
+                },
+                "foundation_year": 1925,
+                "corporation_year": 1938,
+                "owner": "Not available"
+            },
+            {
+                "name": "Skandia, Elektriska AB.",
+                "location": "Stockholm",
+                "business": "Not available",
+                "financials": {
+                    "capital": "Not available",
+                    "employees": "Not available",
+                    "annual_turnover": "Not available",
+                    "annual_production_value": "Not available"
+                },
+                "foundation_year": "Not available",
+                "owner": "Not available"
+            }
+        ]
+    }
+}

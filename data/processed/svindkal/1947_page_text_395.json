@@ -1,0 +1,218 @@
+{
+    "original": "Jahnke—Jakobsson\n\nTillv.-värde pr år: 700,000 kr. — Bolaget\ngrundat 1934.\n\nStyrelse: dir. David Sanden (ordf.),\nköpman Axel Sanden, köpman Ragnar\nSanden.\n\nDisp.: Arne Janson.\n\nJahnkes Paraplyfabrik, Malmö.\n\nTillverkar paraplyer.\n\nKontor: Skeppsbron 5. Telefon: 76788.\nPostgiro: ^ 147790. Repr. i Stockholm:\nRolf Lilljekvist, Malmskillnadsg. 29,\ntelefon: 201338.\n\nAntal industriarb.: 15. Tillv.-värde pr\når: 250,000 kr. — Firman etabl. 1940.\n\nÄgare o. chef: fröken Annagreta\nJahnke.\n\nKamrer: Ernst Ekman.\n\nJahrls Mek. Verkstad, Örebro.\n\nTillverkar instrument,\nprecisionsapparater, maskindelar samt verktyg för\nmekaniska industrien. Varumärke: »Jal».\n\nTelegr.-adr.: Jal, Örebro. Telefon:\n13077. Postgiro: 99264. — Antal\nindustriarb.: 65. Tillv.-värde pr år: 1,200,000\nkr. — Firman etabl. 1915.\n\nÄgare o. chef: fabr. Erik Jahrl.\n\nAB. Jakobsbergs Snickerifabrik,\n\nStockholm.\n\nTillverkar byggnadssnickerier och\ninredningar m. m. vid fabrik i Jakobsberg\n(Sthlms l.).\n\nKontor: Stockholm, Kungsg. 50.\nTelefon: 115474. Postgiro: 79454. —\nAkt.-kap.: 42,500 kr. Antal industriarb.: 15.\nTillv.-värde pr år: 200,000 kr.\n\nFirman etabl. 1929, nuv. bolag\ngrundat 1936.\n\nVerkst. dir.: trävaruhandl. Viktor\nKri-ström.\n\n’Jakobsbergs Träindustri AB.,\n\nJakobsberg.\n\nTillverkar byggnadssnickerier,\nköks-och butiksinredningar, bänkfönster m. m.\ni Jakobsberg (Sthlms l.).\n\nTelefon: 99. Postgiro: 99297. —\nAkt.-kap.: 25,000 kr. Arb.-antal: 8.\nTillv.-värde pr år: 100,000 kr. — Bolaget\ngrundat 1936.\n\nStyrelse: dir. Wiktor Björklund\n(ordf.), herr Allan Björklund, fru Siva\nBjörklund.\n\nVerkst. dir.: Wiktor Björklund.\n\nAB. Jakobsdals Kamgarnsspinneri,\n\nGöteborg.\n\nKamgarnsspinneri i örgryte, Göteborg.\nTillverkar oblekta och färgade\nkamgarner. Varumärke: »Ekorren».\n\nHuvudkontor: Göteborg; postadr.:\nGöteborg 5. Telegr.-adr.: Jakobsdals,\nGöteborg. Telefon: 170810. Postgiro: 25565.\nAvd.-kontor: Stockholm, Kammakareg.\n51 B, telefon: 111498; Malmö,\nDavids-hallsg. 23, telefon: 24758.\n\nAkt.-kap.: 1,000,000 kr. Antal\nindustriarb.: 150. Tillv.-värde pr år: 3,500,000 kr.\n—Bolaget grundat 1910.\n\nStyrelse o. verkst. direktörer: Linus\nHöglund o. J. W. Kinde.\n\n’Jakobsdals Textilindustri AB.,\n\nKatrineholm.\n\nTillverkar barn- och flickkläder samt\nsportartiklar. Varumärke: »Fin-nett».\n\nTelefon: 1358. Postgiro: 12262. —\niVkt.-kap.: 50,000 kr. Antal industriarb.:\n55. Tillv.-värde pr år: 600,000 kr. —\nBolaget grundat 1933.\n\nStyrelse o. verkst. dir.: Eric T.\nNilsson.\n\nJakobsson, Jacobsson.\n\nJacobsson &amp; Anderssons Eftr.\nHandskfabrik, Malmö.\n\nTillverkar handskar.\nKontor: S. Förstadsg. 13. Telegr.-adr.:\nJacand, Malmö. Telefon: 25123. —\nAntal industriarb.: 60. Tillv.-värde pr år:\n800,000 kr. — Firman etabl. 1867.\nÄgare o. chef: fabr. K. A. Nordenfeldt.\n\n’AB. Jakobssons Industrier,\n\nSäffle.\n\nMöbelfabrik, sågverk och exporthyvleri\ni Säffle (Värml. l.). Tillverkar bonade\noch lackerade möbler samt sågade och\nhyvlade trävaror.\n\nTelegr.-adr.: Jakobssons, Säffle.\nTelefon: 125 o. 225. Postgiro: 7894.\n\nAkt.-kap.: 155,000 kr. Antal\nindustriarb.: 150. Tillv.-värde pr år: 2,000,000 kr.\nÅrstillv. av trävaror: 3,000 stds. —\nFirman grundad 1907.\n\nStyrelse: kassör Anders Jakobsson,\ndisp. John Jakobsson, ing. Petrus\nJakobsson.\n\nVerkst. dir.: John Jakobsson.\n\n257*\n\n17",
+    "structured": {
+        "1": {
+            "name": "Jahnkes Paraplyfabrik",
+            "location": "Malmö",
+            "business": "Tillverkar paraplyer",
+            "contact": {
+                "office": "Skeppsbron 5",
+                "phone": [
+                    "76788"
+                ],
+                "postgiro": "147790",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "201338"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "700,000 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "250,000 kr",
+                "annual_production_value": "250,000 kr"
+            },
+            "foundation_year": 1934,
+            "director": "Arne Janson",
+            "owners": [
+                "fröken Annagreta Jahnke"
+            ],
+            "board": [
+                {
+                    "name": "dir. David Sanden",
+                    "role": "ordf."
+                },
+                {
+                    "name": "köpman Axel Sanden",
+                    "role": "member"
+                },
+                {
+                    "name": "köpman Ragnar Sanden",
+                    "role": "member"
+                }
+            ]
+        },
+        "2": {
+            "name": "Jahrls Mek. Verkstad",
+            "location": "Örebro",
+            "business": "Tillverkar instrument, precisionsapparater, maskindelar samt verktyg för mekaniska industrien. Varumärke: »Jal».",
+            "contact": {
+                "telegraph": "Jal, Örebro",
+                "phone": "13077",
+                "postgiro": "99264"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 65
+                },
+                "annual_turnover": "1,200,000 kr"
+            },
+            "foundation_year": 1915,
+            "director": "fabr. Erik Jahrl"
+        },
+        "3": {
+            "name": "AB. Jakobsbergs Snickerifabrik",
+            "location": "Stockholm",
+            "business": "Tillverkar byggnadssnickerier och inredningar m. m. vid fabrik i Jakobsberg (Sthlms l.)",
+            "contact": {
+                "office": "Stockholm, Kungsg. 50",
+                "phone": "115474",
+                "postgiro": "79454"
+            },
+            "financials": {
+                "capital": "42,500 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "200,000 kr"
+            },
+            "foundation_year": 1929,
+            "corporation_year": 1936,
+            "director": "trävaruhandl. Viktor Kri-ström"
+        },
+        "4": {
+            "name": "’Jakobsbergs Träindustri AB.",
+            "location": "Jakobsberg",
+            "business": "Tillverkar byggnadssnickerier, köks-och butiksinredningar, bänkfönster m. m. i Jakobsberg (Sthlms l.)",
+            "contact": {
+                "phone": "99",
+                "postgiro": "99297"
+            },
+            "financials": {
+                "capital": "25,000 kr",
+                "employees": {
+                    "industriarb": 8
+                },
+                "annual_turnover": "100,000 kr"
+            },
+            "foundation_year": 1936,
+            "director": "Wiktor Björklund"
+        },
+        "5": {
+            "name": "AB. Jakobsdals Kamgarnsspinneri",
+            "location": "Göteborg",
+            "business": "Kamgarnsspinneri i örgryte, Göteborg. Tillverkar oblekta och färgade kamgarner. Varumärke: »Ekorren».",
+            "contact": {
+                "head_office": "Göteborg",
+                "phone": "170810",
+                "postgiro": "25565",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "111498"
+                    },
+                    {
+                        "location": "Malmö",
+                        "phone": "24758"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "1,000,000 kr",
+                "employees": {
+                    "industriarb": 150
+                },
+                "annual_turnover": "3,500,000 kr"
+            },
+            "foundation_year": 1910,
+            "board": [
+                {
+                    "name": "Linus Höglund",
+                    "role": "Verkst. direktör"
+                },
+                {
+                    "name": "J. W. Kinde",
+                    "role": "Verkst. direktör"
+                }
+            ]
+        },
+        "6": {
+            "name": "’Jakobsdals Textilindustri AB.",
+            "location": "Katrineholm",
+            "business": "Tillverkar barn- och flickkläder samt sportartiklar. Varumärke: »Fin-nett».",
+            "contact": {
+                "phone": "1358",
+                "postgiro": "12262"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 55
+                },
+                "annual_turnover": "600,000 kr"
+            },
+            "foundation_year": 1933,
+            "director": "Eric T. Nilsson"
+        },
+        "7": {
+            "name": "Jacobsson & Anderssons Eftr. Handskfabrik",
+            "location": "Malmö",
+            "business": "Tillverkar handskar",
+            "contact": {
+                "office": "S. Förstadsg. 13",
+                "telegraph": "Jacand, Malmö",
+                "phone": "25123"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 60
+                },
+                "annual_turnover": "800,000 kr"
+            },
+            "foundation_year": 1867,
+            "owners": [
+                "fabr. K. A. Nordenfeldt"
+            ]
+        },
+        "8": {
+            "name": "AB. Jakobssons Industrier",
+            "location": "Säffle",
+            "business": "Möbelfabrik, sågverk och exporthyvleri i Säffle (Värml. l.). Tillverkar bonade och lackerade möbler samt sågade och hyvlade trävaror",
+            "contact": {
+                "telegraph": "Jakobssons, Säffle",
+                "phone": [
+                    "125",
+                    "225"
+                ],
+                "postgiro": "7894"
+            },
+            "financials": {
+                "capital": "155,000 kr",
+                "employees": {
+                    "industriarb": 150
+                },
+                "annual_turnover": "2,000,000 kr"
+            },
+            "foundation_year": 1907,
+            "board": [
+                {
+                    "name": "kassör Anders Jakobsson",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "disp. John Jakobsson",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "ing. Petrus Jakobsson",
+                    "role": "Styrelse"
+                }
+            ],
+            "director": "John Jakobsson"
+        }
+    }
+}

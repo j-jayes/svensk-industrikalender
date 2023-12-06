@@ -1,0 +1,203 @@
+{
+    "original": "Mattsson—Mekaniska\n\n*F. M. Mattsson, Mora.\n\nMetallfabrik i östnor samt\nsmides-fabrik i Morkarlby (båda i Kopparb. l.).\nTillverkar vattenledningsarmatur, spec.\nsanitetsarmatur samt tälj- och slidknivar.\n\nTelegr.-adr.: Metall, Mora. Telefon:\nMora 10. Postgiro: 9497.\n\nAntal industriarb.: 95. Tillv.-värde pr\når: 1,500,000 kr. — Firman etabl. 1865.\n\nChef: fabr. F. And. Mattsson.\n\nKarl O. Mattson, Göteborg.\n\nStenhuggeri er i Stensjö (Göteb. o.\nBohus l.). Tillverkar gatsten, kantsten och\nråblock. Firman driver även handel med\nsprängämnen.\n\nKontor: Göteborg, Bögatan 41 C.\nTelefon: 162348. Postgiro: 46477. — Antal\nindustriarb.: 70. Prod.-värde pr år:\n175,000 kr. — Firman etabl. 1903.\n\nÄgare o. disp.: Leif Markenberg.\n\n*M. Mattssons Möbelfabrik,\n\nBjärnum.\n\nTillverkar lackerade sovrumsmöbler\nm. m. vid fabrik i Bjärnum (Kristianst.\n\nTelegr.-adr.: Mattssons, Bjärnum.\nTelefon: 100. Postgiro: 135237.\n\nAntal industriarb.: 16. Tillv.-värde pr\når: 170,000 kr. — Firman etabl. 1937.\n\nÄgare o. chef: fabr. Martin Mattsson.\n\nRobert Matsson, Malung.\n\nTillverkar herrhandskar vid fabrik i\nMalung (Kopparb. l.).\n\nTelefon: 29. Antal industriarb.: 25.\nTillv.-värde pr år: 300,000 kr. — Firman\netabl. 1914.\n\nÄgare o. chef: fabr. Robert Matsson.\n\n*Mazettls Choklad- &amp; Konfektfabrik,\n\nMalmö.\n\nSe Malmö Chokolad- &amp; Konfektfabriks\nAB., Malmö.\n\nMeba, Metall- &amp; Bakelitfabriken,\n\nGislaved.\n\nSe Metall- &amp; Bakelitfabriken Meba,\nGislaved.\n\n*Medico, Kemisk-Teknisk Fabrik,\n\nGöteborg.\n\nTillverkar farmaceutiska och\nkemisk-tekn. preparat. Varunamn: »Contessa»,\n»Demonen», »Mediform», »Parasitol» o.\n»Degå» m. fl.\n\nKontor: Gårda. Telegr.-adr.: Medico,\nGöteborg. Telefon: 150987—88. Postgiro:\n12050. — Antal industriarb.: 40. —\nFirman etabl. 1911.\n\nÄgare o. chef: fabr. Nils Lindahl.\n\n*AB. J. B. Meijel, Halmstad.\n\nBoktryckeri och bokbinderi. Utför\ntrycksaker. Firman driver även bok- och\npappershandel.\n\nTelefon: »Meijels». Postgiro: 14836. —\nAkt.-kap.: 200,000 kr. Antal\nindustriarb.: 44. Tillv.-värde pr år: 1,200,000 kr.\n— Firman etabl. 1892, bolag 1927.\n\nStyrelse o. verkst. dir.: Eric Meijel.\n\nMek. Bandväveriet, Käliberg &amp; Co.,\n\nSkillingaryd.\n\nTillverkar band av bomull, cellull och\nkonstsilke vid väveri i Skillingaryd\n(Jönköp. l.).\n\nTelefon: 108. Postgiro: 72905. — Antal\nindustriarb.: 10. Tillv.-värde pr år: 70,000\nkr. — Firman etabl. 1925.\n\nÄgare o. chefer: fabr. John Käliberg\no. fabr. Josef Lundgren.\n\nMek. Verkstaden Alp AB.,\n\nSkillingaryd.\n\nTillverkar mutter- och nitbrickor,\nunderläggsbrickor, pressade beslag samt\nhushållsmanglar vid mek. verkstad i\nSkillingaryd (Jönköp. l.).\n\nTelefon: 198. Postgiro: 144782. —\nAkt.-kap.: 30,000 kr. Antal industriarb.: 12.\nTillv.-värde pr år: 120,000 kr. — Firman\netabl. 1939, bolag 1941.\n\nVerkst. dir.: Einar Samuelsson\n(Värnamo).\n\nDisp.: fabr. Henrik Ahlgren.\n\nMek. Verkstaden Record AB.,\n\nStockholm.\n\nMek. verkstad och förnicklingsfabrik.\nUtför massartiklar av maskinarbeten,\npressning, elektr. och gassvetsning.\nVarumärke: »Reco».\n\nKontor: Norrbaekaviadukten.\nTelegr.-adr.: Recordnickel, Stockholm. Telefon:\n234215. Postgiro: 52690.\n\nAkt.-kap.: 54,000 kr. Antal\nindustriarb.: 40. Tillv.-värde pr år: 600,000 kr.\n— Firman etabl. 1922, bolag 1929.\n\nVerkst. dir.: ing. Knut Westman.",
+    "structured": {
+        "1": {
+            "name": "F. M. Mattsson",
+            "location": "Mora",
+            "business": "Metallfabrik",
+            "products": "Tillverkar vattenledningsarmatur, spec. sanitetsarmatur samt tälj- och slidknivar.",
+            "contact": {
+                "office": "Metallfabriken, Mora",
+                "phone": [
+                    "Mora 10"
+                ],
+                "postgiro": "9497",
+                "telegraph": "Metall, Mora"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 95
+                },
+                "annual_turnover": "1,500,000 kr",
+                "annual_production_value": "1,500,000 kr"
+            },
+            "foundation_year": 1865,
+            "manager": "F. And. Mattsson"
+        },
+        "2": {
+            "name": "Karl O. Mattson",
+            "location": "Göteborg",
+            "business": "Stenhuggeri",
+            "products": "Tillverkar gatsten, kantsten och råblock. Firman driver även handel med sprängämnen.",
+            "contact": {
+                "office": "Bögatan 41 C, Göteborg",
+                "phone": [
+                    "162348"
+                ],
+                "postgiro": "46477"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 70
+                },
+                "annual_turnover": "175,000 kr",
+                "annual_production_value": "175,000 kr"
+            },
+            "foundation_year": 1903,
+            "owner": "Leif Markenberg"
+        },
+        "3": {
+            "name": "M. Mattssons Möbelfabrik",
+            "location": "Bjärnum",
+            "business": "Möbelfabrik",
+            "products": "Tillverkar lackerade sovrumsmöbler m. m.",
+            "contact": {
+                "office": "Mattssons, Bjärnum",
+                "phone": [
+                    "100"
+                ],
+                "postgiro": "135237",
+                "telegraph": "Mattssons, Bjärnum"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 16
+                },
+                "annual_turnover": "170,000 kr",
+                "annual_production_value": "170,000 kr"
+            },
+            "foundation_year": 1937,
+            "manager": "Martin Mattsson"
+        },
+        "4": {
+            "name": "Robert Matsson",
+            "location": "Malung",
+            "business": "Tillverkning av herrhandskar",
+            "products": "Tillverkar herrhandskar",
+            "contact": {
+                "phone": [
+                    "29"
+                ]
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 25
+                },
+                "annual_turnover": "300,000 kr"
+            },
+            "foundation_year": 1914,
+            "owner": "Robert Matsson"
+        },
+        "5": {
+            "name": "Medico, Kemisk-Teknisk Fabrik",
+            "location": "Göteborg",
+            "business": "Tillverkar farmaceutiska och kemisk-tekn. preparat",
+            "products": "Varunamn: »Contessa», »Demonen», »Mediform», »Parasitol» o. »Degå» m. fl.",
+            "contact": {
+                "office": "Gårda",
+                "phone": [
+                    "150987—88"
+                ],
+                "postgiro": "12050",
+                "telegraph": "Medico, Göteborg"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 40
+                }
+            },
+            "foundation_year": 1911,
+            "manager": "Nils Lindahl"
+        },
+        "6": {
+            "name": "AB. J. B. Meijel",
+            "location": "Halmstad",
+            "business": "Boktryckeri och bokbinderi",
+            "products": "Utför trycksaker. Firman driver även bok- och pappershandel.",
+            "contact": {
+                "phone": [
+                    "Meijels"
+                ],
+                "postgiro": "14836"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 44
+                },
+                "annual_turnover": "1,200,000 kr"
+            },
+            "foundation_year": 1892,
+            "corporation_year": 1927,
+            "board": [
+                {
+                    "name": "Eric Meijel",
+                    "role": "verkst. dir."
+                }
+            ]
+        },
+        "7": {
+            "name": "Mek. Bandväveriet, Käliberg & Co.",
+            "location": "Skillingaryd",
+            "business": "Bandtillverkning",
+            "products": "Tillverkar band av bomull, cellull och konstsilke",
+            "contact": {
+                "phone": [
+                    "108"
+                ],
+                "postgiro": "72905"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 10
+                },
+                "annual_turnover": "70,000 kr"
+            },
+            "foundation_year": 1925,
+            "manager": "John Käliberg"
+        },
+        "8": {
+            "name": "Mek. Verkstaden Alp AB.",
+            "location": "Skillingaryd",
+            "business": "Tillverkning av mutter- och nitbrickor, pressade beslag samt hushållsmanglar",
+            "products": "Utför massartiklar av maskinarbeten, pressning, elektr. och gassvetsning.",
+            "contact": {
+                "phone": [
+                    "198"
+                ],
+                "postgiro": "144782"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 12
+                },
+                "annual_turnover": "120,000 kr"
+            },
+            "foundation_year": 1939,
+            "corporation_year": 1941,
+            "manager": "Einar Samuelsson"
+        },
+        "9": {
+            "name": "Mek. Verkstaden Record AB.",
+            "location": "Stockholm",
+            "business": "Mek. verkstad och förnicklingsfabrik",
+            "products": "Utför massartiklar av maskinarbeten, pressning, elektr. och gassvetsning. Varumärke: »Reco».",
+            "contact": {
+                "office": "Norrbaekaviadukten, Stockholm",
+                "phone": [
+                    "234215"
+                ],
+                "postgiro": "52690",
+                "telegraph": "Recordnickel, Stockholm"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 40
+                },
+                "annual_turnover": "600,000 kr"
+            },
+            "foundation_year": 1922,
+            "corporation_year": 1929,
+            "manager": "ing. Knut Westman"
+        }
+    }
+}

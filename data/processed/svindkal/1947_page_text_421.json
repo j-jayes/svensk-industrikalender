@@ -1,0 +1,173 @@
+{
+    "original": "Kasthall—Katrineholmsverlcen\n\n\"Kasthalls Mattfabrik, Kinna.\nSe AB. Ludvig Anderson, Kinna.\n\nKasy AB., Stockholm.\n\nKonfektionsfabrik och\nimpregnerings-anstalt. Tillverkar sportkläder samt\nregnkläder och trenchcoats; utför\nspecial-appretering o. lackering av vävnader för\nregnkläder, väskor, necessärer m. m.\nVarumärken: »Kasy», »Wintro» o. »Watro».\n\nKontor: Nordenflychtsvägen 62.\nTelegr.-adr.: Kasy, Stockholm. Telefon:\n520155. Postgiro: 7836.\n\nAkt.-kap.: 90,000 kr. Antal\nindustriarb.: 90. Tillv.-värde pr år: 1,500,000 kr.\n— Firman etabl. 1928 under namn\nKarlströms Syfabriks AB., nuv. namn 1941.\nDisp.: Carl G. Karlström.\n\n*AB. Katalog- och Tidskriftstryck,\n\nStockholm.\n\nUtför broschyrer, bok- och\ntidningstryck, merkantilt tryck, brevpapper,\nvarukataloger m. m.\n\nKontor: Ringvägen 100. Telefon:\n440555. Postgiro: 58909. — Bolaget,\ngrundat 1940, är anslutet till AB.\nSveriges Litografiska Tryckerier.\n\nStyrelse: dir. Knut Östberg (ordf.),\ndisp. Oskar Dahlström, ryttm. Åke G.\nWickman.\n\nDisp.: Oskar Dahlström.\nTryckeri förest.: ing. B. Hillberg.\n\n\"Katrinedals Konfektions AB.y\n\nBorås.\n\nTillverkar damklänningar,\ndamunderkläder samt städrockar. Varumärke:\n»Kako».\n\nTelegr.-adr.: Kako, Borås. Telefon:\n16032. Postgiro: 142490. — Akt.-kap.:\n100,000 kr. Antal industriarb.: 47 samt\n^00 hemarbetare. — Bolaget grundat\n1938.\n\nStyrelse: dir. Levi Robner (ordf.), dir.\nKnut Robner.\n\nVerkst. dir.: Levi Robner.\n\n\"Katrinefors AB., Mariestad.\n\nPappersbruk med sulfitfabrik,\npappers-påsfabrik samt wallboardfabrik vid\nKatrinefors (Mariestad). Tillverkar\nomslagspapper, pås- och tändstickspapper,\nsulfit-spinnpapper, grålumppapp, cellulosavadd,\ntoalettpapper, wallboard samt\nsulfitcellulosa för eget behov. Bolaget äger\njord-och skogsegendomar.\n\nTelegr.-adr. o. telefon: Katrinefors,\nMariestad. Postgiro: 86800.\n\n419*\n\nAkt.-kap.: 3,570,000 kr. Antal\nindustriarb.: 600. Årstillv.: 20,000 ton papper,\n18,000 ton sulfitmassa, 10,000 ton\nwallboard.\n\nBolaget, grundat 1872, äges av Svenska\nTändsticks AB. och äger AB. Tidan,\nMariestad, AB. Industripapp, Mariestad, och\nAB. Nol-Tingstad, Mariestad.\n\nStyrelse: dir. Axel Brandin (ordf.),\ndisp. Richard Hedlund, dir. Sten\nSundgren.\n\nVerkst. dir.: Richard Hedlund.\nFörsäljn.-chef er: för papper: intend.\nC. G. Schreiber; för wallboard: dir. Carl\nOldby; för AB. Industripapps tillv.:\nintend. Sven Runnquist.\n\nFabrikschef: övering. G. Carr.\nInköpschef: C. Barle.\nEkonomichef: kamrer E. Nyström.\nSkogschef: jägmäst. Stig Hegardt.\n(Jfr annons nr 38.)\n\n\"Katrineholms Bryggeri,\n\nKatrineholm.\n\nSkattepliktigt bryggeri. Tillverkar\nmalt- och läskedrycker.\n\nTelefon: 19. Postgiro: 134836. —\nAntal industriarb.: 20. — Bryggeriet\nanlagt 1895.\n\nÄgare: dir. Arvid Danielssons sterbhus.\nDisp.: Sven Danielsson.\nBry g gm.: John Lysén.\n\n\"Katrineholms Elektricitetsverk,\n\nKatrineholm.\n\nSe Kommunala Elverks AB. i\nKatrineholm, Katrineholm.\n\n\"Katrineholms Träförädlings AB.,\n\nKatrineholm.\n\nSågverk, hyvleri och lådfabrik i\nKatrineholm. Tillverkar sågade och hyvlade\nträvaror, lådämnen samt\nmonteringsfärdiga trähus.\n\nTelegr.-adr.: Träbolaget, Katrineholm.\nTelefon: »Träförädlingen». Postgiro:\n27794.\n\nAkt.-kap.: 120,000 kr. Antal\nindustriarb.: 160. Årstillv.: 6,000 stds trävaror.\n\nSågverket anlagt 1876 (Katrineholms\nSnickerifabrik, Carl Fredriksson), nuv.\nbolag grundat 1933.\n\nStyrelse: disp. Allan Dahlander,\narkitekt Valter Malmnäs.\n\nVerkst. dir.: A. Dahlander.\n\n\"Katrineholmsverken, Katrineholm.\n\nSe AB. Svenska Kullagerfabriken,\nKatrineholmsverken, Katrineholm.",
+    "structured": {
+        "1": {
+            "name": "Kasthalls Mattfabrik",
+            "location": "Kinna",
+            "business": "Mattfabrik",
+            "contact": {
+                "office": "Kinna",
+                "phone": [
+                    "520155"
+                ],
+                "telegraph": "Kasy, Stockholm",
+                "postgiro": "7836"
+            },
+            "financials": {
+                "capital": "90,000 kr",
+                "employees": {
+                    "industriarb": 90
+                },
+                "annual_turnover": "1,500,000 kr",
+                "annual_production_value": "1,500,000 kr"
+            },
+            "foundation_year": 1928,
+            "current_name_year": 1941,
+            "director": "Ludvig Anderson"
+        },
+        "2": {
+            "name": "AB. Katalog- och Tidskriftstryck",
+            "location": "Stockholm",
+            "business": "Tidskriftstryck",
+            "contact": {
+                "office": "Ringvägen 100",
+                "phone": [
+                    "440555"
+                ],
+                "postgiro": "58909"
+            },
+            "foundation_year": 1940,
+            "board": [
+                {
+                    "name": "Knut Östberg",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Oskar Dahlström",
+                    "role": "disp."
+                },
+                {
+                    "name": "Åke G. Wickman",
+                    "role": "ryttm."
+                }
+            ],
+            "director": "Oskar Dahlström"
+        },
+        "3": {
+            "name": "Katrinedals Konfektions AB",
+            "location": "Borås",
+            "business": "Damkläder och underkläder",
+            "contact": {
+                "telegraph": "Kako, Borås",
+                "phone": "16032",
+                "postgiro": "142490"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 47,
+                    "hemarbetare": 200
+                }
+            },
+            "foundation_year": 1938,
+            "board": [
+                {
+                    "name": "Levi Robner",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Knut Robner",
+                    "role": "dir."
+                }
+            ],
+            "director": "Levi Robner"
+        },
+        "4": {
+            "name": "Katrinefors AB",
+            "location": "Mariestad",
+            "business": "Pappersbruk",
+            "contact": {
+                "telegraph": "Katrinefors, Mariestad",
+                "phone": "Mariestad",
+                "postgiro": "86800"
+            },
+            "financials": {
+                "capital": "3,570,000 kr",
+                "employees": {
+                    "industriarb": 600
+                },
+                "annual_turnover": "20,000 ton papper, 18,000 ton sulfitmassa, 10,000 ton wallboard"
+            },
+            "foundation_year": 1872,
+            "owners": [
+                "Svenska Tändsticks AB"
+            ],
+            "board": [
+                {
+                    "name": "Axel Brandin",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Richard Hedlund",
+                    "role": "disp."
+                },
+                {
+                    "name": "Sten Sundgren",
+                    "role": "dir."
+                }
+            ],
+            "director": "Richard Hedlund",
+            "sales_manager": "C. G. Schreiber"
+        },
+        "5": {
+            "name": "Katrineholms Bryggeri",
+            "location": "Katrineholm",
+            "business": "Bryggeri",
+            "contact": {
+                "phone": "19",
+                "postgiro": "134836"
+            },
+            "employees": {
+                "industriarb": 20
+            },
+            "foundation_year": 1895
+        },
+        "6": {
+            "name": "Katrineholms Träförädlings AB",
+            "location": "Katrineholm",
+            "business": "Sågverk, hyvleri och lådfabrik",
+            "contact": {
+                "telegraph": "Träbolaget, Katrineholm",
+                "phone": "Träförädlingen",
+                "postgiro": "27794"
+            },
+            "financials": {
+                "capital": "120,000 kr",
+                "employees": {
+                    "industriarb": 160
+                },
+                "annual_production_value": "6,000 stds trävaror"
+            },
+            "foundation_year": 1933,
+            "board": [
+                {
+                    "name": "Allan Dahlander",
+                    "role": "disp."
+                },
+                {
+                    "name": "Valter Malmnäs",
+                    "role": "arkitekt"
+                }
+            ],
+            "director": "A. Dahlander"
+        },
+        "7": {
+            "name": "Katrineholmsverken",
+            "location": "Katrineholm",
+            "business": "Kullagerfabriken",
+            "contact": {
+                "phone": "Katrineholmsverken"
+            }
+        }
+    }
+}

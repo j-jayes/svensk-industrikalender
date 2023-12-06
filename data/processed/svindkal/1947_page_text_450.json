@@ -1,0 +1,239 @@
+{
+    "original": "Kvarn—Kvartimaskiner\n\n\"Kvarn AB. Motala Strötr\\9Moiala.\n\nTillverkar mjöl, gryn, kli och grope.\nTelegr.-adr.: Strömkvamen, Motala.\nTelefon: 568 o. 308. Postgiro: 11382.\n\nAkt.-kap.: 734,800 kr. Antal\nindustriarb.: 23. Prod.-värde pr år: 2,500,000 kr.\n— Bolaget grundat 1913.\n\nStyrelse: f. häradshövd. Fredrik\nTör-ner (ordf.), dir. Georg Ekstam, fru I.\nEkstam, godsäg. Viktor Linden.\nVerkst. dir.: Georg Ekstam.\nKontorschef: O. Lexén.\n\n\"Kvarn AB. Tre Kronor, Stockholm.\n\nElektr. valskvarn på Kvarnholmen,\nNacka (Sthlms l.). Tillverkar mjöl,\nhavre-och korngryn, mannagryn, flingor samt\nmakaroner.\n\nKontor: Kvarnholmen. Telegr.-adr.:\nKronkvarn, Stockholm. Telefon:\n»Kooperativa».\n\nAkt.-kap.: 1,375,000 kr. Antal\nindustriarb.: 280. Prod.-värde pr år: 28,000,000\nkr.\n\nBolaget, grundat 1897, äges av\nKooperativa Förbundet.\n\nStyrelse: dir. Albin Johansson (ordf.),\nfil. lic. Mauritz Bonow, dir. Hj.\nDeger-stedt, dir. Hugo Edstam, dir. G. Osvald,\ndir. Ernst Persson.\tf\n\nKvarnchef: dir. Emil Hamring.\n\n\"Kyarnbyggerifirman Vilh. Bäckman,\n\nBjörköby.\n\nFabrik för tillverkning av maskiner\noch transportanordningar för kvarnar\noch utsädesmagasin i Björköby (Jönköp.\n1.) såsom valsstolar, plansiktar,\nspetsmaskiner, utsädesrensmaskiner m. m. samt\nmotströmsblandare för betong; utför\nräffling av valsblock.\n\nTelefon: 3. Postgiro: 82085. — Antal\nindustriarb.: 45. Tillv.-värde pr år:\n500,000 kr. — Firman grundad 1921.\n\nÄgare o. chef: ing. Vilh. Bäckman.\n\n\"A. Kvarnholt, Möbeltillverkning,\n\nLimhamn.\n\nTillverkar inredningar och möbler vid\nsnickerifabrik i Limhamn.\n\nTelefon: Malmö 51186. Postgiro: 39559.\n\n— Antal industriarb.: 19. Tillv.-värde pr\når: 200,000 kr. — Firman etabl. 1920.\n\nÄgare o. chef: snickarm. Alfr.\nKvarnholt.\n\nAB. Kvarnintressenter, Malmö.\n\nBolaget utgör en sammanslutning av\noch handhar överledningen för följande\nföretag:\n\nAB. Malmö Stora Walskvarn,\nTrelleborgs Ångkvärns AB.,\nHelsingborgs Ångkyarns AB.,\nHalmstad-Fålkenbergs 4 Kvärn ’ AB.,\nHalmstad (med kvarnar i Halm&amp;ta,d och\nFalkenberg),\n\nAB. Ystads Franska Ångkvarn.\nAB. N. Sandbergs Valskvarn, Y wl,\nsamt\n\nAB. Alsters Industrier, Alster,\nKontor: Malmö, Neptunig. 11.\nTelegr.-adr.: Kvarnintressent, Malmö. Telefon:\n»Kvarn^Qntorfct». -«\n\nAkt.-kap.: 8,552,000 kr. Fabrikernas\nsammanlagda produktionsvärde pr år:\n42,950,000 kr. — Bolaget grundat 1927.\n\nStyrelse: bankdir. Ivar Åkerman\n(ordf.), dir. Mauritz Carlson (v. ordf.),\ndir. Sven Malmberg, skeppsred. Jarl\nMalmros, dir. Sigfrid Wedel, dir. Edvin\nÅberg.\n\nVerkst. dir.: S. Malmberg.\n\n\"AB. Kvarnmaskiner, Malmö.\n\nMek. verkstad, snickerifabrik och\nkvarnstensgjuteri i Malmö och i Örebro.\nTillverkar maskiner för mjölkvarnar,\nträmjölskvarnar, korngryns- och\nhavregrynsverk, renserier,\nspannmålsmagasi-ner, lin- och hampberedning samt\nkvarnstenar m. m.\n\nHuvudkontor: Malmö, Sofielundsvagen\n57. Telefon: 20914, 17463, 12795 o. 25103.\nPostgiro: 38215. Avd.-kontor: Örebro.\nTelefon: 11950 o. 13250. Telegr.-adr.:\nKvarnmaskiner; Malmö och Örebro.\n\nAkt.-kap.: 450,000 kr. Antal\nindustriarb.: 250.\n\nFirman etabl. 1867, bolag 1899 under\nnamn AB. Malmö Kvarnstensfäbrik o.\nFabrik för Kvarnmaskiner, nuv. namn\n1929. Bolaget äger dotterbolag i\nDanmark.\n\nStyrelse: dir. Franklin Wintermark\n(ordf.), dir. T. Bengsen, ing. Erik\nWintermark.\n\nVerkst. dir.: T. Bengsen.\nVice verkst. dir.: F. Wintermark,\nAvd.-chef i Örebro: ing. Gunnar\nKarlsson.\n\n\"Kvarnmaskiner, C. V. Sundén,\n\nLindesberg.\n\nSe AB. Linde Kvarnmaskiner,\nLindesberg.",
+    "structured": {
+        "1": {
+            "name": "Kvarn AB",
+            "location": "Motala",
+            "business": "Tillverkar mjöl, gryn, kli och grope",
+            "products": "Tillverkar mjöl, gryn, kli och grope",
+            "contact": {
+                "office": "Motala Strötr\\9Moiala",
+                "phone": [
+                    "568",
+                    "308"
+                ],
+                "postgiro": "11382",
+                "head_office": "Strömkvamen, Motala",
+                "telegraph": "Strömkvamen, Motala",
+                "factory_office": "Not provided",
+                "factory_phone": "Not provided"
+            },
+            "financials": {
+                "capital": "734,800 kr",
+                "employees": {
+                    "industriarb": 23
+                },
+                "annual_turnover": "2,500,000 kr",
+                "annual_production_value": "2,500,000 kr"
+            },
+            "foundation_year": 1913,
+            "board": [
+                {
+                    "name": "Fredrik Törner",
+                    "role": "f. häradshövd."
+                },
+                {
+                    "name": "Georg Ekstam",
+                    "role": "dir."
+                },
+                {
+                    "name": "Viktor Linden",
+                    "role": "godsäg."
+                }
+            ],
+            "director": "Georg Ekstam"
+        },
+        "2": {
+            "name": "Kvarn AB",
+            "location": "Stockholm",
+            "business": "Elektr. valskvarn på Kvarnholmen, Nacka",
+            "products": "Tillverkar mjöl, havre-och korngryn, mannagryn, flingor samt makaroner",
+            "contact": {
+                "office": "Tre Kronor, Stockholm",
+                "phone": [
+                    "Not provided"
+                ],
+                "postgiro": "Not provided",
+                "head_office": "Kvarnholmen",
+                "telegraph": "Kronkvarn, Stockholm",
+                "factory_office": "Not provided",
+                "factory_phone": "Not provided"
+            },
+            "financials": {
+                "capital": "1,375,000 kr",
+                "employees": {
+                    "industriarb": 280
+                },
+                "annual_turnover": "28,000,000 kr",
+                "annual_production_value": "28,000,000 kr"
+            },
+            "foundation_year": 1897,
+            "owners": [
+                "Kooperativa Förbundet"
+            ],
+            "board": [
+                {
+                    "name": "Albin Johansson",
+                    "role": "dir."
+                },
+                {
+                    "name": "Mauritz Bonow",
+                    "role": "fil. lic."
+                }
+            ],
+            "director": "Emil Hamring"
+        },
+        "3": {
+            "name": "Kyarnbyggerifirman Vilh. Bäckman",
+            "location": "Björköby",
+            "business": "Fabrik för tillverkning av maskiner och transportanordningar för kvarnar och utsädesmagasin",
+            "products": "Valstolar, plansiktar, spetsmaskiner, utsädesrensmaskiner m. m. samt motströmsblandare för betong; utför räffling av valsblock",
+            "contact": {
+                "office": "Björköby",
+                "phone": [
+                    "3"
+                ],
+                "postgiro": "82085",
+                "head_office": "Not provided",
+                "telegraph": "Not provided",
+                "factory_office": "Not provided",
+                "factory_phone": "Not provided"
+            },
+            "financials": {
+                "capital": "Not provided",
+                "employees": {
+                    "industriarb": 45
+                },
+                "annual_turnover": "500,000 kr",
+                "annual_production_value": "500,000 kr"
+            },
+            "foundation_year": 1921,
+            "board": [],
+            "owners": [
+                "ing. Vilh. Bäckman"
+            ]
+        },
+        "4": {
+            "name": "A. Kvarnholt",
+            "location": "Limhamn",
+            "business": "Tillverkar inredningar och möbler vid snickerifabrik",
+            "products": "Not provided",
+            "contact": {
+                "office": "Möbeltillverkning, Limhamn",
+                "phone": [
+                    "Malmö 51186"
+                ],
+                "postgiro": "39559",
+                "head_office": "Not provided",
+                "telegraph": "Not provided",
+                "factory_office": "Not provided",
+                "factory_phone": "Not provided"
+            },
+            "financials": {
+                "capital": "Not provided",
+                "employees": {
+                    "industriarb": 19
+                },
+                "annual_turnover": "200,000 kr",
+                "annual_production_value": "200,000 kr"
+            },
+            "foundation_year": 1920,
+            "owners": [
+                "snickarm. Alfr. Kvarnholt"
+            ]
+        },
+        "5": {
+            "name": "AB. Kvarnintressenter",
+            "location": "Malmö",
+            "business": "Sammanslutning av och handhar överledningen för flera företag",
+            "products": "Not provided",
+            "contact": {
+                "office": "Malmö, Neptunig. 11",
+                "phone": [
+                    "Not provided"
+                ],
+                "postgiro": "Not provided",
+                "head_office": "Not provided",
+                "telegraph": "Kvarnintressent, Malmö",
+                "factory_office": "Not provided",
+                "factory_phone": "Not provided"
+            },
+            "financials": {
+                "capital": "8,552,000 kr",
+                "annual_turnover": "42,950,000 kr",
+                "annual_production_value": "42,950,000 kr"
+            },
+            "foundation_year": 1927,
+            "board": [
+                {
+                    "name": "Ivar Åkerman",
+                    "role": "bankdir."
+                },
+                {
+                    "name": "Mauritz Carlson",
+                    "role": "dir."
+                }
+            ],
+            "director": "S. Malmberg"
+        },
+        "6": {
+            "name": "AB. Kvarnmaskiner",
+            "location": "Malmö",
+            "business": "Tillverkar maskiner för mjölkvarnar, trämjölskvarnar, korngryns- och havregrynsverk, renserier, spannmålsmagasi-ner, lin- och hampberedning samt kvarnstenar m. m.",
+            "products": "Not provided",
+            "contact": {
+                "office": "Malmö, Sofielundsvagen 57",
+                "phone": [
+                    "20914",
+                    "17463",
+                    "12795",
+                    "25103"
+                ],
+                "postgiro": "38215",
+                "head_office": "Not provided",
+                "telegraph": "Kvarnmaskiner; Malmö och Örebro",
+                "factory_office": "Not provided",
+                "factory_phone": "Not provided"
+            },
+            "financials": {
+                "capital": "450,000 kr",
+                "employees": {
+                    "industriarb": 250
+                }
+            },
+            "foundation_year": 1867,
+            "corporation_year": 1899,
+            "board": [
+                {
+                    "name": "Franklin Wintermark",
+                    "role": "dir."
+                }
+            ],
+            "director": "T. Bengsen",
+            "managing_director": "F. Wintermark"
+        },
+        "7": {
+            "name": "Kvarnmaskiner",
+            "location": "Lindesberg",
+            "business": "Not provided",
+            "products": "Not provided",
+            "contact": {
+                "office": "Not provided",
+                "phone": [
+                    "Not provided"
+                ],
+                "postgiro": "Not provided",
+                "head_office": "Not provided",
+                "telegraph": "Not provided",
+                "factory_office": "Not provided",
+                "factory_phone": "Not provided"
+            },
+            "financials": {
+                "capital": "Not provided",
+                "employees": {
+                    "industriarb": "Not provided"
+                }
+            }
+        }
+    }
+}

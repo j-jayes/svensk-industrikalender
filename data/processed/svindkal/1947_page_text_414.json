@@ -1,0 +1,223 @@
+{
+    "original": "Kapsylfabriken—Karlsborgsverken\n\n\"Kapsylfabriken, Göteborg.\n\nSe AB. Göteborgs Kapsylfabrik,\nGöteborg.\n\n\"Kapsylfabriken, Hässleholm.\n\nSe AB. Hässleholms Kapsylfabrik.\nHässleholm.\n\n\"Kapsylfabriken, Svenska, Stockholm.\n\nSe AB. Svenska Kapsylfabriken,\nStockholm.\n\n\"AB. Karamell- &amp; Chokladfabriken\nSonja, Uppsala.\n\nTillverkar karameller, choklad och\nkon-fityrer.\n\ntelefon: 32421 o. 31424. Postgiro:\n11943. — Akt.-kap.: 100,000 kr. Antal\nindustriarb.: 25. — Bolaget grundat 1920.\n\nStyrelse: dir. John Andersson, kamrer\nAlfr. Ahlström, disp. Knut Eriksson.\nVerkst. dir.: John Andersson.\nKamrer: Sven Tegenfors.\n\nAB. Karbo Torvströfabrik,\n\nGöteborg.\n\nTorvströfabrik vid Karbo, Kinnarp\n(Skarab. l.). Tillverkar torvströ.\n\nKontor: Göteborg, l:sta Långgatan 12.\nTelefon: 127510. Försälj.: Västra\nTorvströcentralen, Falköping. Telefon: 680.\n\nAkt.-kap.: 60,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 100,000 kr.\n— Bolaget grundat 1907.\n\nStyrelse o. verkst. dir.: Gösta\nArfveds-son.\n\n\"AB. Kardbeslag, Norrköping.\n\nTillverkar kardbeslag för alla ändamål\nsamt hjälpmaskiner för spinnerier.\n\nTelegr.-adr.; Kardbeslag, Norrköping.\nTelefon: 34060. Postgiro: 8482.\n\nAkt.-kap.: 145,000 kr. Antal\nindustriarb.: 80. Tillv.-värde pr år: 1,500,000 kr.\n\nFabriken etabl. 1921, nuv. firmanamn\n1944.\n\nStyrelse: adv. G. Hökerberg (ordf.),\ndir. E. Hiibner.\n\nVerkst. dir.. E. Hiibner.\n\n\"Erik M. Kardell, Norrköping.•\n\nMöbelfabrik och inredningsfirma.\nTillverkar spec. affärsinredningar.\n\nTelefon: 23470. Postgiro: 94406. —\nArb.-antal: 13. Tillv.-värde pr år: 120,000\nkr.— Firman etabl. 1925.\n\nÄgare o. chef: fabr. Erik M. Kardell.\n\nKarinmossens Fabriks AB.,\n\nÖsterfärnebo.\n\nTorvupptagning å Karinmossen,\nÖsterfärnebo (Gävleb. l.). Framställer torvströ\noch torvmull i balar.\n\nTelefon: 127. Postgiro: 82081.\nEnsam-försälj. o. ägare: Kooperativa Förbundet,\nStockholm, Stadsgården 6; telefon:\n»Kooperativa».\n\nAkt.-kap.: 85,000 kr. Antal\nindustriarb.: 30. Prod.-värde pr år: 150,000 kr.\n— Fabriken anlades 1907, bolaget\ngrundat 1943.\n\nStyrelse: dir. Albin Johansson (ordf.),\nfil. lic. Mauritz Bonow, dir. Hj.\nDeger-stedt, dir. Hugo Edstam, dir. G. Osvald,\ndir. Ernst Persson.\n\nVerkst. dir.: Albin Johansson.\n\nDisp.: Bror Bjurling.\n\n\"Karleby Tegelbruk, Kisa.\n\nTillverkar tak-, nock-, list-, mur- och\nreveteringstegel samt dräneringsrör och\ngrenrör vid tegelbruk i Kisa (Österg. l.).\n\nTelefon: 118. Postgiro: 137910. —\nAntal industriarb.: 30. Årstillv.: 1,5\nmilj. st. tegelvaror. — Firman etabl. 1920.\n\nÄgare o. chef: fabr. Knut Gustafsson.\n\n\"Karlfors Bronsfärgfabrik,\n\nHuskvarna.\n\nSe Carlfors AB., Huskvarna.\n\n\"Karlholms AB., Karlholmsbruk.\n\nTillverkar träfiberplattor (wallboard)\nvid fabrik i Karlholmsbruk (Uppsala l.).\nVarumärke: »Karlit».\n\nTelegr.-adr.: Karlholmsbolag,\nKarlholmsbruk. Telefon: Karlholmsbruk 1 o.\n2. Postgiro: 137772.\n\nFörsäljning: Kooperativa Förbundet,\nträvaruavd. o. Karlholms AB:s\nFörsäljningskontor, Stockholm, Katarinavägen\n7; telefon: »Kooperativa» o. 431500.\n\nAkt.-kap.: 1,500,000 kr. Antal\nindustriarb.: 220. Årstillv.: 25,000 ton\nträfiber-plattor. — Bolaget grundat 1937.\n\nStyrelse: dir. Albin Johansson (ordf.),\nfil. lic. Mauritz Bonow, dir. Hj.\nDeger-stedt, dir. Hugo Edstam, ing. G. Osvald,\ndir. Ernst Persson.\n\nDriftschef: ing. Johan Larsson.\n\nF ör sal jn.-chef i Stockholm: Knut\nEriksson.\n\n\"Karlsborgsverken, Vånafjärden.\n\nSe AB. Statens Skogsindustrier,\nStockholm.",
+    "structured": {
+        "1": {
+            "name": "AB. Karamell- & Chokladfabriken Sonja",
+            "location": "Uppsala",
+            "business": "Tillverkar karameller, choklad och konfektyrer",
+            "products": "Tillverkar karameller, choklad och konfektyrer",
+            "contact": {
+                "phone": [
+                    "32421",
+                    "31424"
+                ],
+                "postgiro": "11943"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 25
+                },
+                "annual_turnover": "Not provided",
+                "annual_production_value": "Not provided"
+            },
+            "foundation_year": 1920,
+            "board": [
+                {
+                    "name": "John Andersson",
+                    "role": "dir"
+                },
+                {
+                    "name": "Alfr. Ahlström",
+                    "role": "kamrer"
+                },
+                {
+                    "name": "Knut Eriksson",
+                    "role": "disp"
+                }
+            ],
+            "director": "John Andersson",
+            "manager": "Sven Tegenfors"
+        },
+        "2": {
+            "name": "AB. Karbo Torvströfabrik",
+            "location": "Göteborg",
+            "business": "Tillverkar torvströ",
+            "contact": {
+                "phone": [
+                    "127510"
+                ],
+                "postgiro": "Not provided"
+            },
+            "financials": {
+                "capital": "60,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "Not provided",
+                "annual_production_value": "100,000 kr"
+            },
+            "foundation_year": 1907,
+            "director": "Gösta Arfvedsson"
+        },
+        "3": {
+            "name": "AB. Kardbeslag",
+            "location": "Norrköping",
+            "business": "Tillverkar kardbeslag för alla ändamål samt hjälpmaskiner för spinnerier",
+            "contact": {
+                "telegraph": "Kardbeslag, Norrköping",
+                "phone": "34060",
+                "postgiro": "8482"
+            },
+            "financials": {
+                "capital": "145,000 kr",
+                "employees": {
+                    "industriarb": 80
+                },
+                "annual_turnover": "1,500,000 kr",
+                "annual_production_value": "Not provided"
+            },
+            "foundation_year": 1921,
+            "current_name_year": 1944,
+            "board": [
+                {
+                    "name": "G. Hökerberg",
+                    "role": "ordf"
+                },
+                {
+                    "name": "E. Hiibner",
+                    "role": "dir"
+                }
+            ],
+            "director": "E. Hiibner"
+        },
+        "4": {
+            "name": "Erik M. Kardell",
+            "location": "Norrköping",
+            "business": "Möbelfabrik och inredningsfirma",
+            "products": "Tillverkar spec. affärsinredningar",
+            "contact": {
+                "phone": "23470",
+                "postgiro": "94406"
+            },
+            "financials": {
+                "employees": {
+                    "arbantal": 13
+                },
+                "annual_turnover": "Not provided",
+                "annual_production_value": "120,000 kr"
+            },
+            "foundation_year": 1925,
+            "owner": "fabr. Erik M. Kardell"
+        },
+        "5": {
+            "name": "Karinmossens Fabriks AB.",
+            "location": "Österfärnebo",
+            "business": "Torvupptagning å Karinmossen",
+            "products": "Framställer torvströ och torvmull i balar",
+            "contact": {
+                "phone": "127",
+                "postgiro": "82081"
+            },
+            "financials": {
+                "capital": "85,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "Not provided",
+                "annual_production_value": "150,000 kr"
+            },
+            "foundation_year": 1943,
+            "board": [
+                {
+                    "name": "Albin Johansson",
+                    "role": "ordf"
+                },
+                {
+                    "name": "Mauritz Bonow",
+                    "role": "fil. lic"
+                },
+                {
+                    "name": "Hj. Degerstedt",
+                    "role": "dir"
+                },
+                {
+                    "name": "Hugo Edstam",
+                    "role": "dir"
+                },
+                {
+                    "name": "G. Osvald",
+                    "role": "dir"
+                },
+                {
+                    "name": "Ernst Persson",
+                    "role": "dir"
+                }
+            ],
+            "director": "Albin Johansson",
+            "dispatcher": "Bror Bjurling"
+        },
+        "6": {
+            "name": "Karleby Tegelbruk",
+            "location": "Kisa",
+            "business": "Tillverkar tak-, nock-, list-, mur- och reveteringstegel samt dräneringsrör och grenrör vid tegelbruk i Kisa",
+            "contact": {
+                "phone": "118",
+                "postgiro": "137910"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_production_value": "1,5 milj. st. tegelvaror"
+            },
+            "foundation_year": 1920,
+            "owner": "fabr. Knut Gustafsson"
+        },
+        "7": {
+            "name": "Karlholms AB.",
+            "location": "Karlholmsbruk",
+            "business": "Tillverkar träfiberplattor (wallboard)",
+            "contact": {
+                "phone": "Karlholmsbruk 1 o. 2",
+                "postgiro": "137772"
+            },
+            "financials": {
+                "capital": "1,500,000 kr",
+                "employees": {
+                    "industriarb": 220
+                },
+                "annual_production_value": "25,000 ton träfiber-plattor"
+            },
+            "foundation_year": 1937,
+            "board": [
+                {
+                    "name": "Albin Johansson",
+                    "role": "ordf"
+                },
+                {
+                    "name": "Mauritz Bonow",
+                    "role": "fil. lic"
+                },
+                {
+                    "name": "Hj. Degerstedt",
+                    "role": "dir"
+                },
+                {
+                    "name": "Hugo Edstam",
+                    "role": "dir"
+                },
+                {
+                    "name": "G. Osvald",
+                    "role": "ing"
+                },
+                {
+                    "name": "Ernst Persson",
+                    "role": "dir"
+                }
+            ],
+            "managing_director": "Johan Larsson",
+            "sales_manager": "Knut Eriksson"
+        }
+    }
+}

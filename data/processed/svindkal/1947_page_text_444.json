@@ -1,0 +1,225 @@
+{
+    "original": "<i>Styrelse:</i> dir. Torsten Hérnod (ordf.),\nbankdir. P. F. Wåhlin (v. ordf.), dir. K.\nErik Nyberg, dir. A. Orrmell, dir. Gust.\nJ. Sahlin.\n\nVerkst. dir.: A. Orrmell.\n\nDisp.: R. Frölander.\n\nKontorschef: Gustaf Granquist.\n\nSkogschef: Håkan Swan.\n\nÖvering.: U. Fryklund.\n\n*AB. Kramfors Smidesfabrik,\n\n<i>Östbydal</i>.\n\nTillverkar liar vid fabrik i östbydal\n(Västernorrl. l.). Varumärke:\n»Ljungdahls-liar».\n\nTelefon: Kramfors 269. Postgiro: 75845.\n— Akt.-kap.: 30,000 kr. Arb.-antal: 10.\nÅrstillv.: 4,000 duss. liar. — Firman\netabl. 1923, bolag 1941.\n\nStyrelse o. chefer: fabr. Fabian\nLjungdahl o. fabr. Waldemar Ljungdahl.\n\n*AB. Kristallin, Malmö.\n\nKem.-tekn. fabrik. Tillverkar tvål, såpa\noch tvättpulver, eau de Cologne och\nparfymer, kosmetiska preparat m. m.\nVarumärken: »Kristallin», »Silkesflingor»,\n»Sanocrin», »Lukulin» m. fl.\n\nKontor: Maltg. 5. Telegr.-adr.:\nKristallin, Malmö. Telefon: 24385, 24534 o.\n12630. Postgiro: 37519. Avd.-kontor:\nStockholm, Storg. 26; telefon: 628287 o.\n628288.\n\nAkt.-kap.: 90,000 kr. Antal\nindustriarb.: 15. Tillv.-värde pr år: 600,000 kr.\n\nFirman etabl. 1914 under namn L. Faxe\nJ:or, nuv. namn och bolag 1924.\n\nStyrelse: konsul Kjell Bönnelyche\n(ordf.), konsul Hans Ekman, ing. Lorens\nFaxe.\n\nVerkst. dir.: L. Faxe.\n\nDriftsingAxel Th. Andersson.\n\nKristdala Mek. Verkstads AB.,\n\nHultsfred.\n\nSe Hultsfreds Mek. Verkstad,\nHultsfred.\n\nAB. Kristdala Motorfabrik,\n\nKristdala.\n\nMek. verkstad vid Kristdala (Kalmar\n1.). Tillverkar råoljemotorer samt\nsand-blästerapparater och bandputsbeslag.\nVarumärke: »Krimo».\n\nTelegr.-adr.: Bolaget, Kristdala.\nTelefon: 10. Postgiro: 71823. — Akt.-kap.:\n60,000 kr. Antal industriarb.: 20. —\nBolaget grundat 1913.\n\nStyrelse: metallsvarvare Sven\nAronsson, verkm. Karl Elving, montör Paul\nRosén.\n\nVerkst. dir.: vakant.\n\n<b>*AB. Kristenson och Grähs,</b>\n\nStockholm.\n\nMek. verkstad. Tillverkar\nhårdmetall-slipmaskiner (märke: »Gr index»),\nspecialverktyg, hydrauliska bromsar samt\ntryckluft- och vakuumbromsar.\n\nKontor: Torkel Knutsonsg. 18.\nTelegr.-adr.: Kogab, Stockholm. Telefon:\n440300. Postgiro: 159905. — Akt.-kap.:\n50,000 kr. Antal industriarb.: 50. —\nFirman etabl. 1939, bolag 1941.\n\nStyrelse o. verkst. dir.: civiling. Börje\nKristenson.\n\nFörsäljn.-chef: Åke Lind.\n\nKristiansson &amp; Co., AB. Bröderna,\n\nGravarne.\n\nSe AB. Bröderna Kristiansson &amp; Co.,\nGravarne.\n\nAB. Kristianssons Mek. Verkstad,\n\nKatrineholm.\n\nTillverkar shuntventiler och stensågar,\nutför värme-, vatten-, avlopps- och\nsanitetsinstallationer, smidesarbeten och\nbalkkonstruktioner.\n\nTelefon: 106. Postgiro: 32106. —\nAkt.-kap.: 12,500 kr. Antal industriarb.: 20.\nTillv.-värde pr år: 300,000 kr. — Firman\netabl. 1896, bolag 1927.\n\nVerkst. dir.: civiling. Rolf Källström\n(Eskilstuna).\n\nPlatschef: kamrer Roland Larsson.\n\nKristianstads Cementgjuteri,\n\nKristianstad.\n\nTillverkar mosaikarbeten, gipsarbeten,\nbetongrör och andra betongvaror samt\nfejmert-rör och vibro-block.\n\nTelefon: 11964 o. 12594. Postgiro:\n28195. — Antal industriarb.: 20.\nTillv.-värde pr år: 250.000 kr. — Firman etabl.\n1930.\n\nÄgare o. chef: fabr. Yngve Persson.\n\nAB. Kristianstads Kravattfabrik,\n\nKristianstad.\n\nTillverkar herrhalsdukar, schalar och\ncachenéz samt fickdukar av siden.\n\nTelefon: 10047 o. 10545. Postgiro:\n97689.\n\nAkt.-kap.: 25,000 kr. Antal\nindustriarb.: 15. — Bolaget grundat 1935.\n\nVerkst. dir.: köpm. Eric M. Sandelin.\n",
+    "structured": {
+        "firms": [
+            {
+                "name": "AB. Kramfors Smidesfabrik",
+                "location": "Östbydal",
+                "business": "Tillverkar liar vid fabrik i östbydal (Västernorrl. l.). Varumärke: »Ljungdahls-liar».",
+                "contact": {
+                    "office": "Östbydal",
+                    "phone": [
+                        "Kramfors 269"
+                    ],
+                    "postgiro": "75845"
+                },
+                "financials": {
+                    "capital": "30,000 kr",
+                    "employees": {
+                        "Arbetskontor": 10
+                    },
+                    "annual_turnover": "4,000 duss. liar",
+                    "annual_production_value": null
+                },
+                "foundation_year": 1923,
+                "corporation_year": 1941,
+                "board": [
+                    {
+                        "name": "fabr. Fabian Ljungdahl",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "fabr. Waldemar Ljungdahl",
+                        "role": null
+                    }
+                ]
+            },
+            {
+                "name": "AB. Kristallin",
+                "location": "Malmö",
+                "business": "Kem.-tekn. fabrik. Tillverkar tvål, såpa och tvättpulver, eau de Cologne och parfymer, kosmetiska preparat m. m.",
+                "contact": {
+                    "office": "Maltg. 5",
+                    "phone": [
+                        "24385",
+                        "24534",
+                        "12630"
+                    ],
+                    "postgiro": "37519",
+                    "sales_offices": [
+                        {
+                            "location": "Stockholm",
+                            "phone": "628287 o. 628288"
+                        }
+                    ],
+                    "telegraph": "Kristallin, Malmö"
+                },
+                "financials": {
+                    "capital": "90,000 kr",
+                    "employees": {
+                        "industriarb.": 15
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": "600,000 kr"
+                },
+                "foundation_year": 1914,
+                "current_name_year": 1924,
+                "board": [
+                    {
+                        "name": "konsul Kjell Bönnelyche",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "konsul Hans Ekman",
+                        "role": null
+                    },
+                    {
+                        "name": "ing. Lorens Faxe",
+                        "role": null
+                    }
+                ]
+            },
+            {
+                "name": "Kristdala Mek. Verkstads AB.",
+                "location": "Hultsfred",
+                "business": null,
+                "contact": null,
+                "financials": null,
+                "foundation_year": null,
+                "corporation_year": null,
+                "board": null
+            },
+            {
+                "name": "AB. Kristdala Motorfabrik",
+                "location": "Kristdala",
+                "business": "Mek. verkstad vid Kristdala (Kalmar 1.). Tillverkar råoljemotorer samt sand-blästerapparater och bandputsbeslag. Varumärke: »Krimo».",
+                "contact": {
+                    "office": "Kristdala",
+                    "phone": [
+                        "10"
+                    ],
+                    "postgiro": "71823"
+                },
+                "financials": {
+                    "capital": "60,000 kr",
+                    "employees": {
+                        "industriarb.": 20
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": null
+                },
+                "foundation_year": 1913,
+                "corporation_year": null,
+                "board": [
+                    {
+                        "name": "metallsvarvare Sven Aronsson",
+                        "role": null
+                    },
+                    {
+                        "name": "verkm. Karl Elving",
+                        "role": null
+                    },
+                    {
+                        "name": "montör Paul Rosén",
+                        "role": null
+                    }
+                ]
+            },
+            {
+                "name": "AB. Kristenson och Grähs",
+                "location": "Stockholm",
+                "business": "Mek. verkstad. Tillverkar hårdmetall-slipmaskiner (märke: »Gr index»), specialverktyg, hydrauliska bromsar samt tryckluft- och vakuumbromsar.",
+                "contact": {
+                    "office": "Torkel Knutsonsg. 18",
+                    "phone": [
+                        "440300"
+                    ],
+                    "postgiro": "159905"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb.": 50
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": null
+                },
+                "foundation_year": 1939,
+                "corporation_year": 1941,
+                "board": [
+                    {
+                        "name": "civiling. Börje Kristenson",
+                        "role": "verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "AB. Kristianssons Mek. Verkstad",
+                "location": "Katrineholm",
+                "business": "Tillverkar shuntventiler och stensågar, utför värme-, vatten-, avlopps- och sanitetsinstallationer, smidesarbeten och balkkonstruktioner.",
+                "contact": {
+                    "office": null,
+                    "phone": [
+                        "106"
+                    ],
+                    "postgiro": "32106"
+                },
+                "financials": {
+                    "capital": "12,500 kr",
+                    "employees": {
+                        "industriarb.": 20
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": "300,000 kr"
+                },
+                "foundation_year": 1896,
+                "corporation_year": 1927,
+                "board": [
+                    {
+                        "name": "civiling. Rolf Källström",
+                        "role": "Verkst. dir."
+                    },
+                    {
+                        "name": "kamrer Roland Larsson",
+                        "role": "Platschef"
+                    }
+                ]
+            },
+            {
+                "name": "Kristianstads Cementgjuteri",
+                "location": "Kristianstad",
+                "business": "Tillverkar mosaikarbeten, gipsarbeten, betongrör och andra betongvaror samt fejmert-rör och vibro-block.",
+                "contact": null,
+                "financials": null,
+                "foundation_year": 1930,
+                "corporation_year": null,
+                "owners": [
+                    "fabr. Yngve Persson"
+                ],
+                "manager": "fabr. Yngve Persson"
+            },
+            {
+                "name": "AB. Kristianstads Kravattfabrik",
+                "location": "Kristianstad",
+                "business": "Tillverkar herrhalsdukar, schalar och cachenéz samt fickdukar av siden.",
+                "contact": null,
+                "financials": {
+                    "capital": "25,000 kr",
+                    "employees": {
+                        "industriarb.": 15
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": null
+                },
+                "foundation_year": 1935,
+                "corporation_year": null,
+                "board": [
+                    {
+                        "name": "köpm. Eric M. Sandelin",
+                        "role": "Verkst. dir."
+                    }
+                ]
+            }
+        ]
+    }
+}
