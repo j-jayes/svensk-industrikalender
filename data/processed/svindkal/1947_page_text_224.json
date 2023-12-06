@@ -1,0 +1,135 @@
+{
+    "original": "Byggnad—Byggnadsfirman\n\n*Byggnads AB. Ernst Wranne,\n\nKalmar.\n\nSe Ernst Wranne Byggnads AB.,\nKalmar.\n\n*\tByggnadsfirman And. J. Ahlström,\n\nHälsingborg.\n\nSe And. J. Ahlström, Hälsingborg.\n\n*\tByggnadsfirman Erik Andersson AB.,\n\nLinköping.\n\nByggnadsentreprenörfirma och\nsnickerifabrik. Utför byggnader samt tillverkar\nbyggnadssnickerier.\n\nTelefon: byggnadskontoret 20748 och\n24780, fabriken 21701. Postgiro: 291260.\n— Akt.-kap.: 100,000 kr. — Firman etabl.\n1911, bolag 1946.\n\nStyrelsebyggm. Erik Andersson\n(ordf.), civiling. Gunnar Gavel, arkitekt\nRickard Gavel.\n\nVerkst. dir.: Gunnar Gavel.\n\n’Byggnadsfirman Verner Andersson\n\nAB ., Västerås.\n\nByggnadsentreprenörfirma för\nhusbyggnader, bro- och vägbyggnader.\n\nTelefon: 34159. Postgiro: 179060. —\nAkt.-kap.: 64,000 kr. Antal industriarb.:\n129. Prod.-värde pr år: 3,300,000 kr. —\nFirrriån etabl; 1915, bolag 1942.\n\nStyrelse: byggm. Verner Andersson\n(ordf.), fru Aina Larsson, byggnadsing.\nAllan Varnäs.\n\nV erkst. dir.: Allan Varnäs.\nKamrer: Folke Bergström.\nDriftsingenjörer: Karl Erik Yderfors o.\nThorsten Karefelt.\n\n*\tByggnadsfirman Karl Bergström,\n\nStockholm.\n\nSe Karl Bergström, Stockholm.\n\n*\tByggnadsfirman Bäckström &amp;\nStrömberg, Teg.\n\nSe Bäckström &amp; Strömberg, Teg.\n\n*\tByggnadsfirman John Cederblad,\n\nÖrebro.\n\nSe John Cederblad, Örebro.\n\n*\tByggnadsfirman Anders Diös,\n\nUppsala.\n\nSe Anders Diös, Uppsala.\n\n*\tByggnadsfirman And. Dunder,\n\nStockholm.\n\nSe And. Dunder, Stockholm.\n\n*\tByggnadsfirman Thure Enfors,\n\nStockholm.\n\nSe Thure Enfors, Stockholm.\n\n*\tByggnadsfirman Olle Engkvist,\n\nStockholm.\n\nSe Olle Engkvist Byggnads AB.,\nStockholm.\n\n\"Byggnadsfirma A. Erik Eriksson,\n\nStockholm.\n\nSe A. Erik Eriksson, Stockholm.\n\n*\tByggnadsfirman N* M. Eriksson,\n\nHälsingborg.\n\nSe AB. Matts Eriksson, Hälsingborg.\n\n*\tByggnadsfirman Forss &amp; Son,\n\nStockholm.\n\nSe Forss &amp; Son, Stockholm,\n\n’Byggnadsfirman Dan. Frändberg,\n\nGöteborg.\n\nSe Dan. Frändberg, Göteborg.\n\n’Byggnadsfirman Cumpel &amp;\nBengtson AB., Stockholm.\n\nSe Gumpel &amp; Bengtson AB.,\nByggnadsfirman, Stockholm.\n\n*\tByggnadsfirman Wilh. Gustavsson,\n\nLinköping.\n\nSe Wilh. Gustavsson, Linköping.\n\n’Byggnadsfirman Oscar Hegert,\n\nStockholm.\n\nSe Oscar Hegert, Stockholm.\n\n*\tByggnadsfirman Harry Karlsson &amp;\nCo., AB., Lund.\n\nSe Harry Karlsson &amp; Co., AB.,\nByggnadsfirman, Lund.\n\n*\tByggnadsfirman Knutsson &amp;\nBerggren, Jönköping.\n\nSe AB. Knutsson &amp; Berggren,\nJönköping.",
+    "structured": {
+        "0": {
+            "name": "Byggnads AB. Ernst Wranne",
+            "location": "Kalmar",
+            "business": "Byggnadsentreprenörfirma och snickerifabrik",
+            "products": "Utför byggnader samt tillverkar byggnadssnickerier.",
+            "contact": {
+                "office": "Se Ernst Wranne Byggnads AB., Kalmar.",
+                "phone": [
+                    "20748",
+                    "24780",
+                    "21701"
+                ],
+                "postgiro": "291260"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb.": 129
+                },
+                "annual_turnover": "Not available",
+                "annual_production_value": "3,300,000 kr"
+            },
+            "foundation_year": 1911,
+            "corporation_year": 1946,
+            "board": [
+                {
+                    "name": "Erik Andersson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Gunnar Gavel",
+                    "role": "civiling."
+                },
+                {
+                    "name": "Rickard Gavel",
+                    "role": "arkitekt"
+                }
+            ],
+            "director": "Gunnar Gavel",
+            "manager": "Not available"
+        },
+        "1": {
+            "name": "Byggnadsfirman Verner Andersson AB",
+            "location": "Västerås",
+            "business": "Byggnadsentreprenörfirma för husbyggnader, bro- och vägbyggnader",
+            "contact": {
+                "phone": "34159",
+                "postgiro": "179060"
+            },
+            "financials": {
+                "capital": "64,000 kr",
+                "employees": {
+                    "industriarb.": 129
+                },
+                "annual_turnover": "Not available",
+                "annual_production_value": "3,300,000 kr"
+            },
+            "foundation_year": 1915,
+            "corporation_year": 1942,
+            "board": [
+                {
+                    "name": "Verner Andersson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Aina Larsson",
+                    "role": "fru"
+                },
+                {
+                    "name": "Allan Varnäs",
+                    "role": "byggnadsing."
+                }
+            ],
+            "director": "Allan Varnäs",
+            "manager": "Not available"
+        },
+        "2": {
+            "name": "Byggnadsfirman A. Erik Eriksson",
+            "location": "Stockholm",
+            "business": "Not available",
+            "foundation_year": "Not available"
+        },
+        "3": {
+            "name": "Byggnadsfirman N* M. Eriksson",
+            "location": "Hälsingborg",
+            "business": "Not available",
+            "foundation_year": "Not available"
+        },
+        "4": {
+            "name": "Byggnadsfirman Forss & Son",
+            "location": "Stockholm",
+            "business": "Not available",
+            "foundation_year": "Not available"
+        },
+        "5": {
+            "name": "Byggnadsfirman Dan. Frändberg",
+            "location": "Göteborg",
+            "business": "Not available",
+            "foundation_year": "Not available"
+        },
+        "6": {
+            "name": "Byggnadsfirman Cumpel & Bengtson AB.",
+            "location": "Stockholm",
+            "business": "Not available",
+            "foundation_year": "Not available"
+        },
+        "7": {
+            "name": "Byggnadsfirman Wilh. Gustavsson",
+            "location": "Linköping",
+            "business": "Not available",
+            "foundation_year": "Not available"
+        },
+        "8": {
+            "name": "Byggnadsfirman Oscar Hegert",
+            "location": "Stockholm",
+            "business": "Not available",
+            "foundation_year": "Not available"
+        },
+        "9": {
+            "name": "Byggnadsfirman Harry Karlsson & Co., AB.",
+            "location": "Lund",
+            "business": "Not available",
+            "foundation_year": "Not available"
+        },
+        "10": {
+            "name": "Byggnadsfirman Knutsson & Berggren",
+            "location": "Jönköping",
+            "business": "Not available",
+            "foundation_year": "Not available"
+        }
+    }
+}

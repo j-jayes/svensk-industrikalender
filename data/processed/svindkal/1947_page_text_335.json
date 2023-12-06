@@ -1,0 +1,252 @@
+{
+    "original": "Gävle\n\nGävle.\n\n*Cefle Karamell AB., Gävle.\n\nTillverkar choklad och karameller.\nTelegr.-adr.: Karamellbolaget, Gävle.\nTelefon: 87. Postgiro: 29695.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb,: 15. Tillv.-värde pr år: 300,000 kr.\n— Bolaget, grundat 1919, äges av K. S.\nAhlstedts Chokladfabrik, Kristinehamn.\n\nStyrelse: fabr. Karl S. Ahlstedt (ordf.),\ndisp. Gunnar Wallin.\n\nVerkst. dir.: Karl S. Ahlstedt\n(Kristinehamn).\n\nPlatschef: Walter Hedlund.\n\nGävle.\n\n*Cefle Kartongfabrik, Gävle.\n\nKartongfabrik och tryckeri. Tillverkar\nkartonger, etuier, portföljer, pärmar,\nkarttuber, påsar, reklamskyltar m. m.\n\nTelefon: 1587. Postgiro: 29975. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n225,000 kr. — Firman etabl. 1907.\n\nÄgare o. chef: fabr. Axel ölund.\n\nInköps- o. försäljn.-chef: kamrer Hans\nÖlund.\n\nGävle.\n\n*AB. Cefle Makaronifabrik, Gävle.\n\nTillverkar makaroner, vermiceller och\nspaghetti. Varunamn: »Solo»-makaroner.\n\nTelegr.-adr.: Geflemakaroni, Gävle.\nTelefon: 1597 o. 3161. Postgiro: 26177.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 18. — Firman, etabl. 1923, äger och\ndriver Såpfabriken Centrum.\n\nStyrelse: v. konsul C. W. Norenberg\n(ordf.), ing. Georg Arthur, fru Svea\nSundberg f. Arthur.\n\nVerkst. dir.: Georg Arthur.\nKontorschef: NV A. Rothpfeffer.\n\nGävle.\n\n*Cefle Manufaktur AB.,\n\nStrömsbro.\n\nBomullsspinneri, väveri, blekeri,\nfärgeri och appreturverk vid Strömsbro\n(Gävleb. l.). Tillverkar garn och\nvävnader av bomull, flaggor m. m. Varumärke:\n»Svanen».\n\nTelegr.-adr.: Manufakturbolag, Gävle.\nTelefon: 5520. Postgiro: 6099.\n\nAkt.-kap.: 1,200,000 kr. Antal\nindustriarb.: 300. Tillv.-värde pr år: 3,000,000 kr.\n— Firman grundad 1849.\n\nStyrelse: dir. Sven Engwall, disp.\nGunnar Höglund, konsul Nils Kjellerstedt,\ndisp. Carl V. Larsson, konsul Samuel\nSandberg.\n\nVerkst. dir.: Gunnar Höglund.\nFörsäljn.-chef: Harry Lundkvist.\nKamrer: J. Lönnfält.\n\nGävle.\n\n*Gefle Porslinsfabriks AB., Gävle.\n\nTillverkar husgerådsporslin och\nprydnadsartiklar.\n\nTelegr.-adr.: Porslinsbruket, Gävle.\nTelefon: 116, 1649 o. 2082. Postgiro: 8577.\n\nAkt.-kap.: 1,000,000 kr. Antal\nindustriarb.: 400. Tillv.-värde pr år: 3,000,000 kr.\n\nFabriken anlagd 1910 under namn AB.\nGefle Porslinsbruk, nuv. bolag grundat\n1913. Bolaget är anslutet till\nUpsala-Ekeby AB., Ekebybruk.\n\nStyrelse: dir. Wald. Meyer (ordf.),\nf. fältläkare E. O. v. Bahr, grossh. E.\nHeselius, disp. Nils V. Sterner, prof. F.\nWetter.\n\nVerkst. dir.: Nils V. Sterner\n(Ekebybruk).\n\nDriftsing.: Björn Holmström.\n\n’Gävle Såpfabrik, Gävle.\nSe Isaac Westergren &amp; Co., AB., Gävle,\n\nGävle.\n\n*AB. Cefle Valsqvarn, Gävle.\n\nTillverkar mjöl, korngryn, fodermjöl\noch gröpe.\n\nTelefon: 133. Postgiro: 170804. —\nAkt.-kap.: 140,000 kr. Arb.-antal: 6. — Bolaget\ngrundat 1896.\n\nStyrelse: v. konsul Carl Nilsson\n(ordf.), dir. Hj. Carlborn, dir. Sidney\nHolm, ing. Gunnar Molin.\n\nVerkst. dir.: Hj. Carlborn\n(Kristianstad) .\n\nKontorschef: Alb. Hägglund.\n\n’Gävle Varvs- och Verkstads Nya AB^\n\nGävle.\n\nTillverkar fartyg, ångpannor,\neellulosa-kokare, diffusörer, sodaugnar,\njärnkonstruktioner, oljeanläggningar,\nelektrostål-ugnar samt rörflänsar m. m.\n\nTelegr.-adr.: Geflevarvét, Gävle.\nTelefon: »Gävle varv». Postgiro: 26164.\n\nAkt.-kap.: 700,000 kr. Antal\nindustriarb.: 285. Tillv.-värde pr år: 4J000,000 kr.\n\nVarvet anlagt 1873, nuv. bolag\ngrundat 1922.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Cefle Karamell AB.",
+                "location": "Gävle",
+                "business": "Tillverkar choklad och karameller",
+                "contact": {
+                    "telegraph": "Karamellbolaget, Gävle",
+                    "phone": [
+                        "87"
+                    ],
+                    "postgiro": "29695"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_turnover": "300,000 kr"
+                },
+                "foundation_year": 1919,
+                "owners": [
+                    "K. S. Ahlstedts Chokladfabrik, Kristinehamn"
+                ],
+                "board": [
+                    {
+                        "name": "fabr. Karl S. Ahlstedt",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "disp. Gunnar Wallin",
+                        "role": null
+                    }
+                ],
+                "director": "Karl S. Ahlstedt",
+                "managing_director": "Karl S. Ahlstedt (Kristinehamn)"
+            },
+            {
+                "name": "Cefle Kartongfabrik",
+                "location": "Gävle",
+                "business": "Kartongfabrik och tryckeri. Tillverkar kartonger, etuier, portföljer, pärmar, karttuber, påsar, reklamskyltar m. m.",
+                "contact": {
+                    "phone": [
+                        "1587"
+                    ],
+                    "postgiro": "29975"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_turnover": "225,000 kr"
+                },
+                "foundation_year": 1907,
+                "owners": [
+                    "fabr. Axel ölund"
+                ]
+            },
+            {
+                "name": "AB. Cefle Makaronifabrik",
+                "location": "Gävle",
+                "business": "Tillverkar makaroner, vermiceller och spaghetti. Varunamn: »Solo»-makaroner",
+                "contact": {
+                    "telegraph": "Geflemakaroni, Gävle",
+                    "phone": [
+                        "1597",
+                        "3161"
+                    ],
+                    "postgiro": "26177"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 18
+                    }
+                },
+                "foundation_year": 1923,
+                "predecessor": "Såpfabriken Centrum",
+                "board": [
+                    {
+                        "name": "v. konsul C. W. Norenberg",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "ing. Georg Arthur",
+                        "role": null
+                    },
+                    {
+                        "name": "fru Svea Sundberg f. Arthur",
+                        "role": null
+                    }
+                ],
+                "director": "Georg Arthur",
+                "manager": "NV A. Rothpfeffer"
+            },
+            {
+                "name": "Cefle Manufaktur AB.",
+                "location": "Strömsbro",
+                "business": "Bomullsspinneri, väveri, blekeri, färgeri och appreturverk vid Strömsbro (Gävleb. l.). Tillverkar garn och vävnader av bomull, flaggor m. m. Varumärke: »Svanen»",
+                "contact": {
+                    "telegraph": "Manufakturbolag, Gävle",
+                    "phone": [
+                        "5520"
+                    ],
+                    "postgiro": "6099"
+                },
+                "financials": {
+                    "capital": "1,200,000 kr",
+                    "employees": {
+                        "industriarb": 300
+                    },
+                    "annual_turnover": "3,000,000 kr"
+                },
+                "foundation_year": 1849,
+                "board": [
+                    {
+                        "name": "dir. Sven Engwall",
+                        "role": null
+                    },
+                    {
+                        "name": "disp. Gunnar Höglund",
+                        "role": null
+                    },
+                    {
+                        "name": "konsul Nils Kjellerstedt",
+                        "role": null
+                    },
+                    {
+                        "name": "disp. Carl V. Larsson",
+                        "role": null
+                    },
+                    {
+                        "name": "konsul Samuel Sandberg",
+                        "role": null
+                    }
+                ],
+                "director": "Gunnar Höglund",
+                "sales_manager": "Harry Lundkvist",
+                "manager": "J. Lönnfält"
+            },
+            {
+                "name": "Gefle Porslinsfabriks AB.",
+                "location": "Gävle",
+                "business": "Tillverkar husgerådsporslin och prydnadsartiklar",
+                "contact": {
+                    "telegraph": "Porslinsbruket, Gävle",
+                    "phone": [
+                        "116",
+                        "1649",
+                        "2082"
+                    ],
+                    "postgiro": "8577"
+                },
+                "financials": {
+                    "capital": "1,000,000 kr",
+                    "employees": {
+                        "industriarb": 400
+                    },
+                    "annual_turnover": "3,000,000 kr"
+                },
+                "corporation_year": 1913,
+                "owners": [
+                    "Upsala-Ekeby AB., Ekebybruk"
+                ],
+                "board": [
+                    {
+                        "name": "dir. Wald. Meyer",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "f. fältläkare E. O. v. Bahr",
+                        "role": null
+                    },
+                    {
+                        "name": "grossh. E. Heselius",
+                        "role": null
+                    },
+                    {
+                        "name": "disp. Nils V. Sterner",
+                        "role": null
+                    },
+                    {
+                        "name": "prof. F. Wetter",
+                        "role": null
+                    }
+                ],
+                "director": "Nils V. Sterner (Ekebybruk)",
+                "sales_manager": "Björn Holmström"
+            },
+            {
+                "name": "AB. Cefle Valsqvarn",
+                "location": "Gävle",
+                "business": "Tillverkar mjöl, korngryn, fodermjöl och gröpe",
+                "contact": {
+                    "phone": [
+                        "133"
+                    ],
+                    "postgiro": "170804"
+                },
+                "financials": {
+                    "capital": "140,000 kr",
+                    "employees": {
+                        "antal": 6
+                    }
+                },
+                "foundation_year": 1896,
+                "board": [
+                    {
+                        "name": "v. konsul Carl Nilsson",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "dir. Hj. Carlborn",
+                        "role": null
+                    },
+                    {
+                        "name": "dir. Sidney Holm",
+                        "role": null
+                    },
+                    {
+                        "name": "ing. Gunnar Molin",
+                        "role": null
+                    }
+                ],
+                "director": "Hj. Carlborn (Kristianstad)",
+                "manager": "Alb. Hägglund"
+            },
+            {
+                "name": "Gävle Varvs- och Verkstads Nya AB",
+                "location": "Gävle",
+                "business": "Tillverkar fartyg, ångpannor, cellar-kokare, diffusører, sodaugnar, jærnkonstruktioner, oljeanlægninger, elektrostål-ugnar samt rørflænsar m. m.",
+                "contact": {
+                    "telegraph": "Geflevarvét, Gävle",
+                    "phone": [
+                        "Gävle varv"
+                    ],
+                    "postgiro": "26164"
+                },
+                "financials": {
+                    "capital": "700,000 kr",
+                    "employees": {
+                        "industriarb": 285
+                    },
+                    "annual_turnover": "4,000,000 kr"
+                },
+                "corporation_year": 1922
+            }
+        ]
+    }
+}

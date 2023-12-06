@@ -1,0 +1,181 @@
+{
+    "original": "Choklad fabriken—Christensen\n\nTelegr.-adr.: Corallichoklad,\nHälsingborg. Telefon: 10985. Postgiro: 84300. —\nAkt.-kap.: 136,800 kr. Antal\nindustriarb.: 55. — Bolaget bildat 1933.\n\nStyrelse: försäljn.-chef Conrad\nBrunk-vall, dir. Ragnar Clarkson, kamrer Nils\nLoander, dir. Charles Strömblad.\n\nVerkst. dir.: Ragnar Clarkson.\n\n’Chokladfabriken Ellt, Gösta Westin,\n\nSolna.\n\nTillverkar blockchoklad och konfityrer\nvid fabrik i Hagalund, Solna.\n\nTelefon: Stockholm 272620. Postgiro:\n2863. — Antal industriarb.: 22. —\nFirman etabl. 1920.\n\nÄgare o. chef: fabr. G. H. Westin.\n\n’Chokladfabriken Coody, Malmö.\n\nSe Nya AB. Chokladfabriken Goody,\nMalmö.\n\n’Chokladfabriken Kärnan,\n\nHälsingborg.\n\nSe AB. Hälsingborgs Choklad- &amp;\nKonfektfabrik Kärnan, Hälsingborg.\n\n’AB. Chokladfabriken Marabou,\n\nSundbyberg.\n\nTillverkar kakaopulver, choklad,\nmarmelad, sylter samt bakpulver.\n\nTelegr.-adr.: Marabou, Sundbyberg.\nTelefon: »Marabou», Stockholm.\nPostgiro: 6190.\n\nAkt.-kap.: 7.500,000 kr. Antal\nindustriarb.: 610. — Bolaget grundat 1916.\nBolaget äger AB. Konservfabriken Findus,\nBjuv.\n\nStyrelse: disp. Henning Throne-Holst\n(ordf.), dir. C. G. Juhlin Dannfelt, dir.\nErik Pedersen.\n\nVerkst. dir.: H. Throne-Holst.\n\nV. verkst. dir.: L. Anderfelt.\n\n’Chokladfabriken Silva AB.,\n\nStockholm.\n\nTillverkar konfityrer. Varumärke:\n»Faritzi».\n\nKontor: Högbergsg. 59. Telefon:\n426220 o. 409495. Postgiro: 152137.\n\nAkt.-kap.: 10,000 kr. Antal\nindustriarb.: 20.\n\nFirman etabl. 1936, bolag 1943.\n\nStyrelse o. verkst. dir.: fabr. Åke\nSil-vander.\n\n’Chokladfabrtkén Standard,\n\nDanderyd.\n\nTillverkar choklad, konfekt, marmelad\noch karameller vid fabrik i Danderyd\n(Sthlms l.).\n\nTelefon: 553501 o. 553502. Postgiro:\n1984. — Antal industriarb.: 45. —\nFirman etabl. 1920.\n\nÄgare o. chefer: fabr. Sten Stenberger\no. disp. Gösta Stenberger.\n\n’Chokladfabriken Svea, Norrköping.\n\nSe AB. Svea Choklad, Norrköping.\n\n’Chokladfabrikerna, AB. Förenade,\n\nStockholm.\n\nSe AB. Förenade Chokladfabrikerna,\nStockholm.\n\n’Chokladfabriks AB., Svenska,\n\nLjungsbro.\n\nSe Svenska Chokladfabriks AB.,\nLjungsbro.\n\n’Choklad- &amp; Konfektfabriken Atög,\n\nGöteborg.\n\nSe Atög Chokladfabrik AB., Göteborg.\n\n’AB. Choklad- &amp; Konfektfabriken\n\nFreja, Gävle.\n\nTillverkar karameller, kola, konfekt,\npastiller och tabletter.\n\nTelefon: 575. Postgiro: 72296. —\nAkt.-kap.: 100,000 kr. Antal industriarb.:\n30. — Firman etabl. 1911, bolag 1921.\n\nStyrelse: dir. Svenoscar Fogelberg,\nbankkassör Einar Salomonson, disp.\nMau-ritz Salomonson.\n\nDisp. o. verkst. dir.: M. Salomonson.\n\nChoklad- &amp; Konfektfabriken Kalu,\n\nGöteborg.\n\nSe Kalu Choklad- &amp; Konfektfabrik\nAB., Göteborg.\n\n’Choklad-Thule, Stockholm.\n\nSe AB. Förenade Chokladfabrikerna,\nStockholm.\n\n’Amanda Christensen AB., Stockholm.\n\nKravattfabrik. Tillverkar\nherrhalsdukar och scarves. Fabriksmärken:\n»Röda Sigillet», »Ohrisma», »Chriscot»,\n»Corona» m. fl.\n\n98*",
+    "structured": {
+        "1": {
+            "name": "Choklad fabriken—Christensen",
+            "location": "Hälsingborg",
+            "business": "Choklad och konfektyr",
+            "contact": {
+                "telegraph": "Corallichoklad, Hälsingborg",
+                "phone": [
+                    "10985"
+                ],
+                "postgiro": "84300"
+            },
+            "financials": {
+                "capital": "136,800 kr",
+                "employees": {
+                    "industriarb": 55
+                }
+            },
+            "foundation_year": 1933,
+            "board": [
+                {
+                    "name": "Conrad Brunk-vall",
+                    "role": "försäljn.-chef"
+                },
+                {
+                    "name": "Ragnar Clarkson",
+                    "role": "dir."
+                },
+                {
+                    "name": "Nils Loander",
+                    "role": "kamrer"
+                },
+                {
+                    "name": "Charles Strömblad",
+                    "role": "dir."
+                }
+            ],
+            "director": "Ragnar Clarkson"
+        },
+        "2": {
+            "name": "Chokladfabriken Ellt",
+            "location": "Solna",
+            "business": "Blockchoklad och konfityrer",
+            "contact": {
+                "phone": [
+                    "Stockholm 272620"
+                ],
+                "postgiro": "2863"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 22
+                }
+            },
+            "foundation_year": 1920,
+            "owners": [
+                "G. H. Westin"
+            ],
+            "director": "Gösta Westin"
+        },
+        "3": {
+            "name": "Chokladfabriken Coody",
+            "location": "Malmö"
+        },
+        "4": {
+            "name": "Chokladfabriken Kärnan",
+            "location": "Hälsingborg",
+            "business": "Se AB. Hälsingborgs Choklad- & Konfektfabrik Kärnan, Hälsingborg"
+        },
+        "5": {
+            "name": "AB. Chokladfabriken Marabou",
+            "location": "Sundbyberg",
+            "business": "Kakaopulver, choklad, marmelad, sylter samt bakpulver",
+            "contact": {
+                "telegraph": "Marabou, Sundbyberg",
+                "phone": [
+                    "»Marabou», Stockholm"
+                ],
+                "postgiro": "6190"
+            },
+            "financials": {
+                "capital": "7,500,000 kr",
+                "employees": {
+                    "industriarb": 610
+                }
+            },
+            "foundation_year": 1916,
+            "board": [
+                {
+                    "name": "Henning Throne-Holst",
+                    "role": "disp. (ordf.)"
+                },
+                {
+                    "name": "C. G. Juhlin Dannfelt",
+                    "role": "dir."
+                },
+                {
+                    "name": "Erik Pedersen",
+                    "role": "dir."
+                }
+            ],
+            "director": "H. Throne-Holst",
+            "managing_director": "H. Throne-Holst",
+            "sales_manager": "L. Anderfelt"
+        },
+        "6": {
+            "name": "Chokladfabriken Silva AB.",
+            "location": "Stockholm",
+            "business": "Konfityrer",
+            "contact": {
+                "office": "Högbergsg. 59",
+                "phone": [
+                    "426220",
+                    "409495"
+                ],
+                "postgiro": "152137"
+            },
+            "financials": {
+                "capital": "10,000 kr",
+                "employees": {
+                    "industriarb": 20
+                }
+            },
+            "foundation_year": 1943,
+            "director": "Åke Sil-vander"
+        },
+        "7": {
+            "name": "Chokladfabrtkén Standard",
+            "location": "Danderyd",
+            "business": "Choklad, konfekt, marmelad och karameller",
+            "contact": {
+                "phone": [
+                    "553501",
+                    "553502"
+                ],
+                "postgiro": "1984"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 45
+                }
+            },
+            "foundation_year": 1920,
+            "owners": [
+                "Sten Stenberger",
+                "Gösta Stenberger"
+            ]
+        },
+        "8": {
+            "name": "AB. Choklad- & Konfektfabriken Freja",
+            "location": "Gävle",
+            "business": "Karameller, kola, konfekt, pastiller och tabletter",
+            "contact": {
+                "phone": [
+                    "575"
+                ],
+                "postgiro": "72296"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 30
+                }
+            },
+            "foundation_year": 1921,
+            "board": [
+                {
+                    "name": "Svenoscar Fogelberg",
+                    "role": "dir."
+                },
+                {
+                    "name": "Einar Salomonson",
+                    "role": "bankkassör"
+                }
+            ],
+            "director": "M. Salomonson"
+        }
+    }
+}

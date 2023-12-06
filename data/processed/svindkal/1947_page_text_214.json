@@ -1,0 +1,209 @@
+{
+    "original": "Bröderna\n\nBröderna Johansson Skofabrik,\n\nKumla.\n\nTillverkar barn-, goss- och flickskodon\nvid fabrik i Långgälla, Kumla (Örebro l.).\n\nTelefon: Örebro 73065. Postgiro:\n130701. — Antal industriarb.: 17.\nTillv.-värde pr år: 200,000 kr. — Firman etabl.\n1924.\n\nÄgare o. chefer: fabr. Thure\nJohansson o. fabr. Thorsten Johansson.\n\n*Bröderna Johansson, Snickerifabrik,\n\nOsby.\n\nTillverkar byggnadssnickerier såsom\nfönster, dörrar, trappor samt\nköksinredningar vid fabrik i Osby (Kristianst. l.).\n\nTelefon: 114. Postgiro: 266081. Antal\nindustriarb.: 12. Tillv.-värde pr år:\n90,000 kr. — Firman etabl. 1924.\n\nÄgare o. chefer: fabr. Helge Johansson\no. fabr. David Johansson.\n\n*AB. Bröderna Johanssons Stol- &amp;\nMöbelfabrik, Virserum.\n\nTillverkar stolar och fåtöljer vid fabrik\ni Virserum (Kalmar l.).\n\nTelefon: 78. Postgiro: 15204. —\nAkt.-kap.: 140,000 kr. Antal industriarb.: 35.\nTillv.-värde pr år: 400,000 kr. — Firman\netabl. 1918, bolag 1940.\n\nStyrelse: fru F. Johansson (ordf.),\nmed. kand. Sivert Schiller, fru Karin\nThorén.\n\nProkurist: fru K. Thorén.\n\n*Bröderna Josefssons Trlkåfabrik,\n\nBorås.\n\nTillverkar herrunderkläder, jumpers,\nslipovers, herrvästar m. m.\n\nTelefon: 12801. Postgiro: 290296. —\nAntal industriarb.: 30. Tillv.-värde pr år:\n400,000 kr. — Firman etabl. 1945.\n\nÄgare o. chefer: fabr. Karl H.\nJosefsson o. fabr. Runo Josefsson.\n\n^Bröderna Kanold AB., Göteborg.\n\nChoklad- och konfektfabrik. Tillverkar\nchoklad, kakao, konfekt, karameller,\nlakrits, wafers och marmelad. Firman driver\njämväl lådfabrik samt idkar kvarn-,\nskogs- och jordbruksrörelse.\n\nKontor: Jacobsdal: postadr.: Göteborg\n5. Telegr.-adr. o. telefon: Kanolds,\nGöteborg. Postgiro: 42424. Avd.-kontor:\nStockholm, Hantverkarg. 48. Telefon:\n501794. Postgiro: 57310.\n\nAkt.-kap.: 4,003,000 kr. Antal\nindustriarb.: 162. Tillv.-värde pr år: 4,000,000\nkr. — Firman, etabl. 1901, bolag 1921,\näger AB. Vaxpapper &amp; Lito, Göteborg.\n\nStyrelse: ad v. Torsten S etterberg\n(ordf.), disp. Edward Kanold, dir. Fred\nG. Kanold, disp. Raymond Kanold,\ngrossh. J. Walthén.\n\nVerkst. dir.: Fred G. Kanold.\n\nDisponenter: R. Kanold o. Edward\nKanold.\n\n* Bröderna Karlssons Snickerifabrik,\n\nLaholm.\n\nTillverkar fönster, dörrar, trappor,\nköks-, butiks- och kyrkoinredningar samt\npaneler och listverk. Firman driver även\nförsäljning av träfiberplattor.\n\nTelefon: 113. Postgiro: 76448. —\nArb.-antal: 12. Tillv.-värde pr år: 124,000 kr.\n— Firman etabl. 1926.\n\nÄgare o. chefer: fabr. Einar Karlsson,\nfabr. Tage Karlson o. fabr. Arne Carlson.\n\nBröderna Karlssons Verkstads AB.,\n\nEnköping.\n\nTillverkar elektr. kaffekvarnar,\nupp-skivningsmaskiner för matvaror, ställ för\nfrukt, påsar, pappersrullar, tidningar m.\nm. samt filtrerpressar för oljerening.\nVarumärke: »BKV».\n\nTelefon: 255. Postgiro: 95310. —\nAkt.-kap.: 32,200 kr. Antal industriarb.: 25.\nTillv.-värde pr år: 300,000 kr. — Firman\netabl. 1915, bolag 1920.\n\nVerkst. dir.: fabr. Aug. Karlsson.\n\nDriftsing.: Eric Tilling.\n\nAB. Bröderna Kjellström,\n\nStockholm.\n\nSe AB. Instrumentverken, Stockholm.\n\nAB. Bröderna Kristiansson &amp; C:o-,\n\nGravame.\n\nKonservfabrik i Gravarne (Göteb. o.\nBohus l.). Tillverkar sillinläggningar och\nfiskkonserver. Varumärke:\n»Fiskebröderna».\n\nTelegr.-adr.: Fiskebröderna, Gravarne.\nTelefon: 87 o. 10. Postgiro: 26739. —\nAkt.-kap.: 500,000 kr. Antal industriarb.:\n70. Tillv.-värde pr år: 1,646,000 kr. —\nFirman etabl. 1924, bolag 1942.\n\nStyrelse: fabr. Knut Hedberg, fabr.\nManfred Kristiansson, fabr. Knut\nSjöman.\n\nVerkst. dir.: K. Sjöman.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Bröderna Johansson Skofabrik",
+                "location": "Kumla",
+                "business": "Tillverkar barn-, goss- och flickskodon",
+                "contact": {
+                    "phone": [
+                        "Örebro 73065"
+                    ],
+                    "postgiro": "130701"
+                },
+                "financials": {
+                    "capital": "Ej tillgänglig",
+                    "employees": {
+                        "industriarb": 17
+                    },
+                    "annual_turnover": "200,000 kr",
+                    "annual_production_value": "200,000 kr"
+                },
+                "foundation_year": 1924,
+                "owners": [
+                    "fabr. Thure Johansson",
+                    "fabr. Thorsten Johansson"
+                ]
+            },
+            {
+                "name": "Bröderna Johansson, Snickerifabrik",
+                "location": "Osby",
+                "business": "Tillverkar byggnadssnickerier, såsom fönster, dörrar, trappor samt köksinredning",
+                "contact": {
+                    "phone": [
+                        "114"
+                    ],
+                    "postgiro": "266081"
+                },
+                "financials": {
+                    "capital": "Ej tillgänglig",
+                    "employees": {
+                        "industriarb": 12
+                    },
+                    "annual_turnover": "90,000 kr",
+                    "annual_production_value": "90,000 kr"
+                },
+                "foundation_year": 1924,
+                "owners": [
+                    "fabr. Helge Johansson",
+                    "fabr. David Johansson"
+                ]
+            },
+            {
+                "name": "AB. Bröderna Johanssons Stol- & Möbelfabrik",
+                "location": "Virserum",
+                "business": "Tillverkar stolar och fåtöljer",
+                "contact": {
+                    "phone": [
+                        "78"
+                    ],
+                    "postgiro": "15204"
+                },
+                "financials": {
+                    "capital": "140,000 kr",
+                    "employees": {
+                        "industriarb": 35
+                    },
+                    "annual_turnover": "400,000 kr",
+                    "annual_production_value": "400,000 kr"
+                },
+                "foundation_year": 1918,
+                "corporation_year": 1940,
+                "board": [
+                    {
+                        "name": "fru F. Johansson",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "med. kand. Sivert Schiller",
+                        "role": null
+                    },
+                    {
+                        "name": "fru Karin Thorén",
+                        "role": null
+                    }
+                ]
+            },
+            {
+                "name": "Bröderna Josefssons Trlkåfabrik",
+                "location": "Borås",
+                "business": "Tillverkar herrunderkläder, jumpers, slipovers, herrvästar m.m.",
+                "contact": {
+                    "phone": [
+                        "12801"
+                    ],
+                    "postgiro": "290296"
+                },
+                "financials": {
+                    "capital": "Ej tillgänglig",
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_turnover": "400,000 kr",
+                    "annual_production_value": "400,000 kr"
+                },
+                "foundation_year": 1945,
+                "owners": [
+                    "fabr. Karl H. Josefsson",
+                    "fabr. Runo Josefsson"
+                ]
+            },
+            {
+                "name": "Bröderna Kanold AB.",
+                "location": "Göteborg",
+                "business": "Choklad- och konfektfabrik. Tillverkar choklad, kakao, konfekt, karameller, lakrits, wafers och marmelad",
+                "contact": {
+                    "phone": [
+                        "Göteborg 5"
+                    ],
+                    "postgiro": "42424",
+                    "sales_offices": [
+                        {
+                            "location": "Stockholm",
+                            "phone": "501794"
+                        }
+                    ]
+                },
+                "financials": {
+                    "capital": "4,003,000 kr",
+                    "employees": {
+                        "industriarb": 162
+                    },
+                    "annual_turnover": "4,000,000 kr",
+                    "annual_production_value": "4,000,000 kr"
+                },
+                "foundation_year": 1901,
+                "corporation_year": 1921,
+                "owners": [
+                    "ad v. Torsten Setterberg",
+                    "disp. Edward Kanold",
+                    "dir. Fred G. Kanold",
+                    "disp. Raymond Kanold",
+                    "grossh. J. Walthén"
+                ],
+                "director": "Fred G. Kanold",
+                "managing_director": false
+            },
+            {
+                "name": "Bröderna Karlssons Snickerifabrik",
+                "location": "Laholm",
+                "business": "Tillverkar fönster, dörrar, trappor, köks-, butiks- och kyrkoinredningar samt paneler och listverk. Firman driver även försäljning av träfiberplattor",
+                "contact": {
+                    "phone": [
+                        "113"
+                    ],
+                    "postgiro": "76448"
+                },
+                "financials": {
+                    "capital": "Ej tillgänglig",
+                    "employees": {
+                        "industriarb": 12
+                    },
+                    "annual_turnover": "124,000 kr",
+                    "annual_production_value": "124,000 kr"
+                },
+                "foundation_year": 1926,
+                "owners": [
+                    "fabr. Einar Karlsson",
+                    "fabr. Tage Karlson",
+                    "fabr. Arne Carlson"
+                ]
+            },
+            {
+                "name": "Bröderna Karlssons Verkstads AB.",
+                "location": "Enköping",
+                "business": "Tillverkar elektr. kaffekvarnar, uppskivningsmaskiner för matvaror, ställ för frukt",
+                "products": "påsar, pappersrullar, tidningar m. m. samt filtrerpressar för oljerening. Varumärke: »BKV»",
+                "contact": {
+                    "phone": [
+                        "255"
+                    ],
+                    "postgiro": "95310"
+                },
+                "financials": {
+                    "capital": "32,200 kr",
+                    "employees": {
+                        "industriarb": 25
+                    },
+                    "annual_turnover": "300,000 kr",
+                    "annual_production_value": "300,000 kr"
+                },
+                "foundation_year": 1915,
+                "corporation_year": 1920,
+                "managing_director": "fabr. Aug. Karlsson",
+                "manager": "Eric Tilling"
+            },
+            {
+                "name": "AB. Bröderna Kjellström",
+                "location": "Stockholm",
+                "description": "Se AB. Instrumentverken, Stockholm"
+            },
+            {
+                "name": "AB. Bröderna Kristiansson & C:o-",
+                "location": "Gravame",
+                "business": "Konservfabrik i Gravarne"
+            }
+        ]
+    }
+}

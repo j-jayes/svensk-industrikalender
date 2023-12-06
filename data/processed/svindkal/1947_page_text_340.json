@@ -1,0 +1,188 @@
+{
+    "original": "Göteborg\n\n\"Göteborgs Kolsyrefabrik, Göteborg.\n\nSe De Förenade Kolsyrefabrikernas\nAB., Stockholm.\n\n\"Göteborgs Konfektions AB.,\n\nGöteborg.\n\nHerrkonfektionsfabrik. Tillverkar\nherrkostymer.\n\nPostadr.: Göteborg 5. Telegr.-adr.:\nHerrkläder, Göteborg. Telefon: 163425.\nPostgiro: 41822.\n\nAkt.-kap.: 875,000 kr. Antal\nindustriarb.: 700. Tillv.-värde pr år: 8,000,000 kr.\n\n—\tFirman etabl. 1905, bolag 1923.\nStyrelse: dir. Sven Malmberg (ordf.),\n\nbankkamrer Sven G. Malmberg, dir. Ernst\nJohansson.\n\nVerkst. dir.: Ernst Johansson.\nKamrer: Bert Taube.\n\nAB. Göteborgs Konservfabrik,\n\nGöteborg.\n\nTillverkar sardiner, herrings och\nfiskbullar vid fabrik i Majviken, Göteborg.\n\nHuvudkontor o. ensamförsälj.:\nStrömstad Canning Co. AB., Strömstad.\nTelefon: 173. Postgiro: 75650. Fabrikskontor:\nGöteborg, Majviken; telegr.-adr.:\nSar-dinco, Göteborg, telefon: 144114.\n\nAkt.-kap.: 44,000 kr. Antal\nindustriarb.: 75. Tillv.-värde pr år: 1,200,000 kr.\n\n—\tBolaget grundat 1938.\n\nStyrelse: rädm. A. F. Forell (ordf.),\ngrossh. H. Hanson Nness, fru A. Åsland,\ndisp. Harald Åsland.\n\nVerkst. dir. o. disp.: Harald Åsland\n(Strömstad).\nDisp. i Göteborg: H. Goksöyr.\n\n\"AB. Göteborgs Kontorsbokfabrik,\n\nGöteborg.\n\nTillverkar kontorsböcker, lösblådsystem\nför hand- och maskinbokföring,\nreklamtrycksaker samt reklam- och\npresentartiklar i skinn. Specialitet: ringpärmar\nför katalogändamål.\n\nKontor: Köpmang. 52. Telegr.-adr.:\nBokfabriken, Göteborg. Telefon: 131990,\n131992 o. 115022. Postgiro: 25522.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 35. Tillv.-värde pr år: 500,000 kr.\n\n—\tBolaget grundat 1919.\n\nStyrelse o. verkst. dir.: E. Wald.\nEricson.\n\n(Jfr annons nr 29.)\n\n\"Göteborgs Korkfabrik, Göteborg.\n\nSe AB. WicandeTS Korkfabriker,\nStockholm.\n\nAB. Göteborgs Lerkärlsfabrik,\n\nGöteborg.\n\nTillverkar glaserade syltkärl och fat,\nglaserade och oglaserade blomkrukor samt\nkeramik.\n\nKontor: Kvilleg. Telefon: 221380.\nPostgiro: 40238. — Akt.-kap.: 80,000 kr.\nAntal industriarb.: 17. Tillv.-värde pr\når: 115,000 kr. — Bolaget grundat 1910.\n\nVerkst. dir.: Victor Berggren.\n\n\"Göteborgs Litografiska AB.,\n\nGöteborg.\n\nSe Wezäta-Göteborgslitografen AB.,\nGöteborg.\n\nGöteborgs Makadam AB., Kållered.\n\nTillverkar makadam vid fabrik i\nKållered (Göteb. o. Bohus l.).\n\nTelefon: 152. Postgiro: 146763.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 60. Årstillv.: 150,000 kbm\nmakadam. — Bolaget grundat 1938.\n\nVerkst. dir.: J. Aug. Assarson.\n\nKamrer: Holger Bornell.\n\n\"Göteborgs Mössfabriks AB.,\n\nGöteborg.\n\nTillverkar mössor samt dam- och\nherrhattar av tyg.\n\nKontor: Kyrkog. 60. Telefon: 130420.\nPostgiro: 12081.\n\nAkt.-kap.: 300,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 400,000 kr.\n— Firman etabl. 1893, bolag 1909.\n\nStyrelse: fabriksförest. Axel\nAndersson, dir. J. A. Björnbom.\n\nVerkst. dir.: J. A. Björnbom.\n\nGöteborgs Nya Påsfabrik,\n\nGöteborg.\n\nTillverkar påsar.\n\nKontor: Fabriksg. 20. Telefon: 150561.\nPostgiro: 41714. — Antal industriarb.:\n25. — Firman etabl. 1921.\n\nÄgare o. chef: fabr. Eskil I. Svensson.\n\n\"Göteborgs Pappersbruks AB.,\n\nGöteborg.\n\nPappersbruk vid Tingstad, Göteborg.\nTillverkar halvglättat rent och\nsliphal-tigt sulfitpapper samt\nfruktomslagspapper, vitt och färgat.\n\nKontor: Tingstad. Telegr.-adr.:\nPappersbruk, Göteborg. Telefon: 222110.\n\nAkt.-kap.: 665,000 kr. Årstillv.: 4,500\nton papper.\n\n202*",
+    "structured": {
+        "firms": [
+            {
+                "name": "Göteborgs Kolsyrefabrik",
+                "location": "Göteborg",
+                "business": "Kolsyrefabrik",
+                "contact": {
+                    "office": "Göteborg 5",
+                    "phone": [
+                        "163425"
+                    ],
+                    "postgiro": "41822"
+                },
+                "financials": {
+                    "capital": "875,000 kr",
+                    "employees": {
+                        "industriarb": 700
+                    },
+                    "annual_turnover": "8,000,000 kr",
+                    "annual_production_value": "8,000,000 kr"
+                },
+                "foundation_year": 1905,
+                "corporation_year": 1923,
+                "board": [
+                    {
+                        "name": "Sven Malmberg",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Sven G. Malmberg",
+                        "role": "bankkamrer"
+                    },
+                    {
+                        "name": "Ernst Johansson",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Bert Taube",
+                        "role": "Kamrer"
+                    }
+                ]
+            },
+            {
+                "name": "AB. Göteborgs Konservfabrik",
+                "location": "Göteborg",
+                "business": "Konservfabrik",
+                "contact": {
+                    "office": "Majviken, Göteborg",
+                    "phone": [
+                        "144114"
+                    ],
+                    "postgiro": "75650",
+                    "head_office": "Strömstad Canning Co. AB., Strömstad"
+                },
+                "financials": {
+                    "capital": "44,000 kr",
+                    "employees": {
+                        "industriarb": 75
+                    },
+                    "annual_turnover": "1,200,000 kr"
+                },
+                "foundation_year": 1938,
+                "board": [
+                    {
+                        "name": "A. F. Forell",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "H. Hanson Nness",
+                        "role": "grossh."
+                    },
+                    {
+                        "name": "A. Åsland",
+                        "role": "fru"
+                    },
+                    {
+                        "name": "Harald Åsland",
+                        "role": "disp."
+                    }
+                ]
+            },
+            {
+                "name": "AB. Göteborgs Kontorsbokfabrik",
+                "location": "Göteborg",
+                "business": "Kontorsbokfabrik",
+                "contact": {
+                    "office": "Köpmang. 52",
+                    "phone": [
+                        "131990",
+                        "131992",
+                        "115022"
+                    ],
+                    "postgiro": "25522"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 35
+                    },
+                    "annual_turnover": "500,000 kr"
+                },
+                "foundation_year": 1919,
+                "board": [
+                    {
+                        "name": "E. Wald. Ericson",
+                        "role": "verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "AB. Göteborgs Lerkärlsfabrik",
+                "location": "Göteborg",
+                "business": "Lerkärlsfabrik",
+                "contact": {
+                    "office": "Kvilleg",
+                    "phone": [
+                        "221380"
+                    ],
+                    "postgiro": "40238"
+                },
+                "financials": {
+                    "capital": "80,000 kr",
+                    "employees": {
+                        "industriarb": 17
+                    },
+                    "annual_turnover": "115,000 kr"
+                },
+                "foundation_year": 1910,
+                "director": "Victor Berggren"
+            },
+            {
+                "name": "Göteborgs Mössfabriks AB",
+                "location": "Göteborg",
+                "business": "Mössfabrik",
+                "contact": {
+                    "office": "Kyrkog. 60",
+                    "phone": [
+                        "130420"
+                    ],
+                    "postgiro": "12081"
+                },
+                "financials": {
+                    "capital": "300,000 kr",
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_turnover": "400,000 kr"
+                },
+                "foundation_year": 1893
+            },
+            {
+                "name": "Göteborgs Nya Påsfabrik",
+                "location": "Göteborg",
+                "business": "Påsfabrik",
+                "contact": {
+                    "office": "Fabriksg. 20",
+                    "phone": [
+                        "150561"
+                    ],
+                    "postgiro": "41714"
+                },
+                "employees": {
+                    "industriarb": 25
+                },
+                "foundation_year": 1921,
+                "manager": "Eskil I. Svensson"
+            },
+            {
+                "name": "Göteborgs Pappersbruks AB",
+                "location": "Göteborg",
+                "business": "Pappersbruk",
+                "contact": {
+                    "office": "Tingstad",
+                    "phone": [
+                        "222110"
+                    ],
+                    "postgiro": null
+                },
+                "financials": {
+                    "capital": "665,000 kr",
+                    "annual_production_value": "4,500 ton papper"
+                }
+            }
+        ]
+    }
+}

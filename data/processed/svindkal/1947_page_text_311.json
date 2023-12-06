@@ -1,0 +1,202 @@
+{
+    "original": "Föreningen—Gagne f\n\nPostadr.: Box 70, . Umeå. Telefon:\nUmeå 394 o. 496. Postgiro: 62184. —\nAntal industriarb.: 25. Tillv.-värde pr år:\n200,000 kr. — Föreningen grundad 1921.\n\nStyrelse: fabr. Bertil Sandström (ordf.),\nfabr. Oscar Olsson, fabr. Leo Waara.\n\nVerkst. dir.: Bertil Sandström.\n\nFöreningen Norrlandslin u. p. a.,\n\nMellansel.\n\nLinberedningsverk i Mellansel\n(Västernorrl. l.). Tillverkar lintåga ocli\nlin-blånör samt linfrö och linagnmjöl till\nkraftfoder.\n\nTelefon: 51. Postgiro: 64740.\nFörsäljare: Riksförbundet Lin och Hampa,\nStockholm, Valhallavägen 132, telefon:\n602235.\n\nAndelskap.: 233,050 kr. Antal\nindustriarb.: 60. — Föreningen bildad 1944.\n\nDisp.: civiling. Bertil Göthberg.\n\nFörlags AB. Cevalia, Gävle.\n\nSe Svenska Skolmateriel AB. Gevalia,\nGävle.\n\nFörnicklingsfabriken, AB. Svenska,\n\nStockholm.\n\nSé AB. Svenska Förnicklingsfabriken,\nStockholm.\n\nAB. Försiövsholms Strumpfabrik,\n\nFörslövsholm.\n\nTillverkar herrstrumpor vid fabrik i\nFörslövsholm (Kristianst. l.).\n\nTelefon: 102. Postgiro: 12604. —\nAkt.-kap.: 40,000 kr. Antal industriarb.: 20.\nTillv.-värde pr år: 250,000 kr. — Bolaget\ngrundat 1938.\n\nVerkst. dir. o. disp.: Folke Peärsson.\n\n*AB. Försökstegelbruket, Svedala.\n\nTegelbruk i Svedala (Malmöh. l.) i\nförening med tegelmästareskola för\nteoretisk och^ praktisk utbildning av\ntegelmästare. Tillverkar mur- och taktegel,\ndräneringsrör m. m.\n\nTelegr.-adr.: Tegelskolan, Svedala.\nTelefon: 65. Postgiro: 175709.\n\nAkt.-kap.: 60,000 kr. Årstillv.: 3 milj.\nst. tegelvaror. — Bolaget grundat 1904.\n\nStyrelse: f. d. undervisningsrådet Nils\nFredriksson (ordf.), övering. Herman\nHärstedt, disp. Hilding Lundström,\ntegelm. P. Emil Persson, dir. Herman\nÅbj örnsson.\n\nVerkst. dir. o. disp.: H. Lundström.\n\n* utmärker till Sveriges Industriförbund anslutna företag.\n\nAB. Gabriel-Ver ken, Timmemabben,\n\nKeramikfabrik i Timmernabben\n(Kalmar l.). Tillverkar prydnads- och\nhushållskeramik samt glaserade blomkrukor.\nVarumärke: »Gabriel».\n\nTelefon: 28. Postgiro: 70301.\nAkt.-kap.: 30,000 kr. Antal\nindustriarb.: 50. — Bolaget grundat 1925.\nVerkst. dir.: Stig-Olof Burmeister.\n\n*Cadelius &amp; Co. AB., Stockholm.\n\nBedriver tillverkning av bordsbestick\nsåsom rostfria knivar, gafflar och skedar.\nHuvudrörelse: export- och importhandel.\n\nKontor: Eriksbergsg. 1 A. Telegr.-adr.:\nKnutsius, Stockholm. Telefon: 232800.\nPostgiro: 3648.\n\nAkt.-kap.: 392,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 500,000 kr.\n— Firman etabl. 1896, bolag 1933.\n\nStyrelse: dir. Lars Blume (ordf.), ing.\nTaro Gadelius, ing. Robert Thune.\n\nVerkst. dir.: Robert Thune.\n\nCadö Nya Fabriks AB.,\n\nSödra Valbo.\n\nFilfabrik i Södra Valbo (Gävleb. l.).\nTillverkar filar, manufaktursmiden,\nhandredskap m. m. samt utför omhuggning av\nförslitna filar. Bolaget driver även\nengroshandel med bågfilblad, slipskivor och\nrörklammer.\n\nTelefon: Valbo 14. Postgiro: 94242. —\nAkt.-kap.: 20,000 kr. Antal industriarb.:\n20. Tillv.-värde pr år: 150,000 kr. —\nFirman etabl. 1872, nuv. bolag 1909.\n\nDisp.: H. Portström.\n\nCagnefs Trikåfabrik, Montelius &amp;\nCo., Gagnef.\n\nTillverkar trikåväv i silke och bomull\nvid fabrik i Moje, Gagnef (Kopparb. L).\n\n173*",
+    "structured": {
+        "firms": [
+            {
+                "name": "Föreningen—Gagne f",
+                "location": "Umeå",
+                "business": "Förening",
+                "contact": {
+                    "office": "Box 70, Umeå",
+                    "phone": [
+                        "Umeå 394",
+                        "496"
+                    ],
+                    "postgiro": "62184"
+                },
+                "financials": {
+                    "capital": "Not available",
+                    "employees": {
+                        "industriarb": 25
+                    },
+                    "annual_turnover": "Not available",
+                    "annual_production_value": "200,000 kr"
+                },
+                "foundation_year": 1921,
+                "board": [
+                    {
+                        "name": "fabr. Bertil Sandström",
+                        "role": "ordförande"
+                    },
+                    {
+                        "name": "fabr. Oscar Olsson",
+                        "role": "Not available"
+                    },
+                    {
+                        "name": "fabr. Leo Waara",
+                        "role": "Not available"
+                    }
+                ],
+                "director": "Bertil Sandström"
+            },
+            {
+                "name": "Föreningen Norrlandslin u. p. a.",
+                "location": "Mellansel",
+                "business": "Linberedning",
+                "products": "Tillverkar lintåga och lin-blånör samt linfrö och linagnmjöl till kraftfoder",
+                "contact": {
+                    "telegraph": "Not available"
+                },
+                "financials": {
+                    "capital": "233,050 kr",
+                    "employees": {
+                        "industriarb": 60
+                    },
+                    "annual_turnover": "Not available",
+                    "annual_production_value": "Not available"
+                },
+                "foundation_year": 1944,
+                "board": [
+                    {
+                        "name": "civiling. Bertil Göthberg",
+                        "role": "Not available"
+                    }
+                ],
+                "director": "Not available"
+            },
+            {
+                "name": "Förlags AB. Cevalia",
+                "location": "Gävle",
+                "business": "Förlag",
+                "description": "Se Svenska Skolmateriel AB. Gevalia, Gävle"
+            },
+            {
+                "name": "Förnicklingsfabriken, AB. Svenska",
+                "location": "Stockholm",
+                "business": "Förnickling"
+            },
+            {
+                "name": "AB. Försiövsholms Strumpfabrik",
+                "location": "Förslövsholm",
+                "business": "Tillverkning av herrstrumpor",
+                "products": "Tillverkar herrstrumpor vid fabrik i Förslövsholm (Kristianst. l.)",
+                "contact": {
+                    "phone": "102",
+                    "postgiro": "12604"
+                },
+                "financials": {
+                    "capital": "40,000 kr",
+                    "employees": {
+                        "industriarb": 20
+                    },
+                    "annual_turnover": "250,000 kr",
+                    "annual_production_value": "Not available"
+                },
+                "foundation_year": 1938,
+                "director": "Folke Peärsson"
+            },
+            {
+                "name": "AB. Försökstegelbruket",
+                "location": "Svedala",
+                "business": "Tegelbruk",
+                "products": "Tillverkar mur- och taktegel, dräneringsrör m. m.",
+                "contact": {
+                    "telegraph": "Tegelskolan, Svedala",
+                    "phone": "65",
+                    "postgiro": "175709"
+                },
+                "financials": {
+                    "capital": "60,000 kr",
+                    "employees": {
+                        "industriarb": "Not available"
+                    },
+                    "annual_turnover": "Not available",
+                    "annual_production_value": "3 milj. st. tegelvaror"
+                },
+                "foundation_year": 1904,
+                "board": [
+                    {
+                        "name": "f. d. undervisningsrådet Nils Fredriksson",
+                        "role": "ordförande"
+                    },
+                    {
+                        "name": "ömmande. Herman Härstedt",
+                        "role": "Not available"
+                    },
+                    {
+                        "name": "disp. Hilding Lundström",
+                        "role": "Not available"
+                    },
+                    {
+                        "name": "tegelm. P. Emil Persson",
+                        "role": "Not available"
+                    },
+                    {
+                        "name": "dir. Herman Åbjörnsson",
+                        "role": "Not available"
+                    }
+                ],
+                "director": "H. Lundström"
+            },
+            {
+                "name": "AB. Gabriel-Verken",
+                "location": "Timmernabben",
+                "business": "Keramikfabrik",
+                "products": "Tillverkar prydnads- och hushållskeramik samt glaserade blomkrukor",
+                "contact": {
+                    "phone": "28",
+                    "postgiro": "70301"
+                },
+                "financials": {
+                    "capital": "30,000 kr",
+                    "employees": {
+                        "industriarb": 50
+                    },
+                    "annual_turnover": "Not available",
+                    "annual_production_value": "Not available"
+                },
+                "foundation_year": 1925,
+                "director": "Stig-Olof Burmeister"
+            },
+            {
+                "name": "Cadelius & Co. AB.",
+                "location": "Stockholm",
+                "business": "Tillverkning av bordsbestick",
+                "products": "Tillverkar rostfria knivar, gafflar och skedar"
+            },
+            {
+                "name": "Cadö Nya Fabriks AB.",
+                "location": "Södra Valbo",
+                "business": "Filfabrik",
+                "products": "Tillverkar filar, manufaktursmiden, handredskap m. m.",
+                "contact": {
+                    "phone": "Valbo 14",
+                    "postgiro": "94242"
+                },
+                "financials": {
+                    "capital": "20,000 kr",
+                    "employees": {
+                        "industriarb": 20
+                    },
+                    "annual_turnover": "150,000 kr",
+                    "annual_production_value": "Not available"
+                },
+                "foundation_year": 1909,
+                "board": [
+                    {
+                        "name": "disp. H. Portström",
+                        "role": "Not available"
+                    }
+                ],
+                "director": "Not available"
+            },
+            {
+                "name": "Cagnefs Trikåfabrik, Montelius & Co.",
+                "location": "Gagnef",
+                "business": "Tillverkning av trikåväv i silke och bomull",
+                "products": "Tillverkar trikåväv i silke och bomull vid fabrik i Moje, Gagnef (Kopparb. L)",
+                "foundation_year": 173
+            }
+        ]
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "original": "Carlsson—Carlström\n\nTelegr.-adr.: Cegece, Norrköping.\nTelefon: 24500. Postgiro: 7650.\n\nAkt.-kap.: 75,600 kr. Antal\nindustriarb.: 70. — Firman etabl. 1887.\n\nVerkst. dir.: Gunnar Carlsson.\n\n’Gottfrid Carlssons Nickelfabrik,\n\nEskilstuna.\n\nSe Nickelfabriks AB. Gottfrid\nCarlsson, Eskilstuna..\n\nHilding Carlssons Mek. Verkstad,\n\nUmeå.\n\nTillverkar rälsbussar och\ninspektions-dressiner.\n\nTelefon: 15 o. 3009. Postgiro: 62816.\n— Antal industriarb.: 55. Tillv.-värde pr\når: 2,500,000 kr. — Firman etabl. 1913.\n\nÄgare o. chef: fabr. Hilding Carlsson.\n\n*AB« J. O. Carlssons Möbelindustri,\n\nVetlanda.\n\nTillverkar möbler.\n\nTelefon: 318. Postgiro: 96682. —\nAkt.-kap.: 50,000 kr. Antal industriarb.: 33.\nTillv.-värde pr år: 580,000 kr. — Firman\netabl. 1930.\n\nStyrelse: fru Augusta Carlsson (ordf.),\narkitekt K.-E. Ekselius, dir. Malte\nEkseli us.\n\nVerkst. direktörer: Malte Ekselius o.\narkitekt K.-E. Ekselius.\n\nKontorschef: K.-E. Ekselius.\n\nVerkstadschef: Malte Ekselius.\n\n*K. &amp; E. Carlson, Göteborg.\n\nGuldvarufabrik. Tillverkar guld- och\nsilverbijouterivaror.\n\nKontor: Lorensbergsgat. 6. Telefon:\n164364 o. 164367. Postgiro: 41958. —\nAntal industriarb.: 95. — Firman etabl.\n1918.\n\nÄgare o. chefer: fabr. Knut S. Carlson\no. fabr. Eric M. Carlson.\n\nK. I. Carlsson, Metallvarufabrik,\n\nEskilstuna.\n\nTillverkar pressade och tryckta\nartiklar såsom fältflaskor, lättmetalldelar till\ngasmasker, kedjeskydd till cyklar,\nbilflottörer samt sanitära artiklar.\n\nTelefon: 31361. Postgiro: 71473. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n150,000 kr. — Firman etabl. 1920.\n\nÄgare o. chef: fabr. Ivar Cenner.\n\n94*\n\nSven Carlson AB., Ingenjörsfirma,\n\nFalun.\n\nSe Ingeniörsfirma Sven Carlson AB.,\nFalun.\n\nWilh. Carlssons Skofabriks AB.,\n\nKumla.\n\nTillverkar finare agotillverkade skodon\nvid fabrik i Kumla (Örebro l.).\nVarumärken: »Gunnel» o. »Arienne-sko».\n\nTelefon: Örebro 70176. Postgiro:\n84446. — Akt.-kap.: 40,000 kr. Antal\nindustriarb.: 35. Tillv.-värde pr år: 300,000\nkr. — Firman etabl. 1918, bolag 1944.\n\nVerkst. dir.: Wilh. Carlsson.\n\n’Agne Carlströms Fabriks AB.,\n\nGöteborg.\n\nStrumpfabrik. Tillverkar strumpor av\nbomull, ylle och silke.\n\nKontor: Kaponjärgatan 8. Telefon:\n133182 o. 133151. Postgiro: 40360.\n\nAkt.-kap.: 40,000 kr. Antal\nindustriarb.: 65. Tillv.-värde pr år: 600,000 kr.\n— Fabriken anlagd 1909 under namn\nHemindustribolaget, nuv. namn 1930.\n\nStyrelse: adv. William Kristensen\n(ordf.), dir. Agne Carlström, disp. Rune\nA:son Carlström.\n\nVerkst. dir.: Agne Carlström.\n\n’AB. C. R. Carlströms Nysilverfabrik,\n\nStockholm.\n\nTillverkar nysilvervaror såsom\nkuvertartiklar, fat, karotter, bordsställ,\nkaffeserviser m. m. Specialitet:\nrestaurant-artiklar.\n\nKontor: Brännkyrkag. 165; postadr.:\nStockholm 9. Telefon: 411167. Postgiro:\n3289. — Akt.-kap.: 120,000 kr. Arb.-antal:\n10. — Fabriken anlagd 1857, bolag 1911.\n\nStyrelse: dir. Erik Lundin (ordf.),\ndroskäg. J. Algot Eriksson, fru Hanna\nLundin.\n\nVerkst. dir.: Erik Lundin.\n\nAB. E. J. Carlström &amp; Sons\nVelocipedfabrik, Emmaboda.\n\nTillverkar velocipeder vid fabrik i\nEmmaboda (Kalmar l.). Varumärke:\n»Original». Firman driver även\nengroshandel med cykelringar och\ncykeltillbehör samt försäljning av bilar.\n\nTelegr.-adr.: Velocipedfabrik,\nEmmaboda. Telefon: 14. Postgiro: 12755. —",
+    "structured": {
+        "firms": [
+            {
+                "name": "Carlsson—Carlström",
+                "contact": {
+                    "telegraph": "Cegece, Norrköping",
+                    "phone": [
+                        "24500"
+                    ],
+                    "postgiro": "7650"
+                },
+                "financials": {
+                    "capital": "75,600 kr",
+                    "employees": {
+                        "industriarb": 70
+                    }
+                },
+                "foundation_year": 1887,
+                "director": "Gunnar Carlsson"
+            },
+            {
+                "name": "Hilding Carlssons Mek. Verkstad",
+                "location": "Umeå",
+                "products": "Tillverkar rälsbussar och inspektions-dressiner",
+                "contact": {
+                    "phone": [
+                        "15",
+                        "3009"
+                    ],
+                    "postgiro": "62816"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 55
+                    },
+                    "annual_production_value": "2,500,000 kr"
+                },
+                "foundation_year": 1913,
+                "manager": "fabr. Hilding Carlsson"
+            },
+            {
+                "name": "AB J. O. Carlssons Möbelindustri",
+                "location": "Vetlanda",
+                "business": "Tillverkar möbler",
+                "contact": {
+                    "phone": "318",
+                    "postgiro": "96682"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 33
+                    },
+                    "annual_production_value": "580,000 kr"
+                },
+                "foundation_year": 1930,
+                "board": [
+                    {
+                        "name": "fru Augusta Carlsson",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "arkitekt K.-E. Ekselius",
+                        "role": null
+                    },
+                    {
+                        "name": "dir. Malte Ekselius",
+                        "role": null
+                    }
+                ],
+                "managing_director": "Malte Ekselius",
+                "sales_manager": "K.-E. Ekselius",
+                "manager": "Malte Ekselius"
+            },
+            {
+                "name": "K. & E. Carlson",
+                "location": "Göteborg",
+                "business": "Guldvarufabrik. Tillverkar guld- och silverbijouterivaror",
+                "contact": {
+                    "office": "Lorensbergsgat. 6",
+                    "phone": [
+                        "164364",
+                        "164367"
+                    ],
+                    "postgiro": "41958"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 95
+                    }
+                },
+                "foundation_year": 1918,
+                "owners": [
+                    "fabr. Knut S. Carlson",
+                    "fabr. Eric M. Carlson"
+                ]
+            },
+            {
+                "name": "K. I. Carlsson, Metallvarufabrik",
+                "location": "Eskilstuna",
+                "business": "Tillverkar pressade och tryckta artiklar såsom fältflaskor, lättmetalldelar till gasmasker, kedjeskydd till cyklar, bilflottörer samt sanitära artiklar",
+                "contact": {
+                    "phone": "31361",
+                    "postgiro": "71473"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_production_value": "150,000 kr"
+                },
+                "foundation_year": 1920,
+                "manager": "fabr. Ivar Cenner"
+            },
+            {
+                "name": "Sven Carlson AB., Ingenjörsfirma",
+                "location": "Falun",
+                "business": "Ingenjörsfirma",
+                "description": "Se Ingeniörsfirma Sven Carlson AB., Falun"
+            },
+            {
+                "name": "Wilh. Carlssons Skofabriks AB.",
+                "location": "Kumla",
+                "business": "Tillverkar finare agotillverkade skodon",
+                "contact": {
+                    "phone": "Örebro 70176",
+                    "postgiro": "84446"
+                },
+                "financials": {
+                    "capital": "40,000 kr",
+                    "employees": {
+                        "industriarb": 35
+                    },
+                    "annual_production_value": "300,000 kr"
+                },
+                "corporation_year": 1944,
+                "manager": "Wilh. Carlsson"
+            },
+            {
+                "name": "Agne Carlströms Fabriks AB.",
+                "location": "Göteborg",
+                "business": "Strumpfabrik. Tillverkar strumpor av bomull, ylle och silke",
+                "contact": {
+                    "office": "Kaponjärgatan 8",
+                    "phone": [
+                        "133182",
+                        "133151"
+                    ],
+                    "postgiro": "40360"
+                },
+                "financials": {
+                    "capital": "40,000 kr",
+                    "employees": {
+                        "industriarb": 65
+                    },
+                    "annual_production_value": "600,000 kr"
+                },
+                "corporation_year": 1930,
+                "board": [
+                    {
+                        "name": "adv. William Kristensen",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "dir. Agne Carlström",
+                        "role": null
+                    },
+                    {
+                        "name": "disp. Rune A:son Carlström",
+                        "role": null
+                    }
+                ],
+                "manager": "Agne Carlström"
+            },
+            {
+                "name": "AB. C. R. Carlströms Nysilverfabrik",
+                "location": "Stockholm",
+                "business": "Tillverkar nysilvervaror såsom kuvertartiklar, fat, karotter, bordsställ, kaffeserviser m. m. Specialitet: restaurant-artiklar",
+                "contact": {
+                    "office": "Brännkyrkag. 165",
+                    "phone": "411167",
+                    "postgiro": "3289"
+                },
+                "financials": {
+                    "capital": "120,000 kr",
+                    "employees": {
+                        "antal": 10
+                    }
+                },
+                "corporation_year": 1911,
+                "board": [
+                    {
+                        "name": "dir. Erik Lundin",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "droskäg. J. Algot Eriksson",
+                        "role": null
+                    },
+                    {
+                        "name": "fru Hanna Lundin",
+                        "role": null
+                    }
+                ],
+                "manager": "Erik Lundin"
+            },
+            {
+                "name": "AB. E. J. Carlström & Sons Velocipedfabrik",
+                "location": "Emmaboda",
+                "business": "Tillverkar velocipeder vid fabrik i Emmaboda (Kalmar l.). Firman driver även engroshandel med cykelringar och cykeltillbehör samt försäljning av bilar",
+                "contact": {
+                    "telegraph": "Velocipedfabrik, Emmaboda",
+                    "phone": "14",
+                    "postgiro": "12755"
+                }
+            }
+        ]
+    }
+}

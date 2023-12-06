@@ -1,0 +1,197 @@
+{
+    "original": "Eriksson\n\nAkt.-kap.: 60,000 kr. Antal\nindustriarb.: 45. Tillv.-värde pr år: 1,200,000 kr.\n— Bolaget grundat 1939.\n\nStyrelse: dir. Ragnar Flygt (ordf.),\ndisp. Gustaf Lindqvist, dir. R. Strand.\nDisp.: G. Lindqvist.\n\nErikson, Eriksson, Ericson, Ericsson.\n\n\"Eriksson &amp; Co., Möbelfabriken\n\nStandard, Norrköping.\n\nSe Möbelfabriken Standard, Eriksson\n\n&amp; Co., Norrköping.\n\n*AB. Erikson &amp; Larson, Borås.\n\nHerrkonfektionsfabrik. Tillverkar\narbetskläder och trikåvaror. Varumärken:\n»Elson»-herrkläder o. »Erla»-arbetskläder.\n\nTelefon- o. telegr.-adr.: Erlabolaget,\nBorås. Postgiro: 30700. — Akt.-kap.:\n3,037,000 kr. Antal industriarb.: 420. —\nFirman etabl. 1892, bolag 1915.\n\nStyrelse: dir. Knut N. Jansson (ordf.),\nfru A. Erikson, kamrer G. Hedelin, fru\nSiri Larson, disp. Edvard Nordström.\n\nVerkst. dir.: Knut N. Jansson.\n\nV. verkst. dir. o. kamrer: G. Hedelin.\n\nDisp.: Edvard Nordström.\n\nEriksson &amp; Larssons Felbhattfabrik,\n\nEskilstuna.\n\nTillverkar felbhattar (höga hattar).\nTelefon: 32294. Postgiro: 76334. —\nArb.-antal: 7. Tillv.-värde pr år: 80,000\nkr. — Firman etabl. 1925.\n\nÄgare o. chefer: hattmakare David\nEriksson o. hattmakare Martin Larsson.\n\nE rikssons M etai if abr i k, Bröderna,\n\nStockholm.\n\nSe Bröderna Erikssons Metallfabrik,\nStockholm.\n\nEriksons Metailgjuteri AB.,\nBröderna, Borlänge.\n\nSe Bröderna Eriksons Metailgjuteri\nAB., Borlänge.\n\n\"Ericson &amp; Rabenius, Gävle.\nSe Pix AB., Gävle.\n\nAB. Eriksson &amp; Starks Mek.\nVerkstad, Ulvsunda.\n\nTillverkar genomskriftapparater för\na vlöningsbokf ör ing, märkn ingsmaskiner\nför tvätt, oljereningsaoparater m. m. vid\nmek. verkstad i Ulvsunda (Sthlm).\n\nKontor: Ekbacks vägen 42, Ulvsunda,\nStockholm. Telefon: 256133 o. 259466.\nPostgiro: 13429.\n\nAkt.-kap.: 30,000 kr. Antal\nindustriarb.: 23. Tillv.-värde pr år: 345,000 kr.\n— Firman etabl. 1914, bolag 1933.\nVerkst. dir.: fabr. Tyko Stark.\n\nAxel Ericssons Instrumentfirma,\n\nGöteborg.\n\nSe Instrumentfirman Axel Ericsson,\nGöteborg.\n\n\"Axel Eriksson &amp; Co. Snickeri AB-,\n\nDala-Floda.\n\nTillverkar byggnadssnickerier,\nköksinredningar, möbler m. m. vid fabrik i\nDala-Floda (Kopparb. l.).\n\nTelefon: 120. — Akt.-kap.: 5,000 kr.\nAntal industriarb.: 10. Tillv.-värde pr\når: 100,000 kr. — Firman etabl. 1945\nunder namn Dala-Floda Snickerifabrik,\nnuv. namn och bolag 1946.\n\nStyrelse: fabr. Karl-Axel Eriksson\n(ordf.), hönsfarmare Sven Daleflod, fabr.\nG. Axel Eriksson.\n\nVerkst. dir.: Karl-Axel Eriksson.\n\n\"A. Erik Eriksson, Byggnadsfirman,\n\nStockholm.\n\nByggnadsentreprenörfirma för\nbostads-och affärshus, industribyggnader m. m.\n\nKontor: Brunkebergsg. 10. Telefon:\n112679 o. 112697. Postgiro: 193860. —\nFirman etabl. 1943.\nÄgare o. chef: ing. A. Erik Eriksson.\n\n\"AB. A. K. Eriksson,\n\nMariannelund.\n\nMek. verkstad och snickerifabrik i\nMariannelund (Jönköp. l.). Tillverkar\nmaskiner för klingsågindustrien såsom\nstockbänkar, enkla och dubbla kantverk,\nbalanskapsågar, långvedskapsågar och\nklyvsågar samt lyftblock och lyft\nanordningar, hydrauliska pressar och\nlimpå-strykningsmaskiner. Varumärke: »AKE».\n\nTelegr.-adr.: Akeverken, Mariannelund.\nTelefon: 40 o. 140. Postgiro: 91030, —\nAkt.-kap.: 100,000 kr. Antal industriarb.:\n40. Tillv.-värde pr år: 900,000 kr. —\nFirman etabl. 1917, bolag 1937.\n\n132*",
+    "structured": {
+        "1": {
+            "name": "Eriksson & Co., Möbelfabriken Standard",
+            "location": "Norrköping",
+            "business": "Möbelfabrik",
+            "products": "Tillverkar möbler",
+            "contact": {
+                "office": "Standard, Norrköping",
+                "postgiro": "30700",
+                "sales_offices": [
+                    {
+                        "location": "Norrköping",
+                        "phone": "XXXXXXX"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "60,000 kr",
+                "employees": {
+                    "industriarb": 45
+                },
+                "annual_turnover": "1,200,000 kr",
+                "annual_production_value": "1,200,000 kr"
+            },
+            "foundation_year": 1939,
+            "board": [
+                {
+                    "name": "Ragnar Flygt",
+                    "role": "direktör (ordförande)"
+                },
+                {
+                    "name": "Gustaf Lindqvist",
+                    "role": "disponent"
+                },
+                {
+                    "name": "R. Strand",
+                    "role": "direktör"
+                }
+            ]
+        },
+        "2": {
+            "name": "Erikson & Larson",
+            "location": "Borås",
+            "business": "Herrkonfektionsfabrik",
+            "products": "Tillverkar arbetskläder och trikåvaror",
+            "contact": {
+                "office": "Borås",
+                "postgiro": "30700"
+            },
+            "financials": {
+                "capital": "3,037,000 kr",
+                "employees": {
+                    "industriarb": 420
+                },
+                "annual_turnover": "Unknown",
+                "annual_production_value": "Unknown"
+            },
+            "foundation_year": 1892,
+            "board": [
+                {
+                    "name": "Knut N. Jansson",
+                    "role": "direktör (ordförande)"
+                },
+                {
+                    "name": "fru A. Erikson",
+                    "role": "Unknown"
+                },
+                {
+                    "name": "G. Hedelin",
+                    "role": "kamrer"
+                },
+                {
+                    "name": "fru Siri Larson",
+                    "role": "Unknown"
+                },
+                {
+                    "name": "Edvard Nordström",
+                    "role": "disponent"
+                }
+            ]
+        },
+        "3": {
+            "name": "Eriksson & Larssons Felbhattfabrik",
+            "location": "Eskilstuna",
+            "business": "Felbhatttillverkning",
+            "products": "Tillverkar felbhattar",
+            "contact": {
+                "office": "Eskilstuna",
+                "phone": "32294",
+                "postgiro": "76334"
+            },
+            "financials": {
+                "annual_production_value": "80,000 kr"
+            },
+            "foundation_year": 1925,
+            "owners": [
+                "hattmakare David Eriksson",
+                "hattmakare Martin Larsson"
+            ]
+        },
+        "4": {
+            "name": "AB. Eriksson & Starks Mek. Verkstad",
+            "location": "Ulvsunda",
+            "business": "Mekanisk verkstad",
+            "products": "Tillverkar genomskriftapparater, märkningsmaskiner, oljereningsapparater",
+            "contact": {
+                "office": "Ulvsunda, Stockholm",
+                "phone": [
+                    "256133",
+                    "259466"
+                ],
+                "postgiro": "13429"
+            },
+            "financials": {
+                "capital": "30,000 kr",
+                "employees": {
+                    "industriarb": 23
+                },
+                "annual_turnover": "345,000 kr"
+            },
+            "foundation_year": 1914,
+            "board": [
+                {
+                    "name": "fabr. Tyko Stark",
+                    "role": "verkställande direktör"
+                }
+            ]
+        },
+        "5": {
+            "name": "Axel Erikssons Instrumentfirma",
+            "location": "Göteborg",
+            "business": "Instrumenttillverkning",
+            "products": "Tillverkar instrument",
+            "contact": {
+                "office": "Göteborg"
+            }
+        },
+        "6": {
+            "name": "Axel Eriksson & Co. Snickeri AB",
+            "location": "Dala-Floda",
+            "business": "Snickeri",
+            "products": "Tillverkar byggnadssnickerier, köksinredningar, möbler",
+            "contact": {
+                "office": "Dala-Floda",
+                "phone": "120"
+            },
+            "financials": {
+                "capital": "5,000 kr",
+                "employees": {
+                    "industriarb": 10
+                },
+                "annual_production_value": "100,000 kr"
+            },
+            "foundation_year": 1945
+        },
+        "7": {
+            "name": "A. Erik Eriksson, Byggnadsfirman",
+            "location": "Stockholm",
+            "business": "Byggnadsentreprenör",
+            "products": "Bygger bostads- och affärshus, industribyggnader",
+            "contact": {
+                "office": "Stockholm",
+                "phone": [
+                    "112679",
+                    "112697"
+                ],
+                "postgiro": "193860"
+            },
+            "owner": "ing. A. Erik Eriksson",
+            "foundation_year": 1943
+        },
+        "8": {
+            "name": "AB. A. K. Eriksson",
+            "location": "Mariannelund",
+            "business": "Mekanisk verkstad och snickerifabrik",
+            "products": "Tillverkar maskiner för klingsågindustrin, lyftanordningar",
+            "contact": {
+                "office": "Mariannelund",
+                "phone": [
+                    "40",
+                    "140"
+                ],
+                "postgiro": "91030"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 40
+                },
+                "annual_production_value": "900,000 kr"
+            },
+            "foundation_year": 1917
+        }
+    }
+}

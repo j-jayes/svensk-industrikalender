@@ -1,0 +1,135 @@
+{
+    "original": "Gävle—Götam otore v\n\nStyrelse: bankdir. Gunnar Hedberg\n(ordi.), disp. Per A. Hedlund,\ngeneralkonsul Curt Wirström.\n\nVerkst. dir.: Per A. Hedlund.\n\nKontorschef: Bruno Oljelund.\n\nGävle.\n\n*Cefle Yelocipedfabrik AB., Gävle.\n\nTillverkar velocipeder.\n\nTelefon: 7110. Postgiro: 15336. —\nAkt.-kap.: 225,000 kr. Antal industriarb.:\n20. — Firman etabl. 1911, bolag 1943.\n\nStyrelse o. verkst. dir.: Edvin\nPettersson.\n\n*AB. Gävle Åkerredskap, Gävle.\n\nSe AB. Arvika-Verken, Arvika.\n\nGävle.\n\n*Gefle Angväfveri AB., Gävle.\n\nVäveri med färgeri och appreturverk.\nTillverkar ylle- och sidenvävnader,\nylle-och bomullsflaggduk.\n\nTelegr.-adr. o. telefon: Ångväfveriet,\nGävle. Postgiro: 9552.\n\nAkt.-kap.: 1,500,000 kr. Antal\nindustriarb.: 430. — Bolaget grundat 1862.\n\nStyrelse: disp. Hugo Muller (ordf.),\ndir. Gustaf Delin, disp. Halvar Mark.\n\nVerkst. dir. o. disp.: Hugo Muller.\n\nDriftsing.: F. I dre.\n\nGävleborg.\n\nGefleborgs Tryckeri AB.,\n\nGävle.\n\nBok-, accidens- och tidningstryckeri,\nlitograf isk anstalt, offsettryckeri,\nbok-binderi samt förlagsrörelse. Utför\nbok-och offsettryck, litografiskt tryck och\nbok-binderiarbeten; tillverkar självkiistrande\nbrevkort (»Gevalia») samt utger\ntidningen »Norrlands-Posten»—»Gefle\nPosten».\n\nTelefon: 7000. Postgiro: 7696. —\nAkt.-kap.: 330,000 kr. Antal industriarb.: 63.\n— Tryckeriet grundat 1761.\n\nVerkst. dir.: Helge Svensson.\n\n*Göstad Tegelbruk, Ljusfors.\n\nTillverkar tegelrör, tak- och murtegel\nvid tegelbruk i Ljusfors (Östergötl. l.).\n\nKontor: Ljusfors. Telefon: Vånga 65.\n\nAntal industriarb.: 20. Tillv.-värde pr\når: 115,000 kr. — Firman etabl. 1936.\n\nÄgare: godsäg. Hugo Drangel (Horn).\n\nFörest.: Harry Saäf.\n\n\"Göta Bruk, Manufakturverket,\n\nMalmö.\n\nSe Manufakturverket Göta Bruk AB.,\nMalmö.\n\n*Cöta Chokladfabrik,\n\nGöteborg.\n\nSe AB. Göteborgs Choklad- &amp;\nKonfekt-fabrik, Göteborg.\n\nAB. Göta Förnicklingsfabrik,\n\nStockholm.\n\nUtför slipuing, förnickling,\nförkrom-ning, oxidering, kadmiering, förtenning,\nförsilvring samt patineringar.\n\nKontor: Regeringsg. 86. Telefon:\n111161 o. 214185. Postgiro: 57111. —\nAkt.-kap.: 50,000 kr. Antal industriarb.:\n25. Tillv.-värde pr år: 250,000 kr. —\nBolaget grundat 1934.\n\nVerkst. dir.: Georg Ericsson.\n\n*Göta, Läderfabriks AB., Örebro.\n\nSe Nya Läderfabriks AB. Göta, Örebro.\n\nGöta, AB. Maskinfabriken,\n\nStockholm.\n\nSe AB. Maskinfabriken Göta,\nStockholm.\n\n\"Göta, Möbelfabriken,\n\nVärnamo.\n\nSe Möbelfabriken Göta AB., Värnamo.\n\n\"Göta, Sulfit AB-, Göta.\n\nSe Sulfit AB. Göta, Göta.\n\n*AB. Götaindustrier, Älvängen.\n\nSe AB. Göteborgs Skeppssnickeri,\nGöteborg.\n\n*AB. Götamotorer, Osby.\n\nMek. verkstad i Osby (Kristianst. l.).\nTillverkar bensin- och fotogenmotorer,\nkompressorer, armatur samt utför\nmekaniska arbeten.\n\nTelegr.-adr.: Götamotorer, Osby.\nTelefon: 25. Postgiro: 163327. — Akt.-kap.:\n8,100 kr. Antal industriarb.: 20. —\nBolaget grundat 1928.\n\nStyrelse: disp. Bror Färe (ordf.),\nbankdir. G. Aspegren, fru L. Färe.\n\nVerkst. dir.: Bror Färe.",
+    "structured": {
+        "1": {
+            "name": "Cefle Yelocipedfabrik AB.",
+            "location": "Gävle",
+            "business": "Tillverkar velocipeder",
+            "contact": {
+                "phone": [
+                    "7110"
+                ],
+                "postgiro": "15336"
+            },
+            "financials": {
+                "capital": "225,000 kr",
+                "employees": {
+                    "industriarb": 20
+                },
+                "foundation_year": 1911,
+                "corporation_year": 1943
+            }
+        },
+        "2": {
+            "name": "AB. Gävle Åkerredskap",
+            "location": "Gävle",
+            "business": "Se AB. Arvika-Verken, Arvika"
+        },
+        "3": {
+            "name": "Gefle Angväfveri AB.",
+            "location": "Gävle",
+            "business": "Väveri med färgeri och appreturverk. Tillverkar ylle- och sidenvävnader, ylle-och bomullsflaggduk",
+            "contact": {
+                "telegraph": "Ångväfveriet, Gävle",
+                "phone": "Telefon: Ångväfveriet, Gävle",
+                "postgiro": "9552"
+            },
+            "financials": {
+                "capital": "1,500,000 kr",
+                "employees": {
+                    "industriarb": 430
+                },
+                "foundation_year": 1862
+            }
+        },
+        "4": {
+            "name": "Gefleborgs Tryckeri AB.",
+            "location": "Gävle",
+            "business": "Bok-, accidens- och tidningstryckeri, litografisk anstalt, offsettryckeri, bok-binderi samt förlagsrörelse. Utför bok-och offsettryck, litografiskt tryck och bok-binderiarbeten; tillverkar självkiistrande brevkort (»Gevalia») samt utger tidningen »Norrlands-Posten»—»Gefle Posten»",
+            "contact": {
+                "phone": [
+                    "7000"
+                ],
+                "postgiro": "7696"
+            },
+            "financials": {
+                "capital": "330,000 kr",
+                "employees": {
+                    "industriarb": 63
+                },
+                "foundation_year": 1761
+            }
+        },
+        "5": {
+            "name": "Göstad Tegelbruk",
+            "location": "Ljusfors",
+            "business": "Tillverkar tegelrör, tak- och murtegel vid tegelbruk i Ljusfors (Östergötl. l.)",
+            "contact": {
+                "phone": "Telefon: Vånga 65"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 20
+                },
+                "annual_production_value": "115,000 kr",
+                "foundation_year": 1936
+            },
+            "owners": [
+                "godsäg. Hugo Drangel (Horn)"
+            ],
+            "manager": "Förest.: Harry Saäf"
+        },
+        "6": {
+            "name": "Göta Förnicklingsfabrik",
+            "location": "Stockholm",
+            "business": "Utför slipuing, förnickling, förkrom-ning, oxidering, kadmiering, förtenning, försilvring samt patineringar",
+            "contact": {
+                "office": "Regeringsg. 86",
+                "phone": [
+                    "111161",
+                    "214185"
+                ],
+                "postgiro": "57111"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 25
+                },
+                "annual_production_value": "250,000 kr",
+                "foundation_year": 1934
+            },
+            "director": "Verkst. dir.: Georg Ericsson"
+        },
+        "7": {
+            "name": "AB. Götamotorer",
+            "location": "Osby",
+            "business": "Mek. verkstad i Osby (Kristianst. l.). Tillverkar bensin- och fotogenmotorer, kompressorer, armatur samt utför mekaniska arbeten",
+            "contact": {
+                "telegraph": "Götamotorer, Osby",
+                "phone": "Telefon: 25",
+                "postgiro": "163327"
+            },
+            "financials": {
+                "capital": "8,100 kr",
+                "employees": {
+                    "industriarb": 20
+                },
+                "foundation_year": 1928
+            },
+            "board": [
+                {
+                    "name": "disp. Bror Färe",
+                    "role": "ordf."
+                },
+                {
+                    "name": "bankdir. G. Aspegren"
+                },
+                {
+                    "name": "fru L. Färe"
+                }
+            ],
+            "director": "Verkst. dir.: Bror Färe"
+        }
+    }
+}

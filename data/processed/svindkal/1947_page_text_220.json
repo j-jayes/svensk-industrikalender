@@ -1,0 +1,254 @@
+{
+    "original": "Bröderna\n\nTelefon: 40058 o. 40145. Postgiro:\n77328.\n\nAkt.-kap.: 25,000 kr. Antal industriarb.:\n20. Tillv.-värde pr år: 100,000 kr. —\nFirman etabl. 1917, bolag 1936.\nVerJcst. dir.: Gustaf Tysklind.\n\n* Bröderna Wahl AB., Falköping.\n\nSnickerifabrik. Tillverkar likkistor.\nTelefon: 148 o. 1148. Postgiro: 26146.\nAkt.-kap.: 250,000 kr. Antal\nindustriarb.: 70. Tillv.-värde pr år: 900,000 kr.\n\n—\tFirman etabl. 1878, bolag 1939.\nStyrelse: disp. Ernst Grahn, dir. Fri-\n\ndolf Karlsson, fru Sofia Karlsson.\n\nVerkst. dir.: Fridolf Karlsson\n(Sor-sele).\n\nDisp.: Ernst Grahn.\nKontorschef: Axel Grahn.\n\nBröderna Walfridson, Nässjö.\n\nMetallvarufabrik. Tillverkar\nsanitets-armatur m. m.\n\nTelefon: 84. Postgiro: 23188. —\nArb.-antal: 12. Tillv.-värde pr år: 100,000 kr.\n\n—\tFirman etabl. 1899.\n\nÄgare o. chefer: fabr. Henry\nWalfridson o. fabr. Sven Walfridson.\n\nAB. Bröderna Wallins\nKonservfabrik, Göteborg.\n\nTillverkar fisk- och grönsakskonserver.\nSpecialiteter: fiskbullar, fiskpudding,\nkaviar, sardiner, makrill och ärter.\nVarumärke: »Bohus Konserver».\n\nKontor: Skärgårdsg. 1. Telegr.-adr.:\nBohuskonserv, Göteborg. Telefon: 143401\n129058 o. 144075. Postgiro: 40988.\nFör-säljn.-kontor i Stockholm, Essingestråket\n14; telefon: 534530.\n\nAkt.-kap.: 120,000 kr. Antal\nindustriarb.: 75. — Firman etabl. 1924, bolag\n1936.\n\nVerkst. dir.: David Wallin.\n\nBröderna Wallins Mek. Sten huggeri,\n\nÄlmhult.\n\nTillverkar gravvårdar och granitråblock\nvid stenhuggeri i Älmhult (Kronob. l.)\nm. fl. platser.\n\nTelegr.-adr.: Stenexport, Älmhult.\nTelefon: 36 o. 215. Postgiro: 88508. —\nAntal industriarb.: 80. Prod.-värde pr år:\n900,000 kr. — Firman etabl. 1904.\n\nÄgare: disp. Sture Wallin, ing. Sven\nWallin o. fru Amanda Wallin.\n\n*Bröderna Wallins Nysilverfabrik,\n\nLidköping.\n\nSe Kommanditbolaget Bröderna\nWallins Nysilverfabrik, Lidköping.\n\nBröderna Westin, Karamell- &amp;\nKonfektfabrik AB., Gävle.\n\nTillverkar karameller och tabletter.\nSpecialitet: Menthol Eucalyptuspastiller.\n\nTelegr.-adr.: Bonbon, Gävle. Telefon:\n2564. Postgiro: 9620. — Akt.-kap.:\n150,000 kr. Antal industriarb.: 20.\nTillv.-värde pr år: 350,000 kr. — Firman etabl.\n1917, bolag 1937.\n\nChefer: fabr. Albert Westin o. fabr.\nGunnar Westin.\n\nBröderna Wibell, Eskilstuna.\n\nSmidesverkstad. Tillverkar\nskruvtvin-gar och limknektar, bågfilställ,\ngrindlås, lövsågbågar m. m.\n\nTelefon: 32142. Postgiro: 80858. —\nAntal industriarb.: 20. Tillv.-värde pr år:\n350,000 kr. — Firman etabl. 1924.\n\nÄgare o. chef: fabr. Harry Wibell.\n\n*AB. Bröderna Wigells Stolfabrik,\n\nMalmbäck.\n\nStolfabrik i Malmbäck (Jönköp. l.).\nTillverkar pinnstolar, möbelstolar,\nradiobord m. m.\n\nTelefon: 8. Postgiro: 27882. —\nAkt.-kap.: 100,000 kr. Antal industriarb.: 30.\nTillv.-värde pr år: 300,000 kr. — Firman\netabl. 1865, bolag 1917.\n\nStyrelse: disp. Gustav Svensson (ordf.),\nmålarmäst. Bertil Gustavsson, snickare\nEbbe Wigell.\n\nDisp.: Gustav Svensson.\n\n* Bröderna Wiggmans Möbelfabrik,\n\nKrylbo.\n\nTillverkar möbler vid fabrik i Krylbo\n(Kopparb. l.).\n\nTelefon: 1358. Postgiro: 132200. —\nAntal industriarb.: 26. Tillv.-värde pr år:\n260,000 kr. — Fabriken anlagd 1908.\n\nÄgare o. chefer: fabr. A. Paul\nWigg-man o. fabr. Aron Wiggman.\n\n\"Bröderna Wiklunds Byggnads AB.,\n\nStockholm.\n\nByggnadsentreprenörfirma för\nbostadshus, industribyggnader, broar och\nvattenbyggnader m. m.",
+    "structured": {
+        "1": {
+            "name": "Bröderna Wahl AB.",
+            "location": "Falköping",
+            "business": "Snickerifabrik",
+            "products": "Tillverkar likkistor.",
+            "contact": {
+                "office": null,
+                "phone": [
+                    "148",
+                    "1148"
+                ],
+                "postgiro": "26146"
+            },
+            "financials": {
+                "capital": "250,000 kr",
+                "employees": {
+                    "industriarb.": 70
+                },
+                "annual_production_value": "900,000 kr"
+            },
+            "foundation_year": 1878,
+            "corporation_year": 1939,
+            "board": [
+                {
+                    "name": "Ernst Grahn",
+                    "role": "disp."
+                },
+                {
+                    "name": "Fridolf Karlsson",
+                    "role": "dir."
+                },
+                {
+                    "name": "Sofia Karlsson",
+                    "role": "fru"
+                }
+            ],
+            "director": "Gustaf Tysklind",
+            "original_name": null
+        },
+        "2": {
+            "name": "Bröderna Walfridson",
+            "location": "Nässjö",
+            "business": "Metallvarufabrik",
+            "products": "Tillverkar sanitets-armatur m. m.",
+            "contact": {
+                "office": null,
+                "phone": [
+                    "84"
+                ],
+                "postgiro": "23188"
+            },
+            "financials": {
+                "employees": {
+                    "antal": 12
+                },
+                "annual_production_value": "100,000 kr"
+            },
+            "foundation_year": 1899,
+            "corporation_year": null,
+            "owners": [
+                "Henry Walfridson",
+                "Sven Walfridson"
+            ],
+            "original_name": null
+        },
+        "3": {
+            "name": "AB. Bröderna Wallins Konservfabrik",
+            "location": "Göteborg",
+            "business": "Tillverkar fisk- och grönsakskonserver",
+            "products": "Specialiteter: fiskbullar, fiskpudding, kaviar, sardiner, makrill och ärter. Varumärke: »Bohus Konserver».",
+            "contact": {
+                "office": "Skärgårdsg. 1",
+                "phone": [
+                    "143401",
+                    "129058",
+                    "144075"
+                ],
+                "postgiro": "40988",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "534530"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "120,000 kr",
+                "employees": {
+                    "industriarb.": 75
+                }
+            },
+            "foundation_year": 1924,
+            "corporation_year": 1936,
+            "director": "David Wallin",
+            "original_name": null
+        },
+        "4": {
+            "name": "Bröderna Wallins Mek. Stenhuggeri",
+            "location": "Älmhult",
+            "business": "Tillverkar gravvårdar och granitråblock",
+            "contact": {
+                "office": null,
+                "phone": [
+                    "36",
+                    "215"
+                ],
+                "postgiro": "88508"
+            },
+            "financials": {
+                "employees": {
+                    "antal": 80
+                },
+                "annual_production_value": "900,000 kr"
+            },
+            "foundation_year": 1904,
+            "corporation_year": null,
+            "owners": [
+                "Sture Wallin",
+                "Sven Wallin",
+                "Amanda Wallin"
+            ],
+            "original_name": null
+        },
+        "5": {
+            "name": "Bröderna Westin, Karamell- & Konfektfabrik AB.",
+            "location": "Gävle",
+            "business": "Tillverkar karameller och tabletter",
+            "products": "Specialitet: Menthol Eucalyptuspastiller.",
+            "contact": {
+                "office": null,
+                "phone": [
+                    "2564"
+                ],
+                "postgiro": "9620"
+            },
+            "financials": {
+                "capital": "150,000 kr",
+                "employees": {
+                    "industriarb.": 20
+                },
+                "annual_production_value": "350,000 kr"
+            },
+            "foundation_year": 1917,
+            "corporation_year": 1937,
+            "owners": [
+                "Albert Westin",
+                "Gunnar Westin"
+            ]
+        },
+        "6": {
+            "name": "Bröderna Wibell",
+            "location": "Eskilstuna",
+            "business": "Smidesverkstad",
+            "products": "Tillverkar skruvtvingar och limknektar, bågfilställ, grindlås, lövsågbågar m. m.",
+            "contact": {
+                "office": null,
+                "phone": [
+                    "32142"
+                ],
+                "postgiro": "80858"
+            },
+            "financials": {
+                "employees": {
+                    "antal": 20
+                },
+                "annual_production_value": "350,000 kr"
+            },
+            "foundation_year": 1924,
+            "corporation_year": null,
+            "owners": [
+                "Harry Wibell"
+            ]
+        },
+        "7": {
+            "name": "AB. Bröderna Wigells Stolfabrik",
+            "location": "Malmbäck",
+            "business": "Tillverkar pinnstolar, möbelstolar, radiobord m. m.",
+            "contact": {
+                "office": null,
+                "phone": [
+                    "8"
+                ],
+                "postgiro": "27882"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb.": 30
+                },
+                "annual_production_value": "300,000 kr"
+            },
+            "foundation_year": 1865,
+            "corporation_year": 1917,
+            "board": [
+                {
+                    "name": "Gustav Svensson",
+                    "role": "disp."
+                },
+                {
+                    "name": "Bertil Gustavsson",
+                    "role": "målarmäst."
+                },
+                {
+                    "name": "Ebbe Wigell",
+                    "role": "snickare"
+                }
+            ],
+            "director": null,
+            "original_name": null
+        },
+        "8": {
+            "name": "Bröderna Wiggmans Möbelfabrik",
+            "location": "Krylbo",
+            "business": "Tillverkar möbler",
+            "contact": {
+                "office": null,
+                "phone": [
+                    "1358"
+                ],
+                "postgiro": "132200"
+            },
+            "financials": {
+                "employees": {
+                    "antal": 26
+                },
+                "annual_production_value": "260,000 kr"
+            },
+            "foundation_year": 1908,
+            "corporation_year": null,
+            "owners": [
+                "A. Paul Wiggman",
+                "Aron Wiggman"
+            ]
+        },
+        "9": {
+            "name": "Bröderna Wiklunds Byggnads AB.",
+            "location": "Stockholm",
+            "business": "Byggnadsentreprenörfirma",
+            "products": "för bostadshus, industribyggnader, broar och vattenbyggnader m. m..",
+            "contact": {
+                "office": null,
+                "phone": null,
+                "postgiro": null
+            },
+            "financials": null,
+            "foundation_year": null,
+            "corporation_year": null,
+            "manager": null
+        }
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "original": "Grumme—Gruvön\n\n\"AB. Grumme &amp; Son, Stockholm.\n\nKem.-teknisk fabrik. Tillverkar tvål,\nsåpa, tvätt-, skur-, puts- och polermedel,\nparfymer, kosmetiska och antiseptiska\nartiklar, V. Rosendahls Filipstads-Bläck,\nklister, tusch m. m. Varunamn: »Tre\nKronor», »Sana» m. fl.\n\nKontor: östgötag. 52. Telegr.-adr.:\nGrumme, Stockholm. Telefon: 440260.\nPostgiro: 2421.\n\nAkt.-kap.: 1,800,000 kr. Antal\nindustriarb.: 60. Tillv.-värde pr år: 2,500,000 kr.\n\nFirman etabl, 1882, bolag 1911.\nSysterfirmor till bolaget äro Hy lin &amp; Co.\nFabriks AB. och Albin Lenhardtsons\nStomatolfabrik.\n\nStyrelse: ing. O. Ed. Grumme (ordf.),\nkontorschef Curt Aspegrén, ing,\nFerdinand Grumme.\n\nVerkst. dir.: O. Ed. Grumme.\n\nKontors- o. försäljn.-chef: Curt\nAspegrén.\n\nGrundbergs Mek. Verkstads AB.,\n\nTrollhättan.\n\nTillverkar hydrauliska presspumpar\nsamt skostift (tacks).\n\nTelefon: 12560. Postgiro: 33888. —\nAkt.-kap.: 210,000 kr. Antal\nindustriarb.: 50. Tillv.-värde pr år: 500,000 kr.\n— Firman etabl. 1906, bolag 1917.\n\nStyrelse: kanalinsp. Simon Lindqvist\n(ordf.), ing. Arthur Bergström, lokförare\nC. Arvid Pettersson.\n\nVerkst. dir.: Arthur Bergström.\n\nGrundéns Regnklädersfabriks AB.,\n\nGrundsund.\n\nTillverkar regnkläder vid fabrik i\nGrundsund (Göteb. o. Bohus l.).\nVarumärke: »Skeppet».\n\nTelefon: »Regnklädersfabriken».\nPostgiro: 33479. — Akt.-kap.: 75,000 kr.\nAntal industriarb.: 30. Tillv.-värde pr år:\n500,000 kr. — Firman etabl. 1*927, bolag\n1944.\n\nVerkst. dir.: Carl Grunden.\n\nDisp.: Olof Grundén.\n\nKamrer: Åke Grundén.\n\nGruv, Gruf.\n\n*Gruf AB. Dafarne,Fcäun.\n\nJärnmalmsgruvor med anriknings- och\nsintringsverk vid Rämshyttan samt\njärnmalmsgruvor vid Gonäs (båda i Kopparb.\n1.). Bryter, anrikar och sintrar järnmalm.\nBolaget driver även skogsrörelse.\n\nTelegr.-adr. o. telefon: Bergslaget,\nFalun. — Akt.-kap.: 1,000,000 kr. Antal\nindustriarb.: 130. Prod.-värde pr år:\n1,000,000 kr.\n\nBolaget grundat 1901. Stora\nKopparbergs Bergslags AB. är huvudintressent i\nbolaget.\n\nStyrelse: disp. Ejnar Rodling (ordf.),\ndir. Gösta Frisell, dir. Karl Rutberg.\n\nVerkst. dir.: Ejnar Rodling.\n\nPlatsförvaltn. i Rämshyttan: kamrer\nV. Wahlberg.\n\n\"Gruf AB. Lekomberg, Sörvik.\n\nJärnmalmsgruvor i Lekombergs-,\nKall-botten- och Sörviksfälten samt\nanrikningsverk i Lekomberg (Kopparb. l.).\nBryter och anrikar järnmalm.\n\nKontor: Sörvik. Telegr.-adr.:\nLekom-berggruvan, Ludvika. Telefon: Ludvika\n5 o. 14. Postgiro: 167507.\n\nAkt.-kap.: 1,000,000 kr. Antal\nindustriarb.: 220. Prod.-värde pr år: 3,035,000 kr.\n— Bolaget grundat 1910.\n\nStyrelse: dir. H. Hennemann (ordf.),\nadv. Nils Högberg.\n\nVerkst. dir.: H. Hennemann.\n\nDriftsing.: R. Göst.\n\nKamrer: E. Hedström.\n\n\"Grufve AB. Långban, Långlan.\n\nGruvor och anrikningsverk vid\nLångban (Värml. l.). Bryter och anrikar\njärn-och manganmalm samt dolomit, som även\nfinmales.\n\nTelefon: Filipstad 167. Postgiro:\n89940. — Akt.-kap.: 345,000 kr. Antal\nindustriarb.: 80. Prod.-värde pr år: 600,000\nkr. — Bolaget grundat 1885. Uddeholms\nAB. är huvudintressent i bolaget.\n\nStyrelse: disp. Nils Danielsen (ordf.),\ndisp. Thorsten Wigelius (v. ordf.), disp.\nJ. G. H. Weslien.\n\nDisp.: J. G. H. Weslien.\n\n\"Gruf AB. Stark i Likv., Eåksberg.\n\nSe Håksbergs Nya Gruf AB.,\nHåks-berg.\n\n\"Gruvbolaget Vieille Montagne,\n\nÅmmeberg.\n\nSe Vieille Montagne, Åmmeberg.\n\n\"Gruvöns Sulfatfabrik o.\nPappersbruk, Grums.\n\nSe Billeruds AB., Säffle.",
+    "structured": {
+        "1": {
+            "name": "AB. Grumme & Son",
+            "location": "Stockholm",
+            "business": "Kem.-teknisk fabrik",
+            "products": "Tillverkar tvål, såpa, tvätt-, skur-, puts- och polermedel, parfymer, kosmetiska och antiseptiska artiklar, V. Rosendahls Filipstads-Bläck, klister, tusch m.m.",
+            "contact": {
+                "office": "östgötag. 52",
+                "phone": [
+                    "440260"
+                ],
+                "postgiro": "2421",
+                "telegraph": "Grumme, Stockholm"
+            },
+            "financials": {
+                "capital": "1,800,000 kr",
+                "employees": {
+                    "industriarb": 60
+                },
+                "annual_turnover": "2,500,000 kr",
+                "annual_production_value": "2,500,000 kr"
+            },
+            "foundation_year": 1882,
+            "corporation_year": 1911,
+            "board": [
+                {
+                    "name": "ing. O. Ed. Grumme",
+                    "role": "ordf."
+                },
+                {
+                    "name": "kontorschef Curt Aspegrén",
+                    "role": "ing."
+                },
+                {
+                    "name": "ing. Ferdinand Grumme",
+                    "role": ""
+                }
+            ],
+            "director": "O. Ed. Grumme",
+            "sales_manager": "Curt Aspegrén"
+        },
+        "2": {
+            "name": "Grundbergs Mek. Verkstads AB.",
+            "location": "Trollhättan",
+            "business": "Tillverkar hydrauliska presspumpar samt skostift (tacks)",
+            "contact": {
+                "phone": [
+                    "12560"
+                ],
+                "postgiro": "33888"
+            },
+            "financials": {
+                "capital": "210,000 kr",
+                "employees": {
+                    "industriarb": 50
+                },
+                "annual_turnover": "500,000 kr",
+                "annual_production_value": "500,000 kr"
+            },
+            "foundation_year": 1906,
+            "corporation_year": 1917,
+            "board": [
+                {
+                    "name": "kanalinsp. Simon Lindqvist",
+                    "role": "ordf."
+                },
+                {
+                    "name": "ing. Arthur Bergström",
+                    "role": ""
+                },
+                {
+                    "name": "lokförare C. Arvid Pettersson",
+                    "role": ""
+                }
+            ],
+            "director": "Arthur Bergström"
+        },
+        "3": {
+            "name": "Grundéns Regnklädersfabriks AB.",
+            "location": "Grundsund",
+            "business": "Tillverkar regnkläder vid fabrik i Grundsund (Göteb. o. Bohus l.)",
+            "products": "Varumärke: »Skeppet»",
+            "contact": {
+                "phone": [
+                    "Regnklädersfabriken"
+                ],
+                "postgiro": "33479"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_production_value": "500,000 kr"
+            },
+            "foundation_year": 1927,
+            "corporation_year": 1944,
+            "director": "Carl Grunden",
+            "managing_director": "Olof Grundén",
+            "sales_manager": "Åke Grundén"
+        },
+        "4": {
+            "name": "Gruf AB. Dafarne",
+            "location": "Fäun",
+            "business": "Järnmalmsgruvor med anriknings- och sintringsverk vid Rämshyttan samt järnmalmsgruvor vid Gonäs (båda i Kopparb. 1.)",
+            "contact": {
+                "telegraph": "Bergslaget, Falun"
+            },
+            "financials": {
+                "capital": "1,000,000 kr",
+                "employees": {
+                    "industriarb": 130
+                },
+                "annual_production_value": "1,000,000 kr"
+            },
+            "foundation_year": 1901,
+            "board": [
+                {
+                    "name": "disp. Ejnar Rodling",
+                    "role": "ordf."
+                },
+                {
+                    "name": "dir. Gösta Frisell",
+                    "role": ""
+                },
+                {
+                    "name": "dir. Karl Rutberg",
+                    "role": ""
+                }
+            ],
+            "director": "Ejnar Rodling"
+        },
+        "5": {
+            "name": "Gruf AB. Lekomberg",
+            "location": "Sörvik",
+            "business": "Järnmalmsgruvor i Lekombergs-, Kall-botten- och Sörviksfälten samt anrikningsverk i Lekomberg (Kopparb. l.)",
+            "contact": {
+                "telegraph": "Lekom-berggruvan, Ludvika",
+                "phone": [
+                    "Ludvika 5 o. 14"
+                ],
+                "postgiro": "167507"
+            },
+            "financials": {
+                "capital": "1,000,000 kr",
+                "employees": {
+                    "industriarb": 220
+                },
+                "annual_production_value": "3,035,000 kr"
+            },
+            "foundation_year": 1910,
+            "board": [
+                {
+                    "name": "dir. H. Hennemann",
+                    "role": "ordf."
+                },
+                {
+                    "name": "adv. Nils Högberg",
+                    "role": ""
+                }
+            ],
+            "director": "H. Hennemann"
+        },
+        "6": {
+            "name": "Grufve AB. Långban",
+            "location": "Långlan",
+            "business": "Gruvor och anrikningsverk vid Långban (Värml. l.)",
+            "products": "Bryter och anrikar järn-och manganmalm samt dolomit, som även finmales",
+            "contact": {
+                "phone": [
+                    "Filipstad 167"
+                ],
+                "postgiro": "89940"
+            },
+            "financials": {
+                "capital": "345,000 kr",
+                "employees": {
+                    "industriarb": 80
+                },
+                "annual_production_value": "600,000 kr"
+            },
+            "foundation_year": 1885,
+            "board": [
+                {
+                    "name": "disp. Nils Danielsen",
+                    "role": "ordf."
+                },
+                {
+                    "name": "disp. Thorsten Wigelius",
+                    "role": "v. ordf."
+                },
+                {
+                    "name": "disp. J. G. H. Weslien",
+                    "role": ""
+                }
+            ],
+            "director": "J. G. H. Weslien"
+        }
+    }
+}

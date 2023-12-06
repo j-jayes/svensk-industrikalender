@@ -1,0 +1,219 @@
+{
+    "original": "Bröderna\n\nBröderna Petersson, Forsheda.\n\nSe Forshedaverken, Bröderna\nPetersson, Forsheda.\n\nBröderna Pettersson &amp; Co.,\n\nKlädesholmen.\n\nSe Marstrandsfjordens Konservfabrik,\nBröderna Pettersson &amp; Co., Klädesholmen.\n\n*Bröderna Pettersson, N. Petterssons\n\nSnickerifabrik, Hestra.\n\nSe N. Petterssons Snickerifabrik,\nBröderna Pettersson, Hestra.\n\n*Bröderna Peterssons\nSnickerifabrik, Skillingaryd.\n\nTillverkar möbler vid fabrik i\nSkillinga-ryd (Jönköp. l.).\n\nTelefon: 66. — Arb.-antal: 7. —\nFirman etabl. 1910.\n\nÄgare o. chef: fabr. J. Albert Petersson.\n\nBröderna Sandberg, Hallabro.\n\nTillverkar bobiner och träleksaker vid\nsvarveri i Bälganet, Hallabro (Blekinge l.).\n\nTelefon: Bälganet 1. Postgiro: 165621.\n— Antal industriarb.: 30. Tillv.-värde pr\når: 200,000 kr. — Firman etabl. 1910.\n\nÄgare o. chef: fabr. Janne Sandberg.\n\nBröderna Sandberg, Mek. Verkstad,\n\nKumla.\n\nTillverkar halmpressar samt delar och\ntillbehör till dyl. m. m. vid mek. verkstad\ni Kumla (Örebro l.).\n\nTelefon: 70113. Postgiro: 28311. —\nAntal industriarb.: 10. Tillv.-värde pr år:\n115,000 kr. — Firman etabl. 1898.\n\nÄgare o. chef: fabr. Einar Sandberg.\n\n* Bröderna Sandbäck AB., Ljusdal.\n\nTillverkar byggnadssnickerier och\nköksinredningar vid snickerifabrik i Ljusdal\n(Gävleb. l.). Bolaget driver även\nbyggnads- och rörledningsverksamhet.\n\nTelefon: 1740. Postgiro: 10854. —\nAkt.-kap.: 25,000 kr. Antal industriarb.:\n16. — Firman etabl. 1929, bolag 1939.\n\nStyrelse: dir. Jonas Sandbäck (ordf.),\nkamrer Mårten Sandbäck, disp. Per\nSandbäck.\n\nVerkst. dir.: Jonas Sandbäck.\n\nDisp.: Per Sandbäck.\n\n*\tBröderna Sandstens Tryckeri,\n\nGöteborg.\n\nUtför boktryck och bokbinderiarbeten.\n\nKontor: N. Larmg. 5. Telefon: 117816\no. 134150. Postgiro: 41583. — Arb.-antal:\n15. Tillv.-värde pr år: 250,000 kr. —\nFirman etabl. 1917.\n\nÄgare o. chef: boktryckare Eric\nSandsten.\n\n*\tBröderna Sandströms Skidfabrik,\n\nAB., Stochholm.\n\nSkidfabrik i Lindesberg. Tillverkar\nskidor, skidstavar, kastspjut, diskusskivor,\nbandy- och hockeyklubbor.\n\nKontor: Stockholm, S:t Paulsg. 13.\nTelegr.-adr.: Exportski, Stockholm.\nTelefon: 440810. Postgiro: 3499.\n\nAkt.-kap.: 400,000 kr. Antal\nindustriarb.: 85. Tillv.-värde pr år: 650,000 kr.\n— Firman etabl. 1910, bolag 1927.\n\nStyrelse: fabr. Albert Sandström, fabr.\nAlfred Sandström, disp. Arne Sandström,\nherr Bertil Sandström, fröken Gull\nSandström, herr Gösta Sandström.\n\nVerkst. direktörer: Alfred Sandström\no. Albert Sandström.\n\nBröderna Skoogs Motorfabrik,\n\nBorlänge.\n\nMek. verkstad i Borlänge (Kopparb.\n1.). Tillverkar bensin- och\nfotogenmotorer för marina och stationära ändamål.\nVarumärke: »Solo».\n\nTelegr.-adr.: Motorfabriken, Borlänge.\nTelefon: 10269. Postgiro: 24772. Antal\nindustriarb.: 75. — Firman etabl. 1908.\n\nÄgare o. chef: fabr. Aron Skoog.\n\nKontorschef: Einar Skoog.\n\nDriftsing.: Harry Skoog.\n\n*\tBröderna Sparring’s\nKassaskåpsfabrik AB., Stockholm.\n\nTillverkar kassaskåp, branddörrar,\narkiv- och biblioteksinredningar m. m.\n\nKontor: Brännerig. 5. Telefon: 417467\no. 415315. Postgiro: 51077. — Akt.-kap.:\n15,000 kr. Antal industriarb.: 25. —\nFirman etabl. 1929, bolag 1936.\n\nStyrelse o. verkst. dir.: Birger Sparring.\n\n*\tBröderna Stern, Konfektions AB.,\n\nNorrköping.\n\nSe Konfektions AB. Bröderna Stern,\nNorrköping.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Bröderna Pettersson & Co.",
+                "location": "Klädesholmen",
+                "business": "Konservfabrik",
+                "contact": {
+                    "office": "Se Marstrandsfjordens Konservfabrik, Bröderna Pettersson & Co., Klädesholmen."
+                },
+                "foundation_year": 0
+            },
+            {
+                "name": "Bröderna Pettersson",
+                "location": "Hestra",
+                "business": "Snickerifabrik",
+                "contact": {
+                    "office": "Se N. Petterssons Snickerifabrik, Bröderna Pettersson, Hestra."
+                },
+                "foundation_year": 1910,
+                "owners": [
+                    "J. Albert Petersson"
+                ]
+            },
+            {
+                "name": "Bröderna Peterssons Snickerifabrik",
+                "location": "Skillingaryd",
+                "business": "Möbeltillverkning",
+                "contact": {
+                    "phone": [
+                        "66"
+                    ],
+                    "office": "Tillverkar möbler vid fabrik i Skillinga-ryd (Jönköp. l.)."
+                },
+                "foundation_year": 1910,
+                "owners": [
+                    "J. Albert Petersson"
+                ]
+            },
+            {
+                "name": "Bröderna Sandberg",
+                "location": "Hallabro",
+                "business": "Tillverkar bobiner och träleksaker",
+                "contact": {
+                    "office": "Tillverkar bobiner och träleksaker vid svarveri i Bälganet, Hallabro (Blekinge l.).",
+                    "phone": "Bälganet 1",
+                    "postgiro": "165621"
+                },
+                "foundation_year": 1910,
+                "owners": [
+                    "Janne Sandberg"
+                ]
+            },
+            {
+                "name": "Bröderna Sandberg",
+                "location": "Kumla",
+                "business": "Tillverkar halmpressar och delar",
+                "contact": {
+                    "office": "Tillverkar halmpressar samt delar och tillbehör till dyl. m. m. vid mek. verkstad i Kumla (Örebro l.).",
+                    "phone": "70113",
+                    "postgiro": "28311"
+                },
+                "foundation_year": 1898,
+                "owners": [
+                    "Einar Sandberg"
+                ]
+            },
+            {
+                "name": "Bröderna Sandbäck AB.",
+                "location": "Ljusdal",
+                "business": "Byggnadssnickerier och köksinredningar",
+                "contact": {
+                    "phone": "1740",
+                    "postgiro": "10854"
+                },
+                "financials": {
+                    "capital": "25,000 kr",
+                    "employees": {
+                        "industriarb": 16
+                    }
+                },
+                "foundation_year": 1929,
+                "board": [
+                    {
+                        "name": "Jonas Sandbäck",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Mårten Sandbäck",
+                        "role": "kamrer"
+                    },
+                    {
+                        "name": "Per Sandbäck",
+                        "role": "disp."
+                    }
+                ],
+                "owners": [
+                    "Jonas Sandbäck"
+                ],
+                "director": "Jonas Sandbäck",
+                "managing_director": "Jonas Sandbäck"
+            },
+            {
+                "name": "Bröderna Sandstens Tryckeri",
+                "location": "Göteborg",
+                "business": "Utför boktryck och bokbinderiarbeten",
+                "contact": {
+                    "office": "Kontor: N. Larmg. 5.",
+                    "phone": [
+                        "117816",
+                        "134150"
+                    ],
+                    "postgiro": "41583"
+                },
+                "financials": {
+                    "employees": {
+                        "arb-antal": 15
+                    }
+                },
+                "foundation_year": 1917,
+                "owners": [
+                    "Eric Sandsten"
+                ],
+                "director": "Eric Sandsten"
+            },
+            {
+                "name": "Bröderna Sandströms Skidfabrik, AB.",
+                "location": "Stockholm",
+                "business": "Tillverkar skidor, skidstavar, kastspjut",
+                "contact": {
+                    "office": "Kontor: Stockholm, S:t Paulsg. 13.",
+                    "telegraph": "Exportski, Stockholm",
+                    "phone": "440810",
+                    "postgiro": "3499"
+                },
+                "financials": {
+                    "capital": "400,000 kr",
+                    "employees": {
+                        "industriarb": 85
+                    }
+                },
+                "foundation_year": 1910,
+                "board": [
+                    {
+                        "name": "Albert Sandström",
+                        "role": "fabr."
+                    },
+                    {
+                        "name": "Alfred Sandström",
+                        "role": "fabr."
+                    },
+                    {
+                        "name": "Arne Sandström",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Bertil Sandström",
+                        "role": "herr"
+                    },
+                    {
+                        "name": "Gull Sandström",
+                        "role": "fröken"
+                    },
+                    {
+                        "name": "Gösta Sandström",
+                        "role": "herr"
+                    }
+                ],
+                "director": "Alfred Sandström, Albert Sandström"
+            },
+            {
+                "name": "Bröderna Skoogs Motorfabrik",
+                "location": "Borlänge",
+                "business": "Tillverkar bensin- och fotogenmotorer",
+                "contact": {
+                    "office": "Telegr.-adr.: Motorfabriken, Borlänge.",
+                    "phone": "10269",
+                    "postgiro": "24772"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 75
+                    }
+                },
+                "foundation_year": 1908,
+                "owners": [
+                    "Aron Skoog"
+                ],
+                "manager": "Einar Skoog",
+                "sales_manager": "Harry Skoog"
+            },
+            {
+                "name": "Bröderna Sparring’s Kassaskåpsfabrik AB.",
+                "location": "Stockholm",
+                "business": "Tillverkar kassaskåp, branddörrar, arkiv-",
+                "contact": {
+                    "office": "Kontor: Brännerig. 5.",
+                    "phone": [
+                        "417467",
+                        "415315"
+                    ],
+                    "postgiro": "51077"
+                },
+                "financials": {
+                    "capital": "15,000 kr",
+                    "employees": {
+                        "industriarb": 25
+                    }
+                },
+                "foundation_year": 1929,
+                "owners": [
+                    "Birger Sparring"
+                ],
+                "director": "Birger Sparring"
+            }
+        ]
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "original": "Byggnad\n\nKrogh, civiling. Sten Liibeck, kapten Sten\nRudberg.\n\nVerkst. dir.: Hans Krogh.\n\nV. verkst. dir.: Sten Liibeck.\n\nTehn. chef: Einar Almström.\n\n*Byggnads AB. Bror Eriksson, Visby.\n\nEntreprenadfirma för bostads- och\nfabriksbyggnader, tunnel- och\nbergrums-anläggningar.\n\nTelefon: 1491, 2031 o. 2491. Postgiro:\n189911. — Akt.-kap.: 100,000\nkr.—Prod.-värde pr år: 2,000,000 kr. — Firman\netabl. 1933, bolag 1945.\n\nStyrelse: dir. C.-E. Degerman (ordf.),\ning. Bror Eriksson, byggm. Arthur L.\nPersson.\n\nVerkst. dir.: Bror Eriksson.\n\nArbetschef: Arthur L. Persson.\n\nKamrer: Carl-Bertil Stenström.\n\n*Byggnads AB. Hallström &amp; Nisses,\n\nSundsvall.\n\nByggnadsentreprenörfirma för\nbostads-och affärshus, industribyggnader samt\nför väg- och vattenbyggnadsarbeten.\n\nTelefon: »Efallström &amp; Nisses».\nPostgiro: 82009. — Akt.-kap.: 400,000 kr.\nProd.-värde pr år: 12,000,000 kr. —\nFirman etabl. 1929, bolag 1944.\n\nStyrelse: rådman G. Veländer (ordf.),\nmajor Per Hallström, byggnadsing.\nAnders Nisses.\n\nVerkst. direktörer: Anders Nisses o.\nPer Hallström.\n\nKamrer: Sven Backmann.\n\nKonstruktionschefer: för väg o.\nvatten-byggnadsavd.: civiling. Åke Skoglund;\nför husbyggnadsavd.: byggnadsing.\nKarl-Axel Svenningson.\n\n* Byggnads AB. Ernst Järnfelt,\n\nGöteborg,\n\nSe Ernst Järnfelt, Byggnads AB.,\nGöteborg.\n\n*Byggnads AB. Konstruktör,\n\nGävle.\n\nKonstruerar och utför\nfabriksbyggnader, vattenverksbyggnader, bro- och\nkaj-byggnader, grundläggningar m. m.\n\nTelegr.-adr.: Konstruktör, Gävle.\nTelefon: 8100. Postgiro: 263488.\n\nAkt.-kap.: 150,000 kr. Omsättn.-värde\npr år: 5,800,000 kr. —- Bolaget grundat\n1914.\n\nStyrelse o. verkst. dir.: civiling. Justus\nF. Hjorth.\n\n* Byggnads AB. V. Ltljenberg,\n\nHörby.\n\nByggnadsentreprenörfirma i Hörby\n(Malmöh. l.) för industri- och\nbostadsbyggnader, väg- och brobyggnader,\nmaskingrävning, vatten- och\navloppsledningar, cementgjuteri och snickerifabrik.\n\nTelefon: »Liljenbergs». . Postgiro:\n163599. — Akt.-kap.: 75,000 kr.\nProd.-värde pr år: 3,000,000 kr. — Firman\netabl. 1890, bolag 1944.\n\nStyrelse: byggm. Viktor Liljenberg\n(ordf.), ing. Gunnar Liljenberg, fru Ida\nLiljenberg.\n\nVerkst. dir.: Viktor Liljenberg.\n\nArbetschef: Gunnar Liljenberg.\n\nKamrer: Arvid Lundin.\n\n*Byggnads AB. Aug. Netz,\n\nLinköping.\n\nByggnadsentreprenörfirma för\nbostads-och affärshus, industribyggnader m. m.\n\nTelefon: 21077 o. 20477. Postgiro:\n82382.\n\nAkt.-kap.: 80,000 kr. Prod.-värde pr åy:\n2,000,000 kr. — Firman etabl. 1912,\nbolag 1934.\n\nStyrelse: ing. Helge Netz (ordf.),\nkamrer David Billeson, arkitekt Olow Nétz.\n\nVerkst. dir.: Helge Netz.\n\nKamrer: David Billeson.\n\n*Byggnads AB. Oscar Ohlson, Borås.\n\nByggnadsentreprenörfirma för\nbostads-och affärshus, industribyggnader m, m.\n\nTelefon: 10077. Postgiro: 133962. —\nAkt.-kap.: 165,000 kr. Prod.-värde pr år:\n3,000,000 kr. — Firman etabl. 1899, bolag\n1931.\n\nStyrelse: ing. Oscar Ohlson (ordf.),\nv. konsul Knut Evers, disp. Nils M.\nFriden, ana jor N. A. Svensson.\n\nVerkst. dir.: Oscar Ohlson.\n\n*Byggnads AB. Svenska Betong,\n\nLinköping.\n\nByggnadsentreprenörfirma för\nhusbyggnader, industribyggnader, bro- och\nvattenbyggnader.\n\nTelegr.-adr.: Sveabetong, Linköping.\nTelefon: 24798 o. 27398. Postgiro: 130402.\n\nAkt.-kap.: 25,000 kr. Prod.-värde år\n1942: 1,190,000 kr. — Firman etabl. 1926\nunder namn AB. Stabilisator, nuv. namn\n1936.\n\nStyrelse: kapten David Hesser, dir.\nAlexius Kleist, dir. Olof Sahlin.\nVerkst. dir.: David Hesser.\nArbetschef: ing. Erik Bergsten.\n\n",
+    "structured": {
+        "1": {
+            "name": "Byggnads AB",
+            "location": "Visby",
+            "business": "Entreprenadfirma för bostads- och fabriksbyggnader, tunnel- och bergrums-anläggningar",
+            "contact": {
+                "phone": [
+                    "1491",
+                    "2031",
+                    "2491"
+                ],
+                "postgiro": "189911"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "annual_turnover": "2,000,000 kr",
+                "annual_production_value": "2,000,000 kr"
+            },
+            "foundation_year": 1933,
+            "corporation_year": 1945,
+            "board": [
+                {
+                    "name": "C.-E. Degerman",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Bror Eriksson",
+                    "role": "ing."
+                },
+                {
+                    "name": "Arthur L. Persson",
+                    "role": "byggm."
+                }
+            ],
+            "director": "Bror Eriksson",
+            "sales_manager": "Arthur L. Persson"
+        },
+        "2": {
+            "name": "Byggnads AB",
+            "location": "Sundsvall",
+            "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader samt för väg- och vattenbyggnadsarbeten",
+            "contact": {
+                "phone": "Efallström & Nisses",
+                "postgiro": "82009"
+            },
+            "financials": {
+                "capital": "400,000 kr",
+                "annual_turnover": "12,000,000 kr",
+                "annual_production_value": "12,000,000 kr"
+            },
+            "foundation_year": 1929,
+            "corporation_year": 1944,
+            "board": [
+                {
+                    "name": "G. Veländer",
+                    "role": "rådman"
+                },
+                {
+                    "name": "Per Hallström",
+                    "role": "major"
+                },
+                {
+                    "name": "Anders Nisses",
+                    "role": "byggnadsing."
+                }
+            ],
+            "director": "Anders Nisses",
+            "sales_manager": "Per Hallström"
+        },
+        "3": {
+            "name": "Byggnads AB",
+            "location": "Göteborg",
+            "original_name": "Ernst Järnfelt",
+            "description": "Se Ernst Järnfelt, Byggnads AB., Göteborg"
+        },
+        "4": {
+            "name": "Byggnads AB",
+            "location": "Gävle",
+            "description": "Konstruerar och utför fabriksbyggnader, vattenverksbyggnader, bro- och kaj-byggnader, grundläggningar m. m.",
+            "contact": {
+                "telegraph": "Konstruktör, Gävle",
+                "phone": "8100",
+                "postgiro": "263488"
+            },
+            "financials": {
+                "capital": "150,000 kr",
+                "annual_production_value": "5,800,000 kr"
+            },
+            "foundation_year": 1914
+        },
+        "5": {
+            "name": "Byggnads AB",
+            "location": "Hörby",
+            "business": "Byggnadsentreprenörfirma i Hörby (Malmöh. l.) för industri- och bostadsbyggnader, väg- och brobyggnader, maskingrävning, vatten- och avloppsledningar, cementgjuteri och snickerifabrik",
+            "contact": {
+                "phone": "Liljenbergs",
+                "postgiro": "163599"
+            },
+            "financials": {
+                "capital": "75,000 kr",
+                "annual_production_value": "3,000,000 kr"
+            },
+            "foundation_year": 1890,
+            "corporation_year": 1944,
+            "board": [
+                {
+                    "name": "Viktor Liljenberg",
+                    "role": "byggm."
+                },
+                {
+                    "name": "Gunnar Liljenberg",
+                    "role": "ing."
+                }
+            ],
+            "director": "Viktor Liljenberg",
+            "sales_manager": "Gunnar Liljenberg"
+        },
+        "6": {
+            "name": "Byggnads AB",
+            "location": "Linköping",
+            "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+            "contact": {
+                "phone": [
+                    "21077",
+                    "20477"
+                ],
+                "postgiro": "82382"
+            },
+            "financials": {
+                "capital": "80,000 kr",
+                "annual_production_value": "2,000,000 kr"
+            },
+            "foundation_year": 1912,
+            "corporation_year": 1934,
+            "board": [
+                {
+                    "name": "Helge Netz",
+                    "role": "ing."
+                },
+                {
+                    "name": "David Billeson",
+                    "role": "kamrer"
+                },
+                {
+                    "name": "Olow Nétz",
+                    "role": "arkitekt"
+                }
+            ],
+            "director": "Helge Netz"
+        },
+        "7": {
+            "name": "Byggnads AB",
+            "location": "Borås",
+            "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m, m.",
+            "contact": {
+                "phone": "10077",
+                "postgiro": "133962"
+            },
+            "financials": {
+                "capital": "165,000 kr",
+                "annual_production_value": "3,000,000 kr"
+            },
+            "foundation_year": 1899,
+            "corporation_year": 1931,
+            "board": [
+                {
+                    "name": "Oscar Ohlson",
+                    "role": "ing."
+                },
+                {
+                    "name": "Knut Evers",
+                    "role": "v. konsul"
+                },
+                {
+                    "name": "Nils M. Friden",
+                    "role": "disp."
+                }
+            ],
+            "director": "Oscar Ohlson"
+        },
+        "8": {
+            "name": "Byggnads AB",
+            "location": "Linköping",
+            "business": "Byggnadsentreprenörfirma för husbyggnader, industribyggnader, bro- och vattenbyggnader",
+            "contact": {
+                "telegraph": "Sveabetong, Linköping",
+                "phone": [
+                    "24798",
+                    "27398"
+                ],
+                "postgiro": "130402"
+            },
+            "financials": {
+                "capital": "25,000 kr",
+                "annual_production_value": "1,190,000 kr"
+            },
+            "foundation_year": 1926,
+            "current_name_year": 1936,
+            "board": [
+                {
+                    "name": "David Hesser",
+                    "role": "kapten"
+                },
+                {
+                    "name": "Alexius Kleist",
+                    "role": "dir."
+                },
+                {
+                    "name": "Olof Sahlin",
+                    "role": "dir."
+                }
+            ],
+            "director": "David Hesser"
+        }
+    }
+}

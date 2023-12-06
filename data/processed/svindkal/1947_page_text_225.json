@@ -1,0 +1,89 @@
+{
+    "original": "Byggnadsfirman—Byske\n\n\"Byggnadsfirman F. C. Larsson,\n\nStockholm.\n\nSe F. G. Larsson, Stockholm.\n\n\"Byggnadsfirman Algot Lindgren,\n\nStockholm.\n\nSe Algot Lindgren, Stockholm.\n\n\"Byggnadsfirman Gottfr. Lindgren,\n\nUppsala.\n\nSe Gottfr. Lindgren, Uppsala.\n\n\"Byggnadsfirman Nils Nessen, AB.,\n\nStockholm.\n\nSe Nils Nessen AB., Byggnadsfirman,\nStockholm.\n\n\"Byggnadsfirman Anders Nevsten\nAB., Malmö.\n\nSe Anders Nevsten AB., Malmö.\n\n\"Byggnadsfirman Gottfrid Nilsson,\n\nMalmö:\n\nSe Gottfrid Nilsson, Malmö.\n\n\"Byggnadsfirman Åke Nilsson,\n\nMalmö.\n\nSe Åke Nilsson, Malmö.\n\n\"Byggnadsfirman Ivan B. Person,\n\nStockholm.\n\nSe Ivan B. Person, Stockholm.\n\n\"Byggnadsfirman F. 0. Peterson &amp;\nSöner, Göteborg.\n\nSe F. O. Peterson &amp; Söner, Göteborg.\n\n\"\"Byggnadsfirman Edvin Rundlöf,\n\nStockholm.\n\nSe Edvin Rundlöf, Stockholm.\n\n* Byggnadsfirman Zetterberg AB.,\n\nStockholm.\n\nSe Zetterberg AB., Byggnadsfirman,\nStockholm.\n\n\"Byggnadsingenjör «l. E. Liljegren\nAB., Malmö.\n\nByggnadsentreprenörfirma för betong-,\nväg-, vatten- och husbyggnadsarbeten.\n\nKontor: Djäkneg. 2. Telefon: 71535.\nPostgiro: 149533. — Akt.-kap.: 100,000\nkr. — Firman etabl. 1921, bolag 1945.\n\nStyrelse o. verkst. dir.: byggnadsing. J.\nE. Liljegren.\n\n\"AB. Byggnadsvaror, Stockholm.\n\nUtför taktäckningar, isoleringar,\nplatt-sättningsarbeten m. m. Bolaget driver\nsåsom huvudrörelse handel med\nbygg-nadsmateriel.\n\nKontor: Kungsg. 37. Telegr.-adr.:\nByggvaror, Stockholm. Telefon: 231770.\nPostgiro: 50389.\n\nAkt.-kap.: 150,000 kr. Arb.-antal: 30.\n— Bolaget, grundat 1914, äges av\nUpsala-Ekeby AB., Ekebybruk.\n\nStyrelse: dir. Jonas Arman, civiling.\nO. v. Bahr, disp. Nils V. Sterner.\n\nVerkst. dir.: Nils V. Sterner\n(Ekebybruk).\n\nKontors- o. platschef: disp. Anders\nWidén. ’\n\nAB. Bylanders Damhattfabrik,\n\nMalmö.\n\nTillverkar stråhattar och damfilthattar.\nBolaget driver även engroshandel med\nmodevaror.\n\nKontor: österg. 18. Telefon: 28247.\nPostgiro: 14077. — Akt.-kap.: 75,000 kr.\nAntal industriarb.: 68. Tillv.-värde pr år:\n300,000 kr. — Firman etabl. 1900, bolag\n1906 under namn AB. By länder &amp; Co.,\nnuv. namn 1944.\n\nVerkst. dir.: Albin By länder.\n\n\"Bysjöverken, Kvarnsveden.\n\nSågverk, kolugnar och kem. fabriker\nvid Kvarnsveden (Kopparb. l.).\nTillverkar sågade och hyvlade trävaror. Driften\nvid kolugnarna f. n. nedlagd.\n\nFörsäljningen sker genom Störa\nKopparbergs Bergslags AB., Falun. Telefon:\n»Bergslaget», Falun. — Antal\nindustriarb.: 275. — Verken, anlagda 1920—22,\nägas av Stora Kopparbergs Bergslags AB.\n(Se detta bolag.)\n\nChef: fil. dr Ragnar Söderquist.\n\nPlatschef: ing. C. F. Sernander.\n\nFörsäljn.-chefer (Falun): för trävaror:\ndirektör H. G. Gullander; för\nbiprodukter: intendent Bo Stenberg.\n\n\"Byske Trämassefabrik, Byske.\n\nSe Munksunds AB., Luleå.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Byggnadsfirman F. C. Larsson",
+                "location": "Stockholm",
+                "predecessor": "F. G. Larsson",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman Algot Lindgren",
+                "location": "Stockholm",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman Gottfr. Lindgren",
+                "location": "Uppsala",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman Nils Nessen, AB.",
+                "location": "Stockholm",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman Anders Nevsten AB.",
+                "location": "Malmö",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman Gottfrid Nilsson",
+                "location": "Malmö",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman Åke Nilsson",
+                "location": "Malmö",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman Ivan B. Person",
+                "location": "Stockholm",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman F. 0. Peterson & Söner",
+                "location": "Göteborg",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman Edvin Rundlöf",
+                "location": "Stockholm",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsfirman Zetterberg AB.",
+                "location": "Stockholm",
+                "business": "Byggnadsfirman"
+            },
+            {
+                "name": "Byggnadsingenjör «l. E. Liljegren AB.",
+                "location": "Malmö",
+                "business": "Byggnadsentreprenörfirma"
+            },
+            {
+                "name": "AB. Byggnadsvaror",
+                "location": "Stockholm",
+                "business": "Handel med byggnadsmateriel"
+            },
+            {
+                "name": "AB. Bylanders Damhattfabrik",
+                "location": "Malmö",
+                "business": "Tillverkning av stråhattar och damfilthattar"
+            },
+            {
+                "name": "Bysjöverken",
+                "location": "Kvarnsveden",
+                "business": "Sågverk, kolugnar och kem. fabriker"
+            },
+            {
+                "name": "Byske Trämassefabrik",
+                "location": "Byske",
+                "predecessor": "Munksunds AB., Luleå",
+                "business": "Trämassefabrik"
+            }
+        ]
+    }
+}

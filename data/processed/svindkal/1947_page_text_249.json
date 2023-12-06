@@ -1,0 +1,231 @@
+{
+    "original": "Druvan—Dux\n\n*AB. Druvans Attikfabrik,\n\nGöteborg.\n\nTillverkar ättiksprit, senap och soja.\nVarumärken: »Druvan» o.\n»Torsdags-senap».\n\nKontor: Anders Personsg. 18.\nTelegr.-adr.: Solbue, Göteborg. Telefon: 153353\no. 153095. Postgiro: 41317. — Akt.-kap.:\n45,000 kr. Antal industriarb.: 12. Tillv.-\n\nvärde pr år: 800,000 kr. — Firman etabl.\n1925.\n\nStyrelse: dir. Sverre Solbue (ordf.),\ndir. O. Gillholm, konsul O.\nIrgens-Hansen.\n\nVerkst. dir.: Sverre Solbue.\n\nAB. Dräkt- &amp; Kappfabriken,\n\nAlingsås.\n\nTillverkar damkappor och dräkter.\nTelefon: 1516 o. 1517. Postgiro: 266425.\n\n—\tAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 37. Tillv.-värde pr år: 700,000 kr.\n\n—\tFirman etabl. 1942 under namn\nAlingsås Dräkt- och Kappfabrik, nuv.\nnamn och bolag 1946.\n\nChef: fabr. Bertil Tärby.\n\nA. C. Dufva AB., Stockholm.\n\nGuld-, silver- och nysilverfabrik.\nTillverkar guld-, silver- och nysilvervaror.\nSpecialiteter: matsilver och\nrestaurant-artiklar. Varumärke: »Silverdufva».\n\nKontor: Kungsg. 32. Telegr.-adr.:\nSilverdufva, Stockholm. Telefon: 114463 o.\n204278. Postgiro: 1560. Bolaget driver\njämväl detaljhandel genom åtta egna\nminutaffärer i Stockholm.\n\nAkt.-kap.: 400,000 kr. — Firman etabl.\n1847, bolag 1930.\n\nStyrelse: dir. K. Folke Janson (ordf.),\ndir. H. B. Hintze, fru Göta Kullberg,\njur. kand. Carl Sigvard Roos.\n\nVerkst. dir.: fru G. Kullberg.\n\n\"’Josef Dufwenberg AB., Motala.\n\nByggnadsentreprenörfirma och\ncement-gjuteri. Utför vägbyggnads- och\nvägbe-läggningsarbeten, brobyggnader och\nfabriksbyggnader samt tillverkar\navloppsrör och kulvertar, trappsteg, stagplattor,\npool-block samt »stenotolgolv».\n\nTelefon: 507 o. 514. Postgiro: 141900.\n— Akt.-kap.: 100,000 kr. — Bolaget\ngrundat 1918.\n\nStyrelse: stadsfiskal Conrad Sterner\n(ordf.), ing. Erik Dufwenberg, ing! Josef\nDufwenberg.\n\nVerkst. dir.: Josef Dufwenbergv\nKamrer: Jacob Pettersson.\nArbetsledare: Ragnar Pettersson, Erik\nDufwenberg o. Olov Nilsson.\n\n*And. Dunder, Stockholm.\n\nByggnadsentreprenörfirma för\nbostads-och affärshus, industribyggnader m. m.\n\nKontor: Kammakarg. 25. Telefon:\n232410. Postgiro: 55583. — Prod.-värde\npr år: 6,500,000 kr. — Firman etabl. 1927.\nÄgare o. chef: byggm. And. Dunder.\n\nDuplikatorfabriken Svedup, Svenska,\n\nSolna.\n\nSe Svedup, Svenska\nDuplikatorfabriken, Solna.\n\n*AB. Durotapet, Hagaström.\n\nTapetfabrik vid Hagaström (Gävleb. l.).\nTillverkar tvättbara och ljusäkta\ntapeter samt limfärgstapeter. Varumärken:\n»Duro», »Duro-Lyx» o. »Plastik».\n\nHuvudkontor: Hagaström. Telegr.-adr.:\nWallpapper, Gävle. Telefon: Gävle 4930—\n31 o. 4999. Postgiro: 3070. Avd.-kontor:\nStockholm, Grevtureg. 7, telefon: 600657\no. 600659.\n\nAkt.-kap.: 300,000 kr. Antal\nindustriarb.: 50. —- Firman etabl. 1930 under\nnamn Tapetfabriks AB. Centrum, nuv.\nnamn 1933.\n\nStyrelse: dir. Lennart Norström (ordf.),\ndr A. Bernton.\n\nVerkst. dir.: L. Norström.\n\nPlatschef i Hagaström: kamrer Sten\nWahlgren.\n\nAB. Dux, Stockholm.\n\nMek. verkstad. Tillverkar\ntryckerimaskiner såsom arkiläggare och\nstilmetall-matare samt nitmaskiner för\nkartong-och läder industrien. Varumärke: »Dux»,\nKontor: Gävleg. 12 A. Telegr.-adr.:\nFeeder, Stockholm. Telefon: 230365.\nPostgiro: 913.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 400,000 kr.\n\n— Bolaget grundat 1900.\n\n*",
+    "structured": {
+        "1": {
+            "name": "Druvan—Dux AB. Druvans Attikfabrik",
+            "location": "Göteborg",
+            "business": "Tillverkar ättiksprit, senap och soja",
+            "products": "Varumärken: \"Druvan\" o. \"Torsdags-senap\"",
+            "contact": {
+                "office": "Anders Personsg. 18",
+                "phone": [
+                    "153353",
+                    "153095"
+                ],
+                "postgiro": "41317",
+                "telegraph": "Solbue, Göteborg",
+                "factory_office": "Not available",
+                "factory_phone": "Not available"
+            },
+            "financials": {
+                "capital": "45,000 kr",
+                "employees": {
+                    "industriarb": 12
+                },
+                "annual_turnover": "Not available",
+                "annual_production_value": "800,000 kr"
+            },
+            "foundation_year": 1925,
+            "board": [
+                {
+                    "name": "Sverre Solbue",
+                    "role": "ordf."
+                },
+                {
+                    "name": "O. Gillholm",
+                    "role": "Not available"
+                },
+                {
+                    "name": "O. Irgens-Hansen",
+                    "role": "konsul"
+                }
+            ],
+            "director": "Sverre Solbue",
+            "manager": "Not available"
+        },
+        "2": {
+            "name": "AB. Dräkt- & Kappfabriken",
+            "location": "Alingsås",
+            "business": "Tillverkar damkappor och dräkter",
+            "contact": {
+                "phone": [
+                    "1516",
+                    "1517"
+                ],
+                "postgiro": "266425"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 37
+                },
+                "annual_turnover": "Not available",
+                "annual_production_value": "700,000 kr"
+            },
+            "foundation_year": 1942,
+            "current_name_year": 1946,
+            "director": "Not available",
+            "manager": "fabr. Bertil Tärby"
+        },
+        "3": {
+            "name": "A. C. Dufva AB.",
+            "location": "Stockholm",
+            "business": "Guld-, silver- och nysilverfabrik",
+            "products": "Tillverkar guld-, silver- och nysilvervaror",
+            "contact": {
+                "office": "Kungsg. 32",
+                "phone": [
+                    "114463",
+                    "204278"
+                ],
+                "postgiro": "1560",
+                "factories": "Not available"
+            },
+            "financials": {
+                "capital": "400,000 kr",
+                "annual_turnover": "Not available",
+                "annual_production_value": "Not available"
+            },
+            "foundation_year": 1847,
+            "corporation_year": 1930,
+            "board": [
+                {
+                    "name": "K. Folke Janson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "H. B. Hintze",
+                    "role": "Not available"
+                },
+                {
+                    "name": "fru Göta Kullberg",
+                    "role": "Not available"
+                },
+                {
+                    "name": "Carl Sigvard Roos",
+                    "role": "jur. kand."
+                }
+            ],
+            "director": "Not available",
+            "manager": "Not available"
+        },
+        "4": {
+            "name": "Josef Dufwenberg AB.",
+            "location": "Motala",
+            "business": "Byggnadsentreprenörfirma och cement-gjuteri",
+            "products": "Utför vägbyggnads- och vägbe-läggningsarbeten, brobyggnader och fabriksbyggnader samt tillverkar avloppsrör och kulvertar, trappsteg, stagplattor, pool-block samt \"stenotolgolv\"",
+            "contact": {
+                "phone": [
+                    "507",
+                    "514"
+                ],
+                "postgiro": "141900",
+                "telegraph": "Not available",
+                "factory_office": "Not available",
+                "factory_phone": "Not available"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "annual_turnover": "Not available",
+                "annual_production_value": "Not available"
+            },
+            "foundation_year": 1918,
+            "board": [
+                {
+                    "name": "Conrad Sterner",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Erik Dufwenberg",
+                    "role": "ing."
+                },
+                {
+                    "name": "Josef Dufwenberg",
+                    "role": "ing!"
+                }
+            ],
+            "director": "Josef Dufwenberg",
+            "manager": "Not available"
+        },
+        "5": {
+            "name": "And. Dunder",
+            "location": "Stockholm",
+            "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+            "contact": {
+                "office": "Kammakarg. 25",
+                "phone": [
+                    "232410"
+                ],
+                "postgiro": "55583"
+            },
+            "financials": {
+                "annual_turnover": "6,500,000 kr",
+                "employees": {
+                    "industriarb": 1
+                }
+            },
+            "foundation_year": 1927,
+            "director": "Not available",
+            "manager": "byggm. And. Dunder"
+        },
+        "6": {
+            "name": "AB. Durotapet",
+            "location": "Hagaström",
+            "business": "Tapetfabrik",
+            "products": "Tillverkar tvättbara och ljusäkta tapeter samt limfärgstapeter",
+            "contact": {
+                "office": "Hagaström",
+                "phone": "Gävle 4930— 31 o. 4999",
+                "postgiro": "3070",
+                "factories": "Not available"
+            },
+            "financials": {
+                "capital": "300,000 kr",
+                "employees": {
+                    "industriarb": 50
+                },
+                "annual_turnover": "Not available",
+                "annual_production_value": "Not available"
+            },
+            "foundation_year": 1930,
+            "current_name_year": 1933,
+            "board": [
+                {
+                    "name": "Lennart Norström",
+                    "role": "ordf."
+                },
+                {
+                    "name": "A. Bernton",
+                    "role": "dr"
+                }
+            ],
+            "director": "L. Norström",
+            "manager": "kamrer Sten Wahlgren"
+        },
+        "7": {
+            "name": "AB. Dux",
+            "location": "Stockholm",
+            "business": "Mek. verkstad",
+            "products": "Tillverkar tryckerimaskiner såsom arkiläggare och stilmetall-matare samt nitmaskiner för kartong-och läder industrien",
+            "contact": {
+                "office": "Gävleg. 12 A",
+                "phone": [
+                    "230365"
+                ],
+                "postgiro": "913",
+                "factories": "Not available"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "Not available",
+                "annual_production_value": "400,000 kr"
+            },
+            "foundation_year": 1900,
+            "director": "Not available",
+            "manager": "Not available"
+        }
+    }
+}

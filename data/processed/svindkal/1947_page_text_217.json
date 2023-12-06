@@ -1,0 +1,183 @@
+{
+    "original": "Bröderna\n\nBröderna Miller, Bankeryd.\n\nMetallfabrik i Bankeryd (Jönköp. l.).\nTillverkar möbel- och byggnadsbeslag.\nFirman driver även engroshandel med\njärn- och metallmanufaktur.\n\nTelegr.-adr.: Millers, Bankeryd.\nTelefon: »Bröderna Miller». Postgiro: 31264.\n\n—\tAntal industriarb.: 95. Tillv.-värde pr\når: 2,000,000 kr. — Firman grundad\n1903.\n\nÄgare o. chef: fabr. Einar Miller.\n\nFörsäljn.-chef: Torsten Hansson.\n\nBröderna Modin, Knivsta.\n\nMek. verkstad i Knivsta (Sthlms l.) och\nreparationsverkstad i Uppsala. Tillverkar\nautomatiska drickeshoar för djurstallar,\nfoderhäckar för ladugårdar, tillbehör till\ntraktorer såsom transportringar,\nslirnab-bar m. m. samt utför reparationer av\ntraktorer och lantbruksmaskiner.\n\nTelefon: 190. Postgiro: 26199. —\nAntal industriarb.: 75. — Firman etabl.\n1909.\n\nÄgare o. chef: köpm. Georg Modin.\n\nAvd.-chef i Uppsala: dir. Bror\nAndersson.\n\nBröderna Nilssons Fabriks AB.,\n\nOnslunda.\n\nBorstfabrik och träförädlingsfabrik i\nOnslunda (Kristianst. l.). Tillverkar\nborstar, penslar och kvastar samt leksaker\noch husgerådsartiklar av trä.\n\nTelefon: 46. Postgiro: 11503. —\nAkt.-kap.: 83,000 kr. Antal industriarb.: 75.\nTillv.-värde pr år: 600,000 kr. —\nBorstfabrikationen börjad 1924, bolag 1940.\n\nVerkst. dir.: Erik Bremo.\n\n* Bröderna Nilssons Industrier,\n\nÅsljunga.\n\nTräförädlingsfabrik i Åsljunga\n(Kristianst. l.). Tillverkar korg- och\nslöjdvaror såsom korgar och barnsitsar för\ncyklar, papperskorgar, tevagnar,\nblombord, tidningsställ samt trädgårdsmöbler,\nvilstolar, husgerådsartiklar i trä m. m.\n\nTelefon: 139. Postgiro: 283512.\nRepresentanter i Göteborg: Bengt Carlsson,\nKyrkog. 11, telefon: 138105 och Ragnar\nRydsell, Frödingsg. 8 c, telefon: 193569.\n\n—\tAntal industriarb.: 40. Tillv.-värde pr\når: 200,000 kr. — Firman etabl. 1944.\n\nÄgare: dir. Åke Nilsson o. fabr. Bertil\nNilsson.\n\nChef: Åke Nilsson.\n\n’Bröderna Nilssons Möbelfabrik,\n\nMalilla station.\n\nTillverkar stolar i ek och björk vid\nmöbelfabrik i Målilla (Kalmar l.).\n\nTelefon: Målilla 31. Postgiro: 174817.\n— Arb.-antal: 13. — Firman etabl. 1925.\n\nÄgare o. chefer: fabr. Alrik Nilsson o.\nfabr. Ossian Nilsson.\n\nBröderna Nisser Strumpfabrik,\n\nDjurås.\n\nTillverkar damstrumpor i konst- och\nnatursilke vid fabrik i Djurås (Kopparb.\n1.).\n\nTelefon: 27. Postgiro: 87608. —\nArb.-antal: 10. Tillv.-värde pr år: 130,000 kr.\n— Firman etabl. 1936.\n\nÄgare: fabr. Anders E. Nisser o. fabr.\nErik H. Nisser.\n\nChef: Anders E. Nisser.\n\nBröderna Nyman, Länghem.\n\nTillverkar arbetskläder (blåkläder) vid\nsyfabrik i Länghem (Älvsb. l.).\n\nTelefon: Svenljunga 40003. Postgiro:\n11978. — Antal industriarb.: 50. —\nFirman etabl. 1919.\n\nÄgare o. chefer: fabr. Enar Nyman o.\nfabr. Evert Nyman.\n\n* Bröderna Olssons Skofabrik,\n\nNya Varvet\n\nSkofabrik vid Tranered, Nya Varvet\n(Göteb. o. Bohus l.). Tillverkar durk- och\nsandalsydda herr- och damskodon.\n\nPostadr.: Tranered, Nya Varvet.\nTelefon: Göteborg 290451.\n\nAntal industriarb.: 20. Tillv.-värde pr\når: 235,000 kr. — Firman etabl. 1929\nunder namn F. Olssons Skofabrik, nuv.\nnamn 1945.\n\nÄgare o. chefer: fabr. Fritz Olsson o.\nfabr. Hjalmar Olsson.\n\nAB. Bröderna Ottosson &amp; Co\nLädervarufabrik, Klippan.\n\nTillverkar seldon, grimmor och\nremtyg, presenningar, portföljer,\nkameraväskor samt självbindaredukar vid fabrik\ni Klippan (Kristianst. l.).\n\nTelefon: 696. Postgiro: 72058. —\nAkt.-kap.: 35,000 kr. Antal industriarb.: 20.\nTillv.-värde pr år: 350,000 kr. — Bolaget\ngrundat 1942 under namn Magnussons\nLädervaru AB., nuv. namn 1947.\n\nChefer: fabr. Eric Ottosson o. fabr.\nJohn Ottosson.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Bröderna Miller",
+                "location": "Bankeryd",
+                "business": "Metallfabrik",
+                "products": "Tillverkar möbel- och byggnadsbeslag. Firman driver även engroshandel med järn- och metallmanufaktur.",
+                "contact": {
+                    "telegraph": "Millers, Bankeryd",
+                    "phone": [
+                        "Bröderna Miller"
+                    ],
+                    "postgiro": "31264"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb.": 95
+                    },
+                    "annual_production_value": "2,000,000 kr"
+                },
+                "foundation_year": 1903,
+                "owner": "fabr. Einar Miller",
+                "sales_manager": "Torsten Hansson"
+            },
+            {
+                "name": "Bröderna Modin",
+                "location": "Knivsta",
+                "business": "Mek. verkstad",
+                "products": "Tillverkar automatiska drickeshoar för djurstallar, foderhäckar för ladugårdar, tillbehör till traktorer såsom transportringar, slirnab-bar m. m. samt utför reparationer av traktorer och lantbruksmaskiner.",
+                "contact": {
+                    "phone": "190",
+                    "postgiro": "26199"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb.": 75
+                    }
+                },
+                "foundation_year": 1909,
+                "owner": "köpm. Georg Modin",
+                "manager": "dir. Bror Andersson"
+            },
+            {
+                "name": "Bröderna Nilssons Fabriks AB.",
+                "location": "Onslunda",
+                "business": "Borstfabrik och träförädlingsfabrik",
+                "products": "Tillverkar borstar, penslar och kvastar samt leksaker och husgerådsartiklar av trä.",
+                "contact": {
+                    "phone": "46",
+                    "postgiro": "11503"
+                },
+                "financials": {
+                    "capital": "83,000 kr",
+                    "employees": {
+                        "industriarb.": 75
+                    },
+                    "annual_production_value": "600,000 kr"
+                },
+                "original_name": "Bröderna Nilssons Fabriks AB."
+            },
+            {
+                "name": "Bröderna Nilssons Industrier",
+                "location": "Åsljunga",
+                "business": "Träförädlingsfabrik",
+                "products": "Tillverkar korg- och slöjdvaror såsom korgar och barnsitsar för cyklar, papperskorgar, tevagnar, blombord, tidningsställ samt trädgårdsmöbler, vilstolar, husgerådsartiklar i trä m. m.",
+                "contact": {
+                    "phone": "139",
+                    "postgiro": "283512"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb.": 40
+                    },
+                    "annual_production_value": "200,000 kr"
+                },
+                "owner": {
+                    "director": "Åke Nilsson",
+                    "fabr. Bertil Nilsson": "Åke Nilsson o. fabr. Bertil Nilsson"
+                }
+            },
+            {
+                "name": "Bröderna Nilssons Möbelfabrik",
+                "location": "Malilla station",
+                "business": "Tillverkar stolar i ek och björk",
+                "contact": {
+                    "phone": "Målilla 31",
+                    "postgiro": "174817"
+                },
+                "financials": {
+                    "employees": {
+                        "arb.-antal": 13
+                    }
+                },
+                "foundation_year": 1925,
+                "owner": {
+                    "fabr. Alrik Nilsson": "fabr. Alrik Nilsson o. fabr. Ossian Nilsson"
+                }
+            },
+            {
+                "name": "Bröderna Nisser Strumpfabrik",
+                "location": "Djurås",
+                "business": "Tillverkar damstrumpor i konst- och natursilke",
+                "contact": {
+                    "phone": "27",
+                    "postgiro": "87608"
+                },
+                "financials": {
+                    "employees": {
+                        "arb.-antal": 10
+                    },
+                    "annual_production_value": "130,000 kr"
+                },
+                "foundation_year": 1936,
+                "owner": {
+                    "fabr. Anders E. Nisser": "fabr. Anders E. Nisser o. fabr. Erik H. Nisser"
+                },
+                "manager": "Anders E. Nisser"
+            },
+            {
+                "name": "Bröderna Nyman",
+                "location": "Länghem",
+                "business": "Tillverkar arbetskläder (blåkläder)",
+                "contact": {
+                    "phone": "Svenljunga 40003",
+                    "postgiro": "11978"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb.": 50
+                    }
+                },
+                "foundation_year": 1919,
+                "owner": {
+                    "fabr. Enar Nyman": "fabr. Enar Nyman o. fabr. Evert Nyman"
+                }
+            },
+            {
+                "name": "Bröderna Olssons Skofabrik",
+                "location": "Nya Varvet",
+                "business": "Skofabrik",
+                "products": "Tillverkar durk- och sandalsydda herr- och damskodon.",
+                "contact": {
+                    "postaddr": "Tranered, Nya Varvet",
+                    "phone": "Göteborg 290451"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb.": 20
+                    },
+                    "annual_production_value": "235,000 kr"
+                },
+                "foundation_year": 1929,
+                "current_name_year": 1945,
+                "owner": {
+                    "fabr. Fritz Olsson": "fabr. Fritz Olsson o. fabr. Hjalmar Olsson"
+                }
+            },
+            {
+                "name": "AB. Bröderna Ottosson & Co Lädervarufabrik",
+                "location": "Klippan",
+                "business": "Tillverkar seldon, grimmor och remtyg, presenningar, portföljer, kameraväskor samt självbindaredukar",
+                "contact": {
+                    "phone": "696",
+                    "postgiro": "72058"
+                },
+                "financials": {
+                    "capital": "35,000 kr",
+                    "employees": {
+                        "industriarb.": 20
+                    },
+                    "annual_production_value": "350,000 kr"
+                },
+                "corporation_year": 1942,
+                "current_name_year": 1947,
+                "owner": {
+                    "fabr. Eric Ottosson": "fabr. Eric Ottosson o. fabr. John Ottosson"
+                }
+            }
+        ]
+    }
+}

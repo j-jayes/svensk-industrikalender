@@ -1,0 +1,85 @@
+{
+    "original": "Enköping—Erikslund\n\nChef vid f läktverkstäderna: disp.\nciviling. Gunnar Brynge (Enköping).\n\nTeknisk chef vid f läktverkstäderna:\növering. Seth Engdahl.\n\nVerkstadschef vid f läktverkstäderna:\növering. A. Tilling.\n\nFörsäljn.-chef vid f läktverkstäderna:\ning. T. Olssén.\n\nChef vid Stockholmskontoret: ing. E.\nElgman.\n\nChef vid Hälsingborgskontoret: ing. E.\nNilsson.\n\n*AB. Enköpings Ångbryggeri,\n\nEnköping.\n\nTillverkar malt- och läskedrycker.\n\nTelefon: 713. Postgiro: 90175. —\nAkt.-kap.: 300,000 kr. Antal industriarb.: 16.\n— Bolaget grundat 1887, nuv. namn 1906.\n\nStyrelse: dir. Harald Engström (ordf.),\nsparbanksdir. K. Arosenius.\n\nDisp.: Teodor Carling.\n\n* Entreprenad AB., Svenska,\n\nStockholm.\n\nSe Svenska Entreprenad AB., SENTAB,\nStockholm.\n\n*Eosbolaget, Nässjö.\n\nSe Nya AB. Eos, Nässjö.\n\n*AB. Eresco, Stockholm.\n\nKemisk-teknisk fabrik. Tillverkar\nkosmetiska preparat såsom hårvatten,\nhåroljor, pomador, parfymer, eau de Cologne,\nhudkrämer, hudoljor, läppstift, puder,\npermanentvätskor m. m. samt\nindustriförnödenheter såsom borr- och kyloljor,\nrengörings- och polermedel m. m.\nVarumärken: Femmette, Rakitol, Eresco,\nTiger, Lumex, Supra, Mixtrol, Ov-Oil,\nFra-panto m. fl.\n\nKontor: Jakobsbergsg. 39. Telefon:\n117871 o. 117873. Postgiro: 54794.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 16. — Firman etabl. 1933.\n\nStyrelse o. verkst. dir.: Arnold Ström.\n\n*Ergo, Elektriska AB., Västerås.\nSe Elektriska AB. Ergo, Västerås.\n\nEriksbergs Färgeri AB., Göteborg.\n\nSe Aug. Werner &amp; Co:s Fabriks- &amp;\nHandels AB., Göteborg.\n\n*Eriksbergs Mek. Verkstads AB.,\n\nGöteborg.\n\nSkeppsvarv med tre flytdockor med\nlyftkraft upp till 22,500 ton. Tillverkar\noch reparerar last- och passagerarefartyg,\ndieselmotorer, ångmaskiner och\nångpannor.\n\nTelegr.-adr.: Eriksbergia, Göteborg.\nTelefon: »Eriksbergs Verkstad». Postgiro:\n40779.\n\nAkt.-kap.: 6,000,000 kr. Antal\nindustriarb.: 2,764. — Verkstaden anlagd 1852,\nbolag 1876.\n\nStyrelse: major Herbert Jacobsson\n(ordf.), generalkonsul Axel Jonsson (v.\nordf.), skeppsred. Dan-Axel Broström,\nskeppsred. Tor E. J:son Broström, dir.\nK. R. Bökman, dir. Gunnar Engberg.\n\nVerkst. dir.: Gunnar Engberg.\n\nDir.: Erik Häggström.\n\nFartygsritkontoret: ing. Nils Lindberg.\n\nVarvsing.: E. Håkansson.\n\nMashining.: Arnold Ericsson.\n\nMashinritkontor et: ing. Arne Lindh.\n\nEriksbergs Väveri AB., Kinna.\n\nBomullsväven i Kinna (Älvsb. l.).\nTillverkar allmogegardiner och allmogetyger.\n\nTelefon: 10132. Postgiro: 30747. —\nAkt.-kap.: 175,000 kr. Antal\nindustriarb.: 45. Tillv.-värde pr år: 750,000 kr.\n— Firman etabl. 1920, bolag 1932.\n\nStyrelse: disp. Bertil Erander, ing.\nKarl-Axel Erander, adv. Gunnar\nLagerberg.\n\nVerkst. dir.: Bertil Erander.\n\n*Eriksdals Möbelfabrik, Larsson &amp;\nWallgren, Hjo.\n\nTillverkar möbler samt\nbäddsoffstom-mar och fåtölj stommar.\n\nTelefon: 282. Postgiro: 282440. —\nArb.-antal: 3. Tillv.-värde pr år: 36,000\nkr. — Firman etabl. 1935.\n\nÄgare o. chefer: fabr. Richard Larsson\no. fabr. Bertil Wallgren.\n\nAB. Erikslunds Ångsåg, Erikslund.\n\nSågverk och hyvleri samt trähusfabrik\ni Erikslund (Västernorrl. l.). Tillverkar\nsågade och hyvlade trävaror,\nmonterings-färdiga trähus, sportstugor, baracker,\nstallar m. m.\n\nTelefon: 1 o. 77. Postgiro: 95308.\nEn-samfÖrsälj. av trähus: AB. Norrlandshus,\nÅnge, telefon: 150 (se detta bolag).",
+    "structured": {
+        "0": {
+            "name": "AB. Enköpings Ångbryggeri",
+            "location": "Enköping",
+            "business": "Tillverkar malt- och läskedrycker",
+            "products": "Malt- och läskedrycker",
+            "contact": {
+                "phone": [
+                    "713"
+                ],
+                "postgiro": "90175"
+            },
+            "financials": {
+                "capital": "300,000 kr",
+                "employees": {
+                    "industriarb": 16
+                },
+                "annual_production_value": "N/A"
+            },
+            "foundation_year": 1887,
+            "current_name_year": 1906,
+            "board": [
+                {
+                    "name": "dir. Harald Engström",
+                    "role": "ordf."
+                },
+                {
+                    "name": "sparbanksdir. K. Arosenius",
+                    "role": ""
+                }
+            ]
+        },
+        "1": {
+            "name": "AB. Eresco",
+            "location": "Stockholm",
+            "business": "Kemisk-teknisk fabrik",
+            "products": "Kosmetiska preparat, industriördenheter",
+            "contact": {
+                "phone": [
+                    "117871",
+                    "117873"
+                ],
+                "postgiro": "54794"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 16
+                },
+                "annual_production_value": "N/A"
+            },
+            "foundation_year": 1933,
+            "board": [
+                {
+                    "name": "Arnold Ström",
+                    "role": "verkst. dir."
+                }
+            ]
+        },
+        "2": {
+            "name": "AB. Erikslunds Ångsåg, Erikslund",
+            "location": "Erikslund (Västernorrl. l.)",
+            "business": "Sågverk och hyvleri samt trähusfabrik",
+            "products": "Sågade och hyvlade trävaror, trähus, sportstugor, baracker, stallar",
+            "contact": {
+                "phone": [
+                    "1",
+                    "77"
+                ],
+                "postgiro": "95308"
+            },
+            "financials": {
+                "capital": "N/A",
+                "employees": {
+                    "industriarb": "N/A"
+                },
+                "annual_production_value": "N/A"
+            },
+            "foundation_year": "N/A",
+            "board": []
+        }
+    }
+}

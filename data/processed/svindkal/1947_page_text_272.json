@@ -1,0 +1,221 @@
+{
+    "original": "Eriksson\n\nTelegr.-adri: Fram, Uppsala. Telefon:\n39480. Postgiro: 26135. — Akt.-kap.:\n500,000 kr. Antal industriarb.: 120. —\nBolaget grundat 1908.\n\nStyrelse: grossh. Erik Jonsson, dir. E.\nNissbeck, grossh. Ernst I. Pålsson, ing.\nE. Spanier.\n\nVerkst. dir.: E. Nissbeck.\nVerkstadschef: E. Spanier.\nKamrer: G. Thorgren.\nInköpschef: Curt Holmberg.\n\nJ. R. Ericsson, Instrument- &amp;\nMetallfabrik, Sundbyberg.\n\nTillverkar tandläkar instrument samt\nfiskredskap såsom drag, pirkar, tafsar,\nspinnspön, huggkrokar, undertagshåvar\nm. m.\n\nTelefon: Stockholm 280937. Postgiro:\n33979. — Antal industriarb.: 30.\nTillv.-värde pr år: 250,000 kr. — Firman etabl.\n1931.\n\nÄgare o. chef: fru Agnes Ericsson.\nDriftsing.: Åke Ericsson.\nKamrer: Gösta Ericsson.\n\n*Karl Fr. Erikssons Metallfabriks\nAB., Eskilstuna.\n\nMetallvarufabrik. Tillverkar\nfotogenkök, lödlampor, gruvlampor för karbid\nsamt byggnads- och möbelbeslag.\n\nTelegr.-adr.: Kökfabrik, Eskilstuna.\nTelefon: 30337 o. 31337. Postgiro: 160200.\n\n—\tAkt.-kap.: 189,000 kr. Antal\nindustriarb.: 50. Tillv.-värde pr år: 700,000 kr.\n\n—\tBolaget grundat 1895.\n\nStyrelse: fabr. Wilh. Eriksson (ordf.),\nfröken Birgit Borgedahl, ing. Stig\nBorgedahl, herr Sune Borgedahl, fru Dagny\nBruse.\n\nVerkst. dir.: Wilh. Eriksson.\nDisp.: Stig Borgedahl.\nFörsäljn.-chef: Åke Bengtsson.\n\n*Knut Eriksson &amp; Co., Eskilstuna.\n\nSe Metallfabriks AB. Knut Eriksson\n&amp; Co., Eskilstuna.\n\nK. J. Eriksson, Mora.\n\nTillverkar knivar och saxar vid\nsmides-fabrik i östnor, Mora (Kopparb. l.).\n\nTelefon: 332. Postgiro: 25653. Antal\nindustriarb.: 30. Tillv.-värde pr år:\n350,000 kr. — Firman etabl. 1913.\nÄgare o. chef: fabr. K. Johan Eriksson.\n\n*L. M. Ericsson, Stockholm.\n\nSe Telefon AB. L. M. Ericsson,\nStockholm.\n\nL. M. Ericssons Mätinstrument AB.,\n\nUlvsunda.\n\nTillverkar elektricitetsmätare, elektr.\ninstrument (tavelinstrument och\ntransportabla instrument) samt\ntemperaturregulatorer och ringvågar vid elektromek.\nverkstad i Ulvsunda, Stockholm.\nVarumärke: »Ermi».\n\nKontor: Ranhammarv. 20, postadr.:\nUlvsunda 1. Telegr.-adr.: Elmix,\nStockholm. Telefon: Stockholm 262600.\nPostgiro: 197700.\n\nAkt.-kap.: 1,000,000 kr. Antal\nindustriarb.: 650. Tillv.-värde pr år: 10,000,000\nkr. — Bolaget grundat 1944.\n\nStyrelse: dir. Helge Ericson (ordf.),\nprof. Edy Veländer (v. ordf.), civiling.\nGösta Gerdhem, civiling. Fredrik\nMarkman, dir. Holger Ohlin.\n\nVerkst. dir.: Gösta Gerdhem.\n\nChef för teknik o. försäljn.: Adolf\nDrougge.\n\nVerkstadschef: Albert Nerlén.\n\nKamrer: Helge Avermark.\n\nL. M. Ericssons Signal AB.\n(Signalbolaget), Stockholm.\n\nUtför montage av signal- och\nsäkerhetsanläggningar för järnvägar och\nspårvägar, vägövergångsanläggningar,\nfällboms-anläggningar, gatusignalanläggningar m.\nm. samt försäljer dylik materiel,\ntillverkad av Ericsson-gruppen.\n\nKontor: Midsommarkransen; ^ postadr.:\nStockholm 32. Telegr.-adr.:\nSignalbolaget, Stockholm. Telefon: »LM Ericsson».\nPostgiro: 51341.\n\nAkt.-kap.: 150,000 kr. — Bolaget\ngrundat 1921 under namn Förenade\nSignalverkstädernas Försäljnings AB., nuv.\nnamn 1930.\n\nStyrelse: dir. Åke Nerell (ordf.), dir.\nHemming Johansson, dir. Eric G.\nWin-dahl.\n\nVerkst. dir.: civiling. Håkan\nInsu-lander.\n\n*AB. Matts Eriksson, Hälsingborg.\n\nByggnadsentreprenörfirma för hus- och\nfabriksbyggnader, vatten-, väg- och\nbrobyggnader.\n\nTelefon: 10118, 10148 o. 10418.\nPostgiro: 264440. — Akt.-kap.: 100,000 kr.\nProd.-värde pr år: 2,500,000 kr. -\nFirman etabl. 1917, bolag 1944.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Eriksson",
+                "location": "Uppsala",
+                "contact": {
+                    "telegraph": "Fram, Uppsala",
+                    "phone": [
+                        "39480"
+                    ],
+                    "postgiro": "26135"
+                },
+                "financials": {
+                    "capital": "500,000 kr",
+                    "employees": {
+                        "industriarb": 120
+                    }
+                },
+                "foundation_year": 1908,
+                "board": [
+                    {
+                        "name": "Erik Jonsson",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "E. Nissbeck",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Ernst I. Pålsson",
+                        "role": "grossh."
+                    }
+                ],
+                "director": "E. Nissbeck",
+                "managing_director": "E. Spanier"
+            },
+            {
+                "name": "J. R. Ericsson",
+                "location": "Sundbyberg",
+                "contact": {
+                    "phone": [
+                        "Stockholm 280937"
+                    ],
+                    "postgiro": "33979"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_production_value": "250,000 kr"
+                },
+                "foundation_year": 1931,
+                "owners": [
+                    "fru Agnes Ericsson"
+                ],
+                "director": "Åke Ericsson",
+                "manager": "Gösta Ericsson"
+            },
+            {
+                "name": "Karl Fr. Erikssons Metallfabriks AB.",
+                "location": "Eskilstuna",
+                "contact": {
+                    "telegraph": "Kökfabrik, Eskilstuna",
+                    "phone": [
+                        "30337",
+                        "31337"
+                    ],
+                    "postgiro": "160200"
+                },
+                "financials": {
+                    "capital": "189,000 kr",
+                    "employees": {
+                        "industriarb": 50
+                    },
+                    "annual_turnover": "700,000 kr"
+                },
+                "foundation_year": 1895,
+                "board": [
+                    {
+                        "name": "Wilh. Eriksson",
+                        "role": "fabr."
+                    },
+                    {
+                        "name": "Birgit Borgedahl",
+                        "role": "fröken"
+                    },
+                    {
+                        "name": "Stig Borgedahl",
+                        "role": "ing."
+                    },
+                    {
+                        "name": "Sune Borgedahl",
+                        "role": "herr"
+                    },
+                    {
+                        "name": "Dagny Bruse",
+                        "role": "fru"
+                    }
+                ],
+                "director": "Wilh. Eriksson",
+                "managing_director": "Stig Borgedahl",
+                "sales_manager": "Åke Bengtsson"
+            },
+            {
+                "name": "K. J. Eriksson",
+                "location": "Mora",
+                "contact": {
+                    "phone": [
+                        "332"
+                    ],
+                    "postgiro": "25653"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_production_value": "350,000 kr"
+                },
+                "foundation_year": 1913,
+                "owners": [
+                    "fabr. K. Johan Eriksson"
+                ]
+            },
+            {
+                "name": "L. M. Ericssons Mätinstrument AB.",
+                "location": "Ulvsunda",
+                "contact": {
+                    "telegraph": "Elmix, Stockholm",
+                    "phone": [
+                        "Stockholm 262600"
+                    ],
+                    "postgiro": "197700"
+                },
+                "financials": {
+                    "capital": "1,000,000 kr",
+                    "employees": {
+                        "industriarb": 650
+                    },
+                    "annual_turnover": "10,000,000 kr"
+                },
+                "foundation_year": 1944,
+                "board": [
+                    {
+                        "name": "Helge Ericson",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Edy Veländer",
+                        "role": "prof."
+                    },
+                    {
+                        "name": "Gösta Gerdhem",
+                        "role": "civiling."
+                    },
+                    {
+                        "name": "Fredrik Markman",
+                        "role": "civiling."
+                    },
+                    {
+                        "name": "Holger Ohlin",
+                        "role": "dir."
+                    }
+                ],
+                "director": "Gösta Gerdhem",
+                "sales_manager": "Adolf Drougge",
+                "manager": "Albert Nerlén"
+            },
+            {
+                "name": "L. M. Ericssons Signal AB. (Signalbolaget)",
+                "location": "Stockholm",
+                "contact": {
+                    "telegraph": "Signalbolaget, Stockholm",
+                    "phone": [
+                        "LM Ericsson"
+                    ],
+                    "postgiro": "51341"
+                },
+                "financials": {
+                    "capital": "150,000 kr"
+                },
+                "foundation_year": 1921,
+                "current_name_year": 1930,
+                "board": [
+                    {
+                        "name": "Åke Nerell",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Hemming Johansson",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Eric G. Windahl",
+                        "role": "dir."
+                    }
+                ],
+                "director": "Håkan Insulander"
+            },
+            {
+                "name": "AB. Matts Eriksson",
+                "location": "Hälsingborg",
+                "contact": {
+                    "phone": [
+                        "10118",
+                        "10148",
+                        "10418"
+                    ],
+                    "postgiro": "264440"
+                },
+                "financials": {
+                    "capital": "100,000 kr",
+                    "annual_production_value": "2,500,000 kr"
+                },
+                "foundation_year": 1917,
+                "corporation_year": 1944
+            }
+        ]
+    }
+}

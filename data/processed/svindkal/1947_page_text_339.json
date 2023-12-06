@@ -1,0 +1,178 @@
+{
+    "original": "Göteborg\n\nStyrelse: dir. Gustaf Werner (ordf.),\ndir. Frans H. Nilsson, disp. C. O.\nSmedmark.\n\nVerkst. dir. o. disp.: C. O. Smedmark.\n\n*AB. Göteborgs Kappfabrik,\n\nGöteborg.\n\nTillverkar damkappor och dräkter.\nKontor: N. Hamng. 36. Telefon: 117706\no. 137706. Postgiro: 48805. — Akt.-kap.:\n40,000 kr. Antal industriarb.: 70.\nTillv.-värde pr år: 800,000 kr. — Firman etabl.\n1940, bolag 1944.\n\nDisp.: Henrik Brenner.\nFabrikschef: Ruben Kvart.\n\n*AB. Göteborgs Kapsylfabrik,\n\nGöteborg.\n\nMetall varufabrik. Tillverkar tuber\n(förpacknings-), stanniol, tennplåt,\ntennband, blyfolier, blyplåt, blyband,\nblypackningar, aluminiumhalvfabrikat (plåt,\nband, rondeller etc.), kapsyler, lödtenn i\nband och stänger, babbits, plomber,\nknappar, aluminiumhylsor och -burkar,\nskruvkapsyler, stansade, pressade och dragna\nmassartiklar av järn och metall.\n\nKontor: Kilsgatan 4. Telegr.-adr.:\nKap-sylfabriken, Göteborg. Telefon: 192100.\nPostgiro: 12384.\n\nRepresentanter: AB. Oscar Isberg,\nStockholm, S:t Paulsg. 29, telefon:\n408409; Gust. Ericsson, Malmö, ö. Tullg.\n5, telefon: 25406.\n\nAkt.-kap.: 150,000 kr. Antal\nindustriarb.: 65. Tillv.-värde pr år: 1,500,000 kr.\n— Firman grundad 1900, bolag 1902.\n\nStyrelse: civiling. K. A. Risberg\n(ordf.), disp. Bo Risberg, dir. Per\nRisberg.\n\nVerkst. dir.: Bo Risberg.\n\nDriftsing.: Folke Kiellarson.\n\nKamrer-, Rolf Petersson.\n\nAB. Göteborgs Kassaskåpsfabrik,\n\nGöteborg.\n\nTillverkar kassaskåp, valvdörrar och\ninmurningsskåp.\n\nKontor: Kustens Varv; postadr.:\nGöteborg. Telefon: 144703 o. 126708.\nPostgiro: 40383.\n\nAkt.-kap.: 30,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 300,000 kr.\n— Firman etabl. 1905, bolag 1942.\n\nVerkst. dir.: disp. John A. Andersson.\n\n*Göteborgs Kemiska Fabriks AB.,\n\nGöteborg.\n\nKem.-tekn. fabrik å Hisingen,\nGöteborg. Tillverkar maskinfett såsom\nkul-lagerfett, konsistensfett, varmlagerfett,\nfiberfett, hard solid oil,\nkugghjulssmörjor, linsmörjor, remsmörjor, remvax och\nvagnsfett; tjär produkter såsom\nasfalt-tjära och andra taktjäror,\nfiskegarns-tjära, black varnish, karbolineum och\nskeppsbeck; industrifärger och fernissor\nsåsom maskinfärger, redskapsfärger,\nrostskyddsfärger, oljeriven blymönja (non\nsetting), modellack, asfaltlack,\nfärdig-lagade oljeslamfärger, kallvattenfärger\nm. fl. —\" Varumärke: »BRIO».\n\nKontor: Motorg. 1. Telegr.-adr.: 01eum&gt;\nGöteborg. Telefon: 222801—02 o. 225588.\nPostgiro: 41346.\n\nAkt.-kap.: 30,000 kr. Antal\nindustriarb.: 30. — Firman etabl. 1910.\n\nStyrelse o. verkst. dir.: dir. Håkan\nEkman.\n\nDisp.: Paul Hillmann.\n\nKontorschef: Karin Falkmark.\n\n\"Göteborgs Kem.-Tekn. Fabrik, John\nLarson, Göteborg.\n\nTillverkar industriförnödenheter,\nrengöringsmedel, kosmetiska och hygieniska\npreparat samt permanentpreparat.\nVarumärken: »Vasco», »Colcin», »Diana» o.\n»Termisole». Firman driver även\nengroshandel med tekniska artiklar och\nindustriförnödenheter av främmande fabrikat.\n\nKontor: ö. Hamng. 4. Telegr.-adr.:\nVasco-fabri ken, Göteborg. Telefon: 222045.\nPostgiro: 41240.\n\nAntal industriarb.: 14. — Firman\netabl. 1907.\n\nÄgare o. chef: fabr. John Larson.\n\n\"Göteborgs Kexfabriks AB.,\n\nKungälv.\n\nTillverkar kex, wafers, kola, marmelad\noch chokladvaror.\n\nHuvudkontor: Kungälv. Telegr.-adr. o.\ntelefon: Kexfabriken, Kungälv. Postgiro:\n8995. Nederlag: i Stockholm, Svarvarg.\n9—11, telefon: 502055; i Göteborg:\nSpannmålsg. 17, telefon: 119318; i\nNorrköping, Örebro, Sundsvall och Uppsala.\n\nAkt.-kap.: 2,380.000 kr. Antal\nindustriarb.: 250. Tillv.-värde pr år: 6,000,000 kr.\n— Bolaget grundat 1888, ny\nbolagsordning 1919.\n\nStyrelse: adv. Birger Melin (ordf.),\ndir. Sven Colliander (v. ordf.), dir.\nErnfr. Samuelson, dir. Sigfrid Wedel.\n\nDisp.: Axel E. Thornberg.",
+    "structured": {
+        "firms": [
+            {
+                "name": "AB. Göteborgs Kappfabrik",
+                "location": "Göteborg",
+                "business": "Tillverkar damkappor och dräkter",
+                "contact": {
+                    "office": "N. Hamng. 36",
+                    "phone": [
+                        "117706",
+                        "137706"
+                    ],
+                    "postgiro": "48805"
+                },
+                "financials": {
+                    "capital": "40,000 kr",
+                    "employees": {
+                        "industriarb": 70
+                    },
+                    "annual_turnover": "800,000 kr",
+                    "annual_production_value": "800,000 kr"
+                },
+                "foundation_year": 1940,
+                "corporation_year": 1944,
+                "board": [
+                    {
+                        "name": "dir. Gustaf Werner",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "dir. Frans H. Nilsson",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "disp. C. O. Smedmark",
+                        "role": "disp."
+                    }
+                ],
+                "director": "C. O. Smedmark"
+            },
+            {
+                "name": "AB. Göteborgs Kapsylfabrik",
+                "location": "Göteborg",
+                "business": "Metall varufabrik. Tillverkar tuber (förpacknings-), stanniol, tennplåt, tennband, blyfolier, blyplåt, blyband, blypackningar, aluminiumhalvfabrikat (plåt, band, rondeller etc.), kapsyler, lödtenn i band och stänger, babbits, plomber, knappar, aluminiumhylsor och -burkar, skruvkapsyler, stansade, pressade och dragna massartiklar av järn och metall.",
+                "contact": {
+                    "office": "Kilsgatan 4",
+                    "telegraph": "Kap-sylfabriken, Göteborg",
+                    "phone": "192100",
+                    "postgiro": "12384"
+                },
+                "financials": {
+                    "capital": "150,000 kr",
+                    "employees": {
+                        "industriarb": 65
+                    },
+                    "annual_turnover": "1,500,000 kr"
+                },
+                "foundation_year": 1900,
+                "corporation_year": 1902,
+                "board": [
+                    {
+                        "name": "civiling. K. A. Risberg",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "disp. Bo Risberg",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "dir. Per Risberg",
+                        "role": "dir."
+                    }
+                ],
+                "director": "Bo Risberg"
+            },
+            {
+                "name": "AB. Göteborgs Kassaskåpsfabrik",
+                "location": "Göteborg",
+                "business": "Tillverkar kassaskåp, valvdörrar och inmurningsskåp",
+                "contact": {
+                    "office": "Kustens Varv"
+                },
+                "financials": {
+                    "capital": "30,000 kr",
+                    "employees": {
+                        "industriarb": 30
+                    },
+                    "annual_turnover": "300,000 kr"
+                },
+                "foundation_year": 1905,
+                "corporation_year": 1942,
+                "board": [
+                    {
+                        "name": "disp. John A. Andersson"
+                    }
+                ],
+                "director": "disp. John A. Andersson"
+            },
+            {
+                "name": "Göteborgs Kemiska Fabriks AB.",
+                "location": "Göteborg",
+                "business": "Kem.-tekn. fabrik å Hisingen, Göteborg. Tillverkar maskinfett såsom kul-lagerfett, konsistensfett, varmlagerfett, fiberfett, hard solid oil, kugghjulssmörjor, linsmörjor, remsmörjor, remvax och vagnsfett; tjär produkter såsom asfalt-tjära och andra taktjäror, fiskegarns-tjära, black varnish, karbolineum och skeppsbeck; industrifärger och fernissor såsom maskinfärger, redskapsfärger, rostskyddsfärger, oljeriven blymönja (non setting), modellack, asfaltlack, färdiglagade oljeslamfärger, kallvattenfärger m. fl. — Varumärke: »BRIO».",
+                "contact": {
+                    "office": "Motorg. 1",
+                    "telegraph": "01eum&gt; Göteborg",
+                    "phone": "222801—02"
+                },
+                "financials": {
+                    "capital": "30,000 kr",
+                    "employees": {
+                        "industriarb": 30
+                    }
+                },
+                "board": [
+                    {
+                        "name": "dir. Håkan Ekman",
+                        "role": "verkst. dir."
+                    }
+                ],
+                "director": "dir. Håkan Ekman"
+            },
+            {
+                "name": "Göteborgs Kem.-Tekn. Fabrik, John Larson",
+                "location": "Göteborg",
+                "business": "Tillverkar industriförnödenheter, rengöringsmedel, kosmetiska och hygieniska preparat samt permanentpreparat. Varumärken: »Vasco», »Colcin», »Diana» o. »Termisole». Firman driver även engroshandel med tekniska artiklar och industriförnödenheter av främmande fabrikat.",
+                "contact": {
+                    "office": "ö. Hamng. 4",
+                    "telegraph": "Vasco-fabriken, Göteborg",
+                    "phone": "222045",
+                    "postgiro": "41240"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 14
+                    }
+                },
+                "director": "fabr. John Larson"
+            },
+            {
+                "name": "Göteborgs Kexfabriks AB.",
+                "location": "Kungälv",
+                "business": "Tillverkar kex, wafers, kola, marmelad och chokladvaror",
+                "contact": {
+                    "office": "Kungälv",
+                    "telegraph": "Kexfabriken, Kungälv",
+                    "phone": "Kexfabriken, Kungälv",
+                    "postgiro": "8995"
+                },
+                "financials": {
+                    "capital": "2,380,000 kr",
+                    "employees": {
+                        "industriarb": 250
+                    },
+                    "annual_turnover": "6,000,000 kr"
+                },
+                "board": [
+                    {
+                        "name": "adv. Birger Melin",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "dir. Sven Colliander",
+                        "role": "v. ordf."
+                    },
+                    {
+                        "name": "dir. Ernfr. Samuelson"
+                    },
+                    {
+                        "name": "dir. Sigfrid Wedel"
+                    }
+                ],
+                "director": "Axel E. Thornberg"
+            }
+        ]
+    }
+}
