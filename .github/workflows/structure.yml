@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install openai pyyaml dotenv
+          pip install openai pyyaml python-dotenv
 
       - name: Pull latest changes
         run: |
