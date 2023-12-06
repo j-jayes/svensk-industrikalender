@@ -1,0 +1,142 @@
+{
+    "original": "Svenska\n\nav läder och textilmaterial. Varumärken:\n»Svea» o. »Percival».\n\nKontor: Hornsg. 69. Telegr.-adr.:\nDamask, Stockholm. Telefon: 440010.\nPostgiro: 1933.\n\nAkt.-kap.: 25,000 kr. Antal\nindustriarb.: 40. — Bolaget grundat 1926.\n\nStyrelse o. verkst. dir.: Eric Hedman.\n\n\"Svenska Diamantbergborrnings AB.,\n\nStockholm.\n\nMek. verkstad i Sundbyberg.\nTillverkar diamantbergborrningsmateriel,\nstöt-borrmateriel, djupbrunnspumpar och\ndiamantverktyg. Utför vattenborrningar och\nundersökningsborrningar samt\ntätnings-arbeten medelst injektion i betong och\nberggrund.\n\nKontor: Stockholm, Kungsg. 44.\nTelegr.-adr. : Adamante, Stockholm.\nTelefon: 233380. Postgiro: 3442.\n\nAkt.-kap.: 2,268,000 kr. Antal\nindustriarb.: 400. Tillv.-värde pr år: 6,000,000 kr.\n\nBolaget, grundat 1886, äger AB.\nElektrisk Malmletning.\n\nStyrelse: disp. N. E. Lenander, civiling.\nF. G. Liljenroth, civiling. Carl M. Matton,\ndir. Bengt Wadsted.\n\nVerkst. dir.: Bengt Wadsted.\n\nDriftsingenjörer: Carl M. Matton o.\nSven G. Petersson.\n\nKamrer: Stig Tilländer.\n\n(Jfr annons efter Firmaregistret.)\n\nAB. Svenska Dragskivor, Örebro.\n\nFinmek. verkstad. Tillverkar\nhård-metalldragskivor för dragning av tråd,\n•stänger, rör och profiler av järn och\nmetall samt diamantdragskivor; utför\nomslipning av dragskivor.\n\nTelefon: 22332. Postgiro: 279700. —\nAkt.-kap.: 50,000 kr. Antal indstriarb.:\n35. — Firman etabl. 1944.\n\nStyrelse o. verkst. dir.: ing. Heinrich\nSchlott (Sthlm).\n\nDriftsing.: Olof Thermaenius.\n\nKamrer: Gustaf Svensson.\n\nSvenska Duplikatorfabriken, Svedup,\n\nSolna.\n\nSe Svedup, Svenska\nDuplikatorfabriken, Solna.\n\nSvenska Elfabriks AB. Selfa,\n\nLimhamn.\n\nElektromek. verkstad i Enköping och i\nLimhamn (Malmöh. l.). Tillverkar elektr.\ninstallationsmateriel, gjutjärnskapslade\ncentraler, motorskydd, kontaktorer m. m.\nVarumärke:, »Selfa».\n\nTelefon: Malmö 50630 o. 50730. —\nAkt.-kap.: 400,000 kr. Antal industriarb.:\n40. Tillv.-värde pr år: 1,400,000 kr. —\nBolaget, grundat 1944, äger Fabriks AB.\nStålformar (»Fast»), Limhamn.\n\nVerkst. dir.: Olof Edman (Sthlm).\n\nFabrihschef: civiling. Rune Ridell.\n\nDriftsing.: Gösta Lundin.\n\nKamrer; Anders Swensson.\n\nSvenska Elektrobil AB.,\n\nStockholm.\n\nBolaget försäljer elektr.\nlastautomobi-ler (»Aseabilen»), transportvagnar,\ntruckar, traktorer och ackumulatorlok, vilka\ni samarbete med bolaget tillverkas av\nASEA.\n\nKontor: Rosenlundsg. 31.\nTelegr.-adr.: Electrobil, Stockholm. Telefon:\n»Asea-söder». Postgiro: 51512.\n\nAkt.-kap.: 150,000 kr. — Bolaget,\ngrundat 1918, tillhör Asea-koncernen.\n\nStyrelse: dir. Thorsten Ericson, dir.\nSven Norrman, dir. Wilhelm Schmidt.\n\nVerkst. dir.: Sven Norrman.\n\nSvenska Elektrodfabriken Kroma,\n\nVänersborg.\n\nTillverkar svetselektroder, svetspulver\nför gassvetsning, härdgryn för\nsätthärd-ning, härd- och anlöpningssalter,\navfett-ningsmedel, eldfast murmassa,\ndesoxidations- och flussmedel för gjutning av\naluminium, rödmetall, brons och\nstereotypmetall in. m. Varumärken: »Kroma» o.\n»Tempyrex».\n\nTelegr.-adr.: Kroma, Vänersborg.\nTelefon: 1032 o. 1465. Postgiro;. 94328. —\nAntal industriarb.: 10. — Firman etabl.\n1933.\n\nÄgare o. chef: ing. Alvar Harlitz.\n\n\"AB. Svenska Elektromagneter,\n\nÅmål.\n\nElektromek. verkstad. Tillverkar\nmag-netapparater, magnetgeneratorer,\npermanenta magneter, elektromagneter,\ntänd-spolar, transformatorer upp till 10 kyA,\ndämprullar, signalinduktorer,\nspecial-reläer samt elektr. specialapparater.\nVarumärke: »SEM».\n\nTelegr.-adr.: Magneter* Åmål. Telefon:\n104 o. 304. Postgiro: 7519.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 125. — Firman etabl. 1915.\n\nStyrelse: fröken E. Zetterqvist,\nassu-ransdir. Knut Zetterqvist, disp. Sven\nZetterqvist.\n\nVerkst. dir.: Sven Zetterqvist.",
+    "structured": {
+        "firms": [
+            {
+                "name": "Svenska",
+                "location": "Stockholm",
+                "business": "Tillverkar skor och textilmaterial.",
+                "contact": {
+                    "office": "Hornsg. 69",
+                    "phone": [
+                        "440010"
+                    ],
+                    "postgiro": "1933",
+                    "telegraph": "Damask, Stockholm"
+                },
+                "financials": {
+                    "capital": "25,000 kr",
+                    "employees": {
+                        "industriarb": 40
+                    }
+                },
+                "foundation_year": 1926,
+                "board": [
+                    {
+                        "name": "Eric Hedman",
+                        "role": "Styrelse o. verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "Svenska Diamantbergborrnings AB.",
+                "location": "Stockholm",
+                "business": "Tillverkar diamantbergborrningsmateriel, stöt-borrmateriel, djupbrunnspumpar och diamantverktyg, utför vattenborrningar och undersökningsborrningar samt tätnings-arbeten medelst injektion i betong och berggrund.",
+                "contact": {
+                    "office": "Kungsg. 44",
+                    "phone": "233380",
+                    "postgiro": "3442",
+                    "telegraph": "Adamante, Stockholm"
+                },
+                "financials": {
+                    "capital": "2,268,000 kr",
+                    "employees": {
+                        "industriarb": 400
+                    },
+                    "annual_production_value": "6,000,000 kr"
+                },
+                "foundation_year": 1886,
+                "predecessor": "Äger AB. Elektrisk Malmletning",
+                "board": [
+                    {
+                        "name": "N. E. Lenander",
+                        "role": "Styrelse"
+                    },
+                    {
+                        "name": "F. G. Liljenroth",
+                        "role": "Styrelse"
+                    },
+                    {
+                        "name": "Carl M. Matton",
+                        "role": "Styrelse"
+                    },
+                    {
+                        "name": "Bengt Wadsted",
+                        "role": "dir."
+                    }
+                ]
+            },
+            {
+                "name": "AB. Svenska Dragskivor",
+                "location": "Örebro",
+                "business": "Tillverkar hård-metalldragskivor för dragning av tråd, stänger, rör och profiler av järn och metall samt diamantdragskivor, utför omslipning av dragskivor.",
+                "contact": {
+                    "phone": "22332",
+                    "postgiro": "279700"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 35
+                    }
+                },
+                "foundation_year": 1944,
+                "board": [
+                    {
+                        "name": "Heinrich Schlott",
+                        "role": "Styrelse o. verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "Svenska Elektrodfabriken Kroma",
+                "location": "Vänersborg",
+                "business": "Tillverkar svetselektroder, svetspulver för gassvetsning, härdgryn för sätthärd-ning, härd- och anlöpningssalter, avfett-ningsmedel, eldfast murmassa, desoxidations- och flussmedel för gjutning av aluminium, rödmetall, brons och stereotypmetall in. m.",
+                "contact": {
+                    "telegraph": "Kroma, Vänersborg",
+                    "phone": "1032 o. 1465",
+                    "postgiro": "94328"
+                },
+                "financials": {
+                    "capital": "Not available",
+                    "employees": {
+                        "industriarb": 10
+                    }
+                },
+                "foundation_year": 1933,
+                "owner": "ing. Alvar Harlitz"
+            },
+            {
+                "name": "AB. Svenska Elektromagneter",
+                "location": "Åmål",
+                "business": "Tillverkar magnetapparater, magnetgeneratorer, permanenta magneter, elektromagneter, tänd-spolar, transformatorer upp till 10 kyA, dämprullar, signalinduktorer, special-reläer samt elektr. specialapparater.",
+                "contact": {
+                    "telegraph": "Magneter, Åmål",
+                    "phone": "104 o. 304",
+                    "postgiro": "7519"
+                },
+                "financials": {
+                    "capital": "100,000 kr",
+                    "employees": {
+                        "industriarb": 125
+                    }
+                },
+                "foundation_year": 1915,
+                "board": [
+                    {
+                        "name": "E. Zetterqvist",
+                        "role": "Styrelse"
+                    },
+                    {
+                        "name": "Knut Zetterqvist",
+                        "role": "assu-ransdir."
+                    },
+                    {
+                        "name": "Sven Zetterqvist",
+                        "role": "disp."
+                    }
+                ]
+            }
+        ]
+    }
+}

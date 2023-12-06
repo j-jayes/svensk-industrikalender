@@ -1,0 +1,183 @@
+{
+    "original": "Söderberg—S öderhamn\n\nherr- oeh gosskläder samt kappor och\ndräkter. Varumärke: »Derber».\n\nTelegr.-adr.: Hjalmars, Uppsala.\nTelefon: »AB. Hj. Söderberg». Postgiro:\n26155.\n\nAkt.-kap.: 960,000 kr. Antal\nindustriarb.: 475. — Fabriken anlagd 1896,\nbolaget grundat 1907.\n\nStyrelse: dir. Erik Söderberg, jägmäst.\nEinar Söderberg, sjökapten Gösta\nSöderberg.\n\nVerkst. dir.; Erik Söderberg.\n\nR. Söderberg &amp; Co. AB., Göteborg.\n\nMek. verkstad och förbandsfabrik.\nTillverkar operationsmöbler och\nförbandsartiklar. Varumärke: »Eresco».\n\nKontor: Drottningg. 13. Telegr.-adr.:\nEresco, Göteborg. Telefon: 170740.\nPostgiro: 12026.\n\nAkt.-kap.: 200,000 kr. Antal\nindustriarb.: 15. — Bolaget grundat 1919.\n\nVerkst. dir.; Ruben Söderberg.\n\nKontorschef: Karl-Hugo Riseli.\n\nVerkstadsing.: Herbert Thorén.\n\nI. Söderbäcks Eftr., Eskilstuna.\n\nSmidesfabrik. ^ Tillverkar luft- och\nim-ventiler, sotventiler, spiralventiler, spjäll,\njalusigaller, kaffekvarnar, hushålls vågar\nsamt pennf ormerare (märke:\n»Eskilstuna»).\n\nTelegr.-adr.: Söderbäck, Eskilstuna.\nTelefon: 30407. Postgiro: 98080. —\nArb.-antal: 30. Tillv.-värde pr år: 350,000 kr.\n— Firman etabl. 1879.\n\nÄgare o. chef: fabr. H. Söderbäck.\n\n’Söderfors Bruk, Söderfors.\n\nJärnbruk med sinterverk,\njärnsvampugn, elektrohytta, elektrostålugnar,\nvalsverk och stålsmedja, hårdmetallfabrik\nsamt elektr. kraftstation vid Söderfors\n(Uppsala l.).\n\nTillverkar snabbstål och verktygsstål\n(kolstål och legerade stål), magnetstål,\nrostbeständigt, värme- och syrabeständigt\nstål samt hårdmetall.\n\nTelegr.-adr.: Bruket, Söderfors.\nTelefon: »Söderfors Bruk». Postgiro: 75. —\nAntal industriarb.: 550.\n\nBruket, som anlades på 1670-talet, äges\nav Stora Kopparbergs Bergslags AB.,\nFalun. (Se detta bolag.)\n\nPlatschef: dir. Per Gustaf Brännström.\n\nFörsäljn.-chef: Sven Weslien.\n\n(Jfr annons å Bokmärket.)\n\nAB. Otto Södergrens Mek. Verkstad,\n\nNorrköping.\n\nTillverkar maskiner och apparater för\ntextilindustrien.\n\nTelegr.-adr.: Otto, Norrköping.\nTelefon: 20535. Postgiro: 28347.\n\nAkt.-kap.: 17,500 kr. Antal\nindustriarb.: 33. Tillv.-värde pr år: 175,000 kr.\n\n—\tFirman etabl. 1892, bolag 1916.\nVerkst. dir.: Knut Nyländer.\n\n’Söderhamns Bryggeri AB.,\n\nSöderhamn.\n\nTillverkar maltdrycker av kl. I och II,\nläskedrycker samt mineralvatten.\n\nTelefon: 2020 o. 2028. Postgiro: 81507.\n\n—\tAkt.-kap.: 400,000 kr. Antal\nindustriarb.: 15. Tillv.-värde pr år: 450,000 kr.\n\n—\tBolaget grundat 1930.\n\nStyrelse: konsul Samuel Sandberg\n(ordf.), dir. C. E. Fuhre, fru Selma\nSandberg.\n\nVerkst. dir.: Samuel Sandberg.\nDisp.: Carl-Samuel Sandberg.\n\nSöderhamns Färgindustri AB.,\n\nSöderhamn.\n\nFärgfabrik vid Faxeholmen,\nSöderhamn. Tillverkar spackelfärg, fönsterkitt,\nfärdigkokt rödfärg, färgpastor, oljefärger\nm. m.\n\nTelegr.-adr.: Färgindustri, Söderhamn.\nTelefon: 1900. Postgiro: 21418.\n\nAkt.-kap.: 40,000 kr. Arb.-antal: 15. —\nBolaget, grundat 1932, är anslutet till\nAB. Alf ort &amp; Cronholm, Stockholm.\nPlatschef: verkm. Per Olsson.\n\nAB. Söderhamns Vaddfabrik,\n\nSöderhamn.\n\nTillverkar täck- och fönstervadd,\nförbandsvadd, sanitetsbindor, madrasser,\ntäcken, kuddar m. m.\n\nTelegr.-adr.: Vitvaddbol, Söderhamn.\nTelefon: 2901. Postgiro: 138853.\n\nAkt.-kap.: 20,000 kr. Antal\nindustriarb.: 25. Tillv.-värde pr år: 300,000 kr.\n\n—\tFirman etabl. 1928, bolag 1940.\nVerkst. dir.; fabr. Sven Jäderberg.\n\n’Söderhamns Verkstäder AB.,\n\nSöderhamn.\n\nMek. verkstad, tackjärns-, stål- och\nmetallgjuteri. Tillverkar maskiner för\nsågverk, cellulosa- och fanérfabriker,\nköksmaskiner samt cisterner och\njärnkonstruktioner.",
+    "structured": {
+        "1": {
+            "name": "Söderberg—Söderhamn",
+            "location": "Söderhamn",
+            "business": "herr- oeh gosskläder samt kappor och dräkter",
+            "contact": {
+                "telegraph": "Hjalmars, Uppsala",
+                "phone": [
+                    "AB. Hj. Söderberg"
+                ],
+                "postgiro": "26155"
+            },
+            "financials": {
+                "capital": "960,000 kr",
+                "employees": {
+                    "industriarb": 475
+                },
+                "foundation_year": 1907
+            },
+            "board": [
+                {
+                    "name": "Erik Söderberg",
+                    "role": "jägmäst"
+                },
+                {
+                    "name": "Einar Söderberg",
+                    "role": "sjökapten"
+                },
+                {
+                    "name": "Gösta Söderberg",
+                    "role": null
+                }
+            ],
+            "director": "Erik Söderberg"
+        },
+        "2": {
+            "name": "R. Söderberg & Co. AB.",
+            "location": "Göteborg",
+            "business": "Mek. verkstad och förbandsfabrik",
+            "contact": {
+                "office": "Drottningg. 13",
+                "telegraph": "Eresco, Göteborg",
+                "phone": "170740",
+                "postgiro": "12026"
+            },
+            "financials": {
+                "capital": "200,000 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "foundation_year": 1919
+            },
+            "director": "Ruben Söderberg",
+            "sales_manager": "Karl-Hugo Riseli",
+            "manager": "Herbert Thorén"
+        },
+        "3": {
+            "name": "I. Söderbäcks Eftr.",
+            "location": "Eskilstuna",
+            "business": "Smidesfabrik",
+            "contact": {
+                "telegraph": "Söderbäck, Eskilstuna",
+                "phone": "30407",
+                "postgiro": "98080"
+            },
+            "financials": {
+                "employees": {
+                    "arb-antal": 30
+                },
+                "annual_production_value": "350,000 kr"
+            },
+            "director": "fabr. H. Söderbäck"
+        },
+        "4": {
+            "name": "Söderfors Bruk",
+            "location": "Söderfors",
+            "business": "Järnbruk med sinterverk, järnsvampugn, elektrohytta, elektrostålugnar, valsverk och stålsmedja, hårdmetallfabrik samt elektr. kraftstation vid Söderfors (Uppsala l.)",
+            "contact": {
+                "telegraph": "Bruket, Söderfors",
+                "phone": "Söderfors Bruk",
+                "postgiro": "75"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 550
+                }
+            },
+            "director": "dir. Per Gustaf Brännström",
+            "sales_manager": "Sven Weslien"
+        },
+        "5": {
+            "name": "AB. Otto Södergrens Mek. Verkstad",
+            "location": "Norrköping",
+            "business": "Tillverkar maskiner och apparater för textilindustrien",
+            "contact": {
+                "telegraph": "Otto, Norrköping",
+                "phone": "20535",
+                "postgiro": "28347"
+            },
+            "financials": {
+                "capital": "17,500 kr",
+                "employees": {
+                    "industriarb": 33
+                },
+                "annual_production_value": "175,000 kr"
+            },
+            "director": "Knut Nyländer"
+        },
+        "6": {
+            "name": "Söderhamns Bryggeri AB.",
+            "location": "Söderhamn",
+            "business": "Tillverkar maltdrycker av kl. I och II, läskedrycker samt mineralvatten",
+            "contact": {
+                "phone": [
+                    "2020",
+                    "2028"
+                ],
+                "postgiro": "81507"
+            },
+            "financials": {
+                "capital": "400,000 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_production_value": "450,000 kr"
+            },
+            "director": "Samuel Sandberg",
+            "sales_manager": "Carl-Samuel Sandberg"
+        },
+        "7": {
+            "name": "Söderhamns Färgindustri AB.",
+            "location": "Söderhamn",
+            "business": "Färgfabrik vid Faxeholmen, Söderhamn. Tillverkar spackelfärg, fönsterkitt, färdigkokt rödfärg, färgpastor, oljefärger m. m.",
+            "contact": {
+                "telegraph": "Färgindustri, Söderhamn",
+                "phone": "1900",
+                "postgiro": "21418"
+            },
+            "financials": {
+                "capital": "40,000 kr",
+                "employees": {
+                    "arb-antal": 15
+                }
+            },
+            "director": "verkm. Per Olsson"
+        },
+        "8": {
+            "name": "AB. Söderhamns Vaddfabrik",
+            "location": "Söderhamn",
+            "business": "Tillverkar täck- och fönstervadd, förbandsvadd, sanitetsbindor, madrasser, täcken, kuddar m. m.",
+            "contact": {
+                "telegraph": "Vitvaddbol, Söderhamn",
+                "phone": "2901",
+                "postgiro": "138853"
+            },
+            "financials": {
+                "capital": "20,000 kr",
+                "employees": {
+                    "industriarb": 25
+                }
+            },
+            "director": "fabr. Sven Jäderberg"
+        },
+        "9": {
+            "name": "Söderhamns Verkstäder AB.",
+            "location": "Söderhamn",
+            "business": "Mek. verkstad, tackjärns-, stål- och metallgjuteri. Tillverkar maskiner för sågverk, cellulosa- och fanérfabriker, köksmaskiner samt cisterner och järnkonstruktioner.",
+            "contact": {
+                "telegraph": "Söderhamn",
+                "phone": "2800",
+                "postgiro": "245836"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 75
+                }
+            },
+            "director": "Sven Svensson"
+        }
+    }
+}

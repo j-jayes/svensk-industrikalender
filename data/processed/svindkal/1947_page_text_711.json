@@ -1,0 +1,200 @@
+{
+    "original": "Tekniska—Telefon\n\nAkt.-kap.: 480,000 kr. — Firman\ngrundad 1906, bolag 1939.\n\nStyrelse: major Birger Delin (ordf.),\nadv. Harald Dahlin, civiling. Hans\nFryk-man, disp. Karl Hedin, civiling. Eric\nKrafft.\n\nVerkst. dir.: Hans Frykman.\n\nTekniska Fabriken Ama,\n\nStockholm.\n\nTillverkar tuggummi och krämpulver.\n\nKontor: Igeldammsg. 20 B. Telefon:\n538687 o. 313430. Postgiro: 50011. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n750,000 kr. — Firman etabl. 1927.\n\nÄgare o. chef: fabr. Max Forslund.\n\nAB. Tekniska Fabriken Gripen,\n\nLinköping.\n\nTillverkar tvål, tvättmedel, parfymer,\ntoalettartiklar, bläck,\nläderkonserveringsmedel m. m.\n\nTelegr.-adr.: Gripen, Linköping.\nTelefon: 29950. Postgiro: 6219.\n\nAkt.-kap.: 400,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 900,000 kr.\n— Firman etabl. 1890, bolag 1903.\n\nStyrelse: köpman Frans Håkanson\n(ordf.), köpm. S. Gyrulf, dir. John Hök.\n\nVerkst. dir.: John Hök.\n\nKontorschef: fröken Gerda Björkman.\n\nTekniska Fabriken Nitor AB.,\n\nStockholm.\n\nTillverkar lutpulver, bonvax, disk- och\nrengöringsmedel, tvättpulver,\nmetallputs-medel, zinkputs, buteljlack m. m.\nVarumärken : »Nitor», »Zeulin», »Håpe»,\n»Bländvit» m. fl.\n\nKontor: Maria Prästgårdsg. 31.\nTelefon: 433120 o. 434554. Postgiro: 840.\n\nAkt.-kap.: 40,000 kr. Tillv.-värde pr år:\n420,000 kr. — Fabriken anlagd 1890,\nbolag 1913.\n\nVerkst. dir.: Hugo Grawström.\n\nAB. Tekniska Fabriken Skåne,\n\nMa l m ö.\n\nTillverkar preparat för sko-, läder- och\nträindustrin samt lim, lösningar och\nrengöringsmedel.\n\nKontor: Rosenlundsg. 24. Telegr.-adr.:\nLimteknik. Malmö. Telefon: 25292 o.\n76254. Postgiro: 147707.\n\nAkt.-kap.: 40,000 kr. Antal\nindustriarb.: 15. — Firman etabl. 1936, bolag\n1939.\n\nVerkst. dir.: Elvir Lilja.\n\nTekniska Fabriken Svanen, Aug.\nLivén, Mölndal.\n\nTillverkar såpa. Varumärken: »Svanens\nkristallsåpa» o. »Svansåpa».\n\nTelefon: Göteborg 270065. Postgiro:\n12066. — Antal industriarb.: 5.\nTillv.-värde pr år: 350,000 kr. — Firman etabl.\n1903.\n\nChefer: ing. Nils Falkman o. ing. V.\nTolleson.\n\nAB. Tekniska Fabriken Thor,\n\nNässjö.\n\nTillverkar såpa.\n\nTelefon: 14. Postgiro: 37069. —\nAkt.-kap.: 197,600 kr. Arb.-antal: 3.\nTillv.-värde pr år: 250,000 kr. — Bolaget\ngrundat 1907.\n\nVerkst. dir.: disp. Birger Fritz.\n\nAB. Tekniska Textilfabriken,\n\nHälsingborg.\n\nTillverkar åderbråcksstrumpor.\nVarumärke: »Tetex».\n\nTelegr.-adr.: Tetex, Hälsingborg.\nTelefon: 10639. Postgiro: 94480.\nEnsamförsälj. i Sverige: AB. Stille-Werner,\nStockholm, Bondeg. 21, telefon:\n»Stille-Werner».\n\nAkt.-kap.: 12,000 kr. Antal\nindustriarb.: 15. Tillv.-värde pr år: 70,000 kr. —\nBolaget grundat 1935.\n\nVerkst. dir.: Alf Krumlinde.\n\n’Telefon AB. L. M. Ericsson,\n\nStockholm.\n\nElektromekaniska verkstäder i\nMidsommarkransen, Stockholm och kabelverk i\nÄlvsjö, Stockholm.\n\nTillverkar telefonapparater och\ntelefonväxlar, automatiska och manuella, för alla\nändamål, apparater och anläggningar för\nbärfrekvensteletonl och -telegrafi,\npu-pinspolar, överdrag, apparater för\ntonfrekvenssignalering, mätinstrument,\nbrand- och tjuvalarmanläggningar,\ntele-signalanläggningar, centralradio- och\nhögtalaranläggningar, nivåvisare,\nmaskin-kontrollapparater, tidkontrollapparater,\nelektriska ur, likriktare och\nladdnings-anordningar, elektronrör, elektriska\nställverk samt signal- och säkerhetsapparater\nför järnvägar, linjemateriel, elektrisk\nledningstråd och kablar för teletekniska\nändamål.\n\nKontor: Midsommarkransen; postadr.:\nStockholm 32. Telegr.-adr.:\nTelefonbolaget, Stockholm. Telefon: »L M\n.Ericsson». Postgiro: 1780. Kabelverket: Älvsjö.\nTelegr.-adr.: Kabelverk, Älvsjö.",
+    "structured": {
+        "1": {
+            "name": "Tekniska Fabriken Ama",
+            "location": "Stockholm",
+            "business": "Tillverkar tuggummi och krämpulver",
+            "contact": {
+                "office": "Igeldammsg. 20 B",
+                "phone": [
+                    "538687",
+                    "313430"
+                ],
+                "postgiro": "50011"
+            },
+            "financials": {
+                "capital": "480,000 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "750,000 kr",
+                "annual_production_value": "750,000 kr"
+            },
+            "foundation_year": 1927,
+            "board": [
+                {
+                    "name": "Birger Delin",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Harald Dahlin",
+                    "role": "adv."
+                },
+                {
+                    "name": "Hans Fryk-man",
+                    "role": "civiling."
+                },
+                {
+                    "name": "Karl Hedin",
+                    "role": "disp."
+                },
+                {
+                    "name": "Eric Krafft",
+                    "role": "civiling."
+                }
+            ],
+            "owners": [
+                "Max Forslund"
+            ],
+            "director": "Hans Frykman"
+        },
+        "2": {
+            "name": "AB. Tekniska Fabriken Gripen",
+            "location": "Linköping",
+            "business": "Tillverkar tvål, tvättmedel, parfymer, toalettartiklar, bläck, läderkonserveringsmedel m. m.",
+            "contact": {
+                "telegraph": "Gripen, Linköping",
+                "phone": "29950",
+                "postgiro": "6219"
+            },
+            "financials": {
+                "capital": "400,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "900,000 kr",
+                "annual_production_value": "900,000 kr"
+            },
+            "foundation_year": 1890,
+            "board": [
+                {
+                    "name": "Frans Håkanson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "S. Gyrulf",
+                    "role": "köpm."
+                },
+                {
+                    "name": "John Hök",
+                    "role": "dir."
+                }
+            ],
+            "owners": [
+                "John Hök"
+            ],
+            "director": "John Hök",
+            "manager": "Gerda Björkman"
+        },
+        "3": {
+            "name": "AB. Tekniska Fabriken Nitor AB.",
+            "location": "Stockholm",
+            "business": "Tillverkar lutpulver, bonvax, disk- och rengöringsmedel, tvättpulver, metallputs-medel, zinkputs, buteljlack m. m.",
+            "contact": {
+                "office": "Maria Prästgårdsg. 31",
+                "phone": [
+                    "433120",
+                    "434554"
+                ],
+                "postgiro": "840"
+            },
+            "financials": {
+                "capital": "40,000 kr",
+                "annual_turnover": "420,000 kr",
+                "annual_production_value": "420,000 kr"
+            },
+            "foundation_year": 1927,
+            "director": "Hugo Grawström"
+        },
+        "4": {
+            "name": "AB. Tekniska Fabriken Skåne",
+            "location": "Malmö",
+            "business": "Tillverkar preparat för sko-, läder- och träindustrin samt lim, lösningar och rengöringsmedel.",
+            "contact": {
+                "office": "Rosenlundsg. 24",
+                "telegraph": "Limteknik. Malmö",
+                "phone": [
+                    "25292",
+                    "76254"
+                ],
+                "postgiro": "147707"
+            },
+            "financials": {
+                "capital": "40,000 kr",
+                "employees": {
+                    "industriarb": 15
+                }
+            },
+            "foundation_year": 1936,
+            "director": "Elvir Lilja"
+        },
+        "5": {
+            "name": "Tekniska Fabriken Svanen",
+            "location": "Mölndal",
+            "business": "Tillverkar såpa",
+            "contact": {
+                "phone": "Göteborg 270065",
+                "postgiro": "12066"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 5
+                },
+                "annual_turnover": "350,000 kr"
+            },
+            "foundation_year": 1903,
+            "managing_director": "Nils Falkman",
+            "sales_manager": "V. Tolleson"
+        },
+        "6": {
+            "name": "AB. Tekniska Fabriken Thor",
+            "location": "Nässjö",
+            "business": "Tillverkar såpa",
+            "contact": {
+                "phone": "14",
+                "postgiro": "37069"
+            },
+            "financials": {
+                "capital": "197,600 kr",
+                "employees": {
+                    "Arb.-antal": 3
+                },
+                "annual_turnover": "250,000 kr"
+            },
+            "foundation_year": 1907,
+            "director": "Birger Fritz"
+        },
+        "7": {
+            "name": "AB. Tekniska Textilfabriken",
+            "location": "Hälsingborg",
+            "business": "Tillverkar åderbråcksstrumpor",
+            "contact": {
+                "telegraph": "Tetex, Hälsingborg",
+                "phone": "10639",
+                "postgiro": "94480"
+            },
+            "financials": {
+                "capital": "12,000 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "70,000 kr"
+            },
+            "foundation_year": 1935,
+            "director": "Alf Krumlinde"
+        },
+        "8": {
+            "name": "Telefon AB. L. M. Ericsson",
+            "location": "Stockholm",
+            "business": "Elektromekaniska verkstäder i Midsommarkransen, Stockholm och kabelverk i Älvsjö, Stockholm. Tillverkar telefonapparater och telefonväxlar, automatiska och manuella, för alla ändamål, apparater och anläggningar för bärfrekvensteletonl och -telegrafi, pu-pinspolar, överdrag, apparater för tonfrekvenssignalering, mätinstrument, brand- och tjuvalarmanläggningar, tele-signalanläggningar, centralradio- och högtalaranläggningar, nivåvisare, maskin-kontrollapparater, tidkontrollapparater, elektriska ur, likriktare och laddnings-anordningar, elektronrör, elektriska ställverk samt signal- och säkerhetsapparater för järnvägar, linjemateriel, elektrisk ledningstråd och kablar för teletekniska ändamål.",
+            "contact": {
+                "office": "Midsommarkransen",
+                "phone": "Stockholm 32",
+                "postgiro": "1780",
+                "kabelverk": "Älvsjö",
+                "telegraph": "Kabelverk, Älvsjö"
+            }
+        }
+    }
+}

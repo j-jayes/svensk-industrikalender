@@ -1,0 +1,209 @@
+{
+    "original": "Vadstena— Wahlb ech\n\n\"Vadstena Bryggeri, Vadstena.\n\nSe AB. Nya Centralbryggeriet,\nLinköping.\n\nAB. Vadstena Mek. Verkstad,\n\nVadstena.\n\nTillverkar pumpar vid mek. verkstad i\nVadstena (Östergötl. l.).\n\nTelefon: 210. Postgiro: 288673. —\nAkt.-kap.: 50,000 kr. Antal industriarb.:\n27. Tillv.-värde pr år: 500,000 kr. —\nBolaget grundat 1944.\n\nStyrelse: generalkonsul Karl Sauber\n(ordf.), civiling. Ragnar Forssman, dir.\nErnst Wallerstedt.\n\nVerkst. dir.: Karl Sauber (Sthlm).\n\nDriftsing.: Nils Engström.\n\n\"AB. Wadström St Indebetou,\n\nNorrköping.\n\nKlädesfabrik. Tillverkar helylletyger\nsåsom blå cheviot, kamgarnsdiagonal,\nga-bardine, foulé och kostymtyger.\nVarumärken: »Kroncheviot», »S. S. S.-cheviot»,\n»Krondiagonal» o. »Berbercord».\n\nTelefon: 22020 o. 26496. Postgiro:\n82209.\n\nAkt.-kap.: 400,000 kr. Antal\nindustriarb.: 110. Tillv.-värde pr år: 2,500,000 kr.\n— Firman etabl. 1907, bolag 1943.\n\nStyrelse o. verkst. dir.: dir. Arthur\nW adström.\n\nJonas Waern, Slöinge.\n\nHyvleri och tunnbinderi i Knobesholm,\nSlöinge (Hallands l.). Tillverkar\nsmör-drittlar och ämnen därtill samt packkärl\nför färg, spik etc. Firman driver även\njordbruk och skogshantering.\n\nTelefon: Asige 12. Postgiro: 88579. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n70,000 kr. — Firman etabl. 1899.\n\nFörvaltare: Matts Waern.\n\nAB. Vaggeryds Mek. Verkstad,\n\nVaggeryd.\n\nTillverkar mindre maskiner och\nverktyg vid mek. verkstad i Vaggeryd\n(Jönköp. l.). Specialitet: Borrchuckar.\n\nTelefon: 94. Postgiro: 76573.\n\nAkt.-kap.: 35,000 kr. Antal\nindustriarb.: 28. Tillv.-värde pr år: 350,000 kr.\n— Firman etabl. 1912, bolag 1942.\n\nVerkst. dir.: fabr. Folke Mattsson.\n\n*Waggeryds Möbelfabrik AB.,\n\nVaggeryd.\n\nMöbelfabrik i Vaggeryd (Jönköp. l.).\nTillverkar möbler i ek, björk, alm och\nmahogny.\n\nTelefon: 30 o. 40. Postgiro: 23499. —\nAkt.-kap.: 150,000 kr. Antal industriarb.:\n40. Tillv.-värde pr år: 600,000 kr. —\nFirman etabl. 1911, bolag 1936.\n\nStyrelse: disp. Torsten Stierna (ordf.),\nfabr. Folke Carlson, fru Ester Stierna.\n\nVerkst. dir. o. disp.: Torsten Stierna.\n\n* Waggonfabriken, Arlöv.\n\nSe AB. Svenska Järnvägsverkstäderna,\nLinköping.\n\n\"Vagn- St Maskinfabriken i Falun,\n\nFalun.\n\nSe AB. Svenska Järnvägsverkstäderna,\nLinköping.\n\n\"Wahl, Bröderna, AB., Falköping.\n\nSe Bröderna Wahl AB., Falköping.\n\nAlb. J. Wahlbeck, Halmstad.\n\nSe Ingenjörsfirman Alb. J. Wahlbeck,,\nHalmstad.\n\n\"AB. Wahlbecks Fabriker,\n\nLinköping.\n\nTågvirkes- och bindgarnsfabrjk samt\nsadelgjords- och mattväveri. Tillverkar\n\nbindgarn, sisalgarn, packstreck, lathsgarn,\nskördegarn, pappersgarn, klädlinor,\nskeppstågvirke, tömtåg,\ntransmissionslinor, lyftstroppar, drivsnÖren, flätade\nlinor, avpassade mattor och gångmattor i\njute, ylle och papper, sadelgjord och\npresenningar.\n\nHuvudkontor: Linköping. Telegr.-adr.:\nWahlbecks, Linköping. Telefon:\n»Wahlbecks Fabriker». Postgiro: 11429.\nAvd.-kontor- Stockholm, Kungsg. 24, telefon:\n212617 o. 212654.\n\nAkt.-kap.: 700,000 kr. Antal\nindustriarb.: 700. Tillv.-värde pr år: 10,000,000\nkr. — Firman etabl. 1876, bolag 1936.\n\nStyrelse: dir. Gotthard Wahlbeck\n(ordf.), dir. Ebbe Wahlbeck, disp. Olle\nWahlbeck, löjtn. B. Claughton Wallin.\n\nVerkst. direktörer: Gotthard Wahlbeck\no. Ebbe Wahlbeck.\n\nDir.-assist.: Olle W^ahlbeck.\n\nKamrer: Fredrik v. Post.\n\nIngenjörer: E. Ellison, A. Bjerkman\no-Lennart Samuelsson.\n\nAvd.-chef i Stockholm: Per-Erik\nRosander.\n\n606*",
+    "structured": {
+        "firms": [
+            {
+                "name": "Vadstena Bryggeri",
+                "location": "Vadstena",
+                "business": "Bryggeri",
+                "products": "Tillverkar pumpar vid mek. verkstad i Vadstena (Östergötl. l.).",
+                "contact": {
+                    "office": "Vadstena",
+                    "phone": [
+                        "210"
+                    ],
+                    "postgiro": "288673",
+                    "head_office": "Linköping",
+                    "sales_offices": [],
+                    "factory_office": "Vadstena",
+                    "factory_phone": "210"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 27
+                    },
+                    "annual_turnover": "500,000 kr",
+                    "annual_production_value": "500,000 kr"
+                },
+                "foundation_year": 1944,
+                "board": [
+                    {
+                        "name": "generalkonsul Karl Sauber",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "civiling. Ragnar Forssman",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "dir. Ernst Wallerstedt",
+                        "role": "N/A"
+                    }
+                ],
+                "director": "Karl Sauber"
+            },
+            {
+                "name": "Wadström St Indebetou",
+                "location": "Norrköping",
+                "business": "Klädesfabrik",
+                "products": "Tillverkar helylletyger såsom blå cheviot, kamgarnsdiagonal, ga-bardine, foulé och kostymtyger. Varumärken: »Kroncheviot», »S. S. S.-cheviot», »Krondiagonal» o. »Berbercord».",
+                "contact": {
+                    "office": "Norrköping",
+                    "phone": [
+                        "22020",
+                        "26496"
+                    ],
+                    "postgiro": "82209",
+                    "head_office": "N/A",
+                    "factory_office": "N/A",
+                    "factory_phone": "N/A"
+                },
+                "financials": {
+                    "capital": "400,000 kr",
+                    "employees": {
+                        "industriarb": 110
+                    },
+                    "annual_turnover": "2,500,000 kr",
+                    "annual_production_value": "2,500,000 kr"
+                },
+                "foundation_year": 1907,
+                "board": [
+                    {
+                        "name": "dir. Arthur W adström",
+                        "role": "N/A"
+                    }
+                ],
+                "director": "dir. Arthur W adström"
+            },
+            {
+                "name": "Vaggeryds Mek. Verkstad",
+                "location": "Vaggeryd",
+                "business": "Tillverkar mindre maskiner och verktyg",
+                "contact": {
+                    "office": "Vaggeryd",
+                    "phone": [
+                        "94"
+                    ],
+                    "postgiro": "76573",
+                    "head_office": "N/A",
+                    "sales_offices": [],
+                    "factory_office": "Vaggeryd",
+                    "factory_phone": "94"
+                },
+                "financials": {
+                    "capital": "35,000 kr",
+                    "employees": {
+                        "industriarb": 28
+                    },
+                    "annual_turnover": "350,000 kr",
+                    "annual_production_value": "350,000 kr"
+                },
+                "foundation_year": 1912,
+                "board": [],
+                "director": "fabr. Folke Mattsson"
+            },
+            {
+                "name": "Waggeryds Möbelfabrik AB",
+                "location": "Vaggeryd",
+                "business": "Möbelfabrik",
+                "products": "Tillverkar möbler i ek, björk, alm och mahogny.",
+                "contact": {
+                    "office": "Vaggeryd",
+                    "phone": [
+                        "30",
+                        "40"
+                    ],
+                    "postgiro": "23499",
+                    "head_office": "N/A",
+                    "factory_office": "Vaggeryd",
+                    "factory_phone": "N/A"
+                },
+                "financials": {
+                    "capital": "150,000 kr",
+                    "employees": {
+                        "industriarb": 40
+                    },
+                    "annual_turnover": "600,000 kr",
+                    "annual_production_value": "600,000 kr"
+                },
+                "foundation_year": 1911,
+                "board": [
+                    {
+                        "name": "disp. Torsten Stierna",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "fabr. Folke Carlson",
+                        "role": "N/A"
+                    },
+                    {
+                        "name": "fru Ester Stierna",
+                        "role": "N/A"
+                    }
+                ],
+                "director": "Torsten Stierna"
+            },
+            {
+                "name": "Wahlbecks Fabriker",
+                "location": "Linköping",
+                "business": "Tågvirkes- och bindgarnsfabrik samt sadelgjords- och mattväveri",
+                "products": "Tillverkar bindgarn, sisalgarn, packstreck, lathsgarn, skördegarn, pappersgarn, klädlinor, skeppstågvirke, tömtåg, transmissionslinor, lyftstroppar, drivsnÖren, flätade linor, avpassade mattor och gångmattor i jute, ylle och papper, sadelgjord och presenningar.",
+                "contact": {
+                    "office": "Linköping",
+                    "phone": [
+                        "N/A"
+                    ],
+                    "postgiro": "11429",
+                    "head_office": "Linköping",
+                    "sales_offices": [
+                        {
+                            "location": "Stockholm",
+                            "phone": "212617 o. 212654"
+                        }
+                    ],
+                    "factory_office": "N/A",
+                    "factory_phone": "N/A",
+                    "telegraph": "Wahlbecks, Linköping"
+                },
+                "financials": {
+                    "capital": "700,000 kr",
+                    "employees": {
+                        "industriarb": 700
+                    },
+                    "annual_turnover": "10,000,000 kr",
+                    "annual_production_value": "10,000,000 kr"
+                },
+                "foundation_year": 1876,
+                "board": [
+                    {
+                        "name": "dir. Gotthard Wahlbeck",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "dir. Ebbe Wahlbeck",
+                        "role": "N/A"
+                    },
+                    {
+                        "name": "disp. Olle Wahlbeck",
+                        "role": "N/A"
+                    },
+                    {
+                        "name": "löjtn. B. Claughton Wallin",
+                        "role": "N/A"
+                    }
+                ],
+                "owners": [
+                    "Gotthard Wahlbeck",
+                    "Ebbe Wahlbeck",
+                    "Olle Wahlbeck"
+                ],
+                "director": "Gotthard Wahlbeck",
+                "managing_director": "Ebbe Wahlbeck",
+                "sales_manager": "Olle W^ahlbeck",
+                "manager": "N/A",
+                "corporation_year": 1936
+            }
+        ]
+    }
+}

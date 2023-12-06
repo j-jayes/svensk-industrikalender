@@ -1,0 +1,396 @@
+{
+    "original": "V ärnam o—V äsb y\n\n\"Värnamo Järnmanufaktur AB.,\n\nVärnamo.\n\nTillverkar taggtråd och järntråd.\n\nTelefon: 10478. Postgiro: 175050. —\nAkt.-kap.: 50,000 kr. Antal industriarb.:\n14. Tillv.-värde pr år: 400,000 kr. —\nBolaget grundat 1930.\n\nStyrelse o. verkst, dir.: Axel\nGustafsson.\n\nVärnamo Kartongfabrik, Värnamo.\n\nTillverkar kartonger m. m. av solid\npapp vid fabrik i Värnamo (Jönköp. l.).\nSpecialiteter: klädda kartonger och\nsäll-skäpssp g T\n\nTelefon: 10483. Postgiro: 133438. —\nAntal industriarb.: 24. Tillv.-värde pr år:\n150,000 kr. — Firman etabl. 1933.\n\nÄgare o. chefer: fabr. Göte Hultqvist o.\nfabr. Knut Rehnström.\n\n\"Värnamo Konfektions AB.,\n\nVärnamo.\n\nTillverkar överplagg för gossar och\nflickor, gosskostymer samt annan\nyllekonfektion för barn.\n\nTelefon: 11153, 11045, 11277. Postgiro:\n282000. — Akt.-kap.: 90,000 kr. Antal\nindustriarb.: 40. — Bolaget grundat 1944.\n\nStyrelse: dir. David Regnér (ordf.),\ndisp. Karl-Gustaf Danås, fru Kerstin\nDanås, ing. Ingemar Lindahl, fru\nMarie-Anne Lindahl, fru Anna Nilsson.\n\nVerkst. dir.: Karl-Gustaf Danås.\n\nKamrer: John Fors.\n\nVärnamo Läderindustri, Harald\nLagergren, Värnamo.\n\nReseffektfabrik. Tillverkar portföljer,\nsport- och shoppingväskor m. m.\n\nTelefon: 747 o. 627. Postgiro: 73382.\n\n—\tAntal industriarb.: 40. — Firman\netabl. 1939.\n\nÄgare o. chef: fabr. Harald Lagergren.\n\"Värnamo Maskin AB., Värnamo.\n\nMek. verkstad. Tillverkar snickeri- och\nverktygsmaskiner.\n\nTelefon: »Maskinbolaget». Postgiro:\n31977.\n\nAkt.-kap.: 108,400 kr. Antal\nindustriarb.: 80. Tillv.-värde pr år: 1,700,000 kr.\n\n—\tBolaget grundat 1917.\n\nStyrelse: fabr. John Källberg (ordf.),\nfabr. Arvid E. Larsson, fabr. Hj.\nLarsson.\n\nVerkst. dir.: J. Källberg.\n\n\"Värnamo Möbelfabrik, Värnamo.\n\nSe AB. Svenska Möbelfabrikerna,\nBodafors.\n\n\"Värnamo Tegelbruks AB.,\n\nVärnamo.\n\nTillverkar murtegel vid tegelbruk i?\nVärnamo (Jönköp. l.). Specialitet:\nhögporösa tegelvaror.\n\nTelefon: 10098 o. 10638. Postgiro:\n25809. — Akt.-kap.: 150,000 kr. Antal\nindustriarb.: 40. Årstillv.: 5 milj. st.~\ntegelvaror. — Firman etabl. 1898, nuv.\nbolag 1941.\n\nStyrelse, verkst. dir. o. disp.: Gunnar\nThilén.\n\nKamrer: Lage Thilén.\n\n\"AB. Värnamo Wellpappfabrik,\n\nVärnamo.\n\nTillverkar wellpapp och\nwellpappkar-tonger.\n\nTelefon: »Värnamo wellpapp».\nPostgiro: 81334.\n\nAkt.-kap.: 125.000 kr. Antal\nindustriarb.: 70. Tillv.-värde pr år: 2,500,000 kr.,\n\n—\tFirman etabl. 1932, bolag 1938.\nStyrelse o. verkst. dir.: Gösta Forsell.\n\nJ. A. wärnegård, Jönköping.\n\nMattfabrik. Tillverkar chenillemattor\noch hemslöjdsmattor.\n\nTelefon: 4528. Postgiro: 290969. —\nAntal industriarb.: 18. Tillv.-värde pr år:\n400,000 kr. — Firman etabl. 1939.\nÄgare o. chef: ing. Alvar Wärnegård.\nKamrer: Gust.-Ad. Collin.\n\n\"AB. Väsby Bleckemballagefabrik,\n\nUpplands Väsby.\n\nTillverkar blankt och dekorerat\nbleckemballage m. m. vid fabrik i Upplands\nVäsby (Stockholms l.). Specialiteter:\nkaffekokare för marketenterier samt\nfruktträdssprutor.\n\nTelefon: Upplands Väsby 78, 178 o.\n414. Postgiro: 25162.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 40. Tillv.-värde pr år: 800,000 kr.\n\n—\tFirman etabl. 1919, bolag 1938.\nStyrelse: fabr. O. Folke Hammargren\n\n(ordf.), fru T. Hammargren,\ntaxeringsint-Arne Norman.\n\nVerkst. dir.: O. F. Hammargren.\n\n\"Väsby Verkstäder, Upplands Väsby.\n\nSe AB. Svenska Metallverken,\nVästerås.\n\n•x-",
+    "structured": {
+        "firms": [
+            {
+                "name": "Värnamo Järnmanufaktur AB.",
+                "location": "Värnamo",
+                "business": "Tillverkar taggtråd och järntråd",
+                "products": "",
+                "contact": {
+                    "office": "",
+                    "phone": [
+                        "10478"
+                    ],
+                    "postgiro": "175050",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": ""
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 14
+                    },
+                    "annual_turnover": "",
+                    "annual_production_value": "400,000 kr"
+                },
+                "foundation_year": 1930,
+                "board": [
+                    {
+                        "name": "Axel Gustafsson",
+                        "role": ""
+                    }
+                ],
+                "owners": [],
+                "director": "Axel Gustafsson",
+                "managing_director": "",
+                "sales_manager": "",
+                "manager": ""
+            },
+            {
+                "name": "Värnamo Kartongfabrik",
+                "location": "Värnamo",
+                "business": "Tillverkar kartonger m. m. av solid papp",
+                "products": "Specialiteter: klädda kartonger och säll-skäpssp g T",
+                "contact": {
+                    "office": "",
+                    "phone": [
+                        "10483"
+                    ],
+                    "postgiro": "133438",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": ""
+                },
+                "financials": {
+                    "capital": "",
+                    "employees": {
+                        "industriarb": 24
+                    },
+                    "annual_turnover": "",
+                    "annual_production_value": "150,000 kr"
+                },
+                "foundation_year": 1933,
+                "board": [],
+                "owners": [
+                    "Göte Hultqvist",
+                    "Knut Rehnström"
+                ],
+                "director": "",
+                "managing_director": "",
+                "sales_manager": "",
+                "manager": ""
+            },
+            {
+                "name": "Värnamo Konfektions AB.",
+                "location": "Värnamo",
+                "business": "Tillverkar överplagg för gossar och flickor, gosskostymer samt annan yllekonfektion för barn",
+                "products": "",
+                "contact": {
+                    "office": "",
+                    "phone": [
+                        "11153",
+                        "11045",
+                        "11277"
+                    ],
+                    "postgiro": "282000",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": ""
+                },
+                "financials": {
+                    "capital": "90,000 kr",
+                    "employees": {
+                        "industriarb": 40
+                    },
+                    "annual_turnover": "",
+                    "annual_production_value": ""
+                },
+                "foundation_year": 1944,
+                "board": [
+                    {
+                        "name": "David Regnér",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Karl-Gustaf Danås",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Ingemar Lindahl",
+                        "role": "ing."
+                    },
+                    {
+                        "name": "Marie-Anne Lindahl",
+                        "role": "fru"
+                    },
+                    {
+                        "name": "Anna Nilsson",
+                        "role": "fru"
+                    }
+                ],
+                "owners": [],
+                "director": "",
+                "managing_director": "Karl-Gustaf Danås",
+                "sales_manager": "",
+                "manager": "John Fors"
+            },
+            {
+                "name": "Värnamo Läderindustri",
+                "location": "Harald Lagergren, Värnamo",
+                "business": "Reseffektfabrik. Tillverkar portföljer, sport- och shoppingväskor m. m.",
+                "products": "",
+                "contact": {
+                    "office": "",
+                    "phone": [
+                        "747",
+                        "627"
+                    ],
+                    "postgiro": "73382",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": ""
+                },
+                "financials": {
+                    "capital": "",
+                    "employees": {
+                        "industriarb": 40
+                    },
+                    "annual_turnover": "",
+                    "annual_production_value": ""
+                },
+                "foundation_year": 1939,
+                "board": [],
+                "owners": [
+                    "Harald Lagergren"
+                ],
+                "director": "",
+                "managing_director": "",
+                "sales_manager": "",
+                "manager": ""
+            },
+            {
+                "name": "Värnamo Maskin AB.",
+                "location": "Värnamo",
+                "business": "Mek. verkstad. Tillverkar snickeri- och verktygsmaskiner",
+                "products": "",
+                "contact": {
+                    "office": "",
+                    "phone": [],
+                    "postgiro": "31977",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": "Maskinbolaget"
+                },
+                "financials": {
+                    "capital": "108,400 kr",
+                    "employees": {
+                        "industriarb": 80
+                    },
+                    "annual_turnover": "",
+                    "annual_production_value": "1,700,000 kr"
+                },
+                "foundation_year": 1917,
+                "board": [
+                    {
+                        "name": "John Källberg",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Arvid E. Larsson",
+                        "role": "fabr."
+                    },
+                    {
+                        "name": "Hj. Larsson",
+                        "role": "fabr."
+                    }
+                ],
+                "owners": [],
+                "director": "",
+                "managing_director": "J. Källberg",
+                "sales_manager": "",
+                "manager": ""
+            },
+            {
+                "name": "Värnamo Tegelbruks AB.",
+                "location": "Värnamo",
+                "business": "Tillverkar murtegel vid tegelbruk i Värnamo (Jönköp. l.). Specialitet: högporösa tegelvaror",
+                "products": "",
+                "contact": {
+                    "office": "",
+                    "phone": [
+                        "10098",
+                        "10638"
+                    ],
+                    "postgiro": "25809",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": ""
+                },
+                "financials": {
+                    "capital": "150,000 kr",
+                    "employees": {
+                        "industriarb": 40
+                    },
+                    "annual_turnover": "",
+                    "annual_production_value": "5 milj. st. tegelvaror"
+                },
+                "foundation_year": 1898,
+                "board": [],
+                "owners": [],
+                "director": "Gunnar Thilén",
+                "managing_director": "",
+                "sales_manager": "",
+                "manager": "Lage Thilén"
+            },
+            {
+                "name": "AB. Värnamo Wellpappfabrik",
+                "location": "Värnamo",
+                "business": "Tillverkar wellpapp och wellpappkartonger",
+                "products": "",
+                "contact": {
+                    "office": "",
+                    "phone": [
+                        "Värnamo wellpapp"
+                    ],
+                    "postgiro": "81334",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": ""
+                },
+                "financials": {
+                    "capital": "125,000 kr",
+                    "employees": {
+                        "industriarb": 70
+                    },
+                    "annual_turnover": "",
+                    "annual_production_value": "2,500,000 kr"
+                },
+                "foundation_year": 1938,
+                "board": [],
+                "owners": [],
+                "director": "",
+                "managing_director": "",
+                "sales_manager": "",
+                "manager": "Gösta Forsell"
+            },
+            {
+                "name": "J. A. Wärnegård",
+                "location": "Jönköping",
+                "business": "Mattfabrik. Tillverkar chenillemattor och hemslöjdsmattor",
+                "products": "",
+                "contact": {
+                    "office": "",
+                    "phone": [
+                        "4528"
+                    ],
+                    "postgiro": "290969",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": ""
+                },
+                "financials": {
+                    "capital": "",
+                    "employees": {
+                        "industriarb": 18
+                    },
+                    "annual_turnover": "",
+                    "annual_production_value": "400,000 kr"
+                },
+                "foundation_year": 1939,
+                "board": [],
+                "owners": [
+                    "ing. Alvar Wärnegård"
+                ],
+                "director": "",
+                "managing_director": "",
+                "sales_manager": "",
+                "manager": "Gust.-Ad. Collin"
+            },
+            {
+                "name": "AB. Väsby Bleckemballagefabrik",
+                "location": "Upplands Väsby",
+                "business": "Tillverkar blankt och dekorerat bleckemballage m. m.",
+                "products": "Specialiteter: kaffekokare för marketenterier samt fruktträdssprutor",
+                "contact": {
+                    "office": "",
+                    "phone": [
+                        "Upplands Väsby 78",
+                        "178",
+                        "414"
+                    ],
+                    "postgiro": "25162",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": ""
+                },
+                "financials": {
+                    "capital": "100,000 kr",
+                    "employees": {
+                        "industriarb": 40
+                    },
+                    "annual_turnover": "",
+                    "annual_production_value": "800,000 kr"
+                },
+                "foundation_year": 1938,
+                "board": [
+                    {
+                        "name": "O. Folke Hammargren",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "T. Hammargren",
+                        "role": "fru"
+                    },
+                    {
+                        "name": "Arne Norman",
+                        "role": "taxeringsint-"
+                    }
+                ],
+                "owners": [],
+                "director": "",
+                "managing_director": "O. F. Hammargren",
+                "sales_manager": "",
+                "manager": ""
+            },
+            {
+                "name": "Väsby Verkstäder",
+                "location": "Upplands Väsby",
+                "business": "See AB. Svenska Metallverken, Västerås",
+                "products": "",
+                "contact": {
+                    "office": "",
+                    "phone": [],
+                    "postgiro": "",
+                    "head_office": "",
+                    "sales_offices": [],
+                    "telegraph": "",
+                    "factory_office": "",
+                    "factory_phone": ""
+                },
+                "financials": {
+                    "capital": "",
+                    "employees": {},
+                    "annual_turnover": "",
+                    "annual_production_value": ""
+                },
+                "foundation_year": 0,
+                "board": [],
+                "owners": [],
+                "director": "",
+                "managing_director": "",
+                "sales_manager": "",
+                "manager": ""
+            }
+        ]
+    }
+}

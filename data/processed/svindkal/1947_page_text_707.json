@@ -1,0 +1,171 @@
+{
+    "original": "Sörjors—Ta b e rg\n\nSörfors Liefabrik, Eriksfors.\n\nTillverkar liar och lieringar vid fabrik\ni Sörfors, Eriksfors (Västernorrl. l.).\nVarumärke: »S. F.».\n\nTelefon: Eriksfors 25. Postgiro: 131165.\n\n—\tAntal industriarb.: 5. Tillv.-värde pr\når: 40,000 kr. — Firman etabl. 1911.\n\nÄgare o. chef: fabr. Olof Lindberg.\n\nAB. Johan Sörling, Märsta.\n\nSmides- och mek. verkstad i Märsta\n(Stockholms l.). Tillverkar lastvagnsflak,\nrenhållningskarosser, släpvagnar,\nmurbruksbaljor, mekaniska och hydrauliska\ntippanordningar för lastautomobiler,\nhand- och maskindrivna vinschar,\nlastbilshytter, skåpkarosser samt\nsnabbsvarvar.\n\nTelefon: 72 o. 74. Postgiro: 95062. —\nAkt.-kap.: 105,300 kr. Antal industriarb.:\n100. Tillv.-värde pr år: 1,500,000 kr. —\nFirman etabl. 1924, bolag 1942. #\n\nVerkst. dir.: fabr. Johan Sörling.\n\nAB. Sörmlands Fruktkonserver,\n\nKatrineholm.\n\nTillverkar sylter, safter, syltade\nfrukter, senap och inlagda gurkor samt utför\nkonservering av frukt, bär och svamp vid\nfabrik i Katrineholm (Södermanl. l.).\n\nTelefon: 2090. Postgiro: 93452.\n\nAkt.-kap.: 45,000 kr. Antal\nindustriarb.: 40. Tillv.-värde pr år: 1,300,000 kr.\n\n—\tBolaget grundat 1935.\n\nVerkst. dir.: Tage Gutestam.\n\nAB. Sörmländsk Möbelindustri,\n\nNyköping.\n\nTillverkar möbler och inredningar.\n\nTelefon: 738. Postgiro: 37463. —\nAkt.-kap.: 30.000 kr. Antal industriarb.: 28.\nTillv.-värde pr år: 160,000 kr. — Bolaget\ngrundat 1925.\n\nDisp.: Em. östergren.\n\n*Sörstafors Pappersbruks AB.,\n\nKolbäck.\n\nTräsliperi, sulfitfabrik och\npappersbruk samt pappersförädlingsfabrik vid\nSörstafors pr Kol bäck (Västmanl. l.).\nTillverkar sulfitmassa samt sulfitpapper\nsåsom toalettpapper, buteljpapper,\npås-papper, kuvertpapper, servettpapper,\nmönstertryckt papper, silkespapper,\nsilveromslagspapper, im. havannapapper och\nomslagspapper ävensom påsar samt blekt\noch oblekt cellulosavadd.\n\nTelegr.-adr.: Sörstafors, Kolbäck.\nTelefon: 40, 112 o. 164. Postgiro: 269191.\n\nAkt.-kap.: 500,000 kr. Antal\nindustriarb.: 300. Årstillv.: 7,000 ton papper o.\n8,000 ton fläkttorkad stark sulfitmassa\nför avsalu.\n\nBruket, anlagt 1866, nuv. bolag\ngrundat 1944, äges av AB. T. Bliichers\nPappersindustri, Kvidinge.\n\nStyrelse: bankdir. Ola Källqvist (ordf.),\ndisp. S. Ahnfors, fotograf H. Bliicher,\ndir. Tage Bliicher, adv. H. Ljunggren.\n\nVerkst. dir.: Tage Bliicher.\n\növering.: Carl Rud. Bergson.\n\n*Söråkers Sulfitfabrik, Söråker.\n\nSe Sunds AB., Sundsvall.\n\nAB. Sörängs industrier, Söräng.\n\nMek. verkstad och manufakturverk i\nSöräng (Gävleb. l.). Tillverkar lyftblock,\ncykelställ, sågblad och sågbågar,\nsågfil-apparater, barkspadar, timmerbjörnar,\nlänklås, skåpreglar, löv- och\nhöhandräf-sor, ställningar och axlar för slipstenar,\nvedhuggningsmaskiner m. m.\nVarumärken: »Sindu» o. »Esspe».\n\nTelefon: Bollnäs 39050 o. 39090.\nPostgiro: 287331. — Akt.-kap.: 15,000 kr.\nAntal industriarb.: 35. -— Bolaget\ngrundat 1940.\n\nVerkst. dir.: E. M. Lorentzon.\n\n* utmärker till Sveriges Industriförbund anslutna företag.\n\n*Tabergs Maskinfabriks AB.,\n\nStockholm.\n\nGjuteri, mek. verkstad och plåtslageri i\nSmålands Taberg (Jönköp. l.). Tillverkar\nlyftblock, blockvagnar, traverser samt\nfilter och apparater för gruv-, cellulosa- och\n\nkem. industri jämte kem. tekn. apparater\nav smidesjärn, rostfritt och syrafast\nmaterial, gjutgods m. m.\n\nHuvudkontor o. försäljn.: Stockholm,\nT. An. Tesch AB., Kungsg. 29 Telefon:\n232300. Postgiro: 157363. Telegr.-adr.:\nTantesch, Stockholm. Fabrikskontor:\n\n569*",
+    "structured": {
+        "0": {
+            "name": "Sörjors—Taberg",
+            "location": "Smålands Taberg (Jönköp. l.)",
+            "business": "Gjuteri, mek. verkstad och plåtslageri",
+            "contact": {
+                "phone": [
+                    "232300"
+                ]
+            }
+        },
+        "1": {
+            "name": "Sörfors Liefabrik",
+            "location": "Eriksfors (Västernorrl. l.)",
+            "business": "Tillverkar liar och lieringar",
+            "products": "Varumärke: »S. F.»",
+            "contact": {
+                "phone": [
+                    "25"
+                ],
+                "postgiro": "131165"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 5
+                },
+                "annual_turnover": "40,000 kr"
+            },
+            "foundation_year": 1911,
+            "owners": [
+                "fabr. Olof Lindberg"
+            ]
+        },
+        "2": {
+            "name": "AB. Johan Sörling",
+            "location": "Märsta (Stockholms l.)",
+            "business": "Smides- och mek. verkstad",
+            "products": "Tillverkar lastvagnsflak, renhållningskarosser, släpvagnar m.m.",
+            "contact": {
+                "phone": [
+                    "72",
+                    "74"
+                ],
+                "postgiro": "95062"
+            },
+            "financials": {
+                "capital": "105,300 kr",
+                "employees": {
+                    "industriarb": 100
+                },
+                "annual_turnover": "1,500,000 kr"
+            },
+            "foundation_year": 1924,
+            "corporation_year": 1942,
+            "owner": "fabr. Johan Sörling"
+        },
+        "3": {
+            "name": "AB. Sörmlands Fruktkonserver",
+            "location": "Katrineholm (Södermanl. l.)",
+            "business": "Tillverkar sylter, safter, syltade frukter, senap och inlagda gurkor samt utför konservering av frukt, bär och svamp",
+            "contact": {
+                "phone": [
+                    "2090"
+                ],
+                "postgiro": "93452"
+            },
+            "financials": {
+                "capital": "45,000 kr",
+                "employees": {
+                    "industriarb": 40
+                },
+                "annual_turnover": "1,300,000 kr"
+            },
+            "foundation_year": 1935,
+            "director": "Tage Gutestam"
+        },
+        "4": {
+            "name": "AB. Sörmländsk Möbelindustri",
+            "location": "Nyköping",
+            "business": "Tillverkar möbler och inredningar",
+            "contact": {
+                "phone": "738",
+                "postgiro": "37463"
+            },
+            "financials": {
+                "capital": "30,000 kr",
+                "employees": {
+                    "industriarb": 28
+                },
+                "annual_turnover": "160,000 kr"
+            },
+            "foundation_year": 1925,
+            "director": "Em. östergren"
+        },
+        "5": {
+            "name": "Sörstafors Pappersbruks AB.",
+            "location": "Sörstafors pr Kolbäck (Västmanl. l.)",
+            "business": "Träsliperi, sulfitfabrik och pappersbruk samt pappersförädlingsfabrik",
+            "products": "Tillverkar sulfitmassa samt sulfitpapper",
+            "contact": {
+                "phone": [
+                    "40",
+                    "112",
+                    "164"
+                ],
+                "postgiro": "269191"
+            },
+            "financials": {
+                "capital": "500,000 kr",
+                "employees": {
+                    "industriarb": 300
+                },
+                "annual_turnover": "7,000 ton papper o. 8,000 ton fläkttorkad stark sulfitmassa för avsalu"
+            },
+            "foundation_year": 1944,
+            "owner": "AB. T. Bliichers Pappersindustri, Kvidinge",
+            "board": [
+                {
+                    "name": "Ola Källqvist",
+                    "role": "Ordförande"
+                },
+                {
+                    "name": "S. Ahnfors",
+                    "role": "Styrelseledamot"
+                },
+                {
+                    "name": "H. Bliicher",
+                    "role": "Styrelseledamot"
+                },
+                {
+                    "name": "Tage Bliicher",
+                    "role": "Styrelseledamot"
+                },
+                {
+                    "name": "H. Ljunggren",
+                    "role": "Styrelseledamot"
+                }
+            ],
+            "director": "Tage Bliicher",
+            "managing_director": "Carl Rud. Bergson"
+        },
+        "6": {
+            "name": "Söråkers Sulfitfabrik",
+            "location": "Söråker",
+            "predecessor": "Sunds AB., Sundsvall"
+        },
+        "7": {
+            "name": "AB. Sörängs industrier",
+            "location": "Söräng (Gävleb. l.)",
+            "business": "Mek. verkstad och manufakturverk",
+            "products": "Tillverkar lyftblock, cykelställ, sågblad och sågbågar m.m. Varumärken: »Sindu» o. »Esspe»",
+            "contact": {
+                "phone": [
+                    "39050",
+                    "39090"
+                ],
+                "postgiro": "287331"
+            },
+            "financials": {
+                "capital": "15,000 kr",
+                "employees": {
+                    "industriarb": 35
+                }
+            },
+            "foundation_year": 1940,
+            "director": "E. M. Lorentzon"
+        }
+    }
+}

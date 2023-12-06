@@ -1,0 +1,139 @@
+{
+    "original": "Yddinge—Ystad\n\n* utmärker till Sveriges Industriförbund anslutna företag.\n\n’Yddinge Tegelbruk, Holmeja.\nSe Skurups Tegelbruk AB., Skurup.\n\n’Yllefabrikerna, AB. Förenade,\n\nNorrköping.\n\nSe AB. Förenade Yllefabrikerna,\nNorrköping.\n\n’Yllekoncernen, Svenska, Tidan.\nSe Svenska Yllekoncernen, AB., Tidan.\n\nAB. Yiletrikå, Bollebygd.\n\nTillverkar sportartiklar i ylle och\nkamelhår i Bollebygd (Älvsb. l.).\n\nTelefon: 20045. Postgiro: 27922. Repr.\ni Stockholm: ’ Ivar Tardells Agenturer,\nDrottningg. 23, telefon: 104190.\n\nAkt.-kap.: 100,000 kr. Tillv.-värde pr\når: 400,000 kr. — Firman etabl. 1920,\nbolag 1934.\n\nVerkst, dir.: Carl Heintz.\nKontorschef: Carl Gustaf Heintz.\n\n’Ylleväveriet Ultra AB.,\n\nNorrköping.\n\nTillverkar kapp- och dräkttyger.\nTelegr.-adr.: Richkupke, Norrköping.\nTelefon: 26860. Postgiro: 23011.\n\nAkt.-kap.: 20,000 kr. Antal\nindustriarb.: 17. Tillv.-värde pr år: 575,000 kr.\n— Firman etabl. 1934, bolag 1945.\nStyrelse o. verkst. dir.: R. Kupke.\n\nAB. Ymakonfektion, Göteborg.\n\nDamkonfektionsfabrik. Tillverkar\nklänningar.\n\nKontor: Trädgårdsgatan 1. Telefon:\n110443. Postgiro: 48528.\n\nAkt.-kap.: 20,000 kr. Antal\nindustriarb.: 30. — Bolaget grundat 1943.\n\nVerkst. direktörer: Yngve Magnusson\no. Tage Magnusson.\n\n’Yngeredsfors Kraft AB., Mölndal.\n\nVattenkraftstationer i Yngeredsfors,\nÄtrafors och Skogsforsen (Hallands l.),\nångkraftstation i Varberg. Distribuerar\nelektr. energi till Varberg, Kungsbacka\noch Mölndal samt landsbygden i norra och\nmellersta Halland. Samköming äger dess-\n\nutom rum med Statens Vattenfallsverk^\nSydsvenska Kraft AB. och Falkenbergs\nStads Elektricitetsverk. Bolaget är\nhuvudintressent i Fjärås Kraft AB. och AB.\nSärö Elektricitetsverk samt i Hylte Bruks\nAB.\n\nHuvudkontor: Mölndal. Telegr.-adr.:\nKraftbolaget, Göteborg. Telefon:\nGöteborg 272120. Postgiro: 31000.\n\nAkt.-kap.: 6,000,000 kr. Antal\nindustriarb.: 104. Distrib.-värde pr år: 6,080,000\nkr. — Bolaget grundat 1899.\n\nStyrelse: dir. J. S. Edström (ordf.),\nbankdir. Marcus Wallenberg (v. ordf.)„\ndisp. I. Bjerström, dir. Thorsten Ericson^\nbankdir. Rich. Julin.\n\nVerkst. dir.: I. Bjerström.\n\nKamrer: Frans Holmquist.\n\nDriftsing.: Carl Erik Olsson.\n\nAB. Yrkesuniformer, Bollebygd.\n\nSyfabrik i Bollebygd (Älvsb. L).\nTillverkar yrkesplagg.\n\nTelefon: 20150. Postgiro: 14947. —\nAkt.-kap.: 114,000 kr. Tillv.-värde pr årr\n600,000 kr.\n\nFirman, etabl. 1919, bolag 1932,\narbetar under gemensam förvaltning med\nAB-Textilkompaniet.\n\nVerkst. dir.: Patrick Lithander.\n\n’AB. Ystads Franska Ångkvarn,\n\nYstad.\n\nTillverkar mjöl av vete och råg samt kli.\nVarunamn för vetemjöl: »Kungsörnen»-\n\nHuvudkontor: Malmö. Kvarnkontor:\nYstad. Telegr.-adr.: Ångkvarnen, Ystad.\nTelefon: 53. Postgiro: 32705.\n\nAkt.-kap.: 400,000 kr. Antal\nindustriarb.: 13. Prod.-värde pr år: 1,500,000 kr.\n\nBolaget, grundat 1888, är anslutet til)\nAB. Kvarnintressenter, Malmö.\n\nStyrelse: dir. Mauritz Carlson (ordf.),\ndir. Sven Malmberg, dir. Edvin Åberg.\n\nVerkst. dir.: S. Malmberg.\n\nPlatschef: Gösta Nordström.\n\n’AB. Ystads Läderfabrik, Ystad.\n\nTillverkar platt-läder samt kromgarvat\noch kromkombinationsgarvat ovanläder.\nBolaget driver även engroshandel med\nfrämmande läderfabrikat samt med råa\nhudar och skinn.\n\n636*",
+    "structured": {
+        "Yddinge Tegelbruk, Holmeja": {
+            "location": "Holmeja",
+            "products": "Se Skurups Tegelbruk AB., Skurup.",
+            "contact": {
+                "office": "Ivar Tardells Agenturer, Drottningg. 23",
+                "phone": [
+                    "20045",
+                    "104190"
+                ],
+                "postgiro": "27922"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "annual_production_value": "400,000 kr"
+            },
+            "foundation_year": 1920,
+            "corporation_year": 1934,
+            "board": [
+                {
+                    "name": "Carl Heintz",
+                    "role": "Verkst. dir."
+                },
+                {
+                    "name": "Carl Gustaf Heintz",
+                    "role": "Kontorschef"
+                }
+            ],
+            "manager": "Carl Heintz"
+        },
+        "Yllefabrikerna, AB. Förenade, Norrköping": {
+            "location": "Norrköping",
+            "description": "Se AB. Förenade Yllefabrikerna, Norrköping."
+        },
+        "Yllekoncernen, Svenska, Tidan": {
+            "location": "Tidan",
+            "description": "Se Svenska Yllekoncernen, AB., Tidan."
+        },
+        "AB. Yiletrikå, Bollebygd": {
+            "location": "Bollebygd",
+            "products": "Tillverkar sportartiklar i ylle och kamelhår (Älvsb. l.)",
+            "contact": {
+                "office": "Trädgårdsgatan 1",
+                "phone": [
+                    "110443"
+                ],
+                "postgiro": "48528"
+            },
+            "financials": {
+                "capital": "20,000 kr"
+            },
+            "foundation_year": 1943,
+            "manager": "Yngve Magnusson"
+        },
+        "Yngeredsfors Kraft AB., Mölndal": {
+            "location": "Mölndal",
+            "description": "Vattenkraftstationer i Yngeredsfors, Ätrafors och Skogsforsen (Hallands l.), ångkraftstation i Varberg.",
+            "contact": {
+                "office": "Mölndal",
+                "phone": "Göteborg 272120",
+                "postgiro": "31000"
+            },
+            "financials": {
+                "capital": "6,000,000 kr",
+                "employees": {
+                    "industriarb.": 104
+                },
+                "annual_turnover": "6,080,000 kr"
+            },
+            "foundation_year": 1899,
+            "board": [
+                {
+                    "name": "J. S. Edström",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "Marcus Wallenberg",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "I. Bjerström",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "Thorsten Ericson",
+                    "role": "Styrelse"
+                },
+                {
+                    "name": "Rich. Julin",
+                    "role": "Styrelse"
+                }
+            ],
+            "manager": "I. Bjerström"
+        },
+        "AB. Yrkesuniformer, Bollebygd": {
+            "location": "Bollebygd",
+            "products": "Tillverkar yrkesplagg (Älvsb. L)",
+            "contact": {
+                "office": "AB-Textilkompaniet",
+                "phone": [
+                    "20150"
+                ],
+                "postgiro": "14947"
+            },
+            "financials": {
+                "capital": "114,000 kr"
+            },
+            "foundation_year": 1919,
+            "corporation_year": 1932,
+            "manager": "Patrick Lithander"
+        },
+        "AB. Ystads Franska Ångkvarn, Ystad": {
+            "location": "Ystad",
+            "products": "Tillverkar mjöl av vete och råg samt kli. Varunamn för vetemjöl: »Kungsörnen»",
+            "contact": {
+                "office": "Kvarnkontor: Ystad",
+                "phone": [
+                    "53"
+                ],
+                "postgiro": "32705"
+            },
+            "financials": {
+                "capital": "400,000 kr",
+                "employees": {
+                    "industriarb.": 13
+                },
+                "annual_production_value": "1,500,000 kr"
+            },
+            "foundation_year": 1888
+        },
+        "AB. Ystads Läderfabrik, Ystad": {
+            "location": "Ystad",
+            "products": "Tillverkar platt-läder samt kromgarvat och kromkombinationsgarvat ovanläder",
+            "description": "Bolaget driver även engroshandel med främmande läderfabrikat samt med råa hudar och skinn."
+        }
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "original": "Svensson\n\n*AB. Allan Svensson, Malmö.\n\nFärgfabrik. Tillverkar läcker,\nlackoeli oljefärger, cellulosalacker, kitt,\nbon-vax, linolja, impregneringsoljor,\nindustri-fetter, turkisk rödolja samt\nkonsistens-fett. Firman driver även engroshandel\nmed kemikalier, torra färger, oljor och\nsyror.\n\nKontor: Stortorget 17. Telegr.-adr.:\nEximp, Malmö. Telefon: »Allan\nSvensson». Postgiro: 39259.\n\nAkt.-kap.: 300,000 kr. Antal\nindustriarb.: 40. Tillv.-värde pr år: 4,500,000kr.\n— Bolaget grundat 1936.\n\nStyrelse o. verkst. dir.: Allan Svensson.\n\nIngenjörer: Evald Carlsson o. Gunnar\nBjörck.\n\nAB. Arthur Svensson, Forserum.\n\nTillverkar tvättklämmor,\nrullgardinkäppar och rullgardiner vid fabrik i\nForserum (Jönköp. l.).\n\nTelefon: 70. Postgiro: 24729. -\nAkt.-kap.: 65,000 kr. Antal industriarb.: 25.\nTillv.-värde pr år: 300,000 kr. — Bolaget\ngrundat 1926.\n\nVerkst. dir.: fabr. Arthur Svensson.\n\n*AB. C. L. Svensson &amp; Söner,\n\nNorrköping.\n\nUllspinneri och klädesfabrik.\nTillverkar ullgarn och yllevävnader såsom filtar,\nplädar, schalar, tyger m. m.\n\nTelefon: 20121 o. 31251. Postgiro:\n11093.\n\nAkt.-kap.: 500,000 kr. Antal\nindustriarb.: 115. Tillv.-värde pr år: 1,500,000 kr.\n— Firman etabl. 1877, bolag 1913.\n\nStyrelse: änkefru Sigrid Fredrikson,\ndisp. Axel Svensson, fabr. Erik Svensson.\n\nVerkst. direktörer: Axel Svensson o.\nErik Svensson.\n\nAB. C. 0. Svenssons Sliperi- &amp;\nSpegelfabrik, Asarum.\n\n^ Tillverkar speglar, bordsglas, skyltglas,\nbilglas m. m., glasmontrar och\nbutiksinredningar av glas samt utför\nsandbläst-ring av glas vid fabrik i Asarum\n(Blekinge l.).\n\nTelefon: 55. Postgiro: 22419. —\nAkt.-kap.: 23,000 kr. Antal industriarb.: 15.\nTillv.-värde pr år: 175,000 kr. — Firman\netabl. 1903, bolag 1944.\n\nVerkst. dir.: Holger Ovelius.\n\nC. Wilh. Svenssons Trävaru AB.,\n\nNorrtälje.\n\nSågverk vid Björnö gård (Norrtälje)\nsamt i Fårbo pr Oskarshamn och\nBerg-kvara (Kalmar l.). Tillverkar pitprops,\ngruvsleepers, snickerier, sågade trävaror,\nlådbräder och telegrafstolpar. Bolaget\ndriver jämväl handel med byggnadsmateriel\nav främmande fabrikat.\n\nHuvudkontor: Björnö gård, Norrtälje.\nTelegr.-adr.: Props, Norrtälje. Telefon:\n601 o. 603. Postgiro: 89829. Avd.-kontor:\nKalmar. Telegr.-adr.: Props, Kalmar.\nTelefon: 612, 1212 o. 783. Postgiro:\n171460.\n\nAkt.-kap.: 150,000 kr. Antal\nindustriarb.: 90. — Firman etabl. 1910, bolag\n1920.\n\nStyrelse o. verkst. dir.: C. Wilh.\nSvensson.\n\nKontorschef i Kalmar: disp. A.\nWah-ledow.\n\n* Hjalmar Svenson &amp; Co.,\n\nFalkenberg.\n\nTillverkar sport- och arbetsskodon med\ngummi- eller läderbotten. Firman driver\näven engroshandel med läder.\n\nTelegr.-adr.: Hjalmarsko, Falkenberg.\nTelefon: 142. Postgiro: 9008.\n\nAntal industriarb.: 40. Tillv.-värde pr\når: 700,000 kr. — Firman etabl. 1905.\n\nÄgare o. chefer: fabr. Hjalmar\nSvenson o. fabr. Tobias Svenson.\n\nHugo Svensson &amp; Co. Foto AB.,\n\nGöteborg.\n\nSnickeriverkstad och mek. verkstad\nför tillverkning av fotografisk apparatur\nsåsom ateljékameror (märke:\n»Multi-plex») för seriefoto, ateljéstativ,\nförsto-rings- och kopieringsapparater,\nglans-pressar, torrmonteringsapparater,\nmörkrumslyktor m. m. Bolaget driver även\nengroshandel med fotografiska artiklar.\n\nHuvudkontor: Göteborg, Storg. 13.\nTe-legr.-adr.: Kamera, Göteborg. Telefon:\n113853. Postgiro: 40557. Avd.-kontor:\nStockholm, Apelbergsg. 57, telegr.-adr.:\nKamera, Stockholm, telefon: 202421.\n\nAkt.-kap.: 160,000 kr. Antal\nindustriarb.: 16. Tillv.-värde pr år: 150,000 kr.\n— Firman etabl. 1890, bolag 1943.\n\nStyrelse o. verkst. dir.: Yngve\nSvensson.\n\nDir.-assistent: Frey Svensson.\n\nAvd.-chef i Stockholm: ing. Albert\nSvensson.",
+    "structured": {
+        "firms": [
+            {
+                "name": "AB. Allan Svensson",
+                "location": "Malmö",
+                "business": "Färgfabrik",
+                "products": "Tillverkar läcker, lackoeli oljefärger, cellulosalacker, kitt, bon-vax, linolja, impregneringsoljor, industri-fetter, turkisk rödolja samt konsistens-fett. Driver även engroshandel med kemikalier, torra färger, oljor och syror.",
+                "contact": {
+                    "office": "Stortorget 17",
+                    "phone": [
+                        "Allan Svensson"
+                    ],
+                    "postgiro": "39259"
+                },
+                "financials": {
+                    "capital": "300,000 kr",
+                    "employees": {
+                        "industriarb": 40
+                    },
+                    "annual_turnover": "4,500,000 kr",
+                    "annual_production_value": "4,500,000 kr"
+                },
+                "foundation_year": 1936,
+                "board": [
+                    {
+                        "name": "Allan Svensson",
+                        "role": "Verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "AB. Arthur Svensson",
+                "location": "Forserum",
+                "business": "Tillverkar tvättklämmor, rullgardinkäppar och rullgardiner",
+                "contact": {
+                    "phone": "70",
+                    "postgiro": "24729"
+                },
+                "financials": {
+                    "capital": "65,000 kr",
+                    "employees": {
+                        "industriarb": 25
+                    },
+                    "annual_turnover": "300,000 kr",
+                    "annual_production_value": "300,000 kr"
+                },
+                "foundation_year": 1926,
+                "board": [
+                    {
+                        "name": "fabr. Arthur Svensson",
+                        "role": "Verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "AB. C. L. Svensson & Söner",
+                "location": "Norrköping",
+                "business": "Ullspinneri och klädesfabrik",
+                "products": "Tillverkar ullgarn och yllevävnader såsom filtar, plädar, schalar, tyger m. m.",
+                "contact": {
+                    "phone": [
+                        "20121",
+                        "31251"
+                    ],
+                    "postgiro": "11093"
+                },
+                "financials": {
+                    "capital": "500,000 kr",
+                    "employees": {
+                        "industriarb": 115
+                    },
+                    "annual_turnover": "1,500,000 kr",
+                    "annual_production_value": "1,500,000 kr"
+                },
+                "foundation_year": 1877,
+                "board": [
+                    {
+                        "name": "änkefru Sigrid Fredrikson",
+                        "role": "Styrelse"
+                    },
+                    {
+                        "name": "disp. Axel Svensson",
+                        "role": "Styrelse"
+                    },
+                    {
+                        "name": "fabr. Erik Svensson",
+                        "role": "Styrelse"
+                    },
+                    {
+                        "name": "Axel Svensson",
+                        "role": "Verkst. direktör"
+                    },
+                    {
+                        "name": "Erik Svensson",
+                        "role": "Verkst. direktör"
+                    }
+                ]
+            },
+            {
+                "name": "AB. C. O. Svenssons Sliperi- & Spegelfabrik",
+                "location": "Asarum",
+                "products": "Tillverkar speglar, bordsglas, skyltglas, bilglas m. m., glasmontrar och butiksinredningar av glas samt utför sandbläst-ring av glas",
+                "contact": {
+                    "phone": "55",
+                    "postgiro": "22419"
+                },
+                "financials": {
+                    "capital": "23,000 kr",
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_turnover": "175,000 kr",
+                    "annual_production_value": "175,000 kr"
+                },
+                "foundation_year": 1903,
+                "board": [
+                    {
+                        "name": "Holger Ovelius",
+                        "role": "Verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "C. Wilh. Svenssons Trävaru AB.",
+                "location": "Norrtälje",
+                "products": "Tillverkar pitprops, gruvsleepers, snickerier, sågade trävaror, lådbräder och telegrafstolpar",
+                "contact": {
+                    "office": "Björnö gård, Norrtälje",
+                    "phone": [
+                        "601",
+                        "603"
+                    ],
+                    "postgiro": "89829",
+                    "telegraph": "Props, Norrtälje",
+                    "factory_phone": "171460"
+                },
+                "financials": {
+                    "capital": "150,000 kr",
+                    "employees": {
+                        "industriarb": 90
+                    }
+                },
+                "foundation_year": 1910,
+                "board": [
+                    {
+                        "name": "C. Wilh. Svensson",
+                        "role": "Styrelse o. verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "Hjalmar Svenson & Co.",
+                "location": "Falkenberg",
+                "products": "Tillverkar sport- och arbetsskodon med gummi- eller läderbotten",
+                "contact": {
+                    "telegraph": "Hjalmarsko, Falkenberg",
+                    "phone": "142",
+                    "postgiro": "9008"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 40
+                    },
+                    "annual_turnover": "700,000 kr"
+                },
+                "foundation_year": 1905,
+                "owners": [
+                    "fabr. Hjalmar Svenson",
+                    "fabr. Tobias Svenson"
+                ]
+            },
+            {
+                "name": "Hugo Svensson & Co. Foto AB.",
+                "location": "Göteborg",
+                "products": "Snickeriverkstad och mek. verkstad för tillverkning av fotografisk apparatur",
+                "contact": {
+                    "office": "Göteborg, Storg. 13",
+                    "phone": [
+                        "113853"
+                    ],
+                    "postgiro": "40557",
+                    "telegraph": "Kamera, Göteborg",
+                    "factory_phone": "150,000 kr"
+                },
+                "financials": {
+                    "capital": "160,000 kr",
+                    "employees": {
+                        "industriarb": 16
+                    },
+                    "annual_turnover": "150,000 kr"
+                },
+                "foundation_year": 1890,
+                "board": [
+                    {
+                        "name": "Yngve Svensson",
+                        "role": "Styrelse o. verkst. dir."
+                    },
+                    {
+                        "name": "Frey Svensson",
+                        "role": "Dir.-assistent"
+                    }
+                ],
+                "sales_manager": "Albert Svensson"
+            }
+        ]
+    }
+}

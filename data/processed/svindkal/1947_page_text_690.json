@@ -1,0 +1,153 @@
+{
+    "original": "Svenska\n\nAkt.-kap.: 323,200 kr. Antal\nindustriarb.: 25. Tillv.-värde pr år: 720,000 kr.\n— Bolaget grundat 1910.\n\nStyrelse-, dir. Martin Hedberg (ordf.),\nköpm. Josua Gustafson, disp. Carl\nSand-quist.\n\nDisp.: Carl Sandquist.\n\nFörsäljn.-chef: Josua Gustafson.\n\nAB. Svenska Tandborstfabriken,\n\nTyringe.\n\nTillverkar tandborstar och nagelborstar\nvid fabrik i Tyringe (Kristianst. l.).\nSpecialitet: nagelborstar av celluloid.\nVarumärke: »Rix».\n\nTelegr.-adr.: Tandborste, Tyringe.\nTelefon: 380. Postgiro: 24188. — Akt.-kap.:\n35,000 kr. Antal industriarb.: 34.\nTillv.-värde pr år: 500,000 kr. — Bolaget\ngrundat 1934.\n\nVerkst. dir.: Eric A. Sjöberg.\n\nSvenska Textilindustri AB. Stiab,\n\nUlricehamn.\n\nDamkonfektionsfabrik. Tillverkar\nklänningar, blusar och kjolar.\n\nTelefon: 450. Postgiro: 135975. —\nAkt.-kap.: 35,000 kr. Antal industriarb.:\n21. — Firman etabl. 1936, bolag 1939.\n\nVerkst. dir.: Curt H. Petersson.\n\nAB. Svenska Textilverken,\n\nGenevad.\n\nCottoniseringsverk och spinneri i\nGe-nevad (Hallands l.). Tillverkar garner\nför industri och hemslöjd såsom cottoni-v\nserat lin, cottolin och splendolingarner.\nVarumärken: »Cottolin» o. »Splendolin».\n\nTelegr.-adr.: Textilverken, Genevad.\nTelefon: 1 o. 19. Postgiro: 146391.\n\nAkt.-kap.: 550,000 kr. Antal\nindustriarb.: 150. — Bolaget grundat 1937.\n\nVerkst. dir.: textiling. J. Tschudi.\n\n*AB, Svenska Tobaksmonopolet,\n\nStockholm.\n\nTobaksmonopolet, grundat 1914, utövar\nsvenska statens monopol å tillverkning\noch import av tobaksvaror samt äger\ntobaksfabriker i Stockholm, Göteborg,\nMalmö, Södertälje, Arvika, Gävle och\nHärnösand. Tillverkningen omfattar cigarrer,\ncigarrcigarretter, cigarretter, röktobak,\ntuggtobak samt snus.\n\nHuvudkontor: Stockholm, Maria Bang.\n6; postadr.: Tobaksmonopolet, Stockholm\n4. Telegr.-adr. o. telefon:\nTobaksmonopolet, Stockholm. Postgiro: 47.\n\nAvd. för import av färdiga tobaksvaror :\nStockholm, Maria Bang. 2B; postadr.:\nTobaksvaruimporten, Stockholm 4.\nTelegr.-adr.: Tobaksimport, Stockholm;\ntelefon: Tobaksmonopolet. Postgiro: 99.\n\nFörsäljn.-kontor: Stockholm, Göteborg,\nMalmö, Karlskrona, Jönköping,\nNorrköping, Örebro, Gävle, Härnösand,\nÖstersund och Luleå.\n\nAkt.-kap.: 30,000,000 kr., varav 29\nmilj. kronor i stamaktier, ägda av svenska\nstaten, samt 1 milj. kronor i pref.-aktier.\n\nTillv.-värde år 1945: 344,000,000 kr.\nTotala arb.-antalet 31 dec. 1945: 1,934.\n\nStyrelse: av Kungl. Maj:t utsedda\nledamöter: landshövd. Karl Levinson (ordf.),\ngeneraldir. P. S. Runemark (v. ordf.),\nred. Harald Åkerberg, dir. Fritjof\nEkman; av bolaget valda ledamöter: dir.\nRagnar Blomquist, godsäg. Gösta\nLied-berg, dir. E. Tunhammar, dir. P. O.\nWesterberg.\n\nVerkst. dir.: P. O. Westerberg.\n\nTeknisk chef: civiling. Pehr Olof\nHolsti.\n\nOmbudsman: jur. kand. Eric Vasseur.\n\nKontors- o. personalchef: A. Niwong.\n\nKamrer: T. Bergqvist.\n\nT obaks experter: Gösta Nordström o.\nDavid F. Larsson.\n\növering.: civiling. S. Ekroth.\n\nFörsäljn.-chef: B. Collén.\n\nInköpschef: N. E. Hedlund.\n\nFabriksdisponenter:\nStockholm: E. Malmgren;\nGöteborg: Walter Andersson.\nMalmö: Åke Wallberg;\nSödertälje: B. Holm;\nArvika: Ludv. Rasmussen o. Sven\n\nDahlgren;\nGävle: E. André;\nHärnösand: Hans Sandberg.\n\nDisp. för Tobaksvaruimporten: Gustaf\nWenker.\n\nSvenska Traktor AB., Stockholm.\n\nService- och reparationsverkstad för\ntraktorer och vägmaskiner samt för\ndärtill hörande jordbruks- och\nindustriredskap. Bolaget driver såsoni huvudrörelse\nhandel med jordbruksmaskiner och\nredskap av utländskt fabrikat.\n\nKontor: Mariehäll; postadr.:\nStockholm 12. Telegr.-adr.: Svensktrak,\nStockholm. Telefon: Stockholm 282750.\nPostgiro: 159783.\n\nAkt.-kap.: 300,000 kr. Antal\nindustriarb.: 15. — Bolaget grundat 1935.",
+    "structured": {
+        "firms": [
+            {
+                "name": "AB. Svenska Tandborstfabriken",
+                "location": "Tyringe",
+                "business": "Tillverkar tandborstar och nagelborstar vid fabrik i Tyringe (Kristianst. l.)",
+                "products": "Specialitet: nagelborstar av celluloid. Varumärke: »Rix».",
+                "contact": {
+                    "office": "Tyringe",
+                    "phone": [
+                        "380"
+                    ],
+                    "postgiro": "24188",
+                    "telegraph": "Tandborste, Tyringe"
+                },
+                "financials": {
+                    "capital": "35,000 kr",
+                    "employees": {
+                        "industriarb.": 34
+                    },
+                    "annual_turnover": "500,000 kr"
+                },
+                "foundation_year": 1934
+            },
+            {
+                "name": "Svenska Textilindustri AB. Stiab",
+                "location": "Ulricehamn",
+                "business": "Damkonfektionsfabrik",
+                "products": "Tillverkar klänningar, blusar och kjolar",
+                "contact": {
+                    "phone": [
+                        "450"
+                    ],
+                    "postgiro": "135975"
+                },
+                "financials": {
+                    "capital": "35,000 kr",
+                    "employees": {
+                        "industriarb.": 21
+                    }
+                },
+                "foundation_year": 1936,
+                "corporation_year": 1939
+            },
+            {
+                "name": "AB. Svenska Textilverken",
+                "location": "Genevad",
+                "business": "Cottoniseringsverk och spinneri i Genevad (Hallands l.)",
+                "products": "Tillverkar garner för industri och hemslöjd såsom cottoniserat lin, cottolin och splendolingarner. Varumärken: »Cottolin» o. »Splendolin»",
+                "contact": {
+                    "office": "Genevad",
+                    "phone": [
+                        "1",
+                        "19"
+                    ],
+                    "postgiro": "146391",
+                    "telegraph": "Textilverken, Genevad"
+                },
+                "financials": {
+                    "capital": "550,000 kr",
+                    "employees": {
+                        "industriarb.": 150
+                    }
+                },
+                "foundation_year": 1937
+            },
+            {
+                "name": "AB, Svenska Tobaksmonopolet",
+                "location": "Stockholm",
+                "products": "Tobaksmonopolet, grundat 1914, utövar svenska statens monopol å tillverkning och import av tobaksvaror samt äger tobaksfabriker i Stockholm, Göteborg, Malmö, Södertälje, Arvika, Gävle och Härnösand. Tillverkningen omfattar cigarrer, cigarrcigarretter, cigarretter, röktobak, tuggtobak samt snus.",
+                "contact": {
+                    "head_office": "Stockholm",
+                    "phone": [
+                        "Maria Bang. 6"
+                    ],
+                    "postgiro": "47",
+                    "sales_offices": [
+                        {
+                            "location": "Stockholm",
+                            "phone": "Maria Bang. 2B"
+                        },
+                        {
+                            "location": "Göteborg",
+                            "phone": ""
+                        },
+                        {
+                            "location": "Malmö",
+                            "phone": ""
+                        },
+                        {
+                            "location": "Karlskrona",
+                            "phone": ""
+                        },
+                        {
+                            "location": "Jönköping",
+                            "phone": ""
+                        },
+                        {
+                            "location": "Norrköping",
+                            "phone": ""
+                        },
+                        {
+                            "location": "Örebro",
+                            "phone": ""
+                        },
+                        {
+                            "location": "Gävle",
+                            "phone": ""
+                        },
+                        {
+                            "location": "Härnösand",
+                            "phone": ""
+                        },
+                        {
+                            "location": "Östersund",
+                            "phone": ""
+                        },
+                        {
+                            "location": "Luleå",
+                            "phone": ""
+                        }
+                    ],
+                    "financials": {
+                        "capital": "30,000,000 kr",
+                        "annual_turnover": "344,000,000 kr"
+                    },
+                    "foundation_year": 1914
+                }
+            },
+            {
+                "name": "Svenska Traktor AB.",
+                "location": "Stockholm",
+                "business": "Service- och reparationsverkstad för traktorer och vägmaskiner samt för därtill hörande jordbruks- och industriredskap. Bolaget driver såsoni huvudrörelse handel med jordbruksmaskiner och redskap av utländskt fabrikat",
+                "contact": {
+                    "office": "Mariehäll",
+                    "phone": [
+                        "Stockholm 282750"
+                    ],
+                    "postgiro": "159783"
+                },
+                "financials": {
+                    "capital": "300,000 kr",
+                    "employees": {
+                        "industriarb.": 15
+                    }
+                },
+                "foundation_year": 1935
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "original": "Viking— Wikström\n\ni bolaget innehaves av Hammarforsens\nKraft AB.\n\nStyrelse: bankdir. P. F. Wåhlin\n(ordf.), dir. Arved Arvedson.\n\nVerkst. dir.; Arved Arvedson.\n\n’Viking AB., Biyertsfabriken,\n\nStockholm.\n\nSe Blyertsfabriken Viking AB.,\nStockholm\n\n’Vikings Kemisk-Tekniska Fabrik,\n\nÖrebro.\n\nSe Industri AB. Viking, Örebro.\n\n’Viking, Konfektions AB.,\n\nTrollhättan.\n\nSe Konfektions AB. Viking,\nTrollhättan.\n\nWikings Mek. Verkstad, Göteborg.\n\nTillverkar trycksmörjkannor,\npressverktyg, maskiner för fiskberedning,\nbutiksfasader i metall, skyltställ m. m. samt\nutför galvaniska ytbeläggningar såsom\nförkromning, fÖrniekling, kadmiering etc.\n\nKontor: Kustens Varv, Göteborg.\nTelefon: 147152 o. 145842. Postgiro: 42406.\n\nAntal industriarb.: 50. Tillv.-värde pr\når: 300,000 kr. — Firman etabl. 1908.\n\nÄgare o. chefer: fabr. Gustaf Wiking o.\ning. Håkan Wiking.\n\n’Vikingsågar, AB. Lidköpings,\n\nLidköping.\n\nSe AB. Lidköpings Vikingsågar,\nLidköping.\n\n’Wikmanshytte Bruks AB.,\n\nVikmanshyttan.\n\nStålverk med anrikningsverk, sintrings-\n\nverk, masugn, degelstålugnar, elektr.\nstålugnar samt valsverk, smidesverkstäder\noch hårdmetallverk vid Vikmanshyttan,\nsulfitfabrik, sågverk och hyvleri vid\nTurbo (samtl. i Kopparb. l.).\n\nTillverkar tackjärn, verktygsstål,\nsnabbstål, rostfritt stål, kromnickelstål,\nhårdmetall, hammare m. m., sågade och\nhyvlade trävaror samt blekt sulfitcellulosa\n(viskoscellulosa). Bolaget idkar jämväl\njordbruk och skogshantering.\n\nTelegr.-adr.: Wikmanshyttan,\nHedemora. Telefon: »Wikmanshyttebruk»,\nHedemora. Postgiro: 9119. Lager av stål:\ni Stockholm: AB. Julius Slöör; i\nGöteborg: Firma Elof Hansson; i Malmö:\n\nBröderna Edstrand AB.; i Eskilstuna:\nEskilstuna Jernmanufåktur AB.; i\nSundsvall: AB. Fröberg &amp; Sjöberg.\n\nAkt.-kap.: 5,000,000 kr. Antal\nindustriarb.: 500. Tillv.-värde pr år: 10,000,000\nkr.\n\nBolaget, som bildades 1922, har\növertagit Larsbo-Norns AB., grundat 1873,\nsamt äger Ulfshytte Jernverks AB. o.\nRisshytte Bruks AB.\n\nStyrelse; f. d. statssekr. Lars Rabenius\n(ordf.), e. jägm. Lars H. Carlsson, disp.\nArvid Olsson, bankdir. Jacob Wallenberg.\n\nVerkst. dir. o. disp.: Arvid Olsson.\n\növering.: Edv. Berg.\n\nFörsäljn.-chef: Arthur Törnquist.\n\nInköpschef: Y. Löfstedt.\n\nLab or atorie förest, vid stålverket: J.\nOrup.\n\nDriftsing. vid cellulosafabriken: Karl\nKarlström.\n\nSågverksinsp.: Erik Leffler.\n\n’Wiksfors AB., Stockholm.\n\nMek. verkstad i Långserud (Värml. l.).\nTillverkar handredskap såsom spadar,\nskyfflar, grepar, högafflar, gödselrakor,\npotatishackor, krattor, lövräfsor m. m.\nVarumärken: »Banko» o. »Bull».\n\nHuvudkontor o. ensamförsälj.: AB.\nOdelberg &amp; Olson, Stockholm, Kungsg.\n4 A. Telegr.-adr. o. telefon:\nOdelberg-olson, Stockholm. Postgiro: 1408.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 40. Tillv.-värde pr år: 400,000 kr.\n— Bolaget grundat 1908.\n\nStyrelse: bruksdisp. Olof Hjorth (ordf.),\nadv. L. Levy, disp. S. Lindstedt, dir. S.\nPonsbach, dir. K.-E. Tiblom.\n\nVerkst. dir.: K.-E. Tiblom.\n\nDisp. i Långserud: Simon Lindstedt.\n\nAB. Wikstrand &amp; Berg, Mora.\n\nMek. verkstad i Mora (Kopparb. l.).\nTillverkar stegar, staket, grindar, stolar,\nbyggnadsställningar m. m. av stålrör samt\nbilbärgningsapparater. Varumärken:\n»Wi-be» o. »Autotraktor».\n\nTelegr.-adr.: Wibe, Mora. Telefon: 480.\nPostgiro: 77622.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 30. — Firman etabl. 1929, bolag\n1936.\n\nStyrelse: fabr. P.-E. Berg, kamrer Sven\nLindstedt, fabr. Anders Wikstrand.\n\nVerkst. dir.: Anders Wikstrand.\n\nAB. Wikström &amp; Nord,\n\nKristinehamn.\n\nSnickeri- och orgelfabrik. Tillverkar\nbutiksinredningar och snickerier samt\norglar.",
+    "structured": {
+        "1": {
+            "name": "Viking",
+            "location": "Stockholm",
+            "business": "Blyertsfabrik",
+            "contact": {
+                "office": "Kustens Varv, Göteborg",
+                "phone": [
+                    "147152",
+                    "145842"
+                ],
+                "postgiro": "42406"
+            },
+            "financials": {
+                "capital": null,
+                "employees": {
+                    "industriarb": 50
+                },
+                "annual_turnover": "300,000 kr",
+                "annual_production_value": null
+            },
+            "foundation_year": 1908,
+            "owners": [
+                "fabr. Gustaf Wiking",
+                "ing. Håkan Wiking"
+            ]
+        },
+        "2": {
+            "name": "Vikingsågar AB",
+            "location": "Lidköping",
+            "business": null,
+            "contact": null,
+            "financials": {
+                "capital": "5,000,000 kr",
+                "employees": {
+                    "industriarb": 500
+                },
+                "annual_turnover": "10,000,000 kr",
+                "annual_production_value": null
+            },
+            "foundation_year": 1922,
+            "owners": null
+        },
+        "3": {
+            "name": "Wikmanshytte Bruks AB",
+            "location": "Vikmanshyttan",
+            "business": "Stålverk",
+            "contact": {
+                "telegraph": "Wikmanshyttan, Hedemora",
+                "phone": "»Wikmanshyttebruk», Hedemora",
+                "postgiro": "9119"
+            },
+            "financials": {
+                "capital": "5,000,000 kr",
+                "employees": {
+                    "industriarb": 500
+                },
+                "annual_turnover": "10,000,000 kr",
+                "annual_production_value": null
+            },
+            "foundation_year": 1922,
+            "owners": null
+        },
+        "4": {
+            "name": "Wiksfors AB",
+            "location": "Stockholm",
+            "business": "Mek. verkstad",
+            "contact": {
+                "office": "Långserud (Värml. l.)",
+                "phone": null,
+                "postgiro": "1408"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 40
+                },
+                "annual_turnover": "400,000 kr",
+                "annual_production_value": null
+            },
+            "foundation_year": 1908,
+            "owners": null
+        },
+        "5": {
+            "name": "AB. Wikstrand & Berg",
+            "location": "Mora (Kopparb. l.)",
+            "business": "Mek. verkstad",
+            "contact": {
+                "telegraph": "Wibe, Mora",
+                "phone": "480",
+                "postgiro": "77622"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": null,
+                "annual_production_value": null
+            },
+            "foundation_year": 1929,
+            "owners": null
+        }
+    }
+}

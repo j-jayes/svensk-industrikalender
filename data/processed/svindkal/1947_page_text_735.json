@@ -1,0 +1,195 @@
+{
+    "original": "Töreboda— Uddeholm\n\n\"Töreboda Tråd- &amp; Spikfabrik, Karl\n\nEkberg, Töreboda.\n\nTråddrageri och spikfabrik i Töreboda\n(Skarab. L). Tillverkar trådspik, glödgad,\ngalvaniserad och koppardragen järntråd.\n\nTelefon: 235. Postgiro: 15070. Repr. i\nStockholm: Harry Wiberg, Västmannag.\n3, telefon213134.\n\nAntal industriarb.: 20. Tillv.-värde\npr. år: 650,000 kr. — Firman etabl. 1929.\n\nÄgare o. chef: fabr. Karl Ekberg.\n\n*Törefors AB., Töre.\n\nFabrik för tillverkning av\nträfiberplattor (wallboard) (varumärken: »Torex» o.\n»Jonitex») samt sågverk och hyvleri vid\nTöre (Norrbott. l.).\n\nTillverkar träfiberplattor av hård,\nhalvhård och porös kvalitet samt sågade\noch hyvlade trävaror.\n\nTelegr.-adr.: Törefors, Kalix. Telefon:\nTöre 3, 25, 32, 76 o. 93. Postgiro: 60935.\nRepr. i Stockholm för wallboard: Ture\nGrenby, Kungsg. 15. Telefon: 100320.\n\nAkt.-kap.: 800,000 kr. Antal\nindustriarb.: 225. Årstillv.: 8,000 ton\nträfiberplattor, 10,000 stds trävaror. — Bolaget\ngrundat 1927.\n\nStyrelse: adv. G. Linse (ordf.),\nbankdir. Gunnar Dahlgren, stadsdir. Gunnar\nLindvall, kassör Torsten Nilsson, dir.\nLars Sandström..\n\nVerkst. dir.: Lars Sandström.\n\nDisp.: Holger Sandström.\n\nu\n\n* utmärker till Sveriges Industriförbund anslutna företag.\n\n*Uddebo Möbeltyg Väfverl AB.,\n\nUddebo.\n\nTillverkar möbeltyger, gobeliner, filtar\nav bomull, divantäcken, skoplysch,\nkorsettyger m. m. vid fabrik i Uddebo\n(Älvsb. l.).\n\nTelegr.-adr.: Väfveriet, Uddebo.\nTelefon: Svenljunga 27020. Postgiro: 5562.\n\nAkt.-kap.: 400,000 kr. Antal\nindustriarb.: 90. Tillv.-värde pr år: 2,000,000 kr.\n— Firman etabl. 1897, bolag 1944.\n\nStyrelse: fabr. Ricli. Claeson (ordf.),\ndisp. Helge Claeson (v. ordf.),\ndisp.-assist. Bengt Claeson.\n\nVerkst. dir.: Helge Claeson.\n\nTehn. ledare: Nils Auer.\n\nKontorschef: L. Neergaard.\n\n733*\n\n\"AB. Klas Törnblom, Eskilstuna.\n\nSe Fabriks AB. Klas Törnblom,\nEskilstuna.\n\n\"AB. Törneli &amp; Ringström,\n\nNorrköping.\n\nYllefabrik med spinneri, väveri,\nappre-turverk och färgeri. Tillverkar herr- och\ndamtyger i helylle.\n\nTelegr.-adr.: Törnelis, Norrköping.\nTelefon: 29300—03. Postgiro: 91500.\n\nAkt.-kap.: 500,000 kr. Antal\nindustriarb.: 150. Tillv.-värde pr år: 2,000,000 kr.\n— Fabriken anlagd 1897.\n\nStyrelse: dir. Kristian Kark, ing. Kurt\nPålmark, bankdir. John Wagrell.\n\nVerkst. dir.: Kristian Kark.\n\nKontorschef: Bror Englund.\n\nAB. W. S. Törsleff, Stockholm.\n\nStrå- och filthattfabrik. Tillverkar\ndamhattar. Bolaget driver även\nengroshandel med modevaror.\n\nKontor: Bryggarg. 17. Telegr.-adr.:\nTörsleff, Stockholm. Telefon: 232715.\nPostgiro: 843.\n\nAkt.-kap.: 200,000 kr. Antal\nindustriarb.: 30. — Firman etabl. 1881, bolag\n1907.\n\nVerkst. dir.: Folke Törsleff.\n\n*\tUddebo Trikåfabrik, Uddebo.\n\nSe AB. Sveriges Förenade\nTrikåfabri-ker, Borås.\n\n*\tUddebo Träförädling, Brandsmo.\n\nSe Brandsmo Sågverk, Brandsmo.\n\n*\tUddeholms AB., Uddeholm.\n\nBolaget äger Hagfors, Munkfors,\nStorfors och Nykroppa järnverk,\nSkoghalls-verken, Tabergs, Nordmarks och\nFinn-mossens järnmalmsgruvor samt är\nhuvudintressent i Persbergs och Långbans\ngruvor (samtl. i Värml. l.) och\nTuolluvaära-fältet (Norrbott. l.). Varumärke: »UHB».",
+    "structured": {
+        "1": {
+            "name": "Töreboda Tråd- & Spikfabrik, Karl Ekberg",
+            "location": "Töreboda",
+            "business": "Tråddrageri och spikfabrik",
+            "contact": {
+                "office": "Karl Ekberg, Töreboda",
+                "phone": [
+                    "235"
+                ],
+                "postgiro": "15070",
+                "head_office": "Töreboda",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "213134"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "Not available",
+                "employees": {
+                    "industrial_workers": 20
+                },
+                "annual_turnover": "Not available",
+                "annual_production_value": "650,000 kr"
+            },
+            "foundation_year": 1929,
+            "owner": "Karl Ekberg"
+        },
+        "2": {
+            "name": "Törefors AB., Töre",
+            "location": "Töre",
+            "business": "Fabrik för tillverkning av träfiberplattor",
+            "products": "Tillverkar träfiberplattor av hård, halvhård och porös kvalitet samt sågade och hyvlade trävaror",
+            "contact": {
+                "telegraph": "Törefors, Kalix",
+                "phone": [
+                    "3",
+                    "25",
+                    "32",
+                    "76",
+                    "93"
+                ],
+                "postgiro": "60935",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "100320"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "800,000 kr",
+                "employees": {
+                    "industrial_workers": 225
+                },
+                "annual_turnover": "Not available",
+                "annual_production_value": "8,000 ton träfiberplattor, 10,000 stds trävaror"
+            },
+            "foundation_year": 1927,
+            "board": [
+                {
+                    "name": "adv. G. Linse",
+                    "role": "ordf."
+                },
+                {
+                    "name": "bankdir. Gunnar Dahlgren",
+                    "role": ""
+                },
+                {
+                    "name": "stadsdir. Gunnar Lindvall",
+                    "role": ""
+                },
+                {
+                    "name": "kassör Torsten Nilsson",
+                    "role": ""
+                },
+                {
+                    "name": "dir. Lars Sandström",
+                    "role": ""
+                }
+            ],
+            "director": "Lars Sandström"
+        },
+        "3": {
+            "name": "Uddebo Möbeltyg Väfverl AB.",
+            "location": "Uddebo",
+            "business": "Tillverkar möbeltyger, gobeliner, filtar av bomull, divantäcken, skoplysch, korsettyger m. m.",
+            "contact": {
+                "telegraph": "Väfveriet, Uddebo",
+                "phone": [
+                    "27020"
+                ],
+                "postgiro": "5562"
+            },
+            "financials": {
+                "capital": "400,000 kr",
+                "employees": {
+                    "industrial_workers": 90
+                },
+                "annual_turnover": "2,000,000 kr",
+                "annual_production_value": "Not available"
+            },
+            "foundation_year": 1944,
+            "board": [
+                {
+                    "name": "fabr. Ricli. Claeson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "disp. Helge Claeson",
+                    "role": "v. ordf."
+                },
+                {
+                    "name": "disp.-assist. Bengt Claeson",
+                    "role": ""
+                }
+            ],
+            "managing_director": "Helge Claeson",
+            "sales_manager": "Not available",
+            "manager": "Not available"
+        },
+        "4": {
+            "name": "AB. Törneli & Ringström",
+            "location": "Norrköping",
+            "business": "Yllefabrik med spinneri, väveri, appreturverk och färgeri",
+            "products": "Tillverkar herr- och damtyger i helylle",
+            "contact": {
+                "telegraph": "Törnelis, Norrköping",
+                "phone": [
+                    "29300-03"
+                ],
+                "postgiro": "91500"
+            },
+            "financials": {
+                "capital": "500,000 kr",
+                "employees": {
+                    "industrial_workers": 150
+                },
+                "annual_turnover": "2,000,000 kr",
+                "annual_production_value": "Not available"
+            },
+            "foundation_year": 1897,
+            "board": [
+                {
+                    "name": "dir. Kristian Kark",
+                    "role": ""
+                },
+                {
+                    "name": "ing. Kurt Pålmark",
+                    "role": ""
+                },
+                {
+                    "name": "bankdir. John Wagrell",
+                    "role": ""
+                }
+            ],
+            "director": "Kristian Kark"
+        },
+        "5": {
+            "name": "AB. W. S. Törsleff",
+            "location": "Stockholm",
+            "business": "Strå- och filthattfabrik",
+            "products": "Tillverkar damhattar. Bolaget driver även engroshandel med modevaror",
+            "contact": {
+                "office": "Bryggarg. 17",
+                "telegraph": "Törsleff, Stockholm",
+                "phone": [
+                    "232715"
+                ],
+                "postgiro": "843"
+            },
+            "financials": {
+                "capital": "200,000 kr",
+                "employees": {
+                    "industrial_workers": 30
+                },
+                "annual_turnover": "Not available",
+                "annual_production_value": "Not available"
+            },
+            "foundation_year": 1907,
+            "managing_director": "Folke Törsleff"
+        },
+        "6": {
+            "name": "Uddeholms AB.",
+            "location": "Uddeholm",
+            "business": "Bolaget äger järnverk, järnmalmsgruvor samt är huvudintressent i andra järnmalmsgruvor",
+            "products": "Varumärke: »UHB»..",
+            "president": "Not available"
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "original": "Westholm—Vetlanda\n\nÄB. Gunnar Westholm,\n\nStockholm.\n\nTjärpappf abrik, tjär- och\noljeraffinaderi, färgfabrik och kemisk industri i\nUlvsunda, Stockholm. Tillverkar\nbyggnadspapp, isoleringsmedel för järn och\nträ, asfaltlacker samt eldskyddsfärg\n(varumärke: »Guwe»),\n\nKontor: Kungsg. 2. Telegr.-adr.:\nWestbolag, Stockholm. Telefon: 230880.\nPostgiro: 52116.\n\nAkt.-kap.: 120,000 kr. Antal\nindustriarb.: 60. Årstillv.: 2,000 ton\nbyggnadspapp. — Bolaget, grundat 1930, äger\nBergsjöverken AB., Bergsjö, o. AB.\nMyresjö-Hus, Myresjö.\n\nVerkst. dir.: Gunnar Westholm.\n\nDisp.: Guy Nordlander.\n\nFörsäljn.-chef: Lennart Bergström.\n\n*Westins Ateljé, Stockholm.\n\nGuld-, silver- och metallvarufabrik.\nTillverkar medaljer, plaketter och\nföreningsmärken, knappar, uniforms- och\nordensemblem, emaljarbeten, sportpriser\n(märke: »Sire»), monogram och bokstäver\nför reseffekter m. m. samt\npräglingsstansar, stämplar och verktyg för\nmetallpressning.\n\nKontor: österlångg. 26. Telefon: 113671\no. 212522. Postgiro: 3568. — Antal\nindustriarb.: 32. Tillv.-värde pr år: 390,000\nkr. — Firman etabl. 1921.\n\nChef: kamrer Erik Jarlebring.\n\nWestin AB., Bröderna, Gävle.\n\nSe Bröderna Westin, Karamell- &amp;\nKonfektfabrik AB., Gävle.\n\n* Gösta Westin, Chokladfabriken Elit,\n\nSolna.\n\nSe Chokladfabriken Elit, Gösta Westin,\nSolna.\n\nVestkusten, se Västkusten.\n\nAB. E. Westlunds\nKonfektionsfabrik, Svenljunga.\n\nSyfabrik i Svenljunga (Älvsb. l.).\nTillverkar blåkläder, lumberjackor,\nskiddräk-ter, sportkläder, barn- och lekkostymer,\nsport jackor, stranddräkter för damer\nm. m.\n\nTelefon: 11350. Postgiro: 72152. —\nAkt.-kap.: 100,000 kr. Antal industriarb.:\n100. Tillv.-värde pr år: 2,000,000 kr. —\nBolaget grundat 1936.\n\nDisp.: Valle Berg.\n\nAlgot Westmans Mek. Verkstad,\n\nNorrköping,\n\nTillverkar hiss- och\ntransportanläggningar samt maskiner för\nkonfektionsindustrin, tygskärningsmaskiner och\nskärprullar.\n\nTelegr.-adr.: Algwest, Norrköping.\nTelefon: 20528. Postgiro: 36047. — Antal\nindustriarb.: 29. — Firman etabl. 1879.\n\nÄgare o. chef: ing. Algot Westman.\n\nWestroths Leksaksfabrik, Kulltorp.\n\nTillverkar träleksaker vid fabrik i\nKulltorp (Jönköp. l.).\n\nTelefon: 3 a o. 3 b. Postgiro: 29261. —\nAntal industriarb.: 25. Tillv.-värde pr år:\n250,000 kr. — Firman etabl. 1931.\n\nÄgare o. chef; fabr. Oscar Westroth.\n\nVesuv, Slipmaterialfabriken,\n\nVarberg.\n\nSe Slipmaterialfabriken Vesuv,\nVar-berg.\n\n*\tVetlandahus, AB. Egna Hem,\n\nVetlanda.\n\nSe AB. Egna Hem Vetlandahus,\nVetlanda.\n\n*\tVetlanda Mek. Verkstad, Vetlanda.\n\nSe Hvetlanda Mek. Verkstad, Vetlanda.\n\nAB. Vetlanda Skinn- &amp;\nLäderindustri, Vetlanda.\n\nTillverkar plånböcker, portmonnäer,\ncigarrettfodral m. m. Specialitet:\nmassartiklar i skinn.\n\nTelegr.-adr.: Skinnläder, Vetlanda.\nTelefon: 726—27. Postgiro: 145623.\n\nAkt.-kap.: 40,000 kr. Antal\nindustriarb.: 20. Tillv.-värde pr år: 500,000 kr.\n— Firman etabl. 1938, bolag 1945.\n\nVerkst. dir.: fabr. Melker Bergquist.\n\n*Vetlanda Täckindustri, Vetlanda.\n\nTillverkar vaddtäcken och\nvaddmadrasser samt bomullsvadd.\n\nTelefon: 474. Postgiro: 71863. — Antal\nindustriarb.: 50. — Firman etabl. 1930.\n\nÄgare o. chef: fabr. Gunnar Lundkvist.\n\n*Vetlanda Tändsticksfabrik,\n\nVetlanda.\n\nSe Jönköpings och Vulcans\nTändsticksfabriks AB., Jönköping.",
+    "structured": {
+        "firms": [
+            {
+                "name": "ÄB. Gunnar Westholm",
+                "location": "Stockholm",
+                "business": "Tjärpappfabrik, tjär- och oljeraffinaderi, färgfabrik och kemisk industri",
+                "products": "Tillverkar byggnadspapp, isoleringsmedel för järn och trä, asfaltlacker samt eldskyddsfärg (varumärke: »Guwe»)",
+                "contact": {
+                    "office": "Kungsg. 2",
+                    "phone": [
+                        "230880"
+                    ],
+                    "postgiro": "52116",
+                    "telegraph": "Westbolag",
+                    "factory_office": "Ulvsunda, Stockholm"
+                },
+                "financials": {
+                    "capital": "120,000 kr",
+                    "employees": {
+                        "industriarb": 60
+                    },
+                    "annual_turnover": "2,000 ton byggnadspapp",
+                    "annual_production_value": "390,000 kr"
+                },
+                "foundation_year": 1930,
+                "director": "Gunnar Westholm",
+                "sales_manager": "Lennart Bergström"
+            },
+            {
+                "name": "Westins Ateljé",
+                "location": "Stockholm",
+                "business": "Guld-, silver- och metallvarufabrik",
+                "products": "Tillverkar medaljer, plaketter och föreningsmärken, knappar, uniforms- och ordensemblem, emaljarbeten, sportpriser (märke: »Sire»), monogram och bokstäver för reseffekter m.m. samt präglingsstansar, stämplar och verktyg för metallpressning",
+                "contact": {
+                    "office": "österlångg. 26",
+                    "phone": [
+                        "113671",
+                        "212522"
+                    ],
+                    "postgiro": "3568"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 32
+                    },
+                    "annual_production_value": "390,000 kr"
+                },
+                "foundation_year": 1921,
+                "director": "kamrer Erik Jarlebring"
+            },
+            {
+                "name": "Westroths Leksaksfabrik",
+                "location": "Kulltorp",
+                "business": "Tillverkar träleksaker",
+                "contact": {
+                    "phone": [
+                        "3 a",
+                        "3 b"
+                    ],
+                    "postgiro": "29261"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 25
+                    },
+                    "annual_production_value": "250,000 kr"
+                },
+                "foundation_year": 1931,
+                "director": "fabr. Oscar Westroth"
+            },
+            {
+                "name": "AB. E. Westlunds Konfektionsfabrik",
+                "location": "Svenljunga",
+                "business": "Syfabrik",
+                "products": "Tillverkar blåkläder, lumberjackor, skiddräkter, sportkläder, barn- och lekkostymer, sportjackor, stranddräkter för damer m.m.",
+                "contact": {
+                    "phone": "11350",
+                    "postgiro": "72152"
+                },
+                "financials": {
+                    "capital": "100,000 kr",
+                    "employees": {
+                        "industriarb": 100
+                    },
+                    "annual_turnover": "2,000,000 kr"
+                },
+                "foundation_year": 1936,
+                "director": "Disp.: Valle Berg"
+            },
+            {
+                "name": "Algot Westmans Mek. Verkstad",
+                "location": "Norrköping",
+                "business": "Tillverkar hiss- och transportanläggningar samt maskiner för konfektionsindustrin",
+                "contact": {
+                    "telegraph": "Algwest",
+                    "phone": "20528",
+                    "postgiro": "36047"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 29
+                    }
+                },
+                "foundation_year": 1879,
+                "director": "ing. Algot Westman"
+            },
+            {
+                "name": "AB. Vetlanda Skinn- &amp; Läderindustri",
+                "location": "Vetlanda",
+                "business": "Tillverkar plånböcker, portmonnäer, cigarrettfodral m.m. Specialitet: massartiklar i skinn",
+                "contact": {
+                    "phone": "726—27",
+                    "postgiro": "145623"
+                },
+                "financials": {
+                    "capital": "40,000 kr",
+                    "employees": {
+                        "industriarb": 20
+                    },
+                    "annual_production_value": "500,000 kr"
+                },
+                "foundation_year": 1938,
+                "director": "verkst. dir.: fabr. Melker Bergquist"
+            },
+            {
+                "name": "Vetlanda Täckindustri",
+                "location": "Vetlanda",
+                "business": "Tillverkar vaddtäcken och vaddmadrasser samt bomullsvadd",
+                "contact": {
+                    "phone": "474",
+                    "postgiro": "71863"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 50
+                    }
+                },
+                "foundation_year": 1930,
+                "director": "Ägare o. chef: fabr. Gunnar Lundkvist"
+            }
+        ]
+    }
+}

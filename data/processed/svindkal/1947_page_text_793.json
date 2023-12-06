@@ -1,0 +1,94 @@
+{
+    "original": "Tillverkar lantbruksredskap, gjutgods\n(även aducerat och gods av\n»Överumsstål») samt sågade och hyvlade trävaror\njämte byggnadssnickerier och träull.\nSpecialiteter: plogar, harvar, traktorredskap\noch »Överumsstål». Bolaget idkar jämväl\njordbruk och skogsbruk.\n\nTelegr.-adr.: Bruket, Överum. Telefon:\n»Överums Bruk». Postgiro: 5485.\n\nAkt.-kap.: 2,500,000 kr. Antal\nindustriarb.: 440. — Bruket, anlagt 1655, bolag\n1883, äges av AB. Åtvidabergs Industrier.\n\n<i>Styrelse:</i> disp. Elof Ericsson (ordf.),\njur. dr Axel Roos, disp. Carl Sundberg.\n\n<i>Verkst. dir.:</i> Carl Sundberg.\n\n<i>Övering.:</i> Claes Berg.\n\n<i>Kontorschef:</i> Sven Blomberg.\n\n<i>Försäljn.-chefer:</i> John Carlsson o.\nRichard Andersson.\n\n\n<h3>Tillägg.</h3>\n\n<b>AB. Bröderna Forssells\nKonststensgjuteri,</b> <i>Norberg.</i>\n\nKonststensgjuteri och mek. verkstad i\nNorberg (Västmanl. l.). Tillverkar av\nkonstgranit (»Kolmorit») golv- och\nväggplattor, fönsterbänkar, trappsteg och\nstandardtrappor, badkar, helgjutna golv samt\nsockelputs.\n\nHuvudkontor: Norberg. Telegr.-adr.:\nKonststen, Norberg. Telefon: »Bröderna\nForssell». Postgiro: 130989. Avd.-kontor:\nStockholm, Södertäljev. 7, telefon: 456242;\nGöteborg, telefon: 153439; Malmö,\ntelefon: 18800.\n\nAkt.-kap.: 90,000 kr. Antal\nindustriarb.: 300. Tillv.-värde pr år: 3,000,000 kr.\n— Firman etabl. 1928, bolag 1945.\n\n<i>Verkst. dir.:</i> Gust. Th. Forssell.\n\n<i>Disp.:</i> Karl Ivan Forssell.\n\n<i>Kamrer:</i> G. V. Eggemar.\n\n<i>Driftsing.:</i> Per Artur Petersson.\n\n",
+    "structured": {
+        "1": {
+            "name": "AB Överums Bruk",
+            "location": "Överum",
+            "business": "Tillverkar lantbruksredskap, gjutgods (även aducerat och gods av »Överumsstål») samt sågade och hyvlade trävaror jämte byggnadssnickerier och träull. Specialiteter: plogar, harvar, traktorredskap och »Överumsstål». Bolaget idkar jämväl jordbruk och skogsbruk.",
+            "contact": {
+                "telegraph": "Bruket, Överum",
+                "phone": [
+                    "Överums Bruk"
+                ],
+                "postgiro": "5485"
+            },
+            "financials": {
+                "capital": "2,500,000 kr",
+                "employees": {
+                    "industriarb": 440
+                }
+            },
+            "foundation_year": 1655,
+            "corporation_year": 1883,
+            "board": [
+                {
+                    "name": "disp. Elof Ericsson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "jur. dr Axel Roos",
+                    "role": ""
+                },
+                {
+                    "name": "disp. Carl Sundberg",
+                    "role": ""
+                }
+            ],
+            "manager": "Carl Sundberg",
+            "sales_manager": "Claes Berg",
+            "director": "Carl Sundberg",
+            "managing_director": "Not specified",
+            "current_name_year": null,
+            "predecessor": "",
+            "original_name": "",
+            "owners": []
+        },
+        "2": {
+            "name": "AB. Bröderna Forssells Konststensgjuteri",
+            "location": "Norberg",
+            "business": "Konststensgjuteri och mek. verkstad i Norberg (Västmanl. l.). Tillverkar av konstgranit (»Kolmorit») golv- och väggplattor, fönsterbänkar, trappsteg och standardtrappor, badkar, helgjutna golv samt sockelputs.",
+            "contact": {
+                "telegraph": "Konststen, Norberg",
+                "phone": [
+                    "Bröderna Forssell"
+                ],
+                "postgiro": "130989"
+            },
+            "financials": {
+                "capital": "90,000 kr",
+                "employees": {
+                    "industriarb": 300
+                },
+                "annual_production_value": "3,000,000 kr"
+            },
+            "foundation_year": 1928,
+            "corporation_year": 1945,
+            "board": [
+                {
+                    "name": "Verkst. dir.",
+                    "role": "Gust. Th. Forssell"
+                },
+                {
+                    "name": "Disp.",
+                    "role": "Karl Ivan Forssell"
+                },
+                {
+                    "name": "Kamrer",
+                    "role": "G. V. Eggemar"
+                },
+                {
+                    "name": "Driftsing.",
+                    "role": "Per Artur Petersson"
+                }
+            ],
+            "manager": "",
+            "sales_manager": "",
+            "director": "",
+            "managing_director": "",
+            "current_name_year": null,
+            "predecessor": "",
+            "original_name": "",
+            "owners": []
+        }
+    }
+}

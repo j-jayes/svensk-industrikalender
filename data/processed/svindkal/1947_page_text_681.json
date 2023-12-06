@@ -1,0 +1,223 @@
+{
+    "original": "Svenska\n\nAB. Svenska Lädervarufabriken,\n\nStockholm.\n\nTillverkar lädervaror. Specialitet:\ndamväskor.\n\nKontor: Nordenflychtsv. 62. Telefon:\n500504 o. 535150. Postgiro: 50233.\n\nAkt.-kap.: 40,000 kr. Antal\nindustriarb.: 40. Tillv.-värde pr år: 500,000 kr.\n\n—\tBolaget grundat 1934.\n\nStyrelse o. verkst. dir.: Erik Bergström.\n\nSvenska Madrass- &amp; Täckfabriks\nAB., Mölnbo.\n\nTillverkar sängkläder, vadderad\nkonfektion samt fåtöljer vid fabrik i Mölnbo\n(Sthlms l.).\n\nTelegr.-adr.: Vila. Mölnbo. Telefon:\n»Svenska Madrass». Postgiro: 299991. —\nAkt.-kap.: 30,000 kr. Antal industriarb.:\n20. — Bolaget grundat 1946.\n\nStyrelse: dir. Yngve Viberg (ordf.),\ndisp. Thure Berg.\n\nVerkst. dir.: Yngve Viberg.\nDisp.: Thure Berg.\n\nSvenska Makaronifabrikers\nFörsälj n.-A B., Göteborg.\n\nSe Makaronibolaget, Svenska\nMakaronifabrikers Försäljn.-AB., Göteborg.\n\n\"Svenska Manometerfabriken, AB.,\n\nStockholm.\n\nMek. verkstad. Tillverkar och utför\nreparationer av manometrar och\nvakuum-metrar.\n\nKontor: Blå Bodarna, Slussen.\nTelegr.-adr.: Manometerfabrik, Stockholm.\nTelefon: 402594. Postgiro: 1267.\n\nAkt.-kap.: 22,000 kr. Antal\nindustriarb.: 10. Tillv.-värde pr år: 200,000 kr.\n\n—\tFirman etabl. 1914, bolag 1927.\nStyrelse: instrumentmakare Hugo\nPetterson, instrumentmakare G. Wulff.\n\nFabrikschef: Hugo Petterson.\n(Jfr annons före Branschregistret.)\n\n\"AB. Svenska Marattlfabriken,\n\nStockholm.\n\nTrikåfabrik. Tillverkar dam- och\nherrunderkläder.\n\nKontor: Hudiksvallsg. 6. Telefon:\n316889. Postgiro: 55065.\n\nAkt.-kap.: 25,000 kr. Antal\nindustriarb.: 15. Tillv.-värde pr år: 165,000 kr.\n\n—\tFirman etabl. 1932, bolag 1933.\nStyrelse o. verkst. dir.: Nils Klem-\n\nming.\n\nSvenska Maskinaffären AB.,\n\nVärnamo.\n\nMek. verkstad. Tillverkar\nbandslipma-skiner, bänkborrmaskiner, såg- och\nfilmaskiner, rundslipmaskiner,\nexcenterpres-sar, kugghjulspumpar m. m. Firman\ndriver även försäljning av begagnade och\nnya maskiner samt verktyg o.\nförnödenheter för järn-, metall- och\nträindustrierna.\n\nTelefon: 10110. Postgiro: 30426. —\nAkt.-kap.: 30,000 kr. Arb.-antal: 12. —\nFirman etabl. 1912, bolag 1944.\n\nVerkst. dir.: Anton Johansson.\n\n\"AB. Svenska Maskinskyltfabriken,\n\nLinköping.\n\nSkyltfabrik, klichéanstalt och\nlitogra-fiskt tryckeri. Tillverkar etsade, gjutna\noch tryckta metallskyltar, klichéer,\ninstrument- och urtavlor, skalor till\nradioapparater, reklamartiklar, glas- och\ncel-luloidtryck.\n\nTelefon: 21362, 21787 o. 26687.\nPostgiro: 28283. Avd.-kontor o. utställning:\nStockholm, Kungsg. 65, telefon: 203903.\n\nAkt.-kap.: 65,000 kr. Antal\nindustriarb.: 90. Tillv.-värde pr år: 1,200,000 kr.\n— Firman etabl. 1916, bolag 1938.\n\nStyrelse o. verkst. dir.: Axel Karlsson.\n\nVerkstadschef: Isak Wibom.\n\n\"AB. Svenska Maskinverken,\n\nSödertälje.\n\nMek. verkstad och gjuteri.\n\nTillverkar ångpannor (system: »La\nMont»), sodahuspannor, avgaspannor,\nvärmetekniska apparater, regenerativa\noch rekuperativa luftförvärmare,\nvärmeväxlare, ekonomisers, kedjeroster, stokers\noch andra eldningsapparater,\nstoftav-skiljare, dieselmotorer (»Ellwe»),\nstål-gjutgods samt grövre och lättare\nplåtslageriarbeten.\n\nTelegr.-adr. o. telefon: Maskinverken,\nSödertälje. Postgiro: 6600.\n\nAkt.-kap.: 2,000,000 kr. Antal\nindustriarb.: 400. Tillv.-värde pr år: 10,000,000\nkr.\n\nBolaget grundat 1897 under namn AB.\nSödertälje Verkstäder, ombildat 1917\nunder nuv. namn.\n\nStyrelse: f. d. statssekr. Lars Rabenius\n(ordf.), dir. David Dalin, bankdir.\nRichard Julin, dir. Ragnar Liljeblad, dir.\nC.-B. Nathhorst, övering. August L.\nNilsson, bankdir. Marcus Wallenberg.\n\nVerkst. dir.: David Dalin.",
+    "structured": {
+        "1": {
+            "name": "AB. Svenska Lädervarufabriken",
+            "location": "Stockholm",
+            "business": "Tillverkar lädervaror. Specialitet: damväskor.",
+            "contact": {
+                "office": "Nordenflychtsv. 62",
+                "phone": [
+                    "500504",
+                    "535150"
+                ],
+                "postgiro": "50233"
+            },
+            "financials": {
+                "capital": "40,000 kr",
+                "employees": {
+                    "industriarb": 40
+                },
+                "annual_turnover": "500,000 kr",
+                "annual_production_value": "500,000 kr"
+            },
+            "foundation_year": 1934,
+            "board": [
+                {
+                    "name": "Erik Bergström",
+                    "role": "Styrelse o. verkst. dir."
+                }
+            ]
+        },
+        "2": {
+            "name": "Svenska Madrass- & Täckfabriks",
+            "location": "Mölnbo",
+            "business": "Tillverkar sängkläder, vadderad konfektion samt fåtöljer vid fabrik i Mölnbo (Sthlms l.)",
+            "contact": {
+                "telegraph": "Vila. Mölnbo",
+                "phone": "Svenska Madrass",
+                "postgiro": "299991"
+            },
+            "financials": {
+                "capital": "30,000 kr",
+                "employees": {
+                    "industriarb": 20
+                }
+            },
+            "foundation_year": 1946,
+            "board": [
+                {
+                    "name": "Yngve Viberg",
+                    "role": "Styrelse: dir. (ordf.)"
+                },
+                {
+                    "name": "Thure Berg",
+                    "role": "Disp."
+                }
+            ],
+            "director": "Yngve Viberg",
+            "managing_director": "Yngve Viberg"
+        },
+        "3": {
+            "name": "AB. Svenska Manometerfabriken",
+            "location": "Stockholm",
+            "business": "Mek. verkstad. Tillverkar och utför reparationer av manometrar och vakuum-metrar.",
+            "contact": {
+                "office": "Blå Bodarna, Slussen",
+                "phone": "402594",
+                "postgiro": "1267"
+            },
+            "financials": {
+                "capital": "22,000 kr",
+                "employees": {
+                    "industriarb": 10
+                },
+                "annual_turnover": "200,000 kr",
+                "annual_production_value": "200,000 kr"
+            },
+            "foundation_year": 1914,
+            "corporation_year": 1927,
+            "board": [
+                {
+                    "name": "Hugo Petterson",
+                    "role": "Styrelse: instrumentmakare"
+                },
+                {
+                    "name": "G. Wulff",
+                    "role": "instrumentmakare"
+                }
+            ],
+            "director": "Hugo Petterson",
+            "manager": "Hugo Petterson"
+        },
+        "4": {
+            "name": "AB. Svenska Marattlfabriken",
+            "location": "Stockholm",
+            "business": "Trikåfabrik. Tillverkar dam- och herrunderkläder.",
+            "contact": {
+                "office": "Hudiksvallsg. 6",
+                "phone": "316889",
+                "postgiro": "55065"
+            },
+            "financials": {
+                "capital": "25,000 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_turnover": "165,000 kr",
+                "annual_production_value": "165,000 kr"
+            },
+            "foundation_year": 1932,
+            "corporation_year": 1933,
+            "board": [
+                {
+                    "name": "Nils Klemming",
+                    "role": "Styrelse o. verkst. dir."
+                }
+            ],
+            "director": "Nils Klemming",
+            "manager": "Nils Klemming"
+        },
+        "5": {
+            "name": "Svenska Maskinaffären AB.",
+            "location": "Värnamo",
+            "business": "Mek. verkstad. Tillverkar bandslipma-skiner, bänkborrmaskiner, såg- och filmaskiner, rundslipmaskiner, excenterpres-sar, kugghjulspumpar m. m.",
+            "contact": {
+                "phone": "10110",
+                "postgiro": "30426"
+            },
+            "financials": {
+                "capital": "30,000 kr",
+                "employees": {
+                    "Arb.-antal": 12
+                }
+            },
+            "foundation_year": 1912,
+            "corporation_year": 1944,
+            "director": "Anton Johansson",
+            "manager": "Anton Johansson"
+        },
+        "6": {
+            "name": "AB. Svenska Maskinskyltfabriken",
+            "location": "Linköping",
+            "business": "Skyltfabrik, klichéanstalt och litogra-fiskt tryckeri. Tillverkar etsade, gjutna och tryckta metallskyltar, klichéer, instrument- och urtavlor, skalor till radioapparater, reklamartiklar, glas- och cel-luloidtryck.",
+            "contact": {
+                "phone": [
+                    "21362",
+                    "21787",
+                    "26687"
+                ],
+                "postgiro": "28283"
+            },
+            "financials": {
+                "capital": "65,000 kr",
+                "employees": {
+                    "industriarb": 90
+                },
+                "annual_turnover": "1,200,000 kr",
+                "annual_production_value": "1,200,000 kr"
+            },
+            "foundation_year": 1916,
+            "corporation_year": 1938,
+            "board": [
+                {
+                    "name": "Axel Karlsson",
+                    "role": "Styrelse o. verkst. dir."
+                }
+            ],
+            "director": "Isak Wibom",
+            "manager": "Isak Wibom"
+        },
+        "7": {
+            "name": "AB. Svenska Maskinverken",
+            "location": "Södertälje",
+            "business": "Mek. verkstad och gjuteri. Tillverkar ångpannor (system: »La Mont»), sodahuspannor, avgaspannor, värmetekniska apparater, regenerativa och rekuperativa luftförvärmare, värmeväxlare, ekonomisers, kedjeroster, stokers och andra eldningsapparater, stoftav-skiljare, dieselmotorer (»Ellwe»), stål-gjutgods samt grövre och lättare plåtslageriarbeten.",
+            "contact": {
+                "telegraph": "Maskinverken, Södertälje",
+                "phone": "Maskinverken",
+                "postgiro": "6600"
+            },
+            "financials": {
+                "capital": "2,000,000 kr",
+                "employees": {
+                    "industriarb": 400
+                },
+                "annual_turnover": "10,000,000 kr",
+                "annual_production_value": "10,000,000 kr"
+            },
+            "corporation_year": 1917,
+            "predecessor": "AB. Södertälje Verkstäder",
+            "board": [
+                {
+                    "name": "Lars Rabenius",
+                    "role": "Styrelse: f. d. statssekr. (ordf.)"
+                },
+                {
+                    "name": "David Dalin",
+                    "role": "Verkst. dir."
+                },
+                {
+                    "name": "Richard Julin",
+                    "role": "bankdir."
+                },
+                {
+                    "name": "Ragnar Liljeblad",
+                    "role": "dir."
+                },
+                {
+                    "name": "C.-B. Nathhorst",
+                    "role": "dir."
+                },
+                {
+                    "name": "August L. Nilsson",
+                    "role": "övering."
+                },
+                {
+                    "name": "Marcus Wallenberg",
+                    "role": "bankdir."
+                }
+            ],
+            "director": "David Dalin"
+        }
+    }
+}

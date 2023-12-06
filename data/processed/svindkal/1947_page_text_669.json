@@ -1,0 +1,185 @@
+{
+    "original": "Svenska\n\nStyrelse: kommerserådet Axel F.\nEn-ström (ordf.), höiesteretsadv. Herman\nChristiansen, konteramiral Helge Friis,\ning. Hans. J. Krogh, kommerserådet S.\nErik österberg.\n\nVerkst. dir.: Herman Lund.\nPlatschef i Månsbo: civiling. Nils\nöhlander.\n\nAB. Svenska Bandagefabriken,\n\nStockholm.\n\nTillverkar bandage såsom bråckband,\nmaggördlar, korsetter, rygghållare,\nsus-pensoirer m. m.\n\nKontor: Kungsg. 67. Telefon: 114515.\nPostgiro: 50637.\n\nAkt.-kap.: 30,000 kr. Antal\nindustriarb.: 10. — Firman etabl. 1919.\nVerkst. dir.: David Odar.\n\nSvenska Bandfabriken,\n\nStenungsund.\n\nBandväveri i Stenungsund (Göteb. o.\nBohus l.). Tillverkar såsom specialitet\nvävda etiketter, konstsilkeband och\nbomullsband.\n\nTelefon: »Bandfabriken». Postgiro:\n80514. — Antal industriarb.: 60. —\nFirman etabl. 1931.\n\nÄgare o. chef: dir. Karl Theodor\nFried-richs.\n\n*Svenska Betong, Byggnads AB.,\n\nLinköping.\n\nSe Byggnads AB. Svenska Betong,\nLinköping.\n\nAB. Svenska Bilfabriken,\n\nStockholm.\n\nBilfabrik, mek. verkstad och\nkarosseri-fabrik i Augustendal, Stockholm.\nTillverkar person- och lastautomobiler,\nkarosse-rier, släpvagnar, förarhytter, lastflak,\nbilklädslar och -överdrag, kylarskydd m. m.\nsamt utför motorrenoveringar.\n\nKontor: Augustendal; postadr.:\nStockholm 21. Telefon: »Svenska Bilfabriken».\nFörsäljn.-kontor: Stockholm, S:t Eriksg.\n117. Telefon: »Bilpalatset».\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 200. — Bolaget, grundat 1928,\nsamarbetar med AB. Augustendals Industrier,\nvilka båda bolag äro dotterbolag till\nPhi-lipsons Automobil AB., Stockholm.\n\nStyrelse: disp. Evert Philipson, disp.\nInghar Westerdahl.\n\nVerkst. dir.: Gunnar V. Philipson.\nDriftsing.: ing. Olof Philipson.\n\n*Svenska Bindgarnsfabrikens AB.,\n\nMalmö.\n\nHamp-, manilla- och sisalspinneri,\ntågvirkesfabrik och repslageri i Limhamn\n(Malmöh. l.), hamp- och linspinneri i\nLund. Tillverkar bindgarn, snören,\nskör-de- och halmpressgarn,\nrörläggnings-packgarn, tågvirke för sjöfart och fiske,\nskeppsdrev m. m. samt pappersgarn.\n\nHuvudkontor: Malmö. Telegr.-adr.:\nBind-garnet, Malmö. Telefon:\n»Bindgarnsfabri-ken». Postgiro: 38205. Avd.-kontor:\nStockholm, Gamla Brog. 32, telefon:\n213875; Göteborg, Valåsg. 37, telefon:\n194133.\n\nAkt.-kap.: 1,000,000 kr. Antal\nindustriarb.: 400. — Firman grundad 1889.\n\nStyrelse: civiling. Olof Winkler (ordf.),\nkontorschef Carl Kristensson, ryttm.\nSven Winkler.\n\nDisp.: Fritz Nauckhoff.\nKamrer: J. Holmbäck.\nFörsäljn.-chef: Helmer Norén.\nInköpschef: Karl Dahlquist.\nFabrikschefer: i Limhamn: Anton\nNilsson; i Lund: Oscar Landgren.\n\n*AB. Svenska Block, Göteborg.\n\nSmides-, snickeri- och mek. verkstad\nvid Tranered, Göteborg. Tillverkar\nskeppsblock av järn och trä,\nskeppssmi-den m. m.; utför galvanisering på varm\noch elektrolytisk väg.\n\nKontor: ^ Torgny Segerstedtsg. 94,\npostadr.: Käringberget. Telefon: Göteborg\n291691—92. Postgiro: 12464.\n\nAkt.-kap.: 51,000 kr. Antal\nindustriarb.: 30. Tillv.-värde pr år: 800,000 kr.\n— Firman etabl. 1917.\n\nStyrelse: civiling. Gunnar Albrechtson,\ndir. Hans Albrechtson, kamrer Knut\nHöög.\n\nVerkst. dir.: Gunnar Albrechtson.\nKamrer: Knut Höög.\n\nSvenska Bromsbandsfabriken AB.,\n\nMölnlycke.\n\nTillverkar bromsband för motorfordon\noch för tekniskt bruk såsom för hissar,\nkranar, vinschar, spel m. m.,\nfriktions-och kopplingsbelägg, bakelitprodukter,\nasbetspackningar för ugnar,\ntätnings-ringar m. m. vid fabrik i Mölnlycke\n(Göteb. o. Bohus l.).\nTelefon: 270. Postgiro: 99398.\nAkt.-kap.: 50,000 kr. Arb.-antal: 20.\nTillv.-värde pr år: 500,000 kr. — Firman\netabl. 1935, bolag 1941.\n\nFabrikschef: Hjalmar Johansson.\n\n531*",
+    "structured": {
+        "1": {
+            "name": "AB. Svenska Bandagefabriken",
+            "location": "Stockholm",
+            "business": "Tillverkar bandage såsom bråckband, maggördlar, korsetter, rygghållare, sus-pensoirer m. m.",
+            "contact": {
+                "office": "Kungsg. 67",
+                "phone": [
+                    "114515"
+                ],
+                "postgiro": "50637"
+            },
+            "financials": {
+                "capital": "30,000 kr",
+                "employees": {
+                    "industriarb": 10
+                },
+                "foundation_year": 1919
+            },
+            "board": [
+                {
+                    "name": "kommerserådet Axel F. En-ström",
+                    "role": "ordf."
+                },
+                {
+                    "name": "höiesteretsadv. Herman Christiansen",
+                    "role": ""
+                },
+                {
+                    "name": "konteramiral Helge Friis",
+                    "role": ""
+                },
+                {
+                    "name": "ing. Hans. J. Krogh",
+                    "role": ""
+                },
+                {
+                    "name": "kommerserådet S. Erik österberg",
+                    "role": ""
+                }
+            ],
+            "director": "Herman Lund"
+        },
+        "2": {
+            "name": "Svenska Bandfabriken",
+            "location": "Stenungsund",
+            "business": "Tillverkar såsom specialitet vävda etiketter, konstsilkeband och bomullsband.",
+            "contact": {
+                "phone": [
+                    "Bandfabriken"
+                ],
+                "postgiro": "80514"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb": 60
+                },
+                "foundation_year": 1931
+            },
+            "owner": "dir. Karl Theodor Friedrichs"
+        },
+        "3": {
+            "name": "AB. Svenska Bilfabriken",
+            "location": "Stockholm",
+            "business": "Tillverkar person- och lastautomobiler, karosseri-fabrik, släpvagnar, förarhytter, lastflak, bilklädslar, kylarskydd m. m. samt utför motorrenoveringar.",
+            "contact": {
+                "office": "Augustendal",
+                "phone": [
+                    "Svenska Bilfabriken"
+                ],
+                "teleph": "Bilpalatset"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 200
+                },
+                "annual_turnover": "unknown",
+                "annual_production_value": "unknown"
+            },
+            "board": [
+                {
+                    "name": "disp. Evert Philipson",
+                    "role": ""
+                },
+                {
+                    "name": "disp. Inghar Westerdahl",
+                    "role": ""
+                }
+            ],
+            "director": "Gunnar V. Philipson",
+            "managing_director": "Gunnar V. Philipson",
+            "sales_manager": "unknown"
+        },
+        "4": {
+            "name": "Svenska Bindgarnsfabrikens AB.",
+            "location": "Malmö",
+            "business": "Tillverkar bindgarn, snören, skör-de- och halmpressgarn, rörläggnings-packgarn, tågvirke för sjöfart och fiske, skeppsdrev m. m. samt pappersgarn.",
+            "contact": {
+                "telegraph": "Bindgarnet",
+                "phone": [
+                    "Bindgarnsfabri-ken"
+                ],
+                "postgiro": "38205"
+            },
+            "financials": {
+                "capital": "1,000,000 kr",
+                "employees": {
+                    "industriarb": 400
+                },
+                "foundation_year": 1889
+            },
+            "board": [
+                {
+                    "name": "civiling. Olof Winkler",
+                    "role": "ordf."
+                },
+                {
+                    "name": "kontorschef Carl Kristensson",
+                    "role": ""
+                },
+                {
+                    "name": "ryttm. Sven Winkler",
+                    "role": ""
+                }
+            ],
+            "owners": [
+                "Fritz Nauckhoff"
+            ],
+            "sales_manager": "Helmer Norén"
+        },
+        "5": {
+            "name": "AB. Svenska Block",
+            "location": "Göteborg",
+            "business": "Tillverkar skeppsblock av järn och trä, skeppssmi-den m. m.; utför galvanisering på varm och elektrolytisk väg.",
+            "contact": {
+                "office": "Torgny Segerstedtsg. 94",
+                "postgiro": "12464"
+            },
+            "financials": {
+                "capital": "51,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_production_value": "800,000 kr"
+            },
+            "board": [
+                {
+                    "name": "civiling. Gunnar Albrechtson",
+                    "role": ""
+                },
+                {
+                    "name": "dir. Hans Albrechtson",
+                    "role": ""
+                },
+                {
+                    "name": "kamrer Knut Höög",
+                    "role": ""
+                }
+            ],
+            "director": "Gunnar Albrechtson"
+        },
+        "6": {
+            "name": "Svenska Bromsbandsfabriken AB.",
+            "location": "Mölnlycke",
+            "business": "Tillverkar bromsband för motorfordon och för tekniskt bruk såsom för hissar, kranar, vinschar, spel m. m., friktions-och kopplingsbelägg, bakelitprodukter, asbetspackningar för ugnar, tätningsringar m. m.",
+            "contact": {
+                "phone": [
+                    "270"
+                ],
+                "postgiro": "99398"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 20
+                },
+                "annual_production_value": "500,000 kr"
+            },
+            "director": "Hjalmar Johansson"
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "original": "Svenska\n\nStyrelse: dir. Gunnar Magnuson\n(ordf.), ing. Arne Asplund, bankdir.\nThure Bergman, dir. Olle Busch, civiling.\nBirger Dahlerus.\n\nVerkst. dir.: Olle Busch.\n\n\"AB. Svenska Transformatorfabriken,\n\nLinköping.\n\nTillverkar elektr. transformatorer.\nTelegr.-adr.: Transformator,\nLinköping. Telefon: 29400. Postgiro: 8910.\n\nAkt.-kap.: 161,400 kr. Antal\nindustriarb.: 150. — Bolaget grundat 1918.\n\nStyrelse: ing. A. L. Wadström (ordf.),\ning. Arvid Lindström, adv. Per Westling.\nVerkst. dir.: Arvid Lindström.\nTekn. chef: A. L. Wadström.\nKamrer: Ch. Sven hammar.\n\n\"Svenska Tryckeri AB., Stockholm.\n\nUtför bok-, tidnings-, accidens-,\noffset-och rotationstryck samt bokbinderiarbeten.\n\nKontor: Klarabergsg. 54. Telefon:\n»Svenska Tryckeribolaget». Postgiro:\n52523.\n\nAkt.-kap.: 600,000 kr. Antal\nindustriarb.: 184. — Firman etabl. 1884.\n\nStyrelse: dir. Erik J. Bengtson (ordf.),\nfru H. Bengtson, ing. N. E. Bengtson,\ndir. Harald Bengtson, civiling. Carl S:son\nSchmidt, fru A.-M. Wahlberg.\nVerkst. dir.: Harald Bengtson.\n\nAB. Svenska Trähus, Stockholm.\n\nFirman utgör försäljningsbolag för\nmonteringsfärdiga trähus, tillverkade av\nföljande firmor:\n\nAnkarsviks Ångsågs AB., Sundsvall,\nBarkens Sågverks AB., Vad,\nAB. Dalasågen, Mora,\nGullringens Träförädling. Gullringen,\nHolmsunds AB., Holmsund,\nAB. Iggesunds Bruk, Iggesund,\nInsjöns Såsrverks AB., Insjön,\nKorsnäs Sågverks AB., Gävle,\nKramfors AB., Kramfors,\nLenna Bruks AB., Länna,\nSkagersviks Nya Träindustri AB., Ska-\n\ngersvik och\nSvartviks AB., Sundsvall.\nKontor: Stockholm, Birger Jarlsg. 27.\nTelegr.-adr.: Svenskatriihus, Stockholm.\nTelefon: »Svenska Trähus». Postgiro:\n54387. — Akt.-kap.: 1,000,000 kr.\nFörsäljn.-värde pr år: 22,000,000 kr.\n\nBolaget, grundat 1930, omhänderhar\näven förvaltningen av Svensk\nTrähusexport, förening u. p. a. (Stex).\n\nStyrelse: adv. Dick Bergman (ordf.),\ndisp. Axel Enström, dir. Erik W.\nEriksson, akademifogde John Ericsson, dir. K.\n\nI. Hising, disp. Martin Jakobsson, disp.\nWilhelm Lindgren, dir. K. Erik Nyberg,\ndr Gunnar Sundblad, disp. Axél\nWik-lund, disp. Göte Wästlund.\n\nVerkst. dir.: Bengt Lindeberg.\n\nFörsäljn.-chef: Thorsten Thorén.\n\nTekn. chef: arkitekt Otto Forssell.\n\nEkonomichef: kamrer Tage Granemo.\n\n\"Svenska Träimpregnerings AB.,\n\nLudvika.\n\nUtför legoimpregnering av telegraf-,\ntelefon- och kraftledningsstolpar samt\njärnvägssliprar.\n\nTelegr.-adr.: Stab, Ludvika. Telefon:\n343. Postgiro: 7879.\n\nAkt.-kap.: 600,000 kr. Antal\nindustriarb.: 80. Prod.-värde pr år: 3,000,000 kr.\n— Bolaget grundat 1924.\n\nStyrelse: adv. Hugo Stenbeck (ordf.),\ndir. A. Blichfeldt, dir. Karl Edlund, dir.\nKarl E. Eriksson, disp. Einar\nHedenlund.\n\nVerkst. dir.: Einar Hedenlund.\n\nKontorschef: Olle Carlsson.\n\nSvenska Trämjölsfabrikerna,\n\nStockholm.\n\nTrämjölsfabrik vid Lärje, Göteborg.\nTillverkar trämjöl för ^ linoleum-,\ndynamit och plasticfabrikation samt för\ntillverkning av tapeter, fogfria golv etc.\nävensom cellulosamjöl för olika tekniska\nändamål.\n\nKontor: Stockholm, Mosebacketorg 6.\nTelesrr.-adr.: Rerfass, Stockholm.\nTelefon- 403232. Postgiro: 4715. — Årstillv.:\n6,000 ton trämjöl. — Firman etabl. 1921.\n\nÄgare o. chef: kapten Ragnar Erfass.\n\nFabriks för est.: Ragnar Johansson.\n\nSvenska AB. Tubus, Uddevalla.\n\nTrärörsfabrik och snickerifabrik.\nTillverkar maskinlindade trämuffrör för\nvattenledningar, för sulfitlutledningar m. fl.\nändamål, kontinuerliga trätuber för\nkraftstationer, träkar (i storlekar över 500 l.)\nsamt byggnadssnickerier.\n\nTelefon: 14130. Postgiro: 135273. —\nAkt.-kap.: 50,000 kr. Antal industriarb.:\n20. Tillv.-värde pr år: 350,000 kr. —\nBolaget grundat 1937.\n\nVerkst. dir.: Gunnar Gamelius.\n\nDriftsing.: Halvard Scheutz.\n\nKamrer: Harald Holm.",
+    "structured": {
+        "Swedish_firms": [
+            {
+                "name": "AB. Svenska Transformatorfabriken",
+                "location": "Linköping",
+                "business": "Tillverkar elektr. transformatorer",
+                "contact": {
+                    "office": "Linköping",
+                    "phone": [
+                        "29400"
+                    ],
+                    "postgiro": "8910",
+                    "telegraph": "Transformator",
+                    "factory_office": "N/A",
+                    "factory_phone": "N/A"
+                },
+                "financials": {
+                    "capital": "161,400 kr",
+                    "employees": {
+                        "industriarb": 150
+                    },
+                    "annual_turnover": "N/A",
+                    "annual_production_value": "N/A"
+                },
+                "foundation_year": 1918,
+                "board": [
+                    {
+                        "name": "ing. A. L. Wadström",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "ing. Arvid Lindström",
+                        "role": "N/A"
+                    },
+                    {
+                        "name": "adv. Per Westling",
+                        "role": "N/A"
+                    }
+                ],
+                "director": "Olle Busch",
+                "managing_director": "N/A",
+                "sales_manager": "N/A",
+                "manager": "N/A"
+            },
+            {
+                "name": "Svenska Tryckeri AB.",
+                "location": "Stockholm",
+                "business": "Utför bok-, tidnings-, accidens-, offset-och rotationstryck samt bokbinderiarbeten",
+                "contact": {
+                    "office": "Klarabergsg. 54",
+                    "phone": [
+                        "Svenska Tryckeribolaget"
+                    ],
+                    "postgiro": "52523",
+                    "telegraph": "N/A",
+                    "factory_office": "N/A",
+                    "factory_phone": "N/A"
+                },
+                "financials": {
+                    "capital": "600,000 kr",
+                    "employees": {
+                        "industriarb": 184
+                    },
+                    "annual_turnover": "N/A",
+                    "annual_production_value": "N/A"
+                },
+                "foundation_year": 1884,
+                "board": [
+                    {
+                        "name": "dir. Erik J. Bengtson",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "fru H. Bengtson",
+                        "role": "N/A"
+                    },
+                    {
+                        "name": "ing. N. E. Bengtson",
+                        "role": "N/A"
+                    }
+                ],
+                "director": "Harald Bengtson",
+                "managing_director": "N/A",
+                "sales_manager": "N/A",
+                "manager": "N/A"
+            },
+            {
+                "name": "AB. Svenska Trähus",
+                "location": "Stockholm",
+                "business": "Firman utgör försäljningsbolag för monteringsfärdiga trähus",
+                "contact": {
+                    "office": "Stockholm, Birger Jarlsg. 27",
+                    "phone": [
+                        "Svenska Trähus"
+                    ],
+                    "postgiro": "54387",
+                    "telegraph": "Svenskatriihus",
+                    "factory_office": "N/A",
+                    "factory_phone": "N/A"
+                },
+                "financials": {
+                    "capital": "1,000,000 kr",
+                    "employees": {},
+                    "annual_turnover": "22,000,000 kr",
+                    "annual_production_value": "N/A"
+                },
+                "foundation_year": 1930,
+                "board": [
+                    {
+                        "name": "adv. Dick Bergman",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "disp. Axel Enström",
+                        "role": "N/A"
+                    },
+                    {
+                        "name": "dir. Erik W. Eriksson",
+                        "role": "N/A"
+                    }
+                ],
+                "director": "Bengt Lindeberg",
+                "managing_director": "N/A",
+                "sales_manager": "Thorsten Thorén",
+                "manager": "N/A"
+            },
+            {
+                "name": "Svenska Trämjölsfabrikerna",
+                "location": "Stockholm",
+                "business": "Tillverkar trämjöl för ^ linoleum-, dynamit och plasticfabrikation samt för tillverkning av tapeter, fogfria golv etc. ävensom cellulosamjöl för olika tekniska ändamål",
+                "contact": {
+                    "office": "Stockholm, Mosebacketorg 6",
+                    "phone": [
+                        "403232"
+                    ],
+                    "postgiro": "4715",
+                    "telegraph": "Rerfass",
+                    "factory_office": "N/A",
+                    "factory_phone": "N/A"
+                },
+                "financials": {
+                    "capital": "N/A",
+                    "employees": {},
+                    "annual_turnover": "N/A",
+                    "annual_production_value": "6,000 ton trämjöl"
+                },
+                "foundation_year": 1921,
+                "board": [],
+                "director": "N/A",
+                "managing_director": "kapten Ragnar Erfass",
+                "sales_manager": "N/A",
+                "manager": "Ragnar Johansson"
+            },
+            {
+                "name": "Svenska AB. Tubus",
+                "location": "Uddevalla",
+                "business": "Tillverkar maskinlindade trämuffrör för vattenledningar, för sulfitlutledningar m. fl. ändamål, kontinuerliga trätuber för kraftstationer, träkar (i storlekar över 500 l.) samt byggnadssnickerier",
+                "contact": {
+                    "office": "N/A",
+                    "phone": [
+                        "14130"
+                    ],
+                    "postgiro": "135273",
+                    "telegraph": "N/A",
+                    "factory_office": "N/A",
+                    "factory_phone": "N/A"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb": 20
+                    },
+                    "annual_turnover": "N/A",
+                    "annual_production_value": "350,000 kr"
+                },
+                "foundation_year": 1937,
+                "board": [],
+                "director": "N/A",
+                "managing_director": "Gunnar Gamelius",
+                "sales_manager": "N/A",
+                "manager": "N/A"
+            }
+        ]
+    }
+}

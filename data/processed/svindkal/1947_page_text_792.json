@@ -1,0 +1,216 @@
+{
+    "original": "Östmark—Ö verum\n\nStyrelse: dir. Eric östlund (ordf.), fru\nI. östlund, dir. Jacob östlund.\n\nVerkst. direktörer: Jacob östlund o.\nEric östlund.\n\n(Jfr annons nr 87.)\n\n\"Östmark &amp; Co., Eskilstuna.\n\nSe Eskilstuna Låsfabrik, östmark &amp;\nCo., Eskilstuna.\n\n\"Östra Bryggeri AB. i Halmstad,\n\nHalmstad.\n\nTillverkar malt- och läskedrycker.\n\nTelefon: 308 o. 304. — Akt.-kap.:\n408,000 kr. Antal industriarb.: 27.\nTillv.-värde pr år: 1,100,000 kr. — Bolaget\ngrundat 1863.\n\nStyrelse: disp. Bjarne Anjou (ordf.),\nbryggmäst. Karl Erik Anjou, dir. E.\nMeijel.\n\nVerkst. dir.: B. Anjou.\n\nBryggmäst.: K. E. Anjou.\n\nÖstra Götalands Linodlareförening\nu. p. a., Växjö.\n\nLinberedningsverk. Tillverkar lintåga\n\noch linblånor samt otjärat och tjärat\npackningsgarn och drev.\n\nKontor: Växjö. Telefon: 2405 o. 1809.\nPostgiro: 176950. — Antal industriarb.:\n150. Prod.-värde pr år: 2,500,000 kr. —\nFöreningen bildad 1941.\n\nDisp.: Gustaf Svensson.\n\nKamrer: Olof Fäste.\n\n\"AB. Östrands Sulfatfabrik,\n\nSundsvall.\n\nTillverkar sulfatcellulosa vid fabrik i\nöstrand (Västernorrl. l.).\n\nKontor: Sundsvall (se\nSundsvallsbolagen). Ensamförsäljare: Svenska Cellulosa\nAB., Stockholm, V. Trädgårdsg. 15.\nTelegr.-adr.: Pulpco, Stockholm. Telefon:\n»Cellulosabolaget».\n\nAkt.-kap.: 742,500 kr. Antal\nindustriarb.: 400. Årskapacitet: 140,000 ton\nsulfatcellulosa, varav 30,000 ton blekt, 5,500\nton flytande harts, 1,500 ton råterpentin.\n\nFabriken anlagd 1931. Bolaget äges av\nSvenska Cellulosa AB., Stockholm.\n\nStyrelse: dir. Torsten Hérnod (ordf.),\ndir. Gust. Göranson, dir. Gust. J. Sahlin,\nciviling. Sten Westerberg, bankdir. P.\nF. Wåhlin.\n\nVerkst. dir.: Gust. Göranson.\n\nDriftsingenjörer: Einar Larsson, J.\nStattin o. R. Hellerqvist.\n\n\"AB. Östrup-Jeppesen, Malmö.\n\nChoklad- och dragéfabrik. Tillverkar\nströssel, choklad samt dragéer.\n\nKontor: Kärleksg. 5 A. Telegr.-adr.:\nDragé, Malmö. Telefon: 19893, 78980 o.\n78990. Postgiro: 38815.\n\nAkt.-kap.: 40,000 kr. Antal\nindustriarb.: 20. Tillv.-värde pr år: 400,000 kr. —\nFirman etabl. 1934.\n\nStyrelse: dipl.-ing. Folke Hain.\n\nVerkst. dir.: Henning C.\nÖstrup-Jeppesen.\n\nInhöps- o. exportchef: Sven\nÖstrup-Jeppesen.\n\nÖström &amp; Fischer AB., Vålberg.\n\nBobinfabrik i Vålberg (Värml. l.).\nTillverkar bobiner samt svarvade massartiklar\nav trä. Specialitet: trådrullar.\n\nTelegr.-adr.: öström, Karlstad.\nTelefon: Karlstad 42050. Postgiro: 11911.\n\nAkt.-kap.: 200,000 kr. — Fabriken\nanlagd 1885.\n\nStyrelse: dir. C.-Fr. Löwenhielm,\nadv-Claes C:son Uggla, dir. Einar Ullman,\nbyggm. Olof Wästlund.\n\nVerkst. dir.: C.-Fr. Löwenhielm.\n\nAB. Öwedskiosters Stenindustrier,\n\nMalmö.\n\nMakadamfabrik (stenkross) vid öved\n(Malmöh. l.). Tillverkar granitmakadam,\nbottensten och stenmjöl samt röd\nsandsten.\n\nKontor: Malmö, Fersensväg 9. Telefon:\n26588. Postgiro: 39772.\n\nAkt.-kap.: 80,000 kr. Antal\nindustriarb.: 26. Prod.-värde pr år: 170,000 kr. —\nVerksamheten börjad på 1890-talet, nuv.\nbolag grundat 1915.\n\nVerkst. dir.: frih. Otto Ramel.\n\nKamrer: Elis G. Larson.\n\nÖverlida Strumpindustri,\n\nÖverlida.\n\nTillverkar herrstrumpor vid fabrik i\növerlida (Älvsb. l.).\n\nTelefon: 26. Postgiro: 168558. —\nAntal industriarb.: 15. Tillv.-värde pr år:\n200,000 kr. — Firman etabl. 1940.\n\nÄgare o. chef: fabr. Fritz Isacson.\n\n\"AB. Överums Bruk, Överum.\n\nMek. verkstad, gjuterier,\naducerings-verk, sågverk och snickerifabrik vid\növerum (Kalmar l.).",
+    "structured": {
+        "1": {
+            "name": "Östra Bryggeri AB.",
+            "location": "Halmstad",
+            "business": "Tillverkar malt- och läskedrycker",
+            "contact": {
+                "phone": [
+                    "308",
+                    "304"
+                ]
+            },
+            "financials": {
+                "capital": "408,000 kr",
+                "employees": {
+                    "industry": 27
+                },
+                "annual_production_value": "1,100,000 kr"
+            },
+            "foundation_year": 1863,
+            "board": [
+                {
+                    "name": "disp. Bjarne Anjou",
+                    "role": "ordf."
+                },
+                {
+                    "name": "bryggmäst. Karl Erik Anjou",
+                    "role": null
+                },
+                {
+                    "name": "dir. E. Meijel",
+                    "role": null
+                }
+            ]
+        },
+        "2": {
+            "name": "Östra Götalands Linodlareförening u. p. a.",
+            "location": "Växjö",
+            "business": "Linberedningsverk. Tillverkar lintåga och linblånor samt otjärat och tjärat packningsgarn och drev",
+            "contact": {
+                "phone": [
+                    "2405",
+                    "1809"
+                ],
+                "postgiro": "176950"
+            },
+            "financials": {
+                "employees": {
+                    "industry": 150
+                },
+                "annual_production_value": "2,500,000 kr"
+            },
+            "foundation_year": 1941,
+            "board": [
+                {
+                    "name": "Disp.: Gustaf Svensson",
+                    "role": null
+                },
+                {
+                    "name": "Kamrer: Olof Fäste",
+                    "role": null
+                }
+            ]
+        },
+        "3": {
+            "name": "AB. Östrands Sulfatfabrik",
+            "location": "Sundsvall",
+            "business": "Tillverkar sulfatcellulosa vid fabrik i östrand (Västernorrl. l.)",
+            "contact": {
+                "telegraph": "Pulpco, Stockholm",
+                "phone": "»Cellulosabolaget»"
+            },
+            "financials": {
+                "capital": "742,500 kr",
+                "employees": {
+                    "industry": 400
+                },
+                "annual_turnover": "140,000 ton sulfatcellulosa, varav 30,000 ton blekt, 5,500 ton flytande harts, 1,500 ton råterpentin"
+            },
+            "foundation_year": 1931,
+            "owners": [
+                "Svenska Cellulosa AB., Stockholm"
+            ],
+            "board": [
+                {
+                    "name": "dir. Torsten Hérnod",
+                    "role": "ordf."
+                },
+                {
+                    "name": "dir. Gust. Göranson",
+                    "role": null
+                },
+                {
+                    "name": null,
+                    "role": null
+                },
+                {
+                    "name": "civiling. Sten Westerberg",
+                    "role": null
+                },
+                {
+                    "name": "bankdir. P. F. Wåhlin",
+                    "role": null
+                }
+            ]
+        },
+        "4": {
+            "name": "AB. Östrup-Jeppesen",
+            "location": "Malmö",
+            "business": "Choklad- och dragéfabrik. Tillverkar strössel, choklad samt dragéer",
+            "contact": {
+                "phone": [
+                    "19893",
+                    "78980",
+                    "78990"
+                ],
+                "postgiro": "38815"
+            },
+            "financials": {
+                "capital": "40,000 kr",
+                "employees": {
+                    "industry": 20
+                },
+                "annual_production_value": "400,000 kr"
+            },
+            "foundation_year": 1934,
+            "board": [
+                {
+                    "name": "dipl.-ing. Folke Hain",
+                    "role": null
+                }
+            ]
+        },
+        "5": {
+            "name": "Öström & Fischer AB.",
+            "location": "Vålberg",
+            "business": "Bobinfabrik i Vålberg (Värml. l.). Tillverkar bobiner samt svarvade massartiklar av trä. Specialitet: trådrullar",
+            "contact": {
+                "telegraph": "öström, Karlstad",
+                "phone": "Karlstad 42050",
+                "postgiro": "11911"
+            },
+            "financials": {
+                "capital": "200,000 kr"
+            },
+            "foundation_year": 1885,
+            "board": [
+                {
+                    "name": "dir. C.-Fr. Löwenhielm",
+                    "role": null
+                },
+                {
+                    "name": "adv-Claes C:son Uggla",
+                    "role": null
+                },
+                {
+                    "name": "dir. Einar Ullman",
+                    "role": null
+                },
+                {
+                    "name": "byggm. Olof Wästlund",
+                    "role": null
+                }
+            ]
+        },
+        "6": {
+            "name": "AB. Öwedskiosters Stenindustrier",
+            "location": "Malmö",
+            "business": "Makadamfabrik (stenkross) vid öved (Malmöh. l.). Tillverkar granitmakadam, bottensten och stenmjöl samt röd sandsten",
+            "contact": {
+                "phone": "26588",
+                "postgiro": "39772"
+            },
+            "financials": {
+                "capital": "80,000 kr",
+                "employees": {
+                    "industry": 26
+                },
+                "annual_production_value": "170,000 kr"
+            },
+            "foundation_year": 1915,
+            "board": [
+                {
+                    "name": "verkst. dir.: frih. Otto Ramel",
+                    "role": null
+                },
+                {
+                    "name": "Kamrer: Elis G. Larson",
+                    "role": null
+                }
+            ]
+        },
+        "7": {
+            "name": "Överlida Strumpindustri",
+            "location": "Överlida",
+            "business": "Tillverkar herrstrumpor vid fabrik i överlida (Älvsb. l.)",
+            "contact": {
+                "phone": "26",
+                "postgiro": "168558"
+            },
+            "financials": {
+                "employees": {
+                    "industry": 15
+                },
+                "annual_production_value": "200,000 kr"
+            },
+            "board": [
+                {
+                    "name": "fabr. Fritz Isacson",
+                    "role": null
+                }
+            ]
+        }
+    }
+}

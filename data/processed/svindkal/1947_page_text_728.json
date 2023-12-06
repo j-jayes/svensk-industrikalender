@@ -1,0 +1,199 @@
+{
+    "original": "Träd—Träkol\n\nKontor: Limhamn. Telefon: Malmö\n52335. Postgiro: 249937. — Akt.-kap.:\n500,000 kr. Antal industriarb.: 80.\nTillv.-värde pr år: 2,000,000 kr. — Bolaget\ngrundat 1944. AB. Skånska\nCementgju-teriet är huvudintressent i bolaget.\n\nStyrelse: överste Agne Sandberg (ordf.),\nciviling. J. Christoffersen, civiling. V.\nHasselblad, civiling. Knud Höjgaard,\növering. Tryggve Hökerberg, disp. Nils\nKjellström.\n\nVerkst. dir.: Nils Kjellström.\n\nFabrikschef: civiling. K.-E. Kollind.\n\n\"Tråd- &amp; Spikfabriken, AB. Nya,\n\nVärnamo.\n\nSe AB. Nya Tråd- &amp; Spikfabriken,\nVärnamo.\n\nTrångsvikens Sågverk, Trångsviken.\n\nSe E. S. Ouchterlony &amp; Comp.,\nTrångsviken.\n\n\"AB. Trä &amp; Snickerier, Stockholm.\n\nTillverkar lådor, diverse trämanufaktur\nsamt byggnadssnickerier och inredningar\nvid snickerifabrik i Oskarshamn\n(Kalmar l.).\n\nHuvudkontor: Stockholm, Riddarg. 17;\ntelegr.-adr.: Nife, Stockholm. Telefon:\n» Jungnerbolaget». Postgiro: 1547.\nVerkstadskontor: Oskarshamn; telegr.-adr.:\nNife, Oskarshamn; telefon:\n»Jungner-bolaget».\n\nAkt.-kap.: 49,500 kr. Antal\nindustriarb.: 18. — Bolaget, grundat 1931, är\ndotterbolag till Svenska Ackumulator AB.\nJungner, Stockholm.\n\nStyrelse: dir. Robert Ameln (ordf.),\ndisp. Gustaf Eriksson.\n\nVerkst. dir.: Robert Ameln.\n\nPlatschef: Gustaf Eriksson.\n\n\"Träförädlings AB. i Karlskrona,\n\nKarlskrona.\n\nSnickerifabrik med sågverk och\nhyvleri. Tillverkar dörrar och fönster,\ntrappor, ledstänger, inredningar, listverk,\nbiograf- och skolbänkar, lådor,\nparkettstav m. m.\n\nTelegr.-adr.: Träbolaget, Karlskrona.\nTelefon: 635. Postgiro: 70308. —\nAkt.-kap.: 650,000 kr. Antal industriarb.: 75.\nTillv.-värde pr år: 2,500,000 kr. —\nBolaget grundat 1899.\n\nStyrelse: v. konsul S. A. Liljevall, disp.\nHarald Lindström, dr Julius Swanlund.\n\nVerkst. dir.: H. Lindström.\n\n\"Träförädlingsfabriken Vega,\n\nBorås.\n\nMöbelfabrik. Tillverkar\nresårbotten-sängar och bäddmöbler.\n\nTelefon: 11043. Postgiro: 88496. —\nArb.-antal: 7. Tillv.-värde pr år: 60,000\nkr. — Firman etabl. 1912.\n\nÄgare o. chef: fabr. Fritz Wilroth.\n\n\"Träimpregnerings AB., Svenska,\n\nLudvika.\n\nSe Svenska Träimpregnerings AB.,\nLudvika.\n\n\"Träindustribolaget, Ljusfalls-\n\nhammar.\n\nSågverk, hyvleri och kolugnar i\nHögsfall, Grytgöl, snickerifabrik i\nLjusfalls-hammar, sågverk i Skönnarbo (samtliga i\nÖstergötl. l.). Tillverkar sågade och\nhyvlade trävaror, träkol, lamelldörrar samt\nbäddmöbler, speciellt bäddsoffor. Firman\ndriver även skogshantering.\n\nKontor: Ljusfallshammar. Telegr.-adr.:\nTib, Ljusf allshammar. Telefon: 15.\nPostgiro: 179024.\n\nAntal industriarb.: i Högsfall 26, i\nLjusfallshammar 100, i Skönnarbo 15.\nÅrstillv. av trävaror: 1,200 stds.\nTillv.-värde för snickerier pr år: 700,000 kr.\n— Firman etabl. 1945.\n\nÄgare: fabr. Sture Petersson, fabr»\nFred Petersson o. fabr. Nils Andersson.\n\nChef: Sture Petersson.\n\n\"AB. Träindustri Forserum,\n\nForserum.\n\nTillverkar klädhängare och\ntoftsvarve-riarbeten vid fabrik i Forserum\n(Jönköp. l.).\n\nTelefon: 39. Postgiro: 23411. —\nAkt.-kap.: 27,500 kr. Antal industriarb.: 15»\nTillv.-värde pr år: 125,000 kr. — Bolaget\ngrundat 1918.\n\nStyrelse o. verkst. dir.: Gideon\nSvensson.\n\n\"AB. Träkol, Vansbro.\n\nKolugnar med reningsverk, sågverk*\nsnickerifabrik och impregneringsverk\nsamt kraftstation i Vansbro (Kopparb. l.).\n\nTillverkar trä kol, tjära, terpentin,\ntjär-och träoljor, träsprit, sågade, hyvlade och\nimpregnerade trävaror, sinkade och\nlimmade trälådor samt byggnadssnickerier.\nBolaget driver även handel med elektr.\nmateriel samt utför elektr. installationer.\n\n590*",
+    "structured": {
+        "firms": {
+            "1": {
+                "name": "Träd—Träkol",
+                "location": "Limhamn",
+                "business": "Tillverkar träkol",
+                "contact": {
+                    "office": "Limhamn",
+                    "phone": [
+                        "Malmö 52335"
+                    ],
+                    "postgiro": "249937",
+                    "factory_office": "Vansbro",
+                    "factory_phone": "590",
+                    "telegraph": "Tib, Ljusf allshammar"
+                },
+                "financials": {
+                    "capital": "500,000 kr",
+                    "employees": {
+                        "industriarb": 80
+                    },
+                    "annual_production_value": "2,000,000 kr"
+                },
+                "foundation_year": 1944,
+                "board": [
+                    {
+                        "name": "Agne Sandberg",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "J. Christoffersen",
+                        "role": "civiling."
+                    },
+                    {
+                        "name": "V. Hasselblad",
+                        "role": "civiling."
+                    },
+                    {
+                        "name": "Knud Höjgaard",
+                        "role": "civiling."
+                    },
+                    {
+                        "name": "Tryggve Hökerberg",
+                        "role": "övering."
+                    },
+                    {
+                        "name": "Nils Kjellström",
+                        "role": "disp."
+                    }
+                ],
+                "owners": [
+                    "Skånska Cementgju-teriet"
+                ]
+            },
+            "2": {
+                "name": "AB. Trä &amp; Snickerier",
+                "business": "Tillverkar lådor, diverse trämanufaktur samt byggnadssnickerier och inredningar",
+                "location": "Stockholm",
+                "contact": {
+                    "office": "Stockholm, Riddarg. 17",
+                    "phone": [
+                        "« Jungnerbolaget»"
+                    ],
+                    "postgiro": "1547",
+                    "factory_office": "Oskarshamn",
+                    "factory_phone": "N/A",
+                    "telegraph": "Nife, Stockholm"
+                },
+                "financials": {
+                    "capital": "49,500 kr",
+                    "employees": {
+                        "industriarb": 18
+                    }
+                },
+                "foundation_year": 1931,
+                "board": [
+                    {
+                        "name": "Robert Ameln",
+                        "role": "dir."
+                    },
+                    {
+                        "name": "Gustaf Eriksson",
+                        "role": "disp."
+                    }
+                ],
+                "owners": [
+                    "Svenska Ackumulator AB. Jungner, Stockholm"
+                ]
+            },
+            "3": {
+                "name": "Träförädlings AB. i Karlskrona",
+                "business": "Snickerifabrik med sågverk och hyvleri",
+                "location": "Karlskrona",
+                "contact": {
+                    "office": "Karlskrona",
+                    "phone": [
+                        "635"
+                    ],
+                    "postgiro": "70308"
+                },
+                "financials": {
+                    "capital": "650,000 kr",
+                    "employees": {
+                        "industriarb": 75
+                    },
+                    "annual_production_value": "2,500,000 kr"
+                },
+                "foundation_year": 1899,
+                "board": [
+                    {
+                        "name": "S. A. Liljevall",
+                        "role": "v. konsul"
+                    },
+                    {
+                        "name": "Harald Lindström",
+                        "role": "disp."
+                    },
+                    {
+                        "name": "Julius Swanlund",
+                        "role": "dr"
+                    }
+                ],
+                "director": "H. Lindström"
+            },
+            "4": {
+                "name": "Träförädlingsfabriken Vega",
+                "business": "Möbelfabrik",
+                "location": "Borås",
+                "contact": {
+                    "phone": [
+                        "11043"
+                    ],
+                    "postgiro": "88496"
+                },
+                "financials": {
+                    "annual_production_value": "60,000 kr"
+                },
+                "foundation_year": 1912,
+                "manager": "Fritz Wilroth"
+            },
+            "5": {
+                "name": "Träindustribolaget",
+                "location": "Ljusfallshammar",
+                "business": "Sågverk, hyvleri och kolugnar",
+                "contact": {
+                    "office": "Ljusfallshammar",
+                    "phone": [
+                        "15"
+                    ],
+                    "postgiro": "179024"
+                },
+                "financials": {
+                    "annual_production_value": "700,000 kr"
+                },
+                "foundation_year": 1945,
+                "owners": [
+                    "fabr. Sture Petersson",
+                    "fabr. Fred Petersson",
+                    "fabr. Nils Andersson"
+                ],
+                "manager": "Sture Petersson"
+            },
+            "6": {
+                "name": "AB. Träindustri Forserum",
+                "location": "Forserum",
+                "business": "Tillverkar klädhängare och toftsvarveriarbeten",
+                "contact": {
+                    "phone": [
+                        "39"
+                    ],
+                    "postgiro": "23411",
+                    "factory_office": "Forserum (Jönköp. l.)"
+                },
+                "financials": {
+                    "capital": "27,500 kr",
+                    "employees": {
+                        "industriarb": 15
+                    },
+                    "annual_production_value": "125,000 kr"
+                },
+                "foundation_year": 1918,
+                "director": "Gideon Svensson"
+            },
+            "7": {
+                "name": "AB. Träkol",
+                "location": "Vansbro",
+                "business": "Kolugnar med reningsverk, sågverk, snickerifabrik och impregneringsverk samt kraftstation",
+                "contact": {
+                    "phone": [
+                        "N/A"
+                    ],
+                    "postgiro": "N/A"
+                }
+            }
+        }
+    }
+}

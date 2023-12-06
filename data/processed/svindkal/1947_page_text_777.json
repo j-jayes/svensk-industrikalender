@@ -1,0 +1,190 @@
+{
+    "original": "Åberg—Ågren\n\nk\n\n* utmärker till Sveriges Industriförbund anslutna företag.\n\n\"Axel H. Åberg,\n\nLinköping.\n\nByggnadsentreprenörfirma för\nväg-och brobyggnadsarbeten, flygfälts- och\nidrottsanläggningar.\n\nTelefon: 20181. — Prod.-värde pr år:\n500,000 kr. — Firman etabl. 1933.\n\nÄgare o. chef; civiling. Axel H. Åberg.\n\n\"C. 0. Åberg &amp; Co., Edsbyn.\n\nSe Urafors Yxfabrik, C. O. Åberg &amp;\nCo., Edsbyn.\n\n*Åbro Bryggeri (Gamla\nVimmerby-bryggeriet), Vimmerby.\n\nSkattepliktigt bryggeri. Tillverkar\nmalt-och läskedrycker.\n\nTelefon: 101, 23 o. 600. Postgiro:\n12643. — Antal industriarb.: 25. —\nBryggeriet grundat 1856.\n\nÄgare o. chef: disp. Axel Dunge.\n\n*Åby Tegelbruk, C. J. Gustafsson,\n\nVallentuna.\n\nTillverkar murtegel och dräneringsrör\nvid tegelbruk i Vallentuna (Sthlms l.).\n\nTelefon: 109. Postgiro^ 73379.\n—.Antal industriarb.: 25. Årstillv.: 2 milj. st.\ntegelvaror. — Firman etabl. 1927.\n\nÄgare o. chef: fabr. C. Janne Gustafs-\n\n\"Åbyfors Spikfabriks AB.,\n\nSödra Valbo.\n\nTråddrageri och spikfabrik i Åbyfors,\nSödra Valbo (Gävleb. Ti11 verkar\njärn-och ståltråd samt trådspik t»ch trådstift.\nTelefon: Valbo 115. Postgiro: 131124.\n\nAkt.-kap.: 10,000 kr. Antal\nindustriarb.: 23. Tillv.-värde pr år: 180,000 kr.\n—- Firman etabl. 1931.\n\nStyrelse: disp. Oscar H. Jönsson (ordf.),\nfabr. Martin Wallin.\n\nVerkst. dir.: Martin Wallin.\n\n\"AB. Åbyfors Tegelbruk,\n\nSödra Valbo.\n\nTillverkar murtegel vid tegelbruk i\nSödra Valbo (Gävleb. l.).\n\nKontor: S. Valbo. Telefon: Gävle 418.\nPostgiro: 267570. — Akt.-kap.: 15,000\nkr. Antal industriarb.: 25. Årstillv.: 1,5\nmilj. st. tegelvaror. — Bolaget grundat\n1923.\n\nStyrelse: konsul Robert Carrick (ordf.),\ning. Lars Carrick, ing. Richard Carrick.\n\nDisp.: Robert Carrick.\n\n\"AB. ÅETÅ Tryck, Stockholm.\n\nBoktryckeri, offset- och djuptryckeri,\nbokbinderi och reklamservice. Utför\nbok-och katalogtryck, broschyrer, tidskrifter,\nfolders, affischer, etiketter m. m.\n\nKontor: Sveavägen 49. Telegr.-adr.:\nFörlaget. Telefon: Åhlén &amp; Åkerlund.\nPostgiro: 1111.\n\nAkt.-kap.: 5,000 kr. Antal industriarb.:\n65. — Firman etabl. 1939, bolag 1941.\n\nStyrelse: bokförlägg. Albert Bonnier\nJ:r (ordf.), disp. J. Holger Ihre.\n\nVerkst. dir.: disp. J. Holger Ihre.\n\nAB. Åfors Glasbruk, Emmaboda.\n\nTillverkar kristall samt pressat, slipat\noch etsat hushållsglas vid glasbruk i\nÅfors (Kronob. l.).\n\nTelefon: Emmaboda 15. Postgiro: 32151.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 140. Tillv.-värde pr år: 1,200,000 kr.\n— Bolaget grundat 1911.\n\nVerkst. dir.: Eric Åfors.\n\nÅfors Möbelfabriks AB.,\n\nBlomstermåla.\n\nMöbelfabrik i Blomstermåla (Kalmar\n1.). Tillverkar möbler i alla träslag.\n\nTelefon: 11. Postgiro: 21234. —\nAkt.-kap.: 35,000 kr. Antal industriarb.: 70.\nTillv.-värde pr år: 600,000 kr. — Bolaget\ngrundat 1906.\n\nDisp.: Ernfrid Johansson.\n\n\"Axel H. Ågren AB., Göteborg.\n\nKem. tekniska fabriker i Stockholm,\nGöteborg och Norrköping, kalkstensbrott\nvid Klinthagen å Gotland. Tillverkar\n\nvattenglas, kristallsoda, kem. ren soda\nsamt stenkolssot; bryter kalksten. Bolaget\ndriver såsom huvudrörelse handel med\n\n639*",
+    "structured": {
+        "firms": [
+            {
+                "name": "Axel H. Åberg",
+                "location": "Linköping",
+                "business": "Byggnadsentreprenörfirma för väg-och brobyggnadsarbeten, flygfälts- och idrottsanläggningar",
+                "contact": {
+                    "phone": [
+                        "20181"
+                    ]
+                },
+                "financials": {
+                    "annual_turnover": "500,000 kr"
+                },
+                "foundation_year": 1933,
+                "owner": "civiling. Axel H. Åberg"
+            },
+            {
+                "name": "Åbro Bryggeri (Gamla Vimmerby-bryggeriet)",
+                "location": "Vimmerby",
+                "business": "Tillverkar malt-och läskedrycker",
+                "contact": {
+                    "phone": [
+                        "101",
+                        "23",
+                        "600"
+                    ],
+                    "postgiro": "12643"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 25
+                    }
+                },
+                "foundation_year": 1856,
+                "owner": "disp. Axel Dunge"
+            },
+            {
+                "name": "Åby Tegelbruk, C. J. Gustafsson",
+                "location": "Vallentuna",
+                "business": "Tillverkar murtegel och dräneringsrör vid tegelbruk i Vallentuna (Sthlms l.)",
+                "contact": {
+                    "phone": "109",
+                    "postgiro": "73379"
+                },
+                "financials": {
+                    "employees": {
+                        "industriarb": 25
+                    },
+                    "annual_production_value": "2 milj. st. tegelvaror"
+                },
+                "foundation_year": 1927,
+                "owner": "fabr. C. Janne Gustafsson"
+            },
+            {
+                "name": "Åbyfors Spikfabriks AB.",
+                "location": "Södra Valbo",
+                "business": "Tråddrageri och spikfabrik i Åbyfors, Södra Valbo (Gävleb. Tillverkar järn-och ståltråd samt trådspik t»ch trådstift",
+                "contact": {
+                    "phone": "Valbo 115",
+                    "postgiro": "131124"
+                },
+                "financials": {
+                    "capital": "10,000 kr",
+                    "employees": {
+                        "industriarb": 23
+                    },
+                    "annual_production_value": "180,000 kr"
+                },
+                "foundation_year": 1931,
+                "board": [
+                    {
+                        "name": "Oscar H. Jönsson",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Martin Wallin",
+                        "role": "Verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "AB. Åbyfors Tegelbruk",
+                "location": "Södra Valbo",
+                "business": "Tillverkar murtegel vid tegelbruk i Södra Valbo (Gävleb. l.)",
+                "contact": {
+                    "phone": "Gävle 418",
+                    "postgiro": "267570"
+                },
+                "financials": {
+                    "capital": "15,000 kr",
+                    "employees": {
+                        "industriarb": 25
+                    },
+                    "annual_production_value": "1,5 milj. st. tegelvaror"
+                },
+                "foundation_year": 1923,
+                "board": [
+                    {
+                        "name": "Robert Carrick",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "Lars Carrick",
+                        "role": "ing."
+                    },
+                    {
+                        "name": "Richard Carrick",
+                        "role": "ing."
+                    }
+                ],
+                "director": "Robert Carrick"
+            },
+            {
+                "name": "AB. ÅETÅ Tryck",
+                "location": "Stockholm",
+                "business": "Boktryckeri, offset- och djuptryckeri, bokbinderi och reklamservice",
+                "contact": {
+                    "telegraph": "Förlaget",
+                    "phone": "Åhlén & Åkerlund",
+                    "postgiro": "1111"
+                },
+                "financials": {
+                    "capital": "5,000 kr",
+                    "employees": {
+                        "industriarb": 65
+                    }
+                },
+                "foundation_year": 1939,
+                "corporation_year": 1941,
+                "board": [
+                    {
+                        "name": "Albert Bonnier J:r",
+                        "role": "ordf."
+                    },
+                    {
+                        "name": "J. Holger Ihre",
+                        "role": "Verkst. dir."
+                    }
+                ]
+            },
+            {
+                "name": "AB. Åfors Glasbruk",
+                "location": "Emmaboda",
+                "business": "Tillverkar kristall samt pressat, slipat och etsat hushållsglas vid glasbruk i Åfors (Kronob. l.)",
+                "contact": {
+                    "phone": "Emmaboda 15",
+                    "postgiro": "32151"
+                },
+                "financials": {
+                    "capital": "100,000 kr",
+                    "employees": {
+                        "industriarb": 140
+                    },
+                    "annual_production_value": "1,200,000 kr"
+                },
+                "foundation_year": 1911,
+                "director": "Eric Åfors"
+            },
+            {
+                "name": "Åfors Möbelfabriks AB.",
+                "location": "Blomstermåla",
+                "business": "Möbelfabrik i Blomstermåla (Kalmar l.). Tillverkar möbler i alla träslag",
+                "contact": {
+                    "phone": "11",
+                    "postgiro": "21234"
+                },
+                "financials": {
+                    "capital": "35,000 kr",
+                    "employees": {
+                        "industriarb": 70
+                    },
+                    "annual_production_value": "600,000 kr"
+                },
+                "foundation_year": 1906,
+                "owner": "Ernfrid Johansson"
+            },
+            {
+                "name": "Axel H. Ågren AB.",
+                "location": "Göteborg",
+                "business": "Kem. tekniska fabriker i Stockholm, Göteborg och Norrköping, kalkstensbrott vid Klinthagen å Gotland. Tillverkar vattenglas, kristallsoda, kem. ren soda samt stenkolssot; bryter kalksten. Bolaget driver såsom huvudrörelse handel med",
+                "financials": {
+                    "capital": "639*"
+                }
+            }
+        ]
+    }
+}
