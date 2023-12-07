@@ -1,0 +1,123 @@
+{
+    "original": "Svenska\n\nFörsäljn.-chef er:\n\npapperscellulosa:\n\nför Europa (exkl. England): B.\nHolmquist ;\n\nför England och transoceana länder:\n\nSverker Kastrup;\nviskoscellulosa: B. Holmquist;\nmekanisk massa: Sigfrid Kastrup.\n\nTeknisk kundtjänst för cellulosa: dr O.\nHalse o. övering. G. P. Genberg.\n\n\"Svenska Cementförsäljnings AB.,\n\nMalmö.\n\nSe Cementa, Svenska\nCementförsäljnings AB., Malmö.\n\n\"Svenska Centrifug AB.,\n\nStockholm.\n\nMek. verkstad i Södertälje. Tillverkar\nmjölkseparatorer för handkraft samt\nme-tallgjutgods. Varumärke: »Dahlia».\n\nHuvudkontor: Stockholm, Flemingg.\n8; postadr.: Stockholm 1. Telegr.-adr.:\nCentrifug, Stockholm. Telefon:\n»Separator». Postgiro: 536. Fabrikskontor:\nSödertälje.\n\nAkt.-kap.: 100,000 kr. Antal\nindustriarb.: 300. -— Bolaget, grundat 1896, äges\nav AB. Separator.\n\nStyrelse: dir. E. Brändström, dir. Folke\nHellstedt, dir. Axel Wästfelt.\n\nVerkstadschef: Martin Westman.\n\nSvenska\nCharkuterimaskin-Fabriken, Sundbyberg.\n\nMek. verkstad, plåtslageri för rostfri\nplåt samt reparationsverkstad. Tillverkar\ncharkuterimaskiner.\n\nTelefon: 281377-^78. Postgiro: 81081.\n— Antal industriarb.: 14. — Firman\netabl. 1921, nuv. namn 1932.\n\nÄgare o. chef: fabr. Harry Peterson.\n\nSvenska Chenillefabriken,\n\nÄngelholm.\n\n# Tillverkar piprensare,\ndekorationsartiklar, konstgjorda blommor, påskägg för\nfyllnadsändamål m. m. vid fabrik i\nReb-belberga, Ängelholm (Kristianst. l.).\n\nTelefon: Ängelholm 1067—68.\nPostgiro: 86788. — Antal industriarb.: 70\nsamt 150 hemarbetare. Tillv.-värde pr år:\n900,000 kr. — Firman etabl. 1933.\n\nÄgare o. chef: fabr. Folke Vollmer.\n\n\"Svenska Chokladfabriks AB.,\n\nLjungsbro.\n\nChokladfabrik i Ljungsbro (Östergötl.\n1.). Tillverkar choklad, kakao, konfekt,\nkola, tabletter, karameller och\nfruktmarmelad. Varunamn: »Cloetta».\n\nTelegr.-adr.: Carobano, Ljungsbro.\nPostgiro: 137078. Försal jn.-bolag: AB.\nCloetta, Ljungsbro. Telegr.-adr.: Cloetta,\nLjungsbro. Telefon: »Cloetta». Postgiro:\n6589.\n\nAvd.-kontor: Stockholm, Odeng. 52,\ntelefon: »Cloetta»; Göteborg, Stora\nBad-husg. 16, telefon: »Cloetta»; Malmö,\nRun-delsg. 16, telefon: »Cloetta»; Sundsvall,\nStorg. 7, telefon: 3512. Telegr.-adr. för\nsamtliga avd.-kontor: Cloetta.\n\nAkt.-kap.: 1,200,000 kr. Antal\nindustriarb.: 600.\n\nBolaget grundat 1892, firman Cloetta\n1873. Bolaget äger Reppe\nStärkelsefabriks AB., Räppe.\n\nStyrelse: borgmäst. Bertel Hallberg\n(ordf.), bankdir. G. Gyllensvärd, disp.\nHjalmar Svenfelt.\n\nDisp.: Hj. Svenfelt.\n\nChefsassist. o. kamrer: Å. Rönqvist.\n\növering. o. fabrikschef: O. Widén.\n\nFörsäljn.-chef: Bertil Kr än.\n\nReklamchef: S. Aurelius.\n\nInköpschef: Edd Nilsson.\n\n\"Svenska AB. Christian! &amp; Nielsen,\n\nStockholm.\n\nEntreprenadfirma för bro- och\nkaj-byggnader, grundläggningar, hus- och\nmagasinsbyggnader,\nvattenkraftsbyggnader m. m.; utför cellbetongisolering.\n\nKontor: Kungsg. 17. Telegr.-adr.:\nJärn betong, Stockholm. Telefon: 234230.\nPostgiro: 57244.\n\nAkt.-kap.: 300,000 kr.\nOmsättniners-värde år 1945: 4,200,000 kr. — Bolaget\ngrundat 1922.\n\nStyrelse: dr-ing. Rud. Christiani, adv.\nMatts Fallenius, generallöjtn. Torsten\nFriis.\n\nDirektion: R. Lyckeberg (verkst. dir.)\no. Sigfrid Carlsson.\n\n\"Svenska Cykelfabriken Monark,\n\nVarberg.\n\nSe AB. Cykelfabriken Monark, Var-\n\nberg.\n\n\"AB. Svenska Damaskfabriken,\n\nStockholm.\n\nTillverkar promenad- och\nsportdamasker samt vinter- och sommarsportartiklar",
+    "structured": {
+        "1": {
+            "name": "Svenska Cementförsäljnings AB.",
+            "location": "Malmö",
+            "business": "Se Cementa, Svenska Cementförsäljnings AB., Malmö."
+        },
+        "2": {
+            "name": "Svenska Centrifug AB.",
+            "location": "Stockholm",
+            "business": "Mek. verkstad i Södertälje. Tillverkar mjölkseparatorer för handkraft samt metallgjutgods. Varumärke: »Dahlia». Huvudkontor: Stockholm, Flemingg. 8; postadr.: Stockholm 1. Telegr.-adr.: Centrifug, Stockholm. Telefon: »Separator». Postgiro: 536. Fabrikskontor: Södertälje.",
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 300
+                }
+            },
+            "foundation_year": 1896,
+            "owners": [
+                "AB. Separator"
+            ],
+            "board": [
+                {
+                    "name": "dir. E. Brändström",
+                    "role": ""
+                },
+                {
+                    "name": "dir. Folke Hellstedt",
+                    "role": ""
+                },
+                {
+                    "name": "dir. Axel Wästfelt",
+                    "role": ""
+                }
+            ],
+            "manager": "Martin Westman"
+        },
+        "3": {
+            "name": "Svenska Charkuterimaskin-Fabriken",
+            "location": "Sundbyberg",
+            "business": "Mek. verkstad, plåtslageri för rostfri plåt samt reparationsverkstad. Tillverkar charkuterimaskiner.",
+            "financials": {
+                "employees": 14
+            },
+            "foundation_year": 1921,
+            "current_name_year": 1932,
+            "director": "fabr. Harry Peterson"
+        },
+        "4": {
+            "name": "Svenska Chenillefabriken",
+            "location": "Ängelholm",
+            "business": "Tillverkar piprensare, dekorationsartiklar, konstgjorda blommor, påskägg för fyllnadsändamål m. m. vid fabrik i Rebbelberga, Ängelholm (Kristianst. l.).",
+            "financials": {
+                "employees": 70,
+                "annual_production_value": "900,000 kr"
+            },
+            "foundation_year": 1933,
+            "director": "fabr. Folke Vollmer"
+        },
+        "5": {
+            "name": "Svenska Chokladfabriks AB.",
+            "location": "Ljungsbro",
+            "business": "Chokladfabrik i Ljungsbro (Östergötl. 1.). Tillverkar choklad, kakao, konfekt, kola, tabletter, karameller och fruktmarmelad. Varunamn: »Cloetta».",
+            "financials": {
+                "capital": "1,200,000 kr",
+                "employees": 600
+            },
+            "foundation_year": 1892,
+            "predecessor": "firman Cloetta 1873",
+            "board": [
+                {
+                    "name": "borgmäst. Bertel Hallberg",
+                    "role": "ordf."
+                },
+                {
+                    "name": "bankdir. G. Gyllensvärd",
+                    "role": ""
+                },
+                {
+                    "name": "disp. Hjalmar Svenfelt",
+                    "role": ""
+                }
+            ],
+            "director": "O. Widén",
+            "sales_manager": "Bertil Krän",
+            "manager": "Edd Nilsson"
+        },
+        "6": {
+            "name": "Svenska AB. Christiani & Nielsen",
+            "location": "Stockholm",
+            "business": "Entreprenadfirma för bro- och kaj-byggnader, grundläggningar, hus- och magasinsbyggnader, vattenkraftsbyggnader m. m.; utför cellbetongisolering. Kontor: Kungsg. 17. Telegr.-adr.: Järnbetong, Stockholm. Telefon: 234230.",
+            "financials": {
+                "capital": "300,000 kr",
+                "annual_turnover": "4,200,000 kr"
+            },
+            "foundation_year": 1922,
+            "board": [
+                {
+                    "name": "dr-ing. Rud. Christiani",
+                    "role": ""
+                },
+                {
+                    "name": "adv. Matts Fallenius",
+                    "role": ""
+                },
+                {
+                    "name": "generallöjtn. Torsten Friis",
+                    "role": ""
+                }
+            ],
+            "director": "R. Lyckeberg",
+            "sales_manager": "Sigfrid Carlsson"
+        },
+        "7": {
+            "name": "Svenska Damaskfabriken",
+            "location": "Stockholm",
+            "business": "Tillverkar promenad- och sportdamasker samt vinter- och sommarsportartiklar.",
+            "foundation_year": null,
+            "current_name_year": 1932
+        }
+    }
+}

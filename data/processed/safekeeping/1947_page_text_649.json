@@ -1,0 +1,204 @@
+{
+    "original": "Stockholm\n\nKontor: Regeringsg. 52. Telefon:\n113477 o. 209449. Postgiro: 3126. —\nTillv.-värde pr år: 500,000 kr. — Firman\netabl. 1923.\n\nÄgare o. chef : dir. Thure Block.\nDisp.: Fritz W. Johnsson.\n\nAB. Stockholms Nya\nJärnsängsfabrik, Stockholm.\n\nSe AB. Sängfabriken, Stockholm.\n\nAB. Stockholms Pappersindustri,\n\nStockholm.\n\nPappersförädling. Tillverkar tårt- och\nfatpapper, knäck- och bakelsekapslar samt\nkartonger. Utför anilintryck m. m.\n\nKontor: Lindhagensg. 124—126.\nTelegr.-adr.: Tårtpapper, Stockholm.\nTelefon: 532622 o. 532680. Postgiro: 51442.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 35. Tillv.-värde pr år: 600,000 kr.\n\n—\tFirman etabl. 1929 under namn AB.\nStockholms Tårtpappers Fabrik, nuv.\nbolag 1944.\n\nVerkst. dir.: Axel G. Karlsson.\nDisp.: Martin Olsson.\n\nStockholms Pälsvarufabriks AB-,\n\nStockholm.\n\nTillverkar pälsvaror.\nKontor: Hamng. 36. Telegr.-adr.:\nStockpels, Stockholm. Telefon: 109361 o.\n105411. Postgiro: 154134.\n\nAkt.-kap.: 50,000 kr. Antal\nindustriarb.: 20. Tillv.-värde pr år: 800,000 kr.\n\n—\tBolaget grundat 1911, ombildat 1938.\nStyrelse: dir. Anton Pettersson (ordf.),\n\nbankkamrer Alf Norlander, dir. G.\nWöhrne.\n\nVerkst. dir.: G. Wöhrne.\n\nAB. Stockholms Ris- &amp; Valskvarn,\n\nStockholm.\n\n^ Tillverkar risgryn och korngryn samt\nrismjöl och kornmjöl.\n\nKontor: Kvarnholmen. Telefon: 433050\n—51.\n\nAkt.-kap.: 100,000 kr. Arb.-antal: 10.\nProd.-värde pr år: 1,500,000 kr. —\nBolaget, grundat 1934, äges av Kooperativa\nFörbundet.\n\n# Styrelse: dir. Albin Johansson (ordf.),\nfil. lic. Mauritz Bonow, dir. Hjalmar\nDe-gerstedt, dir. Hugo Edstam, dir. G.\nOsvald, dir. Ernst Persson.\n\nKvarnchef: dir. Emil Hamring.\n\n\"Stockholms Siporexfabrik AB.,\n\nStockholm.\n\nBetongvarufabriker i Södertälje och\nGävle. Tillverkar armerad och oarmerad\nlättbetong (märke: »Siporex») i block,\nplattor och balkar samt isoleringstegei\n(märke: »Diapor»).\n\nKontor: Norrlandsg. 7. Telegr.-adr.:\nStosipor, Stockholm. Telefon: 234780.\nPostgiro: 154687.\n\nAkt.-kap.: 500,000 kr. Antål\nindustriarb.: 250.\n\nBolaget grundat 1935 under namn AB.\nSilikatlicens, nuv. namn 1938.\n\nStyrelse: dir. Ernst Wehtje (ordf.), dir.\nBror Sjögren, disp. H. Seb. Tham.\nVerkst. dir.: Bror Sjögren.\n(Jfr annons efter Varubenämningar.)\n\n* AB. Stockholms Skofabrik,\n\nStockholm.\n\nSko- och gasmaskfabrik samt\nskorepa-rationsavdelning. Tillverkar skodon med\nmärkena: »Salamander», »Garanti» o.\n»Sana» samt skyddsgasmasker med märke:\n»Garanti».\n\nKontor: Brännkyrkag. 167.\nTelegr.-adr.: Skofabriken, Stockholm. Telefon:\n440240. Postgiro: 2969.\n\nAkt.-kap.: 810,000 kr. Antal\nindustriarb.: 185. Tillv.-värde pr år: 3,000,000 kr.\n\n—\tBolaget grundat 1890.\n\nStyrelse: major E. Herin, dir. Georg\nKarlson, grossh. Victor Wetterström.\nVerkst. dir.: Georg Karlson.\nDisp.: Gösta Ressner.\nKontorschef: fru M. Kreiiger.\n\n\"AB. Stockholms Strumpfabrik,\n\nHuddinge.\n\nStrumpfabrik och beställningsfärgeri\nvid Huddinge (Sthlms l.). Tillverkar\nstrumpor.\n\nTelefon: 571011 o. 571033. Postgiro:\n33605.\n\nAkt.-kap.: 700,000 kr. Antal\nindustriarb.: 210. Tillv.-värde pr år: 3,000,000 kr.\n\n—\tBolaget grundat 1928 under namn AB.\nliva, nuv. namn 1943.\n\nStyrelse: envoyé Axel Wallenberg\n(ordf.), dir. Tore Grönwall, civiling.\nAlgot Jansson, kapten Ernst Wahlquist, ing.\nVictor Wallenberg.\n\nVerkst. dir.: Algot Jansson.\nKontorschef: Malte Braun.\n\n\"Stockholms Superfosfat Fabriks\n\nAB., Stockholm.\n\nKemiska och elektrokemiska fabriker\nvid Ljungaverk och Stockviks verken",
+    "structured": {
+        "firms": {
+            "1": {
+                "name": "AB. Stockholms Nya Järnsängsfabrik",
+                "location": "Stockholm",
+                "business": "Tillverkning av järnsängar",
+                "products": "Tårt- och fatpapper, knäck- och bakelsekapslar samt kartonger",
+                "contact": {
+                    "office": "Lindhagensg. 124—126",
+                    "phone": [
+                        "532622",
+                        "532680"
+                    ],
+                    "postgiro": "51442"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb.": 35
+                    },
+                    "annual_turnover": "600,000 kr",
+                    "annual_production_value": "Tillv.-värde pr år: 600,000 kr"
+                },
+                "foundation_year": 1929,
+                "owners": [
+                    "AB. Stockholms Tårtpappers Fabrik"
+                ],
+                "director": "Axel G. Karlsson",
+                "manager": "Martin Olsson"
+            },
+            "2": {
+                "name": "AB. Stockholms Pappersindustri",
+                "location": "Stockholm",
+                "business": "Pappersförädling",
+                "products": "Tårt- och fatpapper, knäck- och bakelsekapslar samt kartonger",
+                "contact": {
+                    "office": "Lindhagensg. 124—126",
+                    "phone": [
+                        "532622",
+                        "532680"
+                    ],
+                    "postgiro": "51442"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb.": 35
+                    },
+                    "annual_turnover": "600,000 kr",
+                    "annual_production_value": "Tillv.-värde pr år: 600,000 kr"
+                },
+                "foundation_year": 1929,
+                "owners": [
+                    "AB. Stockholms Tårtpappers Fabrik"
+                ],
+                "director": "Axel G. Karlsson",
+                "manager": "Martin Olsson"
+            },
+            "3": {
+                "name": "Stockholms Pälsvarufabriks AB-",
+                "location": "Stockholm",
+                "business": "Tillverkning av pälsvaror",
+                "contact": {
+                    "office": "Hamng. 36",
+                    "phone": [
+                        "109361",
+                        "105411"
+                    ],
+                    "postgiro": "154134"
+                },
+                "financials": {
+                    "capital": "50,000 kr",
+                    "employees": {
+                        "industriarb.": 20
+                    },
+                    "annual_turnover": "800,000 kr",
+                    "annual_production_value": "Tillv.-värde pr år: 800,000 kr"
+                },
+                "foundation_year": 1911,
+                "owners": [],
+                "director": "G. Wöhrne",
+                "manager": "G. Wöhrne"
+            },
+            "4": {
+                "name": "Stockholms Ris- &amp; Valskvarn",
+                "location": "Stockholm",
+                "business": "Tillverkning av risgryn och korngryn samt rismjöl och kornmjöl",
+                "contact": {
+                    "office": "Kvarnholmen",
+                    "phone": [
+                        "433050",
+                        "433051"
+                    ],
+                    "postgiro": null
+                },
+                "financials": {
+                    "capital": "100,000 kr",
+                    "employees": {
+                        "Arb.-antal": 10
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": "Prod.-värde pr år: 1,500,000 kr"
+                },
+                "foundation_year": 1934,
+                "owners": [
+                    "Kooperativa Förbundet"
+                ],
+                "director": "Albin Johansson",
+                "manager": "Emil Hamring"
+            },
+            "5": {
+                "name": "Stockholms Siporexfabrik AB.",
+                "location": "Stockholm",
+                "business": "Tillverkning av armerad och oarmerad lättbetong",
+                "products": "Betongvaror i block, plattor och balkar samt isoleringstegei",
+                "contact": {
+                    "office": "Norrlandsg. 7",
+                    "phone": [
+                        "234780"
+                    ],
+                    "postgiro": "154687"
+                },
+                "financials": {
+                    "capital": "500,000 kr",
+                    "employees": {
+                        "industriarb.": 250
+                    },
+                    "annual_turnover": null,
+                    "annual_production_value": null
+                },
+                "foundation_year": 1935,
+                "owners": [
+                    "AB. Silikatlicens"
+                ],
+                "director": "Ernst Wehtje",
+                "manager": "Bror Sjögren"
+            },
+            "6": {
+                "name": "Stockholms Skofabrik",
+                "location": "Stockholm",
+                "business": "Tillverkning av skodon och skyddsgasmasker",
+                "products": "Sko- och gasmasker med märkena: »Salamander», »Garanti» o. »Sana» samt skyddsgasmasker med märke: »Garanti»",
+                "contact": {
+                    "office": "Brännkyrkag. 167",
+                    "phone": [
+                        "440240"
+                    ],
+                    "postgiro": "2969"
+                },
+                "financials": {
+                    "capital": "810,000 kr",
+                    "employees": {
+                        "industriarb.": 185
+                    },
+                    "annual_turnover": "3,000,000 kr",
+                    "annual_production_value": "Tillv.-värde pr år: 3,000,000 kr"
+                },
+                "foundation_year": 1890,
+                "owners": [],
+                "director": null,
+                "manager": "Georg Karlson"
+            },
+            "7": {
+                "name": "Stockholms Strumpfabrik",
+                "location": "Huddinge",
+                "business": "Tillverkning av strumpor",
+                "contact": {
+                    "phone": [
+                        "571011",
+                        "571033"
+                    ],
+                    "postgiro": "33605"
+                },
+                "financials": {
+                    "capital": "700,000 kr",
+                    "employees": {
+                        "industriarb.": 210
+                    },
+                    "annual_turnover": "3,000,000 kr",
+                    "annual_production_value": "Tillv.-värde pr år: 3,000,000 kr"
+                },
+                "foundation_year": 1928,
+                "owners": [
+                    "AB. liva"
+                ],
+                "director": null,
+                "manager": "Algot Jansson"
+            },
+            "8": {
+                "name": "Stockholms Superfosfat Fabriks AB.",
+                "location": "Stockholm",
+                "business": "Kemiska och elektrokemiska fabriker",
+                "contact": {
+                    "phone": [
+                        "Ljungaverk och Stockviks verken"
+                    ]
+                },
+                "foundation_year": null
+            }
+        }
+    }
+}
