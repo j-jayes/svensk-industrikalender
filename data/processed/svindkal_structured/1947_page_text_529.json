@@ -1,0 +1,183 @@
+{
+    "1": {
+        "name": "Nikame kaller—Nilsson",
+        "location": "Mårten Krakowg. 8",
+        "contact": {
+            "office": "Mårten Krakowg. 8",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "42700",
+            "telegraph": "Nihlmark, Göteborg"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "foundation_year": 1919
+        },
+        "board": [
+            {
+                "name": "Yngve Nihlmark",
+                "role": "ordf."
+            },
+            {
+                "name": "Elof Frändberg",
+                "role": "civiling."
+            },
+            {
+                "name": "Fritz Kärrberg",
+                "role": "handl."
+            }
+        ],
+        "manager": "Yngve Nihlmark",
+        "description": "Tillverkar brons- och mässingmetaller samt aluminium-, rödgods- och mässingsgjutgods."
+    },
+    "2": {
+        "name": "Ni kametal ler",
+        "location": "Wollmar Yxkullsgatan 11—13",
+        "contact": {
+            "office": "Wollmar Yxkullsgatan 11—13",
+            "phone": [
+                "444635",
+                "444637"
+            ],
+            "postgiro": "4619",
+            "telegraph": "Nikametall, Stockholm"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "foundation_year": 1927
+        },
+        "owners": [],
+        "description": "Tillverkar brons- och mässingmetaller samt aluminium-, rödgods- och mässingsgjutgods."
+    },
+    "3": {
+        "name": "Nilsson & C:o, Textil AB.",
+        "location": "Smålandsstenar",
+        "description": "N/A"
+    },
+    "4": {
+        "name": "Nilsson & Söner, Stenhuggeri",
+        "location": "Västervik",
+        "contact": {
+            "phone": [
+                "83"
+            ],
+            "postgiro": "33584"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "4550,000 kr"
+        },
+        "description": "Tillverkar gravvårdar, skulpturarbeten och granitplattor för beklädnad av fasader samt marmorarbeten."
+    },
+    "5": {
+        "name": "Nilssons Konfektionsfabrik",
+        "location": "Gullestorp",
+        "contact": {
+            "office": "Gullestorp",
+            "phone": [
+                "Borås 76019"
+            ],
+            "postgiro": "179127"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "400,000 ikr"
+        },
+        "owner": "Gösta Nilsson",
+        "description": "Tillverkar herr- och gosskläder vid fabrik i Gullestorp (Älvsb. l.)."
+    },
+    "6": {
+        "name": "Nilssons Möbelfabrik, Bröderna",
+        "location": "Målilla station",
+        "description": "N/A"
+    },
+    "7": {
+        "name": "AB. A. W. Nilsson & Co.",
+        "location": "Sävsjö",
+        "contact": {
+            "phone": [
+                "169"
+            ],
+            "postgiro": "144584"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "owner": "fabr. Axel W. Nilsson",
+        "description": "Tillverkar sandalsydda mans-, dam- och flickskodon samt sandaler vid fabrik i Sävsjö (Jönköp. l.)."
+    },
+    "8": {
+        "name": "AB. A. W. Nilssons Fabriker",
+        "location": "Malmö",
+        "contact": {
+            "office": "Möllevångsg. 53",
+            "phone": [
+                "72200"
+            ],
+            "postgiro": "38576"
+        },
+        "financials": {
+            "capital": "559,000 kr",
+            "employees": {
+                "industriarb": 140
+            }
+        },
+        "owners": [
+            "dir. Sven Malmberg",
+            "disp. Erik Nilsson",
+            "fröken Maja Nilsson"
+        ],
+        "manager": "fröken Maja Nilsson",
+        "description": "Tillverkar barnvagnar, dockvagnar samt stålmöbler."
+    },
+    "9": {
+        "name": "Bror Nilssons Valsgravyranstalt",
+        "location": "Rydboholm",
+        "contact": {
+            "phone": [
+                "Borås 90010"
+            ],
+            "postgiro": "88394"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "owner": "fabr. Bror Nilsson",
+        "description": "Utför gravering av valsar för tygtryckning samt för pappers-, tapet- och läderindustrier i Rydboholm (Älvsb. l.)."
+    },
+    "10": {
+        "name": "Erik Nilssons Fabriks AB.",
+        "location": "Borås",
+        "contact": {
+            "phone": [
+                "17535"
+            ],
+            "postgiro": "83555"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "owner": "disp. Bror H. Nilsson, disp. Elis Nilsson, fröken Isa Nilsson",
+        "description": "Tillverkar koftor, jumpers, västar, slipovers m. m. av ylle."
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1": {
+        "name": "Uddeholm",
+        "location": "Uddeholm",
+        "contact": {
+            "office": "Uddeholm",
+            "postgiro": "95000",
+            "head_office": "Uddeholm",
+            "telegraph": "Uddeholms",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "670305"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "172695"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "30722"
+                },
+                {
+                    "location": "Eskilstuna",
+                    "phone": "34700"
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": "4576"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "77,500,000 kr",
+            "employees": {
+                "industrial workers": 6450
+            }
+        },
+        "foundation_year": 1870,
+        "board": [
+            {
+                "name": "Tage Cervin",
+                "role": "ordf."
+            },
+            {
+                "name": "Ragnar Blomquist",
+                "role": "dir."
+            },
+            {
+                "name": "Mauritz Carlson",
+                "role": "dir."
+            },
+            {
+                "name": "Nils Danielsen",
+                "role": "disp."
+            },
+            {
+                "name": "Erland Geijer",
+                "role": "bankdir."
+            }
+        ],
+        "director": "Nils Danielsen",
+        "managing_director": "Nils Danielsen",
+        "sales_manager": "J. Herlenius",
+        "manager": "Nils Danielsen"
+    }
+}

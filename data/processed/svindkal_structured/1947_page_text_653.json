@@ -1,0 +1,233 @@
+{
+    "1": {
+        "name": "Strandwall—Strumpfabrijc AB",
+        "location": "Sjänninge",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar arbetsskjortor, blåkläder, byxor, barn- och gosskonfektion, skid-dräkter m. m.",
+        "contact": {
+            "office": "Skänninge",
+            "phone": [
+                "365"
+            ],
+            "postgiro": "75207",
+            "sales_offices": [
+                {
+                    "location": "Solna",
+                    "phone": "Stockholm 276643"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "annual_turnover": "250,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1921,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "Åke Strandwall",
+                "role": "Verkst. dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "Stribergs Grufve AB",
+        "location": "Striberg",
+        "business": "Järnmalmsgruvor",
+        "products": "Bryter och anrikar järnmalm, tillverkar sågade och hyvlade trävaror samt driver skogsbruk",
+        "contact": {
+            "office": "Striberg",
+            "phone": [
+                "Striberg 10"
+            ],
+            "postgiro": "96700"
+        },
+        "financials": {
+            "capital": "2,200,000 kr",
+            "employees": {
+                "industriarb.": 345
+            },
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1886,
+        "corporation_year": 1919,
+        "board": [
+            {
+                "name": "Evert Wijkander",
+                "role": "Styrelse: dir. (ordf.)"
+            },
+            {
+                "name": "Åke Bergendal",
+                "role": "Disp."
+            },
+            {
+                "name": "Bengt Carleson",
+                "role": "Disp."
+            },
+            {
+                "name": "N. Arvid Ericsson",
+                "role": "Disp."
+            },
+            {
+                "name": "W. Risberg",
+                "role": "Disp."
+            }
+        ],
+        "director": "Verkst. dir. o. disp.: Åke Bergendal",
+        "manager": "Kamrer: Erik Mandorf"
+    },
+    "3": {
+        "name": "AB. A. R. Strid",
+        "location": "Vetlanda",
+        "business": "Mek. verkstad och parkettfabrik",
+        "products": "Tillverkar maskiner för träbearbetning såsom klyvsågar, balanskapsågar och pendelkapsågar, specialmaskiner för tillverkning av monteringsfärdiga trähus samt parkettgolv av ek",
+        "contact": {
+            "office": "Stridar, Vetlanda",
+            "phone": [
+                "126"
+            ],
+            "postgiro": "94655"
+        },
+        "financials": {
+            "capital": "31,000 kr",
+            "employees": {
+                "industriarb.": 35
+            },
+            "annual_production_value": "475,000 kr"
+        },
+        "foundation_year": 1911,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "C. G. Wictorin",
+                "role": "Styrelse: överinsp. (ordf.)"
+            },
+            {
+                "name": "Geijer Strid",
+                "role": "Fabr."
+            },
+            {
+                "name": "Nils Strid",
+                "role": "Ing."
+            }
+        ],
+        "director": "Verkst. dir.: Geijer Strid"
+    },
+    "4": {
+        "name": "AB. Stridsberg & Biörck",
+        "location": "Trollhättan",
+        "business": "Sågblads- och maskinknivsfabrik",
+        "products": "Tillverkar sågblad av alla slag, maskinhyveljärn och maskinknivar m. m.",
+        "contact": {
+            "office": "Trollhättan",
+            "phone": [
+                "Stridsbiörck",
+                "Postgiro: 6080"
+            ],
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "101398"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "101378"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb.": 500
+            },
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1868,
+        "corporation_year": 1911,
+        "board": [
+            {
+                "name": "Gust. ödqvist",
+                "role": "Styrelse: (ordf.)"
+            },
+            {
+                "name": "Einar Egnell",
+                "role": "Ing."
+            },
+            {
+                "name": "S. Stridsberg",
+                "role": "Dir."
+            }
+        ],
+        "director": "Verkst. dir.: S. Stridsberg",
+        "sales_manager": "Försäljn.-chef: Gunnar Flink",
+        "manager": "Inköpschef: Erik Adamson"
+    },
+    "5": {
+        "name": "Stripa Cruv AB",
+        "location": "Ludvika",
+        "business": "Järnmalmsgruvor",
+        "products": "Producerar kvartsrandig, fosforren blodstensmalm och fosforren järnmalmsslig",
+        "contact": {
+            "office": "Ludvika",
+            "phone": [
+                "Ställ-bergsbolagen",
+                "Guldsmeids-hyttan: 70",
+                "Guldsmeids-hyttan: 100"
+            ]
+        },
+        "financials": {
+            "capital": "2,300,000 kr",
+            "employees": {
+                "industriarb.": 200
+            }
+        },
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "G. A. Klingspor",
+                "role": "Styrelse: (ordf.)"
+            },
+            {
+                "name": "Carl S:son Leijonhufvud",
+                "role": "majoren (v. ordf.)"
+            },
+            {
+                "name": "Erik G. Pehrsson",
+                "role": "Dir."
+            },
+            {
+                "name": "Hugo Stenbeck",
+                "role": "Adv."
+            }
+        ],
+        "director": "Verkst. dir. o. disp.: B. Stein",
+        "manager": "Kamrer i Stripa: Uno Zachrisson",
+        "sales_manager": "Kamrer vid huvudkontoret: Axel Frövik"
+    },
+    "6": {
+        "name": "Strumpfabriks AB. Kåge",
+        "location": "Älvsered",
+        "business": "Tillverkar herrstrumpor",
+        "products": "Tillv.-värde pr år: 300,000 kr",
+        "contact": {
+            "phone": [
+                "21"
+            ],
+            "postgiro": "95372"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb.": 25
+            }
+        },
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "Knut Gustafsson",
+                "role": "Disp."
+            }
+        ]
+    }
+}

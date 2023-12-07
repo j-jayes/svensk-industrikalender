@@ -1,0 +1,294 @@
+{
+    "1": {
+        "name": "Gumperts AB.",
+        "location": "Göteborg",
+        "business": "Kontorsbokfabrik, boktryckeri, offset, litografi och stämpelfabrik",
+        "contact": {
+            "office": "S. Hamng. 35",
+            "phone": [
+                "Gumperts, Göteborg"
+            ],
+            "postgiro": "40101"
+        },
+        "financials": {
+            "capital": "384,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1808,
+        "current_name_year": 1937,
+        "board": [
+            {
+                "name": "Einar Schiller",
+                "role": "övering"
+            },
+            {
+                "name": "Karl Björklund",
+                "role": null
+            },
+            {
+                "name": "Matts Fallenius",
+                "role": "adv"
+            },
+            {
+                "name": "Carl-Erik Kindal",
+                "role": "dir"
+            },
+            {
+                "name": "Sigrid Kindal",
+                "role": "fru"
+            },
+            {
+                "name": "P. O. Steen",
+                "role": "herr"
+            }
+        ],
+        "director": "C.-E. Kindal",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "Gunnebo Bruks AB.",
+        "location": "Gunnebobruk",
+        "business": "Järn- och stålmanufakturverk",
+        "contact": {
+            "office": "Gunnebobruk",
+            "phone": [
+                "»Gunnebobruk», Västervik"
+            ],
+            "postgiro": "9036",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "520530"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "111007"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "25565"
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": "55920"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "4,000,000 kr",
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "frih. Göran Gyllenstierna",
+                "role": "generalmajoren"
+            },
+            {
+                "name": "Rich. Hellgren",
+                "role": "disp"
+            },
+            {
+                "name": "Rudolf Sunström",
+                "role": "dir"
+            },
+            {
+                "name": "Allan Tigerschiöld",
+                "role": "kanslisekr"
+            },
+            {
+                "name": "Folke Wilhelmson",
+                "role": "dir"
+            }
+        ],
+        "director": "Rudolf Sunström",
+        "managing_director": null,
+        "sales_manager": "Waldemar Erikson",
+        "manager": null,
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    },
+    "3": {
+        "name": "AB. Gunnilse Tegel",
+        "location": "Gunnilse",
+        "business": "Tegelbruk",
+        "contact": {
+            "office": null,
+            "phone": [
+                "70",
+                "90"
+            ],
+            "postgiro": null
+        },
+        "financials": {
+            "capital": "230,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": null,
+            "annual_production_value": "5 milj. st. tegelvaror"
+        },
+        "foundation_year": 1937,
+        "board": null,
+        "director": "Erik Lindvall",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.78955939999999,
+            "Longitude": 12.0921209
+        }
+    },
+    "4": {
+        "name": "AB. Gusta Stenförädlingsverk",
+        "location": "Brunflo",
+        "business": "Kalkstensbrott, stenförädlingsverk och kalkmjölskvarn",
+        "contact": {
+            "office": null,
+            "phone": [
+                "19",
+                "63"
+            ],
+            "postgiro": "88066"
+        },
+        "financials": {
+            "capital": "207,500 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": null,
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "grevinnan Gunilla (Dicken) Reuterskiöld",
+                "role": "ordf"
+            },
+            {
+                "name": "frih. Gustaf Lagerfält J:or",
+                "role": null
+            },
+            {
+                "name": "Arvid Reuterskiöld",
+                "role": "dir"
+            }
+        ],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 63.077899,
+            "Longitude": 14.829402
+        }
+    },
+    "5": {
+        "name": "Gustafs Träindustri AB.",
+        "location": "Gustafs",
+        "business": "Tillverkar butiksinredningar, trälister till ram- och guldlister samt byggnadslister",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Gustafs Träindustri"
+            ],
+            "postgiro": "6787"
+        },
+        "financials": {
+            "capital": "100,400 kr",
+            "employees": null,
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1913,
+        "current_name_year": 1939,
+        "board": [
+            {
+                "name": "Anders Tunander",
+                "role": "fabr"
+            },
+            {
+                "name": "Folke Tunander",
+                "role": "disp"
+            },
+            {
+                "name": "Sune Tunander",
+                "role": "fabriksförm"
+            }
+        ],
+        "director": null,
+        "managing_director": "Folke Tunander",
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 60.41140559999999,
+            "Longitude": 15.6110187
+        }
+    },
+    "6": {
+        "name": "AB. Custavsbergs Fabriker",
+        "location": "Gustavsberg",
+        "business": "Porslinsfabrik",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Gustavsberg, »Porslinsfabriken»"
+            ],
+            "postgiro": "36225",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "620371"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "employees": {
+                "industriarb": 1,
+                "l": 0
+            },
+            "annual_turnover": "10,700,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1825,
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "dir"
+            },
+            {
+                "name": "M. Bonow",
+                "role": "fil. lic"
+            },
+            {
+                "name": "Hj. Degerstedt",
+                "role": null
+            }
+        ],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.314449,
+            "Longitude": 18.3985281
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "1": {
+        "name": "Pulverkemi—Pythagoras AB",
+        "location": "Stockholm",
+        "business": "Tillverkar metallpulver och apparater för sintermetalltillverkning",
+        "contact": {
+            "office": "Tuleg. 15",
+            "phone": [
+                "320068"
+            ],
+            "postgiro": "192466",
+            "telegraph": "Pulverkemi, Stockholm"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 11
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1942,
+        "director": "fil. dr Josef Heuberger",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "AB. Pumpindustri",
+        "location": "Göteborg",
+        "business": "Tillverkar centrifugal-, kolv- och kugghjulspumpar, motorsprutor, brandkårsutrustningar samt metallgjut-gods",
+        "contact": {
+            "office": "Krokslätt",
+            "phone": [
+                "187130"
+            ],
+            "postgiro": "41382",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "11117$ o. 202064"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "dir. Walter Edström",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Olof Jahn",
+                "role": ""
+            },
+            {
+                "name": "dir. Gustaf Larson",
+                "role": ""
+            },
+            {
+                "name": "bankdir. Ebbe Lundberg",
+                "role": ""
+            }
+        ],
+        "director": "Olof Jahn",
+        "sales_manager": "Rolf Deinoff",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "3": {
+        "name": "AB. Pump-Separator",
+        "location": "Stockholm",
+        "business": "Tillverkar mjölkseparatorer och smörkärnor",
+        "contact": {
+            "office": "Flemingg. 8",
+            "phone": [
+                "532304"
+            ],
+            "postgiro": "10,000,000 kr"
+        },
+        "original_name": "AB. Pump-Separators Gjuterier, Katrineholm, AB. Bomhus Lådfabrik, Bomhus",
+        "foundation_year": 1903,
+        "board": [
+            {
+                "name": "fil. dr Karl Hildebrand",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. E. Brändström",
+                "role": ""
+            },
+            {
+                "name": "dir. Nils E. Ericsson",
+                "role": ""
+            },
+            {
+                "name": "dir. Folke Hellstedt",
+                "role": ""
+            },
+            {
+                "name": "dir. Axel Wästfelt",
+                "role": ""
+            }
+        ],
+        "director": "Nils E. Ericsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Pump-Separators Cjuterier",
+        "location": "Katrineholm",
+        "business": "Tillverkar tackjärnsgjutgods, hejarsmi-de, trä-, järn- och metallmodeller samt utför emaljering av gjutgods och plåt för främmande beställare",
+        "contact": {
+            "telegraph": "Gjuterierna, Katrineholm",
+            "phone": "347",
+            "postgiro": "13089"
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "dir. Axel Wästfelt",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. E. Brändström",
+                "role": ""
+            },
+            {
+                "name": "dir. Nils E. Ericsson",
+                "role": ""
+            },
+            {
+                "name": "dir. Folke Hellstedt",
+                "role": ""
+            },
+            {
+                "name": "disp. Herman Magnusson",
+                "role": ""
+            }
+        ],
+        "director": "Herman Magnusson",
+        "coordinates": {
+            "Latitude": 58.99555109999999,
+            "Longitude": 16.2054756
+        }
+    },
+    "5": {
+        "name": "AB. Punker",
+        "location": "Eskilstuna",
+        "business": "Tillverkar spritgaskök och -element (märke: »Punker»), motorvärmare, karbidlampor, förgasare för gengasbilar, fönsterbeslag (»Pivåfönsterbeslag») samt skruvstycken och mjölkningsmaskiner",
+        "contact": {
+            "telegraph": "Punker, Eskilstuna",
+            "phone": [
+                "31020 o. 32520"
+            ],
+            "postgiro": "170017"
+        },
+        "financials": {
+            "capital": "175,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "dir. John F. Claeson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Nath. Hall",
+                "role": ""
+            }
+        ],
+        "director": "John F. Claeson",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "6": {
+        "name": "Pyrotekniska AB. C. R. Hansson & Söner",
+        "location": "Göteborg",
+        "business": "Tillverkar fyrverkeriartiklar m. m.",
+        "contact": {
+            "office": "Askim",
+            "phone": [
+                "282000"
+            ],
+            "postgiro": "42422"
+        },
+        "original_name": "Sprängämnesfabriken Trionyl, Ängelholm",
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "dir. Gösta Hansson",
+                "role": ""
+            },
+            {
+                "name": "dir. Stellan Hansson",
+                "role": ""
+            },
+            {
+                "name": "häradsskrivare Gustaf Palm",
+                "role": ""
+            }
+        ],
+        "director": "Gösta Hansson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

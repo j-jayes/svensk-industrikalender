@@ -1,0 +1,221 @@
+{
+    "1": {
+        "name": "Nya Zinkgruvor",
+        "location": "Falun",
+        "business": "Gruvdrift och skogshantering",
+        "contact": {
+            "office": "Falun",
+            "phone": [
+                "3801"
+            ],
+            "postgiro": "83681"
+        },
+        "financials": {
+            "capital": "89,600 kr",
+            "employees": {
+                "total": 0,
+                "management": 0,
+                "production": 12
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "110,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "Sven Thorné",
+                "role": "Direktör"
+            },
+            {
+                "name": "Otto Åkerström",
+                "role": "Dispens. King"
+            },
+            {
+                "name": "Axel Åström",
+                "role": "Bankombudsman"
+            }
+        ]
+    },
+    "2": {
+        "name": "Nya Lervarufabriken, V. Tunberg & Co.",
+        "location": "Töreboda",
+        "products": "Blomkrukor, oglaserade blomkrukor",
+        "contact": {
+            "phone": [
+                "175"
+            ],
+            "postgiro": "83681"
+        },
+        "financials": {
+            "employees": {
+                "total": 12
+            },
+            "annual_production_value": "110,000 kr"
+        },
+        "foundation_year": 1926,
+        "owners": [
+            "Victor Tunberg",
+            "Richard Tunberg"
+        ]
+    },
+    "3": {
+        "name": "Nya AB. Liljeqvists Sågblads- & Redskapsfabrik",
+        "location": "Eskilstuna",
+        "products": "Cirkel- och ramsågblad, maskinhyveljärn, murslevar, spadar, skyfflar, grepar, högafflar, trädgårdsredskap",
+        "contact": {
+            "telegraph": "Liljeqvistbolag, Eskilstuna",
+            "phone": [
+                "37440"
+            ],
+            "postgiro": "10705"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "total": 75
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "Peter Schollin-Borg",
+                "role": "Kapten, Ordförande"
+            },
+            {
+                "name": "Eric Benson",
+                "role": "Direktör"
+            },
+            {
+                "name": "A. Gyllenberg",
+                "role": "Löjtnant"
+            },
+            {
+                "name": "Arvid H. Nilsson",
+                "role": "Dispens."
+            },
+            {
+                "name": "I. Ryott-Iohnson",
+                "role": "Medicinsk doktor"
+            },
+            {
+                "name": "Allan Schollin-Borg",
+                "role": "Bergsingenjör"
+            },
+            {
+                "name": "Gunnar Schollin-Borg",
+                "role": "Civilingenjör"
+            },
+            {
+                "name": "E. Wesström",
+                "role": "Stiftsjägmästare"
+            },
+            {
+                "name": "J.-E. Ålund",
+                "role": "Kapten"
+            }
+        ]
+    },
+    "4": {
+        "name": "Nya Linneindustri AB",
+        "location": "Borås",
+        "description": "Se AB. Libo-Konfektion, Borås"
+    },
+    "5": {
+        "name": "Nya AB. Luleå Varv & Verkstäder",
+        "location": "Luleå",
+        "products": "Järnkonstruktioner, metall- och tackjärnsgjutgods, gruv-, tipp- och torkugnsvagnar, båtskrov, landsvägsfärjor",
+        "contact": {
+            "phone": [
+                "2191",
+                "1809"
+            ],
+            "postgiro": "60980"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "total": 140
+            },
+            "annual_production_value": "1,700,000 kr"
+        },
+        "foundation_year": 1932,
+        "director": "Bengt Sandström"
+    },
+    "6": {
+        "name": "Nya Läderfabriks AB. Göta",
+        "location": "Örebro",
+        "products": "Ovanläder, hästchevreaux, boxsidor, sportläder, kalvskinn, impregnerat ovanläder, spalt till arbetshandskar, foderskinn",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "Oscaria",
+                "106"
+            ]
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "total": 114
+            },
+            "annual_production_value": "2,980,000 kr"
+        },
+        "foundation_year": 1937,
+        "owners": [
+            "Skofabriks AB. Oscaria, Örebro"
+        ],
+        "director": "B. Klinge"
+    },
+    "7": {
+        "name": "Nya Marmorbruks AB.",
+        "location": "Kolmården",
+        "products": "Marmorblock, marmorskivor, marmor- och kalkstensarbeten, trappor, golv, pelare, pilastrar, fönsterplattor, diskbänkar, disk- och vågskivor, möbelmarmor, gravvårdar, krematorieurnor, prydnads- och konstföremål",
+        "contact": {
+            "office": "Kolmården",
+            "phone": [
+                "Kolmården 4"
+            ],
+            "postgiro": "7675"
+        },
+        "financials": {
+            "capital": "360,000 kr",
+            "employees": {
+                "total": 90
+            }
+        },
+        "foundation_year": 1866,
+        "board": [
+            {
+                "name": "G. Reuterskiöld",
+                "role": "Grevinna, Ordförande"
+            },
+            {
+                "name": "Gustaf Lagerfelt",
+                "role": "Friherre"
+            },
+            {
+                "name": "Arvid Reuterskiöld",
+                "role": "Direktör"
+            }
+        ],
+        "sales_manager": "Rikard Carlson"
+    },
+    "8": {
+        "name": "Nya Mek. Strumpfabriken AB.",
+        "location": "Borås",
+        "products": "Damstrumpor i natursilke och konstsilke",
+        "contact": {
+            "phone": [
+                "10989"
+            ]
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "total": 20
+            },
+            "annual_production_value": "Information saknas"
+        }
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "1": {
+        "name": "Ulvsunda Verkstäder AB.",
+        "location": "Ulvsunda, Stockholm",
+        "business": "Mekanisk verkstad",
+        "products": "Tillverkar hålslipmaskiner, slipspindlar, massartiklar, verktyg, jiggar, fixturer m.m",
+        "contact": {
+            "office": "Johannesfredsvägen 15-17, Ulvsunda",
+            "phone": [
+                "252510"
+            ],
+            "postgiro": "53803"
+        },
+        "financials": {
+            "capital": "4,000,000 kr",
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1928,
+        "current_name_year": 1940,
+        "board": [
+            {
+                "name": "Assar Gabrielsson",
+                "role": "ordförande"
+            },
+            {
+                "name": "Nils Frenne",
+                "role": "direktör"
+            },
+            {
+                "name": "Gustaf Larson",
+                "role": "direktör"
+            }
+        ],
+        "director": "Carl Gustaf Janson",
+        "managing_director": "N/A",
+        "sales_manager": "Lennart Odqvist",
+        "manager": "N/A"
+    },
+    "2": {
+        "name": "Ulvviks AB.",
+        "location": "Kramfors",
+        "business": "Träsliperi",
+        "products": "Tillverkar mekanisk trämassa",
+        "contact": {
+            "head_office": "Kramfors",
+            "telegraph": "Ulvviksbolag, Kramfors",
+            "sales_offices": [
+                {
+                    "location": "Älandsbro",
+                    "phone": "Älandsbro 61"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "N/A": 0
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "36,000 ton våt, vit mekanisk trämassa"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "K. E. Nyberg",
+                "role": "direktör"
+            },
+            {
+                "name": "A. Orrmell",
+                "role": "direktör"
+            }
+        ],
+        "manager": "R. Frölander"
+    },
+    "3": {
+        "name": "Umeå Klichéanstalt",
+        "location": "Umeå",
+        "business": "Tillverkning av klichéer",
+        "contact": {
+            "phone": [
+                "989",
+                "1078"
+            ],
+            "postgiro": "62499"
+        },
+        "financials": {
+            "employees": {
+                "N/A": 2
+            },
+            "annual_turnover": "24,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1924,
+        "director": "Carl Jansson"
+    },
+    "4": {
+        "name": "Umeå Tegelbruk, Bäckström & Co.",
+        "location": "Sofiehem, Umeå",
+        "business": "Tillverkning av murtegel och högporöst tegel",
+        "contact": {
+            "office": "Teg",
+            "phone": [
+                "Umeå 570"
+            ],
+            "postgiro": "63034"
+        },
+        "financials": {
+            "employees": {
+                "N/A": 27
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "1 milj. st. tegelvaror"
+        },
+        "foundation_year": 1920,
+        "manager": "J. M. Bäckström"
+    },
+    "5": {
+        "name": "AB. Umeå Trämassefabriker",
+        "location": "Umeå & Sofiehem, Umeå",
+        "business": "Tillverkning av våt mekanisk trämassa",
+        "contact": {
+            "telegraph": "Pulpmills, Umeå",
+            "phone": [
+                "2100"
+            ],
+            "postgiro": "62513"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "130,000 ton våt trämassa"
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Sune Wetter",
+                "role": "ordförande"
+            },
+            {
+                "name": "Stanley Bell",
+                "role": "direktör"
+            },
+            {
+                "name": "J. W. R. Lilliestråle",
+                "role": "direktör"
+            },
+            {
+                "name": "Arne Unander-Scharin",
+                "role": "konsul"
+            }
+        ],
+        "manager": "Arne Unander-Scharin"
+    },
+    "6": {
+        "name": "Umeå Ångbryggeri, Kommanditbolag",
+        "location": "Umeå",
+        "business": "Tillverkning av maltdrycker och läskedrycker",
+        "contact": {
+            "telegraph": "Ångbryggeriet, Umeå",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "29326"
+        },
+        "financials": {
+            "employees": {
+                "N/A": 51
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "1,800,000 kr"
+        },
+        "board": [
+            {
+                "name": "Robert Carlsson",
+                "role": "flottningschef"
+            },
+            {
+                "name": "Emil Lundmark",
+                "role": "grosshandlare"
+            },
+            {
+                "name": "K. Sohlgren",
+                "role": "direktör"
+            }
+        ],
+        "director": "Gunnar Sandell",
+        "manager": "N/A"
+    },
+    "7": {
+        "name": "Adolf Ungers Industri AB.",
+        "location": "Söderhamn",
+        "business": ""
+    },
+    "8": {
+        "name": "AB. Uplandsprodukter",
+        "location": "Uppsala",
+        "business": "Tillverkning av fiskprodukter"
+    },
+    "9": {
+        "name": "AB. Upperuds Trämassefabrik",
+        "location": "Upperud (Älvsb. l.)",
+        "business": "Tillverkning av mekanisk trämassa",
+        "contact": {
+            "telegraph": "Upperudsfabrik, Vänersborg",
+            "phone": [
+                "Åsensbruk 1"
+            ],
+            "postgiro": "137632"
+        }
+    }
+}

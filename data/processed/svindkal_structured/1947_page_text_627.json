@@ -1,0 +1,192 @@
+{
+    "1": {
+        "name": "Skruf Skyddskläder",
+        "location": "Fristad",
+        "business": "Konfektionsfabrik",
+        "products": "Overalls och arbetskläder, sportkostymer, vindtygs jackor, skjortor, poplin rockar m.m.",
+        "contact": {
+            "postgiro": "",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "240,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "disp. Harald Lindström",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Ernst Karlson",
+                "role": "v. ordf."
+            },
+            {
+                "name": "köpm. Per Hennel",
+                "role": ""
+            },
+            {
+                "name": "konsul Seth Liljevall",
+                "role": ""
+            }
+        ],
+        "director": "Ernst Karlson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": ""
+    },
+    "2": {
+        "name": "Skruv AB. (i Uddeholm)",
+        "location": "Eskilstuna",
+        "business": "Skruvfabrik",
+        "products": "Tillverkar träskruv och järngängad skruv av järn, mässing (rödmetall) och rostfritt stål samt ’roötfri nit.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Skruvbolaget",
+                "Eskilstuna"
+            ],
+            "postgiro": "94308",
+            "head_office": "Eskilstuna",
+            "telegraph": "Screw, Eskilstuna",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": "5,000,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": "",
+        "board": [
+            {
+                "name": "bankdir. Jacob Wallenberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Nore Nilsson",
+                "role": ""
+            },
+            {
+                "name": "dir. Sixten V. Nilsson",
+                "role": ""
+            },
+            {
+                "name": "disp. Sture Nilsson",
+                "role": ""
+            },
+            {
+                "name": "kapten Sten Rudberg",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "managing_director": "Nore Nilsson",
+        "sales_manager": "",
+        "manager": "Gustaf Åkerblom"
+    },
+    "3": {
+        "name": "Skruvfabriks AB. Strängnäs",
+        "location": "Strängnäs",
+        "business": "Skruvfabrik",
+        "products": "Tillverkar blanka svarvade skruvar och muttrar av järn och mässing samt korniska pinnar.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "364"
+            ],
+            "postgiro": "9475",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "210,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1919,
+        "board": [],
+        "director": "Olof Olsson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Agard Persson"
+    },
+    "4": {
+        "name": "Skutskärs Fabriker",
+        "location": "Skutskär",
+        "business": "Sulfit- och sulfatcellulosafabriker",
+        "products": "Tillverkar natriumbisulfit- och sulfatcellulosa, kvistpapper, sulfitsprit, terpentin, flytande harts samt flytande klor, natronlut, svavelsyr-lighet, butanol och butylacetat.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Härnäs 500"
+            ],
+            "postgiro": "",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 570
+            },
+            "annual_turnover": "",
+            "annual_production_value": "30,000 ton sulfitcellulosa samt 50,000 ton blekt sulfatcellulosa av extra stark specialkvalitet."
+        },
+        "foundation_year": "",
+        "board": [],
+        "director": "dir. Ragnar Söderquist",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": ""
+    },
+    "5": {
+        "name": "Skutskärs Sågverk",
+        "location": "Skutskär",
+        "business": "Sågverk och hyvleri",
+        "products": "Tillverkar sågade och hyvlade trävaror.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Härnäs 500"
+            ],
+            "postgiro": "",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "",
+            "annual_production_value": "20,000 stds sågade och hyvlade trävaror."
+        },
+        "foundation_year": "",
+        "board": [],
+        "director": "dir. Ragnar Söderquist",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": ""
+    }
+}

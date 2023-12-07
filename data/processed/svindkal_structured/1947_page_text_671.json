@@ -1,0 +1,111 @@
+{
+    "1": {
+        "name": "Svenska Cementförsäljnings AB.",
+        "location": "Malmö",
+        "business": "Se Cementa, Svenska Cementförsäljnings AB., Malmö."
+    },
+    "2": {
+        "name": "Svenska Centrifug AB.",
+        "location": "Stockholm",
+        "products": "Tillverkar mjölkseparatorer för handkraft samt metallsjutgods.",
+        "contact": {
+            "office": "Stockholm, Flemingg. 8",
+            "phone": [
+                "Separator"
+            ],
+            "postgiro": "536",
+            "head_office": "Stockholm, Flemingg. 8, Stockholm 1",
+            "sales_offices": [
+                {
+                    "location": "Södertälje",
+                    "phone": "Fabrikskontor: Södertälje"
+                }
+            ],
+            "telegraph": "Centrifug, Stockholm",
+            "factory_office": "Södertälje",
+            "factory_phone": "Separator"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 300
+            },
+            "foundation_year": 1896
+        },
+        "board": [
+            {
+                "name": "E. Brändström",
+                "role": "director"
+            },
+            {
+                "name": "Folke Hellstedt",
+                "role": "director"
+            },
+            {
+                "name": "Axel Wästfelt",
+                "role": "director"
+            }
+        ],
+        "owners": [
+            "AB. Separator"
+        ],
+        "director": "Martin Westman"
+    },
+    "3": {
+        "name": "Svenska Charkuterimaskin-Fabriken",
+        "location": "Sundbyberg",
+        "products": "Tillverkar charkuterimaskiner."
+    },
+    "4": {
+        "name": "Svenska Chenillefabriken",
+        "location": "Ängelholm",
+        "products": "Tillverkar piprensare, dekorationsartiklar, konstgjorda blommor, påskägg för fyllnadsändamål m. m."
+    },
+    "5": {
+        "name": "Svenska Chokladfabriks AB.",
+        "location": "Ljungsbro",
+        "products": "Tillverkar choklad, kakao, konfekt, kola, tabletter, karameller och fruktmarmelad.",
+        "contact": {
+            "telegraph": "Carobano, Ljungsbro",
+            "postgiro": "137078"
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb.": 600
+            },
+            "foundation_year": 1892
+        },
+        "board": [
+            {
+                "name": "Bertel Hallberg",
+                "role": "borgmäst."
+            },
+            {
+                "name": "G. Gyllensvärd",
+                "role": "bankdir."
+            },
+            {
+                "name": "Hjalmar Svenfelt",
+                "role": "disp."
+            }
+        ],
+        "director": "O. Widén",
+        "sales_manager": "Bertil Krän",
+        "manager": "Edd Nilsson"
+    },
+    "6": {
+        "name": "Svenska AB. Christiani & Nielsen",
+        "location": "Stockholm",
+        "products": "Entreprenadfirma för bro- och kaj-byggnader, grundläggningar, hus- och magasinsbyggnader, vattenkraftsbyggnader m. m.; utför cellbetongisolering."
+    },
+    "7": {
+        "name": "Svenska Cykelfabriken Monark",
+        "location": "Varberg"
+    },
+    "8": {
+        "name": "AB. Svenska Damaskfabriken",
+        "location": "Stockholm",
+        "products": "Tillverkar promenad- och sportdamasker samt vinter- och sommarsportartiklar."
+    }
+}

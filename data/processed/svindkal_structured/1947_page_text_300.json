@@ -1,0 +1,213 @@
+{
+    "1": {
+        "name": "Forsså Bruks AB",
+        "location": "Näsviken",
+        "business": "Papp- och kartongfabrik med träsliperi samt sågverk och hvvleri",
+        "products": "Tillverkar bokbinderipapp, ask- och biljettkartong, middles, mek. trämassa samt sågade och hyvlade trävaror",
+        "contact": {
+            "office": "Forssån, Näsviken",
+            "phone": [
+                "7"
+            ],
+            "postgiro": "8008",
+            "telegraph": "Forssån, Näsviken"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "16,000 ton våt mek. trämassa, 10,000 ton kartong o. papp, 800 stds sågade o. hyvlade trävaror"
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "Paul B. Burehardt",
+                "role": "disp."
+            },
+            {
+                "name": "L. J. Grönstedt",
+                "role": "landstingsm."
+            },
+            {
+                "name": "Anders Larsson",
+                "role": "kamrer"
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "dir."
+            },
+            {
+                "name": "Carl Rhedin",
+                "role": "major"
+            }
+        ],
+        "director": "P. B. Burehardt",
+        "factory_office": "Forssån, Näsviken"
+    },
+    "2": {
+        "name": "Forstners Paraplyfabriks AB",
+        "location": "Stockholm",
+        "business": "Tillverkar paraplyer, parasoller och promenadkäppar",
+        "contact": {
+            "office": "Mästersamuelsg. 61",
+            "phone": [
+                "101142",
+                "107270"
+            ],
+            "postgiro": "3122"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 31
+            },
+            "annual_turnover": "1,100,000 kr"
+        },
+        "foundation_year": 1853,
+        "board": [
+            {
+                "name": "Erik G. Lundquist",
+                "role": "grossh."
+            },
+            {
+                "name": "Börje Lundquist",
+                "role": "disp."
+            }
+        ]
+    },
+    "3": {
+        "name": "AB. Forsviks Bruk",
+        "location": "Forsvik",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Tillverkar gjutna rör och rördelar, låg-tryckscentrifugalpumpar och diafragmapumpar, brandposter, slussventiler, back-ventiler, bottenventiler, dilitationsmuffar, sugsilar",
+        "contact": {
+            "office": "Forsviks, Forsvik",
+            "phone": [
+                "31"
+            ],
+            "postgiro": "80751"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 105
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "Axel Kindbom",
+                "role": "grossh."
+            },
+            {
+                "name": "John Söderström",
+                "role": "jäg-mäst."
+            },
+            {
+                "name": "S. A. Wiking",
+                "role": "bruksäg."
+            }
+        ],
+        "director": "A. Kindbom"
+    },
+    "4": {
+        "name": "Forsviks Skogar",
+        "location": "Forsvik",
+        "business": "Tillverkar sågade och hyvlade trävaror, laths, käppämnen m. m. samt träkol",
+        "contact": {
+            "office": "Forsskogar, Karlsborg",
+            "phone": [
+                "51",
+                "19"
+            ],
+            "postgiro": "28200"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_production_value": "l,50ö<stds trävaror, 5,000 m3 träkol"
+        },
+        "foundation_year": 1936,
+        "owners": [
+            "disp. Sture W. Johansson"
+        ],
+        "manager": "Sture W. Johansson"
+    },
+    "5": {
+        "name": "AB. Forsåkers Fabriker",
+        "location": "Mölndal",
+        "business": "Bomullsspinneri och väveri",
+        "products": "Tillverkar trassel, skur-, disk-, puts- och dammhanddukar, vadd, bomullsgarn, bomullslinor, blånor, tjärdrev samt packningsgarn",
+        "contact": {
+            "office": "Forsåkers, Mölndal",
+            "phone": [
+                "Göteborg 272100"
+            ],
+            "postgiro": "45015"
+        },
+        "financials": {
+            "capital": "352,000 kr",
+            "employees": {
+                "industriarb": 115
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1880,
+        "board": [
+            {
+                "name": "Carl Wictor Willumsen",
+                "role": "disp."
+            },
+            {
+                "name": "Sten Haeger",
+                "role": "ing."
+            },
+            {
+                "name": "Carl-Björn Willumsen",
+                "role": "dir.-ass."
+            },
+            {
+                "name": "Mogens Willum-sen",
+                "role": "ing."
+            }
+        ],
+        "director": "C. W. Willumsen",
+        "managing_director": "C. W. Willumsen",
+        "sales_manager": "John Olsson"
+    },
+    "6": {
+        "name": "AB. Fotomekano",
+        "location": "Stockholm",
+        "business": "Tillverkar fotografiska apparater samt maskiner för fotografiska laboratorier",
+        "products": "Varumärken: »Fotomat», »Uniprint»*; »Unoscop» o. »Neoscop»",
+        "contact": {
+            "office": "Lästmakarg. 29",
+            "phone": [
+                "113987"
+            ]
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1940,
+        "director": "adv. Hakon Fallenius"
+    },
+    "7": {
+        "name": "AB. Fotoramar",
+        "location": "Nyköping",
+        "business": "Tillverkar fotografi- och tavelramar",
+        "contact": {
+            "phone": [
+                "2466"
+            ],
+            "postgiro": "87392"
+        }
+    }
+}

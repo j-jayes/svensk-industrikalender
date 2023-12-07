@@ -1,0 +1,205 @@
+{
+    "1": {
+        "name": "A. Karlson Metall- och Maskin AB.",
+        "location": "Stockholm",
+        "business": "Affärsverksamhet i metaller och maskiner samt tackjärn och järnlegeringar",
+        "contact": {
+            "office": "Birger Jarlsg. 13",
+            "phone": [
+                "232445"
+            ],
+            "telegraph": "Remin-d, Stockholm",
+            "postgiro": "2976"
+        },
+        "financials": {
+            "capital": "585,000 kr"
+        },
+        "foundation_year": 1902,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "Otto Friman",
+                "role": "Styrelseordförande"
+            },
+            {
+                "name": "Anton Carlsund",
+                "role": "Övering"
+            },
+            {
+                "name": "L. Friman",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "Anders Håkansson",
+                "role": "Styrelsemedlem"
+            }
+        ],
+        "director": "Gustaf Karlson",
+        "managing_director": "Otto Friman"
+    },
+    "2": {
+        "name": "Nya Snickerifabriken, A. Karlsson",
+        "location": "Gånghester"
+    },
+    "3": {
+        "name": "Alb. Karlsson, Metallfabriksbolag",
+        "location": "Eskilstuna",
+        "business": "Metallvarufabrik, förnicklings- och förkromningsverk. Tillverkar byggnadsbeslag, bilbeslag, hushållsvågar samt högtalare för radioindustrien",
+        "contact": {
+            "phone": [
+                "30354",
+                "30114",
+                "31264"
+            ],
+            "postgiro": "32878"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 140
+            }
+        },
+        "foundation_year": 1890
+    },
+    "4": {
+        "name": "Frans Karlsson, Möbelfabrik",
+        "location": "Tibro",
+        "business": "Tillverkar enrumsmöbler och kompletteringsmöbler",
+        "contact": {
+            "phone": "33",
+            "postgiro": "12677"
+        },
+        "financials": {
+            "capital": "62,000 kr"
+        },
+        "foundation_year": 1909
+    },
+    "5": {
+        "name": "Gottfrid Karlssons Skofabriks AB.",
+        "location": "Örebro",
+        "business": "Tillverkar randsydda herr- och damskor, ago-damskor, becksömsydda sport-och skidskor",
+        "contact": {
+            "telegraph": "Gekåsko",
+            "phone": "Suveränsko",
+            "postgiro": "6152"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "3,000,000 kr"
+        },
+        "foundation_year": 1936
+    },
+    "6": {
+        "name": "Cust. Karlsson",
+        "location": "Ejo",
+        "business": "Smidesfabrik. Tillverkar kullagerskjutdörrbeslag samt spjäll och ventiler m.m",
+        "contact": {
+            "phone": "36",
+            "postgiro": "96947"
+        },
+        "financials": {
+            "capital": "170,000 kr"
+        },
+        "foundation_year": 1931
+    },
+    "7": {
+        "name": "Harry Karlsson & C so AB., Byggnadsfirma",
+        "location": "Lund",
+        "business": "Byggnadsentreprenörfirma för bostads- och affärshus, industribyggnader m.m.",
+        "contact": {
+            "office": "Lund",
+            "phone": [
+                "17350"
+            ],
+            "postgiro": "37611",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "113316"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_production_value": "8,000,000 kr"
+        },
+        "foundation_year": 1936,
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "Harry Karlsson",
+                "role": "Styrelseordförande"
+            },
+            {
+                "name": "Marianne Harry-Karlsson",
+                "role": "Vice styrelseordförande"
+            },
+            {
+                "name": "Curt Berg",
+                "role": "Kamrer"
+            },
+            {
+                "name": "Albin Pålsson",
+                "role": "Verkmästare"
+            },
+            {
+                "name": "Olof Wellmark",
+                "role": "Advokat"
+            }
+        ],
+        "director": "Harry Karlsson",
+        "sales_manager": "Harry Karlsson",
+        "manager": "Curt Berg"
+    },
+    "8": {
+        "name": "K. A. Karlsson, Snickerifabrik",
+        "location": "Fagersjö",
+        "business": "Tillverkar dörrar, fönster, trappor, köksinredningar och enklare butiksinredningar",
+        "contact": {
+            "phone": "Södertörns villastad 160",
+            "postgiro": "145976"
+        },
+        "financials": {
+            "capital": "45,000 kr"
+        },
+        "foundation_year": 1920
+    },
+    "9": {
+        "name": "AB. K. W. Karlsson",
+        "location": "Gällstad",
+        "business": "Trikåfabrik i Gällstad (Älvsb. l.). Tillverkar badartiklar, herrvästar, jumpers, koftor, strumpor, sportsockor, herr- och damunderkläder av bomull och charmeuse samt herr- och gosskjortor av charmeuse",
+        "contact": {
+            "phone": [
+                "41",
+                "71"
+            ],
+            "postgiro": "130482"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 50,
+                "hemarb": 300
+            },
+            "annual_turnover": "1,700,000 kr"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "Algot Johansson",
+                "role": "Styrelseordförande"
+            },
+            {
+                "name": "Åke Johansson",
+                "role": "VD"
+            },
+            {
+                "name": "Karl W. Karlsson",
+                "role": "Fabriksdirektör"
+            }
+        ],
+        "director": "Karl W. Karlsson"
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "1": {
+        "name": "Färjestads Bryggeri AB",
+        "location": "Karlstad",
+        "business": "Tillverkar malt- och läskedrycker",
+        "contact": {
+            "office": "Karlstad",
+            "phone": [
+                "Bryggeribolaget"
+            ],
+            "postgiro": "71033",
+            "head_office": "Karlstad",
+            "factory_office": "Karlstad",
+            "factory_phone": "Bryggeribolaget"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1810,
+        "board": [
+            {
+                "name": "Sven Jansson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        }
+    },
+    "2": {
+        "name": "Förberg-Film AB",
+        "location": "Stockholm",
+        "business": "Produktion av industri- och propagandafilmer samt stillfilmer för reklam-och försäljningsändamål",
+        "contact": {
+            "office": "Kungsg. 27",
+            "phone": [
+                "111655",
+                "101655",
+                "118955"
+            ],
+            "postgiro": "57807"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "Arb.-antal": 5
+            },
+            "annual_turnover": "",
+            "annual_production_value": "225,000 kr"
+        },
+        "foundation_year": 1934,
+        "current_name_year": 1938,
+        "board": [
+            {
+                "name": "kapten Einar Förberg",
+                "role": "ordf."
+            },
+            {
+                "name": "tandläkare Bo Förberg",
+                "role": ""
+            },
+            {
+                "name": "fru Lily Förberg",
+                "role": ""
+            },
+            {
+                "name": "dir. Eric Hallgren",
+                "role": ""
+            }
+        ],
+        "director": "Einar Förberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "AB Förenade Bryggerierna",
+        "location": "Karlskrona",
+        "business": "Tillverkar maltdrycker, mineralvatten och läskedrycker",
+        "contact": {
+            "office": "Karlskrona",
+            "phone": [
+                "108"
+            ],
+            "postgiro": "277979"
+        },
+        "financials": {
+            "capital": "1,147,500 kr",
+            "employees": {
+                "Antal industriarb.": 50
+            },
+            "annual_turnover": "",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1882,
+        "board": [
+            {
+                "name": "greve Axel Wachtmeister",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. T. Forsse",
+                "role": ""
+            },
+            {
+                "name": "dir. O. H. Jephson",
+                "role": ""
+            },
+            {
+                "name": "konsul S. A. Liljevall",
+                "role": ""
+            },
+            {
+                "name": "grossh. Robert Swenson",
+                "role": ""
+            }
+        ],
+        "director": "O. H. Jephson",
+        "sales_manager": "Reinhold Lundgren",
+        "coordinates": {
+            "Latitude": 56.161224,
+            "Longitude": 15.5869
+        }
+    },
+    "4": {
+        "name": "AB Förenade Chokladfabrikerna",
+        "location": "Stockholm",
+        "business": "Choklad- och konfektfabrik. Tillverkar kakao, choklad, karameller och konfity-rer",
+        "contact": {
+            "office": "Fridhemsg. 53—55",
+            "phone": [
+                "Chokladfabrikerna"
+            ],
+            "postgiro": "124"
+        },
+        "financials": {
+            "capital": "863,100 kr",
+            "employees": {
+                "Antal industriarb.": 179
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "dir. Sven G. Falk",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Allan Carlsten",
+                "role": ""
+            },
+            {
+                "name": "dir. Folke öfverberg",
+                "role": ""
+            }
+        ],
+        "director": "Folke öfverberg",
+        "manager": "A. Åsbrink",
+        "sales_manager": "Holger Mattsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "AB Förenade Flygverkstäder",
+        "location": "Linköping",
+        "business": "Forskning- och konstruktionsverksamhet inom flygteknikens område samt försäljning av flygmaskiner",
+        "contact": {
+            "office": "Linköping",
+            "phone": [
+                "Saab"
+            ],
+            "postgiro": "",
+            "head_office": "Linköping"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "konsul Oscar Gullander",
+                "role": ""
+            },
+            {
+                "name": "adv. Wilhelm Moberg",
+                "role": ""
+            },
+            {
+                "name": "dir. Ragnar Wahrgren",
+                "role": ""
+            }
+        ],
+        "director": "Oscar Gullander",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    },
+    "6": {
+        "name": "AB Förenade Cranitindustrier",
+        "location": "Karlshamn",
+        "business": "Granitbrott och stenhuggerier",
+        "contact": {
+            "office": "Karlshamn",
+            "phone": [
+                "671"
+            ],
+            "postgiro": "46530"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "Antal industriarb.": 300
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1917,
+        "current_name_year": 1921,
+        "board": [
+            {
+                "name": "dir. Eric K. Fernström",
+                "role": "ordf."
+            },
+            {
+                "name": "kamrer Einar Tillman",
+                "role": ""
+            },
+            {
+                "name": "insp. Evald Werkström",
+                "role": ""
+            }
+        ],
+        "director": "Eric K. Fernström",
+        "manager": "Bertil Gustafsson",
+        "coordinates": {
+            "Latitude": 56.170303,
+            "Longitude": 14.863073
+        }
+    },
+    "7": {
+        "name": "Förenade Kaffeimportörers Rosteri AB",
+        "location": "Göteborg",
+        "business": "Kafferosteri",
+        "contact": {
+            "office": "Göteborg, Kvartersgat. 3 B o. C",
+            "phone": [
+                "170260"
+            ],
+            "postgiro": "8295"
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

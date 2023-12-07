@@ -1,0 +1,232 @@
+{
+    "1": {
+        "name": "Gåfvetorps Tegelbruk",
+        "location": "Gåvetorp",
+        "business": "Tillverkar murtegel, poröst och hög-poröst murtegel, beklädnadstegel samt dräneringsrör vid tegelbruk.",
+        "contact": {
+            "phone": [
+                "Gåvetorp 26"
+            ],
+            "postgiro": "22142"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "2 milj. st. tegel var or",
+            "foundation_year": 1800
+        },
+        "directors": {
+            "owner_and_ceo": "dr Arvid Aaby-Eriesson"
+        },
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    },
+    "2": {
+        "name": "Gåragöls Stärkelse- & Sagofabrik",
+        "location": "Hemsjö",
+        "business": "Tillverkar potatismjöl, potatisgryn och sagogryn vid fabrik.",
+        "contact": {
+            "phone": [
+                "Hemsjö 1"
+            ],
+            "telegraph": "Amylum, Karlshamn"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": "185,000 kr",
+            "foundation_year": 1879
+        },
+        "director": "fabr. Jöns Nilsson",
+        "coordinates": {
+            "Latitude": 57.84551,
+            "Longitude": 12.4760433
+        }
+    },
+    "3": {
+        "name": "Cårda Fabrikers AB.",
+        "location": "Göteborg",
+        "business": "Trikå- och strumpfabrik, bandfabrik, ullfärgeri samt briljantblekeri.",
+        "products": "Tillverkar trikåvaror och strumpor i ylle, bomull samt konst- och natursilke, vävda och flätade ylle-, bomulls- och konstsilkeband samt resårband. Utför färgning och briljantblekning av ull och ullgarn samt färgning av annat löst textilmaterial.",
+        "contact": {
+            "phone": "192560",
+            "postgiro": "41075",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "209926"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "2,130,000 kr",
+            "employees": {
+                "industriarb": 577
+            },
+            "foundation_year": 1880,
+            "corporation_year": 1893
+        },
+        "board": [
+            {
+                "name": "Gustaf Werner",
+                "role": "ordf."
+            },
+            {
+                "name": "Åke Arvidius",
+                "role": "dir."
+            },
+            {
+                "name": "Frans H. Nilsson",
+                "role": "dir."
+            }
+        ],
+        "managing_director": "Åke Arvidius",
+        "manager": "Hugo Kjellmer",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "AB. Gåsöfjordens Konservfabrik",
+        "location": "Grundsund",
+        "business": "Tillverkar sill- och makrillkonserver, ansjovis samt kaviar vid fabrik.",
+        "contact": {
+            "phone": "6",
+            "postgiro": "9856"
+        },
+        "financials": {
+            "capital": "65,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "foundation_year": 1925,
+            "corporation_year": 1946
+        },
+        "managing_director": "Johan G. Petersson",
+        "coordinates": {
+            "Latitude": 58.214729,
+            "Longitude": 11.4178031
+        }
+    },
+    "5": {
+        "name": "AB. Gäddeglo Tegelbruk",
+        "location": "Västervik",
+        "business": "Tillverkar mur- och taktegel samt dräneringsrör vid tegelbruk.",
+        "contact": {
+            "phone": "Västervik 232"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "1,5 milj. st. tegelvaror",
+            "foundation_year": 1904
+        },
+        "directors": {
+            "owner": "fru Hildur Holmström",
+            "manager": "Axel Holmström"
+        },
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        }
+    },
+    "6": {
+        "name": "Cäddvikens Superfosfatfabrik",
+        "location": "Stockholm",
+        "business": "Se Kooperativa Superfosfatfabriks AB.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "Gällaryds Möbel- & Träindustri AB.",
+        "location": "Smål. Gällaryd",
+        "business": "Tillverkar möbler vid fabrik.",
+        "contact": {
+            "phone": "Gällaryd 43",
+            "postgiro": "283004"
+        },
+        "financials": {
+            "capital": "51,000 kr",
+            "employees": {
+                "industriarb": 17
+            },
+            "foundation_year": 1943
+        },
+        "manager": "verkm. Bernadotte Peterson",
+        "coordinates": {
+            "Latitude": 57.127162,
+            "Longitude": 14.287306
+        }
+    },
+    "8": {
+        "name": "Gällivare Bryggeri Kommanditbol»",
+        "location": "Gällivare",
+        "business": "Tillverkar malt- och läskedrycker samt mineralvatten vid skattepliktigt bryggeri.",
+        "contact": {
+            "phone": [
+                "33",
+                "333"
+            ],
+            "postgiro": "60844"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "500,000 kr",
+            "foundation_year": 1898
+        },
+        "board": [
+            {
+                "name": "Olof Wåhlin",
+                "role": "ordf."
+            },
+            {
+                "name": "G. Jansson",
+                "role": "fröken"
+            },
+            {
+                "name": "Elin Wåhlin",
+                "role": "fru"
+            }
+        ],
+        "managing_director": "fru Elin Wåhlin",
+        "coordinates": {
+            "Latitude": 67.1379,
+            "Longitude": 20.6593618
+        }
+    },
+    "9": {
+        "name": "Gällstads Hemindustri AB.",
+        "location": "Gällstad",
+        "business": "Tillverkar yllevaror såsom sockor, strumpor, vantar, tröjor, slipovers, västar och bluskoftor vid trikåfabrik.",
+        "contact": {
+            "phone": "49",
+            "postgiro": "70000 kr"
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "industriarb": 24,
+                "hemarbetare": 232
+            },
+            "annual_production_value": "320,000 kr",
+            "foundation_year": 1930
+        },
+        "managing_director": "fabr. Eric Höglund",
+        "coordinates": {
+            "Latitude": 57.66859969999999,
+            "Longitude": 13.4328388
+        }
+    }
+}

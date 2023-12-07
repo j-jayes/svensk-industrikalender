@@ -1,0 +1,195 @@
+{
+    "1": {
+        "name": "Norbergs Grufförvaltning",
+        "location": "Kärrgruvan",
+        "business": "Förvaltning av järngruvor och anrikningsverk samt elektrisk kraftproduktion",
+        "products": "Bryter blodstens- och magnetitmalm samt producerar slig och distribuerar elektrisk energi",
+        "contact": {
+            "office": "Norbergsgrufvor, Norberg",
+            "phone": [
+                "Norberg 2"
+            ],
+            "telegraph": "Norbergsgrufvor, Norberg"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 345
+            },
+            "foundation_year": 0,
+            "board": [
+                {
+                    "name": "Axel Ax:son Johnson",
+                    "role": "ordf"
+                },
+                {
+                    "name": "Hj. Åselius",
+                    "role": "v. ordf"
+                },
+                {
+                    "name": "Joel Larsson",
+                    "role": "dir"
+                },
+                {
+                    "name": "Ernst Malmgren",
+                    "role": "disp"
+                },
+                {
+                    "name": "Erik G. Pehrsson",
+                    "role": "dir"
+                }
+            ],
+            "owners": [
+                "Norbergs Gruf AB",
+                "Kolningbergs Grufve AB",
+                "Storgrufve AB",
+                "Gröndals Gruf ve AB",
+                "Norbergs Elektriska AB"
+            ],
+            "director": "Not provided"
+        },
+        "coordinates": {
+            "Latitude": 60.0939765,
+            "Longitude": 15.9332249
+        }
+    },
+    "2": {
+        "name": "AB. Korbergs Mek. Verkstad",
+        "location": "Kärrgruvan",
+        "business": "Tillverkar transportmaskinerier för gruvor och järnverk, maskiner för sintrings- och anrikningsverk, järnkonstruktioner, plåtarbeten m. m. samt gjutgods",
+        "contact": {
+            "office": "Verkstaden, Norberg",
+            "phone": [
+                "Norberg 46"
+            ],
+            "postgiro": "94110"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb.": 50
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "800,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 60.0939765,
+            "Longitude": 15.9332249
+        }
+    },
+    "3": {
+        "name": "AB. Kordbakels",
+        "location": "Göteborg",
+        "business": "Kemisk-teknisk industri. Tillverkar halvfabrikat för bagerier och konditorier",
+        "products": "Varumärken: Novazea, Pettina, Hercules, Fino",
+        "contact": {
+            "office": "Waterloog. 2, Göteborg",
+            "phone": [
+                "192040"
+            ],
+            "postgiro": "46729"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarb.": 15
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "Not provided"
+        },
+        "director": "Bernard J. Bakels",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "Nordarmatur",
+        "location": "Linköping",
+        "business": "Not provided",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    },
+    "5": {
+        "name": "Gustaf Kordbergs Vagnfabrik AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar automobilkarosserier av olika typer",
+        "contact": {
+            "office": "Tegnérsg. 37, Stockholm",
+            "phone": [
+                "212638"
+            ],
+            "postgiro": "155416"
+        },
+        "financials": {
+            "capital": "22,000 kr",
+            "employees": {
+                "industriarb.": 15
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "200,000 kr"
+        },
+        "director": "Nils Nordberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "H. N. Kordén",
+        "location": "Malmö",
+        "business": "Snickeri- och tapetserareverkstäder. Tillverkar möbler",
+        "contact": {
+            "office": "Norreg. 27",
+            "phone": [
+                "15086"
+            ],
+            "postgiro": "24434"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 4
+            }
+        },
+        "director": "Not provided",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "7": {
+        "name": "Norden, AB. Kemiska Fabriken",
+        "location": "Göteborg",
+        "business": "Not provided",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "8": {
+        "name": "AB. Kordens Textilfabrik",
+        "location": "Borås",
+        "business": "Blekeri, färgeri, tryckeri och appreturverk. Förädlar oblekta bomullsvävnader",
+        "contact": {
+            "office": "Borås",
+            "phone": [
+                "Nordens Textil"
+            ],
+            "postgiro": "14944"
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb.": 125
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "4,000,000 kr"
+        },
+        "director": "Not provided",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    }
+}

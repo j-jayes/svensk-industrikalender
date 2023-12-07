@@ -1,0 +1,196 @@
+{
+    "1": {
+        "name": "Falkenbergs Tegelbruks AB.",
+        "location": "Falkenberg",
+        "description": "Tillverkar murtegel, lättegel, håltegel, mellanväggsplattor, tak- och reveterings-tegel samt dräneringsrör.",
+        "telegraph": "Tegelbruket, Falkenberg",
+        "phone": [
+            "48",
+            "748"
+        ],
+        "postgiro": "86695",
+        "financials": {
+            "capital": "150,000 kr",
+            "annual_turnover": "5 milj. st. tegel varor"
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "Sven-Ivar Christians-son",
+                "role": "lantbr."
+            },
+            {
+                "name": "Erik Lindvall",
+                "role": "dir."
+            },
+            {
+                "name": "Tore Lindvall",
+                "role": "disp."
+            }
+        ],
+        "director": "Tore Lindvall",
+        "coordinates": {
+            "Latitude": 56.90273329999999,
+            "Longitude": 12.4888013
+        }
+    },
+    "2": {
+        "name": "AB. Falköpings Mek. Verkstad",
+        "location": "Falköping",
+        "description": "Mek. verkstad i Falköping, samt tackjärnsgjuter i (»Kilshammars Gjuteri») i Kristinehamn. Tillverkar verktygsmaskiner såsom svarvar, borrmaskiner, avskämingsma-skiner m. m.",
+        "telegraph": "Mek-verkstaden, Falköping",
+        "phone": [
+            "29",
+            "426"
+        ],
+        "postgiro": "6406",
+        "financials": {
+            "capital": "150,000 kr"
+        },
+        "foundation_year": 1922,
+        "board": [
+            {
+                "name": "Sven Frisk",
+                "role": "fabr."
+            },
+            {
+                "name": "Frans Engstrand",
+                "role": "fabr."
+            },
+            {
+                "name": "Ingvar Frisk",
+                "role": "disp."
+            }
+        ],
+        "director": "Sven Frisk",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        }
+    },
+    "3": {
+        "name": "Falköpings Textilfabriks AB.",
+        "location": "Falköping",
+        "description": "Trikåfabrik. Tillverkar jumpers, jackor, västar samt badartiklar m. m.",
+        "phone": [
+            "354"
+        ],
+        "postgiro": "83540",
+        "financials": {
+            "capital": "45,000 kr"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "Sven Gustavson",
+                "role": "disp."
+            },
+            {
+                "name": "E. J. Brandt",
+                "role": "fru"
+            },
+            {
+                "name": "Johan Gustafsson",
+                "role": "herr"
+            }
+        ],
+        "director": "Sven Gustavson",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        }
+    },
+    "4": {
+        "name": "AB. G. I. Fall",
+        "location": "Eskilstuna",
+        "description": "Smidesverkstad och stålvarufabrik. Tillverkar borrar för träbearbetning samt skruvmejslar.",
+        "contact": {
+            "phone": "30583, 36583 o. 35783",
+            "postgiro": "10784"
+        },
+        "financials": {
+            "capital": "100,000 kr"
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "Erik Fall",
+                "role": "fabr."
+            },
+            {
+                "name": "Carl Fall",
+                "role": "fabr."
+            },
+            {
+                "name": "Gösta Fall",
+                "role": "ing."
+            }
+        ],
+        "director": "Gösta Fall",
+        "manager": "Isidor Fall",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "5": {
+        "name": "C. M. Fall & Son",
+        "location": "Eskilstuna",
+        "description": "Verktygsfabrik. Tillverkar snickeriverktyg såsom vinklar, cirklar samt träborrar m. m.",
+        "phone": [
+            "30688"
+        ],
+        "postgiro": "10788",
+        "financials": {
+            "annual_production_value": "122,000 kr"
+        },
+        "foundation_year": 1883,
+        "manager": "Wilhelm Fall",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "6": {
+        "name": "Falu Industri AB-",
+        "location": "Korsnäs",
+        "description": "Manufakturverk och mek. verkstad i Korsnäs (Kopparb. l.). Tillverkar trädgårds- och skogsredskap, murareverktyg, skäror, oljecisterner och oljeeldade ugnar, transportvagnar m. m. Bolaget levererar även färdigkokad Falu rödfärg.",
+        "telegraph": "industribol, Korsnäs",
+        "phone": [
+            "34",
+            "63"
+        ],
+        "postgiro": "85099",
+        "financials": {
+            "capital": "30,000 kr",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1933,
+        "director": "Gösta Bjurner",
+        "coordinates": {
+            "Latitude": 60.58931879999999,
+            "Longitude": 15.7114734
+        }
+    },
+    "7": {
+        "name": "Falu Kopparverk",
+        "location": "Falun",
+        "description": "Falu gruva med anrikningsverk, rödfärgsverk, talkkvarn, kopparhytta, kemiska fabriker samt mek. verkstad och gjuteri i Falun. Bryter svavelkis, zink-, bly- och kopparmalmer samt talk; tillverkar zink-, bly- och kopparsliger, koppar- och järn-vitrio!, svavelsyra, vanadinsyra, etylacetat, rödfärg (»Falu rödfärg»), ättiksyra samt ättiksyreanhydrid.",
+        "phone": [
+            "391"
+        ],
+        "financials": {
+            "employees": {
+                "industriarbetare": 450
+            }
+        },
+        "original_name": "Falu gruva",
+        "corporation_year": 1928,
+        "director": "Folke Lagergren",
+        "sales_manager": "Bo Stenberg",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        }
+    }
+}

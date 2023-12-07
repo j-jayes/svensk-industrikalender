@@ -1,0 +1,136 @@
+{
+    "1": {
+        "location": "Holmeja",
+        "products": "Se Skurups Tegelbruk AB., Skurup.",
+        "contact": {
+            "office": "Ivar Tardells Agenturer, Drottningg. 23",
+            "phone": [
+                "20045",
+                "104190"
+            ],
+            "postgiro": "27922"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "Carl Heintz",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Carl Gustaf Heintz",
+                "role": "Kontorschef"
+            }
+        ],
+        "manager": "Carl Heintz"
+    },
+    "2": {
+        "location": "Norrköping",
+        "description": "Se AB. Förenade Yllefabrikerna, Norrköping."
+    },
+    "3": {
+        "location": "Tidan",
+        "description": "Se Svenska Yllekoncernen, AB., Tidan."
+    },
+    "4": {
+        "location": "Bollebygd",
+        "products": "Tillverkar sportartiklar i ylle och kamelhår (Älvsb. l.)",
+        "contact": {
+            "office": "Trädgårdsgatan 1",
+            "phone": [
+                "110443"
+            ],
+            "postgiro": "48528"
+        },
+        "financials": {
+            "capital": "20,000 kr"
+        },
+        "foundation_year": 1943,
+        "manager": "Yngve Magnusson"
+    },
+    "5": {
+        "location": "Mölndal",
+        "description": "Vattenkraftstationer i Yngeredsfors, Ätrafors och Skogsforsen (Hallands l.), ångkraftstation i Varberg.",
+        "contact": {
+            "office": "Mölndal",
+            "phone": "Göteborg 272120",
+            "postgiro": "31000"
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "employees": {
+                "industriarb.": 104
+            },
+            "annual_turnover": "6,080,000 kr"
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "J. S. Edström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Marcus Wallenberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "I. Bjerström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Thorsten Ericson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Rich. Julin",
+                "role": "Styrelse"
+            }
+        ],
+        "manager": "I. Bjerström"
+    },
+    "6": {
+        "location": "Bollebygd",
+        "products": "Tillverkar yrkesplagg (Älvsb. L)",
+        "contact": {
+            "office": "AB-Textilkompaniet",
+            "phone": [
+                "20150"
+            ],
+            "postgiro": "14947"
+        },
+        "financials": {
+            "capital": "114,000 kr"
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1932,
+        "manager": "Patrick Lithander"
+    },
+    "7": {
+        "location": "Ystad",
+        "products": "Tillverkar mjöl av vete och råg samt kli. Varunamn för vetemjöl: »Kungsörnen»",
+        "contact": {
+            "office": "Kvarnkontor: Ystad",
+            "phone": [
+                "53"
+            ],
+            "postgiro": "32705"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb.": 13
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1888
+    },
+    "8": {
+        "location": "Ystad",
+        "products": "Tillverkar platt-läder samt kromgarvat och kromkombinationsgarvat ovanläder",
+        "description": "Bolaget driver även engroshandel med främmande läderfabrikat samt med råa hudar och skinn."
+    }
+}

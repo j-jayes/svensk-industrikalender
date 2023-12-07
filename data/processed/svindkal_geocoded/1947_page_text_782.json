@@ -1,0 +1,123 @@
+{
+    "1": {
+        "name": "AB. Åstorps Mek. Verkstad",
+        "location": "Åstorp",
+        "business": "Tillverkar aggregat för tröskverk s.m. agnfläktar, självmatare, kullager anordningar m.m., hö- och kärvblåsare samt spannmålstransportörer vid verkstad i Åstorp (Kristianst. l.)",
+        "contact": {
+            "phone": [
+                "192",
+                "292"
+            ],
+            "postgiro": "13659"
+        },
+        "financials": {
+            "capital": "56,000 kr",
+            "employees": {
+                "industriarb": 16
+            },
+            "annual_turnover": "375,000 kr"
+        },
+        "foundation_year": 1916,
+        "coordinates": {
+            "Latitude": 56.134262,
+            "Longitude": 12.945908
+        }
+    },
+    "2": {
+        "name": "Åstorps Tegelbruks AB.",
+        "location": "Åstorp",
+        "business": "Tillverkar murtegel, månghålstegel samt dräneringsrör vid tegelbruk i Åstorp (Kristianst. l.)",
+        "contact": {
+            "phone": "84",
+            "postgiro": "143811",
+            "sales_offices": [
+                {
+                    "location": "Byggnadsvaru-AB. Sylvan & Qvibelius, Hälsingborg",
+                    "phone": "20535"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "3 milj. st. tegelvaror"
+        },
+        "foundation_year": 1934,
+        "coordinates": {
+            "Latitude": 56.134262,
+            "Longitude": 12.945908
+        }
+    },
+    "3": {
+        "name": "AB. Åsundens Trikåfabrik",
+        "location": "Ulricehamn",
+        "business": "Trikåfabrik med färgeri. Tillverkar trikåunderkläder i bomull, silke och ylle. Varumärke: »Tre-kan-ten».",
+        "contact": {
+            "phone": "275",
+            "postgiro": "26722",
+            "sales_offices": [
+                {
+                    "location": "Eric Dahl, S. Hamng. 33, Göteborg",
+                    "phone": "136720"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1917,
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        }
+    },
+    "4": {
+        "name": "Åtvidabergs Bryggeri AB.",
+        "location": "Åtvidaberg",
+        "business": "Tillverkar maltdrycker och läskedrycker vid bryggeri i Åtvidaberg (Östergötl. l.)",
+        "contact": {
+            "phone": "11",
+            "postgiro": "85895"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "arb-antal": 10
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1922,
+        "coordinates": {
+            "Latitude": 58.2007895,
+            "Longitude": 15.9976986
+        }
+    },
+    "5": {
+        "name": "AB. Åtvidabergs Industrier",
+        "location": "Åtvidaberg",
+        "business": "Sågverk, träförädlingsfabrik, kem.-tekn. fabrik och tryckeri i Åtvidaberg (Östergötl. l.)",
+        "contact": {
+            "phone": "N/A",
+            "telegraph": "»Industrierna», Åtvidaberg",
+            "postgiro": "23307"
+        },
+        "financials": {
+            "capital": "5,600,000 kr",
+            "employees": {
+                "industriarb": 545
+            },
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1906,
+        "coordinates": {
+            "Latitude": 58.2007895,
+            "Longitude": 15.9976986
+        }
+    }
+}

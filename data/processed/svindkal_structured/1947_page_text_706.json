@@ -1,0 +1,225 @@
+{
+    "1": {
+        "name": "AB. Södra Dalarnes Gjuteri & Maskinverkstad",
+        "location": "Hedemora",
+        "business": "Tillverkning av gjutna produkter och maskiner",
+        "financials": {
+            "capital": "189,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1901,
+        "corporation_year": 1942,
+        "board": [
+            {
+                "name": "Melchior Fagerlund",
+                "role": "Ordförande"
+            },
+            {
+                "name": "Gunnar Fagerlund",
+                "role": "Disponent"
+            },
+            {
+                "name": "Lennart Fagerlund",
+                "role": "Disponent"
+            }
+        ],
+        "director": "M. Fagerlund"
+    },
+    "2": {
+        "name": "AB. Södra Snickerifabrikens",
+        "location": "Borås",
+        "business": "Tillverkning av trävaror, snickerier, kontorsinredningar och byggnadsmaterial",
+        "products": "Sågade och hyvlade trävaror, listverk, byggnadssnickerier, butiks- och kontorsinredningar, garverivalkar och färgbaljor",
+        "contact": {
+            "phone": [
+                "17500"
+            ],
+            "postgiro": "85885"
+        },
+        "financials": {
+            "capital": "154,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "Information saknas"
+        },
+        "foundation_year": 1893,
+        "corporation_year": 1908,
+        "board": [
+            {
+                "name": "Axel F. Lind",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ]
+    },
+    "3": {
+        "name": "AB. Södra Snickeri- & Möbelfabriken i Svängsta",
+        "location": "Svängsta",
+        "business": "Tillverkning av möbler och möbelstommar",
+        "products": "Möbler, fåtöljer och stolar samt som specialitet möbelstommar",
+        "contact": {
+            "phone": [
+                "47"
+            ],
+            "postgiro": "38498",
+            "sales_offices": [
+                {
+                    "location": "Djurslöv",
+                    "phone": "Malmö 45157"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_production_value": "675,000 kr"
+        },
+        "foundation_year": 1922,
+        "corporation_year": 1936,
+        "director": "Hilding Ström"
+    },
+    "4": {
+        "name": "AB. Sölvesborgs Glasbruk",
+        "location": "Sölvesborg",
+        "business": "Tillverkning av teknik- och medicinskt glas samt hushållsglas",
+        "products": "Teknik- och medicinskt glas, hushållsglas, glas för läkemedelsindustrier m. m.",
+        "contact": {
+            "phone": [
+                "10169"
+            ],
+            "postgiro": "33287"
+        },
+        "financials": {
+            "capital": "57,500 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1896,
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "Frans Anderson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Fr. Fischer",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Peter Kockum",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Emil Pehrsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Seth Sandberg",
+                "role": "Landsfiskal"
+            }
+        ],
+        "director": "Peter Kockum",
+        "manager": "Harry Svensson"
+    },
+    "5": {
+        "name": "Sölvesborgs Varvs- & Rederi AB.",
+        "location": "Sölvesborg",
+        "business": "Skeppsvarv med torrdocka, gjuteri och mek. verkstad",
+        "products": "Nybyggnader och reparationer av ång- och motorfartyg samt fiskebåtar, klassning av lastångfartyg",
+        "contact": {
+            "telegraph": "Varvet, Sölvesborg",
+            "phone": "10011",
+            "postgiro": "20953"
+        },
+        "financials": {
+            "capital": "460,525 kr",
+            "employees": {
+                "industriarb": 350
+            },
+            "annual_production_value": "2,660,000 kr"
+        },
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "Thure Carlsson",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "Oscar E. Carlson",
+                "role": "Övering."
+            }
+        ]
+    },
+    "6": {
+        "name": "AB. Sönnergrens Verkstäder",
+        "location": "Göteborg",
+        "business": "Massfabrikation av pressade, svarvade och frästa metallvaror",
+        "products": "Stansverktyg och fixturer",
+        "contact": {
+            "location": "Postgatan 57",
+            "phone": [
+                "119044",
+                "133294"
+            ],
+            "postgiro": "41484"
+        },
+        "financials": {
+            "capital": "26,000 kr",
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_production_value": "220,000 kr"
+        },
+        "corporation_year": 1928,
+        "director": "Ture Sönnergren"
+    },
+    "7": {
+        "name": "Erik Sörberg, Armaturfabrik",
+        "location": "Kungsör",
+        "business": "Tillverkning av armatur för gas, vatten och värme",
+        "products": "Armatu",
+        "contact": {
+            "phone": [
+                "193",
+                "500"
+            ],
+            "postgiro": "98245"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "700,000 kr"
+        },
+        "corporation_year": 1936,
+        "owner": "Erik Sörberg"
+    },
+    "8": {
+        "name": "Sörby Mek. Verkstad",
+        "location": "Örebro",
+        "business": "Tillverkning av maskiner och verktyg",
+        "products": "Maskiner för bagerier, skofabriker m. fl., verktyg, spec. pressverktyg, stålmöbler, pressningsarbeten m. m.",
+        "contact": {
+            "phone": [
+                "16965"
+            ],
+            "postgiro": "99954"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "corporation_year": 1936,
+        "owner": "Helmer Berglund"
+    }
+}

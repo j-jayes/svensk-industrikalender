@@ -1,0 +1,224 @@
+{
+    "1": {
+        "name": "Erik Pettersons Stilgjuteri Eftr.",
+        "location": "Stockholm",
+        "business": "Tillverkar boktrycksstilar, lågmaterial och mässingslinjer.",
+        "contact": {
+            "office": "G:la Brog. 36",
+            "phone": [
+                "105227"
+            ],
+            "postgiro": "50893"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "S. Ählman",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "director": "S. Ählman"
+    },
+    "2": {
+        "name": "E. Petterssons Träullsfabrik",
+        "location": "Västanhede",
+        "business": "Tillverkar träull, sågade trävaror och lister vid fabrik i Västanhede (Kopparb. l.).",
+        "contact": {
+            "phone": [
+                "39"
+            ],
+            "postgiro": "9370"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1894,
+        "owner": "fabr. Edvard Pettersson",
+        "director": "fabr. Edvard Pettersson"
+    },
+    "3": {
+        "name": "F. 0. Peterson & Söner",
+        "location": "Göteborg",
+        "business": "Byggnadsentreprenörfirma för affärshus, industribyggnader, bostadshus m.m.",
+        "contact": {
+            "office": "Kyrkog. 10",
+            "phone": [
+                "131114",
+                "138452",
+                "138453"
+            ],
+            "postgiro": "47174"
+        },
+        "foundation_year": 1870,
+        "owners": [
+            "arkitekt Sven Steen",
+            "arkitekt Jan Steen"
+        ],
+        "manager": "Hilding Forsberg"
+    },
+    "4": {
+        "name": "Gunnar Petersson, Gullebo Snickeri",
+        "location": "Rottne",
+        "business": "Se Gullebo Snickerifabrik, Gunnar Petersson, Rottne."
+    },
+    "5": {
+        "name": "Halvdan Petterssons Möbelsnickeri",
+        "location": "Tibro",
+        "business": "Tillverkar enrumsmöbler vid fabrik i Tibro (Skarab. l.).",
+        "contact": {
+            "phone": [
+                "100"
+            ],
+            "postgiro": "26977"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 10
+            },
+            "annual_production_value": "105,000 kr"
+        },
+        "foundation_year": 1915,
+        "owner": "fabr. Halvdan Pettersson",
+        "director": "fabr. Halvdan Pettersson"
+    },
+    "6": {
+        "name": "John Pettersons Eftr., Juvelerare AB",
+        "location": "Stockholm",
+        "business": "Se Juvelerare AB. John Pettersons Eftr., Stockholm."
+    },
+    "7": {
+        "name": "AB. J. A. Petterson & Co.",
+        "location": "Målsryd",
+        "business": "Herrkonfektionsfabrik i Målsryd (Älvsborgs l.). Tillverkar herrkläder.",
+        "contact": {
+            "phone": [
+                "49080",
+                "81",
+                "82"
+            ],
+            "postgiro": "7167"
+        },
+        "financials": {
+            "capital": "800,000 kr",
+            "employees": {
+                "industriarb": 190,
+                "hemarbetare": 60
+            },
+            "annual_turnover": "2,600,000 kr"
+        },
+        "foundation_year": 1863,
+        "corporation_year": 1910,
+        "board": [
+            {
+                "name": "Elis Aronsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Per Martin",
+                "role": "ing."
+            },
+            {
+                "name": "Hjalmar Tholén",
+                "role": "disp."
+            }
+        ],
+        "director": "Elis Aronsson",
+        "manager": "Elis Aronsson"
+    },
+    "8": {
+        "name": "J. E. Petterssons Järnförädling",
+        "location": "Hillerstorp",
+        "business": "Tillverkar vid fabrik i Hillerstorp (Jönköp. l.) kallvalsat band järn, skruvkrok, klädkrok, masonitépik m.m.",
+        "contact": {
+            "phone": [
+                "37"
+            ],
+            "postgiro": "37375"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1921,
+        "owners": [
+            "fabr. J. Emil Pettersson",
+            "Erland Törefors"
+        ],
+        "director": "fabr. J. Emil Pettersson",
+        "manager": "Erland Törefors"
+    },
+    "9": {
+        "name": "AB. J. C. Peterssons Möbel- & Träindustri",
+        "location": "Vaggeryd",
+        "business": "Snickerifabrik i Vaggeryd (Jönköp. l.). Tillverkar möbler och inredningar.",
+        "contact": {
+            "phone": [
+                "31"
+            ],
+            "postgiro": "23503"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 59
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1904,
+        "corporation_year": 1922,
+        "board": [
+            {
+                "name": "J. Gustaf Petersson",
+                "role": "ordf."
+            },
+            {
+                "name": "Olof Bigner",
+                "role": "kamrer"
+            }
+        ],
+        "director": "J. G. Petersson"
+    },
+    "10": {
+        "name": "AB. K. J. Pettersson & Söner",
+        "location": "Storvreta",
+        "business": "Möbelfabrik i Storvreta (Uppsala l.). Tillverkar bäddsoffor och dyschateller.",
+        "contact": {
+            "phone": [
+                "14"
+            ],
+            "postgiro": "94428"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "310,000 kr"
+        },
+        "foundation_year": 1934,
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "Gösta A. Pettersson",
+                "role": "ordf."
+            },
+            {
+                "name": "Karl Julius Pettersson",
+                "role": "fabr."
+            }
+        ],
+        "director": "G. A. Pettersson",
+        "manager": "Karl-Erik Pettersson"
+    }
+}

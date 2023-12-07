@@ -1,0 +1,178 @@
+{
+    "1": {
+        "name": "Götarps Fabriks AB.",
+        "location": "Gnosjö",
+        "business": "Manufakturverk",
+        "products": "Tillverkar skohakar, skoringar, klackbrickor, plåtadresslappar, häftstift, löd-öron, nitar för radiotillverkning samt kontaktmaterial för torrelement.",
+        "contact": {
+            "telegraph": "Josefsson, Gnosjö",
+            "phone": [
+                "30"
+            ],
+            "postgiro": "82350"
+        },
+        "financials": {
+            "capital": "153,000 kr",
+            "employees": {
+                "industriarb": 28
+            },
+            "foundation_year": 1911,
+            "current_name_year": 1943
+        },
+        "board": [
+            {
+                "name": "disp. Carl Josefsson",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Gustaf Josefsson",
+                "role": "dir."
+            },
+            {
+                "name": "fabr. Gösta Josefsson",
+                "role": "fabr."
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. Götatryckeriet",
+        "location": "Göteborg",
+        "business": "Boktryckeri, offsettryckeri och litografisk anstalt",
+        "products": "Framställer bank-, försäkrings- och affärstryck samt tillverkar kartongemballage och etiketter för livsmedels- och textilindustrierna m. m.",
+        "contact": {
+            "telegraph": "Götatryckeriet, Göteborg",
+            "phone": [
+                "132306—07"
+            ],
+            "postgiro": "44150"
+        },
+        "financials": {
+            "capital": "15,300 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "foundation_year": 1889
+        },
+        "board": [
+            {
+                "name": "dir. Gustaf Törner",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. John Andersson",
+                "role": "dir."
+            },
+            {
+                "name": "dir. E. A. Hagborg",
+                "role": "dir."
+            },
+            {
+                "name": "disp. Per Gustaf Törner",
+                "role": "disp."
+            }
+        ],
+        "director": "Gustaf Törner"
+    },
+    "3": {
+        "name": "AB. Götaverken",
+        "location": "Göteborg",
+        "business": "Skeppsvarv med mek. verkstad och gjuteri",
+        "products": "Bygger örlogs-, last- och passagerarefartyg, tillverkar fartygsdieselmotorer, ångmaskiner, turbokompressorer, ångpannor, värmeledningspannor, radiatorer, smidesjärnsfönster, grovplåtsarbeten, gjutgods samt utför brobyggnader, takstolar och andra fackverkskonstruktioner.",
+        "contact": {
+            "telegraph": "Götaverken, Göteborg",
+            "phone": [],
+            "postgiro": "40470"
+        },
+        "financials": {
+            "capital": "13,200,000 kr",
+            "employees": {
+                "industriarb": 5,
+                "firman etabl": 1841
+            }
+        },
+        "board": [
+            {
+                "name": "grossh. Knut J:son Mark",
+                "role": "ordf."
+            },
+            {
+                "name": "generalkonsul Gunnar Carlsson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Hugo Heyman",
+                "role": "dir."
+            },
+            {
+                "name": "major Herbert Jacobsson",
+                "role": "major"
+            },
+            {
+                "name": "generalkonsul Axel Jonsson",
+                "role": "generalkonsul"
+            },
+            {
+                "name": "skeppsred. P. Waller",
+                "role": "skeppsred."
+            }
+        ],
+        "director": "K. E. Jacobson",
+        "managing_director": "K. E. Jacobson"
+    },
+    "4": {
+        "name": "AB. Göteborgs Bult- & Nagel fabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar bult, mutter, mutterbrickor, däcksskruv, trägängad skruv, ångpanne-, fartygs- och bronagel, nitar m. m.",
+        "contact": {
+            "telegraph": "Nagelfabriken, Göteborg",
+            "phone": [
+                "131212"
+            ],
+            "postgiro": "42431"
+        },
+        "financials": {
+            "capital": "1,100,000 kr",
+            "employees": {
+                "industriarb": 165
+            },
+            "foundation_year": 1898
+        },
+        "board": [
+            {
+                "name": "ad v. Torsten Setterberg",
+                "role": "ordf."
+            },
+            {
+                "name": "kamrer Conrad Kjellman",
+                "role": "kamrer"
+            },
+            {
+                "name": "ing. Johan Mustad",
+                "role": "ing."
+            }
+        ]
+    },
+    "5": {
+        "name": "AB. Göteborgs Chokolad- & Konfektfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar choklad, konfekt, karameller och marmelad",
+        "products": "Varunamn: »Göta»",
+        "contact": {
+            "telegraph": "Götachoklad, Göteborg",
+            "phone": [
+                "138548",
+                "136663",
+                "139862"
+            ],
+            "postgiro": "12015"
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "industriarb": 78
+            },
+            "foundation_year": 1905,
+            "corporation_year": 1918
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "1": {
+        "name": "Trävaru AB",
+        "location": "Norrköping",
+        "business": "Tillverkar sågade och hyvlade trävaror, laths, kvastkäppämnen och lådbräder samt byggnadssnickerier och monteringsfärdiga trähus.",
+        "contact": {
+            "office": "Norrköpings Export-hyfleri, Norrköping",
+            "phone": [
+                "22907"
+            ],
+            "postgiro": "137824",
+            "telegraph": "Hyfleriet, Norrköping"
+        },
+        "financials": {
+            "capital": "525,000 kr",
+            "employees": {
+                "industriarb": 175
+            },
+            "annual_turnover": "18,000 stds sågade o. hyvlade trävaror",
+            "annual_production_value": "18,000 stds sågade o. hyvlade trävaror"
+        },
+        "foundation_year": 1903,
+        "current_name_year": 1929,
+        "board": [
+            {
+                "name": "Emrik Danielsson",
+                "role": "disp."
+            },
+            {
+                "name": "Henning Danielsson",
+                "role": "gods-äg."
+            },
+            {
+                "name": "Olof Danielsson",
+                "role": "disp."
+            },
+            {
+                "name": "Åke Danielsson",
+                "role": "disp., Verkst. dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "Trönninge Cummifabriks AB",
+        "location": "Trönninge",
+        "business": "Tillverkar tekniska gummi varor såsom packningar, formartiklar, slangar m. m.",
+        "contact": {
+            "office": "Trönninge (Hallands l.)",
+            "phone": [
+                "Gummifabriken"
+            ]
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1941,
+        "director": "G. Rossel",
+        "manager": "Allan Ekelund"
+    },
+    "3": {
+        "name": "Trönninge Tegelbruks AB",
+        "location": "Trönninge",
+        "business": "Tillverkar fasad- och murtegel samt dräneringsrör",
+        "contact": {
+            "office": "Trönninge (Hallands l.)",
+            "phone": [
+                "6"
+            ],
+            "postgiro": "99486"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "3,7 milj. st. tegelvaror"
+        },
+        "foundation_year": 1898,
+        "director": "Axel Andersson"
+    },
+    "4": {
+        "name": "AB. Tudor",
+        "location": "Stockholm",
+        "business": "Ackumulatorfabrik vid Nol (Älvsb. l.), torrelementfabrik (Pertrixverken) vid Mariehäll, Sundbyberg.",
+        "contact": {
+            "head_office": "Stockholm, Birger Ja*lsg. 55",
+            "phone": [
+                "Tu-dorbatterier"
+            ],
+            "postgiro": "562",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "172960"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "71370"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "2,500,000 kr",
+            "employees": {
+                "industriarb": 870
+            }
+        },
+        "foundation_year": 1914,
+        "corporation_year": 1946,
+        "board": [
+            {
+                "name": "Axel Venner-sten",
+                "role": "ordf."
+            },
+            {
+                "name": "A. Ha-milton",
+                "role": "f. generaldir."
+            },
+            {
+                "name": "W. F. Kugelberg",
+                "role": "övering."
+            },
+            {
+                "name": "H. W. Lettström",
+                "role": "överintendent"
+            },
+            {
+                "name": "M. Philipson",
+                "role": "f. bankdir."
+            },
+            {
+                "name": "Erik Sundblad",
+                "role": "kommendörkapten"
+            },
+            {
+                "name": "Nils Wijkmark",
+                "role": "konteramiral"
+            }
+        ],
+        "director": "Erik Sundblad"
+    },
+    "5": {
+        "name": "Tuf vassons Transformatorfabrik AB",
+        "location": "Sigtuna",
+        "business": "Tillverkar transformatorer.",
+        "contact": {
+            "office": "Sigtuna",
+            "phone": [
+                "101"
+            ],
+            "postgiro": "143360"
+        },
+        "financials": {
+            "capital": "30,400 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "720,000 kr"
+        },
+        "foundation_year": 1938,
+        "director": "ing. Birger Tuf vasson"
+    }
+}

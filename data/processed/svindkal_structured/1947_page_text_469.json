@@ -1,0 +1,173 @@
+{
+    "1": {
+        "name": "Lindblom—Lindell",
+        "location": "Stockholm",
+        "business": "Klichéanstalten",
+        "contact": {
+            "phone": [
+                "105"
+            ],
+            "postgiro": "92337"
+        },
+        "financials": {
+            "capital": "43,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1941,
+        "director": "Gunnar Lindberg"
+    },
+    "2": {
+        "name": "C. Lindborg, Musikinstrumentfabrik",
+        "location": "Landskrona",
+        "business": "Tillverkar trummor och pukor, kontra-basar och gitarrer samt instrumentstativ.",
+        "contact": {
+            "phone": "2153",
+            "postgiro": "140894"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1937,
+        "director": "Gunnar Lindborg"
+    },
+    "3": {
+        "name": "AB. Linde Kvarnmaskiner",
+        "location": "Lindesberg",
+        "business": "Mek. verkstad och snickerifabrik.",
+        "contact": {
+            "telegraph": "Kvarnmaskiner, Lindesberg",
+            "phone": "Kvarnmaskiner, Lindesberg",
+            "postgiro": "28320"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_turnover": "2,300,000 kr"
+        },
+        "foundation_year": 1853,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Henrik Sundén",
+                "role": "ordf."
+            },
+            {
+                "name": "C. V. Sundén",
+                "role": "fabr."
+            },
+            {
+                "name": "Karin Sundén",
+                "role": "fröken"
+            }
+        ],
+        "director": "Henrik Sundén",
+        "managing_director": "ing. F. Edsmar",
+        "sales_manager": "E. Andreasson"
+    },
+    "4": {
+        "name": "Linde Skofabriks AB.",
+        "location": "Lindesberg",
+        "business": "Tillverkar pliggade, durk-, rand- och sandalsydda- samt ago-skodon.",
+        "contact": {
+            "phone": [
+                "36",
+                "546"
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 125
+            }
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "Åke Hallqvist",
+                "role": "disp."
+            }
+        ]
+    },
+    "5": {
+        "name": "Bengt Linde",
+        "location": "Stockholm",
+        "business": "Konfektionsfabrik.",
+        "contact": {
+            "office": "Nordenflychtsvägen 64",
+            "phone": "503817",
+            "postgiro": "55730"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 36
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1933,
+        "director": "Bengt Linde"
+    },
+    "6": {
+        "name": "Lindebergs Reklamfabrik",
+        "location": "Kristianstad",
+        "business": "Kartongfabrik.",
+        "contact": {
+            "telegraph": "Reklamfabriken, Kristianstad",
+            "phone": [
+                "10500",
+                "13055"
+            ],
+            "postgiro": "9734"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_turnover": "365,000 kr"
+        },
+        "foundation_year": 1909,
+        "director": "Gösta Lindeberg",
+        "sales_manager": "Erik Lood",
+        "manager": "Erik Wennerström"
+    },
+    "7": {
+        "name": "H. Lindegren, Orgelbyggeri",
+        "location": "Göteborg",
+        "business": "Tillverkar kyrkorglar samt orgeldelar såsom spelbord, väderlådor, bälgverk, pipor av trä och metall m. m., utför ombyggnad, restaurering och omstämning av äldre orgelverk.",
+        "contact": {
+            "office": "Kommendörsg. 12",
+            "phone": [
+                "142638",
+                "149338"
+            ],
+            "postgiro": "45684"
+        },
+        "financials": {
+            "employees": {
+                "arb": 8
+            },
+            "annual_turnover": "50,000 kr"
+        },
+        "foundation_year": 1827,
+        "current_name_year": 1918,
+        "director": "Harald Lindegren"
+    },
+    "8": {
+        "name": "Lindells Vågfabriks AB.",
+        "location": "Jönköping",
+        "business": "Tillverkar vågar av alla slag för handel, industri, lantbruk, post-, tull- och trafikväsen.",
+        "contact": {
+            "telegraph": "Lindellvåg, Jönköping",
+            "phone": "Lindells Vågfabrik",
+            "postgiro": "11492"
+        }
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "1": {
+        "name": "Lundblad & Nyholms Mek. Verkstad",
+        "location": "Örnsköldsvik",
+        "business": "Maskinfabrik",
+        "contact": {
+            "phone": [
+                "Malmö 50264"
+            ],
+            "postgiro": "38922"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            },
+            "capital": "Not Available"
+        },
+        "foundation_year": 1924,
+        "director": "ing. Johnny Vigre"
+    },
+    "2": {
+        "name": "AB. Lundby Skönfärgeri & Kem. Tvättanstalt",
+        "location": "Göteborg",
+        "business": "Kemisk tvätt och färgning",
+        "contact": {
+            "office": "Säve Strandgata 3—4",
+            "phone": [
+                "171210"
+            ],
+            "postgiro": "41032"
+        },
+        "financials": {
+            "capital": "280,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "kamrer E. Bunne",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Rudolf Jönsson",
+                "role": null
+            },
+            {
+                "name": "dir. Knut Martin",
+                "role": null
+            }
+        ],
+        "manager": "Knut Martin"
+    },
+    "3": {
+        "name": "AB. Bengt Lundell",
+        "location": "Borås",
+        "business": "Damkonfektionsfabriker",
+        "contact": {
+            "phone": [
+                "18900"
+            ],
+            "postgiro": "263111"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 52
+            }
+        },
+        "foundation_year": 1943,
+        "board": [
+            {
+                "name": "Bengt Lundell",
+                "role": "verkst. dir."
+            }
+        ]
+    },
+    "4": {
+        "name": "AB. Lundén & Co.",
+        "location": "Stockholm",
+        "business": "Konfektionsfabrik",
+        "contact": {
+            "office": "Ranhammarsvägen 28, Ulvsunda",
+            "phone": [
+                "Stockholm 284901—02—03"
+            ],
+            "postgiro": "54376"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1942,
+        "board": [
+            {
+                "name": "adv. Mauritz Griinberger",
+                "role": "ordf."
+            },
+            {
+                "name": "fru O. Lagerheim-Thernell",
+                "role": null
+            },
+            {
+                "name": "dir. Per-Erik S:son Lundén",
+                "role": null
+            }
+        ],
+        "manager": "Per-Erik S:son Lundén"
+    },
+    "5": {
+        "name": "AB. Lundéns Möbler",
+        "location": "Rosenfors",
+        "business": "Möbeltillverkning",
+        "contact": {
+            "phone": [
+                "2"
+            ],
+            "postgiro": "23477"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "225,000 kr"
+        },
+        "foundation_year": 1904,
+        "board": [
+            {
+                "name": "disp. Harald Lundén",
+                "role": "ordf."
+            },
+            {
+                "name": "möbeltekn. Georg Lundén",
+                "role": null
+            },
+            {
+                "name": "verkm. Herbert Lundén",
+                "role": null
+            }
+        ]
+    },
+    "6": {
+        "name": "Lundgrens Fiskredskapsfabrik, AB.",
+        "location": "Stockholm",
+        "business": "Tillverkning av fiskeredskap",
+        "contact": {
+            "office": "Storkyrkobrinken 12",
+            "phone": [
+                "102122"
+            ],
+            "postgiro": "2353"
+        },
+        "financials": {
+            "capital": "130,000 kr"
+        },
+        "foundation_year": 1892,
+        "board": [
+            {
+                "name": "kassör A. Govenius",
+                "role": null
+            },
+            {
+                "name": "dir. Arvid Lindén",
+                "role": null
+            },
+            {
+                "name": "dir. Carl J. Löfqvist",
+                "role": null
+            }
+        ],
+        "director": "Carl J. Löfqvist"
+    },
+    "7": {
+        "name": "AB. Lundgrens Mek. Verkstad",
+        "location": "Malmö",
+        "business": "Tillverkning av maskiner för olika industrier",
+        "contact": {
+            "office": "Kopparbergsg. 5",
+            "phone": [
+                "24494",
+                "14744"
+            ],
+            "postgiro": "14198"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1912,
+        "manager": "Eric Jönsson"
+    },
+    "8": {
+        "name": "AB. Lundgrens Söner",
+        "location": "Malmö",
+        "business": "Tryckeri",
+        "contact": {
+            "office": "Baltzarsg. 24",
+            "phone": [
+                "19081",
+                "20106"
+            ],
+            "postgiro": "14044"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 38
+            },
+            "annual_production_value": "850,000 kr"
+        },
+        "foundation_year": 1886,
+        "board": [
+            {
+                "name": "boktr. Edvin Lundgren",
+                "role": "ordf."
+            },
+            {
+                "name": "fröken Anna Lisa Lundgren",
+                "role": null
+            },
+            {
+                "name": "boktr. Sven Erik Lundgren",
+                "role": null
+            }
+        ],
+        "managing_director": "Edv. Lundgren"
+    }
+}

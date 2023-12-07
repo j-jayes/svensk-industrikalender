@@ -1,0 +1,170 @@
+{
+    "1": {
+        "name": "Hansson—Harmsen",
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "foundation_year": 1921,
+            "corporation_year": 1938
+        },
+        "director": "Sven Hansson"
+    },
+    "2": {
+        "name": "Viktor Hanson",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för husbyggnader",
+        "contact": {
+            "office": "Sveavägen 29",
+            "phone": [
+                "115747",
+                "116987"
+            ],
+            "postgiro": "53884"
+        },
+        "foundation_year": 1914,
+        "director": "Viktor Hanson"
+    },
+    "3": {
+        "name": "AB. Hansy",
+        "location": "Ystad",
+        "business": "Mek. verkstad. Tillverkar specialartiklar för butiksinredningar, industrier m. fl. samt stålmöbler",
+        "products": "Varumärke: Hansy-Möbler",
+        "contact": {
+            "phone": "190",
+            "postgiro": "281715"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "200,000 kr",
+            "foundation_year": 1929,
+            "corporation_year": 1944
+        },
+        "board": [
+            {
+                "name": "William Raihle",
+                "role": "dir."
+            },
+            {
+                "name": "Harry Raihle",
+                "role": "disp."
+            },
+            {
+                "name": "Ossian Raihle",
+                "role": "disp."
+            }
+        ],
+        "director": "Ossian Raihle",
+        "sales_manager": "Carl Eskil Sjöstedt",
+        "manager": "Henry Wahlström"
+    },
+    "4": {
+        "name": "Hanås, Henrik Anderson",
+        "location": "Malmö",
+        "business": "Konsthartspresseri. Tillverkar pressade detaljer i konstharts. Specialitet: tangent-knappar för skriv- och räknemaskiner",
+        "contact": {
+            "office": "Per Weijersgatan 3",
+            "phone": "32085",
+            "postgiro": "148353"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 9
+            },
+            "annual_production_value": "120,000 kr",
+            "foundation_year": 1942
+        },
+        "director": "Henrik Anderson"
+    },
+    "5": {
+        "name": "Harge Bruk",
+        "location": "Hammar",
+        "business": "Tegelbruk och pulveriseringsverk samt kalkstensbrott. Tillverkar mur- och taktegel samt dräneringsrör; bryter och förmaler kalksten, fältspat, kvarts m. m.",
+        "contact": {
+            "telegraph": "Harge, Askersund",
+            "phone": "Hammar 6",
+            "postgiro": "23914"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "foundation_year": 1880,
+            "corporation_year": 1926
+        },
+        "board": [
+            {
+                "name": "Oscar Molander",
+                "role": "dir."
+            },
+            {
+                "name": "Harald Giöbel",
+                "role": "ing."
+            }
+        ],
+        "director": "Harald Giöbel"
+    },
+    "6": {
+        "name": "Hargs Bruk",
+        "location": "Harg",
+        "business": "Sågverk och hyvleri. Tillverkar sågade och hyvlade trävaror. Vid bruket drives även jordbruk och skogshantering",
+        "contact": {
+            "phone": "Harg 1",
+            "postgiro": "36653"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 80
+            }
+        },
+        "owner": "frih. Carl Beek-Friis",
+        "sales_manager": "Jacob Versteegh"
+    },
+    "7": {
+        "name": "Hargs Fabrikers AB.",
+        "location": "Nyköping",
+        "business": "Bomullsspinneri, väveri och sytrådsfabrik. Tillverkar garn och lakansväv av bomull samt sytråd",
+        "products": "Varumärke: Gripen",
+        "contact": {
+            "telegraph": "Hargsbolaget, Nyköping",
+            "phone": "Hargsbolaget, Nyköping",
+            "postgiro": "9951"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_production_value": "3,500,000 kr"
+        },
+        "board": [
+            {
+                "name": "Emil Heijne",
+                "role": "ad v."
+            },
+            {
+                "name": "Bo Ericsson",
+                "role": "disp."
+            },
+            {
+                "name": "Folke Ericsson",
+                "role": "disp."
+            },
+            {
+                "name": "Sven Ericsson",
+                "role": "dir."
+            }
+        ],
+        "director": "Torsten Ericsson"
+    },
+    "8": {
+        "name": "AB. Wilh. Harmsen",
+        "location": "Stockholm",
+        "business": "Mek. verkstad. Tillverkar maskiner för kvarnar, bagerier och spannmålsilos, transp^rtanord-"
+    }
+}

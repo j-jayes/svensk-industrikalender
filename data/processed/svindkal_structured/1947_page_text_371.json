@@ -1,0 +1,213 @@
+{
+    "1": {
+        "name": "Hultén—Hultsfred",
+        "location": "Hultsfred",
+        "contact": {
+            "office": "Braheg. 9",
+            "phone": [
+                "602022"
+            ],
+            "postgiro": "2629",
+            "head_office": "Kungsg. 9—11"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1916,
+        "board": [
+            {
+                "name": "adv. Knut Hedlund",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Nils Hultberg",
+                "role": null
+            },
+            {
+                "name": "konsthandl. Olof W. Hultberg",
+                "role": null
+            }
+        ]
+    },
+    "2": {
+        "name": "Hulténs Konfektions AB., Borås",
+        "location": "Borås",
+        "business": "Damkonfektionsfabrik",
+        "products": "Tillverkar klänningar, blusar, kjolar samt underkläder",
+        "contact": {
+            "phone": [
+                "11963"
+            ],
+            "postgiro": "27801"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1928,
+        "current_name_year": 1938,
+        "director": "Wilhelm Hultén"
+    },
+    "3": {
+        "name": "A. Hultén, Snickerifabrik, Malmö",
+        "location": "Malmö",
+        "business": "Tillverkar butiks- och bankinredningar samt panelarbeten",
+        "contact": {
+            "office": "Djäkneg. 28",
+            "phone": [
+                "16648",
+                "16480"
+            ],
+            "postgiro": "38117"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 34
+            }
+        },
+        "foundation_year": 1893,
+        "owner": "fabr. Sture Hultén"
+    },
+    "4": {
+        "name": "Malte Hultén, Skinnklädersfabrik, Malmö",
+        "location": "Malmö",
+        "business": "Tillverkar skinnvästar och jackor, rockar, tröjor och lumberjackor av skinn samt sämskskinnsvästar",
+        "products": "Varumärke: »M H Malmö»",
+        "contact": {
+            "office": "Djäkneg. 28",
+            "telegraph": "Skinnkonfektion, Malmö",
+            "phone": [
+                "20688",
+                "19703"
+            ],
+            "postgiro": "37508"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 75
+            }
+        },
+        "foundation_year": 1927,
+        "owner": "fabr. Malte Hultén"
+    },
+    "5": {
+        "name": "Huitgrens Spad- & Skyffelfabrik, Motala",
+        "location": "Motala",
+        "notes": "Se Holms Industri AB., Motala"
+    },
+    "6": {
+        "name": "S. Hultgrens Möbelfabrik, Nässjö",
+        "location": "Nässjö",
+        "business": "Tillverkar kompletteringsmöbler vid möbelfabrik",
+        "products": "Specialitet: bäddsoff stommar",
+        "contact": {
+            "phone": [
+                "1349"
+            ],
+            "postgiro": "271663"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_production_value": "125,000 kr"
+        },
+        "foundation_year": 1942,
+        "owner": "fabr. Seth Hultgren"
+    },
+    "7": {
+        "name": "Hults Bruks AB., Åby",
+        "location": "Åby",
+        "business": "Manufaktursmedja, mekanisk verkstad, järn- och stålgjuteri samt sågverk",
+        "products": "Tillverkar yxor, liar, trallor, transportvagnar, hjul och hjulsatser, spec. stålhjul. Bolaget driver även jordbruk",
+        "contact": {
+            "telegraph": "Hultsbruk, Norrköping",
+            "phone": [
+                "Norrköping 50350"
+            ],
+            "postgiro": "72550",
+            "sales_offices": [
+                {
+                    "location": "Norrköping",
+                    "phone": "25620"
+                }
+            ],
+            "head_office": "postbox 265"
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "corporation_year": 1920,
+        "board": [
+            {
+                "name": "disp. Chr. v. Sydow",
+                "role": "ordf."
+            },
+            {
+                "name": "envoyén E. C:son Boheman",
+                "role": null
+            },
+            {
+                "name": "dir. Walter Wehtje",
+                "role": null
+            }
+        ],
+        "director": "Chr. v. Sydow",
+        "manager": "Carl-Axel Johnson",
+        "sales_manager": "E. Tru-edson"
+    },
+    "8": {
+        "name": "Hults Tegelbruk, Hycklinge AB., Hycklinge",
+        "location": "Hycklinge",
+        "business": "Tegelbruk, sågverk, hyvleri och snickerifabrik",
+        "products": "Tillverkar mur- och taktegel, sågade och hyvlade trävaror, AlV-fodersilos samt gödsel vattentunnor",
+        "contact": {
+            "phone": [
+                "9",
+                "44"
+            ],
+            "postgiro": "73290"
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "disp. Harald Linderson",
+                "role": null
+            },
+            {
+                "name": "kamrer Allan Svensson",
+                "role": null
+            },
+            {
+                "name": "bokförare Erik Tillberg",
+                "role": null
+            }
+        ],
+        "director": "disp. Harald Linderson"
+    },
+    "9": {
+        "name": "AB. Hultsfreds Byggnadssnickeri, Hultsfred",
+        "location": "Hultsfred",
+        "business": "Tillverkar exportdörrar, byggnadssnickerier och inredningar vid snickerifabrik",
+        "notes": "Se AB. Nya Centralbryggeriet, Linköping"
+    }
+}

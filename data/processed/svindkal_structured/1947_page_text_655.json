@@ -1,0 +1,221 @@
+{
+    "1": {
+        "name": "AB. Strömbergshyttan",
+        "location": "Hovmantorp",
+        "business": "Glasbruk",
+        "products": "Tillverkar slätt och slipat samt vitt och färgat prydnads- och hushållsglas",
+        "contact": {
+            "office": "Glasbruk vid Hovmantorp (Kronob. l.)",
+            "phone": [
+                "32"
+            ],
+            "postgiro": "99131",
+            "telegraph": "Esshyttan, Växjö"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1933,
+        "corporation_year": 1946,
+        "board": [
+            {
+                "name": "fru Asta Strömberg",
+                "role": "disp."
+            },
+            {
+                "name": "Eric Strömberg",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Eric Strömberg"
+    },
+    "2": {
+        "name": "Strömma Bomulls Spinneri AB.",
+        "location": "Karlshamn",
+        "business": "Spinneri, väveri och färgeri",
+        "products": "Tillverkar bomullsgarn samt oblekta, blekta, färgade och kulörta bomullsvävnader",
+        "contact": {
+            "office": "Huvudkontor i Karlshamn",
+            "phone": [
+                "65",
+                "689"
+            ],
+            "postgiro": "8102",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "100342—45"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "170295"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "6,000,000 kr"
+        },
+        "foundation_year": 1831,
+        "corporation_year": 1867,
+        "board": [
+            {
+                "name": "kommendör Sven Fredholm",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Sven E. Hellerström",
+                "role": "disp."
+            },
+            {
+                "name": "Harald Hygrell",
+                "role": "disp."
+            },
+            {
+                "name": "major Erik Janzén",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Harald Hygrell"
+    },
+    "3": {
+        "name": "AB. Strömma Trikåfabrik",
+        "location": "Karlshamn",
+        "business": "Tillverkar strumpor",
+        "contact": {
+            "phone": [
+                "65",
+                "689"
+            ]
+        },
+        "financials": {
+            "capital": "101,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "425,000 kr"
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "kommendör Sven Fredholm",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Sven E. Hellerström",
+                "role": "disp."
+            },
+            {
+                "name": "Harald Hygrell",
+                "role": "Styrelse"
+            }
+        ],
+        "managing_director": "Harald Hygrell"
+    },
+    "4": {
+        "name": "AB. Strömman & Larsson",
+        "location": "Göteborg",
+        "business": "Snickerifabrik med lådfabrik och hyvleri",
+        "contact": {
+            "office": "Snickerifabrik med lådfabrik och hyvleri i Backa s:n intill Göteborg",
+            "phone": [
+                "222190"
+            ],
+            "postgiro": "41752"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "corporation_year": 1873,
+        "board": [
+            {
+                "name": "avd.-chef Ingmar Hamberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Ragnar Hamberg",
+                "role": "dir."
+            },
+            {
+                "name": "generalkonsul Folke Jonsson",
+                "role": "Styrelse"
+            }
+        ],
+        "manager": "Ragnar Hamberg"
+    },
+    "5": {
+        "name": "Strömnäs AB.",
+        "location": "Kramfors",
+        "business": "Sågverk och hyvleri",
+        "contact": {
+            "telegraph": "Strömnäsbolag, Kramfors",
+            "phone": [
+                "Kramfors 2000"
+            ],
+            "postgiro": "5110"
+        },
+        "financials": {
+            "capital": "2,100,000 kr",
+            "annual_production_value": "18,000 stds sågade o. hyvlade trävaror"
+        },
+        "foundation_year": 1877,
+        "board": [
+            {
+                "name": "dir. Torsten Hérnod",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. P. F. Wåhlin",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. K. Erik Nyberg",
+                "role": "dir."
+            },
+            {
+                "name": "dir. A. Orrmell",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Gust. J, Sahlin",
+                "role": "Styrelse"
+            }
+        ],
+        "managing_director": "A. Orrmell"
+    },
+    "6": {
+        "name": "Strömsfors Bruk",
+        "location": "Strömsfors",
+        "business": "Mek. verkstad, gjuteri och sågverk",
+        "products": "Tillverkar automatiska etiketterings-maskiner för flaskor, burkar m. m. Vid bruket drives även kvarnrörelse",
+        "contact": {
+            "office": "Mek. verkstad, gjuteri och sågverk vid Strömsfors (Älvsb. l.)",
+            "phone": [
+                "Svenljunga 27072"
+            ],
+            "postgiro": "76255"
+        },
+        "financials": {
+            "annual_production_value": "800,000 kr"
+        },
+        "employees": 60,
+        "board": [
+            {
+                "name": "civiling. Axel Nyländer",
+                "role": "Ägare"
+            }
+        ],
+        "manager": "Ing. Th. Strömberg"
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "1": {
+        "name": "Karlskrona Bryggerier",
+        "location": "Karlskrona",
+        "business": "Bryggeri",
+        "contact": {
+            "phone": [
+                "178",
+                "179"
+            ],
+            "postgiro": "58490"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1872,
+        "current_name_year": 1900,
+        "board": [
+            {
+                "name": "Sven Wahlund",
+                "role": "ordf."
+            },
+            {
+                "name": "Elsa Hägg",
+                "role": "fröken"
+            },
+            {
+                "name": "Carl Rydberg",
+                "role": "dir."
+            },
+            {
+                "name": "Olof Thorell",
+                "role": "disp."
+            },
+            {
+                "name": "Anna-Stina Wahlund",
+                "role": "fru"
+            }
+        ],
+        "director": "Sven Wahlund",
+        "managing_director": "Sven Wahlund",
+        "sales_manager": "Carl Rydberg"
+    },
+    "2": {
+        "name": "Karlskrona Hattfabriks AB.",
+        "location": "Karlskrona",
+        "business": "Tillverkning av herrhattar oeh filtstumpar",
+        "contact": {
+            "phone": [
+                "178",
+                "179"
+            ],
+            "postgiro": "58490"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1872,
+        "current_name_year": 1900,
+        "board": [
+            {
+                "name": "Sven Wahlund",
+                "role": "ordf."
+            },
+            {
+                "name": "Elsa Hägg",
+                "role": "fröken"
+            },
+            {
+                "name": "Carl Rydberg",
+                "role": "dir."
+            },
+            {
+                "name": "Olof Thorell",
+                "role": "disp."
+            },
+            {
+                "name": "Anna-Stina Wahlund",
+                "role": "fru"
+            }
+        ],
+        "director": "Sven Wahlund",
+        "managing_director": "Sven Wahlund",
+        "sales_manager": "Carl Rydberg"
+    },
+    "3": {
+        "name": "Karlskrona Kakelfabrik",
+        "location": "Karlskrona",
+        "business": "Kakel- och keramikindustri"
+    },
+    "4": {
+        "name": "AB. Karlskrona Lampfabrik",
+        "location": "Karlskrona",
+        "business": "Lamp- och metallvaruf"
+    },
+    "5": {
+        "name": "AB. Karlskrona Porslinsfabrik",
+        "location": "Karlskrona",
+        "business": "Tillverkning av bordsserviser, kaffeserviser och restaurantporslin i fältspatäkta kvalitet"
+    },
+    "6": {
+        "name": "AB. Karlslunda Pappersindustri",
+        "location": "Smedby",
+        "business": "Tillverkning av kuvert och kuvertpåsar"
+    },
+    "7": {
+        "name": "Karlson & Lundh",
+        "location": "Örebro",
+        "business": "Tillverkning av skor"
+    },
+    "8": {
+        "name": "AB. Karlsson & Nilsson",
+        "location": "Eskilstuna",
+        "business": "Tillverkning av knivar, brödsågar, tomatknivar, skalknivar, köksverktygssatser monterade på plattor, pincetter, allt i rostfritt stål"
+    },
+    "9": {
+        "name": "Karlson & Starck",
+        "location": "Göteborg"
+    },
+    "10": {
+        "name": "A. Karlsons Bryggeri AB.",
+        "location": "Lysekil",
+        "business": "Tillverkning av maltdrycker av klass I och II samt läskedrycker och mineralvatten",
+        "contact": {
+            "phone": [
+                "19",
+                "20",
+                "48"
+            ],
+            "postgiro": "9151"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 8
+            }
+        },
+        "foundation_year": null,
+        "current_name_year": null,
+        "board": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null
+    }
+}

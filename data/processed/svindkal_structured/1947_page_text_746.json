@@ -1,0 +1,191 @@
+{
+    "1": {
+        "name": "Valdemarsviks Läderfabrik",
+        "location": "Valdemarsvik",
+        "contact": {
+            "phone": [
+                "90"
+            ],
+            "postgiro": "280940"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "350,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1937,
+        "owners": [
+            "fabr. Emil O. Pettersson",
+            "ing. Olof B. Pettersson",
+            "fabr. Erik W. Pettersson"
+        ]
+    },
+    "2": {
+        "name": "Valdemarsviks Slip & Båtvarv",
+        "location": "Valdemarsvik",
+        "products": "Tillverkar båtar och mindre fartyg i såväl järn som trä vid varv i Valdemarsvik (Östergötl. l.)",
+        "contact": {
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": "N/A"
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": "N/A",
+        "owners": [
+            "N/A"
+        ]
+    },
+    "3": {
+        "name": "Valinders Ramfabrik",
+        "location": "Göteborg",
+        "products": "Tillverkar ramlister och ovala ramar",
+        "contact": {
+            "phone": [
+                "145454"
+            ],
+            "postgiro": "40365"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "100,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1916,
+        "owners": [
+            "fabr. Aron Valinder"
+        ]
+    },
+    "4": {
+        "name": "Valla Tegelbruk",
+        "location": "Stallarholmen",
+        "products": "Se AB. Mälardalens Tegelbruk, Sthlm",
+        "contact": {
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": "N/A"
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": "N/A",
+        "owners": [
+            "N/A"
+        ]
+    },
+    "5": {
+        "name": "Wallbergs Fabriks AB.",
+        "location": "Halmstad",
+        "products": "Ullspinneri, ylleväveri, appreturverk och färgeri, maskinfiltfabrik och trikåfabrik samt tegelbruk (Slottsmöllans Tegelbruk)",
+        "contact": {
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "14894",
+            "telegraph": "Wallbergs, Halmstad"
+        },
+        "financials": {
+            "capital": "2,136,000 kr",
+            "employees": {
+                "industriarb": 700,
+                "tegelbruket": 60
+            },
+            "annual_turnover": "10,000,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1823,
+        "board": [
+            {
+                "name": "dir. Bengt Skånsberg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. G. Göthlin",
+                "role": "N/A"
+            },
+            {
+                "name": "fru I. Wallberg",
+                "role": "N/A"
+            }
+        ],
+        "owners": [
+            "N/A"
+        ],
+        "director": "N/A",
+        "managing_director": "Per Göthlin"
+    },
+    "6": {
+        "name": "AB. Walldén-Verken",
+        "location": "Köping",
+        "products": "Gjuteri och mek. verkstad. Tillverkar maskiner för gruvor, anrikningsverk och järnverk, grövre plåtbearbetningsmaski-ner, fackverkskonstruktioner och tack-järnsgjutgods",
+        "contact": {
+            "phone": [
+                "1100"
+            ],
+            "postgiro": "91152"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1932,
+        "owners": [
+            "N/A"
+        ],
+        "director": "N/A",
+        "managing_director": "Ragnar Walldén",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    },
+    "7": {
+        "name": "AB. L. O. Wallenbergs Skofabrik",
+        "location": "Malmö",
+        "products": "Tillverkar herr- och damskodon",
+        "contact": {
+            "phone": [
+                "12712",
+                "20275"
+            ],
+            "postgiro": "38412"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1912,
+        "owners": [
+            "N/A"
+        ],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    }
+}

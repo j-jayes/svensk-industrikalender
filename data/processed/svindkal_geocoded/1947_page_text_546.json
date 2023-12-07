@@ -1,0 +1,259 @@
+{
+    "1": {
+        "name": "AB. Norrlands möbler",
+        "location": "Umeå",
+        "business": "Möbel- och snickerifabrik",
+        "products": "Tillverkar möbler, inredningar för butiker, skolor, kaféer m.m. samt monteringsfärdiga stugor.",
+        "contact": {
+            "office": "Umeå",
+            "phone": [
+                "438"
+            ],
+            "postgiro": "64960"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1920,
+        "current_name_year": 1945,
+        "board": [
+            {
+                "name": "William Persson",
+                "role": "verkm."
+            },
+            {
+                "name": "A. Eberhard Rönnberg",
+                "role": "dir."
+            },
+            {
+                "name": "Sixten Sundström",
+                "role": "verkm."
+            },
+            {
+                "name": "Bo Wretling",
+                "role": "fabr."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 63.8258471,
+            "Longitude": 20.2630354
+        }
+    },
+    "2": {
+        "name": "Norrlands Vaddfabrik",
+        "location": "Järbo",
+        "business": "Tillverkar täckvadd, limvadd, tät-ningslister, fönstervadd, frisörbomull samt isoleringsvadd",
+        "contact": {
+            "phone": [
+                "19"
+            ],
+            "postgiro": "80088",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Not provided"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "Not provided"
+                }
+            ]
+        },
+        "financials": {
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1902,
+        "director": "Not provided",
+        "owners": [
+            "fabr. August Berggren"
+        ],
+        "manager": "Rune Berggren",
+        "coordinates": {
+            "Latitude": 60.719455,
+            "Longitude": 16.5909492
+        }
+    },
+    "3": {
+        "name": "AB. Norrländska Tråddrageriet",
+        "location": "Hudiksvall",
+        "business": "Tillverkar svart glödgad, hårddragen och glödgad förzinkad järntråd",
+        "contact": {
+            "telegraph": "Tråddrageriet, Hudiksvall",
+            "phone": [
+                "916",
+                "917"
+            ],
+            "postgiro": "47448"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "Arb.-antal": 12
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "Rudolf SunstrÖm",
+                "role": "disp."
+            },
+            {
+                "name": "Allan Tigerschiöld",
+                "role": "kanslisekr."
+            },
+            {
+                "name": "Folke Wilhelmson",
+                "role": "dir."
+            },
+            {
+                "name": "Marthel Byquist",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 61.7273909,
+            "Longitude": 17.107401
+        }
+    },
+    "4": {
+        "name": "AB. Norrmalms Gjuter! & Mek. Verkstad",
+        "location": "Borås",
+        "business": "Tillverkar maskiner och reservdelar för textilindustrien",
+        "products": "Elektriskt drivna bomställ, syn- och tvistmaskiner, färgerivagnar med hissanordning samt fjäderhammare (märke: »ABNO»)",
+        "contact": {
+            "phone": [
+                "10393"
+            ],
+            "postgiro": "28577"
+        },
+        "financials": {
+            "capital": "62,500 kr",
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "280,000 kr"
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "Nils Bonander",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "5": {
+        "name": "Norrmalms Karosseri AB.",
+        "location": "Stockholm",
+        "business": "Not provided",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "Norrmalms Livsmedels AB.",
+        "location": "Stockholm",
+        "business": "Charkuteri- och konservfabrik",
+        "products": "Tillverkar charkuterivaror samt köttkonserver, idkar även restaurant-, bageri-, konditori- och partirörelse, driver detaljhandel genom fjorton egna minutaffärer i Stockholm.",
+        "contact": {
+            "office": "Karlbergsvägen 77—81",
+            "telegraph": "Norrmalmbolaget, Stockholm",
+            "phone": [
+                "Not provided"
+            ],
+            "postgiro": "460"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1895,
+        "current_name_year": 1928,
+        "board": [
+            {
+                "name": "Gösta Olin",
+                "role": "civiling."
+            },
+            {
+                "name": "Ernfrid Johansson",
+                "role": "disp."
+            },
+            {
+                "name": "Oskar Olin",
+                "role": "disp."
+            }
+        ],
+        "director": "Gösta Olin",
+        "manager": "Oskar Olin",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "Norrsundets Ångsåg o. Sulfatfabrik",
+        "location": "Norrsundet",
+        "business": "Se Kopparfors AB., Ockelbo.",
+        "coordinates": {
+            "Latitude": 60.93006849999999,
+            "Longitude": 17.1410964
+        }
+    },
+    "8": {
+        "name": "AB. Norrtelje Förenade Verkstäder",
+        "location": "Norrtälje",
+        "business": "Tillverkar snabbsvarvar samt maskin-gradsaxar för elektr. drift med upp till 2,5 m. skärlängd",
+        "contact": {
+            "telegraph": "Verkstäderna, Norrtälje",
+            "phone": [
+                "75"
+            ],
+            "postgiro": "96120"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1900,
+        "board": [
+            {
+                "name": "Ragnar Holmén",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.7595841,
+            "Longitude": 18.7013584
+        }
+    },
+    "9": {
+        "name": "Norrtelje Gjuteri, Greisz & Söner",
+        "location": "Norrtälje",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar högeldhärdigt kromstål, gjutgods",
+        "coordinates": {
+            "Latitude": 59.7595841,
+            "Longitude": 18.7013584
+        }
+    }
+}

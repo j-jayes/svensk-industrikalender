@@ -1,0 +1,220 @@
+{
+    "1": {
+        "name": "AB. Sköld & Co-",
+        "location": "Ulricehamn, Älvsborgs län",
+        "business": "Tillverkar genom s. k. hemstickning grövre herrstrumpor samt sockor och vantar i ölsremma",
+        "contact": {
+            "office": "Ulricehamn",
+            "phone": [
+                "ölsremma 45"
+            ],
+            "postgiro": "138312"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "hemarbetare": 110
+            }
+        },
+        "foundation_year": 1937,
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "Allan Sköld",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        }
+    },
+    "2": {
+        "name": "R. A. Skölins Mek. Verkstad",
+        "location": "Rasbo, Uppsala län",
+        "business": "Tillverkar väghyvelskär, spridare för klorkalcium, klorex och singel, handkranar, kärror (märke: »Lenna-kärran») och timmerlastare vid mek. verkstad i Rasbo",
+        "contact": {
+            "office": "Rasbo",
+            "phone": [
+                "Uppsala 77033"
+            ],
+            "postgiro": "76763"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 15
+            }
+        },
+        "foundation_year": 1918,
+        "owner": "fabr. R. A. Skölin",
+        "coordinates": {
+            "Latitude": 59.9472688,
+            "Longitude": 17.8793542
+        }
+    },
+    "3": {
+        "name": "Skönviks AB.",
+        "location": "Sundsvall, Västernorrlands län",
+        "business": "Tillverkar sågade och hyvlade trävaror, sulfitcellulosa och sulfitsprit, trämassa, tidningspapper och omslagspapper, mek. verkstadsprodukter för cellulosa- och sågverksindustrierna samt distribuerar elektr. energi",
+        "contact": {
+            "office": "Sundsvall"
+        },
+        "financials": {
+            "capital": "19,600,000 kr",
+            "employees": {
+                "industriarb.": 1,
+                ", ": 100
+            },
+            "annual_turnover": "30,000 stds sågade o. hyvlade trävaror, 45,000 ton sulfitcellulosa, 3,5 milj. lit. sulfitsprit, 40,000 ton tidningspapper"
+        },
+        "foundation_year": 1861,
+        "owners": [
+            "Svenska Cellulosa AB., Stockholm"
+        ],
+        "board": [
+            {
+                "name": "Torsten Hérnod",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "Gust. Göranson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "greve W. A. H. Hamilton",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Gust. J. Sahlin",
+                "role": "Styrelse"
+            },
+            {
+                "name": "P. F. Wåhlin",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Gust. Göranson",
+        "managing_director": "Gust. Göranson",
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        }
+    },
+    "4": {
+        "name": "Skövde Gasbetong AB.",
+        "location": "Skövde",
+        "business": "Tillverkar kalk för murbruks- och jordbruksändamål, levererar förädlad kalksten, tillverkar ånghärdade gasbetongplattor för byggnadsändamål, armerade gasbetongplattor till tak samt skifferkalk",
+        "contact": {
+            "office": "Skövde",
+            "phone": [
+                "2270"
+            ],
+            "postgiro": "30882"
+        },
+        "financials": {
+            "capital": "338,200 kr",
+            "employees": {
+                "industriarb.": 140
+            }
+        },
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "Gunnar Dalen",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "Frans Andersson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "A. R. Grane",
+                "role": "Styrelse"
+            },
+            {
+                "name": "M. Neuendorf",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Axel B. Svensson",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "A. R. Grane",
+        "coordinates": {
+            "Latitude": 58.3902782,
+            "Longitude": 13.8461208
+        }
+    },
+    "5": {
+        "name": "Slagteri AB. i Stockholm",
+        "location": "Stockholm",
+        "business": "Charkuteri- och konservfabrik. Bolaget driver jämväl detaljhandel genom tretton egna minutaffärer i Stockholm",
+        "contact": {
+            "office": "Stockholm",
+            "postgiro": "1110"
+        },
+        "financials": {
+            "capital": "1,040,000 kr",
+            "employees": {
+                "industriarb.": 40
+            }
+        },
+        "board": [
+            {
+                "name": "Eric Andersson",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Börje Barner",
+                "role": "Kontorschef"
+            },
+            {
+                "name": "Åke Samson",
+                "role": "Fabrikschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "Slakteri AB. Norrmalm",
+        "location": "Stockholm",
+        "business": "Slakteri",
+        "contact": {
+            "office": "Stockholm"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "Knut Slettengren",
+        "location": "Kalmar",
+        "business": "Pappförädlingsfabrik. Tillverkar ge-länk, bak- och tåkappor för skoindustrien, papp, strimlor och skärmar för mössfabrikation samt såsom specialitet margarinkartonger",
+        "contact": {
+            "office": "Kalmar",
+            "phone": [
+                "1423",
+                "1426"
+            ],
+            "postgiro": "74777",
+            "representative": "A. F. Tönnies"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 15
+            },
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1923,
+        "owner": "disp. Knut Slettengren",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        }
+    }
+}

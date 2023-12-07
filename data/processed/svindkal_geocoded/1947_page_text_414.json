@@ -1,0 +1,248 @@
+{
+    "1": {
+        "name": "AB. Karamell- & Chokladfabriken Sonja",
+        "location": "Uppsala",
+        "business": "Tillverkar karameller, choklad och konfektyrer",
+        "products": "Tillverkar karameller, choklad och konfektyrer",
+        "contact": {
+            "phone": [
+                "32421",
+                "31424"
+            ],
+            "postgiro": "11943"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "John Andersson",
+                "role": "dir"
+            },
+            {
+                "name": "Alfr. Ahlström",
+                "role": "kamrer"
+            },
+            {
+                "name": "Knut Eriksson",
+                "role": "disp"
+            }
+        ],
+        "director": "John Andersson",
+        "manager": "Sven Tegenfors",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        }
+    },
+    "2": {
+        "name": "AB. Karbo Torvströfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar torvströ",
+        "contact": {
+            "phone": [
+                "127510"
+            ],
+            "postgiro": "Not provided"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1907,
+        "director": "Gösta Arfvedsson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "3": {
+        "name": "AB. Kardbeslag",
+        "location": "Norrköping",
+        "business": "Tillverkar kardbeslag för alla ändamål samt hjälpmaskiner för spinnerier",
+        "contact": {
+            "telegraph": "Kardbeslag, Norrköping",
+            "phone": "34060",
+            "postgiro": "8482"
+        },
+        "financials": {
+            "capital": "145,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1921,
+        "current_name_year": 1944,
+        "board": [
+            {
+                "name": "G. Hökerberg",
+                "role": "ordf"
+            },
+            {
+                "name": "E. Hiibner",
+                "role": "dir"
+            }
+        ],
+        "director": "E. Hiibner",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "4": {
+        "name": "Erik M. Kardell",
+        "location": "Norrköping",
+        "business": "Möbelfabrik och inredningsfirma",
+        "products": "Tillverkar spec. affärsinredningar",
+        "contact": {
+            "phone": "23470",
+            "postgiro": "94406"
+        },
+        "financials": {
+            "employees": {
+                "arbantal": 13
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1925,
+        "owner": "fabr. Erik M. Kardell",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "5": {
+        "name": "Karinmossens Fabriks AB.",
+        "location": "Österfärnebo",
+        "business": "Torvupptagning å Karinmossen",
+        "products": "Framställer torvströ och torvmull i balar",
+        "contact": {
+            "phone": "127",
+            "postgiro": "82081"
+        },
+        "financials": {
+            "capital": "85,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1943,
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "ordf"
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "fil. lic"
+            },
+            {
+                "name": "Hj. Degerstedt",
+                "role": "dir"
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "dir"
+            },
+            {
+                "name": "G. Osvald",
+                "role": "dir"
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "dir"
+            }
+        ],
+        "director": "Albin Johansson",
+        "dispatcher": "Bror Bjurling",
+        "coordinates": {
+            "Latitude": 60.3026184,
+            "Longitude": 16.7944617
+        }
+    },
+    "6": {
+        "name": "Karleby Tegelbruk",
+        "location": "Kisa",
+        "business": "Tillverkar tak-, nock-, list-, mur- och reveteringstegel samt dräneringsrör och grenrör vid tegelbruk i Kisa",
+        "contact": {
+            "phone": "118",
+            "postgiro": "137910"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "1,5 milj. st. tegelvaror"
+        },
+        "foundation_year": 1920,
+        "owner": "fabr. Knut Gustafsson",
+        "coordinates": {
+            "Latitude": 57.9883475,
+            "Longitude": 15.6292256
+        }
+    },
+    "7": {
+        "name": "Karlholms AB.",
+        "location": "Karlholmsbruk",
+        "business": "Tillverkar träfiberplattor (wallboard)",
+        "contact": {
+            "phone": "Karlholmsbruk 1 o. 2",
+            "postgiro": "137772"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 220
+            },
+            "annual_production_value": "25,000 ton träfiber-plattor"
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "ordf"
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "fil. lic"
+            },
+            {
+                "name": "Hj. Degerstedt",
+                "role": "dir"
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "dir"
+            },
+            {
+                "name": "G. Osvald",
+                "role": "ing"
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "dir"
+            }
+        ],
+        "managing_director": "Johan Larsson",
+        "sales_manager": "Knut Eriksson",
+        "coordinates": {
+            "Latitude": 60.51980319999999,
+            "Longitude": 17.6253713
+        }
+    }
+}

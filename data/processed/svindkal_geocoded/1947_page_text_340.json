@@ -1,0 +1,211 @@
+{
+    "1": {
+        "name": "Göteborgs Kolsyrefabrik",
+        "location": "Göteborg",
+        "business": "Kolsyrefabrik",
+        "contact": {
+            "office": "Göteborg 5",
+            "phone": [
+                "163425"
+            ],
+            "postgiro": "41822"
+        },
+        "financials": {
+            "capital": "875,000 kr",
+            "employees": {
+                "industriarb": 700
+            },
+            "annual_turnover": "8,000,000 kr",
+            "annual_production_value": "8,000,000 kr"
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1923,
+        "board": [
+            {
+                "name": "Sven Malmberg",
+                "role": "ordf."
+            },
+            {
+                "name": "Sven G. Malmberg",
+                "role": "bankkamrer"
+            },
+            {
+                "name": "Ernst Johansson",
+                "role": "dir."
+            },
+            {
+                "name": "Bert Taube",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "AB. Göteborgs Konservfabrik",
+        "location": "Göteborg",
+        "business": "Konservfabrik",
+        "contact": {
+            "office": "Majviken, Göteborg",
+            "phone": [
+                "144114"
+            ],
+            "postgiro": "75650",
+            "head_office": "Strömstad Canning Co. AB., Strömstad"
+        },
+        "financials": {
+            "capital": "44,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "A. F. Forell",
+                "role": "ordf."
+            },
+            {
+                "name": "H. Hanson Nness",
+                "role": "grossh."
+            },
+            {
+                "name": "A. Åsland",
+                "role": "fru"
+            },
+            {
+                "name": "Harald Åsland",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "3": {
+        "name": "AB. Göteborgs Kontorsbokfabrik",
+        "location": "Göteborg",
+        "business": "Kontorsbokfabrik",
+        "contact": {
+            "office": "Köpmang. 52",
+            "phone": [
+                "131990",
+                "131992",
+                "115022"
+            ],
+            "postgiro": "25522"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "E. Wald. Ericson",
+                "role": "verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "AB. Göteborgs Lerkärlsfabrik",
+        "location": "Göteborg",
+        "business": "Lerkärlsfabrik",
+        "contact": {
+            "office": "Kvilleg",
+            "phone": [
+                "221380"
+            ],
+            "postgiro": "40238"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb": 17
+            },
+            "annual_turnover": "115,000 kr"
+        },
+        "foundation_year": 1910,
+        "director": "Victor Berggren",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "5": {
+        "name": "Göteborgs Mössfabriks AB",
+        "location": "Göteborg",
+        "business": "Mössfabrik",
+        "contact": {
+            "office": "Kyrkog. 60",
+            "phone": [
+                "130420"
+            ],
+            "postgiro": "12081"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1893,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "Göteborgs Nya Påsfabrik",
+        "location": "Göteborg",
+        "business": "Påsfabrik",
+        "contact": {
+            "office": "Fabriksg. 20",
+            "phone": [
+                "150561"
+            ],
+            "postgiro": "41714"
+        },
+        "employees": {
+            "industriarb": 25
+        },
+        "foundation_year": 1921,
+        "manager": "Eskil I. Svensson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "7": {
+        "name": "Göteborgs Pappersbruks AB",
+        "location": "Göteborg",
+        "business": "Pappersbruk",
+        "contact": {
+            "office": "Tingstad",
+            "phone": [
+                "222110"
+            ],
+            "postgiro": null
+        },
+        "financials": {
+            "capital": "665,000 kr",
+            "annual_production_value": "4,500 ton papper"
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "1": {
+        "1": {
+            "name": "Svenska Turbinfabriks AB",
+            "location": "Finspång",
+            "business": "Mek. verkstadsindustri",
+            "products": "ångturbingene-ratorer, turboelektriska och turbomekaniska fartygsmaskiner, centrifugalpum-par, högtryckskompressorer, kylma-skiner, kylanläggningar, specialslipma-skiner, specialverktygsmaskiner",
+            "contact": {
+                "office": "Finspång",
+                "phone": [
+                    "Stal"
+                ],
+                "postgiro": "28900",
+                "head_office": "Ljungström (STAL), Finspång",
+                "telegraph": "Stalturbin, Finspång",
+                "factory_office": "",
+                "factory_phone": ""
+            },
+            "financials": {
+                "capital": "3,000,000 kr",
+                "employees": {
+                    "industriarb": 950
+                },
+                "annual_turnover": "12,400,000 kr",
+                "annual_production_value": "12,400,000kr"
+            },
+            "foundation_year": 1913,
+            "board": [
+                {
+                    "name": "J. S. Edström",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Thorsten Ericson",
+                    "role": "dir."
+                },
+                {
+                    "name": "G. Leire",
+                    "role": "dir."
+                },
+                {
+                    "name": "E. D. Lindblom",
+                    "role": "dir."
+                },
+                {
+                    "name": "Edy Veländer",
+                    "role": "prof."
+                }
+            ],
+            "owners": [
+                "Allmänna Svem ska Elektriska AB"
+            ],
+            "director": "E. D. Lindblom",
+            "managing_director": "Oscar A. Wiberg",
+            "sales_manager": "John Hallin",
+            "manager": "Clarence H. Johansson"
+        },
+        "2": {
+            "name": "AB. Svenska Warner Kompaniet",
+            "location": "Stockholm",
+            "business": "Syfabrik",
+            "products": "korsetter, bysthållare",
+            "contact": {
+                "office": "Stockholm",
+                "phone": [
+                    "209093",
+                    "119093"
+                ],
+                "postgiro": "150175",
+                "head_office": "",
+                "telegraph": "Warnercorsets, Stockholm",
+                "factory_office": "",
+                "factory_phone": ""
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 65,
+                    "hemarbetare": 15
+                },
+                "annual_turnover": "2,000,000 kr",
+                "annual_production_value": "2,000,000 kr"
+            },
+            "foundation_year": 1936,
+            "board": [
+                {
+                    "name": "Eric Wennerholm",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Nils-Eric Larsson",
+                    "role": "köpm."
+                },
+                {
+                    "name": "Ernst Leiser",
+                    "role": "disp."
+                }
+            ],
+            "owners": [],
+            "director": "",
+            "managing_director": "",
+            "sales_manager": "",
+            "manager": ""
+        },
+        "3": {
+            "name": "Svenska Drifting",
+            "location": "Smålands Anneberg",
+            "business": "Vaxdukfabrik",
+            "products": "vaxduk",
+            "contact": {
+                "office": "Smålands Anneberg",
+                "phone": [
+                    "49"
+                ],
+                "postgiro": "131052",
+                "head_office": "",
+                "telegraph": "Vaxbolag, Smålands Anneberg",
+                "factory_office": "",
+                "factory_phone": ""
+            },
+            "financials": {
+                "capital": "550,000 kr",
+                "employees": {
+                    "industriarb": 135
+                },
+                "annual_turnover": "3,000,000 kr",
+                "annual_production_value": "3,000,000 kr"
+            },
+            "foundation_year": 1936,
+            "board": [
+                {
+                    "name": "Torsten Jung",
+                    "role": "ordf."
+                },
+                {
+                    "name": "P. W. Dietmann",
+                    "role": "övering."
+                },
+                {
+                    "name": "H. E. Helmerson",
+                    "role": "dir."
+                },
+                {
+                    "name": "Carl Sandkvist",
+                    "role": "dir."
+                }
+            ],
+            "owners": [],
+            "director": "",
+            "managing_director": "",
+            "sales_manager": "",
+            "manager": ""
+        }
+    }
+}

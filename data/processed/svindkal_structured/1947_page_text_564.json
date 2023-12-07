@@ -1,0 +1,180 @@
+{
+    "1": {
+        "name": "AB. Olsson & Roséns Skofabrik",
+        "location": "Kumla",
+        "business": "Skofabrik",
+        "products": "Tillverkar randsydda damskodon",
+        "contact": {
+            "office": "Kumla, Örebro l.",
+            "phone": [
+                "71001—02"
+            ],
+            "postgiro": "28235"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "annual_turnover": "855,000 kr",
+            "annual_production_value": "855,000 kr"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "fabr. Folke Olsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fabr. Otto Rosén",
+                "role": "Styrelse"
+            }
+        ],
+        "managing_director": "J. Olsson",
+        "sales_manager": "H. Olsson"
+    },
+    "2": {
+        "name": "Olsson & Rosenlunds AB.",
+        "location": "Stockholm",
+        "business": "Brädgård, sågverk, snickerifabrik, tegelbruk",
+        "products": "Sågade och hyvlade trävaror, monteringsfärdiga hus, byggnadssnickerier, tak- och murtegel, dräneringsrör, glaserade lerrör, form- och golvplattor",
+        "contact": {
+            "office": "Stockholm, brädgård vid Hägersten",
+            "phone": [
+                "233710"
+            ],
+            "postgiro": "2726"
+        },
+        "financials": {
+            "capital": "4,350,000 kr",
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1882,
+        "board": [
+            {
+                "name": "dir. Fritz H. Eriksson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "L. Gösta Olsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "A. Sigge Rosenlund",
+                "role": "Disposition"
+            },
+            {
+                "name": "Ingvar Rosenlund",
+                "role": "Styrelse"
+            },
+            {
+                "name": "godsäg. Erik-Lorentz Söderhielm",
+                "role": "Styrelse"
+            }
+        ],
+        "managing_director": "L. Gösta Olsson",
+        "sales_manager": "A. Sigge Rosenlund"
+    },
+    "3": {
+        "name": "AB. Olssons Textilfabriker",
+        "location": "Halmstad",
+        "business": "Väveri, trikå- och konfektionsfabrik",
+        "products": "Vävnader, sydda artiklar, trikåvaror",
+        "contact": {
+            "office": "Halmstad",
+            "phone": [
+                "Olssons textil"
+            ],
+            "postgiro": "140750"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "annual_turnover": "3,000,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "jur. dr Karl Hillgård",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Helge Olsson",
+                "role": "Styrelse"
+            }
+        ],
+        "managing_director": "Helge Olsson"
+    },
+    "4": {
+        "name": "AB. Daniel Olssons Pälsvarufabrik",
+        "location": "Tranås",
+        "business": "Pälsvarufabrik",
+        "products": "Herr- och dampälsar, pälsmössor, baretter",
+        "contact": {
+            "office": "Tranås",
+            "phone": [
+                "2427"
+            ],
+            "postgiro": "29443"
+        },
+        "financials": {
+            "capital": "85,000 kr",
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "Torbjörn Olsson",
+                "role": "Disposition"
+            }
+        ]
+    },
+    "5": {
+        "name": "Emil Olssons Fickkniv Fabriks AB.",
+        "location": "Eskilstuna",
+        "business": "Smidesverkstad",
+        "products": "Fick- och pennknivar, etsade och förgyllda stålarbeten, stålskalor, skjutmått",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": [
+                "30013",
+                "34588"
+            ],
+            "postgiro": "13713"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1896,
+        "board": [
+            {
+                "name": "bankkassör Bror Olsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fabr. Einar Olsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "ing. Harry Olsson",
+                "role": "Styrelse"
+            }
+        ],
+        "manager": "Ruben Olsson"
+    },
+    "6": {
+        "name": "AB. Håkan Ohlssons Boktryckeri",
+        "location": "Lund",
+        "business": "Boktryckeri med bokbinderi och blankettförlag",
+        "products": "Affärstryck, boktryck, akademiska avhandlingar, vetenskapliga verk, kataloger",
+        "contact": {
+            "office": "Lund",
+            "phone": [
+                "Håkan Ohlsson",
+                "17040"
+            ],
+            "postgiro": "6928"
+        }
+    }
+}

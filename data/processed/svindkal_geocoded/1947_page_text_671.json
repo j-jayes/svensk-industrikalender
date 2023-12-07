@@ -1,0 +1,143 @@
+{
+    "1": {
+        "name": "Svenska Cementförsäljnings AB.",
+        "location": "Malmö",
+        "business": "Se Cementa, Svenska Cementförsäljnings AB., Malmö.",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "2": {
+        "name": "Svenska Centrifug AB.",
+        "location": "Stockholm",
+        "products": "Tillverkar mjölkseparatorer för handkraft samt metallsjutgods.",
+        "contact": {
+            "office": "Stockholm, Flemingg. 8",
+            "phone": [
+                "Separator"
+            ],
+            "postgiro": "536",
+            "head_office": "Stockholm, Flemingg. 8, Stockholm 1",
+            "sales_offices": [
+                {
+                    "location": "Södertälje",
+                    "phone": "Fabrikskontor: Södertälje"
+                }
+            ],
+            "telegraph": "Centrifug, Stockholm",
+            "factory_office": "Södertälje",
+            "factory_phone": "Separator"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 300
+            },
+            "foundation_year": 1896
+        },
+        "board": [
+            {
+                "name": "E. Brändström",
+                "role": "director"
+            },
+            {
+                "name": "Folke Hellstedt",
+                "role": "director"
+            },
+            {
+                "name": "Axel Wästfelt",
+                "role": "director"
+            }
+        ],
+        "owners": [
+            "AB. Separator"
+        ],
+        "director": "Martin Westman",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "Svenska Charkuterimaskin-Fabriken",
+        "location": "Sundbyberg",
+        "products": "Tillverkar charkuterimaskiner.",
+        "coordinates": {
+            "Latitude": 59.369325,
+            "Longitude": 17.9609133
+        }
+    },
+    "4": {
+        "name": "Svenska Chenillefabriken",
+        "location": "Ängelholm",
+        "products": "Tillverkar piprensare, dekorationsartiklar, konstgjorda blommor, påskägg för fyllnadsändamål m. m.",
+        "coordinates": {
+            "Latitude": 56.245748,
+            "Longitude": 12.863881
+        }
+    },
+    "5": {
+        "name": "Svenska Chokladfabriks AB.",
+        "location": "Ljungsbro",
+        "products": "Tillverkar choklad, kakao, konfekt, kola, tabletter, karameller och fruktmarmelad.",
+        "contact": {
+            "telegraph": "Carobano, Ljungsbro",
+            "postgiro": "137078"
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb.": 600
+            },
+            "foundation_year": 1892
+        },
+        "board": [
+            {
+                "name": "Bertel Hallberg",
+                "role": "borgmäst."
+            },
+            {
+                "name": "G. Gyllensvärd",
+                "role": "bankdir."
+            },
+            {
+                "name": "Hjalmar Svenfelt",
+                "role": "disp."
+            }
+        ],
+        "director": "O. Widén",
+        "sales_manager": "Bertil Krän",
+        "manager": "Edd Nilsson",
+        "coordinates": {
+            "Latitude": 58.50655769999999,
+            "Longitude": 15.5084429
+        }
+    },
+    "6": {
+        "name": "Svenska AB. Christiani & Nielsen",
+        "location": "Stockholm",
+        "products": "Entreprenadfirma för bro- och kaj-byggnader, grundläggningar, hus- och magasinsbyggnader, vattenkraftsbyggnader m. m.; utför cellbetongisolering.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "Svenska Cykelfabriken Monark",
+        "location": "Varberg",
+        "coordinates": {
+            "Latitude": 57.107118,
+            "Longitude": 12.2520907
+        }
+    },
+    "8": {
+        "name": "AB. Svenska Damaskfabriken",
+        "location": "Stockholm",
+        "products": "Tillverkar promenad- och sportdamasker samt vinter- och sommarsportartiklar.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

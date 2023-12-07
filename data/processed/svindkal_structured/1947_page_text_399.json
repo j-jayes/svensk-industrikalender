@@ -1,0 +1,188 @@
+{
+    "1": {
+        "name": "Johansfors",
+        "location": "Johannisberg",
+        "contact": {
+            "telegraph": "Bryggeriet, Johannisberg",
+            "phone": [
+                "Bryggeriet"
+            ],
+            "postgiro": "283830"
+        },
+        "financials": {
+            "capital": "60,0000 kr",
+            "employees": {
+                "total": 7
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "Richard Wallerstedt",
+                "role": "disp."
+            },
+            {
+                "name": "Carl-Erik Flygt",
+                "role": "bryggmäst."
+            },
+            {
+                "name": "fru I. Wilson"
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. Johansfors Glasbruk",
+        "location": "Broakulla",
+        "products": "kristall-, hushålls- och prydnadsglas",
+        "contact": {
+            "telegraph": "Johansfors, Karlskrona",
+            "phone": "Broakulla 47",
+            "postgiro": "87800"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "total": 140
+            },
+            "annual_turnover": "950,000 kr"
+        },
+        "foundation_year": 1891,
+        "corporation_year": 1913,
+        "board": [
+            {
+                "name": "Johan E. Rundqvist",
+                "role": "dir."
+            },
+            {
+                "name": "fru Inga Lövgren"
+            },
+            {
+                "name": "fru Emy Schmidt"
+            },
+            {
+                "name": "kantor Sixten Wennerstrand"
+            }
+        ],
+        "director": "J. E. Rundqvist"
+    },
+    "3": {
+        "name": "AB. Johansson & Ljunggren",
+        "location": "Nässjö",
+        "business": "Möbelfabrik och tapetserareverkstad",
+        "products": "fåtöljer och stommar därtill",
+        "contact": {
+            "phone": [
+                "819",
+                "564"
+            ],
+            "postgiro": "141266"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "total": 80
+            },
+            "annual_turnover": "950,000 kr"
+        },
+        "foundation_year": 1932,
+        "corporation_year": 1944,
+        "managing_director": "fabr. Valter Ljunggren"
+    },
+    "4": {
+        "name": "AB. A. Johanssons Radiofabrik",
+        "location": "Sundbyberg",
+        "products": "vridkondensatorer, omkopplare, strömbrytare för radioapparater, potentiometrar och trimmerkondensatorer",
+        "contact": {
+            "telegraph": "Johnrad, Stockholm",
+            "phone": "280440",
+            "postgiro": "51479"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "total": 90
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1923,
+        "corporation_year": 1932,
+        "director": "Amandus Johansson"
+    },
+    "5": {
+        "name": "Algot Johansson AB.",
+        "location": "Borås",
+        "business": "Konfektionsfabrik",
+        "products": "sport-och fritidskläder, arbets- och skyddskläder samt barnkläder",
+        "contact": {
+            "telegraph": "Algots, Borås",
+            "phone": "Algots",
+            "postgiro": "10438"
+        },
+        "financials": {
+            "capital": "4,000,000 kr",
+            "employees": {
+                "total": 800
+            },
+            "annual_turnover": "20,000,000 kr"
+        },
+        "foundation_year": 1907,
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "Algot Johansson",
+                "role": "dir."
+            },
+            {
+                "name": "kamrer Arne M. Johansson"
+            },
+            {
+                "name": "godsäg. Elis Johansson"
+            },
+            {
+                "name": "disp. Göte Johansson"
+            },
+            {
+                "name": "disp. Åke Johansson"
+            }
+        ],
+        "managing_director": "Algot Johansson"
+    },
+    "6": {
+        "name": "AB. Axel Johanssons Mek. Verkstad",
+        "location": "Västerås",
+        "business": "Mek. verkstad",
+        "products": "elektr. svetsninsr., grövre maskingods, snöslungor och bock–maskiner",
+        "contact": {
+            "phone": "30225",
+            "postgiro": "70268"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "total": 25
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1898,
+        "corporation_year": 1937,
+        "director": "ing* David Sjölander"
+    },
+    "7": {
+        "name": "AB. Axel Johanssons Möbleringsaffär",
+        "location": "Falun",
+        "business": "Snickerifabrik",
+        "products": "möbler, butiks- och bankinredningar",
+        "contact": {
+            "phone": [
+                "207",
+                "2007",
+                "3008"
+            ],
+            "postgiro": "21191"
+        },
+        "financials": {
+            "capital": "76,000 kr"
+        }
+    }
+}

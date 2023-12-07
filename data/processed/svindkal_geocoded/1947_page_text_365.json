@@ -1,0 +1,220 @@
+{
+    "1": {
+        "name": "Almedahl-Dalsjöfors AB.",
+        "location": "Sörforsa",
+        "business": "Tillverkar hel- och halvlinneduktyger och servietter, konstsilkeduktyger, handdukar, buldaner, brodérlinne samt lakanslärfter.",
+        "contact": {
+            "office": "Sörforsa, telefon: 103",
+            "phone": [
+                "108579",
+                "204860",
+                "209138"
+            ],
+            "postgiro": "23116",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "108579, 204860, 209138"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "170880"
+                },
+                {
+                    "location": "södra distriktet",
+                    "phone": "12100"
+                },
+                {
+                    "location": "östra distriktet",
+                    "phone": "10297"
+                },
+                {
+                    "location": "västra distriktet",
+                    "phone": "170883"
+                },
+                {
+                    "location": "norra distriktet",
+                    "phone": "3536"
+                }
+            ],
+            "telegraph": "Linspinneri, Sörforsa",
+            "factory_office": "Sörforsa",
+            "factory_phone": "103"
+        },
+        "financials": {
+            "capital": "1,740,000 kr",
+            "employees": {
+                "industriarb": 542
+            },
+            "annual_turnover": "7,500,000 kr",
+            "annual_production_value": "7,500,000 kr"
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1907,
+        "board": [
+            {
+                "name": "disp. Axel Leman",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Erik Kullgren",
+                "role": null
+            },
+            {
+                "name": "major Herman Sundelin",
+                "role": null
+            }
+        ],
+        "owners": [
+            "Almedahl-Dalsjöfors AB."
+        ],
+        "coordinates": {
+            "Latitude": 61.7204047,
+            "Longitude": 16.9762016
+        }
+    },
+    "2": {
+        "name": "AB. Aug. Holmberg",
+        "location": "Örebro",
+        "business": "Bokbinderi, kontorsboks- och kartongfabrik. Utför partiarbeten för bokförlag; tillverkar kontorsböcker, sko-, tårt- och emballagekartonger, pärmar för tygprover samt skotäcken (märke: »ÖPI»).",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "10104",
+                "16104"
+            ],
+            "postgiro": "28369"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 75
+            }
+        },
+        "foundation_year": 1866,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "3": {
+        "name": "Frits Holmberg AB.",
+        "location": "Malmö",
+        "business": "Kartongfabrik och litografisk anstalt. Tillverkar kartonger och litograferade etiketter",
+        "contact": {
+            "office": "St. Nyg. 59",
+            "phone": [
+                "15020",
+                "21106"
+            ],
+            "postgiro": "149112"
+        },
+        "financials": {
+            "capital": "52,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1881,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "4": {
+        "name": "Gottfrid Holmberg & Co. AB.",
+        "location": "Malmö",
+        "business": "Utför isolering av ång-, värme- och sanitära anläggningar samt isolering av kylrum och andra kylanläggningar.",
+        "contact": {
+            "office": "Kalendeg. 29 A",
+            "phone": [
+                "18083",
+                "21823"
+            ],
+            "postgiro": "37779",
+            "sales_offices": [
+                {
+                    "location": "Hälsingborg",
+                    "phone": "18083, 21823"
+                },
+                {
+                    "location": "Karlskrona",
+                    "phone": "18083, 21823"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "annual_turnover": "345,000 kr"
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1932,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "5": {
+        "name": "Karl Holmberg",
+        "location": "Götene",
+        "business": "Tillverkar hushållsartiklar av trä samt möbler vid snickerifabrik i Götene (Skarab. l.). Firman driver även engroshandel med bosättnings- o. hemslöjdsartiklar.",
+        "contact": {
+            "office": "Götene",
+            "phone": null,
+            "postgiro": "142364"
+        },
+        "financials": {
+            "annual_turnover": "750,000 kr"
+        },
+        "foundation_year": 1923,
+        "coordinates": {
+            "Latitude": 58.528002,
+            "Longitude": 13.491428
+        }
+    },
+    "6": {
+        "name": "Knut Holmberg",
+        "location": "Visby",
+        "business": "Sågverk och hyvleri vid Österby, Visby, samt snickerifabrik i Visby. Tillverkar byggnadssnickerier samt sågade och hyvlade trävaror. Firman driver även handel med byggnadsmateriel samt utför golvbeläggningar.",
+        "contact": {
+            "office": "Visby",
+            "phone": [
+                "1049"
+            ],
+            "postgiro": "189105"
+        },
+        "financials": {
+            "annual_turnover": "175,000 kr"
+        },
+        "foundation_year": 1928,
+        "coordinates": {
+            "Latitude": 57.6348,
+            "Longitude": 18.29484
+        }
+    },
+    "7": {
+        "name": "AB. Pontus Holmberg",
+        "location": "Eskilstuna",
+        "business": "Knivfabrik. Tillverkar slidknivar, slöjdknivar och korkskruvar samt som specialitet jaktknivar.",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": [
+                "30092"
+            ],
+            "postgiro": "10786"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 18
+            }
+        },
+        "foundation_year": 1876,
+        "corporation_year": 1911,
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "1": {
+        "1": {
+            "name": "Uddevalla Gjuter! och Mek. Verkstads AB.",
+            "location": "Uddevalla",
+            "business": "Mek. verkstad, tackjärns- och metailgjuteri. Tillverkar plåt- och järnkonstruktioner, maskinarbeten, pressmiden, tackjärnsgjutgods, kajpållare, kokillhär-dade roster samt metallgjutgods. Specialiteter: styrmaskiner och rodersmiden för fiskefartyg.",
+            "contact": {
+                "phone": [
+                    "10068",
+                    "10168"
+                ],
+                "postgiro": "132260"
+            },
+            "financials": {
+                "capital": "52,000 kr",
+                "employees": {
+                    "industriarb": 100
+                },
+                "annual_turnover": "700,000 kr"
+            },
+            "foundation_year": 1921,
+            "corporation_year": 1936,
+            "director": "Ivar Thordén",
+            "managing_director": "Ing. Georg R. Nilson",
+            "sales_manager": "Gunnar Wikström",
+            "manager": "Eric Carlson"
+        },
+        "2": {
+            "name": "Uddevalla Nya Tunnfabrik AB.",
+            "location": "Uddevalla",
+            "business": "Tillverkar tunnor och laggkärl. Specialitet: tunnor för sill och annan fiskförpackning.",
+            "contact": {
+                "phone": "10055",
+                "postgiro": "10255"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": {
+                    "industriarb": 50
+                },
+                "annual_turnover": "1,200,000 kr"
+            },
+            "foundation_year": 1889,
+            "current_name_year": 1935,
+            "board": [
+                {
+                    "name": "Med. Lic. Folke Malmquist",
+                    "role": null
+                },
+                {
+                    "name": "V. Konsul Gösta Malmquist",
+                    "role": null
+                }
+            ],
+            "director": "Gösta Malmquist"
+        },
+        "3": {
+            "name": "Uddevalla Snäckskalsbankar",
+            "location": "Uddevalla",
+            "business": "Snäckskalsgruvor med förädlingsverk. Bryter och förädlar snäckskal (kolsyrad kalk) till höns- och kycklingfoder.",
+            "contact": {
+                "phone": "10705",
+                "postgiro": "30035"
+            },
+            "employees": 10,
+            "director": "Fabr. Erik G. Norlin"
+        },
+        "4": {
+            "name": "Uddevallavarvet AB.",
+            "location": "Uddevalla",
+            "business": "Skeppsvarv och mek. verkstad. Utför nybyggnader och reparationer.",
+            "contact": {
+                "phone": null,
+                "postgiro": "298264"
+            },
+            "financials": {
+                "capital": "5,000,000 kr"
+            },
+            "corporation_year": 1945,
+            "board": [
+                {
+                    "name": "Bankdir. Halfdan Lugner",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Grossh. Arvid Högström",
+                    "role": null
+                },
+                {
+                    "name": "Typograf Axel Johansson",
+                    "role": null
+                },
+                {
+                    "name": "Dir. Erik Norberg",
+                    "role": null
+                },
+                {
+                    "name": "Dir. Robert Schwartzman",
+                    "role": "disp."
+                },
+                {
+                    "name": "Disp. Erland Sjunnesson",
+                    "role": null
+                },
+                {
+                    "name": "Skeppsred. Gustaf Thordén",
+                    "role": null
+                }
+            ],
+            "director": "Erik Norberg",
+            "manager": "Bengt Ryding",
+            "sales_manager": "Stellan Trollen",
+            "managing_director": "Henning Westman"
+        },
+        "5": {
+            "name": "Uddnäs Gjuteri & Verkstads AB.",
+            "location": "Stockholm",
+            "business": "Metall- och tackjärnsgjuteri i Staket (Stockholms l.). Tillverkar legerat gjutgods för höga temperatur- och tryckpåkänningar.",
+            "contact": {
+                "phone": "119616",
+                "postgiro": "155383"
+            },
+            "financials": {
+                "capital": "100,000 kr",
+                "employees": {
+                    "industriarb": 15
+                }
+            },
+            "foundation_year": 1916,
+            "board": [
+                {
+                    "name": "E. o. Hovrättsnot. R. Sundblom",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Fil. Kand. C.-G. Gentele",
+                    "role": null
+                },
+                {
+                    "name": "Ing. Tom Lindberg",
+                    "role": null
+                }
+            ],
+            "director": "Rafael Sundblom"
+        },
+        "6": {
+            "name": "AB. Uddnäs Kemiska Fabriker",
+            "location": "Stockholm",
+            "business": "Kem. tekn. fabrik i Norrköping. Tillverkar natronvattenglas, kalivattenglas samt vattenglas för syrafasta murningar.",
+            "contact": {
+                "phone": "119616",
+                "postgiro": "2075"
+            },
+            "financials": {
+                "capital": "50,000 kr",
+                "employees": 5,
+                "annual_turnover": "200,000 kr"
+            },
+            "foundation_year": 1892,
+            "corporation_year": 1916,
+            "board": [
+                {
+                    "name": "Ing. Tom Lindberg",
+                    "role": null
+                },
+                {
+                    "name": "E. o. Hovrättsnot. R. Sundblom",
+                    "role": null
+                }
+            ],
+            "director": "Tom Lindberg"
+        },
+        "7": {
+            "name": "AB. Ugerups Tegelbruk",
+            "location": "Malmö",
+            "business": "Tillverkar gult fasadtegel, lättegel och flamtegel vid tegelbruk i Gärds Köpinge (Kristianst. l.).",
+            "contact": {
+                "phone": "25234",
+                "postgiro": "39597"
+            },
+            "financials": {
+                "capital": "42,000 kr",
+                "employees": {
+                    "industriarb": 24
+                }
+            },
+            "annual_production_value": "2 milj. st. tegelvaror",
+            "corporation_year": 1937,
+            "director": "Disp. Sam. Nilsson",
+            "sales_manager": "Edvin Rundkvist"
+        },
+        "8": {
+            "name": "AB. Ulax",
+            "location": "Motala",
+            "business": "Mjölkfilterfabrik vid Ekön (Östergötl. l.). Tillverkar mjölkfilter av kem. renad bomull samt förbandsvadd.",
+            "contact": {
+                "phone": "165",
+                "postgiro": "11377"
+            },
+            "financials": {
+                "capital": "300,000 kr",
+                "employees": 30
+            },
+            "foundation_year": 1902,
+            "corporation_year": 1911
+        }
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "1": {
+        "name": "Kolbäck—Kommanditbolaget",
+        "location": "Kolbäck",
+        "business": "strömbrytare, säkringslådor, centraler för belysning och kraft m. m.",
+        "products": "Varumärke: »KEV»",
+        "contact": {
+            "office": "Elektriska, Kolbäck",
+            "phone": [
+                "2",
+                "12"
+            ],
+            "postgiro": "25170"
+        },
+        "financials": {
+            "capital": "Not available (N/A)",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "fabr. David Karlsson"
+        ]
+    },
+    "2": {
+        "name": "AB. Kolbäcks Träindustrier",
+        "location": "Kolbäck",
+        "business": "byggnadssnickerier samt sågade och hyvlade trävaror",
+        "contact": {
+            "office": "Kolbäck",
+            "phone": [
+                "116",
+                "117"
+            ],
+            "postgiro": "266500"
+        },
+        "financials": {
+            "capital": "41,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "banmäst. Oskar W. Andersson",
+                "role": "ordf."
+            },
+            {
+                "name": "folkskollärare Knut Björklund",
+                "role": "N/A"
+            },
+            {
+                "name": "lantbr. Nils Laggberg",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Gottfrid Larsson",
+                "role": "N/A"
+            },
+            {
+                "name": "lantbr. Petrus Peterson",
+                "role": "N/A"
+            }
+        ],
+        "director": "Gottfrid Larsson"
+    },
+    "3": {
+        "name": "AB. Kolimporten—Laurents",
+        "location": "Sundsvall",
+        "business": "Sågverk och hyvleri",
+        "contact": {
+            "office": "Sundsvall",
+            "phone": [
+                "Kolimporten—Laurents"
+            ],
+            "postgiro": "28190"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "1,500 stds trävaror, 5 milj. murtegel",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "dir. Kjell Beijer",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. B. Hjerpstedt",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. H. Lönnegårdh",
+                "role": "N/A"
+            }
+        ],
+        "director": "B. Hjerpstedt"
+    },
+    "4": {
+        "name": "AB. Kollin &amp; Ström",
+        "location": "Borlänge",
+        "business": "Mek. verkstad och grovplåtslageri",
+        "products": "Tillverkar perforerad plåt och värmeradiatorer samt utför grovplåtsarbeten och järnkonstruktioner",
+        "contact": {
+            "office": "Borlänge",
+            "phone": [
+                "10117",
+                "11017"
+            ],
+            "postgiro": "28717"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1900,
+        "board": [
+            {
+                "name": "generalkonsul Torsten O. Söderberg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Joel Björklund",
+                "role": "N/A"
+            },
+            {
+                "name": "konsul H. Bursie",
+                "role": "N/A"
+            }
+        ],
+        "director": "Joel Björklund"
+    },
+    "5": {
+        "name": "Kommanditbolaget Betong, Sander &amp; Co.",
+        "location": "Hednoret",
+        "business": "Cementvarufabriker",
+        "products": "Tillverkar betongrör till avloppsledningar och väg-trummor, stolpar, husbyggnadsblock m. m.",
+        "contact": {
+            "office": "Hednoret",
+            "phone": [
+                "Boden 65016",
+                "65060"
+            ],
+            "postgiro": "61211"
+        },
+        "financials": {
+            "capital": "38,600 kr",
+            "employees": {
+                "industriarb": 62
+            },
+            "annual_turnover": "850,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1926,
+        "director": "vägmäst. Oskar Sander (Brännland)"
+    },
+    "6": {
+        "name": "Kommanditbolaget Bröderna Wallins Nysilverfabrik",
+        "location": "Lidköping",
+        "business": "Tillverkar kuvertartiklar av nysilver och rostfritt stål",
+        "contact": {
+            "phone": "20783",
+            "postgiro": "70752"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "fabr. Einar Wallin",
+                "role": "ordf."
+            },
+            {
+                "name": "försäljn.-chef Nils H. Lind",
+                "role": "N/A"
+            },
+            {
+                "name": "kamrer K. G. Tunblad",
+                "role": "N/A"
+            },
+            {
+                "name": "fabr. Folke Wallin",
+                "role": "N/A"
+            }
+        ],
+        "director": "Einar Wallin"
+    },
+    "7": {
+        "name": "Kommanditbolaget Ellkå, Furstenberg &amp; Söner",
+        "location": "Kalmar",
+        "business": "Syfabrik",
+        "products": "Tillverkar arbets- och sportkläder samt skjortor",
+        "contact": {
+            "phone": "1650",
+            "postgiro": "263533",
+            "repr. i Stockholm": "Ivar Tardell, Drottningg^ 23, telefon: 104190"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 45
+            },
+            "foundation_year": 1927
+        },
+        "director": "dir. Sigismund Fiirstenberg"
+    }
+}

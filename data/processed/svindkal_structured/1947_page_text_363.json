@@ -1,0 +1,77 @@
+{
+    "1": {
+        "name": "Hjort•—Hoffman",
+        "location": "Hagalund",
+        "business": "Tryckfärgsfabrik",
+        "contact": {
+            "office": "Fabriksvägen 1, Hagalund",
+            "phone": "Stockholm 272750",
+            "telegraph": "Tryckfärg, Stockholm",
+            "postgiro": "2366"
+        },
+        "board": [
+            {
+                "name": "Georg Bolie AB.",
+                "role": "Ensamförsäljare"
+            }
+        ]
+    },
+    "2": {
+        "name": "Hjorts Kritbruk, Kvarnby",
+        "location": null,
+        "business": "AB",
+        "description": "Kritbruksbolaget i Malmö, Kvarnby"
+    },
+    "3": {
+        "name": "AB. B. A. Hjorth & Co.",
+        "location": "Stockholm",
+        "business": "Försäljningsbolag",
+        "products": "Kok-, löd-, belysnings- och värmeapparater för fotogen, bensin eller rödsprit, växt sprutor, smörj kannor, mattrenare (»Matt-Primus») m. m.",
+        "contact": {
+            "office": "Klara Norra Kyrkog. 31",
+            "phone": "»Hjorth &amp; Co.»",
+            "telegraph": "Bahco, Stockholm",
+            "postgiro": "745"
+        },
+        "sales_offices": [
+            {
+                "location": "Väst-Sverige",
+                "phone": "Wallén & Co., Göteborg, N. Larmg. 5, telefon: 111876"
+            },
+            {
+                "location": "Skåne-distriktet",
+                "phone": "B. Oller-stam, Malmö, Storg. 20, telefon: 17145"
+            }
+        ]
+    },
+    "4": {
+        "name": "AB. Primus",
+        "location": "Stockholm",
+        "business": "Tillverkningar"
+    },
+    "5": {
+        "name": "AB. Enköpings Verkstäders",
+        "location": "Enköping",
+        "business": "Tillverkningar"
+    },
+    "6": {
+        "name": "Hvinbro Tråddrageri & Nätfabrik AB.",
+        "location": "Hjulsbro",
+        "business": "Grov- och fintråddrageri, stängselnät-fabrik, förtennings- och galvaniserings-verk"
+    },
+    "7": {
+        "name": "AB. Stjernfors-Ställdalen",
+        "location": "Ställdalen",
+        "business": null
+    },
+    "8": {
+        "name": "Hjulsjö Bruk",
+        "location": "Hjulsjö",
+        "business": "Sågverk"
+    },
+    "9": {
+        "name": "Hjälmare Kanal- & Slussverks AB.",
+        "location": "Arboga",
+        "business": "Träsliperi, sågverk och varv"
+    }
+}

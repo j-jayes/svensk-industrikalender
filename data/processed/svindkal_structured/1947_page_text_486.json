@@ -1,0 +1,219 @@
+{
+    "1": {
+        "name": "Alfr. Lundins Bokbinderi AB.",
+        "location": "Stockholm",
+        "business": "Parti- och privatbokbinderi",
+        "contact": {
+            "office": "Drottningg. 55",
+            "phone": [
+                "230845"
+            ],
+            "postgiro": "2652",
+            "telegraph": "Boklundins, Stockholm"
+        },
+        "financials": {
+            "capital": "260,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_production_value": "60,000 kr"
+        },
+        "foundation_year": 1873,
+        "corporation_year": 1908,
+        "board": [
+            {
+                "name": "Fritz Lind",
+                "role": "styrelse o. verkst. dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "A. Lundins Snickerifabrik",
+        "location": "Rättvik",
+        "business": "Tillverkar byggnadssnickerier vid snickerifabrik och sågverk i Rättvik (Kopparb. l.)",
+        "contact": {
+            "phone": "358",
+            "postgiro": "32525"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 8
+            },
+            "annual_production_value": "60,000 kr"
+        },
+        "foundation_year": 1898,
+        "owners": [
+            "fabr. Anders Lundin"
+        ],
+        "director": "Anders Lundin J:or"
+    },
+    "3": {
+        "name": "AB. C. C. Lundin",
+        "location": "Tranås",
+        "business": "Trikåvarutillverkning",
+        "products": "Stickade yllevaror såsom undertröjor, koftor, sweaters, slipovers, gensare, gosskostymer, flickklänningar samt vantar och raggsockor",
+        "contact": {
+            "phone": "2006",
+            "postgiro": "76601"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "industriarb": 5,
+                "hemarbetare": 50
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1910,
+        "corporation_year": 1935,
+        "director": "Esaias Lundin"
+    },
+    "4": {
+        "name": "Ragnar Lundins Snickerifabrik AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar byggnadssnickerier, inredningar, trappor och ledstänger",
+        "contact": {
+            "office": "Luxg. 4, L:a Essingen",
+            "phone": [
+                "512350",
+                "512360"
+            ],
+            "postgiro": "194731"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_production_value": "175,000 kr"
+        },
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "Harry Hallen",
+                "role": "ordf."
+            },
+            {
+                "name": "Sixten Fryklund",
+                "role": "dir."
+            },
+            {
+                "name": "Erik Wilson",
+                "role": "herr"
+            }
+        ],
+        "managing_director": "Harry Hallen"
+    },
+    "5": {
+        "name": "Lundqvist & Huddéns Tegei- och Trävaru AB.",
+        "location": "Stockholm",
+        "business": "Tegelbruk, sågverk och hyvleri",
+        "products": "Tillverkar tak- och murtegel, dräneringsrör, sågade och hyvlade trävaror",
+        "contact": {
+            "office": "Kungsg. 42",
+            "phone": [
+                "233850"
+            ],
+            "postgiro": "3130"
+        },
+        "financials": {
+            "capital": "1,050,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1896,
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "Gustaf Huddén",
+                "role": "ordf."
+            },
+            {
+                "name": "Sven Lundqvist",
+                "role": "dir."
+            },
+            {
+                "name": "Gösta Olsson",
+                "role": "dir."
+            },
+            {
+                "name": "Gunnar Lundqvist",
+                "role": "disp."
+            },
+            {
+                "name": "Sven Lundqvist",
+                "role": "Verkst. dir."
+            }
+        ]
+    },
+    "6": {
+        "name": "Lundqvist & Johansson",
+        "location": "Vaksala Nya Tegelbruk, Stockholm",
+        "business": "Se Vaksala Nya Tegelbruk, Lundqvist & Johansson, Stockholm"
+    },
+    "7": {
+        "name": "Lundquist & Wottrich AB.",
+        "location": "Stockholm",
+        "business": "Paraplyfabrik",
+        "products": "Tillverkar paraplyer, parasoller samt promenadkäppar",
+        "contact": {
+            "office": "Smålandsg. 40",
+            "phone": [
+                "232255"
+            ],
+            "postgiro": "2693"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 42
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1903,
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "Tor Wottrich",
+                "role": "disp."
+            },
+            {
+                "name": "G. Wottrich",
+                "role": "fru"
+            },
+            {
+                "name": "Tor Wottrich",
+                "role": "Verkst. dir."
+            }
+        ]
+    },
+    "8": {
+        "name": "Am. Lundquist, Boktryckeri",
+        "location": "Stockholm",
+        "business": "Utför boktryck för handel, industri, konst och litteratur",
+        "contact": {
+            "office": "Regeringsg. 26",
+            "phone": [
+                "105890",
+                "211524"
+            ],
+            "postgiro": "2620"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "original_name": "Amandus Lundquist",
+        "director": "boktr. Amandus Lundquist"
+    },
+    "9": {
+        "name": "Lundqvists Snickerier",
+        "location": "Stockholm",
+        "business": "Snickeriverkstad i Stockholm samt snickerifabrik i Åkersberga (Sthlms l.)",
+        "products": "Tillverkar kontors- och butiksinredningar, monterbara hyll- och lagerfack samt klädskåp"
+    }
+}

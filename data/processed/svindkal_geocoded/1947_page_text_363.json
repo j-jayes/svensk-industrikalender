@@ -1,0 +1,110 @@
+{
+    "1": {
+        "name": "Hjort•—Hoffman",
+        "location": "Hagalund",
+        "business": "Tryckfärgsfabrik",
+        "contact": {
+            "office": "Fabriksvägen 1, Hagalund",
+            "phone": "Stockholm 272750",
+            "telegraph": "Tryckfärg, Stockholm",
+            "postgiro": "2366"
+        },
+        "board": [
+            {
+                "name": "Georg Bolie AB.",
+                "role": "Ensamförsäljare"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.3638177,
+            "Longitude": 18.0157976
+        }
+    },
+    "2": {
+        "name": "Hjorts Kritbruk, Kvarnby",
+        "location": null,
+        "business": "AB",
+        "description": "Kritbruksbolaget i Malmö, Kvarnby",
+        "coordinates": null
+    },
+    "3": {
+        "name": "AB. B. A. Hjorth & Co.",
+        "location": "Stockholm",
+        "business": "Försäljningsbolag",
+        "products": "Kok-, löd-, belysnings- och värmeapparater för fotogen, bensin eller rödsprit, växt sprutor, smörj kannor, mattrenare (»Matt-Primus») m. m.",
+        "contact": {
+            "office": "Klara Norra Kyrkog. 31",
+            "phone": "»Hjorth &amp; Co.»",
+            "telegraph": "Bahco, Stockholm",
+            "postgiro": "745"
+        },
+        "sales_offices": [
+            {
+                "location": "Väst-Sverige",
+                "phone": "Wallén & Co., Göteborg, N. Larmg. 5, telefon: 111876"
+            },
+            {
+                "location": "Skåne-distriktet",
+                "phone": "B. Oller-stam, Malmö, Storg. 20, telefon: 17145"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Primus",
+        "location": "Stockholm",
+        "business": "Tillverkningar",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "AB. Enköpings Verkstäders",
+        "location": "Enköping",
+        "business": "Tillverkningar",
+        "coordinates": {
+            "Latitude": 59.63569090000001,
+            "Longitude": 17.0778228
+        }
+    },
+    "6": {
+        "name": "Hvinbro Tråddrageri & Nätfabrik AB.",
+        "location": "Hjulsbro",
+        "business": "Grov- och fintråddrageri, stängselnät-fabrik, förtennings- och galvaniserings-verk",
+        "coordinates": {
+            "Latitude": 58.37794119999999,
+            "Longitude": 15.6954907
+        }
+    },
+    "7": {
+        "name": "AB. Stjernfors-Ställdalen",
+        "location": "Ställdalen",
+        "business": null,
+        "coordinates": {
+            "Latitude": 59.93729020000001,
+            "Longitude": 14.9403352
+        }
+    },
+    "8": {
+        "name": "Hjulsjö Bruk",
+        "location": "Hjulsjö",
+        "business": "Sågverk",
+        "coordinates": {
+            "Latitude": 59.7841349,
+            "Longitude": 14.7780656
+        }
+    },
+    "9": {
+        "name": "Hjälmare Kanal- & Slussverks AB.",
+        "location": "Arboga",
+        "business": "Träsliperi, sågverk och varv",
+        "coordinates": {
+            "Latitude": 59.39368829999999,
+            "Longitude": 15.8381747
+        }
+    }
+}

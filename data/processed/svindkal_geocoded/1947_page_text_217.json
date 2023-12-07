@@ -1,0 +1,214 @@
+{
+    "1": {
+        "name": "Bröderna Miller",
+        "location": "Bankeryd",
+        "business": "Metallfabrik",
+        "products": "Tillverkar möbel- och byggnadsbeslag. Firman driver även engroshandel med järn- och metallmanufaktur.",
+        "contact": {
+            "telegraph": "Millers, Bankeryd",
+            "phone": [
+                "Bröderna Miller"
+            ],
+            "postgiro": "31264"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 95
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1903,
+        "owner": "fabr. Einar Miller",
+        "sales_manager": "Torsten Hansson",
+        "coordinates": {
+            "Latitude": 57.8574137,
+            "Longitude": 14.1312259
+        }
+    },
+    "2": {
+        "name": "Bröderna Modin",
+        "location": "Knivsta",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar automatiska drickeshoar för djurstallar, foderhäckar för ladugårdar, tillbehör till traktorer såsom transportringar, slirnab-bar m. m. samt utför reparationer av traktorer och lantbruksmaskiner.",
+        "contact": {
+            "phone": "190",
+            "postgiro": "26199"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 75
+            }
+        },
+        "foundation_year": 1909,
+        "owner": "köpm. Georg Modin",
+        "manager": "dir. Bror Andersson",
+        "coordinates": {
+            "Latitude": 59.7261195,
+            "Longitude": 17.7920364
+        }
+    },
+    "3": {
+        "name": "Bröderna Nilssons Fabriks AB.",
+        "location": "Onslunda",
+        "business": "Borstfabrik och träförädlingsfabrik",
+        "products": "Tillverkar borstar, penslar och kvastar samt leksaker och husgerådsartiklar av trä.",
+        "contact": {
+            "phone": "46",
+            "postgiro": "11503"
+        },
+        "financials": {
+            "capital": "83,000 kr",
+            "employees": {
+                "industriarb.": 75
+            },
+            "annual_production_value": "600,000 kr"
+        },
+        "original_name": "Bröderna Nilssons Fabriks AB.",
+        "coordinates": {
+            "Latitude": 55.598225,
+            "Longitude": 14.0501177
+        }
+    },
+    "4": {
+        "name": "Bröderna Nilssons Industrier",
+        "location": "Åsljunga",
+        "business": "Träförädlingsfabrik",
+        "products": "Tillverkar korg- och slöjdvaror såsom korgar och barnsitsar för cyklar, papperskorgar, tevagnar, blombord, tidningsställ samt trädgårdsmöbler, vilstolar, husgerådsartiklar i trä m. m.",
+        "contact": {
+            "phone": "139",
+            "postgiro": "283512"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 40
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "owner": {
+            "director": "Åke Nilsson",
+            "fabr. Bertil Nilsson": "Åke Nilsson o. fabr. Bertil Nilsson"
+        },
+        "coordinates": {
+            "Latitude": 56.3080811,
+            "Longitude": 13.3668168
+        }
+    },
+    "5": {
+        "name": "Bröderna Nilssons Möbelfabrik",
+        "location": "Malilla station",
+        "business": "Tillverkar stolar i ek och björk",
+        "contact": {
+            "phone": "Målilla 31",
+            "postgiro": "174817"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 13
+            }
+        },
+        "foundation_year": 1925,
+        "owner": {
+            "fabr. Alrik Nilsson": "fabr. Alrik Nilsson o. fabr. Ossian Nilsson"
+        },
+        "coordinates": {
+            "Latitude": 57.39039129999999,
+            "Longitude": 15.8247406
+        }
+    },
+    "6": {
+        "name": "Bröderna Nisser Strumpfabrik",
+        "location": "Djurås",
+        "business": "Tillverkar damstrumpor i konst- och natursilke",
+        "contact": {
+            "phone": "27",
+            "postgiro": "87608"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 10
+            },
+            "annual_production_value": "130,000 kr"
+        },
+        "foundation_year": 1936,
+        "owner": {
+            "fabr. Anders E. Nisser": "fabr. Anders E. Nisser o. fabr. Erik H. Nisser"
+        },
+        "manager": "Anders E. Nisser",
+        "coordinates": {
+            "Latitude": 60.56075389999999,
+            "Longitude": 15.1318034
+        }
+    },
+    "7": {
+        "name": "Bröderna Nyman",
+        "location": "Länghem",
+        "business": "Tillverkar arbetskläder (blåkläder)",
+        "contact": {
+            "phone": "Svenljunga 40003",
+            "postgiro": "11978"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 50
+            }
+        },
+        "foundation_year": 1919,
+        "owner": {
+            "fabr. Enar Nyman": "fabr. Enar Nyman o. fabr. Evert Nyman"
+        },
+        "coordinates": {
+            "Latitude": 57.6015069,
+            "Longitude": 13.2442712
+        }
+    },
+    "8": {
+        "name": "Bröderna Olssons Skofabrik",
+        "location": "Nya Varvet",
+        "business": "Skofabrik",
+        "products": "Tillverkar durk- och sandalsydda herr- och damskodon.",
+        "contact": {
+            "postaddr": "Tranered, Nya Varvet",
+            "phone": "Göteborg 290451"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 20
+            },
+            "annual_production_value": "235,000 kr"
+        },
+        "foundation_year": 1929,
+        "current_name_year": 1945,
+        "owner": {
+            "fabr. Fritz Olsson": "fabr. Fritz Olsson o. fabr. Hjalmar Olsson"
+        },
+        "coordinates": {
+            "Latitude": 57.6833243,
+            "Longitude": 11.8905052
+        }
+    },
+    "9": {
+        "name": "AB. Bröderna Ottosson & Co Lädervarufabrik",
+        "location": "Klippan",
+        "business": "Tillverkar seldon, grimmor och remtyg, presenningar, portföljer, kameraväskor samt självbindaredukar",
+        "contact": {
+            "phone": "696",
+            "postgiro": "72058"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb.": 20
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "corporation_year": 1942,
+        "current_name_year": 1947,
+        "owner": {
+            "fabr. Eric Ottosson": "fabr. Eric Ottosson o. fabr. John Ottosson"
+        },
+        "coordinates": {
+            "Latitude": 56.1348998,
+            "Longitude": 13.1290409
+        }
+    }
+}

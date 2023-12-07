@@ -1,0 +1,233 @@
+{
+    "1": {
+        "name": "Söderlings Fabriker",
+        "location": "Söderhamn",
+        "business": "Verkstad och tillverkning",
+        "contact": {
+            "office": "Sverk, Söderhamn",
+            "postgiro": "174200"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb.": 200
+            },
+            "annual_turnover": "3,000,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1864,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Mauritz Carlson",
+                "role": "ordf."
+            },
+            {
+                "name": "Gunnar L. Jacobsson",
+                "role": "dir."
+            },
+            {
+                "name": "Sven Otterbeck",
+                "role": "dir."
+            }
+        ],
+        "director": "Lars Dalman",
+        "manager": "Runo Lundbergh",
+        "sales_manager": "Hilmer Burman",
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        }
+    },
+    "2": {
+        "name": "C. F. Söderlings Fabriker",
+        "location": "Lomma",
+        "business": "Polerskivfabrik och handel",
+        "contact": {
+            "phone": [
+                "Malmö 462019",
+                "Malmö 462003"
+            ],
+            "postgiro": "32567",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "184833"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb.": 24
+            },
+            "annual_turnover": "210,000 kr"
+        },
+        "foundation_year": 1908,
+        "coordinates": {
+            "Latitude": 55.6731375,
+            "Longitude": 13.0674055
+        }
+    },
+    "3": {
+        "name": "Söderlund & Lindström",
+        "location": "Gävle",
+        "business": "Mekanisk verkstad",
+        "contact": {
+            "phone": "7320",
+            "postgiro": "26181"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 55
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "J. Alfr. Söderlund"
+        ],
+        "manager": "J. Alfr. Söderlund",
+        "sales_manager": "Swen A. Sundberg",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "4": {
+        "name": "Södermalms Nya Snickerifabrik",
+        "location": "Enskede",
+        "business": "Tillverkning av snickerier och inredningar",
+        "contact": {
+            "office": "Huddingevägen 111, Enskede (Stockholm)",
+            "phone": [
+                "496295",
+                "496395"
+            ],
+            "postgiro": "51519"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "arb.-antal": 15
+            }
+        },
+        "foundation_year": 1929,
+        "board": [
+            {
+                "name": "Bertil Satomonson",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.2762834,
+            "Longitude": 18.0385285
+        }
+    },
+    "5": {
+        "name": "W. Söderströms Gjuteri & Mek. Verkstads AB",
+        "location": "Norrköping",
+        "business": "Mekanisk verkstad, gjuteri och plåtslageri",
+        "contact": {
+            "office": "Wesab, Norrköping",
+            "phone": [
+                "23060",
+                "20306"
+            ],
+            "postgiro": "11035"
+        },
+        "financials": {
+            "capital": "330,000 kr",
+            "employees": {
+                "industriarb.": 55
+            },
+            "annual_turnover": "750,000 kr"
+        },
+        "foundation_year": 1868,
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "6": {
+        "name": "Södertelje Bryggeri AB",
+        "location": "Södertälje",
+        "business": "Tillverkning av malt- och läskedrycker",
+        "contact": {
+            "phone": "Bryggeribolaget",
+            "postgiro": "134692"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb.": 65
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1896,
+        "coordinates": {
+            "Latitude": 59.197762,
+            "Longitude": 17.6201942
+        }
+    },
+    "7": {
+        "name": "Södertälje Metallförädling",
+        "business": "Elektriskt smältverk för mässing",
+        "location": "Södertälje",
+        "contact": {
+            "office": "Metallförädling, Södertälje",
+            "phone": [
+                "33201",
+                "33202"
+            ],
+            "postgiro": "174899"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb.": 60
+            }
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "L. Bamberger",
+                "role": "ordf."
+            },
+            {
+                "name": "S. Lindskog",
+                "role": "adv."
+            },
+            {
+                "name": "Sixten Nilsson",
+                "role": "civiling."
+            }
+        ],
+        "director": "L. Bamberger",
+        "manager": "Gunnar Westman",
+        "coordinates": {
+            "Latitude": 59.197762,
+            "Longitude": 17.6201942
+        }
+    },
+    "8": {
+        "name": "Södervärns Tricotfabrik AB",
+        "location": "Malmö",
+        "business": "Tillverkning av silkestrikåunderkläder och strumpor",
+        "contact": {
+            "office": "Industrig.",
+            "phone": "21657",
+            "postgiro": "24542",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Unknown"
+                }
+            ]
+        },
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    }
+}

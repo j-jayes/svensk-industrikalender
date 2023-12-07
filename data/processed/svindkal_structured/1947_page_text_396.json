@@ -1,0 +1,209 @@
+{
+    "1": {
+        "name": "Carl Jakobssons Bleck kär Isfabrik",
+        "location": "Odensbacken",
+        "business": "Tillverkar bleckemballage för färgfabriker, tekn. fabriker m. fl., konserv-emballage, plåtkaminer samt utför plåtslageriarbeten vid fabrik i Odensbacken (Örebro l.)",
+        "contact": {
+            "office": "Odensbacken",
+            "phone": [
+                "44"
+            ],
+            "postgiro": "24888"
+        },
+        "financials": {
+            "capital": "55,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "675,000 kr",
+            "annual_production_value": "3 milj. st. tegelvaror"
+        },
+        "foundation_year": 1895,
+        "corporation_year": 1926,
+        "director": "Nils Jakobsson"
+    },
+    "2": {
+        "name": "Oscar Jacobson AB.",
+        "location": "Borås",
+        "business": "Herrkonfektionsfabrik. Tillverkar kostymer, gosskläder, ulstrar, överrockar, trenchcoats, byxor samt skjortor och arbetskläder.",
+        "contact": {
+            "phone": [
+                "Jacobsons bolag"
+            ],
+            "postgiro": "71282"
+        },
+        "financials": {
+            "capital": "1,680,000 kr",
+            "employees": {
+                "industriarb": 290
+            },
+            "annual_turnover": "6,000,000 kr"
+        },
+        "foundation_year": 1929,
+        "corporation_year": 1935,
+        "board": [
+            {
+                "name": "Oscar Jacobson",
+                "role": "ordf."
+            },
+            {
+                "name": "N. H. Edberg",
+                "role": "kamrer"
+            }
+        ],
+        "director": "Oscar Jacobson",
+        "sales_manager": "N. H. Edberg"
+    },
+    "3": {
+        "name": "Jannebergs Tegelbruk",
+        "location": "Karlshamn",
+        "business": "Tegelbruk och elektr. kraftstation vid Janneberg, Karlshamn (Blekinge l.). Tillverkar tegel och dräneringsrör. Firman driver även bränner i- och kvarnrörelse samt skogshantering.",
+        "contact": {
+            "office": "Karlshamn",
+            "phone": [
+                "887"
+            ],
+            "postgiro": "97961"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "150,000 kr"
+        },
+        "owner": "civiling. Nils Santesson"
+    },
+    "4": {
+        "name": "Jansson & Co.",
+        "location": "Stockholm",
+        "description": "Se AB. Svenska Korsettfabriken, Jansson & Co., Stockholm."
+    },
+    "5": {
+        "name": "AB. Jansson & Sjögrens Eftr.",
+        "location": "Västerås",
+        "business": "Karamellfabrik, bageri och spisbröds-fabrik. Tillverkar konfektyrer, choklad, marmelad och karameller (specialitet: brända mandlar), bageri- och konditorivaror samt spisbröd.",
+        "contact": {
+            "phone": [
+                "30215",
+                "35015",
+                "31182"
+            ],
+            "postgiro": "22847"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1942,
+        "director": "kapten John Jahn",
+        "sales_manager": "Ture J. Bengtson"
+    },
+    "6": {
+        "name": "AB. Ax. G. Jansson, Smides- & Mek. Verkstad",
+        "location": "Stockholm",
+        "business": "Utför järnkonstruktioner, räckarbeten i järn, rostfritt och metall samt byggnadssmide.",
+        "contact": {
+            "office": "Katarina Bangata 77",
+            "phone": [
+                "440595"
+            ],
+            "postgiro": "54139"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_turnover": "1,764,000 kr"
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1937,
+        "director": "Axel G. Jansson",
+        "managing_director": "David E. Johansson",
+        "sales_manager": "Gösta Gardbeck"
+    },
+    "7": {
+        "name": "AB. J. Janssons Kalkbruk",
+        "location": "Kälvene",
+        "business": "Tillverkar bränd kalk vid kalkbruk i Kälvene (Skarab. l.)",
+        "contact": {
+            "phone": [
+                "5"
+            ],
+            "postgiro": "77871"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "corporation_year": 1918,
+        "director": "Erik Jansson"
+    },
+    "8": {
+        "name": "AB. J. Axel Janssons Nysilverfabrik",
+        "location": "Lidköping",
+        "business": "Metallvarufabrik och försilvringsverk. Tillverkar bordsartiklar i nysilver och rostfritt stål, potatisskalare samt slip-och polermaskiner för branschen.",
+        "contact": {
+            "telegraph": "Janssonssilver, Lidköping",
+            "phone": [
+                "20069"
+            ],
+            "postgiro": "10321"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "corporation_year": 1939,
+        "director": "J. Axel Jansson",
+        "factory_manager": "Helge Jansson"
+    },
+    "9": {
+        "name": "AB. Otto Janssons Skofabrik",
+        "location": "Jönköping",
+        "business": "Tillverkar rand- och sandalsydda herr-och barnskodon.",
+        "contact": {
+            "phone": [
+                "23"
+            ],
+            "postgiro": "30218"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 140
+            },
+            "annual_turnover": "2,200,000 kr"
+        },
+        "corporation_year": 1929,
+        "director": "Eilert Jansson"
+    },
+    "10": {
+        "name": "Sigfrid Janssons Metallfabrik",
+        "location": "Mariefred",
+        "business": "Metallvarufabrik och gjuteri. Tillverkar byggnads- och båtbeslag.",
+        "contact": {
+            "phone": [
+                "64"
+            ],
+            "postgiro": "30613"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 16
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "owner": "fru E. Jansson"
+    }
+}

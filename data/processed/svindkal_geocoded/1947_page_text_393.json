@@ -1,0 +1,265 @@
+{
+    "1": {
+        "name": "Isa Makaronifabriks AB",
+        "location": "Gävle",
+        "business": "Tillverkar makaroner",
+        "products": "Varumärke: Isa Makaroner",
+        "contact": {
+            "office": "Gävle",
+            "phone": [
+                "3525"
+            ],
+            "postgiro": "79631"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 6
+            },
+            "annual_turnover": "180,000 kr"
+        },
+        "foundation_year": 1932,
+        "predecessor": "Isaac Westergren & Co. AB",
+        "board": [
+            {
+                "name": "Yngve Lidén",
+                "role": "ordf."
+            },
+            {
+                "name": "Fridolf Meurling",
+                "role": "köpm."
+            }
+        ],
+        "director": "Y. Lidén",
+        "managing_director": "Y. Lidén",
+        "sales_manager": "Bertil Jönsson",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "2": {
+        "name": "AB Isacsons Emballagefabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar pappemballage och kartonger",
+        "contact": {
+            "office": "Göteborg",
+            "phone": [
+                "117598"
+            ],
+            "postgiro": "99391",
+            "sales_offices": [
+                {
+                    "location": "Brännögård",
+                    "phone": "Kinnared 40"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "3,000,000 kr"
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "Folke Isacson",
+                "role": "Styrelse o. direktion"
+            },
+            {
+                "name": "Wigge Isacson",
+                "role": "Styrelse o. direktion"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "3": {
+        "name": "AB C. C. Isaksson & Co.",
+        "location": "Ilabo",
+        "business": "Järn- och metallvarufabrik",
+        "contact": {
+            "office": "Habo (Skarab. l.)",
+            "phone": [
+                "78",
+                "98"
+            ],
+            "postgiro": "29037"
+        },
+        "financials": {
+            "capital": "100,400 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "1,300,000 kr"
+        },
+        "foundation_year": 1921,
+        "corporation_year": 1944,
+        "director": "C. G. Isaksson",
+        "sales_manager": "Åke Isaksson",
+        "manager": "A. Wiebert",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    },
+    "4": {
+        "name": "AB J. Isaksson & Co.",
+        "location": "Stockholm",
+        "business": "Kassaskåpsfabrik",
+        "contact": {
+            "office": "Ulvsunda (Stockholm)",
+            "phone": [
+                "256480",
+                "256500"
+            ],
+            "postgiro": "3965"
+        },
+        "financials": {
+            "capital": "185,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1867,
+        "corporation_year": 1925,
+        "board": [
+            {
+                "name": "Albin Isaksson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Gunnar Klingvall",
+                "role": "disp."
+            }
+        ],
+        "director": "Albin Isaksson",
+        "manager": "Hilmer Berghagen",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "Oscar Isacsons Boktryckeri AB",
+        "location": "Göteborg",
+        "business": "Utför boktryck, affärs- och reklam-tryck",
+        "contact": {
+            "office": "Göteborg",
+            "phone": [
+                "110433",
+                "117598",
+                "117502"
+            ],
+            "postgiro": "12106"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 95
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1903,
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "Folke Isacson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Wigge Isacson",
+                "role": "Styrelse"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "A. Isberg & Son",
+        "location": "Norrköping",
+        "business": "Kontorsbokfabrik och bokbinderi",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [
+                "29090"
+            ],
+            "postgiro": "22288"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1892,
+        "director": "Nils Isberg",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "7": {
+        "name": "AB Isocorpa",
+        "location": "Hälsingborg",
+        "business": "Tillverkar träullsplattor för isolering mot värme, kyla och ljud",
+        "contact": {
+            "office": "Hälsingborg"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1944,
+        "director": "Karl Killgren",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "8": {
+        "name": "AB Isoflex",
+        "location": "Stockholm",
+        "business": "Tillverkar isoleringsplattor för kyla och värme samt fönsterisolering",
+        "contact": {
+            "office": "Magnus Ladulåsg. 11",
+            "phone": [
+                "400150",
+                "435521"
+            ],
+            "postgiro": "156685"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1936,
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "Styrelse"
+            }
+        ],
+        "manager": "Thore M. Elfving",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

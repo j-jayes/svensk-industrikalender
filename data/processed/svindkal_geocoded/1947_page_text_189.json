@@ -1,0 +1,269 @@
+{
+    "1": {
+        "name": "Björks Snickerifabrik",
+        "location": "Bollnäs",
+        "business": "Tillverkar möbler och stoppmöbelstommar",
+        "products": "vid fabrik i Bollnäs (Gävleb. l.)",
+        "contact": {
+            "office": "Bollnäs",
+            "phone": [
+                "10421"
+            ],
+            "postgiro": "95195"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "75,000 kr",
+            "annual_production_value": "75,000 kr"
+        },
+        "foundation_year": 1923,
+        "owner": "Olof Björk",
+        "coordinates": {
+            "Latitude": 61.34837950000001,
+            "Longitude": 16.3942685
+        }
+    },
+    "2": {
+        "name": "Gustaf Björklund & Son",
+        "location": "Åkarp",
+        "business": "Not available",
+        "contact": {
+            "office": "Åkarp"
+        },
+        "coordinates": {
+            "Latitude": 55.6514078,
+            "Longitude": 13.1117452
+        }
+    },
+    "3": {
+        "name": "Björkshults Glasbruk, Nya AB.",
+        "location": "Björkedal",
+        "business": "Not available",
+        "coordinates": {
+            "Latitude": 56.1574262,
+            "Longitude": 13.6774309
+        }
+    },
+    "4": {
+        "name": "Björksätra Lädervaru AB.",
+        "location": "Anderstorp",
+        "business": "Tillverkar shopping väskor, portmonnäer, plånböcker, portföljer, reklamartiklar m.m.",
+        "products": "vid fabrik i Anderstorp (Jönköp. l.)",
+        "contact": {
+            "office": "Anderstorp",
+            "phone": [
+                "178"
+            ],
+            "postgiro": "Not available"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": "Not available"
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1941,
+        "director": "Artur Karlsson",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        }
+    },
+    "5": {
+        "name": "AB. Björkträ",
+        "location": "Viksjöfors",
+        "business": "Snickerifabrik i Viksjöfors, sågverk i Mållångstad (båda i Gävleb. l.)",
+        "products": "Tillverkar kvastkäppar och skaft, pinnar av björk (dowels), trädgårdsmöbler, tältstänger, sparkstöttings- och kälkreden, penselskaft, svarvgods m.m.",
+        "contact": {
+            "office": "Viksjöfors",
+            "phone": "Viksjöfors 21",
+            "postgiro": "36546",
+            "factory_office": "Not available",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 72
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1923,
+        "corporation_year": 1932,
+        "board": [
+            {
+                "name": "Joh. Sahlin",
+                "role": "disp."
+            },
+            {
+                "name": "fru M. Ohlner",
+                "role": "Not available"
+            },
+            {
+                "name": "verkm. Erik Sahlin",
+                "role": "Not available"
+            }
+        ],
+        "director": "disp. Joh. Sahlin",
+        "coordinates": {
+            "Latitude": 61.338336,
+            "Longitude": 15.951713
+        }
+    },
+    "6": {
+        "name": "Björkå AB.",
+        "location": "Björkabruk",
+        "business": "Sågverk vid Lugn vik, träsliperi vid Hallstanäs (båda i Västernorrl. l.)",
+        "products": "Tillverkar sågade trävaror och mek. trämassa",
+        "contact": {
+            "office": "Björkåbruk",
+            "phone": "Nyland 8",
+            "postgiro": "13121",
+            "sales_offices": [
+                {
+                    "location": "Lugnvik",
+                    "phone": "Nyland 9"
+                },
+                {
+                    "location": "Härnösand",
+                    "phone": "2056"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "2,600,000 kr",
+            "employees": {
+                "industriarb": 275
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1872,
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "kapten Hjalmar Hedberg",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. Emil Eriksson",
+                "role": "Not available"
+            },
+            {
+                "name": "dir.-assist. Per Olof Hedberg",
+                "role": "Not available"
+            },
+            {
+                "name": "dir. Theodor Hedberg",
+                "role": "Not available"
+            },
+            {
+                "name": "bankdir. I. Wallmark",
+                "role": "Not available"
+            }
+        ],
+        "director": "Hjalmar Hedberg",
+        "coordinates": {
+            "Latitude": 63.3526837,
+            "Longitude": 16.3753678
+        }
+    },
+    "7": {
+        "name": "Björkå Glasbruk",
+        "location": "Älghultsby",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    },
+    "8": {
+        "name": "AB. Björköby Lådfabrik",
+        "location": "Björköby",
+        "business": "Sågverk, hyvleri och lådfabrik i Björköby (Jönköp. l.)",
+        "products": "Tillverkar lådämnen samt sågade och hyvlade trävaror",
+        "contact": {
+            "office": "Björköby",
+            "phone": "37",
+            "postgiro": "168040"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "1,200,000 kr",
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "disp. Gustaf Ahnlid",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Helgard Milton",
+                "role": "Not available"
+            }
+        ],
+        "director": "disp. Gustaf Ahnlid",
+        "coordinates": {
+            "Latitude": 57.5188928,
+            "Longitude": 14.9045962
+        }
+    },
+    "9": {
+        "name": "Björns Tegelbruk AB.",
+        "location": "Luleå",
+        "business": "Tillverkar murtegel vid tegelbruk i Norra Sunderbyn (Norrb. l.)",
+        "coordinates": {
+            "Latitude": 65.584819,
+            "Longitude": 22.1567026
+        }
+    },
+    "10": {
+        "name": "AB. Björnbandsfabriken",
+        "location": "Karlstad",
+        "business": "Tillverkar färgband för kontorsmaskiner samt kontorsklister och stämpeldynor",
+        "products": "Varumärken: »Björnband», »Record-lim» o. »Björndynan»",
+        "contact": {
+            "office": "Karlstad",
+            "phone": [
+                "10540",
+                "14540"
+            ],
+            "postgiro": "8200"
+        },
+        "financials": {
+            "capital": "18,000 kr"
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1923,
+        "current_name_year": 1936,
+        "board": [
+            {
+                "name": "disp. Lennart Rehnborg"
+            }
+        ],
+        "managing_director": "disp. Lennart Rehnborg",
+        "manager": "Torgny Rehnborg",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        }
+    },
+    "11": {
+        "name": "Björneborgs Jernverks AB.",
+        "location": "Björneborg",
+        "business": "Järnverk med masugnar, martinverk, ånghammar- och manufaktursmedja, mek. verkstad och gjuteri vid Björneborg (Värml. l.)",
+        "coordinates": {
+            "Latitude": 59.2408793,
+            "Longitude": 14.2511578
+        }
+    }
+}

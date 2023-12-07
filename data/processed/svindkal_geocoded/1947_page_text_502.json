@@ -1,0 +1,174 @@
+{
+    "1": {
+        "name": "Margarinbolaget AB",
+        "location": "Stockholm",
+        "business": "ensamförsäljare av margarinprodukter",
+        "contact": {
+            "office": "Vasag. 16, Stockholm",
+            "phone": [
+                "230960"
+            ],
+            "postgiro": "2140",
+            "head_office": "Vasag. 16, Stockholm",
+            "sales_offices": [
+                {
+                    "location": "Borgarg. 12—14, Stockholm",
+                    "phone": "unknown"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "unknown"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "unknown"
+                },
+                {
+                    "location": "Kalmar",
+                    "phone": "unknown"
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": "2901"
+                }
+            ],
+            "telegraph": "Margarin, Stockholm"
+        },
+        "financials": {
+            "capital": "2,000,000 kr.",
+            "foundation_year": 1926
+        },
+        "board": [
+            {
+                "name": "konsul Carl Ekman",
+                "role": "ordf."
+            },
+            {
+                "name": "fil. dr Harald Nordenson",
+                "role": "v. ordf."
+            },
+            {
+                "name": "bankdir. Alvar Ehrnberg",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. Sven Malmberg",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. S. Wedel",
+                "role": "unknown"
+            }
+        ],
+        "director": "S. Wedel",
+        "managing_director": "S. Wedel",
+        "sales_manager": "unknown",
+        "manager": "unknown",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "AB. Arboga Margarinfabrik",
+        "location": "Arboga",
+        "business": "unknown",
+        "contact": {
+            "factory_office": "Arboga",
+            "factory_phone": "unknown"
+        },
+        "financials": {
+            "foundation_year": 1926
+        },
+        "coordinates": {
+            "Latitude": 59.39368829999999,
+            "Longitude": 15.8381747
+        }
+    },
+    "3": {
+        "name": "Margarinfabriken Kärnan AB.",
+        "location": "Hälsingborg",
+        "business": "Tillverkar margarin. Varumärken: »Kärn-Växt», »Kärnan», »Husmodern» o. »Hushålls-Växt».",
+        "contact": {
+            "telegraph": "Vegetabil. Hälsingborg",
+            "phone": [
+                "20520"
+            ],
+            "postgiro": "34321"
+        },
+        "financials": {
+            "capital": "450,000 kr.",
+            "foundation_year": 1929
+        },
+        "board": [
+            {
+                "name": "f. assessor Henry Ljunggren",
+                "role": "ordf."
+            },
+            {
+                "name": "ryttm. H. Burnett",
+                "role": "unknown"
+            },
+            {
+                "name": "disp. Gösta W. Svensson",
+                "role": "unknown"
+            }
+        ],
+        "director": "Gösta W. Svensson",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "4": {
+        "name": "Margarinfabriken Oma, E. Hjorth",
+        "location": "Osby",
+        "business": "Tillverkar margarin, cocosfett och matolja",
+        "contact": {
+            "phone": [
+                "242"
+            ],
+            "postgiro": "36700"
+        },
+        "financials": {
+            "annual_production_value": "300,000 kr.",
+            "employees": {
+                "unknown": 3
+            },
+            "foundation_year": 1930
+        },
+        "owners": [
+            "Ernst Hjorth"
+        ],
+        "director": "Ernst Hjorth",
+        "coordinates": {
+            "Latitude": 56.3815355,
+            "Longitude": 13.9929413
+        }
+    },
+    "5": {
+        "name": "Margarinfabriken Scania-Vega AB.",
+        "location": "Mjölby",
+        "business": "Tillverkar margarin",
+        "contact": {
+            "phone": [
+                "331",
+                "131"
+            ],
+            "postgiro": "86161"
+        },
+        "financials": {
+            "capital": "150,000 kr.",
+            "annual_production_value": "1,500,000 kr.",
+            "employees": {
+                "unknown": 20
+            },
+            "foundation_year": 1931
+        },
+        "director": "disp. A. Borup-Jörgensen",
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        }
+    }
+}

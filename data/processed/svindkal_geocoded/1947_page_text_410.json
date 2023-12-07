@@ -1,0 +1,243 @@
+{
+    "1": {
+        "name": "AB. Göran Jönsson & Co.",
+        "location": "Klippan",
+        "business": "Byggnadssnickerier, inredningar och möbler",
+        "products": "Tillverkar byggnadssnickerier, inredningar och möbler vid fabrik i Klippan (Kristianst. l.). Bolaget driver även trä-varur och möbelaffär.",
+        "contact": {
+            "telegraph": "Trägöran, Klippan",
+            "phone": [
+                "54",
+                "454"
+            ],
+            "postgiro": "97712"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_turnover": "235,000 kr",
+            "annual_production_value": "235,000 kr"
+        },
+        "foundation_year": 1897,
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "lantbr. Eric Meisner",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Malte Nytzén",
+                "role": "disp."
+            },
+            {
+                "name": "kamrer Carl Uddling",
+                "role": "kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.1348998,
+            "Longitude": 13.1290409
+        }
+    },
+    "2": {
+        "name": "AB. J. W. Jönsson",
+        "location": "Borås",
+        "business": "Herrkonfektionsfabrik",
+        "products": "Tillverkar överplagg, kostymer och byxor.",
+        "contact": {
+            "telegraph": "Jiwe, Borås",
+            "phone": [
+                "12589",
+                "13031"
+            ],
+            "postgiro": "88267"
+        },
+        "financials": {
+            "capital": "230,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "2,300,000 kr",
+            "annual_production_value": "2,300,000 kr"
+        },
+        "foundation_year": 1925,
+        "board": [
+            {
+                "name": "disp. Holger Fernlund",
+                "role": "disp."
+            },
+            {
+                "name": "fru J. Fernlund",
+                "role": "fru"
+            },
+            {
+                "name": "kamrer Erik Zachrisson",
+                "role": "kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "3": {
+        "name": "M. Jönsson & Son",
+        "location": "Eslöv",
+        "business": "Vagn- och snickerifabrik",
+        "products": "Tillverkar sportartiklar såsom bandy- och ishockeyklubbor, travsulky m. m. samt reservdelar till lantbruksmaskiner.",
+        "contact": {
+            "phone": "130",
+            "postgiro": "71584"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1919,
+        "owners": [
+            "fabr. Alb. Jönsson"
+        ],
+        "coordinates": {
+            "Latitude": 55.8391198,
+            "Longitude": 13.3033914
+        }
+    },
+    "4": {
+        "name": "P. Jönssons Skyffelfabrik AB.",
+        "location": "Hälsingborg",
+        "business": "Tillverkar spadar och skyfflar",
+        "products": "Specialitet: s. k. skånska skyfflar.",
+        "contact": {
+            "phone": "10346",
+            "postgiro": "30581"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1888,
+        "corporation_year": 1946,
+        "director": "Nils Göthe",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "5": {
+        "name": "Kabelfabriken Effekt",
+        "location": "Smalandsstenar",
+        "business": "Tillverkar spiralkablar",
+        "products": "Tillverkar spiralkablar för cykelbelysningar vid fabrik i Smålandsstenar (Jönköp. l.).",
+        "contact": {
+            "telegraph": "Kåkå, Smalandsstenar",
+            "phone": "166",
+            "postgiro": "162302"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 7
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1935,
+        "director": "fabr. Thure Bengtsson",
+        "coordinates": {
+            "Latitude": 57.1597167,
+            "Longitude": 13.403521
+        }
+    },
+    "6": {
+        "name": "Kaffe- & Kolonial AB.",
+        "location": "Malmö",
+        "business": "Marsipan- och syltfabrik",
+        "products": "Tillverkar bakmassor för konditorier och bagerier samt sylter, marmelad, safter m. m. Varumärke: »Kå Kå».",
+        "contact": {
+            "kontor": "Per Weijersg. 3",
+            "telegraph": "Kåkå, Malmö",
+            "phone": "70250",
+            "postgiro": "24597"
+        },
+        "financials": {
+            "capital": "275,000 kr",
+            "employees": {
+                "industriarb": 48
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "Fritz Möller",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Rudolf Möller",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "7": {
+        "name": "Kakelfabriks AB. i Karlskrona",
+        "location": "Karlskrona",
+        "business": "Tillverkar kakelugnar och spisar",
+        "products": "Tillverkar kakelugnar och spisar, spiskakel och beklädnadsplattor.",
+        "contact": {
+            "telegraph": "Kakelfabriken, Karlskrona",
+            "phone": "154",
+            "postgiro": "30277"
+        },
+        "financials": {
+            "capital": "441,500 kr",
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1884,
+        "board": [
+            {
+                "name": "v. konsul S. A. Liljevall",
+                "role": "v. konsul"
+            },
+            {
+                "name": "disp. Harald Lindström",
+                "role": "disp."
+            },
+            {
+                "name": "dr J. Swanlund",
+                "role": "dr."
+            }
+        ],
+        "director": "Harald Lindström",
+        "coordinates": {
+            "Latitude": 56.161224,
+            "Longitude": 15.5869
+        }
+    },
+    "8": {
+        "name": "Kalkbränneri- & Kalkstens AB.",
+        "location": "Stockholm",
+        "business": "Kalkbruk",
+        "products": "Tillverkar släckt och osläckt bränd kalk samt bryter rå kalksten.",
+        "contact": {
+            "phone": "272"
+        },
+        "foundation_year": null,
+        "board": [],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

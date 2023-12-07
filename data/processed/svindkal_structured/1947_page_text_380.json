@@ -1,0 +1,146 @@
+{
+    "1": {
+        "name": "Hälsingborgs Sidenindustri och Fabriken Konstblommor",
+        "location": "Hälsingborg",
+        "business": "Tillverkar konstgjorda blommor, frukter och bär samt dekorationer och julartiklar.",
+        "contact": {
+            "phone": [
+                "17139"
+            ],
+            "postgiro": "134571"
+        },
+        "financials": {
+            "capital": "Unknown",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "275,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1941,
+        "owners": [
+            "fabr. Gustav Wettin o. fru Agnes Wettin"
+        ]
+    },
+    "2": {
+        "name": "Hälsingborgs Spikfabriks AB.",
+        "location": "Hälsingborg",
+        "business": "Tillverkar trådspik och trådstift samt krampor.",
+        "contact": {
+            "phone": "Hälsingborg 96250",
+            "postgiro": "13950"
+        },
+        "financials": {
+            "capital": "108,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1886,
+        "corporation_year": 1905,
+        "board": [
+            {
+                "name": "Chr. Rasch",
+                "role": "disp."
+            },
+            {
+                "name": "C. G:son Follin",
+                "role": "major"
+            },
+            {
+                "name": "E. Rasch",
+                "role": "fru"
+            },
+            {
+                "name": "Henry Rasch",
+                "role": "verk-mäst."
+            },
+            {
+                "name": "Nils Rasch",
+                "role": "fabr."
+            }
+        ],
+        "director": "Chr. Rasch",
+        "managing_director": "Nils Rasch"
+    },
+    "3": {
+        "name": "Helsingborgs Varfs AB.",
+        "location": "Hälsingborg",
+        "business": "Skeppsvarv med mek. verkstad, gjuteri och snickerifabrik samt torrdockor.",
+        "contact": {
+            "phone": "Postgiro: 137114"
+        },
+        "financials": {
+            "capital": "977,200 kr",
+            "employees": {
+                "industriarb": 800
+            },
+            "annual_turnover": "8,000,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1866,
+        "corporation_year": 1871
+    },
+    "4": {
+        "name": "Helsingborgs Angqvarns AB.",
+        "location": "Hälsingborg",
+        "business": "Tillverkar mjöl av vete och råg samt kli.",
+        "contact": {
+            "phone": "10189",
+            "postgiro": "14488"
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "5,275,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1885
+    },
+    "5": {
+        "name": "AB. Helsingborgs Angtegelbruk",
+        "location": "Hälsingborg",
+        "business": "Tillverkar fasadtegel, syrafast tegel, skorstenstegel, olika slags klinker, trottoarplattor m. m.",
+        "contact": {
+            "phone": "10546"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_production_value": "30,000 ton tegelvaror"
+        },
+        "foundation_year": 1873,
+        "corporation_year": 1880
+    },
+    "6": {
+        "name": "Hälsinglands Linodlareförening u. p. a.",
+        "location": "Hybo",
+        "business": "Tillverkar lintåga och linblånor.",
+        "contact": {
+            "phone": "Ljusdal 3045",
+            "postgiro": "178185"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "750,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1941
+    },
+    "7": {
+        "name": "Hälsinglands Repslagerl, Verner Llndwall",
+        "location": "Jättendal",
+        "business": "Tillverkar häcklat lin och linkabelgarn, packningsgarn, nät- och sköttelnar, laxgarn, tågvirke, tömmar",
+        "contact": {
+            "phone": "Unknown"
+        }
+    }
+}

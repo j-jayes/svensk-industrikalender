@@ -1,0 +1,247 @@
+{
+    "1": {
+        "name": "Skandiakonserv—Skandinaviska Konservfabriker AB",
+        "location": "Stockholm",
+        "business": "Tillverkar fisk-och grönsakskonserver.",
+        "products": "Varumärken: »Skandia» o. »Gubben» m. fl.",
+        "contact": {
+            "office": "Stadsgården 6",
+            "phone": [
+                "437091",
+                "421620"
+            ],
+            "postgiro": "12155",
+            "telegraph": "Skandiakonserv, Stockholm",
+            "factory_office": "Lysekil och Ellös",
+            "factory_phone": "200"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "4,000,000 kr",
+            "annual_production_value": "4,000,000 kr"
+        },
+        "foundation_year": 1917,
+        "predecessor": "C. Hörman and C. Corneliusson",
+        "owners": "Kooperativa Förbundet",
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "fil. lic."
+            },
+            {
+                "name": "Hj. Deger-stedt",
+                "role": "dir."
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "dir."
+            },
+            {
+                "name": "G. Osvald",
+                "role": "dir."
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "dir."
+            }
+        ],
+        "director": "Sten Wehlin",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "Skandinavisk Pälsberederi & Färgeri AB",
+        "location": "Svenljunga",
+        "business": "Utför pälsskinnsberedning samt driver engroshandel med hudar.",
+        "contact": {
+            "telegraph": "Pälskalv, Svenljunga",
+            "phone": [
+                "1130",
+                "1155",
+                "1203"
+            ],
+            "postgiro": "400,000 kr"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 300
+            }
+        },
+        "foundation_year": 1936,
+        "original_name": "Stig Elmquists Läderfabrik",
+        "current_name_year": 1937,
+        "board": [
+            {
+                "name": "Stig Elmquist",
+                "role": "ing."
+            },
+            {
+                "name": "Torsten Elmquist",
+                "role": "civiling."
+            },
+            {
+                "name": "Sten Lindskog",
+                "role": "adv."
+            }
+        ],
+        "director": "Stig Elmquist",
+        "manager": "Stig Wallander",
+        "coordinates": {
+            "Latitude": 57.4955715,
+            "Longitude": 13.1146225
+        }
+    },
+    "3": {
+        "name": "Skandinaviska Aero AB",
+        "location": "Stockholm",
+        "business": "Tillverkar flygplansdetaljer samt utför översyner och reparationer av flygmaskiner.",
+        "contact": {
+            "office": "Mäster Samuelsgat. 18",
+            "phone": "235080",
+            "postgiro": "56467",
+            "sales_offices": [
+                {
+                    "location": "Norrtälje",
+                    "phone": "1052"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb": 35
+            }
+        },
+        "foundation_year": 1942,
+        "predecessor": "AB. Björkvallsflyg",
+        "corporation_year": 1944,
+        "director": "Mörten P. Hoogland",
+        "sales_manager": "Björn Törnblom",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Skandinaviska Bokb. & Kartongfabriken",
+        "location": "Stockholm",
+        "business": "Tillverkar kartonger.",
+        "contact": {
+            "office": "Grevtureg. 11",
+            "phone": "670675",
+            "postgiro": "50315"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "140,000 kr"
+        },
+        "foundation_year": 1901,
+        "corporation_year": 1919,
+        "owners": "Tryckeri AB. Svea",
+        "director": "Josef Holmquist",
+        "manager": "Ejnar Ohlsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "Skandinaviska Dun- & Fjäderfabriken AB",
+        "location": "Sundbyberg",
+        "business": "Dun- och fjäderrenseri samt sängklädersfabrik. Tillverkar kuddar, dun- och vaddtäcken, sovsäckar m. m.",
+        "contact": {
+            "telegraph": "Skandiadun, Stockholm",
+            "phone": [
+                "281765",
+                "281769",
+                "283656"
+            ],
+            "postgiro": "56621"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "Fritiof Ahlsell",
+                "role": "ing."
+            },
+            {
+                "name": "Tryggve Lewander",
+                "role": "ing."
+            },
+            {
+                "name": "Edmund Löchen",
+                "role": "ing."
+            },
+            {
+                "name": "Yngve Schartau",
+                "role": "adv."
+            }
+        ],
+        "director": "Adolf Wahrendorf",
+        "coordinates": {
+            "Latitude": 59.369325,
+            "Longitude": 17.9609133
+        }
+    },
+    "6": {
+        "name": "AB. Skandinaviska Elektricitetsverk",
+        "location": "Stockholm",
+        "business": "Äger elektricitetsverk och elektr. distributionsanläggningar.",
+        "contact": {
+            "office": "Klarabergsg. 21",
+            "phone": "233350",
+            "postgiro": "4002"
+        },
+        "financials": {
+            "capital": "8,000,000 kr"
+        },
+        "foundation_year": 1902,
+        "owners": "Allm. Svenska Elektriska AB., Västerås",
+        "board": [
+            {
+                "name": "Thorsten Ericson",
+                "role": "dir."
+            },
+            {
+                "name": "John Lindström",
+                "role": "dir."
+            }
+        ],
+        "director": "John Lindström",
+        "manager": "Torsten Staaf",
+        "kamrer": "Ivan Holmgren",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "Skandinaviska Eternit AB",
+        "location": "Lomma",
+        "business": "Tillverkar plattor för taktäcknings-och väggbeklädnadsändamål samt evakueringstrummor m. m.",
+        "products": "Tillverkar plattor för taktäcknings-och väggbeklädnadsändamål samt evakueringstrummor m. m.",
+        "coordinates": {
+            "Latitude": 55.6731375,
+            "Longitude": 13.0674055
+        }
+    }
+}

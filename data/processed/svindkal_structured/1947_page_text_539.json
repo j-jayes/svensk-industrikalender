@@ -1,0 +1,111 @@
+{
+    "1": {
+        "name": "AB. Nordpäls",
+        "location": "Gävle",
+        "business": "Tillverkar dampälsar, pälsmössor, baletter, caper m. m.",
+        "products": "Varumärke: »Nordpäls»",
+        "contact": {
+            "office": "Nordpäls, Gävle",
+            "phone": [
+                "4827",
+                "4829"
+            ],
+            "postgiro": "130907",
+            "telegraph": "Nordpäls, Gävle"
+        },
+        "financials": {
+            "capital": "56,000 kr",
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_production_value": "2,800,000 kr"
+        },
+        "foundation_year": 1937
+    },
+    "2": {
+        "name": "Nordstjernans Knäckebröd AB.",
+        "location": "Tannefors",
+        "business": "Knäckebrödsfabrik i Tannefors (Östergötl. l.). Tillverkar spis- och knäckebröd.",
+        "contact": {
+            "telegraph": "Nordstjernan, Linköping",
+            "phone": "Linköping 29390",
+            "postgiro": "11410"
+        },
+        "financials": {
+            "capital": "420,000 kr",
+            "employees": {
+                "industriarb": 102
+            },
+            "annual_production_value": "2,800,000 kr"
+        },
+        "foundation_year": 1906
+    },
+    "3": {
+        "name": "AB. Nordstjernans Mineralvatten-fabrik",
+        "location": "Stockholm",
+        "business": null,
+        "contact": {
+            "office": "Norra Stationsg. 69"
+        },
+        "financials": {
+            "capital": "2,300,000 kr"
+        },
+        "foundation_year": 1899
+    },
+    "4": {
+        "name": "AB. Hugo Nordström",
+        "location": "Lund",
+        "business": "Handskfabrik. Tillverkar alla slags handskar.",
+        "products": "Varumärken: »Nordren», »Nordlav» o. »Nord Suéde»",
+        "contact": {
+            "office": "Nordströms, Lund",
+            "phone": "10140",
+            "postgiro": "5057"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 155
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1876
+    },
+    "5": {
+        "name": "AB. Nordströms Carveri",
+        "location": "Lund",
+        "business": "Tillverkar renskinn och kromgarvade skinn för handskar.",
+        "products": "Varumärken: »Nord-ren», »Nordlav» o. »Nord Suéde»",
+        "contact": {
+            "office": "Nordströms, Lund",
+            "phone": "14420",
+            "postgiro": "176662"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1919
+    },
+    "6": {
+        "name": "AB. Nordströms Linbanor",
+        "location": "Stockholm",
+        "business": "Mek, verkstäder i Enköping. Tillverkar linbanor, hängbanor, kabelkranar, släp-skopor, skophissar, rem-, stålbands- och kättingtransportörer, elevatorer, glid- och rullbanor, transportsnäckor, matarappara-ter, lastnings- och lossningsapparater för fartyg, fackverksarbeten samt kontors-transportörer och rörpostanläggningar.",
+        "contact": {
+            "office": "Stockholm, Vasag. 16",
+            "phone": "235590",
+            "postgiro": "51789"
+        },
+        "financials": {
+            "capital": "360,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1891
+    }
+}

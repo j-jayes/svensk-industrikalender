@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "Bostads- & Industribyggnads AB",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads- och industribyggnader",
+        "contact": {
+            "office": "Biblioteksg. 3",
+            "phone": [
+                "109962"
+            ],
+            "postgiro": "56110",
+            "sales_offices": [
+                {
+                    "location": "Karlskrona",
+                    "phone": "2675—76"
+                },
+                {
+                    "location": "Hässleholm",
+                    "phone": "455"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "Karlskrona": 90,
+                "Hässleholm": 30
+            },
+            "annual_turnover": "3,300,000 kr",
+            "annual_production_value": "3,300,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "Wolter Gahn",
+                "role": "ordf."
+            },
+            {
+                "name": "Georg Lundgren",
+                "role": null
+            }
+        ],
+        "director": "Wolter Gahn",
+        "managing_director": "Wolter Gahn",
+        "owner": "Wolter Gahn",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "Boston Blacking Company AB",
+        "location": "Hälsingborg",
+        "business": "Kem. tekn. fabrik",
+        "contact": {
+            "telegraph": "Bostonco",
+            "phone": "Boston Blacking",
+            "postgiro": "5566"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1912,
+        "board": [
+            {
+                "name": "Ivan Atmer",
+                "role": "ordf."
+            },
+            {
+                "name": "K. A. A:son Bunke",
+                "role": "dir."
+            },
+            {
+                "name": "Arne Håkansson",
+                "role": "dir."
+            },
+            {
+                "name": "C. L. Schönmeyer",
+                "role": "adv."
+            },
+            {
+                "name": "A. W. Todd",
+                "role": "dir."
+            },
+            {
+                "name": "H. Webb Hyde",
+                "role": "dir."
+            }
+        ],
+        "managing_director": "K. A. A:son Bunke",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "3": {
+        "name": "Botolfsen & Co. Entreprenör AB",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bro- och industr i byggn ader",
+        "contact": {
+            "office": "V. Trädgårdsg. 19 B",
+            "telegraph": "Botolfsen",
+            "phone": "231280",
+            "postgiro": "155029"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": "1,750,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "Oscar Botolfsen",
+                "role": "ordf."
+            },
+            {
+                "name": "Lauritz S. Botolfsen",
+                "role": "dipl.-ing."
+            }
+        ],
+        "managing_director": "L. S. Botolfsen",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Boviks Konservfabriker",
+        "location": "Lysekil",
+        "business": "Tillverkar ansjovis och sillkonserver, kaviar, fiskbullar m.m. samt grönsakskonserver",
+        "contact": {
+            "telegraph": "Bovik",
+            "phone": [
+                "56",
+                "89",
+                "274"
+            ],
+            "postgiro": "30300"
+        },
+        "financials": {
+            "capital": "402,000 kr",
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1892,
+        "board": [
+            {
+                "name": "Alfr. T. Bovik",
+                "role": "ordf."
+            },
+            {
+                "name": "Erik G. Bovik",
+                "role": "kamrer"
+            }
+        ],
+        "managing_director": "Alfr. T. Bovik",
+        "coordinates": {
+            "Latitude": 58.27557299999999,
+            "Longitude": 11.435558
+        }
+    },
+    "5": {
+        "name": "Boxholms AB.",
+        "location": "Boxholm",
+        "business": "Järnverk med masugn, lancashiresmält smedja, martin- och valsverk, drageri, kallvalsverk, gjuteri och mek. verkstad, sågverk, hyvleri, snickeri- och trärörs-fabrik samt elektr. kraftstationer",
+        "contact": {
+            "telegraph": "Boxholmsbolaget",
+            "phone": [
+                "5",
+                "16",
+                "33",
+                "77"
+            ],
+            "postgiro": "29774"
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "employees": null,
+            "annual_turnover": "15,000,000 kr",
+            "annual_production_value": "15,000,000 kr"
+        },
+        "foundation_year": 1872,
+        "corporation_year": 1942,
+        "board": [
+            {
+                "name": "Carl Trygger",
+                "role": "ordf."
+            },
+            {
+                "name": "N. Arvid Ericsson",
+                "role": "disp."
+            },
+            {
+                "name": "Jonas Hult",
+                "role": "disp."
+            },
+            {
+                "name": "Hakon Leffler",
+                "role": "civiling."
+            },
+            {
+                "name": "Elis Wettergren",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.19709870000001,
+            "Longitude": 15.0537794
+        }
+    }
+}

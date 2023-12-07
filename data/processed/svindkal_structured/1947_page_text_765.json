@@ -1,0 +1,206 @@
+{
+    "1": {
+        "name": "Wiskans AB",
+        "location": "Viskan, Västernorrland",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror samt byggnadssnickerier.",
+        "contact": {
+            "office": "Viskan (Västernorrland)",
+            "phone": [
+                "Viskan 5",
+                "Viskan 55"
+            ],
+            "postgiro": "77393",
+            "telegraph": "Wiskansbolag, Sundsvall"
+        },
+        "financials": {
+            "capital": "330,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "850,000 kr",
+            "annual_production_value": "3,000 stds sågade, 2,000 stds hyvlade trävaror"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "Gust. Göranson",
+                "role": "ordf."
+            },
+            {
+                "name": "Sanfred Blomberg",
+                "role": "disp."
+            },
+            {
+                "name": "J. W. R. Lilliestråle",
+                "role": "dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. Vitin",
+        "location": "Stockholm",
+        "business": "Kem.-tekn. fabrik",
+        "products": "Tillverkar fettemulsion samt glassmassa.",
+        "contact": {
+            "office": "Katrinebergsv. 8—10",
+            "phone": [
+                "451934",
+                "451254"
+            ],
+            "postgiro": "54597"
+        },
+        "financials": {
+            "capital": "85,000 kr",
+            "employees": {
+                "industriarb": 10
+            }
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "August Kleine",
+                "role": "ordf."
+            },
+            {
+                "name": "Eduard Kleine",
+                "role": "försäljn.-chef"
+            },
+            {
+                "name": "Milena Kleine",
+                "role": "kontorschef"
+            },
+            {
+                "name": "Erik Öström",
+                "role": "ing."
+            }
+        ]
+    },
+    "3": {
+        "name": "M. L. Wittboldt",
+        "location": "Göteborg",
+        "business": "Sågverk och lådfabrik",
+        "products": "Tillverkar sågat virke, gruvvirke, lådor, spiror, slanor, m.m.",
+        "contact": {
+            "office": "Lilla Bommens torg 2",
+            "telegraph": "Wittboldt, Göteborg",
+            "phone": [
+                "135227",
+                "139977"
+            ],
+            "postgiro": "45473"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_production_value": "10,000 stds trävaror"
+        },
+        "board": [],
+        "director": "kapten D. Wittboldt"
+    },
+    "4": {
+        "name": "Vittinge Tegelbruks AB.",
+        "location": "Vittinge",
+        "business": "Tillverkar taktegel och dräneringsrör",
+        "contact": {
+            "office": "ösby, Vittinge",
+            "telegraph": "Vi11ingetegel, Vittinge",
+            "phone": "10",
+            "postgiro": "71855"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "3,50 milj. st. tegelvaror"
+        },
+        "board": [],
+        "director": "Karl Erik Wall"
+    },
+    "5": {
+        "name": "AB, Vitvaruindustri",
+        "location": "Borås",
+        "business": "Tillverkar klänningar, blusar, kjolar, pyjamas, m.m.",
+        "products": "Varumärken: »Abeve» o. »Korall»",
+        "contact": {
+            "phone": "»Abeve»",
+            "postgiro": "20613"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 240
+            }
+        },
+        "board": [
+            {
+                "name": "E. Hjalmar Johannesson",
+                "role": "ordf."
+            },
+            {
+                "name": "Åke Johannesson",
+                "role": "disp."
+            },
+            {
+                "name": "Eric Wall",
+                "role": "grossh."
+            }
+        ],
+        "director": "E. Hj. Johannesson"
+    },
+    "6": {
+        "name": "Wojidkow & Co. AB.",
+        "location": "Malmö",
+        "business": "Metallvarufabrik, metallgjuteri, m.m.",
+        "products": "Utför metallarbeten såsom fartygs- och järnvägsdetaljer, fönster och fönsterventiler, m.m.",
+        "contact": {
+            "phone": "Malmö 71475",
+            "postgiro": "24408"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "750,000 kr"
+        },
+        "board": [],
+        "director": "civiling. F. Peterzén"
+    },
+    "7": {
+        "name": "AB. Yolanit",
+        "location": "Kristinehamn",
+        "business": "Metallgjuteri",
+        "products": "Tillverkar lagerbrons, maskinbrons, rödgods, lättmetall och babbit.",
+        "contact": {
+            "phone": "11781",
+            "postgiro": "150715"
+        },
+        "financials": {
+            "capital": "47,500 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "450,000 kr"
+        },
+        "director": "ing. Erik Eriksson"
+    },
+    "8": {
+        "name": "O. J. Wollraths Snickerifabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar möbler, byggnadssnickerier och inredningar",
+        "contact": {
+            "office": "Styrmansg. 23",
+            "phone": "613663",
+            "postgiro": "52387"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            }
+        },
+        "director": "snickarmäst. Olof J. Wollrath"
+    }
+}

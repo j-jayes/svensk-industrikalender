@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "Allon Elf ströms Trlkåfabrik, AB",
+        "location": "Gävle",
+        "business": "Tillverkar trikåvaror i Lahmans, char-meuse oeh interlock samt kragskyddare.",
+        "products": "Specialitet: arbetstrikå. Varumärke: »Elfströms trikå».",
+        "contact": {
+            "office": "",
+            "phone": [
+                "5696"
+            ],
+            "postgiro": "278398",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1930,
+        "current_name_year": 1945
+    },
+    "2": {
+        "name": "Elfvings Skofabrik, AB",
+        "location": "Örnsköldsvik",
+        "business": "Tillverkar sportskodon och pjäxor, randsydda skodon samt arbets- och sporthandskar.",
+        "products": "Varumärke: »Elfvings».",
+        "contact": {
+            "office": "",
+            "phone": [
+                "2346",
+                "1286"
+            ],
+            "postgiro": "62777",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "213188"
+                }
+            ],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "50,300 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "350,000 kr",
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1904,
+        "corporation_year": 1935
+    },
+    "3": {
+        "name": "AB. Elga",
+        "location": "Stockholm",
+        "business": "Mek. verkstad. Tillverkar gasmätare och utför pressningsarbeten.",
+        "contact": {
+            "office": "Kronobergsg. 21",
+            "phone": [
+                "520365"
+            ],
+            "postgiro": "157987",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Nordgas, Stockholm",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1930,
+        "current_name_year": 1940
+    },
+    "4": {
+        "name": "AB. Elge-Verken (Linköpings Gjuteri & Mek. Verkstad)",
+        "location": "Linköping",
+        "business": "Mek. verkstad och gjuteri. Tillverkar centrifugal- och friktionskopplingar, friktionsremskivor, kabelmuffar, kabelskåp, kabelmassa, bil- och traktorkolvar, tack-järnsgjutgods m. m.",
+        "products": "Varumärken: »Elge» o. »St.artex».",
+        "contact": {
+            "office": "",
+            "phone": [
+                "20204",
+                "21454"
+            ],
+            "postgiro": "6065",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Elgeverken, Linköping",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "324,000 kr",
+            "employees": {
+                "industriarb": 49
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1878,
+        "corporation_year": 1909
+    },
+    "5": {
+        "name": "Elghammars Väveri",
+        "location": "Skillingaryd",
+        "business": "Tillverkar mattor och möbeltyger vid väveri i Skillingaryd (Jönköp. l.).",
+        "contact": {
+            "office": "",
+            "phone": [
+                "244",
+                "273"
+            ],
+            "postgiro": "",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "employees": {
+                "antal": 10
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1922,
+        "owners": [
+            "fabr. Gustaf Elgehammar"
+        ]
+    },
+    "6": {
+        "name": "Janne Elgqvist AB.",
+        "location": "Nybro",
+        "business": "Bleck var ufabrik. Tillverkar blankt och dekorerat emballage, ficklampsfodral och handlyktor samt massartiklar av bleckplåt.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "10",
+                "660"
+            ],
+            "postgiro": "20546",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "520335"
+                }
+            ],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "251,000 kr",
+            "employees": {
+                "antal": 85
+            }
+        },
+        "foundation_year": 1867,
+        "corporation_year": 1921
+    },
+    "7": {
+        "name": "And. Eliassons Läderindustri AB.",
+        "location": "Malung",
+        "business": "Tillverkar smor- och pjäxläder, boxsidor, kromsport- och »grönlandsläder», sandalläder, koläder m. m. vid garveri i Grönland, Malung (Kopparb. l.).",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "74909",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Eliassonslä-der, Malung",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "900,000 kr",
+            "employees": {
+                "antal": 85
+            }
+        },
+        "foundation_year": 1888,
+        "corporation_year": 1898
+    },
+    "8": {
+        "name": "Edv. Eliasson",
+        "location": "Bollebygd",
+        "business": "Madrass- och rullgardinsfabrik i Bollebygd (Älvsb. l.). Tillverkar rullgardiner av väv och papper, madrasser samt vil-stolar av markisväv. Firman driver även engroshandel med korgvaror, slöjd- och bosättningsartiklar.",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "1": {
+        "name": "Choklad fabriken—Christensen",
+        "location": "Hälsingborg",
+        "business": "Choklad och konfektyr",
+        "contact": {
+            "telegraph": "Corallichoklad, Hälsingborg",
+            "phone": [
+                "10985"
+            ],
+            "postgiro": "84300"
+        },
+        "financials": {
+            "capital": "136,800 kr",
+            "employees": {
+                "industriarb": 55
+            }
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "Conrad Brunk-vall",
+                "role": "försäljn.-chef"
+            },
+            {
+                "name": "Ragnar Clarkson",
+                "role": "dir."
+            },
+            {
+                "name": "Nils Loander",
+                "role": "kamrer"
+            },
+            {
+                "name": "Charles Strömblad",
+                "role": "dir."
+            }
+        ],
+        "director": "Ragnar Clarkson"
+    },
+    "2": {
+        "name": "Chokladfabriken Ellt",
+        "location": "Solna",
+        "business": "Blockchoklad och konfityrer",
+        "contact": {
+            "phone": [
+                "Stockholm 272620"
+            ],
+            "postgiro": "2863"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 22
+            }
+        },
+        "foundation_year": 1920,
+        "owners": [
+            "G. H. Westin"
+        ],
+        "director": "Gösta Westin"
+    },
+    "3": {
+        "name": "Chokladfabriken Coody",
+        "location": "Malmö"
+    },
+    "4": {
+        "name": "Chokladfabriken Kärnan",
+        "location": "Hälsingborg",
+        "business": "Se AB. Hälsingborgs Choklad- & Konfektfabrik Kärnan, Hälsingborg"
+    },
+    "5": {
+        "name": "AB. Chokladfabriken Marabou",
+        "location": "Sundbyberg",
+        "business": "Kakaopulver, choklad, marmelad, sylter samt bakpulver",
+        "contact": {
+            "telegraph": "Marabou, Sundbyberg",
+            "phone": [
+                "»Marabou», Stockholm"
+            ],
+            "postgiro": "6190"
+        },
+        "financials": {
+            "capital": "7,500,000 kr",
+            "employees": {
+                "industriarb": 610
+            }
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "Henning Throne-Holst",
+                "role": "disp. (ordf.)"
+            },
+            {
+                "name": "C. G. Juhlin Dannfelt",
+                "role": "dir."
+            },
+            {
+                "name": "Erik Pedersen",
+                "role": "dir."
+            }
+        ],
+        "director": "H. Throne-Holst",
+        "managing_director": "H. Throne-Holst",
+        "sales_manager": "L. Anderfelt"
+    },
+    "6": {
+        "name": "Chokladfabriken Silva AB.",
+        "location": "Stockholm",
+        "business": "Konfityrer",
+        "contact": {
+            "office": "Högbergsg. 59",
+            "phone": [
+                "426220",
+                "409495"
+            ],
+            "postgiro": "152137"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": 1943,
+        "director": "Åke Sil-vander"
+    },
+    "7": {
+        "name": "Chokladfabrtkén Standard",
+        "location": "Danderyd",
+        "business": "Choklad, konfekt, marmelad och karameller",
+        "contact": {
+            "phone": [
+                "553501",
+                "553502"
+            ],
+            "postgiro": "1984"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1920,
+        "owners": [
+            "Sten Stenberger",
+            "Gösta Stenberger"
+        ]
+    },
+    "8": {
+        "name": "AB. Choklad- & Konfektfabriken Freja",
+        "location": "Gävle",
+        "business": "Karameller, kola, konfekt, pastiller och tabletter",
+        "contact": {
+            "phone": [
+                "575"
+            ],
+            "postgiro": "72296"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1921,
+        "board": [
+            {
+                "name": "Svenoscar Fogelberg",
+                "role": "dir."
+            },
+            {
+                "name": "Einar Salomonson",
+                "role": "bankkassör"
+            }
+        ],
+        "director": "M. Salomonson"
+    }
+}

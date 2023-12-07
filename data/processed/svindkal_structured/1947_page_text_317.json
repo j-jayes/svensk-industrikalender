@@ -1,0 +1,218 @@
+{
+    "1": {
+        "name": "Gillberg—Gjuteri",
+        "location": "Stockholm",
+        "business": "Tillverkar rörskridskor och utför pressningsarbeten.",
+        "contact": {
+            "office": "Wollmar Yxkullsg. 34",
+            "phone": [
+                "411209"
+            ],
+            "postgiro": "155585"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "total": 15
+            },
+            "annual_turnover": "150,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1926,
+        "owners": [
+            "fabr. Georg Gillberg",
+            "fabr. Nils Thervin"
+        ]
+    },
+    "2": {
+        "name": "Cillbergs Etui- & Portföljfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar etuier för smycken, silvervaror, provkollektioner m. m., schatull för matsilver samt skyltställ för juvelerare.",
+        "contact": {
+            "office": "Hamng. 36",
+            "phone": [
+                "101314"
+            ],
+            "postgiro": "57844"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "total": 11
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1886,
+        "owners": [
+            "fabr. Carl Rydin"
+        ]
+    },
+    "3": {
+        "name": "AB. Ciltströms Mek. Verkstad",
+        "location": "Stockholm",
+        "business": "Tillverkar såsom specialitet självsmörjande glidlager. Varumärke: »Glissa».",
+        "contact": {
+            "office": "Tuleg. 15",
+            "phone": [
+                "320844"
+            ],
+            "postgiro": "159569"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "total": 20
+            },
+            "annual_turnover": "350,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1910,
+        "corporation_year": 1940,
+        "director": "fil. dr Josef Heuberger"
+    },
+    "4": {
+        "name": "Gimo AB.",
+        "location": "Gävle",
+        "business": "Tegelbruk, snickerifabrik och anläggning för impregnering av trä i Gimo (Uppsala l.) samt torvströfabrik i Valö (Stockholms l.). Tillverkningen drives av Korsnäs Sågverks AB.",
+        "contact": {
+            "head_office": "Gävle",
+            "phone": "Korsnäsverken",
+            "postgiro": "13001",
+            "sales_offices": [
+                {
+                    "location": "Gimo",
+                    "phone": null
+                }
+            ]
+        },
+        "financials": {
+            "capital": "11,000,000 kr",
+            "employees": {
+                "total": 65
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1893,
+        "board": [
+            {
+                "name": "kabinettskammarh. Robert v. Horn",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Sven Engwall",
+                "role": null
+            },
+            {
+                "name": "dir. Erik W. Eriksson",
+                "role": null
+            },
+            {
+                "name": "frih. Wilh. Klingspor",
+                "role": null
+            },
+            {
+                "name": "överfyring. Folke Lundeberg",
+                "role": null
+            },
+            {
+                "name": "överste Gunnar Salander",
+                "role": null
+            },
+            {
+                "name": "adv. Hueo Stenbeck",
+                "role": null
+            }
+        ],
+        "director": "Erik W. Eriksson"
+    },
+    "5": {
+        "name": "AB. Gimo Trikåindustri",
+        "location": "Gimo",
+        "business": "Tillverkar damunderkläder, sportblusar och -skjortor av charmeuse vid fabrik i Gimo (Uppsala l.).",
+        "contact": {
+            "phone": "33",
+            "postgiro": "32182"
+        },
+        "financials": {
+            "capital": "45,300 kr",
+            "employees": {
+                "total": 25
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1934,
+        "manager": "Tage Johansson"
+    },
+    "6": {
+        "name": "Gislaveds Mek. Verkstad",
+        "location": "Gislaved",
+        "business": "Mek. verkstad i Gislaved (Jönköp. l.). Tillverkar snabbsvarvar och exceriter-pressar samt maskiner för gummi v aru-industrien.",
+        "contact": {
+            "phone": "22"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "total": 15
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1885,
+        "owner": "fabr. Gunnar Malkner"
+    },
+    "7": {
+        "name": "Gislaveds Tråddrager i",
+        "location": "Gislaved",
+        "business": "Tråddrageri och spikfabrik i Gislaved (Jönköp. l.). Tillverkar blank, förkopp-rad, glödgad, förtent och galvaniserad, rätad och öglad järntråd, häfttråd, resår-bottentråd, taggtråd, trådspik och krampor.",
+        "contact": {
+            "phone": [
+                "22",
+                "464"
+            ],
+            "postgiro": "23383"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "total": 50
+            },
+            "annual_turnover": "1,200,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1907,
+        "owner": "fabr. Gunnar Malkner"
+    },
+    "8": {
+        "name": "Gjuteribolaget Berggren &amp; Olsson",
+        "location": "Falkenberg",
+        "business": "Tackjärnsgjuteri och mek. verkstad, Tillverkar tackjärns^ och metallgjutgods upp till 300 kg.",
+        "contact": {
+            "phone": "172",
+            "postgiro": "322902"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "total": 8
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1946,
+        "director": "gjutm. Carl Berggren"
+    },
+    "9": {
+        "name": "Gjuter! AB. Fundator",
+        "location": "Sundbyberg",
+        "business": "Pressgjnteri och presseri. Tillverkar pressgjutgods av aluminium-, zink- och magnesiumlegering samt mässing; utför pressade artiklar av bakelit, pollopas, thermopas m. m. samt pressgjutning av termoplastiska massor; detaljer för skilda industriella ändamål såsom sifferhjul, delar^ till gasbrännare, rakhyvlar, räknemaskiner, motorer, magnetapparater* dörrstängare, dörrtrycken, byggnadsbeslag, elektriska apparater, detaljer för ra~ dio- och grammofonindustriens behov^ slangar av syntetiskt gummi m. m.",
+        "contact": {
+            "telegraph": "Fundator, Stockholm",
+            "phone": "Stockholm 282700",
+            "postgiro": "2160"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "1": {
+        "name": "Stora—Strand",
+        "location": "österåker (Södermanl. l.)",
+        "business": "Bryter järnmalm och producerar järnmalmsslig oob kopparmalmsslig",
+        "contact": {
+            "office": "Hedemora",
+            "phone": [
+                "Hedemora 48",
+                "Hedemora 749",
+                "Olshyttan 50",
+                "Olshyttan 62"
+            ],
+            "telegraph": "Stora-långvik, Hedemora"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "foundation_year": 1877
+        },
+        "board": [
+            {
+                "name": "Algot Goldkuhl",
+                "role": "dir"
+            },
+            {
+                "name": "Bengt Schseffer",
+                "role": "bergsing"
+            },
+            {
+                "name": "Eric Lind",
+                "role": "Kamrer"
+            }
+        ]
+    },
+    "2": {
+        "name": "Stora Wörta Tegelbruk",
+        "location": "Nättrabyhamn",
+        "business": "Tillverkar mur-, fasad- och taktegel, högporöst och lättegel samt dräneringsrör vid tegelbruk i Nättraby (Blekinge L). Firman driver även jordbruk",
+        "contact": {
+            "phone": [
+                "Nättraby 1",
+                "Nättraby 211"
+            ],
+            "postgiro": "5476"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "2,3 milj. st. tegelvaror",
+            "foundation_year": 1862
+        },
+        "owners": [
+            "fröken Elin Mattelin"
+        ],
+        "director": "fabr. Eric Mattelin"
+    },
+    "3": {
+        "name": "Storebro Bruks AB.",
+        "location": "Storebro",
+        "business": "Mek. verkstad, gjuteri och motorfabrik i Storebro (Kalmar l.). Tillverkar gängskärnings- och snabbsvarvar, marina, stationära och transportabla råoljemotorer (»Samson», »Fix» o. »Eureka»), motor-vinschar, stenbearbetningsmaskiner samt värmepannor",
+        "contact": {
+            "phone": [
+                "3",
+                "4",
+                "8"
+            ],
+            "postgiro": "37469"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "1,000,000 kr",
+            "corporation_year": 1930
+        },
+        "board": [
+            {
+                "name": "Nils E. Carlson",
+                "role": "bankdir"
+            },
+            {
+                "name": "Georg Nyström",
+                "role": "kamrer"
+            },
+            {
+                "name": "Agda Svensson",
+                "role": "fru"
+            },
+            {
+                "name": "Karl-Erik Eriksson",
+                "role": "Disp."
+            }
+        ]
+    },
+    "4": {
+        "name": "AB. Storviks Tegelbruk",
+        "location": "Storvik",
+        "business": "Tegelbruk, sågverk och hyvleri i Storvik (Gävleb. l.). Tillverkar murtegel, dräneringsrör samt sågade och hyvlade trävaror",
+        "contact": {
+            "phone": [
+                "44"
+            ],
+            "postgiro": "72202"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "2 milj. st. tegelvaror, 200 stds trävaror",
+            "foundation_year": 1913
+        },
+        "board": [
+            {
+                "name": "Lars Carrick",
+                "role": "ing."
+            },
+            {
+                "name": "Richard Carrick",
+                "role": "ing."
+            },
+            {
+                "name": "Robert Carrick",
+                "role": "v. konsul"
+            }
+        ],
+        "director": "Richard Carrick"
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "1": {
+        "name": "Ilä ttvik—-Il örstrand",
+        "location": "Rättvik",
+        "business": "Ullspinneri och trikåfabrik samt kem. t vättanstalt",
+        "products": "Tillverkar filtar, raggsockor, toppmössor, vantar, herrtröjor, damjumpers m. m.; utför löngodsspinning och kem. tvätt",
+        "contact": {
+            "office": "Rättviks Textil, Rättvik",
+            "phone": [
+                "Rättviks Textil"
+            ],
+            "postgiro": "162778"
+        },
+        "financials": {
+            "capital": "95,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "525,000 kr",
+            "annual_production_value": "525,000 kr"
+        },
+        "foundation_year": 1928,
+        "director": "Karl J. Gustafsson",
+        "coordinates": {
+            "Latitude": 60.889025,
+            "Longitude": 15.123373
+        }
+    },
+    "2": {
+        "name": "AB. Röbo Tegelbruk",
+        "location": "Uppsala",
+        "business": "Tillverkar makadam och spar sten",
+        "contact": {
+            "office": "AB. Mälardalens Tegelbruk, Sthlm"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "145,000 kr",
+            "annual_production_value": "145,000 kr"
+        },
+        "corporation_year": 1935,
+        "director": "köpm. Thure Lundberg",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        }
+    },
+    "3": {
+        "name": "AB. Rönnarps Makadamfabrik",
+        "location": "Tågarp",
+        "business": "Kem.-tékn. fabrik",
+        "products": "Tillverkar bläck, tusch, stämpelfärger, radérvatten, klister, gummi, lim m. m.; taktak konservingsmedel, takfärger och träfärger",
+        "contact": {
+            "office": "Gjerlöffs, Hälsingborg",
+            "phone": "11954",
+            "postgiro": "10150"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "arb": 10
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "Einar Ekström",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.9256294,
+            "Longitude": 12.955556
+        }
+    },
+    "4": {
+        "name": "AB. Rönninge Handskfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar herr- och damhandskar",
+        "products": "Tillverkar herr- och damhandskar vid fabrik i Rönninge (Sthlms l.)",
+        "contact": {
+            "office": "Stockholm, Mästersamuelsg. 63",
+            "phone": "213918",
+            "postgiro": "156631"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "corporation_year": 1937
+        },
+        "manager": "Leon Lapidus",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "Rönnqvist &amp; Söner AB.",
+        "location": "Örebro",
+        "business": "Mek. verkstad, metallvarufabrik och modellsnickeri",
+        "products": "Tillverkar spec. skedar, gafflar och knivar i nysilver och i rostfritt material samt excenterpressar med 6—110 tons tryck och friktionsskruv-pressar from 30 upp till 500 tons tryck",
+        "contact": {
+            "office": "Rönnskärs Smältverk, Skelleftehamn",
+            "phone": "19175",
+            "postgiro": "90222"
+        },
+        "financials": {
+            "capital": "300,000",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "Paul Rönnqvist",
+                "role": "Disp."
+            },
+            {
+                "name": "John Cederblad",
+                "role": "Major"
+            },
+            {
+                "name": "Georg Nordberg",
+                "role": "Civiling."
+            }
+        ],
+        "director": "Paul Rönnqvist",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "6": {
+        "name": "Rörklammerfabriken, Arvid Lindtte",
+        "location": "Eksjö",
+        "business": "Tillverkar skruv- och stamklammer, inmurningsklammer, stiftklammer, klamsvep, rörkrok, skarvrör, golvluckor m. m.",
+        "contact": {
+            "office": "Arvid Lindhe",
+            "phone": "885",
+            "postgiro": "87775"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 7
+            },
+            "annual_turnover": "85,000 kr"
+        },
+        "foundation_year": 1931,
+        "manager": "Arvid Lindhe",
+        "coordinates": {
+            "Latitude": 57.6172,
+            "Longitude": 15.22155
+        }
+    },
+    "7": {
+        "name": "AB. Rörstrands Porslinsfabriker",
+        "location": "Lidköping",
+        "business": "Porslinsfabrik",
+        "products": "Tillverkar husgeråds- och prydnadsartiklar i fältspatäkta porslin och i flintporslin samt porslin för tekniska ändamål",
+        "contact": {
+            "office": "Lidköping",
+            "phone": "Rörstrand, Lidköping",
+            "postgiro": "8809"
+        },
+        "financials": {
+            "capital": "4,000,000 kr",
+            "annual_production_value": "7,000,000 kr"
+        },
+        "board": [
+            {
+                "name": "Ernst Wehtje",
+                "role": "Dir."
+            },
+            {
+                "name": "Gösta Grönberg",
+                "role": "Adv."
+            },
+            {
+                "name": "Kuno Möller",
+                "role": "Dir."
+            },
+            {
+                "name": "Carl O. A. Nyström",
+                "role": "Överstelöjtn."
+            },
+            {
+                "name": "Fredrik Wehtje",
+                "role": "Dir."
+            }
+        ],
+        "director": "Fredrik Wehtje",
+        "coordinates": {
+            "Latitude": 58.5035047,
+            "Longitude": 13.1570768
+        }
+    }
+}

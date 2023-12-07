@@ -1,0 +1,163 @@
+{
+    "1": {
+        "name": "Arvika Ullspinneri & Väfveri AB.",
+        "location": "Arvika",
+        "business": "Ullspinneri and väveri",
+        "products": "Ullgarner, ylletyger, filtar, plaids, sovsäckar, tält",
+        "contact": {
+            "office": "Arvika",
+            "phone": [
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "postgiro": "72430",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, L:a Ny g. 19",
+                    "phone": "203529"
+                }
+            ],
+            "telegraph": "Yllefab, Arvika"
+        },
+        "financials": {
+            "capital": "376,500 kr",
+            "employees": {
+                "industrial": 200
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "disp. Harald Wallin",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. K. Herman Nilsson",
+                "role": null
+            },
+            {
+                "name": "fru C.-M. Wallin-Nygren",
+                "role": null
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. Arvika-Verken",
+        "location": "Arvika",
+        "business": "Gjuteri and mek. verkstäder",
+        "products": "Lantbruksmaskiner",
+        "contact": {
+            "office": "Arvika",
+            "phone": "Arvikaverken",
+            "postgiro": "8484"
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industrial": 1000
+            }
+        },
+        "foundation_year": 1893,
+        "board": [
+            {
+                "name": "bankdir. Gustaf Söderlund",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Mauritz Carlson",
+                "role": null
+            },
+            {
+                "name": "greve Pontus De la Gardie",
+                "role": null
+            },
+            {
+                "name": "landstingsm. Ferdinand Fredgardh",
+                "role": null
+            },
+            {
+                "name": "dir. Carl Kihlgren",
+                "role": null
+            }
+        ]
+    },
+    "3": {
+        "name": "Asarums Classliperi & Spegelfabrik, E. Carlsson & Co.",
+        "location": "Karlshamn",
+        "business": "Tillverkar speglar samt glas för mobiler and inredningar",
+        "contact": {
+            "phone": "762",
+            "postgiro": "22476"
+        },
+        "financials": {
+            "employees": {
+                "industrial": 22
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1927
+    },
+    "4": {
+        "name": "Asea",
+        "location": "Västerås",
+        "description": "Se Allmänna Svenska Elektriska AB.y Västerås."
+    },
+    "5": {
+        "name": "AB. Asea Svetsmaskiner",
+        "location": "Stockholm",
+        "description": "Elektromek. verkstad vid N. Hammarby i Stockholm and elektrodfabrik i Västerås.",
+        "products": "Motståndssvetsmaskiner, svetsautomater, varmstukmaskiner and more",
+        "contact": {
+            "office": "Stockholm",
+            "phone": "Aseasvets",
+            "postgiro": "57066",
+            "sales_offices": [
+                {
+                    "location": "Malmö, Rejsrementsgr. 52",
+                    "phone": "1075079380"
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": "Asea"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industrial": 140
+            }
+        }
+    },
+    "6": {
+        "name": "Askersunds Bryggeri AB.",
+        "location": "Askersund",
+        "business": "Bryggeriet",
+        "products": "Malt, malt- and läskedrycker",
+        "contact": {
+            "phone": "8",
+            "postgiro": "93816"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industrial": 10
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1875
+    },
+    "7": {
+        "name": "AB. Askersunds Trikåfabrik",
+        "location": "Askersund",
+        "business": "Trikå- and syfabrik",
+        "products": "Bom-ulls-, konstsilke- and ylleunderkläder",
+        "contact": {
+            "phone": "69",
+            "postgiro": "10004"
+        },
+        "foundation_year": 1927
+    }
+}

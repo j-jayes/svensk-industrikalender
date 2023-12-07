@@ -1,0 +1,196 @@
+{
+    "1": {
+        "name": "Hårenfors—Hässleholm",
+        "location": "Karda",
+        "business": "Metallvarufabrik",
+        "products": "Tillverkar biltillbehör, spegelbeslag, leksaker m. m.",
+        "contact": {
+            "office": "Telefon: Värnamo 28035 o. 28031",
+            "phone": [
+                "Värnamo 28035",
+                "Värnamo 28031"
+            ],
+            "postgiro": "Postgiro: 94295"
+        },
+        "financials": {
+            "capital": "Akt.-kap.: 30,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "Tillv.-värde pr år: 300,000 kr"
+        },
+        "foundation_year": 1932,
+        "corporation_year": 1946,
+        "director": "Verkst. dir.: fabr. Gunnar Ilärenfors"
+    },
+    "2": {
+        "name": "AB. Härenfars Metallverk",
+        "location": "Karda",
+        "business": "Metallvarufabrik",
+        "products": "Tillverkar biltillbehör, spegelbeslag, leksaker m. m.",
+        "contact": {
+            "phone": "Telefon: 32",
+            "postgiro": "Postgiro: 133952"
+        },
+        "financials": {
+            "annual_production_value": "Tillv.-värde pr år: 120.000 kr"
+        },
+        "foundation_year": 1936,
+        "owner": "Ägare o. chef: fabr. Verner Lindwall"
+    },
+    "3": {
+        "name": "Härnö Bryggeri AB.",
+        "location": "Härnösand",
+        "business": "Bryggeri",
+        "contact": {
+            "phone": "Telefon: Härnöverken, Härnösand",
+            "postgiro": "Postgiro: 28848"
+        },
+        "financials": {
+            "capital": "Akt.-kap.: 600,000 kr",
+            "employees": {
+                "industriarb": 225
+            },
+            "annual_turnover": "Tillv.-värde pr år: 2,750,000 kr"
+        },
+        "corporation_year": 1890,
+        "board": [
+            {
+                "name": "bankdir. Hugo Huldt",
+                "role": "ordf."
+            },
+            {
+                "name": "konsul Herman Ramström",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. Nils Ramqvist"
+            }
+        ],
+        "manager": "Kamrer: Birger Larsson"
+    },
+    "4": {
+        "name": "Härryda Fabriks AB.",
+        "location": "Härryda",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar klädskåp och verktygsskåp av stål samt cykelgarage m. m.",
+        "contact": {
+            "phone": "Telefon: 11 o. 18",
+            "postgiro": "Postgiro: 81275"
+        },
+        "financials": {
+            "capital": "Akt.-kap.: 45,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "Tillv.-värde pr år: 350,000 kr"
+        },
+        "foundation_year": 1925,
+        "manager": "Styrelse o. verkst. dir.: ing. Martin Hallin"
+    },
+    "5": {
+        "name": "AB. Hässle, Apotekare Paul Nordströms Fabriker",
+        "location": "Hässleholm",
+        "business": "Kemisk-teknisk fabrik",
+        "products": "Tillverkar farmaceutiska preparat och konserveringsmedel",
+        "contact": {
+            "phone": "Telefon: »AB. Hässle»",
+            "postgiro": "Postgiro: 13663"
+        },
+        "financials": {
+            "capital": "Akt.-kap.: 450,000 kr",
+            "employees": {
+                "industriarb": 58
+            }
+        },
+        "foundation_year": 1942,
+        "board": [
+            {
+                "name": "apot. Paul Nordström",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Börje Gabrielsson"
+            },
+            {
+                "name": "dir. Gösta Lagergren"
+            },
+            {
+                "name": "dir. Tore Norlander"
+            }
+        ],
+        "manager": "Verkst. dir.: Tore Norlander"
+    },
+    "6": {
+        "name": "AB. Hässleholms Bryggeri & Maltfabrik",
+        "location": "Hässleholm",
+        "business": "Malt- och läskedrycker tillverkare",
+        "contact": {
+            "phone": "Telefon: 73 o. 310",
+            "postgiro": "Postgiro: 88850"
+        },
+        "financials": {
+            "capital": "Akt.-kap.: 450,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "Tillv.-värde pr år: 1,230,000 kr"
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "riksdagsm. Anton Björklund",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Hugo Aspegrén"
+            },
+            {
+                "name": "disp. Erik Ekström"
+            },
+            {
+                "name": "dir. Karl-Erik Löfwall"
+            },
+            {
+                "name": "v. konsul O. Löfwall"
+            }
+        ],
+        "manager": "Verkst. dir.: Erik Ekström"
+    },
+    "7": {
+        "name": "AB. Hässleholms Kapsylfabrik",
+        "location": "Hässleholm",
+        "business": "Tillverkar kapsyler av bly och tenn samt vattenflaskkapsyler av aluminium",
+        "contact": {
+            "phone": "Telefon: Hässleholm 73 o. 310",
+            "postgiro": "Postgiro: 88850"
+        },
+        "financials": {
+            "capital": "Akt.-kap.: 450,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "Tillv.-värde pr år: 1,230,000 kr"
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "riksdagsm. Anton Björklund",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Hugo Aspegrén"
+            },
+            {
+                "name": "disp. Erik Ekström"
+            },
+            {
+                "name": "dir. Karl-Erik Löfwall"
+            },
+            {
+                "name": "v. konsul O. Löfwall"
+            }
+        ],
+        "manager": "Verkst. dir.: Erik Ekström"
+    }
+}

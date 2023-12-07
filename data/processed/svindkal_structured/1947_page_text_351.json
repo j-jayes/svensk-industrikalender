@@ -1,0 +1,227 @@
+{
+    "1": {
+        "name": "Handelsbolaget Segerdahls Läderfabrik",
+        "location": "Linköping",
+        "business": "Tillverkning av ko- och plattläder, remläder samt ränder",
+        "products": "Tillverkar ko- och plattläder, remläder samt ränder",
+        "contact": {
+            "office": "Läderfabrik, Linköping",
+            "phone": [
+                "20095",
+                "22154"
+            ],
+            "postgiro": "71068"
+        },
+        "financials": {
+            "capital": "Okänt",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "675,000 kr",
+            "annual_production_value": "675,000 kr"
+        },
+        "foundation_year": 1892,
+        "owners": [
+            "ing. Sven Segerdahl",
+            "fabr. Sten Segerdahl",
+            "kamrer Gillis Segerdahl",
+            "fru Ann-Marie Skiöldebrand"
+        ],
+        "director": "Sten Segerdahl"
+    },
+    "2": {
+        "name": "Handöls Nya Täljstens och Vattenkrafts AB.",
+        "location": "Stockholm",
+        "business": "Täljstensbrott, stenförädling och talk-verk",
+        "products": "Tillverkar kaminer och spisar av täljsten, tegel för sulfatfabriker, täljstensgryn och -mjöl (talk) m. m.",
+        "contact": {
+            "office": "Stockholm, Malmtorgsg. 6",
+            "phone": "232100",
+            "postgiro": "2815",
+            "sales_offices": [
+                {
+                    "location": "Handöl",
+                    "phone": "Okänt"
+                },
+                {
+                    "location": "Enafors",
+                    "phone": "Okänt"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "399,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1911,
+        "owners": [
+            "Höganäs-Billesholms AB"
+        ],
+        "board": [
+            {
+                "name": "P. Eg. Gummeson",
+                "role": "ordf."
+            },
+            {
+                "name": "Edvin V. Olsson",
+                "role": "övering."
+            },
+            {
+                "name": "M. Schwartz",
+                "role": "Okänt"
+            }
+        ],
+        "director": "P. Eg. Gummeson",
+        "manager": "Okänt"
+    },
+    "3": {
+        "name": "Hansson &amp; Pehrsson AB.",
+        "location": "Malmö",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar kassaskåp, vågar, skepps- och byggnadssmiden; utför svarvningsarbeten samt reparationer av tryckerimaskiner",
+        "contact": {
+            "office": "Jöns Filsg. 3—5",
+            "phone": "24177",
+            "postgiro": "147612"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1917,
+        "director": "Gunnar Persgård"
+    },
+    "4": {
+        "name": "AB. Alfr. Hanssons Skofabrik",
+        "location": "Bjursås",
+        "business": "Tillverkning av pjäxor, arbets- och sportskodon samt randsydda herrskodon",
+        "products": "Tillverkar pjäxor, arbets- och sportskodon samt randsydda herrskodon vid fabrik i Bjursås (Kopparb. l.)",
+        "contact": {
+            "phone": "23",
+            "postgiro": "24801"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "950,000 kr"
+        },
+        "foundation_year": 1943,
+        "owners": [
+            "fabr. Alfr. Hansson",
+            "fabr. Bengt Hanson",
+            "fabr. Ernst Hanson"
+        ],
+        "director": "Alfr. Hansson"
+    },
+    "5": {
+        "name": "Aug. Hanssons Cjuteri",
+        "location": "Halmstad",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar pumpar, ventiler, rördelar, sanitetsgods, handelsgjutgods m. m.",
+        "contact": {
+            "telegraph": "Järnbolaget, Halmstad",
+            "phone": [
+                "410",
+                "914",
+                "1924"
+            ],
+            "postgiro": "9518"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "owners": [
+            "Halmstads Järnvaru AB"
+        ],
+        "board": [
+            {
+                "name": "disp. Allan Boo",
+                "role": "disp."
+            },
+            {
+                "name": "överstelöjtn. Evert Cavalli",
+                "role": "Okänt"
+            },
+            {
+                "name": "konsul Folke-Uno Folkow",
+                "role": "Okänt"
+            },
+            {
+                "name": "dir. Birger Hultman",
+                "role": "Okänt"
+            },
+            {
+                "name": "disp. Mauritz Persson",
+                "role": "Okänt"
+            },
+            {
+                "name": "löjtn. Lars Ågren",
+                "role": "Okänt"
+            }
+        ],
+        "director": "Folke-Uno Folkow",
+        "factory_office": "Okänt",
+        "factory_phone": "Okänt"
+    },
+    "6": {
+        "name": "AB. E. Hansson &amp; C:o.",
+        "location": "Malmö",
+        "business": "Metallvarufabrik",
+        "products": "Tillverkar elektr. belysningsarmatur, elektr, reklamskyltar samt vattenarmatur",
+        "contact": {
+            "office": "Industrig. 14—18",
+            "phone": [
+                "27448",
+                "21488"
+            ],
+            "postgiro": "37629"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 35
+            }
+        },
+        "foundation_year": 1921,
+        "director": "Erik Hansson"
+    },
+    "7": {
+        "name": "Nore L. Hansson, Hatt &amp; Mössfabrik",
+        "location": "Södertälje",
+        "business": "Tillverkning av dam- och barnhattar samt mössor",
+        "products": "Tillverkar dam- och barnhattar samt mössor",
+        "contact": {
+            "telegraph": "Norel, Södertälje",
+            "phone": "31824",
+            "postgiro": "30313"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "director": "körsnär Nore L. Hansson"
+    },
+    "8": {
+        "name": "Sven Hansson &amp; Co. AB",
+        "location": "Stockholm",
+        "business": "Påsfabrik och pappersindustri",
+        "products": "Tillverkar påsar, toalettpapper, konvolut, bärkassar, konfektionsväskor samt blocknotes",
+        "contact": {
+            "office": "Hudiksvallsg. 4—6",
+            "phone": "23049Ö"
+        }
+    }
+}

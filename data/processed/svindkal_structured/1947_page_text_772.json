@@ -1,0 +1,214 @@
+{
+    "1": {
+        "name": "Västervik—Västkusten",
+        "location": "Västervik",
+        "business": "Papp och kartong tillverkning",
+        "products": "12 000 ton papp och kartong",
+        "contact": {
+            "office": "Fabriken anlagd 1915, nuv. bolag grundat 1923.",
+            "postgiro": "Not provided"
+        },
+        "financials": {
+            "capital": "200 000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "adv. Gunnar Lewerth",
+                "role": "ordf."
+            },
+            {
+                "name": "tandl. E. Rune",
+                "role": "Not provided"
+            },
+            {
+                "name": "disp. E. V. Ulfsäter",
+                "role": "Not provided"
+            }
+        ],
+        "director": "E. V. Ulfsäter",
+        "manager": "V. Lönnberg"
+    },
+    "2": {
+        "name": "Westerås Bryggeri AB. (Gamla Bryggeriet)",
+        "location": "Västerås",
+        "business": "Dryckestillverkning",
+        "products": "Maltdrycker, läskedrycker, mineralvatten",
+        "contact": {
+            "office": "Not provided",
+            "phone": [
+                "30003",
+                "30070",
+                "30757"
+            ],
+            "postgiro": "93100"
+        },
+        "financials": {
+            "capital": "270 000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "1 200 000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1892,
+        "board": [
+            {
+                "name": "adv. F. Hydbom",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Curt R. Widén",
+                "role": "Not provided"
+            },
+            {
+                "name": "dir. Joel Widén",
+                "role": "Not provided"
+            }
+        ],
+        "director": "Joel Widén",
+        "managing_director": "Curt R. Widén",
+        "sales_manager": "Not provided"
+    },
+    "3": {
+        "name": "AB. Westeråsmaskiner",
+        "location": "Morgongåva",
+        "business": "Mekanisk verkstad, gjuteri och sågverk",
+        "products": "Slåttermaskiner, hästräfsor, tröskverk, trävaror m.m.",
+        "contact": {
+            "office": "Not provided",
+            "phone": "1",
+            "postgiro": "74898"
+        },
+        "financials": {
+            "capital": "2 000 000 kr",
+            "employees": {
+                "industriarb": 450
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1908,
+        "board": [
+            {
+                "name": "adv. Clas Östberg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Th. E. Berg",
+                "role": "Not provided"
+            },
+            {
+                "name": "dir. Erik O. G. Bolinder",
+                "role": "bankdir. Ernst Åberg"
+            }
+        ],
+        "director": "Erik O. G. Bolinder",
+        "manager": "E. Hedqvist"
+    },
+    "4": {
+        "name": "Västerås Strå- & Filthattfabrik AB.",
+        "location": "Västerås",
+        "business": "Tillverkning av damhattar",
+        "products": "Damhattar",
+        "contact": {
+            "office": "Not provided",
+            "phone": [
+                "31958",
+                "30598"
+            ],
+            "postgiro": "22833"
+        },
+        "financials": {
+            "capital": "300 000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "1 200 000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "avd.-chef E. Fridlund",
+                "role": "Not provided"
+            },
+            {
+                "name": "kamrer G. Kruhsberg",
+                "role": "Not provided"
+            },
+            {
+                "name": "avd.-chef G. Norstedt",
+                "role": "Not provided"
+            }
+        ]
+    },
+    "5": {
+        "name": "AB. Wästgöta Konstsilke",
+        "location": "Stenstorp",
+        "business": "Tillverkning av herr- och damunderkläder",
+        "products": "Herr- och damunderkläder i charmeuse",
+        "contact": {
+            "director": "Erik Svensson"
+        },
+        "financials": {
+            "capital": "57 000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "400 000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1938
+    },
+    "6": {
+        "name": "AB. Västgöta Täckfabrik",
+        "location": "Herrljunga",
+        "business": "Tillverkning av vadd, sticktäcken och madrasser",
+        "products": "Vadd, sticktäcken, madrasser",
+        "contact": {
+            "office": "Not provided",
+            "phone": "154",
+            "postgiro": "25090"
+        },
+        "financials": {
+            "capital": "30 000 kr",
+            "employees": {
+                "industriarb": 6
+            },
+            "annual_turnover": "200 000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1939,
+        "director": "fabr. Per Enger"
+    },
+    "7": {
+        "name": "AB. Vestkustens Olje- & Guano-fabrik",
+        "location": "Lysekil",
+        "business": "Tillverkning av sillolja och sillmjöl",
+        "products": "Sillolja, sillmjöl",
+        "contact": {
+            "office": "Not provided",
+            "phone": [
+                "Lysekil 8",
+                "430"
+            ],
+            "postgiro": "34528"
+        },
+        "financials": {
+            "capital": "50 000 kr",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1938,
+        "director": "Walter Börjesson"
+    }
+}

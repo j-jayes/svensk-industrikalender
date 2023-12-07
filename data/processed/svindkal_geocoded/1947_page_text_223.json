@@ -1,0 +1,247 @@
+{
+    "1": {
+        "name": "Byggnads AB",
+        "location": "Visby",
+        "business": "Entreprenadfirma för bostads- och fabriksbyggnader, tunnel- och bergrums-anläggningar",
+        "contact": {
+            "phone": [
+                "1491",
+                "2031",
+                "2491"
+            ],
+            "postgiro": "189911"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1933,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "C.-E. Degerman",
+                "role": "ordf."
+            },
+            {
+                "name": "Bror Eriksson",
+                "role": "ing."
+            },
+            {
+                "name": "Arthur L. Persson",
+                "role": "byggm."
+            }
+        ],
+        "director": "Bror Eriksson",
+        "sales_manager": "Arthur L. Persson",
+        "coordinates": {
+            "Latitude": 57.6348,
+            "Longitude": 18.29484
+        }
+    },
+    "2": {
+        "name": "Byggnads AB",
+        "location": "Sundsvall",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader samt för väg- och vattenbyggnadsarbeten",
+        "contact": {
+            "phone": "Efallström & Nisses",
+            "postgiro": "82009"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "annual_turnover": "12,000,000 kr",
+            "annual_production_value": "12,000,000 kr"
+        },
+        "foundation_year": 1929,
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "G. Veländer",
+                "role": "rådman"
+            },
+            {
+                "name": "Per Hallström",
+                "role": "major"
+            },
+            {
+                "name": "Anders Nisses",
+                "role": "byggnadsing."
+            }
+        ],
+        "director": "Anders Nisses",
+        "sales_manager": "Per Hallström",
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        }
+    },
+    "3": {
+        "name": "Byggnads AB",
+        "location": "Göteborg",
+        "original_name": "Ernst Järnfelt",
+        "description": "Se Ernst Järnfelt, Byggnads AB., Göteborg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "Byggnads AB",
+        "location": "Gävle",
+        "description": "Konstruerar och utför fabriksbyggnader, vattenverksbyggnader, bro- och kaj-byggnader, grundläggningar m. m.",
+        "contact": {
+            "telegraph": "Konstruktör, Gävle",
+            "phone": "8100",
+            "postgiro": "263488"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "annual_production_value": "5,800,000 kr"
+        },
+        "foundation_year": 1914,
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "5": {
+        "name": "Byggnads AB",
+        "location": "Hörby",
+        "business": "Byggnadsentreprenörfirma i Hörby (Malmöh. l.) för industri- och bostadsbyggnader, väg- och brobyggnader, maskingrävning, vatten- och avloppsledningar, cementgjuteri och snickerifabrik",
+        "contact": {
+            "phone": "Liljenbergs",
+            "postgiro": "163599"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1890,
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "Viktor Liljenberg",
+                "role": "byggm."
+            },
+            {
+                "name": "Gunnar Liljenberg",
+                "role": "ing."
+            }
+        ],
+        "director": "Viktor Liljenberg",
+        "sales_manager": "Gunnar Liljenberg",
+        "coordinates": {
+            "Latitude": 55.851716,
+            "Longitude": 13.6619255
+        }
+    },
+    "6": {
+        "name": "Byggnads AB",
+        "location": "Linköping",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "phone": [
+                "21077",
+                "20477"
+            ],
+            "postgiro": "82382"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "Helge Netz",
+                "role": "ing."
+            },
+            {
+                "name": "David Billeson",
+                "role": "kamrer"
+            },
+            {
+                "name": "Olow Nétz",
+                "role": "arkitekt"
+            }
+        ],
+        "director": "Helge Netz",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    },
+    "7": {
+        "name": "Byggnads AB",
+        "location": "Borås",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m, m.",
+        "contact": {
+            "phone": "10077",
+            "postgiro": "133962"
+        },
+        "financials": {
+            "capital": "165,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1899,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "Oscar Ohlson",
+                "role": "ing."
+            },
+            {
+                "name": "Knut Evers",
+                "role": "v. konsul"
+            },
+            {
+                "name": "Nils M. Friden",
+                "role": "disp."
+            }
+        ],
+        "director": "Oscar Ohlson",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "8": {
+        "name": "Byggnads AB",
+        "location": "Linköping",
+        "business": "Byggnadsentreprenörfirma för husbyggnader, industribyggnader, bro- och vattenbyggnader",
+        "contact": {
+            "telegraph": "Sveabetong, Linköping",
+            "phone": [
+                "24798",
+                "27398"
+            ],
+            "postgiro": "130402"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "annual_production_value": "1,190,000 kr"
+        },
+        "foundation_year": 1926,
+        "current_name_year": 1936,
+        "board": [
+            {
+                "name": "David Hesser",
+                "role": "kapten"
+            },
+            {
+                "name": "Alexius Kleist",
+                "role": "dir."
+            },
+            {
+                "name": "Olof Sahlin",
+                "role": "dir."
+            }
+        ],
+        "director": "David Hesser",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    }
+}

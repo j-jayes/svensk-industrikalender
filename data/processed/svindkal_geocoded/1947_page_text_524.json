@@ -1,0 +1,253 @@
+{
+    "1": {
+        "name": "Möbelfabriken Göta AB.",
+        "location": "Värnamo",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "telegraph": "Göta, Värnamo",
+            "phone": [
+                "10125"
+            ],
+            "postgiro": "30229"
+        },
+        "financials": {
+            "capital": "65,000 kr",
+            "employees": {
+                "industriarb": 39
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "fabr. Frans Johansson",
+                "role": "fabrikör"
+            },
+            {
+                "name": "fabr. Johan Lindh",
+                "role": "fabrikör"
+            },
+            {
+                "name": "fabr. Helmer Lindh",
+                "role": "fabrikör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        }
+    },
+    "2": {
+        "name": "AB. Möbelfabriken Haga",
+        "location": "Värnamo",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "10312"
+            ],
+            "postgiro": "73549"
+        },
+        "financials": {
+            "capital": "74,500 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1920,
+        "director": "Frans Haglund",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        }
+    },
+    "3": {
+        "name": "Möbelfabriken Kåge, K. C. Kårbeck",
+        "location": "Mjölby",
+        "business": "Tillverkar möbler i garnityr samt kompletteringsmöbler",
+        "contact": {
+            "phone": [
+                "444"
+            ]
+        },
+        "employees": {
+            "industriarb": 16
+        },
+        "foundation_year": 1914,
+        "current_name_year": 1946,
+        "owners": [
+            "ing. Karl-Gustav Kårbeck"
+        ],
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        }
+    },
+    "4": {
+        "name": "Möbelfabriken Standard, Eriksson & Co.",
+        "location": "Norrköping",
+        "business": "Tillverkar möbler och butiksinredningar",
+        "contact": {
+            "phone": [
+                "25929"
+            ],
+            "postgiro": "161428"
+        },
+        "employees": {
+            "industriarb": 2
+        },
+        "foundation_year": 1929,
+        "owners": [
+            "fabr. Axel Eriksson",
+            "fabr. Gunnar Jonsson",
+            "fabr. Hugo Pettersson"
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "5": {
+        "name": "Möbelfabriken Svea, Eric Tonebrand",
+        "location": "Sävsjö (Jönköp. l.)",
+        "business": "Tillverkar matsals- och kontorsmöbler samt affärsinredningar",
+        "contact": {
+            "phone": [
+                "14"
+            ],
+            "postgiro": "75446"
+        },
+        "employees": {
+            "industriarb": 25
+        },
+        "foundation_year": 1927,
+        "owners": [
+            "fabr. Eric Tonebrand"
+        ],
+        "coordinates": {
+            "Latitude": 57.39899579999999,
+            "Longitude": 14.6658136
+        }
+    },
+    "6": {
+        "name": "Möbelfabriken Thule",
+        "location": "Kungsör (Västmanl. 1.)",
+        "business": "Tillverkar kontorsmöbler och inredningar",
+        "contact": {
+            "phone": [
+                "140"
+            ],
+            "postgiro": "72478"
+        },
+        "employees": {
+            "industriarb": 20
+        },
+        "foundation_year": 1928,
+        "owners": [
+            "fabr. Axel Larson"
+        ],
+        "coordinates": {
+            "Latitude": 59.422397,
+            "Longitude": 16.097786
+        }
+    },
+    "7": {
+        "name": "AB. Möbelfabriken Varia",
+        "location": "Flen (Södermanl. l.)",
+        "business": "Möbelfabrik och sågverk. Tillverkar möbler samt kontorsmöbler och inredningar",
+        "contact": {
+            "phone": [
+                "52",
+                "418"
+            ],
+            "postgiro": "23738"
+        },
+        "financials": {
+            "capital": "75,500 kr",
+            "employees": {
+                "industriarb": 74
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "corporation_year": 1922,
+        "board": [
+            {
+                "name": "godsäg. Ernst Karlsson",
+                "role": "ordförande"
+            },
+            {
+                "name": "handl. Gust. Andersson",
+                "role": "styrelseledamot"
+            },
+            {
+                "name": "disp. Nils Eriksson",
+                "role": "styrelseledamot"
+            },
+            {
+                "name": "disp. David Lengquist",
+                "role": "styrelseledamot"
+            },
+            {
+                "name": "C. O. Carlheim",
+                "role": "kassör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.0579376,
+            "Longitude": 16.5879122
+        }
+    },
+    "8": {
+        "name": "Möbelfabriks AB. Vega",
+        "location": "Vaggeryd (Jönköp. l.)",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "56",
+                "123"
+            ],
+            "postgiro": "74795"
+        },
+        "financials": {
+            "capital": "44,200 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "herr Svante Svensson",
+                "role": "styrelseledamot"
+            },
+            {
+                "name": "herr John Winblad",
+                "role": "styrelseledamot"
+            },
+            {
+                "name": "disp. Waldemar Åkerblad",
+                "role": "styrelseledamot"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.4989621,
+            "Longitude": 14.1486297
+        }
+    },
+    "9": {
+        "name": "Möbelfirman G. Åberg",
+        "location": "Malmbäck (Jönköp» l.)",
+        "business": "Tillverkar fåtöljer och kompletterings-möbler",
+        "contact": {
+            "phone": [
+                "Malmbäck"
+            ]
+        },
+        "coordinates": {
+            "Latitude": 57.5781694,
+            "Longitude": 14.4641901
+        }
+    }
+}

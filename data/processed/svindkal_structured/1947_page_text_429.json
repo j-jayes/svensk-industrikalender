@@ -1,0 +1,161 @@
+{
+    "1": {
+        "name": "Klichéanstalten—Klippan",
+        "location": "Klippan",
+        "business": "Klichéer, retuscher och teckningar",
+        "contact": {
+            "office": "Odinsg. 2",
+            "phone": [
+                "152262",
+                "63"
+            ],
+            "postgiro": "40475"
+        },
+        "financials": {
+            "capital": "18,000 kr",
+            "employees": {
+                "total": 15
+            },
+            "annual_turnover": "230,000 kr"
+        },
+        "foundation_year": 1921,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "fabr. Gustav Ahlstedt",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "fabr. Axel Johanson",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "fabr. Einar Ohlson",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Axel Johanson"
+    },
+    "2": {
+        "name": "AB. Klichéanstalten Petit",
+        "location": "Göteborg",
+        "business": "Klichéer, retuscher och teckningar",
+        "contact": {
+            "office": "Unknown",
+            "phone": [
+                "152262",
+                "63"
+            ],
+            "postgiro": "40475"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "total": 24
+            },
+            "annual_turnover": "295,000 kr"
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "John Andersson",
+                "role": "Verkst. dir."
+            }
+        ]
+    },
+    "3": {
+        "name": "Klichécentralen",
+        "location": "Stockholm",
+        "business": "Klichéer och retuscher",
+        "contact": {
+            "office": "Kl. S. Kyrkog. 11",
+            "phone": [
+                "102480",
+                "118757"
+            ],
+            "postgiro": "54858"
+        },
+        "financials": {
+            "employees": {
+                "total": 25
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1921,
+        "owner": "fabr. Erik Olauson"
+    },
+    "4": {
+        "name": "Klint, Bernhardt & Co. AB.",
+        "location": "Stockholm",
+        "business": "Färg- och fernissfabrik",
+        "contact": {
+            "office": "Saltmätarg. 19 A",
+            "postgiro": "33"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "total": 94
+            },
+            "annual_turnover": "5,000,000 kr"
+        },
+        "foundation_year": 1873,
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "dir. John A. Klint",
+                "role": "Styrelseordförande"
+            },
+            {
+                "name": "adv. Adolf Körner",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "dir. Gunnar Malmvik",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "managing_director": "John A. Klint",
+        "factory_managers": [
+            "ing. B. Heijmer",
+            "tekn. lic. Ivar Huss"
+        ]
+    },
+    "5": {
+        "name": "AB. Klintebys Konservfabrik",
+        "location": "Klintehamn",
+        "business": "Konservfabrik",
+        "contact": {
+            "phone": "Klintehamn 25",
+            "postgiro": "80849"
+        },
+        "financials": {
+            "capital": "78,200 kr",
+            "employees": {
+                "total": 54
+            },
+            "annual_turnover": "1,300,000 kr"
+        },
+        "foundation_year": 1915,
+        "corporation_year": 1932,
+        "director": "Melcher Paulsson",
+        "finance_manager": "E. F. Allard"
+    },
+    "6": {
+        "name": "AB. Klippans Finpappersbruk",
+        "location": "Klippan",
+        "business": "Pappersbruk, kartongfabrik och pappersförädling",
+        "contact": {
+            "office": "Unknown",
+            "postgiro": "80041"
+        },
+        "financials": {
+            "capital": "7,000,000 kr",
+            "employees": {
+                "total": 625
+            },
+            "annual_production_value": "6,500 ton papper o. kartong"
+        },
+        "foundation_year": 1573
+    }
+}

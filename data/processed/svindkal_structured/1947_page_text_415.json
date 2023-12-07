@@ -1,0 +1,107 @@
+{
+    "1": {
+        "name": "Karlshamns Bryggeri AB.",
+        "location": "Karlshamn",
+        "business": "Bryggeri",
+        "products": "Tillverkar arbetskläder och sportkläder. Varumärke: »KBK».",
+        "contact": {
+            "phone": [
+                "585"
+            ],
+            "postgiro": "75524"
+        },
+        "financials": {
+            "capital": "85,500 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1931,
+        "current_name_year": 1939,
+        "director": "köpm. Eskil Westlund"
+    },
+    "2": {
+        "name": "AB. Karlshamns Oljefabriker",
+        "location": "Norrköping",
+        "business": "Tillverkar vegetabiliska oljor och kraftfoder",
+        "products": "Tillverkar vegetabiliska oljor och kraftfoder vid fabrik i Karlshamn. Varumärke: »AKO».",
+        "contact": {
+            "office": "Huvudkontor: Norrköping",
+            "phone": [
+                "29465"
+            ],
+            "postgiro": "152822",
+            "head_office": "Karlshamn"
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industriarb": 350
+            },
+            "annual_turnover": "104,000,000 kr"
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "dir. Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "konsul S. H. Sörensen",
+                "role": "v. ordf."
+            },
+            {
+                "name": "fil. lic. Mauritz Bonow",
+                "role": null
+            },
+            {
+                "name": "dir. Hj. Degerstedt",
+                "role": null
+            },
+            {
+                "name": "dir. Hugo Edstam",
+                "role": null
+            },
+            {
+                "name": "dir. G. Osvald",
+                "role": null
+            },
+            {
+                "name": "dir. Ernst Persson",
+                "role": null
+            }
+        ],
+        "director": "S. H. Sörensen",
+        "sales_manager": "B. Anderberg o. Nils Kjellberg"
+    },
+    "3": {
+        "name": "Karlshamns Stads Vatten- och Elektricitetsverk",
+        "location": "Karlshamn",
+        "business": "Distribuerar elektr. energi"
+    },
+    "4": {
+        "name": "Karlshamns Yllefabriks AB.",
+        "location": "Åkeholm",
+        "business": "Spinneri, färgeri och trikåfabrik"
+    },
+    "5": {
+        "name": "Kar!shults Såg & Tegelbruk, Patrik Jacobson",
+        "location": "Motala verkstad",
+        "business": "Tegelbruk och sågverk"
+    },
+    "6": {
+        "name": "AB. Karlshälls Cranitindustri",
+        "location": "Göteborg",
+        "business": "Stenhuggerier"
+    },
+    "7": {
+        "name": "Karlskoga Tegelbruk, Ericsson & Co.",
+        "location": "Karlskoga",
+        "business": "Tegelbruk, cementvaru- och murbruksfabrik"
+    },
+    "8": {
+        "name": "Karlskoga Ångbryggeri",
+        "location": "Karlskoga",
+        "business": "Tillverkar malt- och läskedrycker"
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "1": {
+        "name": "Skånska Bomullskrutfabriks AB",
+        "location": "Landskrona",
+        "business": "Krutbruk, färg- och fernissfabrik samt kemisk-teknisk fabrik",
+        "products": "Tillverkar pressad trinitrotoluol och hexanitrodifenylamin (»Novit»), nitro-cellulosakrut för jaktgevär i blad- och kornform, knallsignaler för signalstationer, kollodiumlösningar för tekn. ändamål, etyleter (specialitet: pro narcosi), kopal- och oljefernissor, sprit- och zapon-lacker (»A. V. S.-lack»), emalj- och rostskyddsfärger, celluloidlack (»Normack») för automobiler",
+        "contact": {
+            "office": "Dösjöbro, Malmöh. l.",
+            "phone": [
+                "19",
+                "91"
+            ],
+            "postgiro": "82330",
+            "head_office": "Landskrona",
+            "sales_offices": [],
+            "telegraph": "Normal, Landskrona",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1893,
+        "predecessor": "",
+        "corporation_year": 0,
+        "board": [
+            {
+                "name": "C. F. Tranchell",
+                "role": "ordf."
+            },
+            {
+                "name": "Harry Tranchell",
+                "role": "v. ordf."
+            },
+            {
+                "name": "A. Matteoschat",
+                "role": ""
+            },
+            {
+                "name": "B. Wessel",
+                "role": "major"
+            },
+            {
+                "name": "G. A. Widström",
+                "role": "disp."
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "Harry Tranchell",
+        "sales_manager": "",
+        "manager": ""
+    },
+    "2": {
+        "name": "Skånska Cement AB",
+        "location": "Malmö",
+        "business": "Oementfabrik, kalkbrott och kalkbruk",
+        "products": "Tillverkar cement, tegel, bränd kalk, jordbrukskalk och kalksten; utför inrednings- och fasadarbeten i kalksten",
+        "contact": {
+            "office": "Limhamn",
+            "phone": [],
+            "postgiro": "24570",
+            "head_office": "Malmö",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Lövholmsbrinken 2",
+                    "phone": "452815"
+                }
+            ],
+            "telegraph": "",
+            "factory_office": "Hellekis",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "28,000,000 kr",
+            "annual_turnover": "39,000,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1871,
+        "predecessor": "",
+        "corporation_year": 0,
+        "board": [
+            {
+                "name": "greve W. A. H. Hamilton",
+                "role": "majoren (ordf.)"
+            },
+            {
+                "name": "Carl Joh. Malmros",
+                "role": "dir."
+            },
+            {
+                "name": "Nils Danielsen",
+                "role": "disp."
+            },
+            {
+                "name": "G. M. I. Fagraeus",
+                "role": "generalkonsul"
+            },
+            {
+                "name": "frih. Wilh. Klingspor",
+                "role": "hovjägmäst."
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "Ernst Wehtje",
+        "sales_manager": "",
+        "manager": ""
+    },
+    "3": {
+        "name": "AB. Skånska Gementgjuteriet",
+        "location": "Stockholm",
+        "business": "Entreprenadfirma för hus- och fabriksbyggnader, för väg- och vattenbyggnadsarbeten samt för asfalt- och marmorarbeten",
+        "products": "Tillverkar trappsteg, golv- och väggplattor av betong och mosaik, avloppsrör och kulvertar av betong, trappor och plattor av marmor och kalksten, fasadputs (porfyrit) samt betonghålsten",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "128",
+            "head_office": "Stockholm",
+            "sales_offices": [
+                {
+                    "location": "Malmö",
+                    "phone": ""
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": ""
+                },
+                {
+                    "location": "Jönköping",
+                    "phone": ""
+                },
+                {
+                    "location": "Kalmar",
+                    "phone": ""
+                },
+                {
+                    "location": "Karlskrona",
+                    "phone": ""
+                },
+                {
+                    "location": "Karlstad",
+                    "phone": ""
+                },
+                {
+                    "location": "Norrköping",
+                    "phone": ""
+                }
+            ],
+            "telegraph": "Cementgjuteriet, Stockholm",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "annual_turnover": "85,000,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1887,
+        "predecessor": "",
+        "corporation_year": 0,
+        "board": [
+            {
+                "name": "Gösta Malm",
+                "role": "f. generaldir. (ordf.)"
+            },
+            {
+                "name": "Agne Sandberg",
+                "role": "dir."
+            },
+            {
+                "name": "Sven Schwartz",
+                "role": "dir."
+            },
+            {
+                "name": "Sverre Sohlman",
+                "role": "dir."
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "Agne Sandberg",
+        "sales_manager": "",
+        "manager": ""
+    }
+}

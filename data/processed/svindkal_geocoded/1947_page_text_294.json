@@ -1,0 +1,253 @@
+{
+    "1": {
+        "name": "Flens Tegelbruk",
+        "location": "Flen",
+        "business": "Tillverkar mur- och taktegel samt drä-näringsrör vid tegelbruk i Flen (Södermanl. l.)",
+        "contact": {
+            "phone": [
+                "376"
+            ],
+            "postgiro": "174257"
+        },
+        "financials": {
+            "capital": "126,800 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "125,000 kr"
+        },
+        "foundation_year": 1931,
+        "director": "fabr. Per R. Pettersson",
+        "coordinates": {
+            "Latitude": 59.0579376,
+            "Longitude": 16.5879122
+        }
+    },
+    "2": {
+        "name": "Flerohopps Bruks AB.",
+        "location": "Flerohopp",
+        "business": "Tillverkar glasrör, glaskolvar till termosflaskor, glödlampor, radiorör och röntgenrör m. m. samt sågade trävaror.",
+        "contact": {
+            "phone": [
+                "Flerohopp 9",
+                "Flerohopp 10"
+            ],
+            "postgiro": "97448"
+        },
+        "financials": {
+            "capital": "54,000 kr",
+            "employees": {
+                "industriarb": 150
+            }
+        },
+        "foundation_year": 1908,
+        "board": [
+            {
+                "name": "disp. Håkan Sterner",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. H. Klette",
+                "role": ""
+            }
+        ],
+        "director": "disp. Håkan Sterner",
+        "sales_manager": "disp. Håkan Sterner",
+        "manager": "disp. Håkan Sterner",
+        "managing_director": "disp. Håkan Sterner",
+        "coordinates": {
+            "Latitude": 56.82407139999999,
+            "Longitude": 15.8755066
+        }
+    },
+    "3": {
+        "name": "AB. E. Fleron",
+        "location": "Malmö",
+        "business": "Tillverkar filhuggnings-maskiner, maskiner för motorrenoveringar såsom vevaxelslipmaskiner, fin-borrverk för vevstakar, brotch- och poler-maskiner, ramlagerborrverk, kolvbearbet-ningsmaskiner, lagergjutningsmaskiner, avfettningstankar, härdtankar m. fl., motorcykel- och automobilreservdelar, växellådor, cylindriska och koniska kugghjul, kedjehjul samt bearbetade kuggväxlar.",
+        "contact": {
+            "office": "Malmg. 4",
+            "phone": [
+                "24118",
+                "22141",
+                "33343",
+                "22116"
+            ],
+            "postgiro": "37843"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1912,
+        "board": [
+            {
+                "name": "landssekr. Hjalmar P. Kjäll",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Axel Löfström",
+                "role": ""
+            },
+            {
+                "name": "kamrer Gösta S. Nilsson",
+                "role": ""
+            },
+            {
+                "name": "verkst. dir. Axel Löfström",
+                "role": ""
+            },
+            {
+                "name": "övering. Claes Andrén",
+                "role": ""
+            },
+            {
+                "name": "inköpschef Arne Kanne",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "4": {
+        "name": "AB. Flexo",
+        "location": "Stockholm",
+        "business": "Tillverkar trädgårdsredskap, elektr. in-stallationsmateriel, pressade massartiklar samt pressverktyg. Specialitet: »Flexo»-trädgårdsräfsor. Bolaget driver även engroshandel med järnvaror.",
+        "contact": {
+            "office": "Stockholm, Tuleg. 19",
+            "phone": [
+                "318515",
+                "303979"
+            ],
+            "postgiro": "155440"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "dir. Gunnar Östberg",
+                "role": "ordf."
+            },
+            {
+                "name": "fabr. Anders Lind",
+                "role": ""
+            },
+            {
+                "name": "verkst. dir. Gunnar Östberg",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "AB. C. J. Flinks Söner",
+        "location": "Västervik",
+        "business": "Tillverkar som specialitet gravvårdar och gravramar av svart Västerviksgranit ävensom byggnadssten.",
+        "contact": {
+            "phone": [
+                "189"
+            ],
+            "postgiro": "81451",
+            "representative": "John R. Mikaelsson, Kalmar",
+            "representative_phone": "528"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "450,000 kr"
+        },
+        "foundation_year": 1881,
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "Verkst. dir. Josef E. Flink",
+                "role": ""
+            },
+            {
+                "name": "Kamrer Harald Stenberg",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        }
+    },
+    "6": {
+        "name": "AB. Gustaf Flinta",
+        "location": "Hedemora",
+        "business": "Tillverkar finare möbler och butiksinredningar.",
+        "contact": {
+            "telegraph": "Flinta, Hedemora",
+            "phone": [
+                "325"
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1887,
+        "corporation_year": 1904,
+        "board": [
+            {
+                "name": "dir. Wilhelm Björkman",
+                "role": ""
+            },
+            {
+                "name": "disp. Ruben Persson",
+                "role": ""
+            },
+            {
+                "name": "dir. Gustav Raabe",
+                "role": ""
+            },
+            {
+                "name": "verkst. dir. Ruben Persson",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.2775453,
+            "Longitude": 15.985892
+        }
+    },
+    "7": {
+        "name": "Flisby Tegelbruk",
+        "location": "Flisby",
+        "business": "Tillverkar murtegel vid tegelbruk i Flisby (Jönköp. l.)",
+        "contact": {
+            "phone": [
+                "3"
+            ],
+            "representative": "AB. J. E. Sundberg & Co., Nässjö"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_production_value": "1,250,000 st. tegelvaror"
+        },
+        "foundation_year": 1909,
+        "director": "fru A.-L. Ljunggren-Hellström",
+        "coordinates": {
+            "Latitude": 57.7832666,
+            "Longitude": 14.8001215
+        }
+    }
+}

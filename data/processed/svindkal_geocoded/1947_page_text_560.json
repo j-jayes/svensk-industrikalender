@@ -1,0 +1,239 @@
+{
+    "1": {
+        "name": "T. Nyströms Ramindustri",
+        "location": "Göteborg",
+        "business": "Tillverkar fotografiramar, ornaments-ramar samt spegelramar",
+        "contact": {
+            "office": "Fabriksg. 20",
+            "phone": [
+                "154216"
+            ],
+            "postgiro": "25539"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 15
+            },
+            "annual_turnover": "125,000 kr",
+            "annual_production_value": "125,000 kr"
+        },
+        "foundation_year": 1924,
+        "director": "Torsten Nyström",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "AB. Näfveqvarns Bruk",
+        "location": "Nävekvarn (Södermanl. l.)",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Tillverkar spisar, kaminer, kokkärl, stekpannor, handvinschar, skruvdomkraf-ter, trädgårdsvältar och trädgårdsmöbler",
+        "contact": {
+            "office": "Huvudkontor: Nävekvarn",
+            "phone": [
+                "Nyköping 21"
+            ],
+            "postgiro": "26913",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "614500"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "550,000 kr",
+            "employees": {
+                "industriarb.": 220
+            },
+            "annual_turnover": "2,600,000 kr"
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "adv. Matts Fallenius",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Gustaf Hydén",
+                "role": ""
+            },
+            {
+                "name": "herr Ivar Hök",
+                "role": ""
+            },
+            {
+                "name": "herr Nils Hök",
+                "role": ""
+            },
+            {
+                "name": "disp. Th. Lunden",
+                "role": ""
+            }
+        ],
+        "director": "Th. Lundén",
+        "manager": "G. Grette",
+        "sales_manager": "G. Grette",
+        "coordinates": {
+            "Latitude": 58.6304568,
+            "Longitude": 16.7977532
+        }
+    },
+    "3": {
+        "name": "Näldens Ullspinneri AB.",
+        "location": "Nälden (Jämtl. l.)",
+        "business": "Tillverkar ullgarn, yllevävnader och filtar",
+        "contact": {
+            "phone": [
+                "40"
+            ],
+            "postgiro": "72321"
+        },
+        "financials": {
+            "capital": "240,000 kr",
+            "employees": {
+                "industriarb.": 70
+            },
+            "annual_turnover": "1,580,000 kr"
+        },
+        "foundation_year": 1896,
+        "board": [
+            {
+                "name": "disp. Alg. Gunnarsson",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. E. F. Herlitz",
+                "role": ""
+            },
+            {
+                "name": "disp. Axel G. Johansson",
+                "role": ""
+            }
+        ],
+        "director": "Alg. Gunnarsson",
+        "coordinates": {
+            "Latitude": 63.3491079,
+            "Longitude": 14.2521057
+        }
+    },
+    "4": {
+        "name": "AB. Näldens Åkdonsfabrik",
+        "location": "Nälden (Jämtl. l.)",
+        "business": "Tillverkar möbler, byggnadssnickerier och butiksinredningar",
+        "contact": {
+            "phone": [
+                "24"
+            ],
+            "postgiro": "22252"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 32
+            }
+        },
+        "foundation_year": 1900,
+        "current_name_year": 1907,
+        "director": "Magnus Gunnarsson",
+        "coordinates": {
+            "Latitude": 63.3491079,
+            "Longitude": 14.2521057
+        }
+    },
+    "5": {
+        "name": "Närkes Torf AB.",
+        "location": "Mosås (Örebro l.)",
+        "business": "Tillverkar torvströ och torvmull",
+        "contact": {
+            "office": "Kontor: Mosås",
+            "phone": [
+                "Örebro 75010"
+            ],
+            "postgiro": "3422"
+        },
+        "financials": {
+            "capital": "112,500 kr",
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "disp. Viktor Dalen",
+                "role": ""
+            },
+            {
+                "name": "dir. Herman Olson",
+                "role": ""
+            },
+            {
+                "name": "fru G. Staaf",
+                "role": ""
+            }
+        ],
+        "director": "Herman Olson",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "6": {
+        "name": "Nässjö Bryggeri AB.",
+        "location": "Nässjö, Sävsjö, and Vetlanda",
+        "business": "Tillverkar malt, malt- och läskedrycker",
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        }
+    },
+    "7": {
+        "name": "AB. Nässjö Butiksinredningar",
+        "location": "Fredriksdal (Jönköp. l.)",
+        "business": "Tillverkar butiksinredningar",
+        "products": "Specialiteter: kasettdiskar och skyltmontrar",
+        "contact": {
+            "office": "Kontor: Nässjö",
+            "phone": [
+                "340"
+            ],
+            "postgiro": "141470",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "304756"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb.": 20
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1938,
+        "director": "Nils Hedström",
+        "coordinates": {
+            "Latitude": 57.6173777,
+            "Longitude": 14.5989296
+        }
+    },
+    "8": {
+        "name": "Nässjö Industri AB.",
+        "location": "Nässjö (Jönköp. l.)",
+        "business": "Tillverkar snickeri- och bagerimaskiner",
+        "products": "Varunamn: »Nian»",
+        "contact": {
+            "office": "Telegr.-adr.: Nian, Nässjö",
+            "phone": [
+                "159"
+            ],
+            "postgiro": "271110"
+        },
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        }
+    }
+}

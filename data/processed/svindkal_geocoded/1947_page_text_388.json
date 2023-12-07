@@ -1,0 +1,262 @@
+{
+    "1": {
+        "name": "Industri AB. Mbk-W.",
+        "location": "Malmbäck",
+        "business": "Tillverkar fåtölj- och matbord, rökbord, barbord, sybord, hopfällbara spelbord, brickbord, tevagnar m. m. samt möbellås och beslag i järn och metall vid fabrik i Malmbäck (Jönköp. l.)",
+        "contact": {
+            "phone": [
+                "6",
+                "20"
+            ],
+            "postgiro": "77123"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1938,
+        "director": "Gust. Månson",
+        "manager": "Hjalmar Carlbring",
+        "coordinates": {
+            "Latitude": 57.5781694,
+            "Longitude": 14.4641901
+        }
+    },
+    "2": {
+        "name": "Industri AB. Mbk-W.",
+        "location": "Malmbäck",
+        "business": "Bolaget grundat 1943 efter övertagandet av AB. Bröderna Malmqvists Möbelfabrik och AB. Malmbäcks Träindustri, båda i Malmbäck.",
+        "contact": {
+            "phone": [
+                "6",
+                "20"
+            ],
+            "postgiro": "77123"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1943,
+        "director": "Carl Wigell",
+        "coordinates": {
+            "Latitude": 57.5781694,
+            "Longitude": 14.4641901
+        }
+    },
+    "3": {
+        "name": "Industri AB. Svenska Automatvapen",
+        "location": "Stockholm",
+        "business": "Försäljn.-bolag för AB. Sandins Metallfabrik, Sundbyberg (se detta bolag).",
+        "contact": {
+            "phone": "231270"
+        },
+        "financials": {
+            "capital": "200,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "Patrik Rydbeck",
+                "role": "övering"
+            },
+            {
+                "name": "Gustaf Kahm",
+                "role": "dir."
+            },
+            {
+                "name": "Torsten Lindfors",
+                "role": "major"
+            },
+            {
+                "name": "Erik Lindholm",
+                "role": "ing."
+            },
+            {
+                "name": "Erik Lindström",
+                "role": "civiling."
+            }
+        ],
+        "director": "Gustaf Kahm",
+        "sales_manager": "Sten Hasselberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "Industri AB. Sylva",
+        "location": "Landskrona",
+        "business": "Kem.-teknisk fabrik. Tillverkar såpa, tvål, tvättmedel, parfymer och kosmetiska preparat.",
+        "contact": {
+            "telegraph": "Sylva",
+            "postgiro": "278089"
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industriarb": 130
+            }
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "Gunnar Andersson",
+                "role": "dir."
+            },
+            {
+                "name": "Sven Raab",
+                "role": "bankdir. frih."
+            }
+        ],
+        "director": "Sven Green",
+        "sales_manager": "Kaj Simonsen",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        }
+    },
+    "5": {
+        "name": "Industri AB. Uhr & Son",
+        "location": "Skänninge",
+        "business": "Tillverkar möbler, spad- och skyffelskaft vid fabrik i Skänninge (Östergötl. l.)",
+        "contact": {
+            "phone": "390",
+            "factory_phone": "60",
+            "postgiro": "99353"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "arb.-antal": 25
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1931,
+        "current_name_year": 1945,
+        "director": "Ivar V. Uhr",
+        "sales_manager": "Ingemar Uhr",
+        "manager": "C. A. Fridlund",
+        "coordinates": {
+            "Latitude": 58.3954378,
+            "Longitude": 15.0862189
+        }
+    },
+    "6": {
+        "name": "Industri-AB. Viking",
+        "location": "Örebro",
+        "business": "Kem.-teknisk fabrik med glasbruk, bleckemballage- och kartongfabrik. Tillverkar »Viking»-skokräm, »Viking»-lädersmörja och »Viking»-ugnsvärta.",
+        "contact": {
+            "telegraph": "Viking",
+            "phone": [
+                "10120",
+                "11614"
+            ],
+            "postgiro": "10241"
+        },
+        "financials": {
+            "capital": "550,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "3,400,000 kr"
+        },
+        "corporation_year": 1907,
+        "board": [
+            {
+                "name": "Ruben Hellerstad",
+                "role": "fil. mag."
+            },
+            {
+                "name": "Emma Pehrson",
+                "role": "fru"
+            },
+            {
+                "name": "Karl-Erik Pehrson",
+                "role": "herr"
+            }
+        ],
+        "director": "Ruben Hellerstad",
+        "kamrer": "Gösta Palmgren",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "7": {
+        "name": "Industri AB. Ölandssten",
+        "location": "Kalmar",
+        "business": "Stenhuggeri vid Persnäs på Öland (Kalmar l.). Tillverkar byggnads- och trädgårdssten samt gravvårdar av kalksten.",
+        "contact": {
+            "telegraph": "Mikael",
+            "phone": "3785",
+            "postgiro": "277960"
+        },
+        "financials": {
+            "capital": "42,000 kr",
+            "employees": {
+                "industriarb": 31
+            },
+            "annual_production_value": "125,000 kr"
+        },
+        "foundation_year": 1944,
+        "director": "löjtn. Göte Mikaelsson",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        }
+    },
+    "8": {
+        "name": "Industrifirman Skandia",
+        "location": "Anderstorp",
+        "business": "Tillverkar rostfria kuvertartiklar, fat och husgerådsartiklar vid mek. verkstad i Anderstorp (Jönköp. l.)",
+        "contact": {
+            "phone": "175",
+            "postgiro": "163311"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1939,
+        "manager": "Oscar Gustafsson",
+        "kamrer": "Arvid Olsson",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        }
+    },
+    "9": {
+        "name": "AB. Industrifärger",
+        "location": "Lidingö",
+        "business": "Färg- och fernissfabrik. Tillverkar olje- och spritlacker, lack- och oljefärger, cellulosalacker samt syntetiska läcker; specialiteter: rostskydds- och industrifärger.",
+        "contact": {
+            "telegraph": "Industrifärger",
+            "phone": "652580",
+            "postgiro": "6622"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "arb.-antal": 20
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1931,
+        "current_name_year": 1937,
+        "director": "civiling. Alfred Kaufmann",
+        "managing_director": "kamrer S. Å. Rhodin",
+        "sales_manager": "W. Odhammar",
+        "coordinates": {
+            "Latitude": 59.36295999999999,
+            "Longitude": 18.1468
+        }
+    }
+}

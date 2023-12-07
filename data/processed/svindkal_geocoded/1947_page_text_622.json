@@ -1,0 +1,241 @@
+{
+    "1": {
+        "name": "Skelleftehamns Golvparkett AB.",
+        "location": "Skelleftehamn",
+        "business": "Tillverkar parkettstav av ek, björk och furu, trappledstänger samt byggnadssnickerier och butiksinredningar",
+        "contact": {
+            "phone": [
+                "31078"
+            ],
+            "postgiro": "61534"
+        },
+        "financials": {
+            "capital": "151,800 kr",
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1937,
+        "director": "Herman Andersson",
+        "coordinates": {
+            "Latitude": 64.6861026,
+            "Longitude": 21.2361263
+        }
+    },
+    "2": {
+        "name": "AB. Skellefteå Spisbrödsfabrik",
+        "location": "Skellefteå",
+        "business": "Tillverkar spis-, knäöke- och delikatess-bröd",
+        "contact": {
+            "telegraph": "Spisbrödsfabriken, Skellefteå",
+            "postgiro": "21466"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb": 141
+            },
+            "annual_turnover": "4,000,000 kr"
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "AB. Wasa Spisbrödsfabrik, Filipstad"
+        ],
+        "board": [
+            {
+                "name": "konsul Karl Lundström",
+                "role": "ordf."
+            },
+            {
+                "name": "borgm. Thomas Lundquist"
+            },
+            {
+                "name": "fru G. Lundström"
+            }
+        ],
+        "director": "Karl Lundström",
+        "managing_director": "Karl Lundström",
+        "coordinates": {
+            "Latitude": 64.750244,
+            "Longitude": 20.950917
+        }
+    },
+    "3": {
+        "name": "Skellefteå Ångbryggeri AB.",
+        "location": "Skellefteå",
+        "business": "Tillverkar malt- och läskedrycker",
+        "contact": {
+            "telegraph": "Ångbryggeriet, Skellefteå",
+            "postgiro": "61926"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": "975,000 kr"
+        },
+        "foundation_year": 1893,
+        "board": [
+            {
+                "name": "disp. Otto Nyberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl Birger Carlsson"
+            },
+            {
+                "name": "adv. A. Rehn"
+            }
+        ],
+        "director": "O. B. Carlsson",
+        "sales_manager": "O. B. Carlsson",
+        "coordinates": {
+            "Latitude": 64.750244,
+            "Longitude": 20.950917
+        }
+    },
+    "4": {
+        "name": "Skeppshults Bruks AB.",
+        "location": "Skeppshult",
+        "business": "Tråddrageri och spikfabrik",
+        "contact": {
+            "telegraph": "Bruket, Skeppshult",
+            "phone": "1",
+            "postgiro": "75120"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "Skeppshult": 40,
+                "Smålandsstenar": 4
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "disp. Kaleb Petterson",
+                "role": "ordf."
+            },
+            {
+                "name": "handl. Enock Anderson"
+            },
+            {
+                "name": "disp. Hugo Pettersson"
+            }
+        ],
+        "director": "Hugo Pettersson",
+        "coordinates": {
+            "Latitude": 57.12744,
+            "Longitude": 13.37045
+        }
+    },
+    "5": {
+        "name": "Skillingaryds Gjuteri AB.",
+        "location": "Skillingaryd",
+        "business": "Tillverkar kokspisar och vattenvärmare",
+        "contact": {
+            "phone": "96",
+            "postgiro": "137831"
+        },
+        "financials": {
+            "capital": "40,500 kr",
+            "employees": {
+                "industriarb": 22
+            }
+        },
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "fabr. Ernst Fagerkvist"
+            },
+            {
+                "name": "fabr. Thor Petersson"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.43058180000001,
+            "Longitude": 14.0938696
+        }
+    },
+    "6": {
+        "name": "Skillingaryds Träförädlingsverk",
+        "location": "Skillingaryd",
+        "business": "Tillverkar sågade och hyvlade trävaror",
+        "contact": {
+            "phone": "148",
+            "postgiro": "269409"
+        },
+        "financials": {
+            "annual_turnover": "250,000 kr"
+        },
+        "board": [
+            {
+                "name": "trävaruhandl. Leander Johansson"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.43058180000001,
+            "Longitude": 14.0938696
+        }
+    },
+    "7": {
+        "name": "Skinnbeklädnadsbolaget",
+        "location": "Malung",
+        "business": "Tillverkar skinntröjor, skinnrockar och västar, promenadhandskar, sport- och arbetshandskar, militär- och lottapälsar, dampälsar, capes och kragar m. m. samt barnpälsar",
+        "contact": {
+            "phone": "123",
+            "postgiro": "27410",
+            "factory_phone": "114310"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "board": [
+            {
+                "name": "fabr. André Eriksson"
+            },
+            {
+                "name": "civiljägmäst. Bror Eriksson"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        }
+    },
+    "8": {
+        "name": "AB. Skinnkonfektion",
+        "location": "Borås",
+        "business": "Tillverkar skinnkläder, handskar och pälsvaror",
+        "contact": {
+            "telegraph": "Skinnkonfektion, Borås",
+            "phone": [
+                "18910",
+                "12650"
+            ],
+            "postgiro": "138585"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "corporation_year": 1942,
+        "board": [
+            {
+                "name": "Erik Ekdahl",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    }
+}

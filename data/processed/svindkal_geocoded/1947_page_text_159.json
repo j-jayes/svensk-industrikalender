@@ -1,0 +1,171 @@
+{
+    "1": {
+        "name": "AB. Edwin Andrén & Co.",
+        "location": "Göteborg",
+        "business": "Tillverkar vid avd. Nord-Neon neonrör och neonskyltar. Bolaget driver även elektr. installationsrörelse samt utför elektr. hissanläggningar.",
+        "contact": {
+            "office": "St. Badhusg. 20",
+            "phone": [
+                "170010"
+            ],
+            "postgiro": "40146"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1872,
+        "board": [
+            {
+                "name": "Bernhard Andrén",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "Victor Andrén",
+        "location": "Mölndal",
+        "business": "Lädervarufabrik. Tillverkar portmonnäer, plånböcker, tobakspungar, livremmar, portföljer och väskor. Specialitet: Damväskor.",
+        "contact": {
+            "phone": [
+                "270487"
+            ],
+            "postgiro": "43173"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1925,
+        "owner": "Rolf Andrén",
+        "coordinates": {
+            "Latitude": 57.65,
+            "Longitude": 12.016667
+        }
+    },
+    "3": {
+        "name": "AB. Aneby Industrier",
+        "location": "Aneby",
+        "business": "Trähusfabrik, sågverk och hyvleri i Aneby (Jönköp. l.). Tillverkar monteringsfärdiga trähus (märke: »Aneby-hus») samt sågade och hyvlade trävaror.",
+        "contact": {
+            "telegraph": "Anebyindustri, Aneby",
+            "phone": "»Aneby Industrier»",
+            "postgiro": "94697"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1945,
+        "board": [
+            {
+                "name": "löjtn. Erling Andersson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "insp. David Andersson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "civiling. Gillis Andersson",
+                "role": "Styrelse"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.83852100000001,
+            "Longitude": 14.8178021
+        }
+    },
+    "4": {
+        "name": "AB. Aneby Waddfabrik",
+        "location": "Aneby",
+        "business": "Tillverkar täck- och madrassvadd samt limvadd vid fabrik i Aneby (Jönköp. l.).",
+        "contact": {
+            "phone": [
+                "70"
+            ],
+            "postgiro": "20,000 kr"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 4
+            }
+        },
+        "foundation_year": 1937,
+        "director": "Albin Johanson",
+        "coordinates": {
+            "Latitude": 57.83852100000001,
+            "Longitude": 14.8178021
+        }
+    },
+    "5": {
+        "name": "AB. Ankarsrums Bruk",
+        "location": "Ankarsrum (Kalmar l.)",
+        "business": "Gjuteri, mek. verkstad, pressverk och emalj verk. Tillverkar svart och emaljerat handels-gjutgods, elspisar, gasspisar, vedspisar, kaminer (märke: »Viking») och grytor, sanitetsgjutgods, emalj, badkar, gjutna rördelar, radiatorer av plåt, mejerikärl, pressat plåtgods, svart, förtent och emaljerat, samt skyltar. Bolaget driver jämväl jordbruk och sågverksrörelse.",
+        "contact": {
+            "telegraph": "Bruket, Ankarsrum",
+            "phone": "Bruket, Ankarsrum",
+            "postgiro": "13939"
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "employees": {
+                "total": 700,
+                "industriarb": 650
+            }
+        },
+        "foundation_year": 1655,
+        "corporation_year": 1882,
+        "board": [
+            {
+                "name": "adv. Alarik Lindskog",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Kjell Freden",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Jonas Spånberg",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Jonas Spånberg",
+        "coordinates": {
+            "Latitude": 57.7003897,
+            "Longitude": 16.3320828
+        }
+    },
+    "6": {
+        "name": "Ankarsrums Skåne AB.",
+        "location": "Sjöbo (Malmöh. l.)",
+        "business": "Gjuteri och mek. verkstad. Tillverkar gjutna rördelar, byggnadsgjutgods samt lossningsapparater.",
+        "contact": {
+            "phone": [
+                "80",
+                "100"
+            ],
+            "postgiro": "291930"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "corporation_year": 1945,
+        "coordinates": {
+            "Latitude": 55.634822,
+            "Longitude": 13.70337
+        }
+    }
+}

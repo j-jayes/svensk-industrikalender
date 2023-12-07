@@ -1,0 +1,172 @@
+{
+    "1": {
+        "name": "Liljeholmens Stearinfabriks AB.",
+        "location": "Stockholm",
+        "business": "Kem.-tekn. fabrik",
+        "products": "Tillverkar stearin, stearinljus, kompositionsljus, paraffinljus, vaxljus, glycerin, olein, stearinbeck, etylbietat, zinkstearat m. m.",
+        "contact": {
+            "office": "Danviksg. 10",
+            "phone": [
+                "440140"
+            ],
+            "postgiro": "2312",
+            "telegraph": "Stearinbolaget, Stockholm"
+        },
+        "financials": {
+            "capital": "4,000,000 kr",
+            "employees": {
+                "industriarb": 140
+            },
+            "annual_turnover": "5,000,000 kr",
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1839,
+        "corporation_year": 1872,
+        "board": [
+            {
+                "name": "frih. Louis de Geer",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. Robert Ljunglöf",
+                "role": "-"
+            },
+            {
+                "name": "fil. dr Harald Nordenson",
+                "role": "-"
+            },
+            {
+                "name": "disp. Nils Westerdahl",
+                "role": "-"
+            },
+            {
+                "name": "greve Fabian Wrede",
+                "role": "-"
+            }
+        ]
+    },
+    "2": {
+        "name": "Liljeholmens Ättiksfabrik AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar ättiksprodukter, senap, gurkor, soya och såser",
+        "products": "Varumärke: 'Kocken'",
+        "contact": {
+            "office": "Barnängsg. 23",
+            "phone": [
+                "405312",
+                "415858"
+            ],
+            "postgiro": "3941",
+            "telegraph": "Liljeholmättika, Stockholm"
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "industriarb": 19
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1859,
+        "corporation_year": 1919,
+        "director": "Bengt Melin"
+    },
+    "3": {
+        "name": "Lilla Edets Pappersbruks AB.",
+        "location": "Lilla Edet",
+        "business": "Pappersbruk med träsliperi, påsfabrik, tryckeri och pappersförädling",
+        "products": "Tillverkar påspapper, kuvertpapper, omslagspapper, påsar, mönstertryckt papper samt handdukar, servetter, toalettpapper (märke: 'Edet-Kräpp') samt sjukhusartiklar av kräppat papper",
+        "contact": {
+            "office": "Lilla Edet",
+            "phone": [
+                "1",
+                "121",
+                "311"
+            ],
+            "postgiro": "8993"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 425
+            },
+            "annual_turnover": "8,000,000 kr"
+        },
+        "foundation_year": 1880,
+        "corporation_year": 1906,
+        "board": [
+            {
+                "name": "herr Ivan Haeger",
+                "role": "ordf."
+            },
+            {
+                "name": "herr Gunnar Haeger",
+                "role": "-"
+            },
+            {
+                "name": "dir. K. Olle Haeger",
+                "role": "-"
+            },
+            {
+                "name": "fru G. Ligner",
+                "role": "-"
+            }
+        ]
+    },
+    "4": {
+        "name": "AB. Lilla Harrie Redskapsverkstad",
+        "location": "Lilla Harrie",
+        "business": "Tillverkar lantbruksmaskiner och lantbruksredskap för häst- och traktordrift",
+        "contact": {
+            "telegraph": "Redskapsverk, Lund",
+            "phone": [
+                "Lund, 'Lilla Harrie Redskap'"
+            ],
+            "postgiro": "21412"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "1,650,000 kr"
+        },
+        "foundation_year": 1903,
+        "corporation_year": 1911,
+        "board": [
+            {
+                "name": "fabr. Carl Holmqvist",
+                "role": "ordf."
+            },
+            {
+                "name": "fröken Elisabeth Holmqvist",
+                "role": "-"
+            },
+            {
+                "name": "ing. Gust. Holmqvist",
+                "role": "-"
+            }
+        ]
+    },
+    "5": {
+        "name": "Lilles Konfektiöns AB.",
+        "location": "Borås",
+        "business": "Tillverkar dam-, herr- och gosskläder såsom kostymer, byxor, trenchcoats, dräkter, blazers rn. m.",
+        "contact": {
+            "phone": [
+                "16360",
+                "19460"
+            ],
+            "postgiro": "140681"
+        },
+        "financials": {
+            "capital": "275,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "1,100,000 kr"
+        },
+        "foundation_year": 1938,
+        "corporation_year": 1939,
+        "manager": "disp. Torsten Lillhage"
+    }
+}

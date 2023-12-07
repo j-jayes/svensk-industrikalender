@@ -1,0 +1,234 @@
+{
+    "1": {
+        "name": "Stella AB. Cacao- A Chokladfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar kakao samt halvfabrikat av choklad för konditorier och konfektyr-fabriker",
+        "contact": {
+            "office": "Huddingevägen 107, Enskede",
+            "phone": [
+                "492600"
+            ],
+            "postgiro": "11635"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1929,
+        "board": [
+            {
+                "name": "konditor Edw. Danielsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "bankdir. Harry Hagenius",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Axel Malmström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fabrikschef Karl-Axel Malmström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "försäljn.-chef Alexis Nilson",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Axel Malmström",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "AB. Herman Stenberg",
+        "location": "Stockholm",
+        "business": "Påsfabrik. Firman driver även engroshandel med papper",
+        "contact": {
+            "office": "Södermannag. -45—49",
+            "phone": [
+                "440000"
+            ],
+            "postgiro": "2783"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1922,
+        "corporation_year": 1932,
+        "board": [
+            {
+                "name": "dir. Herman Stenberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Gustaf Lindahl",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Herman Stenberg",
+        "managing_director": "Herman Stenberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "AB. Uno Stenlunds Trikåfabrik",
+        "location": "Borås",
+        "business": "Tillverkar baddräkter (märke: »Polo»), jumpers, jackor, sweaters, pullovers., slipovers, herrstrumpor m. m. samt sportartiklar av trikå. Varumärke: »Unotrikå»",
+        "contact": {
+            "telegraph": "Unotrikå, Borås",
+            "phone": [
+                "10004"
+            ],
+            "postgiro": "14800"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 50,
+                "hemarbetare": 120
+            },
+            "foundation_year": 1925
+        },
+        "board": [
+            {
+                "name": "grossh. Johan Stenlund",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Waldemar Andrén",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Uno Stenlund",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Uiio Stenlund",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "4": {
+        "name": "Aug. Stenman, AB.",
+        "location": "Eskilstuna",
+        "business": "Järnmanufakturfabrik. Tillverkar gångjärn, lås, reglar, haspar, märlor, fönsterbeslag, träskruvar, järngängade skruvar, häftstift m. m.",
+        "contact": {
+            "telegraph": "Stenman, Eskilstuna",
+            "phone": [
+                "August Stenman"
+            ],
+            "postgiro": "8368"
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "employees": {
+                "industriarb": 800
+            },
+            "annual_turnover": "20,000,000 kr"
+        },
+        "foundation_year": 1860,
+        "corporation_year": 1921,
+        "board": [
+            {
+                "name": "bankdir. Jacob Wallenberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "sir Samuel Beale",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Nore Nilsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Sixten V. Nilsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Sture Nilsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "mr K. S. Peacock",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kapten Sten Rudberg",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Sixten V. Nilsson",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "5": {
+        "name": "AB. F. A. Stenmans Låsfabrik",
+        "location": "Eskilstuna",
+        "business": "Tillverkar lås och skjutdörrbeslag m. m.",
+        "contact": {
+            "phone": [
+                "30003"
+            ],
+            "postgiro": "10795"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "foundation_year": 1849,
+            "corporation_year": 1926
+        },
+        "board": [
+            {
+                "name": "disp. Hugo E. Stenman",
+                "role": "Styrelse"
+            },
+            {
+                "name": "herr Bengt Stenman",
+                "role": "Styrelse"
+            },
+            {
+                "name": "herr Fritz Stenman",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Hugo E. Stenman",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "6": {
+        "name": "J. D. Stenqvist Junior AB.",
+        "location": "Kvidinge",
+        "business": "Pås-, kartong- och kontorsboksfabrik i Kvidinge (Kristianst. l.). Tillverkar papperspåsar och kartoliger, kontorsböcker, skrivböcker och räknehäften m. m. Bolaget driver även boktryckeri rörelse samt engroshandel med papper.",
+        "contact": {
+            "phone": [
+                "Stenqvist AB."
+            ],
+            "postgiro": "15040"
+        },
+        "coordinates": {
+            "Latitude": 56.1343857,
+            "Longitude": 13.0466505
+        }
+    }
+}

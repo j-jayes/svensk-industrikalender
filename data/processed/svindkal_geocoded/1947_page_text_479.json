@@ -1,0 +1,286 @@
+{
+    "1": {
+        "name": "Ljunggren—Ljungström",
+        "location": "Göteborg",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar pressade och svarvade massartiklar, bl. a. för elektriska ändamål samt pressverktyg",
+        "contact": {
+            "office": "Artillerig. 29",
+            "phone": [
+                "159200"
+            ],
+            "postgiro": "45534"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1938,
+        "owner": "Elof Rönnqvist",
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "Ljunglids Snickeriverkstad",
+        "location": "Hyssna",
+        "business": "Tillverkar byggnadssnickerier och möbler",
+        "products": "Specialitet: fåtölj stommar",
+        "contact": {
+            "phone": [
+                "Kinna 39025"
+            ],
+            "postgiro": "275320"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_turnover": "30,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1943,
+        "owners": [
+            "snickarmäst. Karl Karlsson",
+            "snickarmäst. Gunnar Eriksson"
+        ],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 57.5577164,
+            "Longitude": 12.5443604
+        }
+    },
+    "3": {
+        "name": "Ljunglöfs Litografiska AB.",
+        "location": "Stockholm",
+        "business": "Offsettryckeri, kartongfabrik samt blecktryckeri",
+        "products": "Utför offsettryck, reklamtrycksaker, tryck å celluloid och metallplåt samt tillverkar bleckskyltar och kar-tonnage.",
+        "contact": {
+            "office": "Igeldammsg. 22",
+            "phone": [
+                "520280"
+            ],
+            "postgiro": "156813"
+        },
+        "financials": {
+            "capital": "169,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1896,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "kungl. boktryckare Simon Söderstam",
+                "role": "ordf."
+            },
+            {
+                "name": "kand. Bengt Söderstam",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Gösta Söderstam",
+                "role": "N/A"
+            }
+        ],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Ljungmans Verkstäder",
+        "location": "Malmö",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Tillverkar mätare och apparater för förvaring och distribution av eldfarliga oljor och smörjoljor, hydrauliska billyftare, smörjverktyg samt klaffpumpar",
+        "contact": {
+            "office": "Malmö, Limhamnsvägen",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "37610",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "232035"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 340
+            },
+            "annual_turnover": "5,000,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1924,
+        "owner": "N/A",
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "5": {
+        "name": "AB. Ljungqvists Tapetfabrik",
+        "location": "Norrköping",
+        "business": "Tillverkar tapeter och bårder",
+        "contact": {
+            "phone": [
+                "21774",
+                "22153"
+            ],
+            "postgiro": "8997"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1924,
+        "board": [
+            {
+                "name": "disp. Einar Engblad",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Knut Pettersson",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Hans Rasmussen",
+                "role": "N/A"
+            }
+        ],
+        "director": "Einar Engblad",
+        "managing_director": "Einar Engblad",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "6": {
+        "name": "AB. S. Ljungqvists Möbelfabrik",
+        "location": "Habo",
+        "business": "Tillverkar möbler",
+        "products": "Speciellt bord",
+        "contact": {
+            "phone": [
+                "93",
+                "143"
+            ],
+            "postgiro": "91813"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "575,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1926,
+        "corporation_year": 1945,
+        "board": [],
+        "director": "N/A",
+        "managing_director": "Sigfrid Ljungqvist",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 57.90930939999999,
+            "Longitude": 14.0743665
+        }
+    },
+    "7": {
+        "name": "Ljungströms i Göteborg Verkstads AB",
+        "location": "Göteborg",
+        "business": "Mek. verkstäder",
+        "products": "Tillverkar mek. detaljer, verktyg och tillbehör för bilar samt vågar",
+        "contact": {
+            "office": "Göteborg, Friggag. 12",
+            "phone": [
+                "156873"
+            ],
+            "postgiro": "42420"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1931,
+        "corporation_year": 1939,
+        "board": [],
+        "director": "N/A",
+        "managing_director": "fabr. Hans Ljungström",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "8": {
+        "name": "AB. Ljungströms Konfektionsfabrik",
+        "location": "Vingåker",
+        "business": "Tillverkar herrkläder",
+        "products": "Varumärke: »Ljungströms Sir Kläder»",
+        "contact": {
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 0
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": "N/A",
+        "board": [],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 59.04337529999999,
+            "Longitude": 15.8709394
+        }
+    }
+}

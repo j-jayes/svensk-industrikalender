@@ -1,0 +1,190 @@
+{
+    "1": {
+        "name": "Metallfabriks AB. Knut Eriksson & Co.",
+        "location": "Eskilstuna",
+        "business": "Tillverkar prydnadssaker i tenn samt husgerådsartiklar i koppar och aluminium.",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": [
+                "30304"
+            ],
+            "postgiro": "10790",
+            "telegraph": "Metalleriksson, Eskilstuna"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "310,000 kr"
+        },
+        "foundation_year": 1906,
+        "current_name_year": 1946,
+        "board": [
+            {
+                "name": "fru Elsa Björkman",
+                "role": "disp."
+            },
+            {
+                "name": "Wiktor Björkman",
+                "role": "disp."
+            },
+            {
+                "name": "änkefru M. Eriksson",
+                "role": null
+            },
+            {
+                "name": "bankkassör Bror Olsson",
+                "role": null
+            },
+            {
+                "name": "fru Signe Olsson",
+                "role": null
+            }
+        ],
+        "director": "Wiktor Björkman",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "2": {
+        "name": "Metallfabriks AB. C. G. Sporrong & Co.",
+        "location": "Stockholm",
+        "business": "Metallvaru- och knappfabrik. Tillverkar knappar och andra uniformseffekter av metall...",
+        "contact": {
+            "office": "Kungsg. 17",
+            "phone": [
+                "Sporrong & Co"
+            ],
+            "postgiro": "1405",
+            "telegraph": "Sporrongs, Stockholm"
+        },
+        "financials": {
+            "capital": "787,500 kr",
+            "employees": {
+                "industriarb": 215
+            },
+            "annual_turnover": "4,000,000 kr"
+        },
+        "foundation_year": 1666,
+        "current_name_year": 1891,
+        "board": [
+            {
+                "name": "överstelöjtn. Erik Holmquist",
+                "role": null
+            },
+            {
+                "name": "frih. Bror af Klinteberg",
+                "role": null
+            }
+        ],
+        "director": "civiling. Mats Hede",
+        "managing_director": "Tage Swedberg",
+        "manager": "Otto Järnulf",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "Metallhyttans AB.",
+        "location": "Anderstorp",
+        "business": "Metallverk med valsverk, mässingstråd-drageri och pressgjuteri...",
+        "contact": {
+            "office": "Anderstorp (Jönköp. l.)",
+            "phone": [
+                "11"
+            ],
+            "postgiro": "10412"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1863,
+        "corporation_year": 1923,
+        "director": "disp. Filip Magnusson",
+        "manager": "ing. Gustaf Magnusson",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        }
+    },
+    "4": {
+        "name": "AB. Metaverken",
+        "location": "Jönköping",
+        "business": "Kem. teknisk fabrik. Tillverkar tvätt-och rengöringsmedel, tvål, industriella av-fettningsmedel...",
+        "contact": {
+            "phone": [
+                "4796",
+                "5950"
+            ],
+            "postgiro": "263530"
+        },
+        "financials": {
+            "capital": "55,000 kr",
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1942,
+        "director": "ing. Erik Gustavii",
+        "manager": "Gösta Blomqvist",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        }
+    },
+    "5": {
+        "name": "Otto Meyers Konst-, Metall- & Zink-gjuteri",
+        "location": "Stockholm",
+        "business": "Utför i olika metaller konstgjutningar såsom statyer och statyetter, byster, reliefer, belysningsartiklar m. m...",
+        "contact": {
+            "office": "Västmannag. 81",
+            "phone": [
+                "339385"
+            ],
+            "postgiro": "977",
+            "telegraph": "Meyers konstgjuteri, Stockholm"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 10
+            },
+            "annual_turnover": "170,000 kr"
+        },
+        "foundation_year": 1872,
+        "director": "fabr. Arne Spanier",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "Vilh. Meyer, Etui- & Kartongfabrik",
+        "location": "Onesta",
+        "business": "Tillverkar etuier, kartonger och skylt-ställ vid fabrik i Gnesta (Södermanl. l.)",
+        "contact": {
+            "phone": [
+                "95"
+            ],
+            "postgiro": "28592"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "foundation_year": 1924,
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    }
+}

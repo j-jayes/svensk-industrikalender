@@ -1,0 +1,247 @@
+{
+    "1": {
+        "name": "Bechman—Bendor",
+        "location": "Stockholm",
+        "business": "Skruv- och metallfabrik",
+        "contact": {
+            "office": "Bohusg. 23",
+            "phone": [
+                "440520"
+            ],
+            "telegraph": "Bendor, Stockholm",
+            "postgiro": "4825"
+        },
+        "products": "Tillverkar svarvad och pressad skruv, mutter, nit, mutterbrickor, nipplar, smörjkoppar, fasondelar och smärre detaljer av järn, mässing, koppar, brons, ebonit, fiber etc. samt pressade mutterbrickor m. m.",
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "1,800,000 kr"
+        },
+        "corporation_year": 1928,
+        "board": {
+            "1": {
+                "name": "ryttm. Adrian Florman",
+                "role": "ordf."
+            },
+            "2": {
+                "name": "dir. Gunnar Friman",
+                "role": ""
+            },
+            "3": {
+                "name": "dir. Ernst Nilson",
+                "role": ""
+            }
+        },
+        "director": "Erik A. Olofsson",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "K. L. Beckmans Boktryckeri",
+        "location": "Stockholm",
+        "business": "Bok- och accidenstryckeri samt bokbinderi",
+        "contact": {
+            "office": "Stv Nyg. 22",
+            "phone": [
+                "100214",
+                "107505"
+            ],
+            "telegraph": "Bok-beckman, Stockholm",
+            "postgiro": "659"
+        },
+        "products": "Utför tabell- och boktryck samt affärstryck.",
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": null
+        },
+        "corporation_year": null,
+        "board": {},
+        "director": "Carl J. Beckman",
+        "managing_director": "Carl Wirström",
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "Cus t af Behrns Skobandfabrik",
+        "location": "Örebro",
+        "business": "Tillverkar skoband, kängsnören av mako- och eisengarn samt imit. läderremmar, bollskobarVd och alla slags sportband samt tätningslist av ylle och bomull för dörrar och fönster",
+        "contact": {
+            "office": null,
+            "phone": [
+                "10346"
+            ],
+            "telegraph": null,
+            "postgiro": "30339"
+        },
+        "products": "",
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "corporation_year": 1906,
+        "board": {},
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "4": {
+        "name": "AB. Beijers Motorfabrik",
+        "location": "Vimmerby",
+        "business": "Tillverkar råoljemotorer och universal-fräsmäskiner",
+        "contact": {
+            "office": null,
+            "phone": [
+                "22"
+            ],
+            "telegraph": null,
+            "postgiro": "23718"
+        },
+        "products": "",
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "corporation_year": 1925,
+        "board": {
+            "1": {
+                "name": "godsäg. Einar Karlsson",
+                "role": "ordf."
+            },
+            "2": {
+                "name": "dir. Carl E. Beijer",
+                "role": "v. ordf."
+            },
+            "3": {
+                "name": "kamrer Ivar Beijer",
+                "role": ""
+            }
+        },
+        "director": "Carl E. Beijer",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.6690339,
+            "Longitude": 15.858857
+        }
+    },
+    "5": {
+        "name": "J. F. Bellanders AB.",
+        "location": "Gävle",
+        "business": "Konfektionsfabrik. Tillverkar arbetskläder, skjortor och pyjamas. Varumärken: Björnkläder, Björntvills o. Livvakten. Firman driver även engroshandel med textilvaror.",
+        "contact": {
+            "office": null,
+            "phone": [
+                null
+            ],
+            "telegraph": "Bellanderbolag, Gävle",
+            "postgiro": "5107"
+        },
+        "products": "",
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 104
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "corporation_year": 1917,
+        "board": {
+            "1": {
+                "name": "dir. Birger Bellander",
+                "role": "ordf."
+            },
+            "2": {
+                "name": "fabrikschef Filip Bellander",
+                "role": ""
+            },
+            "3": {
+                "name": "grossh. Gösta Bellander",
+                "role": ""
+            }
+        },
+        "director": null,
+        "managing_director": null,
+        "sales_manager": "Gösta Bellander",
+        "manager": null,
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "6": {
+        "name": "Belysningskultur G. Cronwin, AB.",
+        "location": "Stockholm",
+        "business": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                null
+            ],
+            "telegraph": null,
+            "postgiro": null
+        },
+        "products": "",
+        "financials": null,
+        "corporation_year": null,
+        "board": {},
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "Be Ma Måhl & Normen",
+        "location": "Gislaved",
+        "business": "Tillverkar massartiklar i bakelit, kniv-strömbrytare, symaskinsbelysningjar samt tredubbla stickkontakter vid fabrik i Gislaved (Jönköp. l.)",
+        "contact": {
+            "office": null,
+            "phone": [
+                "494"
+            ],
+            "telegraph": null,
+            "postgiro": "288699"
+        },
+        "products": "",
+        "financials": null,
+        "corporation_year": 1943,
+        "board": {},
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.2985,
+            "Longitude": 13.54326
+        }
+    }
+}

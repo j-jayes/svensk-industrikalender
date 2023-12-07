@@ -1,0 +1,327 @@
+{
+    "1": {
+        "name": "Essviks AB",
+        "location": "Sundsvall",
+        "business": "Sulfitfabrik och sulfitspritfabrik",
+        "contact": {
+            "office": "Sundsvall",
+            "phone": [],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": [],
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "7,500,000 kr",
+            "employees": {
+                "industriarb": 350
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1898,
+        "current_name_year": 1939,
+        "predecessor": "Sundsvalls Cellulosa AB",
+        "original_name": "Sundsvalls Cellulosa AB",
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Torsten Hérnod",
+                "role": "ordf."
+            },
+            {
+                "name": "Gust. Göranson",
+                "role": "dir."
+            },
+            {
+                "name": "Gust. J. Sahlin",
+                "role": "dir."
+            },
+            {
+                "name": "Per F. Wåhlin",
+                "role": "bankdir."
+            }
+        ],
+        "owners": [
+            "Svartviks AB"
+        ],
+        "director": "Gust. Göranson",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": "L. B. Schibbye"
+    },
+    "2": {
+        "name": "Esterna Konfektions AB",
+        "location": "Stockholm",
+        "business": "Tillverkar impregnerade och gummierade regnplagg samt sportjackor",
+        "contact": {
+            "office": "Igeldammsg. 24",
+            "phone": [
+                "516006"
+            ],
+            "postgiro": "154980",
+            "head_office": null,
+            "sales_offices": [],
+            "telegraph": "Estemasto",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1938,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": 1942,
+        "board": [],
+        "owners": [],
+        "director": "fru I. M. Lindstrand",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "3": {
+        "name": "AB. Esti (Ekenäs Skid- & Träindustri)",
+        "location": "Ekenässjön",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "office": null,
+            "phone": [
+                "38"
+            ],
+            "postgiro": "166542",
+            "head_office": null,
+            "sales_offices": [],
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1938,
+        "current_name_year": 1942,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "greve Gösta Bielke",
+                "role": "ordf."
+            },
+            {
+                "name": "fabr. Arthur Carlstrom",
+                "role": null
+            },
+            {
+                "name": "disp. Sixten Carlström",
+                "role": null
+            }
+        ],
+        "owners": [],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": "Sixten Carlstrom"
+    },
+    "4": {
+        "name": "Eternit-Bolaget",
+        "location": "Lomma",
+        "business": null,
+        "contact": {
+            "office": null,
+            "phone": [],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": [],
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": "Skandinaviska Eternit ÄB.",
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "5": {
+        "name": "AB. Etsade Skyltar",
+        "location": "Stockholm",
+        "business": "Tillverkar etsade och tryckta skyltar samt skalor; utför maskingravering",
+        "contact": {
+            "office": "Arbetarg. 33 A",
+            "phone": [
+                "520855"
+            ],
+            "postgiro": "158586",
+            "head_office": null,
+            "sales_offices": [],
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1916,
+        "current_name_year": 1940,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": null,
+        "managing_director": "Sture Danielsson",
+        "sales_manager": null,
+        "manager": null
+    },
+    "6": {
+        "name": "AB. Europa Film",
+        "location": "Stockholm",
+        "business": "Filminspelningsateljéer i Nya Mariehäll, Bromma. Producerar och uthyr spelfilmer; tillverkar och ombesörjer visningar av industri- och propagandafilmer samt annonsfilmer. Firman driver även biografrörelse",
+        "contact": {
+            "office": "Kungsg. 24",
+            "phone": [],
+            "postgiro": "52490",
+            "head_office": null,
+            "sales_offices": [],
+            "telegraph": "Europafilm",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "anställda": 175
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1930,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "7": {
+        "name": "Evers & Co. AB",
+        "location": "Hälsingborg",
+        "business": "Tillverkar tak- och övrig impr. byggnadspapp, asfalt- och tjärpreparat, isoleringsmateriel mot väta och fukt, träkonserveringsmedel, fruktträdskarbolineum, slamfärg, tak- och aluminiumfärger, preparat för uppsättning av väggplattor (märke: »Kakelfix») m. m. Varumärken: »Solidol», »Herkules», »Goudronit», »ECO» m. fl. Firman driver även engrosshandel med träullsplattor och andra byggnadsmateriel samt entrepenadverksamhet i taktäckningar och isoleringar m. m.",
+        "contact": {
+            "office": "Hälsingborg",
+            "phone": [
+                "Evers & Co."
+            ],
+            "postgiro": "11505",
+            "head_office": null,
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "440065"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "154135 o. 155085"
+                },
+                {
+                    "location": "Örebro",
+                    "phone": "19760"
+                }
+            ],
+            "telegraph": "Eversco",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "750,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "5,000,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1893,
+        "current_name_year": 1944,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "8": {
+        "name": "AB. Ewos",
+        "location": "Södertälje",
+        "business": "Kem. teknisk fabrik. Tillverkar kem. produkter för lantbruk och industri såsom vitamin- och mineralämnespreparat, betnings-, besprutnings- och utrotningsmedel, desinfektions- och rengöringsmedel, sårsalva och sårolja, impregneringsmedel för slipmassa samt mejerikemikalier",
+        "contact": {
+            "office": "Södertälje",
+            "phone": [
+                "32382"
+            ],
+            "postgiro": "4773",
+            "head_office": null,
+            "sales_offices": [],
+            "telegraph": "Ewos",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1935,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    }
+}

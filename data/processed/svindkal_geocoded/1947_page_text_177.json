@@ -1,0 +1,278 @@
+{
+    "1": {
+        "name": "Bergbom—Berggren",
+        "location": "Lindesberg",
+        "business": "Manufacturing of engines, motor vehicles, construction machinery, and household appliances, as well as trading of sewing machines, refrigerators, and excavation machinery.",
+        "contact": {
+            "office": "Lindesberg",
+            "phone": [
+                "234540",
+                "174830",
+                "71125"
+            ],
+            "postgiro": "7568",
+            "head_office": "Lindesberg",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "234540"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "174830"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "71125"
+                }
+            ],
+            "telegraph": "Bergbolagen, Lindesberg",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "480,000 kr",
+            "employees": {
+                "industriarb": 750
+            }
+        },
+        "foundation_year": 1903,
+        "current_name_year": 1946,
+        "predecessor": "",
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "konsul Wilh. Berg",
+                "role": "ordf."
+            },
+            {
+                "name": "fabr. Theodor Berg",
+                "role": ""
+            },
+            {
+                "name": "bankdit. Georg Nilsson",
+                "role": ""
+            }
+        ],
+        "director": "Tore Berg",
+        "managing_director": "Tore Berg",
+        "sales_manager": "ing. Eric Wrethagen",
+        "manager": "Tore Berg",
+        "coordinates": {
+            "Latitude": 59.5976983,
+            "Longitude": 15.2229108
+        }
+    },
+    "2": {
+        "name": "Bergbom & Co. AB.",
+        "location": "Malmö",
+        "business": "Mechanical workshop manufacturing bakery and confectionery machinery as well as ice cream machines.",
+        "contact": {
+            "office": "Malmö",
+            "phone": [
+                "308191",
+                "119374"
+            ],
+            "postgiro": "147939",
+            "head_office": "Malmö, Celsiusg. 41",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "308191"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "119374"
+                }
+            ],
+            "telegraph": "Bergbom & Co. AB."
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1939,
+        "current_name_year": "",
+        "predecessor": "",
+        "corporation_year": "",
+        "board": [
+            {
+                "name": "dir. Henry Ljung",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Eric Ljung",
+                "role": ""
+            },
+            {
+                "name": "disp. Ernst Pettersson",
+                "role": ""
+            }
+        ],
+        "director": "Henry Ljung",
+        "managing_director": "Henry Ljung",
+        "sales_manager": "",
+        "manager": "Henry Ljung",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "3": {
+        "name": "AB. Bergdala Glasbruk",
+        "location": "Hovmantorp",
+        "business": "Glassworks producing household and decorative glassware.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "600176"
+            ],
+            "postgiro": "76196",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": ""
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1889,
+        "current_name_year": "",
+        "predecessor": "",
+        "corporation_year": 1922,
+        "board": [
+            {
+                "name": "dir. Gottfrid Dahl",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 56.78451219999999,
+            "Longitude": 15.1448475
+        }
+    },
+    "4": {
+        "name": "AB. Bergendahl och Höckert",
+        "location": "Göteborg",
+        "business": "Construction contractor specializing in road construction, terracing, industrial buildings, port and canal works, tunnel and underground facility constructions, etc.",
+        "contact": {
+            "office": "Göteborg, Magasinsg. 3",
+            "phone": [
+                "172955"
+            ],
+            "postgiro": "43210",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "231940"
+                }
+            ],
+            "telegraph": ""
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "annual_turnover": "7,000,000 kr"
+        },
+        "foundation_year": 1932,
+        "current_name_year": 1943,
+        "predecessor": "AB. Vägbeläggningar",
+        "corporation_year": "",
+        "board": [
+            {
+                "name": "civiling. Gunnar Bergendähl",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Gunnar Höckert",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "5": {
+        "name": "Bergendahls Boktryckeri",
+        "location": "Göteborg",
+        "business": "Printing and bookbinding company specialized in business, catalog, and advertising printing, drawings, retouching, and clichés.",
+        "contact": {
+            "office": "Göteborg, Kyrkog. 9",
+            "phone": [
+                "137023",
+                "136956"
+            ],
+            "postgiro": "12047",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Bokbergendahl, Göteborg"
+        },
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": ""
+        },
+        "foundation_year": 1905,
+        "current_name_year": "",
+        "predecessor": "",
+        "corporation_year": "",
+        "board": [],
+        "director": "Nils Buskqvist",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "boktr. Nils Buskqvist",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "B. Bergendorffs Verkstäder",
+        "location": "Oskarström",
+        "business": "Mechanical workshop and steel factory manufacturing neon signs, iron structures, metal letters and plates, pressed, turned, and welded articles, writing desks, etc.",
+        "contact": {
+            "office": "Oskarström",
+            "phone": [
+                "235"
+            ],
+            "postgiro": "267427",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "175,000 kr"
+        },
+        "foundation_year": 1940,
+        "current_name_year": "",
+        "predecessor": "",
+        "corporation_year": "",
+        "board": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "fabr. Bertil Bergendorff",
+        "coordinates": {
+            "Latitude": 56.8025533,
+            "Longitude": 12.969062
+        }
+    }
+}

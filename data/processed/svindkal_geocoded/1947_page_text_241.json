@@ -1,0 +1,288 @@
+{
+    "1": {
+        "name": "AB. Dahlkarlshytte",
+        "location": "Ludvika",
+        "business": "Kalkugn, dolomitbrytning samt elektr. vattenkraftstation vid Dalkarlshyttan (Örebro l.). Bolaget idkar jämväl jordbruk, sågverks- och kvarnrörelse.",
+        "contact": {
+            "office": "Ludvika",
+            "phone": [
+                "2006-09",
+                "18",
+                "1019"
+            ],
+            "postgiro": "77759",
+            "head_office": "Dalkarlshytta, Ludvika",
+            "telegraph": "Dalkarlshytta, Ludvika",
+            "factory_phone": "700,000 kr",
+            "sales_offices": [
+                {
+                    "location": "Ludvika 2006-09",
+                    "phone": "2006-09"
+                },
+                {
+                    "location": "Lindesberg 18",
+                    "phone": "18"
+                },
+                {
+                    "location": "Lindesberg 1019",
+                    "phone": "1019"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "1500-talet"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "majoren frih. Carl S:spn Leijonhufvud",
+                "role": "ordf."
+            },
+            {
+                "name": "överstelöjtn. frih. Gustaf v. Friesendorff",
+                "role": "v. ordf."
+            },
+            {
+                "name": "adv. Hugo Stenbeck",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.152358,
+            "Longitude": 15.191639
+        }
+    },
+    "2": {
+        "name": "AB. Dahlqvist & Co.",
+        "location": "Borås",
+        "business": "Sängfabrik. Tillverkar turistsängar, soffor, schäslonger samt ottomaner med rostfria ståltrådsbottnar.",
+        "contact": {
+            "phone": [
+                "10830"
+            ],
+            "postgiro": "10630"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "disp. Eric V. Magnusson",
+                "role": "ordf."
+            },
+            {
+                "name": "byggm. Arvid Andersson",
+                "role": null
+            }
+        ],
+        "director": "Torsten Arvidson",
+        "manager": "Bengt Arvidson",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "3": {
+        "name": "Dahlqvist & Co.",
+        "location": "Burträsk",
+        "business": "Tillverkar fönster, dörrar och inredningar samt överbyggnader för lastbilar vid fabrik i Burträsk (Västerb. l.).",
+        "contact": {
+            "phone": [
+                "59"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1921,
+        "manager": "Karl Viktor Dahlqvist",
+        "coordinates": {
+            "Latitude": 64.5197907,
+            "Longitude": 20.6566774
+        }
+    },
+    "4": {
+        "name": "Hans Dahlstedts Kassaskåpsfabrik",
+        "location": "Eskilstuna",
+        "business": "Kassaskåpsfabrik i Kungsör (Västmanl. l.). Tillverkar kassaskåp, arkiv-och inmurningsskåp, förvaringsskåp, hyllor och inredningar i stål, brand-, arkiv-och kassavalvsdörrar m. m.",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": [
+                "35054",
+                "34382"
+            ],
+            "postgiro": "26426"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1944,
+        "manager": "Hans Dahlstedt",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "5": {
+        "name": "Dahlström & Löfgren",
+        "location": "Motala verkstad",
+        "business": "Tillverkar gjutmodeller, karosserier för rälsbussar och skåpvagnar m. m. vid fabrik i Motala verkstad (Östergötl. l.).",
+        "contact": {
+            "phone": [
+                "Motala 219"
+            ],
+            "postgiro": "28358"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 26
+            }
+        },
+        "foundation_year": 1908,
+        "manager": "Olof Löfgren",
+        "coordinates": {
+            "Latitude": 58.55,
+            "Longitude": 15.066667
+        }
+    },
+    "6": {
+        "name": "AB. Dakrysol",
+        "location": "Malmö",
+        "business": "Kem. teknisk fabrik. Tillverkar hårvatten.",
+        "contact": {
+            "office": "Slussg. 1",
+            "phone": [
+                "10526"
+            ],
+            "postgiro": "30,000 kr"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "arb": 10
+            },
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1932,
+        "manager": "kamrer Fredrik Jonson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "7": {
+        "name": "Dala Flöda Snickerifabrik",
+        "location": "Dala-Floda",
+        "business": "Se Axel Eriksson & Co. Snickeri AB., Dala-Floda",
+        "coordinates": {
+            "Latitude": 60.5079552,
+            "Longitude": 14.7926914
+        }
+    },
+    "8": {
+        "name": "AB. Dala Mek. Spisbrödsbageri",
+        "location": "Säter",
+        "business": "Tillverkar spisbröd och knäckebröd.",
+        "contact": {
+            "telegraph": "Dalabageriet, Säter",
+            "phone": [
+                "Säterbröd"
+            ],
+            "postgiro": "21480"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "1,000,000 kg bröd"
+        },
+        "foundation_year": 1902,
+        "board": [
+            {
+                "name": "bankkamrer Johannes Ohlsson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. J. Gråhns",
+                "role": null
+            },
+            {
+                "name": "fabr. Bernhard Johansson",
+                "role": null
+            },
+            {
+                "name": "byggm. Evald Lindström",
+                "role": null
+            }
+        ],
+        "manager": "J. Gråhns",
+        "coordinates": {
+            "Latitude": 60.34665,
+            "Longitude": 15.7479
+        }
+    },
+    "9": {
+        "name": "AB. Dala Skinnindustri",
+        "location": "Säter",
+        "business": "Tillverkar handskar, skinnkläder, portföljer, shoppingväskor, sadelskydd för cyklar m. m.",
+        "contact": {
+            "phone": [
+                "203"
+            ],
+            "postgiro": "84767"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "225,000 kr"
+        },
+        "foundation_year": 1938,
+        "manager": "E. Ljusterdal",
+        "coordinates": {
+            "Latitude": 60.34665,
+            "Longitude": 15.7479
+        }
+    },
+    "10": {
+        "name": "Dala Spegelfabrik AB.",
+        "location": "Falun",
+        "business": "Tillverkar spegelglas, speglar samt ramister och ramar.",
+        "contact": {
+            "phone": [
+                "3100"
+            ],
+            "postgiro": "164173"
+        },
+        "financials": {
+            "capital": "50,600 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "160,000 kr"
+        },
+        "foundation_year": 1939,
+        "manager": "Nestor Eriksson",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        }
+    }
+}

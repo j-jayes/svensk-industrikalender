@@ -1,0 +1,180 @@
+{
+    "1": {
+        "name": "Palm—Papyrus",
+        "location": "Borås",
+        "business": "Mössor samt huvor",
+        "contact": {
+            "phone": [
+                "Palms fabriker"
+            ],
+            "postgiro": "90900"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1886,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Gösta Palm",
+                "role": "Ägare o. chef"
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "2": {
+        "name": "AB. Martin Palm",
+        "location": "Borås",
+        "business": "Konfektionsfabrik",
+        "contact": {
+            "phone": [
+                "13732"
+            ],
+            "postgiro": "84929"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1931,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Martin Palm",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "Arvid Knutson",
+                "role": "lagerchef"
+            }
+        ],
+        "owners": null,
+        "director": "Martin Palm",
+        "managing_director": "Martin Palm",
+        "sales_manager": null,
+        "manager": null
+    },
+    "3": {
+        "name": "AB. Arvid Palmgrens Mekaniska Werkstad",
+        "location": "Norrköping",
+        "business": "Mek. verkstad och kopparslageri",
+        "contact": {
+            "phone": [
+                "20057",
+                "25721"
+            ],
+            "postgiro": "29420"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "750,000 kr"
+        },
+        "foundation_year": 1870,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Henrik Berg",
+                "role": "ing."
+            },
+            {
+                "name": "S. Le-vander",
+                "role": "adv."
+            },
+            {
+                "name": "Eric Swensson",
+                "role": "verkstadschef"
+            }
+        ],
+        "owners": null,
+        "director": "H. Berg",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "4": {
+        "name": "Joh. Palmgren AB.",
+        "location": "Stockholm",
+        "business": "Sadehnakeri",
+        "contact": {
+            "phone": [
+                "610473",
+                "620485",
+                "625467"
+            ],
+            "postgiro": "50204"
+        },
+        "financials": {
+            "capital": "375,000 kr",
+            "employees": {
+                "Arb.-antal": 75
+            },
+            "annual_production_value": "770,000 kr"
+        },
+        "foundation_year": 1896,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": "Ullersäter Lädervaru AB",
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Joh. Palmgren",
+                "role": "hovsadelmakare (ordf.)"
+            },
+            {
+                "name": "Mårten Palmgren",
+                "role": "sadelmakaremästare"
+            },
+            {
+                "name": "Knut Jällgård",
+                "role": "kamrer"
+            }
+        ],
+        "owners": null,
+        "director": "sadelmakaremäst. Mårten Palmgren",
+        "managing_director": null,
+        "sales_manager": "Nils Palmgren",
+        "manager": "Erik Palmgren"
+    },
+    "5": {
+        "name": "AB. Palmqvist & Holm",
+        "location": "Halmstad",
+        "business": "Not available"
+    },
+    "6": {
+        "name": "Pappemballage AB.",
+        "location": "Stockholm",
+        "business": "Wellpappfabrikat"
+    },
+    "7": {
+        "name": "Pappersindustri Birger Petraeus",
+        "location": "Stockholm",
+        "business": "Tillverkar marmorerat och färgat pap per och kartong"
+    },
+    "8": {
+        "name": "AB. Papyrus",
+        "location": "Mölndal",
+        "business": "Pappersbruk med sulfitfabrik och trä-sliperi"
+    }
+}

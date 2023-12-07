@@ -1,0 +1,176 @@
+{
+    "1": {
+        "name": "AB. Kemiska Fabriken Monopol",
+        "location": "Borås",
+        "business": "Tillverkar hjälpprodukter för textilindustri och garverier såsom ricinolje-och fettalkoholsulfonat, tvål, såpa, appreturmedel, sulfonerad tran, tätningsmedel för cement och murbruk (»Poresit») m. m.",
+        "contact": {
+            "office": "Monopol, Borås",
+            "phone": [
+                "10678",
+                "14301"
+            ],
+            "postgiro": "33935"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "arb.antal": 10
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1903,
+        "board": [
+            {
+                "name": "v. konsul K. A. Evers",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Josef Lerjefors",
+                "role": "N/A"
+            },
+            {
+                "name": "kand. Erik Törnell",
+                "role": "N/A"
+            }
+        ],
+        "director": "Josef Lerjefors",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "2": {
+        "name": "AB. Kemiska Fabriken Norden",
+        "location": "Göteborg",
+        "business": "Färg- och fernissfabrik i Älvängen (Älvsb. l.). Tillverkar spec. skeppsbotten-färger och rostskyddsfärger samt färger mot kemiska angrepp. Varumärken: »Ekorren» o. »Nordolinolja».",
+        "contact": {
+            "office": "Göteborg",
+            "phone": [
+                "113530"
+            ],
+            "postgiro": "46386"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "arb.antal": 10
+            },
+            "annual_turnover": "750,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "N/A",
+                "role": "ordf."
+            }
+        ],
+        "director": "N/A",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "3": {
+        "name": "AB. Keros",
+        "location": "Stockholm",
+        "business": "Glödnätsfabrik i Södertälje. Tillverkar glödnät för gas, fotogen, bensin, acetylen, sprit m. m. Varunamn: »Keros». Försäljer glödljuslampor och -lyktor av främmande fabrikat.",
+        "contact": {
+            "office": "Stockholm, Sveavägen 33",
+            "phone": [
+                "105394"
+            ],
+            "postgiro": "26054"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb.": 35,
+                "hemarb.": 50
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "dir. Nils Westberg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gunnar Dalén",
+                "role": "N/A"
+            },
+            {
+                "name": "fil. dr Birger Lindgren",
+                "role": "N/A"
+            }
+        ],
+        "director": "N/A",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Kigus Instrumentfabrik",
+        "location": "Huvudsta, Solna",
+        "business": "Tillverkar tandläkarutensilier vid instrumentfabrik i Huvudsta (Stockh. l.). Varumärke: »Kigus».",
+        "contact": {
+            "office": "Kigus, Stockholm",
+            "phone": [
+                "271752"
+            ],
+            "postgiro": "193635"
+        },
+        "financials": {
+            "capital": "72,000 kr",
+            "employees": {
+                "arb.antal": 18
+            },
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1943,
+        "board": [],
+        "director": "tandläkare Karl Diamant",
+        "coordinates": {
+            "Latitude": 59.34893340000001,
+            "Longitude": 17.996043
+        }
+    },
+    "5": {
+        "name": "Josef Kihlberg, II jo",
+        "location": "N/A",
+        "business": "Smidesverkstäder, gjuteri och mek. verkstad. Tillverkar vagns- och automobilfjädrar, kapsågar (märke: »Göta»), häftklammer, häfthammare och häftapparater (märke: »Ortona») samt smiden och pressade artiklar. Firman driver även engroshandel med järnvaror samt engroshandel med skriv- och räknemaskiner.",
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "N/A": "N/A"
+            },
+            "annual_turnover": "1,200,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "kommendörkapten Erik Sundblad",
+                "role": "ordf."
+            },
+            {
+                "name": "dr Ernst Harbeck",
+                "role": "N/A"
+            },
+            {
+                "name": "civiling. Erik Sundberg",
+                "role": "N/A"
+            }
+        ],
+        "director": "Erik Sundberg",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    }
+}

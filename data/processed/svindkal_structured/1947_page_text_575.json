@@ -1,0 +1,237 @@
+{
+    "1": {
+        "name": "Frltr Persson",
+        "location": "Mosås (Örebro l.)",
+        "business": "Smides-, och mek. verkstad",
+        "products": "Tillverkar lastbilsflak samt släpvagnar för bilar och traktorer.",
+        "contact": {
+            "office": "Mosås (Örebro l.)",
+            "phone": [
+                "75068"
+            ],
+            "postgiro": "166701"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 13
+            },
+            "annual_turnover": "180 000 kr",
+            "annual_production_value": "180 000 kr"
+        },
+        "foundation_year": 1925,
+        "owners": [
+            "fabr. Fritz Persson"
+        ]
+    },
+    "2": {
+        "name": "AB. Henning Persson",
+        "location": "Göteborg, Säve (Göteb. o. Bohus l.)",
+        "business": "Färg- och fernissfabrik",
+        "products": "Tillverkar olje- och lackfärger, fernissor och läcker, slamfärger, asfaltprodukter, isolerings-och impregneringsmedel samt skur-, disk-oeh rengöringsmedel, putsmedel, bonvax m. m. Bolaget driver även engroshandel med kemikalier.",
+        "contact": {
+            "office": "Göteborg, ö. Hamng. 12",
+            "phone": [
+                "172925"
+            ],
+            "postgiro": "47871"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb.": 40
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1942,
+        "predecessor": "f.d. AB. Hemper, Göteborg",
+        "owners": [
+            "Verkst. dir.: Henning Persson"
+        ],
+        "board": [
+            {
+                "name": "dir. Reinhold Berglund",
+                "role": "ördf."
+            },
+            {
+                "name": "disp. Gustaf Berglund",
+                "role": ""
+            },
+            {
+                "name": "disp. Torsten Berglund",
+                "role": ""
+            },
+            {
+                "name": "fru Ingegerd Carolsson",
+                "role": ""
+            }
+        ]
+    },
+    "3": {
+        "name": "Ivan B. Person",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma",
+        "products": "Bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "office": "Drottningg. 4",
+            "phone": [
+                "230930"
+            ],
+            "postgiro": "157766"
+        },
+        "foundation_year": 1910,
+        "owners": [
+            "ing. Ivan B. Person"
+        ]
+    },
+    "4": {
+        "name": "AB. J. Pehrson &amp; Comp.",
+        "location": "Örebro",
+        "business": "Tillverkar skodon",
+        "products": "Varumärken: »Ingeborg» och »Engelbrekt». Bolaget idkar jämväl engroshandel med skodon, läder och galoscher m. m.",
+        "contact": {
+            "telegraph": "Pehrson, Örebro",
+            "phone": [
+                "Pehrson &amp; Comp"
+            ],
+            "postgiro": "5148"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb.": 235
+            },
+            "annual_turnover": "3,500,000 kr"
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "dir. Reinhold Berglund",
+                "role": "ördf."
+            },
+            {
+                "name": "disp. Gustaf Berglund",
+                "role": ""
+            },
+            {
+                "name": "disp. Torsten Berglund",
+                "role": ""
+            },
+            {
+                "name": "fru Ingegerd Carolsson",
+                "role": ""
+            }
+        ]
+    },
+    "5": {
+        "name": "AB. Johan Perssons Byggnadsvaror",
+        "location": "Lönsboda (Kristianst. l.)",
+        "business": "Sågverk och hyvleri",
+        "products": "Tillverkar sågade och hyvlade trävaror, listverk tia. m. Bolaget driver även handel med byggnadsvaror såsom fönster och dörrar, plywood m. m.",
+        "contact": {
+            "office": "Lönsboda (Kristianst. l.)",
+            "phone": [
+                "42"
+            ],
+            "postgiro": "74865"
+        },
+        "financials": {
+            "capital": "262,000 kr",
+            "employees": {
+                "industriarb.": 12
+            },
+            "annual_turnover": "120,000 kr"
+        },
+        "foundation_year": 1940,
+        "predecessor": "Johan Perssons Byggnadsvaror, Lönsboda Träförädling, Pella Persson",
+        "directors": [
+            "Disp.: N. E. Rönbeck"
+        ]
+    },
+    "6": {
+        "name": "K. J. Persson, Handskfabrik",
+        "location": "Malung (Kopparb. l.)",
+        "business": "Tillverkar promenadhandskar, sport-och arbetshandskar",
+        "contact": {
+            "office": "Malung (Kopparb. l.)",
+            "phone": [
+                "110"
+            ],
+            "postgiro": "130378"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 32
+            }
+        },
+        "foundation_year": 1924,
+        "owners": [
+            "fabr. Johan Persson"
+        ]
+    },
+    "7": {
+        "name": "Leander Pehrson Möbler",
+        "location": "Simrishamn",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "150",
+                "151"
+            ],
+            "postgiro": "27872"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 10
+            }
+        },
+        "foundation_year": 1912,
+        "owners": [
+            "fabr. Leander Pehrson",
+            "försäljn.-chef Börje Pehrson"
+        ]
+    },
+    "8": {
+        "name": "AB. Mårten Pehrsons Valsqvarn",
+        "location": "Kristianstad",
+        "business": "Kvarnar",
+        "products": "Tillverkar mjöl och kli av vete och råg.",
+        "contact": {
+            "telegraph": "Kvarnbolaget, Kristianstad o. Landskronakvarn, Landskrona",
+            "phone": [
+                "Kvarnbolaget",
+                "Kristianstad",
+                "25",
+                "157",
+                "775",
+                "1157"
+            ],
+            "postgiro": "6827 (Kristianstad)"
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "employees": {
+                "industriarb.": 135
+            }
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "v. konsul Carl Nilsson",
+                "role": "ordf."
+            },
+            {
+                "name": "landshövd. Joh. Nilsson",
+                "role": "v. ordf."
+            },
+            {
+                "name": "grossh. Anders Andersson",
+                "role": ""
+            },
+            {
+                "name": "dir. Hj. Oarl-573*",
+                "role": ""
+            }
+        ]
+    }
+}

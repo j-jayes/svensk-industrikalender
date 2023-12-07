@@ -1,0 +1,255 @@
+{
+    "1": {
+        "name": "Tärnsjö Ånggarveri AB.",
+        "location": "Tärnsjö",
+        "business": "Garveri, sadelmakeri och tillverkning av felfabrik",
+        "products": "Tillverkar plattläder, sy- och rålädersremmar, arbetsselar och andra sadelmakeriarbeten, arbetshandskar samt trätofflor.",
+        "contact": {
+            "office": "Tärnsjö",
+            "phone": [
+                "27"
+            ],
+            "postgiro": "22138"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "1,100,000 kr",
+            "annual_production_value": "1,100,000 kr"
+        },
+        "foundation_year": 1873,
+        "corporation_year": 1935,
+        "board": [
+            {
+                "name": "Julius Åström",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "Gösta Åström",
+                "role": "verkm."
+            },
+            {
+                "name": "Torsten Åström",
+                "role": "disp."
+            }
+        ],
+        "director": "Julius Åström",
+        "managing_director": "Julius Åström",
+        "sales_manager": "Torsten Åström",
+        "coordinates": {
+            "Latitude": 60.1554628,
+            "Longitude": 16.9308825
+        }
+    },
+    "2": {
+        "name": "AB. Tölö Fabriker",
+        "location": "Kungsbacka",
+        "business": "Fabrik för tillverkning av tak- och underlagspapp, förhydnings- och trossbottenpapp, isoleringspapp m. m. samt fabrik för tillverkning av träullsplattor",
+        "products": "Varumärken: »Wasapapp», »Kungspapp», »Ajekopapp» o. »Ajekoplattan».",
+        "contact": {
+            "office": "Kungsbacka",
+            "phone": [
+                "170"
+            ],
+            "telegraph": "Tölöfabrik, Kungsbacka"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 8
+            },
+            "corporation_year": 1920
+        },
+        "board": [
+            {
+                "name": "John A. Ekelund",
+                "role": "grossh."
+            },
+            {
+                "name": "G. V. Rundström",
+                "role": "grossh."
+            },
+            {
+                "name": "Gustaf M. Wadstein",
+                "role": "disp."
+            }
+        ],
+        "director": "Gustaf M. Wadstein",
+        "managing_director": "Gustaf M. Wadstein",
+        "coordinates": {
+            "Latitude": 57.48749189999999,
+            "Longitude": 12.0761927
+        }
+    },
+    "3": {
+        "name": "Tönnångers Trävaru AB.",
+        "location": "Holmsveden",
+        "business": "Sågverk och hyvleri",
+        "products": "Tillverkar sågade och hyvlade trävaror. Driver även jordbruk och skogshantering.",
+        "contact": {
+            "office": "Holmsveden",
+            "phone": [
+                "10"
+            ],
+            "postgiro": "21336"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "500 stds sågade o. 1,500 stds hyvlade trävaror"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "K.-E. Westholm",
+                "role": "sågverksäg."
+            },
+            {
+                "name": "Torsten Nordgren",
+                "role": "ing."
+            },
+            {
+                "name": "Herman Schönning",
+                "role": "lantmätare"
+            }
+        ],
+        "director": "K.-E. Westholm",
+        "coordinates": {
+            "Latitude": 61.1131277,
+            "Longitude": 16.7279774
+        }
+    },
+    "4": {
+        "name": "AB. Tönseth & Co.",
+        "location": "Stockholm",
+        "business": "Motor-mek. verkstad",
+        "products": "Tillverkar motorkolvar av gjutjärn och lättmetall, lagerskålar av blybrons och vitmetall, kolvtappar, ventiler och andra reservdelar för bil- och flygmotorer; utför översyn och renovering av bil- och flygmotorer. Varumärken: »Ateko» o. »Lo-Ex».",
+        "contact": {
+            "office": "Ulvsundav. 132",
+            "phone": [
+                "Tönseth & Comp"
+            ],
+            "postgiro": "1911"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "5,000,000 kr"
+        },
+        "foundation_year": 1921,
+        "corporation_year": 1928,
+        "board": [
+            {
+                "name": "H. Hagenius",
+                "role": "bankdir. (ordf.)"
+            },
+            {
+                "name": "Joh. Sande J:or",
+                "role": "konsul"
+            },
+            {
+                "name": "Ivar Yngström",
+                "role": "dir."
+            }
+        ],
+        "director": "Ivar Yngström",
+        "manager": "Gunnar Holm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "Töreboda Cjuteri & Mek. Verkstads AB.",
+        "location": "Töreboda",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar armatur för gas-och vattenledningsverk.",
+        "contact": {
+            "office": "Töreboda",
+            "phone": [
+                "10"
+            ],
+            "postgiro": "137670"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "380,000 kr"
+        },
+        "foundation_year": 1918,
+        "director": "Sven Wall",
+        "coordinates": {
+            "Latitude": 58.70550919999999,
+            "Longitude": 14.1261468
+        }
+    },
+    "6": {
+        "name": "Töreboda Keramikfabrik, B. Johansson",
+        "location": "Töreboda",
+        "business": "Tillverkning av keramik",
+        "products": "Specialiteter: hushålls-och prydnadskeramik (s. k. konstkeramik).",
+        "contact": {
+            "office": "Töreboda",
+            "phone": [
+                "163"
+            ],
+            "postgiro": "174570"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 7
+            },
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1941,
+        "manager": "Birger Johansson",
+        "coordinates": {
+            "Latitude": 58.70550919999999,
+            "Longitude": 14.1261468
+        }
+    },
+    "7": {
+        "name": "AB. Töreboda Tegelbruk",
+        "location": "Värnamo",
+        "business": "Tillverkning av mur-, fasad- och reveterings-tegel, taktegel samt dräneringsrör",
+        "products": "Specialitet: månghåltegel.",
+        "contact": {
+            "office": "Värnamo",
+            "phone": [
+                "10098",
+                "10638"
+            ],
+            "postgiro": "281262"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "10 milj. st. tegelvaror"
+        },
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "Gunnar Thilén",
+                "role": "verkst. dir. o. disp."
+            },
+            {
+                "name": "Lage Thilén",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        }
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "Elit—Elner",
+        "location": "Solna",
+        "business": "Chokladfabrik",
+        "contact": {
+            "phone": [
+                "20003",
+                "20011"
+            ],
+            "postgiro": "26585"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1890,
+        "board": [
+            {
+                "name": "Filip Eliasson",
+                "role": "dir."
+            },
+            {
+                "name": "Gunnar Eliasson",
+                "role": "dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. Elit-Sko",
+        "location": "Halmstad",
+        "business": "Tillverkar damskodon",
+        "contact": {
+            "phone": "1030",
+            "postgiro": "160418"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 38
+            }
+        },
+        "foundation_year": 1939,
+        "board": [
+            {
+                "name": "John F. Palmqvist",
+                "role": "fabr."
+            },
+            {
+                "name": "Arvid Lundström",
+                "role": "fabr."
+            },
+            {
+                "name": "Gösta Måshammar",
+                "role": "fabr."
+            },
+            {
+                "name": "John F. Palmqvist",
+                "role": "verkst. dir."
+            }
+        ]
+    },
+    "3": {
+        "name": "Elko Konfektions AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar damunderkläder i charmeuse och siden samt damklänningar och -blusar.",
+        "contact": {
+            "office": "Bryggarg. 18",
+            "phone": [
+                "212567",
+                "204066",
+                "102360"
+            ],
+            "postgiro": "24696"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1922,
+        "current_name_year": 1931,
+        "board": [
+            {
+                "name": "Hedvig Inf eld",
+                "role": "verkst. dir."
+            }
+        ]
+    },
+    "4": {
+        "name": "Otto Ellerström",
+        "location": "Malmö",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader, ång-skorstenar samt för inmurningar av ångpannor.",
+        "contact": {
+            "office": "Jörgen Ankersg. 20",
+            "phone": [
+                "28130",
+                "12492"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "foundation_year": 1923,
+        "owner": "byggm. Otto Ellerström"
+    },
+    "5": {
+        "name": "Eliess Maskinfabrik AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar iläggningsapparater för tryckpressar",
+        "contact": {
+            "office": "Köpmansg. 36—38",
+            "phone": [
+                "136988",
+                "137914"
+            ],
+            "postgiro": "12479"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1901,
+        "corporation_year": 1926,
+        "current_name_year": 1944,
+        "board": [
+            {
+                "name": "disp. August Sandberg",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "ing. Yngve Danielson",
+                "role": "driftschef"
+            },
+            {
+                "name": "Eric Schortz",
+                "role": "Kamrerer"
+            }
+        ]
+    },
+    "6": {
+        "name": "AB. Bror Eiliot",
+        "location": "Stockholm",
+        "business": "Damkonfektionsfabrik",
+        "contact": {
+            "office": "Sveavägen 34",
+            "phone": "232070",
+            "postgiro": "1774"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": 1921,
+        "corporation_year": 1932,
+        "board": [
+            {
+                "name": "dir. Bror Elliot",
+                "role": "ordf."
+            },
+            {
+                "name": "disp» Arne Elliot",
+                "role": "Disp."
+            },
+            {
+                "name": "Bror Elliot",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Arne Elliot",
+                "role": "Disp."
+            }
+        ]
+    },
+    "7": {
+        "name": "Elme Glasbruk, Borgarp & Co.",
+        "location": "Älmhult",
+        "business": "Glasbruk o. torvmosse",
+        "contact": {
+            "office": "Älmhult",
+            "phone": [
+                "4",
+                "120"
+            ],
+            "postgiro": "142110"
+        },
+        "financials": {
+            "employees": {
+                "glasbruket": 70,
+                "torvmossen": 120
+            },
+            "annual_production_value": "500,000 kr (glasbruket), 250,000 kr (torvmossen)"
+        },
+        "foundation_year": 1918,
+        "owners": [
+            "bruksäg. Fredrik Svensson",
+            "bruksäg. Leonard Borgarp",
+            "bruksäg. Filip Aste"
+        ],
+        "board": [
+            {
+                "name": "Paul K. Jonsson",
+                "role": "Kamrerer"
+            }
+        ]
+    }
+}

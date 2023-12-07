@@ -1,0 +1,215 @@
+{
+    "1": {
+        "name": "Delin—Djupafors",
+        "location": "Kallinge station",
+        "business": "Papp- och kartongfabriker",
+        "products": "Tillverkar papp och kartong.",
+        "contact": {
+            "phone": [
+                "21995",
+                "30809"
+            ],
+            "postgiro": "6870"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": "850,000 kr",
+            "annual_production_value": "850,000 kr"
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "Sven Knutson",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "Helge Peterson",
+                "role": "Försäljn.-chef"
+            }
+        ]
+    },
+    "2": {
+        "name": "Deltafor AB Örebro",
+        "location": "Örebro",
+        "business": "Kemisk teknisk fabrik",
+        "products": "Tillverkar vitamin-, hormon- och kem. tekniska preparat för lantbruk. Varumärken: »Deltafor» o. »Deltaplex».",
+        "contact": {
+            "phone": "16181",
+            "postgiro": "34038"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1942,
+        "director": "Lars-Eric Adler",
+        "sales_manager": "Fritz Ågren"
+    },
+    "3": {
+        "name": "AB. Dentatus, Aspudden",
+        "location": "Aspudden, Stockholm",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar apparater, instrument och förbrukningsartiklar för tandläkare. Specialitet: Diamantslipinstrument (slipskivor och andra slipkroppar, bestående av diamantpulver infattat i metall).",
+        "contact": {
+            "office": "Mek. verkstad i Aspudden, Stockholm.",
+            "phone": "452775",
+            "postgiro": "56412"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1930,
+        "director": "ing. Gustaf E. Björklund"
+    },
+    "4": {
+        "name": "AB. Detre* Vejbystrand",
+        "location": "Vejbystrand (Kristianst. l.)",
+        "business": "Träförädlingsfabrik",
+        "products": "Tillverkar inredningar, pentrys, bord för bordtennis, radiolådor m. m. Varumärke: »DETRE».",
+        "contact": {
+            "phone": [
+                "100",
+                "200"
+            ],
+            "postgiro": "299890"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1945,
+        "director": "Gustaf Sandberg",
+        "sales_manager": "Axel Persson"
+    },
+    "5": {
+        "name": "Diamantbergborrnings AB., Stockholm",
+        "business": "Se Svenska Diamantbergborrnings AB., Stockholm"
+    },
+    "6": {
+        "name": "Didriksons Oljeklädersfabrik, Löfström & Bäcker",
+        "location": "Grundsmid",
+        "business": "Tillverkar olje- och gummikläder",
+        "products": "Tillverkar olje- och gummikläder för fiske, sjöfart, gruvarbete, lantbruk m. fl. ändamål samt finare regnkläder m. m. Varumärke: »D O» (i femuddig stjärna).",
+        "contact": {
+            "phone": "1",
+            "postgiro": "9725",
+            "sales_offices": [
+                {
+                    "location": "Norrköping",
+                    "phone": "21734"
+                },
+                {
+                    "location": "Hälsingborg, Färjemansg. 34",
+                    "phone": "11919"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1913,
+        "current_name_year": 1939,
+        "owners": [
+            "disp. Lars E. Bäcker",
+            "civiling. Bernt Löfström"
+        ],
+        "director": "Lars E. Bäcker"
+    },
+    "7": {
+        "name": "Diesels Motorer, Saltsjö-Nacka",
+        "business": "Se AB. Atlas Diesel, Stockholm"
+    },
+    "8": {
+        "name": "AB. Dissousgas, Vänersborg",
+        "location": "Vänersborg",
+        "business": "Gasverk",
+        "products": "Tillverkar acetyléngas i behållare för svetsning, belysning och bildrift.",
+        "contact": {
+            "phone": "553",
+            "postgiro": "23155",
+            "sales_offices": [
+                {
+                    "location": "Karlskrona",
+                    "phone": "1077"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "Arb.-antal": 7
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "överdir. T. Emers",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gunnar Dalén",
+                "role": "distriktschef"
+            }
+        ],
+        "director": "fröken Beth Wester"
+    },
+    "9": {
+        "name": "Anders Diös, Uppsala",
+        "location": "Uppsala",
+        "business": "Byggnadsfirma",
+        "contact": {
+            "phone": "39350",
+            "postgiro": "5131"
+        },
+        "financials": {
+            "annual_turnover": "20,000,000 kr"
+        },
+        "foundation_year": 1921,
+        "director": "ing. Anders V. Diös",
+        "sales_manager": "Filialchefer: Enköping: byggm. David Sundström; Västerås: ing. Herman Stjernberg"
+    },
+    "10": {
+        "name": "AB, Djeddi, Jönköping",
+        "location": "Jönköping",
+        "business": "Konfektionsfabrik, charmeuseväveri och färgeri",
+        "products": "Tillverkar korsettartiklar, damunderkläder, blusar i charmeuse samt herr- och gosskjortbr^. Varumärke: »Djeddi».",
+        "contact": {
+            "phone": [
+                "3056",
+                "4787"
+            ],
+            "postgiro": "135625"
+        },
+        "financials": {
+            "capital": "65,000 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1937,
+        "director": "fabr. Hjalmar Blomgren"
+    },
+    "11": {
+        "name": "Djupafors Fabriks AB., Kallinge station",
+        "business": "Papp- och kartongfabriker",
+        "products": "Tillverkar papp och kartong."
+    }
+}

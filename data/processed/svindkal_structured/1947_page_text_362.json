@@ -1,0 +1,202 @@
+{
+    "1": {
+        "name": "Hilloverken—Hjo",
+        "location": "AB. Hilloverken, Värnamo.",
+        "business": "Mek. verkstäder i Hillerstorp och Värnamo (båda i Jönköp. l.). Tillverkar som specialitet hänglås.",
+        "contact": {
+            "office": "Värnamo",
+            "phone": [
+                "11295",
+                "96"
+            ],
+            "postgiro": "71236"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1946,
+        "director": "Olof Backnäs"
+    },
+    "2": {
+        "name": "AB. Hisingstads Snickerifabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar möbler, båt-, bank- och affärsinredningar, fotografikameror i trä samt trätryckvalsar m. m. vid möbelfabrik i Partille (Göteb. o. Bohus l.).",
+        "contact": {
+            "office": "Kungsg. 7 A",
+            "phone": "136598",
+            "postgiro": "48872"
+        },
+        "financials": {
+            "capital": "44,300 kr",
+            "employees": {
+                "industriarb": 13
+            }
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "fabr. Ernst F. Granath",
+                "role": "ordf."
+            },
+            {
+                "name": "verkm. Erik Granath",
+                "role": ""
+            },
+            {
+                "name": "verkm. Gustav Granath",
+                "role": ""
+            },
+            {
+                "name": "köpman Sture Granath",
+                "role": ""
+            }
+        ],
+        "director": "Ernst F. Granath"
+    },
+    "3": {
+        "name": "Hissmofors AB.",
+        "location": "Krokom",
+        "business": "Sulfitfabrik, sulfitspritfabrik, sågverk och elektr. vattenkraftstation vid Hiss-mofors, Krokom (Jämtl. l.). Tillverkar sulfitcellulosa, sulfitsprit samt sågade och hyvlade trävaror samt distribuerar elektr. energi.",
+        "contact": {
+            "telegraph": "Hissmofors, Krokom",
+            "phone": "61",
+            "postgiro": "9977"
+        },
+        "financials": {
+            "capital": "4,290,000 kr",
+            "employees": {
+                "industriarb": 235
+            },
+            "annual_turnover": "24,000 ton sulfitcellulosa, 4,000 stds sågade o. hyvlade trävaror"
+        },
+        "foundation_year": 1894,
+        "board": [
+            {
+                "name": "dir. P. G. Palmquist",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Carl Sundelin",
+                "role": "v. ordf."
+            },
+            {
+                "name": "ing. S. No-bell",
+                "role": ""
+            },
+            {
+                "name": "övering. J. Strindlund",
+                "role": ""
+            },
+            {
+                "name": "dir. Sjune Svensson",
+                "role": ""
+            }
+        ],
+        "director": "Sjune Svensson",
+        "manager": "K. A. Kilander"
+    },
+    "4": {
+        "name": "Hjeltevads Nya Träförädlings AB.",
+        "location": "Hjältevad",
+        "business": "Snickerifabrik, sågverk och hyvleri i Hjältevad (Jönköp. l.). Tillverkar byggnadssnickerier, sågade och hyvlade trävaror; utför dörrar och fönster av svensk standardtyp. Bolaget idkar jämväl jord-och skogsbruk.",
+        "contact": {
+            "telegraph": "Träförädlingen, Hjältevad",
+            "phone": "1",
+            "postgiro": "91811"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 46
+            },
+            "annual_production_value": "2,100 stds sågade o. 800 stds hyvlade trävaror"
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "disp. C. Christog Carlsson",
+                "role": "ordf."
+            },
+            {
+                "name": "förvalt. Carl-Åke Carlsson",
+                "role": ""
+            },
+            {
+                "name": "hemmansäg. Karl August Johansson",
+                "role": ""
+            },
+            {
+                "name": "fru M. Leisner",
+                "role": ""
+            },
+            {
+                "name": "fru A.-G. Lundell",
+                "role": ""
+            }
+        ],
+        "director": "C. O. Carlsson",
+        "manager": "F. Zackrisson"
+    },
+    "5": {
+        "name": "Hjo Bryggeri",
+        "location": "Hjo",
+        "business": "Skattepliktigt bryggeri med vattenfabrik. Tillverkar malt- och läskedrycker.",
+        "contact": {
+            "phone": "80"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_turnover": "425,000 kr"
+        },
+        "foundation_year": 1908,
+        "director": "dir. Per A. Forssell"
+    },
+    "6": {
+        "name": "Hjo Mek. Verkstad & Elektricitetsverk, K. o. W. Smedberg",
+        "location": "Hjo",
+        "business": "Tillverkar radiatorer, transportabla lyftanordningar, plåtbearbetningsmaski-ner, branddörrar, stålmellanväggar och stålfönster; framställer syrgas och distribuerar elektr. energi.",
+        "contact": {
+            "telegraph": "Hjo mekaniska",
+            "postgiro": "33229"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 145
+            }
+        },
+        "foundation_year": 1889,
+        "director": "Åke Lindholm",
+        "manager": "Bo Lindholm",
+        "sales_manager": "ing. Gösta Ågren"
+    },
+    "7": {
+        "name": "Hjo Snickerifabrik AB.",
+        "location": "Hjo",
+        "business": "Tillverkar sågade och hyvlade trävaror. Firman driver även handel med bygg-nadsmateriel.",
+        "contact": {
+            "phone": [
+                "600",
+                "03"
+            ],
+            "postgiro": "37358"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1946,
+        "director": "Gustaf Törling"
+    },
+    "8": {
+        "name": "AB. Hjo Söm- & Broddfabrik",
+        "location": "Hjo",
+        "business": "Smides- och mek. verkstad. Tillverkar byggnadsbeslag och pressartiklar. Specialiteter: skåpreglar och lådhandtag (märke: »Hio»), skyddsglasögon, skärpspännen, trycklås, portmonnäbyglar m. m."
+    }
+}

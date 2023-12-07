@@ -1,0 +1,325 @@
+{
+    "1": {
+        "name": "AB. Ödeshögs Snickerifabrik",
+        "location": "Ödeshög",
+        "business": "Tillverkning av byggnadssnickerier",
+        "products": "Byggnadssnickerier",
+        "contact": {
+            "office": "Ödeshög",
+            "phone": [
+                "19"
+            ],
+            "postgiro": "70528",
+            "head_office": "Ödeshög",
+            "telegraph": "",
+            "factory_office": "Ödeshög",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "",
+            "annual_production_value": "335,000 kr"
+        },
+        "foundation_year": 1917,
+        "coordinates": {
+            "Latitude": 58.2289961,
+            "Longitude": 14.6488199
+        }
+    },
+    "2": {
+        "name": "Ödeshögsverken AB.",
+        "location": "Ödeshög",
+        "business": "Mekanisk verkstad, plåtslageri och tack-järnsgjuteri",
+        "products": "Transportanläggningar, järnkonstruktioner, grovplåtsarbeten, tackjärnsgjutgods, trä- och metallmodeller",
+        "contact": {
+            "office": "Ödeshög",
+            "phone": [
+                "ödeshögsverken"
+            ],
+            "postgiro": "70135",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "överken, Ödeshög",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1925,
+        "board": [
+            {
+                "name": "adv. H. Utterström",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Gunnar W. Johansson",
+                "role": ""
+            },
+            {
+                "name": "herr Lennart Johansson",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 58.2289961,
+            "Longitude": 14.6488199
+        }
+    },
+    "3": {
+        "name": "A. B. öhnbergs Konservfabrik",
+        "location": "Lysekil",
+        "business": "Tillverkning av ansjovis, sillinläggningar och kaviar",
+        "products": "Ansjovis, sillinläggningar, kaviar",
+        "contact": {
+            "office": "Lysekil",
+            "phone": [
+                "55"
+            ],
+            "postgiro": "36062",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Ejdern, Lysekil",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": "450,000 kr"
+        },
+        "foundation_year": 1898,
+        "owners": [
+            "fru Charlotta öhnberg"
+        ],
+        "director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 58.27557299999999,
+            "Longitude": 11.435558
+        }
+    },
+    "4": {
+        "name": "Patrik Öhnbergs Konservfabrik",
+        "location": "Lysekil",
+        "business": "Tillverkning av ansjovis, sillinläggningar, kaviar, sardiner",
+        "products": "Ansjovis, sillinläggningar, kaviar, sardiner",
+        "contact": {
+            "office": "Lysekil",
+            "phone": [
+                "131"
+            ],
+            "postgiro": "72932",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1905,
+        "owners": [
+            "Albert Anderssons sterbhus"
+        ],
+        "director": "",
+        "coordinates": {
+            "Latitude": 58.27557299999999,
+            "Longitude": 11.435558
+        }
+    },
+    "5": {
+        "name": "Öhrvikens AB.",
+        "location": "Köpmanholmen",
+        "business": "Tillverkning av sulfitcellulosa",
+        "products": "Sulfitcellulosa",
+        "contact": {
+            "office": "Köpmanholmen",
+            "phone": [
+                "Köpmanholmen 27",
+                "165",
+                "Bjästa 1",
+                "54",
+                "Örnsköldsvik 2475"
+            ],
+            "postgiro": "61112",
+            "head_office": "Köpmanholmen",
+            "sales_offices": [
+                {
+                    "location": "Örnsköldsvik",
+                    "phone": ""
+                }
+            ],
+            "telegraph": "Forss, Köpmanholmen",
+            "factory_office": "örviken",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "3,600,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "",
+            "annual_production_value": "35,000 ton stark sulfitcellulosa"
+        },
+        "foundation_year": 1893,
+        "board": [
+            {
+                "name": "dir. Theodor Hedberg",
+                "role": "ordf."
+            },
+            {
+                "name": "kapten Hj. Hedberg",
+                "role": ""
+            },
+            {
+                "name": "dir. Oscar Hedbergs dir. Em. Högberg",
+                "role": ""
+            },
+            {
+                "name": "bankdir. Ernst Åberg",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "coordinates": {
+            "Latitude": 63.16845420000001,
+            "Longitude": 18.5628322
+        }
+    },
+    "6": {
+        "name": "Ölands Cement A Degerhamn",
+        "location": "Degerhamn",
+        "business": "Tillverkning av cement, kalk och mekanisk verkstad",
+        "products": "Standardportlandcement, E-cement, osläekt och släckt kalk, osläckt målkalk, släckt murkalk",
+        "contact": {
+            "office": "Degerhamn",
+            "phone": [
+                "Degerhamn 2",
+                "4",
+                "77"
+            ],
+            "postgiro": "11302",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Insula, Degerhamn",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "1,687,500 kr",
+            "employees": {
+                "industriarb": 170
+            },
+            "annual_turnover": "",
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1887,
+        "corporation_year": 1916,
+        "board": [
+            {
+                "name": "frih. Erik Stiernstedt",
+                "role": "ordf."
+            },
+            {
+                "name": "revisor Arne Henrikson",
+                "role": ""
+            },
+            {
+                "name": "fil. dr Fr. Killig",
+                "role": ""
+            },
+            {
+                "name": "dir. Malte Ström",
+                "role": ""
+            },
+            {
+                "name": "civiling. Carl-Gustaf Toll",
+                "role": ""
+            },
+            {
+                "name": "dir. Ernst Wehtje",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "coordinates": {
+            "Latitude": 56.3596399,
+            "Longitude": 16.4075762
+        }
+    },
+    "7": {
+        "name": "Ölands Ytong AB.",
+        "location": "Ventlinge",
+        "business": "Tillverkning av lättbetong och bränd kalk",
+        "products": "Lättbetong, bränd kalk",
+        "contact": {
+            "office": "Ventlinge",
+            "phone": [
+                "Grönhögen 49",
+                "50"
+            ],
+            "postgiro": "165270",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 170
+            },
+            "annual_turnover": "",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1939,
+        "current_name_year": 1946,
+        "board": [
+            {
+                "name": "dir. C. Aug. Carlén",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Bertil Carlén",
+                "role": ""
+            },
+            {
+                "name": "disp. Erik Carlén",
+                "role": ""
+            },
+            {
+                "name": "övering. Birger Sundfeldt",
+                "role": ""
+            },
+            {
+                "name": "ing. Ernst Wranne",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "coordinates": {
+            "Latitude": 56.2844358,
+            "Longitude": 16.4073276
+        }
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "1": {
+        "name": "Kirudds AB.",
+        "location": "Vänersborg",
+        "business": "Damkonfektionsfabrik",
+        "products": "Tillverkar kappor, dräkter, blazers, pälsar och badkappor.",
+        "contact": {
+            "phone": [
+                "863",
+                "864"
+            ],
+            "postgiro": "29009"
+        },
+        "financials": {
+            "capital": "400,000 kr"
+        },
+        "foundation_year": 1917,
+        "current_name_year": 1940,
+        "board": [
+            {
+                "name": "grossh. Bror Kirudd",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.3797283,
+            "Longitude": 12.3248032
+        }
+    },
+    "2": {
+        "name": "Kiruna Ölbryggeri AB.",
+        "location": "Kiruna",
+        "business": "Tillverkar maltdrycker, mineralvatten och läskedrycker",
+        "contact": {
+            "telegraph": "ölbryggeriet, Kiruna",
+            "postgiro": "61679"
+        },
+        "financials": {
+            "capital": "100,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "arkitekt John Wikberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "apot. Erik Georgii",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Erik Georgii",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "bryggm. Karl Erik Sand-t)erg",
+                "role": "Platschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 67.8557995,
+            "Longitude": 20.2252821
+        }
+    },
+    "3": {
+        "name": "Kirurgiska Instrument Fabriks AB.",
+        "location": "Stockholm",
+        "business": "Finmek. verkstad och instrumentfabrik",
+        "products": "Tillverkar kirurgiska instrument i rostfritt stål, operationsmöbler, steriliseringsapparater, elektromedicinska apparater, konstgjorda lemmar, ortopediska bandage, laboratorieartiklar, elektr. centrifuger m. m. Varumärke: »Kifa».",
+        "contact": {
+            "office": "Regeringsg. 31",
+            "telegraph": "Kifa, Stockholm",
+            "phone": "Instrument-Kifa",
+            "postgiro": "2103"
+        },
+        "financials": {
+            "capital": "550,000 kr"
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "med. dr Carl S. Samnuelsson",
+                "role": "Styrelse (ordf.)"
+            },
+            {
+                "name": "ing. Arvid Bergman",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Erich Dingel",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Gustaf V. Ljungberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "överläkare Svante Orell",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Erich Dingel",
+        "manager": "Allan Jonson",
+        "sales_manager": "Nils Lundgren",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Kjells Armaturfabrik",
+        "location": "Bäckefors",
+        "business": "Tillverkar armatur för gas, vatten och ånga, metallgjutgods samt botten- och mellanventilen »Källan»",
+        "contact": {
+            "phone": "4",
+            "postgiro": "87350"
+        },
+        "financials": {
+            "capital": "120,000 kr"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "dir. Axel Calvert",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fabr. C. J. Kjell",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. H. Kjell",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kontorschef K. R. Sahlberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "civiling. A. Weilenmann",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Axel Calvert",
+        "sales_manager": "Halfdan Kjell",
+        "coordinates": {
+            "Latitude": 58.8058606,
+            "Longitude": 12.1563562
+        }
+    },
+    "5": {
+        "name": "Kjellander & Co.",
+        "location": "Vetlanda",
+        "business": "Utför slipning, gravering och annan konstindustrien bearbetning av glas",
+        "contact": {
+            "phone": "296",
+            "postgiro": "88316"
+        },
+        "foundation_year": 1925,
+        "owners": [
+            "fabr. Åke Kjellander",
+            "fabr. Nils Kjellander"
+        ],
+        "coordinates": {
+            "Latitude": 57.42746,
+            "Longitude": 15.08533
+        }
+    },
+    "6": {
+        "name": "A. P. Kjellgrens Brödfabrik AB.",
+        "location": "Örebro",
+        "business": "Tillverkar mjukbröd, skorpor och knäckebröd",
+        "contact": {
+            "telegraph": "Apk",
+            "postgiro": "27907"
+        },
+        "financials": {
+            "capital": "160,000 kr"
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "adv. H. Almer",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Ernst Kjellgren",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kassör Harald Kjellgren",
+                "role": "Styrelse"
+            },
+            {
+                "name": "verkm. Karl August Kjellgren",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kamrer Carl-Gustaf Lindström",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Ernst Kjellgren",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "7": {
+        "name": "Kjellströms Mek. Verkstad",
+        "location": "Kvänum",
+        "business": "Mek. verkstad och tunnplåtslageri",
+        "products": "Tillverkar lantbruksmaskiner såsom foderhissar, injektioner, halmfläktar och gröpkvarnar. Varunamn: »Kjällve»",
+        "contact": {
+            "phone": [
+                "25",
+                "59"
+            ]
+        },
+        "foundation_year": 1890,
+        "owners": [
+            "fabr. Sven Kjällström"
+        ],
+        "coordinates": {
+            "Latitude": 58.298928,
+            "Longitude": 13.1853539
+        }
+    },
+    "8": {
+        "name": "AB. Klackfabriken",
+        "location": "Virserum",
+        "business": "Tillverkar träklackar och träsulor för damskodon",
+        "contact": {
+            "phone": "21",
+            "postgiro": "26744"
+        },
+        "financials": {
+            "capital": "120,000 kr"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Josef Danielson",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.3199949,
+            "Longitude": 15.5812344
+        }
+    }
+}

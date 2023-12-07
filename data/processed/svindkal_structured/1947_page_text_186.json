@@ -1,0 +1,41 @@
+{
+    "1": {
+        "name": "Billerud",
+        "location": "Billesholm",
+        "business": "Massa- och pappersproduktion",
+        "contact": {
+            "telegraph": "Billerud, Göteborg",
+            "phone": [
+                "135108",
+                "135118"
+            ]
+        },
+        "financials": {
+            "capital": "31,020,000 kr",
+            "employees": {
+                "industriarb": 1850
+            }
+        },
+        "foundation_year": 1883,
+        "original_name": "Billerud Sales Co. Ltd."
+    },
+    "2": {
+        "name": "Billesholms Glasulls AB.",
+        "location": "Billesholm",
+        "business": "Tillverkning av isoleringsmaterial av glasull",
+        "contact": {
+            "telegraph": "Glasullsbolaget, Billesholm",
+            "phone": [
+                "Glasullsbolaget"
+            ],
+            "postgiro": "84350"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 200
+            }
+        },
+        "foundation_year": 1933
+    }
+}

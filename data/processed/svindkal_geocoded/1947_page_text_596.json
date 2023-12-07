@@ -1,0 +1,134 @@
+{
+    "1": {
+        "name": "J. N. Rosengrens Metallgjuteri AB.",
+        "location": "Limhamn, Malmö",
+        "business": "Metall- och aluminiumgjuteri",
+        "products": "Tillverkar gjutgods, metallgjutgods och lättmetallegeringar samt utför: konstgjutningar och centrifugalgjutningar. Varumärke för vita lagermetaller: »Göta».",
+        "contact": {
+            "office": "Järnvägsg. 42, Limhamn",
+            "phone": [
+                "Malmö 51669",
+                "Malmö 51667"
+            ],
+            "postgiro": "30685",
+            "telegraph": "Metallgjuteriet, Malmö"
+        },
+        "financials": {
+            "capital": "132,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1909,
+        "coordinates": {
+            "Latitude": 55.5724415,
+            "Longitude": 12.9147749
+        }
+    },
+    "2": {
+        "name": "Rosenlunds Järn- & Träförädlingsfabrik, Gustaf Andersson & Söner",
+        "location": "Hjo",
+        "products": "Tillverkar parkettgolv, fönster, dörrar och trappor samt köks- och butiksinredningar.",
+        "contact": {
+            "phone": "211",
+            "postgiro": "265915",
+            "sales_offices": [
+                {
+                    "location": "Göteborg, Södra vägen 65",
+                    "phone": "167799"
+                }
+            ]
+        },
+        "financials": {
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1910,
+        "coordinates": {
+            "Latitude": 58.3070702,
+            "Longitude": 14.2874663
+        }
+    },
+    "3": {
+        "name": "Ross AB.",
+        "location": "Göteborg",
+        "products": "Tillverkar apparater för fotografiskt ändamål.",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "Elnär Rostedt, Nya Möbelfabriken",
+        "location": "Sävsjö",
+        "coordinates": {
+            "Latitude": 57.39899579999999,
+            "Longitude": 14.6658136
+        }
+    },
+    "5": {
+        "name": "Rostfria Andersson",
+        "location": "Sundbyberg",
+        "coordinates": {
+            "Latitude": 59.369325,
+            "Longitude": 17.9609133
+        }
+    },
+    "6": {
+        "name": "Rostskyddsbolaget Lidén & Co.",
+        "location": "Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "Rotogravyr",
+        "location": "Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "8": {
+        "name": "Rottne Snickerifabriks AB.",
+        "location": "Rottne",
+        "products": "Tillverkar möbler vid fabrik i Rottne (Kronob. l.).",
+        "contact": {
+            "phone": "26",
+            "postgiro": "146420"
+        },
+        "financials": {
+            "capital": "28,500 kr",
+            "employees": {
+                "industriarb": 33
+            },
+            "annual_production_value": "220,000 kr"
+        },
+        "foundation_year": 1905,
+        "coordinates": {
+            "Latitude": 57.0222025,
+            "Longitude": 14.8917539
+        }
+    },
+    "9": {
+        "name": "AB. Rottneros Bruk",
+        "location": "Rottneros",
+        "products": "Träsliperi, sågverk, mek. verkstad och elektr. vattenkraftstationer vid Rottneros samt sågverk vid Slottsbron (båda i Värml. l.). Tillverkar mek. trämassa och sågade trävaror samt idkar elektrisk distributionsrörelse, skogshantering, jordbruk och kvarnrörelse.",
+        "coordinates": {
+            "Latitude": 59.7958694,
+            "Longitude": 13.1094255
+        }
+    },
+    "10": {
+        "name": "AB. Rubberfilm",
+        "location": "Åmål",
+        "business": "Gummivarufabrik",
+        "products": "Tillverkar sanitära gummi varor, batister, gummiduk, gummitaft till trench-coats, gummerade tyger.",
+        "coordinates": {
+            "Latitude": 59.05111699999999,
+            "Longitude": 12.6977323
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "1": {
+        "name": "AB. Lllljedahlska Läderfabriken",
+        "location": "Sölvesborg",
+        "business": "Tillverkar koläder oeh käras tycken",
+        "contact": {
+            "phone": [
+                "10006",
+                "10026"
+            ],
+            "postgiro": "71271",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "417722"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1850,
+        "board": [
+            {
+                "name": "jur. dr Axel Roos",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Svante Lundblad",
+                "role": null
+            },
+            {
+                "name": "amanuens Gunnar Nordqvist",
+                "role": null
+            },
+            {
+                "name": "jur. kand, C.-S. Roos",
+                "role": null
+            },
+            {
+                "name": "dir. Olof Ståhl",
+                "role": null
+            }
+        ],
+        "director": "Olof Ståhl"
+    },
+    "2": {
+        "name": "Lillåns Konfektion, Torkeisson & Co.",
+        "location": "Limmared",
+        "business": "Tillverkar skyddskläder, sportkläder, herrbyxor, barnoveralls., plasticartiklar in. m. vid fabrik i Limmared (Älvsb. l.)",
+        "contact": {
+            "phone": [
+                "71117"
+            ],
+            "postgiro": "292905"
+        },
+        "employees": {
+            "industriarb": 30
+        },
+        "foundation_year": 1945,
+        "owners": [
+            "fabr. Stig Blåberg",
+            "fabr. Sven Nilsson",
+            "fabr. Håkan Tor-kelsson"
+        ]
+    },
+    "3": {
+        "name": "AB. Limhamns Aduceringsverk",
+        "location": "Limhamn",
+        "business": "Aduceringsverk, gjuteri och mek. verkstad",
+        "contact": {
+            "phone": [
+                "Aduceringsverket",
+                "73150"
+            ],
+            "postgiro": "38438"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": "225"
+            }
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "bankombudsm. Eric Paulson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. John M. Ericson",
+                "role": null
+            },
+            {
+                "name": "dir. Harald Evers",
+                "role": null
+            },
+            {
+                "name": "fru Greta Linander",
+                "role": null
+            }
+        ],
+        "director": "Lorens Lindqvist"
+    },
+    "4": {
+        "name": "Limhamns Stegindustri, Fr. Holmstrand",
+        "location": "Limhamn",
+        "business": "Tillverkar brandstegar, hantverksstegar, trädgårdsstegar, hushållsstegar m. m.",
+        "contact": {
+            "phone": [
+                "51457"
+            ],
+            "postgiro": "29671",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "117107"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "348"
+                }
+            ]
+        },
+        "employees": {
+            "industriarb": 5
+        },
+        "foundation_year": 1926,
+        "owner": "fabr. Frans Holmstrand"
+    },
+    "5": {
+        "name": "Limhamns Träindustri AB.",
+        "location": "Stockholm",
+        "business": "Parkettfabriker",
+        "contact": {
+            "phone": "675140"
+        },
+        "employees": {
+            "industriarb": 500
+        },
+        "financials": {
+            "capital": "516,000 kr",
+            "annual_production_value": "10,000,000 kr"
+        },
+        "foundation_year": 1886,
+        "board": [
+            {
+                "name": "dir. Ernst Wehtje",
+                "role": "ordf."
+            },
+            {
+                "name": "överstelöjtn. Torsten Holmer",
+                "role": null
+            },
+            {
+                "name": "ryttm. Hugo Wehtje",
+                "role": null
+            }
+        ],
+        "director": "Jl. Wehtje"
+    },
+    "6": {
+        "name": "Linberedningen",
+        "location": "Kristinehamn",
+        "business": "Linberedningsverk",
+        "contact": {
+            "phone": "12300-01",
+            "postgiro": "80563"
+        },
+        "employees": {
+            "industriarb": 150
+        },
+        "financials": {
+            "annual_production_value": "2,500,000 kr"
+        },
+        "owner": "Mellersta Sveriges Linodlareförening u. p. a.",
+        "director": "Frey Larsson"
+    }
+}

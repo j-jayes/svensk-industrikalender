@@ -1,0 +1,197 @@
+{
+    "1": {
+        "name": "AB. Arbit",
+        "location": "Arboga",
+        "business": "Elektr. sintringsverk och smältverk",
+        "products": "Sintrad hårdmetall (»Vivax» o. »Sintram») samt gjuten hårdmetall (»Pansar» o. »Arbit»); dragverktyg av sintrad hårdmetall för dragning av järn och metall, dragskivor, runda och profilerade, fasta samt ställbara för tråd, stänger och rör, dragdornar för runda och profilerade rör, dragdynor för kopp-ning och hylsdragning, diverse andra dragverktyg; slitdetaljer av gjuten hårdmetall, runda och profilerade sandbläster-munstycken samt diverse verktyg och maskindetaljer utsatta för förslitning",
+        "contact": {
+            "office": "Arbit, Arboga",
+            "phone": [
+                "226"
+            ],
+            "postgiro": "51462",
+            "head_office": "Fagersta Bruks AB, Fagersta",
+            "sales_offices": [
+                {
+                    "location": "Fagersta",
+                    "phone": "Unknown"
+                },
+                {
+                    "location": "Arboga",
+                    "phone": "Unknown"
+                }
+            ],
+            "telegraph": "Arbit, Arboga",
+            "description": "Contact information for the firm."
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_turnover": "500,000 kr",
+            "description": "Financial information of the firm."
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "disp. Hj. Åselius",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Nils Elfström",
+                "role": "Unknown"
+            },
+            {
+                "name": "dir. Zacheus Olson",
+                "role": "Unknown"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.39368829999999,
+            "Longitude": 15.8381747
+        }
+    },
+    "2": {
+        "name": "Arboga Boktryckeri AB.",
+        "location": "Arboga",
+        "business": "Utför tidnings-, bok- och accidenstryck, affärstryck, kataloger m. m.",
+        "products": "Unknown",
+        "contact": {
+            "phone": [
+                "Arboga tidning"
+            ],
+            "postgiro": "28543"
+        },
+        "financials": {
+            "capital": "124,000 kr",
+            "description": "Financial information of the firm."
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "kamrer Stig Holm",
+                "role": "ordf."
+            },
+            {
+                "name": "chefred. J. Anton Selander",
+                "role": "Unknown"
+            },
+            {
+                "name": "red. John Wallström",
+                "role": "Unknown"
+            }
+        ],
+        "director": "John Wallström",
+        "coordinates": {
+            "Latitude": 59.39368829999999,
+            "Longitude": 15.8381747
+        }
+    },
+    "3": {
+        "name": "Arboga Bryggeri AB.",
+        "location": "Arboga",
+        "business": "Tillverkar malt- och läskedrycker",
+        "products": "Unknown",
+        "contact": {
+            "telegraph": "Bryggeribolaget, Arboga",
+            "phone": [
+                "31"
+            ],
+            "postgiro": "6361"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "description": "Financial information of the firm."
+        },
+        "foundation_year": 1899,
+        "coordinates": {
+            "Latitude": 59.39368829999999,
+            "Longitude": 15.8381747
+        }
+    },
+    "4": {
+        "name": "AB. Arboga Kvarn & Maltfabrik",
+        "location": "Arboga",
+        "business": "Tillverkar vete- och rågmjöl samt pilsnermalt.",
+        "products": "Varumärke: »Guldsnö»vetemjöl. Firman driver även engroshandel med kraftfoder och gödningsämnen",
+        "contact": {
+            "telegraph": "Kvarnmalt, Arboga",
+            "phone": [
+                "238",
+                "237"
+            ],
+            "postgiro": "10078"
+        },
+        "financials": {
+            "capital": "226,250 kr",
+            "description": "Financial information of the firm."
+        },
+        "foundation_year": 1923,
+        "coordinates": {
+            "Latitude": 59.39368829999999,
+            "Longitude": 15.8381747
+        }
+    },
+    "5": {
+        "name": "AB. Arboga Margarinfabrik",
+        "location": "Arboga",
+        "business": "Tillverkar växtmargarin, animalisk margarin, kokossmör och konstister",
+        "products": "Unknown",
+        "contact": {
+            "telegraph": "Margarinfabrik, Arboga",
+            "phone": [
+                "188"
+            ],
+            "postgiro": "6352"
+        },
+        "financials": {
+            "capital": "2,500,000 kr",
+            "description": "Financial information of the firm."
+        },
+        "foundation_year": 1928,
+        "coordinates": {
+            "Latitude": 59.39368829999999,
+            "Longitude": 15.8381747
+        }
+    },
+    "6": {
+        "name": "AB. Arbogamaskiner",
+        "location": "Arboga",
+        "business": "Mek. verkstad. Tillverkar elektriskt direktdrivna verktygsmaskiner",
+        "products": "Unknown",
+        "contact": {
+            "telegraph": "Elektrofabrik, Arboga",
+            "phone": [
+                "20"
+            ],
+            "postgiro": "77023"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "description": "Financial information of the firm."
+        },
+        "foundation_year": 1937,
+        "coordinates": {
+            "Latitude": 59.39368829999999,
+            "Longitude": 15.8381747
+        }
+    },
+    "7": {
+        "name": "AB. Arboga Mekaniska Verkstad",
+        "location": "Arboga",
+        "business": "Mek. verkstad med gjuteri och elektr» vattenkraftstation (Grindberga).",
+        "products": "Unknown",
+        "contact": {
+            "telegraph": "Verkstaden, Arboga",
+            "phone": "Unknown",
+            "postgiro": "25175"
+        },
+        "financials": {
+            "capital": "Unknown",
+            "description": "Financial information of the firm."
+        },
+        "foundation_year": "Unknown",
+        "coordinates": {
+            "Latitude": 59.39368829999999,
+            "Longitude": 15.8381747
+        }
+    }
+}

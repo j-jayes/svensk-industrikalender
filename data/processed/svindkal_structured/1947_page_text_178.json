@@ -1,0 +1,185 @@
+{
+    "1": {
+        "name": "Berggrens Stenhuggeri",
+        "location": "Stockholm",
+        "business": "Arbeten av in- oeli utländsk marmor samt av kalksten",
+        "contact": {
+            "office": "Hornsg. 117",
+            "phone": [
+                "400990"
+            ],
+            "postgiro": "52267",
+            "telegraph": "Stenberggren, Stockholm"
+        },
+        "financials": {
+            "capital": "Not Available",
+            "employees": {
+                "industriarb": 11
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "foundation_year": 1920,
+        "owners": [
+            "fabr. Karl E. Berggren"
+        ]
+    },
+    "2": {
+        "name": "AB. Bergkvara Träindustri",
+        "location": "Bergkvara",
+        "business": "Tunnbinderi i Bergkvara. Tillverkar smördrittlar, sillfjärdingar, tunnor, såpfat m. m.",
+        "contact": {
+            "phone": [
+                "1"
+            ],
+            "postgiro": "76781",
+            "telegraph": "Träindustri, Bergkvara"
+        },
+        "financials": {
+            "capital": "21,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "dir. Josef K. Karlberg",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. Fritz H. Alm",
+                "role": "Not Available"
+            },
+            {
+                "name": "verkm. J. F. Dacke",
+                "role": "Not Available"
+            },
+            {
+                "name": "fru K. Karlberg",
+                "role": "Not Available"
+            },
+            {
+                "name": "hovrättsfiskal Per Karlberg",
+                "role": "Not Available"
+            }
+        ],
+        "director": "J. K. Karlberg"
+    },
+    "3": {
+        "name": "Axel Bergkvist AB.",
+        "location": "Insjön",
+        "business": "Sågverk och kolugnar i Insjön. Tillverkar sågade trävaror samt träkol och tjära",
+        "contact": {
+            "phone": [
+                "40083"
+            ],
+            "postgiro": "29493",
+            "telegraph": "Abi, Insjön"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1935,
+        "owner": "disp. Axel E. Bergkvist"
+    },
+    "4": {
+        "name": "C. R. Bergqvist Fabriks AB.",
+        "location": "Hittar ed",
+        "business": "Konfektionsfabrik i Hillared. Tillverkar blåkläder, ballongsiden-jackor, skidkläder, pyjamas, jackor, skjortor, byxor, badkappor m. m.",
+        "contact": {
+            "phone": [
+                "Borås 8231"
+            ],
+            "postgiro": "135878"
+        },
+        "financials": {
+            "capital": "85,000 kr",
+            "annual_turnover": "270,000 kr"
+        },
+        "foundation_year": 1915,
+        "corporation_year": 1946,
+        "director": "Carl R. Bergqvist"
+    },
+    "5": {
+        "name": "AB. K. S. Bergling & Söner",
+        "location": "Stockholm",
+        "business": "Mek. verkstad, bilverkstad, vagnfabrik, sadelmakeri och tapetseriverkstad",
+        "contact": {
+            "office": "N. Stationsg. 12",
+            "phone": [
+                "335230",
+                "332999"
+            ],
+            "postgiro": "3956"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1925,
+        "director": "ing. Nils Bergling"
+    },
+    "6": {
+        "name": "Berglund & Söners Möbelfabrik",
+        "location": "Kvillsfors",
+        "business": "Tillverkar kontorsmöbler vid fabrik i Kvillsfors. Specialitet: skrivbord",
+        "contact": {
+            "phone": [
+                "18"
+            ]
+        },
+        "financials": {
+            "annual_turnover": "140,000 kr"
+        },
+        "foundation_year": 1937,
+        "owners": [
+            "fabr. Emil Berglund"
+        ],
+        "director": "fabr. Gillis Berglund"
+    },
+    "7": {
+        "name": "J. Em. Berglunds Eftr. Metallvaru-fabrik",
+        "location": "Ockelbo",
+        "business": "Tillverkar kokkärl av aluminium samt andra hushållsartiklar av aluminium",
+        "contact": {
+            "phone": [
+                "53"
+            ],
+            "postgiro": "24370"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1905,
+        "owner": "fabr. Karl-Emil Berglund"
+    },
+    "8": {
+        "name": "AB. Karl Berglunds Eftr. Skofabrik",
+        "location": "Lund",
+        "business": "Tillverkar randsydda, genomsydda och ago-skodon",
+        "contact": {
+            "phone": [
+                "10439"
+            ],
+            "postgiro": "6639"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1899,
+        "corporation_year": 1930
+    }
+}

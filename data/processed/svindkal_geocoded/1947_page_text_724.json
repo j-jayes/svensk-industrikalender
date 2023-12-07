@@ -1,0 +1,279 @@
+{
+    "1": {
+        "name": "Tranås Väveri AB.",
+        "location": "Tranås",
+        "products": "Ullspinneri, ylleväveri och färgeri. Tillverkar filtar och vadmal.",
+        "contact": {
+            "office": "Tranås",
+            "phone": [
+                "2047",
+                "4447"
+            ],
+            "postgiro": "30726",
+            "telegraph": "Yllefabriken, Tranås"
+        },
+        "financials": {
+            "capital": "325,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "Ernst Brandel",
+                "role": "disp."
+            },
+            {
+                "name": "Elis Crossner",
+                "role": "disp."
+            },
+            {
+                "name": "John Svensson",
+                "role": "f. postassist."
+            }
+        ],
+        "manager": "Knut Frithioff",
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        }
+    },
+    "2": {
+        "name": "Treco Fabriks- & Handels AB.,",
+        "location": "Göteborg",
+        "products": "Madrassfabrik. Tillverkar madrasser, möbler, täckvadd och stoppmateriel. Varumärke: »Treco».",
+        "contact": {
+            "office": "Majviken, Göteborg",
+            "phone": [
+                "148174"
+            ],
+            "postgiro": "44552",
+            "telegraph": "Trecofab, Göteborg"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1936,
+        "director": "Knut Jenssen",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "3": {
+        "name": "Tregeindustri AB.,",
+        "location": "Trekanten (Kalmar l.)",
+        "products": "Möbelfabrik i Trekanten. Tillverkar kompletteringsmöbler. Specialitet: pelarbord.",
+        "contact": {
+            "phone": "88",
+            "postgiro": "285566"
+        },
+        "financials": {
+            "capital": "15,800 kr",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1945,
+        "board": [
+            {
+                "name": "Alf Älgne",
+                "role": "ordf."
+            },
+            {
+                "name": "Arnold Älgne",
+                "role": "snickare"
+            },
+            {
+                "name": "Harald Älgne",
+                "role": "fabr."
+            }
+        ],
+        "manager": "Alf Älgne",
+        "coordinates": {
+            "Latitude": 56.6963324,
+            "Longitude": 16.1199013
+        }
+    },
+    "4": {
+        "name": "Trehörningsjö Såg & Hyvleri,",
+        "location": "Trehörningsjö (Västernorrland l.)",
+        "products": "Tillverkar sågade och hyvlade trävaror samt träull vid sågverk, hyvleri och trä-ullfabrik.",
+        "contact": {
+            "telegraph": "Trehörningsåg, Trehörningsjö",
+            "phone": "54",
+            "postgiro": "64450"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_production_value": "500 stds trävaror, 600 ton träull"
+        },
+        "foundation_year": 1943,
+        "board": [
+            {
+                "name": "Hjalmar Näslund",
+                "role": "disp."
+            },
+            {
+                "name": "Jonas Stenman",
+                "role": "stads-förm."
+            }
+        ],
+        "manager": "Hjalmar Näslund",
+        "coordinates": {
+            "Latitude": 63.6921814,
+            "Longitude": 18.8625377
+        }
+    },
+    "5": {
+        "name": "AB. Tre Lejon,",
+        "location": "Göteborg",
+        "products": "Elektr. valskvarn. Tillverkar mjöl.",
+        "contact": {
+            "main_office": "Kvarnholmen, Stockholm",
+            "office": "Göteborg",
+            "phone": [
+                "Kooperativa"
+            ],
+            "postgiro": "N/A",
+            "telegraph": "Kvarnen, Göteborg"
+        },
+        "financials": {
+            "capital": "3,500,000 kr",
+            "employees": {
+                "industriarb": 135
+            },
+            "annual_production_value": "15,000,000 kr"
+        },
+        "corporation_year": 1925,
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "dir."
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "fil. lic."
+            },
+            {
+                "name": "Hj. Degerstedt",
+                "role": "dir."
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "dir."
+            },
+            {
+                "name": "G. Osvald",
+                "role": "dir."
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "dir."
+            }
+        ],
+        "manager": "Nils Göransson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "Trelleborgs Bryggeri AB.,",
+        "location": "Trelleborg",
+        "products": "Tillverkar malt, maltdrycker, läskedrycker samt konstgjord is.",
+        "contact": {
+            "phone": [
+                "78",
+                "378"
+            ],
+            "postgiro": "77075"
+        },
+        "financials": {
+            "capital": "360,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1894,
+        "board": [
+            {
+                "name": "C. J. Reventberg",
+                "role": "borgm. (ordf.)"
+            },
+            {
+                "name": "Erik Malmquist",
+                "role": "dir."
+            },
+            {
+                "name": "Ernst Rickard",
+                "role": "grossh."
+            },
+            {
+                "name": "Ernst Thidholm",
+                "role": "disp."
+            }
+        ],
+        "manager": "Ernst Thidholm",
+        "coordinates": {
+            "Latitude": 55.3762427,
+            "Longitude": 13.1574231
+        }
+    },
+    "7": {
+        "name": "Trelleborgs Glasindustri, Joh. Kock,",
+        "location": "Trelleborg",
+        "products": "Tillverkar hushållsglas av soda- och kristallglas, emballageglas samt isoleringsflaskor.",
+        "contact": {
+            "telegraph": "Glasindustri, Trelleborg",
+            "phone": [
+                "496",
+                "1418"
+            ],
+            "postgiro": "29760",
+            "representative": "Stockholm: G. Ad. Ringheim, S:t Eriksg. 75, telefon: 302333"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 185
+            },
+            "annual_turnover": "1,900,000 kr"
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "Greta och Johan Kocks stiftelser"
+        ],
+        "director": "Wilh. Eborn",
+        "coordinates": {
+            "Latitude": 55.3762427,
+            "Longitude": 13.1574231
+        }
+    },
+    "8": {
+        "name": "Trelleborgs Cummifabriks AB.,",
+        "location": "Trelleborg",
+        "products": "Tillverkar automobil- och velocipedringar, gummivävnader, tekn. gummivaror samt gummisulor och gummimattor.",
+        "contact": {
+            "telegraph": "Gummifabriken, Trelleborg",
+            "phone": "N/A",
+            "postgiro": "20700"
+        },
+        "coordinates": {
+            "Latitude": 55.3762427,
+            "Longitude": 13.1574231
+        }
+    }
+}

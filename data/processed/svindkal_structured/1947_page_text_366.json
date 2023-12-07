@@ -1,0 +1,168 @@
+{
+    "1": {
+        "name": "Holmens Bruks och Fabriks AB.",
+        "location": "Norrköping",
+        "business": "Pappersbruk, träsliperi, bomullsspinneri och väveri",
+        "products": "Tidningspapper, tändsticks-, tapet- och tryckpapper, sulfitcellulosa, trämassa, samt vävnader och garn av bomull",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [
+                "Holmens Bruk"
+            ],
+            "postgiro": "22211",
+            "head_office": "Norrköping",
+            "sales_offices": [
+                {
+                    "location": "Hallstavik",
+                    "phone": ""
+                },
+                {
+                    "location": "Loddby",
+                    "phone": ""
+                }
+            ],
+            "telegraph": "Holmens, Norrköping"
+        },
+        "financials": {
+            "capital": "34,560,000 kr",
+            "employees": {
+                "industriarb": 3000,
+                "textilavd": 1700
+            },
+            "annual_turnover": "185,000 ton papper och 1,400 ton bomullsgarn och 135,000 st. bomullsvävnader"
+        },
+        "foundation_year": 1854,
+        "current_name_year": 1854,
+        "board": [
+            {
+                "name": "Ernst O:son Hers-low",
+                "role": "bankdir."
+            },
+            {
+                "name": "J. W. Fristedt",
+                "role": "bankir"
+            },
+            {
+                "name": "Erik Kempe",
+                "role": "fil. dr"
+            },
+            {
+                "name": "Chr. v. Sydow",
+                "role": "disp."
+            },
+            {
+                "name": "Ragnar Söderberg",
+                "role": "generalkonsul"
+            }
+        ],
+        "director": "Chr. v. Sydow",
+        "sales_manager": "Sven Belfrage"
+    },
+    "2": {
+        "name": "Holmens Möbelfabrik",
+        "location": "Mjölby",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "338"
+            ],
+            "postgiro": "71301"
+        },
+        "foundation_year": 1919,
+        "owner": "Karl A. Andersson"
+    },
+    "3": {
+        "name": "Holmens Nya Verkstad",
+        "location": "Härnösand",
+        "business": "Tillverkar maskiner för plywood- och wallboardfabriker samt järnkonstruktioner, utför fartygs- och motorreparationer samt plåt- och smidesarbeten",
+        "contact": {
+            "phone": [
+                "2891"
+            ],
+            "postgiro": "28838"
+        },
+        "employees": 30,
+        "annual_production_value": "200,000 kr",
+        "foundation_year": 1925,
+        "owner": "A. Einar Nyman"
+    },
+    "4": {
+        "name": "Holmérs Konfektionsfabrik AB.",
+        "location": "Mjölby",
+        "business": "Tillverkar sportkläder, goss- och ynglingakostymer, byxor, kjolar, jackor, barnoveralls och blazer",
+        "products": "Varumärke: EH",
+        "contact": {
+            "phone": [
+                "721",
+                "729"
+            ],
+            "postgiro": "90754"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": 75,
+            "annual_production_value": "70,000 st. styckeplagg"
+        },
+        "foundation_year": 1934
+    },
+    "5": {
+        "name": "Holmex, Konfektions AB.",
+        "location": "Tidaholm",
+        "business": "See Konfektions AB. Holmex, Tidaholm"
+    },
+    "6": {
+        "name": "AB. Holmgrens Skofabrik",
+        "location": "Skellefteå",
+        "business": "Tillverkar filt- och läderskodon",
+        "products": "Varumärken: Pekka och Medle-Pjäxan",
+        "contact": {
+            "phone": [
+                "11001"
+            ],
+            "postgiro": "65317"
+        },
+        "financials": {
+            "capital": "37,000 kr",
+            "employees": 18,
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1897
+    },
+    "7": {
+        "name": "Cunnar Holmgren, Papperspåsfabrik AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar speceri-, bageri-, frukt-, kaffe- och konfektpåsar samt pergamyn-påsar",
+        "contact": {
+            "office": "Stockholm",
+            "phone": [
+                "505577",
+                "505560"
+            ],
+            "postgiro": "2624"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": 15,
+            "annual_production_value": "550,000 kr"
+        },
+        "foundation_year": 1926
+    },
+    "8": {
+        "name": "AB. Holmgruvan",
+        "location": "Bispberg",
+        "business": "Järnmalmsgruvor i Långviks- och Holmgruvefälten m. fl.",
+        "products": "Bryter manganhaltig järnmalm",
+        "contact": {
+            "office": "Bispberg",
+            "phone": [
+                "Säter 3"
+            ],
+            "postgiro": "",
+            "head_office": "Bispberg"
+        },
+        "financials": {
+            "capital": "250,000 kr"
+        },
+        "foundation_year": 1911
+    }
+}

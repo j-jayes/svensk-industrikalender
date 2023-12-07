@@ -1,0 +1,260 @@
+{
+    "1": {
+        "name": "Bergshamra Ångkvarns, Sågverks & Snickeri-AB",
+        "location": "Utanbro",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Hyvlade och ohyvlade trävaror, byggnadssnickerier, samt kvarnrörelse",
+        "contact": {
+            "office": "Bergshamra",
+            "phone": [
+                "Bergshamra 8"
+            ],
+            "postgiro": "282841",
+            "sales_offices": [],
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "27,400 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1893,
+        "director": "Carl Axel Engström"
+    },
+    "2": {
+        "name": "Bergsjöverken AB",
+        "location": "Bergsjö",
+        "business": "Snickeri, mek. verkstad, såg och hyvleri, elektr. kraftverk",
+        "products": "Monteringsfärdiga trähus, tröskverk, hö- och halmfläktar, höpressar, rikthyvlar, vedkapar",
+        "contact": {
+            "telegraph": "Reformverk, Bergsjö",
+            "phone": [
+                "Bergsjöverken"
+            ],
+            "postgiro": "265597",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "230380"
+                }
+            ],
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "78,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1916,
+        "current_name_year": 1945,
+        "director": "Gunnar Westholm"
+    },
+    "3": {
+        "name": "Bergslagens Bryggeri AB.",
+        "location": "Västerås",
+        "business": "Tillverkar maltdrycker",
+        "products": "Maltdrycker av kl. I och II",
+        "contact": {
+            "office": "Västerås",
+            "phone": [
+                "30003",
+                "30070"
+            ],
+            "postgiro": "",
+            "head_office": "",
+            "factory_phone": "18"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "Arb.-antal": 5
+            },
+            "annual_turnover": ""
+        },
+        "foundation_year": 1892,
+        "board": [
+            {
+                "name": "Joel Widén",
+                "role": "ordf"
+            },
+            {
+                "name": "Hugo Anderson",
+                "role": "disp"
+            }
+        ],
+        "director": "Curt R. Widén",
+        "kamrer": "Torsten Wahlberg",
+        "sales_manager": "fabr. Nils Ny"
+    },
+    "4": {
+        "name": "AB. Bergslagens Gemensamma Kraftförvaltning",
+        "location": "Västerås",
+        "business": "Transformatorstationer för Krångede-kraft",
+        "contact": {
+            "office": "Västerås",
+            "phone": [
+                "32003"
+            ],
+            "postgiro": "75462",
+            "head_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "4,500,000 kr",
+            "employees": {},
+            "annual_turnover": "4,000,000 kr"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Thorsten Ericson",
+                "role": "dir"
+            },
+            {
+                "name": "Carl G. Granström",
+                "role": "disp"
+            },
+            {
+                "name": "John E. Hedin",
+                "role": "disp"
+            },
+            {
+                "name": "Carl A. Jacobsson",
+                "role": "dir"
+            },
+            {
+                "name": "Mogens Matell",
+                "role": "fil. dr"
+            },
+            {
+                "name": "William Nisser",
+                "role": "disp"
+            },
+            {
+                "name": "Thorsten Wigelius",
+                "role": "bruksdisp"
+            }
+        ],
+        "director": "Mogens Matell"
+    },
+    "5": {
+        "name": "AB. Bergslagernas Kättingfabrik",
+        "location": "Smedjebacken",
+        "business": "Tillverkar elektrosvetsad kätting",
+        "products": "Elektrosvetsad kätting",
+        "contact": {
+            "office": "Smedjebacken",
+            "phone": [],
+            "postgiro": "85405",
+            "head_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "15,400 kr",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "Rutger Wijkander",
+                "role": "disp"
+            },
+            {
+                "name": "Ragnar Forsberg",
+                "role": "ing. "
+            },
+            {
+                "name": "Eric Westerfors",
+                "role": "försäljn.-chef"
+            }
+        ],
+        "director": "Rutger Wijkander"
+    },
+    "6": {
+        "name": "Bergslagernas Tegel- & Kalkbruks AB.",
+        "location": "Ludvika",
+        "business": "Kalksandstegelbruk",
+        "products": "Kalksandtegel, ånghärdade koksslaggplattor",
+        "contact": {
+            "office": "Ludvika",
+            "phone": [
+                "6"
+            ],
+            "postgiro": "94088",
+            "head_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "150,500 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": ""
+        },
+        "foundation_year": 1903,
+        "board": [
+            {
+                "name": "Sture Axdorph",
+                "role": "ordf"
+            },
+            {
+                "name": "Rune Axdorph",
+                "role": "kapten"
+            },
+            {
+                "name": "Ludv. Ålund",
+                "role": "disp"
+            }
+        ],
+        "director": "Sture Axdorph",
+        "sales_manager": "Ludv. Ålund"
+    },
+    "7": {
+        "name": "AB. B. Bergson & Söner",
+        "location": "Karlstad",
+        "business": "Konfektionsfabrik",
+        "products": "Herrkläder, damkappor, damdräkter",
+        "contact": {
+            "telegraph": "Bergsons, Karlstad",
+            "phone": [
+                "15070"
+            ],
+            "postgiro": "34172",
+            "head_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "377,500 kr",
+            "employees": {
+                "industriarb": 230
+            },
+            "annual_turnover": "3,000,000 kr"
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1932,
+        "board": [
+            {
+                "name": "Abel Bergson",
+                "role": "grossh."
+            },
+            {
+                "name": "Isak Bergson",
+                "role": "grossh."
+            },
+            {
+                "name": "Samuel Bergson",
+                "role": "dir."
+            }
+        ],
+        "director": "S. Bergson",
+        "manager": "Harald Munnich"
+    }
+}

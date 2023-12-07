@@ -1,0 +1,119 @@
+{
+    "1": {
+        "name": "AB. Svenska Metallverken",
+        "location": "Västerås",
+        "business": "Metallhalvfabrikatverk",
+        "products": "Plåt, rör, tråd, linor, lameller, band, stänger, profiler, nitar, muttrar, skruvar, spik, gjutgods och pressat gods av koppar, mässing, zink, bly och aluminium samt andra metaller och legeringar, lagermetaller, kokkärl, mauser-ammunition, plåtslageriarbeten såsom lagerfat och lagertanks, jäskar m. m. i koppar och kopparlegeringar samt aluminium och lättmetall-legeringar, rörspiraler av koppar, pressgjutgods m. m., ävensom tegel; bryter och anrikar zink- och blymalm",
+        "contact": {
+            "office": "Västerås",
+            "phone": [
+                "Telefon: »Metallverken»"
+            ],
+            "postgiro": "5026",
+            "head_office": "Västerås",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "»Metallverken»"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "24,525,000 kr",
+            "employees": {
+                "industriarb.": 3686
+            }
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "dir. Sten Westerberg",
+                "role": "ordf."
+            }
+        ],
+        "owners": [],
+        "manager": "Carl A. Jacobsson",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        }
+    },
+    "2": {
+        "name": "Svenska Mjölkprodukter AB.",
+        "location": "Stockholm",
+        "business": "Mjölkpulver och mjölkäggvita",
+        "products": "Mjölkpulver, mjölkäggvita m. m.",
+        "contact": {
+            "office": "Stockholm",
+            "phone": [
+                "Telefon: 234570"
+            ],
+            "postgiro": "156278"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": 150,
+            "annual_turnover": "14,000,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "bankdir. C. Bert Lilja",
+                "role": "ordf."
+            }
+        ],
+        "owners": [],
+        "manager": "Rolf Forshell",
+        "sales_manager": "dir. Birger Strid",
+        "managing_director": "Sven Sternberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "Svenska Mått- & Tumstockfabriken",
+        "location": "Hultafors",
+        "business": "Snickerifabrik",
+        "products": "Längdmått, skolmateriel, trädgårdsetiketter m. m. av trä",
+        "contact": {
+            "office": "Hultafors",
+            "phone": [
+                "Telefon: # Borås 95003"
+            ],
+            "postgiro": "8163"
+        },
+        "financials": {
+            "employees": 55,
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1883,
+        "owners": [
+            "ing. Joel Kollen"
+        ],
+        "manager": "Hilmer Kollen",
+        "coordinates": {
+            "Latitude": 57.6983328,
+            "Longitude": 12.7388378
+        }
+    },
+    "4": {
+        "name": "AB. Svenska Möbelfabrikerna",
+        "location": "Bodafors",
+        "business": "Möbler och inredningar",
+        "products": "Möbler och inredningar för affärslokaler, apotek, banker, biografer, kyrkor, butiker, fartyg, hotell, kontor, restauranger, sjukhus, skolor, ämbetsverk, privatvåningar etc.",
+        "contact": {
+            "office": "Bodafors"
+        },
+        "financials": {
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": "Not available",
+        "owners": [],
+        "manager": "Not available",
+        "coordinates": {
+            "Latitude": 57.50394780000001,
+            "Longitude": 14.7079586
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "1": {
+        "name": "Kraft AB",
+        "location": "Gullspång-Munkfors, Mariestad",
+        "business": "Elektr. vattenkraftstationer",
+        "products": "Elektr. vattenkraftstationer vid Gull-spång (Skarab. l.) och vid Åtorp (f. d. Munkfors) (Örebro l.) jämte vattenfall vid År ås i Gullspångs älven och vid Mo-holm/i Tidan samt anläggningar för distribution av elektr. kraft inom Skaraborgs, Värmlands och Örebro län.",
+        "contact": {
+            "office": "Gullspång-Munkfors, Mariestad",
+            "phone": [
+                "220",
+                "221",
+                "331"
+            ],
+            "postgiro": "29300"
+        },
+        "financials": {
+            "capital": "10,055,000 kr",
+            "annual_turnover": "4,700,000 kr"
+        },
+        "foundation_year": 1906,
+        "owners": [
+            "Örebro Elektr. ABV",
+            "Gullspångs Elektrokemiska AB"
+        ],
+        "board": [
+            {
+                "name": "John Hedin",
+                "role": "disp."
+            },
+            {
+                "name": "E. W. Bergwik",
+                "role": "köpm."
+            },
+            {
+                "name": "Tore Hedin",
+                "role": "disp."
+            },
+            {
+                "name": "Richard Hedlund",
+                "role": "disp."
+            },
+            {
+                "name": "Erland v. Hofsten",
+                "role": "kammarh."
+            },
+            {
+                "name": "Wilh. Klingspor",
+                "role": "frih."
+            },
+            {
+                "name": "Folke Kyling",
+                "role": "riksdagsm."
+            },
+            {
+                "name": "C. Sandels",
+                "role": "f. kapten"
+            },
+            {
+                "name": "H. Seb. Tham",
+                "role": "disp."
+            }
+        ],
+        "director": "Eric Åfors",
+        "managing_director": "Tore Hedin",
+        "sales_manager": "Gösta Grenstadius"
+    },
+    "2": {
+        "name": "Kraftbox AB",
+        "location": "Näsviken",
+        "business": "Kartongfabrik",
+        "products": "Tillverkar pappkartonger för ytterem-ballage.",
+        "contact": {
+            "office": "Näsviken",
+            "phone": [
+                "7"
+            ],
+            "postgiro": "83796"
+        },
+        "financials": {
+            "capital": "80,400 kr"
+        },
+        "board": [
+            {
+                "name": "P. B. Burchardt",
+                "role": "disp."
+            },
+            {
+                "name": "Anders Larsson",
+                "role": "hemmansäg."
+            },
+            {
+                "name": "Verner Pehrzon",
+                "role": "dir."
+            }
+        ],
+        "manager": "Lars Bovin"
+    },
+    "3": {
+        "name": "Kraftemballage AB",
+        "location": "Stockholm, Norrköping",
+        "business": "Wellpapp- och kartongfabrik samt mek. verkstad",
+        "products": "Tillverkar wellpapp, wellpappkartonger och wellpapp-emballage, kartonger av solid board samt maskiner för wellpappfabriker.",
+        "contact": {
+            "office": "Stockholm, Blasieholmstorg 11",
+            "phone": [
+                "107247",
+                "115505"
+            ],
+            "postgiro": "52616",
+            "factory_office": "Norrköping",
+            "factory_phone": "23888"
+        },
+        "financials": {
+            "capital": "225,000 kr"
+        },
+        "board": [
+            {
+                "name": "Karl A. Wessblad",
+                "role": "civiling."
+            },
+            {
+                "name": "Alvar Lenning",
+                "role": "civiling."
+            },
+            {
+                "name": "Sigurd Lind",
+                "role": "disp."
+            },
+            {
+                "name": "Harry Nyström",
+                "role": "civiling."
+            },
+            {
+                "name": "Erik Sundén",
+                "role": "disp."
+            }
+        ],
+        "managing_director": "Erik Sundén"
+    },
+    "4": {
+        "name": "Anders Krahner Industrifirma",
+        "location": "Skillingaryd",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar arbetsstolar för industrier och kontor.",
+        "contact": {
+            "office": "Skillingaryd",
+            "phone": [
+                "213",
+                "20"
+            ],
+            "postgiro": "91665"
+        },
+        "owner": "Anders Krahner"
+    },
+    "5": {
+        "name": "Kramfors AB",
+        "location": "Kramfors",
+        "business": "Sågverk med hyvleri, sulfit- och sulfitspritfabrik, fiberplattfabrik och trähus-fabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror, monteringsfärdiga trähus, sulfit- och sulfatcellulosa, fiberplattor, sulfitsprit, flytande harts och terpentin. Bolaget idkar jämväl skogsbruk.",
+        "contact": {
+            "office": "Kramfors",
+            "phone": [
+                "2000"
+            ],
+            "postgiro": "5110",
+            "sales_offices": [
+                {
+                    "location": "Kramfors",
+                    "phone": "2000"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "V. Trädgårdsg. 15"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "25,000,000 kr"
+        },
+        "owners": [
+            "Svenska Cellulosa AB"
+        ]
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "1": {
+        "name": "Henrikssons Brandredskap",
+        "location": "Stockholm",
+        "business": "Brandredskap",
+        "products": "Se Handels AB. Henrikssons Brandredskap, Stockholm.",
+        "contact": {
+            "telegraph": "Henrikssons, Örebro",
+            "phone": [
+                "10672"
+            ],
+            "postgiro": "11649"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb.": 10
+            }
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1919,
+        "board": [
+            {
+                "name": "ing. Hugo Hennig",
+                "role": "ordf."
+            },
+            {
+                "name": "handl. Bror A. Lindgren",
+                "role": "member"
+            },
+            {
+                "name": "handl. Gustaf Lindgren",
+                "role": "member"
+            }
+        ],
+        "director": "Hugo Hennig",
+        "managing_director": "Hugo Hennig",
+        "sales_manager": "ing. Kurt Hennig"
+    },
+    "2": {
+        "name": "Henrikssons Tekn. Fabriks AB.",
+        "location": "Örebro",
+        "business": "Kem,-tekn. fabrik",
+        "products": "Tillverkar tvål, såpa och parfymer, antiseptiska preparat, mejeripreparat, skur- och tvättmedel, skosmörja m. m.",
+        "contact": {
+            "telegraph": "Henrikssons, Örebro",
+            "phone": [
+                "10672"
+            ],
+            "postgiro": "11649"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb.": 70
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "Bengt Orrvik",
+                "role": "verkst. dir."
+            }
+        ]
+    },
+    "3": {
+        "name": "Birger Henricsson",
+        "location": "Hjo",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar pakethållare för velocipeder samt möbelbeslag.",
+        "contact": {
+            "phone": [
+                "103"
+            ],
+            "postgiro": "92497"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 15
+            }
+        },
+        "foundation_year": 1901
+    },
+    "4": {
+        "name": "Olof Henrikssons Byggnadsvaror, AB.",
+        "location": "Tenhult",
+        "business": "Betowgvarufabrik",
+        "products": "Tillverkar betong och mosaiktrappor och -plattor. Bolaget idkar jämväl handel med byggnadsmateriel.",
+        "contact": {
+            "telegraph": "Byggnadsvaror, Tenhult",
+            "phone": [
+                "Tenhult 62",
+                "89",
+                "Jönköping 2922",
+                "3952"
+            ],
+            "postgiro": "136655"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1915
+    },
+    "5": {
+        "name": "Herdins Färgeri & Kemiska Tvätt, Anders Herdin AB.",
+        "location": "Falun",
+        "business": "Färgeri & Kemiska Tvätt",
+        "products": "Utför färgning, kem. tvätt och impregnering.",
+        "contact": {
+            "telegraph": "Aherdin, Falun",
+            "phone": [
+                "2920"
+            ],
+            "postgiro": "170062"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 60
+            }
+        },
+        "foundation_year": 1944,
+        "managing_director": "disp. Anders Herdin"
+    },
+    "6": {
+        "name": "A. W. Herdins Färgverk AB.",
+        "location": "Falun",
+        "business": "Färgfabrik och kem. tekn. fabrik",
+        "products": "Tillverkar hemfärger, betsfärger, anilin-tryckfärger och malpreparat m. m.",
+        "contact": {
+            "telegraph": "Färgverket, Falun",
+            "phone": [
+                "3351"
+            ],
+            "postgiro": "11020"
+        },
+        "financials": {
+            "capital": "55,000 kr",
+            "employees": {
+                "industriarb.": 40
+            }
+        },
+        "foundation_year": 1750,
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "fabr. Sivert Herdin",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "Olle Herdin",
+                "role": "v. verkst. dir."
+            }
+        ]
+    },
+    "7": {
+        "name": "AB. C. M. Hermanson",
+        "location": "Stockholm",
+        "business": "Herrkonfektionsfabrik",
+        "products": "Tillverkar kostymer, överrockar, blazers och sportkostymer.",
+        "contact": {
+            "office": "Hornsg. 54",
+            "telegraph": "Femtiosex, Stockholm",
+            "phone": [
+                "406020",
+                "433377"
+            ],
+            "postgiro": "150001"
+        },
+        "financials": {
+            "capital": "250,500 kr",
+            "employees": {
+                "industriarb.": 85
+            }
+        },
+        "foundation_year": 1859,
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "dir. Gustaf Ohlin",
+                "role": "ordf."
+            },
+            {
+                "name": "herr Sven Janson",
+                "role": "member"
+            },
+            {
+                "name": "fru Ruth Sandström",
+                "role": "member"
+            }
+        ],
+        "director": "Gustaf Ohlin"
+    },
+    "8": {
+        "name": "AB. Th. Hermanssons Metallfabrik",
+        "location": "Stockholm",
+        "business": "Metallfabrik",
+        "products": "Tillverkar automobilkylare, kylelement för explosionsmotorer, värmeelement m. m. samt butiksinredningar, skylt- och fasadanläggningar, båtbeslag; utför förnicklings- och förkromningsarbeten.",
+        "contact": {
+            "office": "Hagagatan 16",
+            "phone": [
+                "332808",
+                "317275"
+            ],
+            "postgiro": "157534",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "161437"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "130,000 kr",
+            "employees": {
+                "industriarb.": 40
+            },
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1910,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "fabr. Thure Hermansson",
+                "role": "verkst. dir."
+            }
+        ]
+    },
+    "9": {
+        "name": "Hernia, Limfirman AB.",
+        "location": "Norrköping",
+        "business": "Limfabrik",
+        "products": "Tillverkar dextrin, flytande gummi, flytande lim och kalllim, limämnen, remvax, klister, valsmassa m. m.",
+        "contact": {
+            "phone": [
+                "24114",
+                "24166"
+            ],
+            "postgiro": "11214"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "N/A": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "1": {
+        "name": "Kopiering—Korkbetong",
+        "location": "Stockholm",
+        "business": "Betongvarufabrik",
+        "products": "Isoleringsmateriel såsom korkbetongplattor och träullsplattor, mellanväggsplattor, skalsandbetong i block och plattor, hålsten samt ventilationstrummor",
+        "contact": {
+            "office": "Böleå, Teg, Umeå",
+            "phone": [],
+            "postgiro": null
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Werner Lundström",
+                "role": "dir."
+            },
+            {
+                "name": "Gustaf A. Carlsson",
+                "role": "dir."
+            }
+        ],
+        "director": "W. Lundström",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "2": {
+        "name": "Kopparbergs Bryggeri AB.",
+        "location": "Kopparberg",
+        "business": "Bryggeri",
+        "products": "Pilsner, svagdricka, mineralvatten och läskedrycker",
+        "contact": {
+            "office": "Kopparberg (Örebro l.)",
+            "phone": [
+                "Kopparberg 44"
+            ],
+            "postgiro": "295723"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_turnover": null,
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1885,
+        "board": [
+            {
+                "name": "Yngve Lindvall",
+                "role": "Styrelse o. verkst."
+            }
+        ],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "3": {
+        "name": "Kopparbergs Spisbrödsfabrik AB.",
+        "location": "Kopparberg",
+        "business": "Spisbrödsfabrik",
+        "products": "Knäcke- och spisbröd",
+        "contact": {
+            "office": "Kopparberg (Örebro l.)",
+            "phone": [
+                "183",
+                "170"
+            ],
+            "postgiro": "13641"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Karl Andersson",
+                "role": "disponent"
+            },
+            {
+                "name": "G. B. Ihrman",
+                "role": "adv."
+            },
+            {
+                "name": "Claes Jansson",
+                "role": "dir."
+            }
+        ],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "4": {
+        "name": "Kopparfors AB.",
+        "location": "Ockelbo",
+        "business": "Sågverk, hyvleri, sulfatfabrik, lådfabrik och skogshantering",
+        "products": "Sågade och hyvlade trävaror, lådor samt sulfatcellulosa",
+        "contact": {
+            "office": "Wij Bruk, Ockelbo",
+            "phone": [
+                "Kopparfors",
+                "Ockelbo"
+            ],
+            "postgiro": "9999"
+        },
+        "financials": {
+            "capital": "20,000,000 kr",
+            "employees": {
+                "industriarb": 690
+            },
+            "annual_turnover": null,
+            "annual_production_value": "18,000 stds sågade o. hyvlade trävaror, 42,000 ton torr, stark sulfatcellulosa och blekt massa"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Axel Wallenberg",
+                "role": "envoyé"
+            },
+            {
+                "name": "Lars H. Carlsson",
+                "role": "jägm."
+            },
+            {
+                "name": "Sigbjörn Holgersson",
+                "role": "disponent"
+            },
+            {
+                "name": "Bertil Wallenberg",
+                "role": "bankdir."
+            },
+            {
+                "name": "Jacob Wallenberg",
+                "role": "bankdir."
+            }
+        ],
+        "director": null,
+        "managing_director": "S. Holgersson",
+        "sales_manager": "M. Wallerström",
+        "manager": null
+    },
+    "5": {
+        "name": "Koppoms Pappersfabriks AB.",
+        "location": "Göteborg",
+        "business": "Pappersbruk med sulfitfabrik och trä-sliperi",
+        "products": "Omslagspapper, rent sulfitpapper, slipblandade pappersslag, affisch-, butelj- och silkespapper samt mek. trämassa",
+        "contact": {
+            "office": "Göteborg, St. Badhusg. 7",
+            "phone": [
+                "Skönnerud 16",
+                "45"
+            ],
+            "postgiro": "45256"
+        },
+        "financials": {
+            "capital": "1,050,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": null,
+            "annual_production_value": "5,000 ton papper, 2,000 ton mek. trämassa"
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "Folke Jörgensen",
+                "role": "adv."
+            },
+            {
+                "name": "Otto Bengtson",
+                "role": "dir."
+            },
+            {
+                "name": "Olof Gillholm",
+                "role": "grossh."
+            },
+            {
+                "name": "Elias S. Markfelt",
+                "role": "adv."
+            }
+        ],
+        "director": null,
+        "managing_director": "Otto Bengtson",
+        "sales_manager": null,
+        "manager": null
+    },
+    "6": {
+        "name": "AB. Kores",
+        "location": "Stockholm",
+        "business": "Kem.-tekn. fabrik",
+        "products": "Färgband till skriv- och räknemaskiner, karbon- och kalkérpapper samt stenciler och duplice-ringsfärg",
+        "contact": {
+            "office": "Nybrokajen 3",
+            "phone": [
+                "234495"
+            ],
+            "postgiro": "51277"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "Theodor Harting",
+                "role": "Styrelse o. verkst."
+            }
+        ],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": "Börje Engkvist",
+        "manager": "Tord Engberg"
+    }
+}

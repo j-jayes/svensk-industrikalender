@@ -1,0 +1,206 @@
+{
+    "1": {
+        "name": "AB. Joh:s Olssons Skofabrik",
+        "location": "Örebro",
+        "business": "Tillverkning av skodon",
+        "products": "Genomsydda, randsydda och pliggade skodon, specialiteter: pjäxor och arbetskängor, varumärken: Jio och Ed-lings",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "11334"
+            ],
+            "postgiro": "13999",
+            "sales_offices": [
+                {
+                    "location": "AB. Carlsson & Åqvist, Örebro",
+                    "phone": "Carlssonåqvist"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "1,050,000 kr"
+        },
+        "foundation_year": 1862,
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "Håkan Theodor Ohlsson",
+                "role": "Boktr"
+            },
+            {
+                "name": "Per-Håkan Ohlsson",
+                "role": "Boktr"
+            },
+            {
+                "name": "Sven Håkan Ohlsson",
+                "role": "Fil. kand."
+            }
+        ],
+        "director": "Per-Håkan Ohlsson"
+    },
+    "2": {
+        "name": "AB. Joh. Ohlssons Tekniska Fabrik",
+        "location": "Stockholm",
+        "business": "Tjärdestillering och tillverkning av stenkolstjärprodukter",
+        "products": "Stenkolstjärprodukter, asfaltprodukter, impregneringsmedel, desinfektionsmedel, byggnadspapp",
+        "contact": {
+            "office": "Stockholm 1",
+            "telegraph": "Ohlssonfabrik, Stockholm",
+            "phone": "256881-86",
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "530,200 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "6,000 ton"
+        },
+        "foundation_year": 1859,
+        "corporation_year": 1899,
+        "board": [
+            {
+                "name": "Torsten Åqvist",
+                "role": "Dir."
+            },
+            {
+                "name": "Erik Johansson",
+                "role": "Disp."
+            },
+            {
+                "name": "Herbert Johnson",
+                "role": "Kontorschef"
+            }
+        ],
+        "director": "Torsten Ohlsson"
+    },
+    "3": {
+        "name": "M. & E. Ohlssons Klockgjuteri & Armaturfabrik",
+        "location": "Ystad",
+        "business": "Tillverkning av klockor, klockspel, metallgjutgods, elektriska ringmaskiner och belysningsarmatur",
+        "products": "Kyrkklockor, klockspel, signalklockor, metallgjutgods, askurnor, järnklockstolar, belysningsarmatur",
+        "contact": {
+            "office": "Ystad",
+            "phone": [
+                "973",
+                "1163"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "arb": 8
+            },
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1805,
+        "board": [
+            {
+                "name": "Otto Stålhane",
+                "role": "Övering."
+            },
+            {
+                "name": "Guy S:son Frey",
+                "role": "Fil. lic."
+            },
+            {
+                "name": "Holger Ohlsson",
+                "role": "Civiling."
+            },
+            {
+                "name": "Torsten Ohlsson",
+                "role": "Civiling."
+            },
+            {
+                "name": "Bertil Stålhane",
+                "role": "Fil. lic."
+            }
+        ],
+        "owner": "Ing. Erland Bröchner-Ohlsson"
+    },
+    "4": {
+        "name": "Otto Olssons Rörformfabrik",
+        "location": "Borrby",
+        "business": "Mekanisk verkstad och plåtslageri",
+        "products": "Betongrörformar, brunnsringar, kulvertrör, gatubrunnar, cementtegel, cementhålsten, vägrör, betong-varumaskiner",
+        "contact": {
+            "office": "Borrby",
+            "phone": [
+                "130"
+            ],
+            "postgiro": "169891",
+            "sales_offices": [
+                {
+                    "location": "A/S Betongprodukter, Oslo",
+                    "phone": "N/A"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1908,
+        "board": [
+            {
+                "name": "Otto Olsson",
+                "role": "Fabr."
+            },
+            {
+                "name": "Georg Olsson",
+                "role": "Driftschef"
+            }
+        ]
+    },
+    "5": {
+        "name": "O. J. Olsson & Comp., Korkfabrik",
+        "location": "Hälsingborg",
+        "business": "Tillverkning av flaskkork",
+        "products": "Medicinkork",
+        "contact": {
+            "office": "Hälsingborg",
+            "phone": "10138",
+            "postgiro": "70748"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "arb": 4
+            },
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1884,
+        "owner": "Ing. Reinhard Svensson"
+    },
+    "6": {
+        "name": "AB. 0. W. Olssons Såg- & Hyvleri",
+        "location": "Bengtsfors",
+        "business": "Tillverkning av sågade och hyvlade trävaror",
+        "contact": {
+            "office": "Bengtsfors",
+            "phone": [
+                "36"
+            ],
+            "postgiro": "70292"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_production_value": "175,000 kr",
+            "annual_turnover": "600 stds trävaror"
+        },
+        "corporation_year": 1923,
+        "director": "Ivar Olsson"
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "1": {
+        "1": {
+            "name": "Träd—Träkol",
+            "location": "Limhamn",
+            "business": "Tillverkar träkol",
+            "contact": {
+                "office": "Limhamn",
+                "phone": [
+                    "Malmö 52335"
+                ],
+                "postgiro": "249937",
+                "factory_office": "Vansbro",
+                "factory_phone": "590",
+                "telegraph": "Tib, Ljusf allshammar"
+            },
+            "financials": {
+                "capital": "500,000 kr",
+                "employees": {
+                    "industriarb": 80
+                },
+                "annual_production_value": "2,000,000 kr"
+            },
+            "foundation_year": 1944,
+            "board": [
+                {
+                    "name": "Agne Sandberg",
+                    "role": "ordf."
+                },
+                {
+                    "name": "J. Christoffersen",
+                    "role": "civiling."
+                },
+                {
+                    "name": "V. Hasselblad",
+                    "role": "civiling."
+                },
+                {
+                    "name": "Knud Höjgaard",
+                    "role": "civiling."
+                },
+                {
+                    "name": "Tryggve Hökerberg",
+                    "role": "övering."
+                },
+                {
+                    "name": "Nils Kjellström",
+                    "role": "disp."
+                }
+            ],
+            "owners": [
+                "Skånska Cementgju-teriet"
+            ]
+        },
+        "2": {
+            "name": "AB. Trä &amp; Snickerier",
+            "business": "Tillverkar lådor, diverse trämanufaktur samt byggnadssnickerier och inredningar",
+            "location": "Stockholm",
+            "contact": {
+                "office": "Stockholm, Riddarg. 17",
+                "phone": [
+                    "« Jungnerbolaget»"
+                ],
+                "postgiro": "1547",
+                "factory_office": "Oskarshamn",
+                "factory_phone": "N/A",
+                "telegraph": "Nife, Stockholm"
+            },
+            "financials": {
+                "capital": "49,500 kr",
+                "employees": {
+                    "industriarb": 18
+                }
+            },
+            "foundation_year": 1931,
+            "board": [
+                {
+                    "name": "Robert Ameln",
+                    "role": "dir."
+                },
+                {
+                    "name": "Gustaf Eriksson",
+                    "role": "disp."
+                }
+            ],
+            "owners": [
+                "Svenska Ackumulator AB. Jungner, Stockholm"
+            ]
+        },
+        "3": {
+            "name": "Träförädlings AB. i Karlskrona",
+            "business": "Snickerifabrik med sågverk och hyvleri",
+            "location": "Karlskrona",
+            "contact": {
+                "office": "Karlskrona",
+                "phone": [
+                    "635"
+                ],
+                "postgiro": "70308"
+            },
+            "financials": {
+                "capital": "650,000 kr",
+                "employees": {
+                    "industriarb": 75
+                },
+                "annual_production_value": "2,500,000 kr"
+            },
+            "foundation_year": 1899,
+            "board": [
+                {
+                    "name": "S. A. Liljevall",
+                    "role": "v. konsul"
+                },
+                {
+                    "name": "Harald Lindström",
+                    "role": "disp."
+                },
+                {
+                    "name": "Julius Swanlund",
+                    "role": "dr"
+                }
+            ],
+            "director": "H. Lindström"
+        },
+        "4": {
+            "name": "Träförädlingsfabriken Vega",
+            "business": "Möbelfabrik",
+            "location": "Borås",
+            "contact": {
+                "phone": [
+                    "11043"
+                ],
+                "postgiro": "88496"
+            },
+            "financials": {
+                "annual_production_value": "60,000 kr"
+            },
+            "foundation_year": 1912,
+            "manager": "Fritz Wilroth"
+        },
+        "5": {
+            "name": "Träindustribolaget",
+            "location": "Ljusfallshammar",
+            "business": "Sågverk, hyvleri och kolugnar",
+            "contact": {
+                "office": "Ljusfallshammar",
+                "phone": [
+                    "15"
+                ],
+                "postgiro": "179024"
+            },
+            "financials": {
+                "annual_production_value": "700,000 kr"
+            },
+            "foundation_year": 1945,
+            "owners": [
+                "fabr. Sture Petersson",
+                "fabr. Fred Petersson",
+                "fabr. Nils Andersson"
+            ],
+            "manager": "Sture Petersson"
+        },
+        "6": {
+            "name": "AB. Träindustri Forserum",
+            "location": "Forserum",
+            "business": "Tillverkar klädhängare och toftsvarveriarbeten",
+            "contact": {
+                "phone": [
+                    "39"
+                ],
+                "postgiro": "23411",
+                "factory_office": "Forserum (Jönköp. l.)"
+            },
+            "financials": {
+                "capital": "27,500 kr",
+                "employees": {
+                    "industriarb": 15
+                },
+                "annual_production_value": "125,000 kr"
+            },
+            "foundation_year": 1918,
+            "director": "Gideon Svensson"
+        },
+        "7": {
+            "name": "AB. Träkol",
+            "location": "Vansbro",
+            "business": "Kolugnar med reningsverk, sågverk, snickerifabrik och impregneringsverk samt kraftstation",
+            "contact": {
+                "phone": [
+                    "N/A"
+                ],
+                "postgiro": "N/A"
+            }
+        }
+    }
+}

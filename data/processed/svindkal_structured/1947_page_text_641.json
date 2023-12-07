@@ -1,0 +1,165 @@
+{
+    "1": {
+        "name": "Standard—Staten",
+        "location": "Strängnäs",
+        "contact": {
+            "office": "Stallarholmen",
+            "phone": [
+                "Telefon: Industribolaget, Stallarholmen"
+            ],
+            "postgiro": "2308",
+            "telegraph": "Stal-farinda"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1908,
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "Gunnar Wahlgren",
+                "role": "Styrelse o. disp."
+            }
+        ]
+    },
+    "2": {
+        "name": "Standard, Chokladfabriken",
+        "location": "Dandéryd",
+        "products": "Chokladfabrik"
+    },
+    "3": {
+        "name": "Standard, Färg- & Ferniss Fabriks AB.",
+        "location": "Trelleborg",
+        "products": "Färg- & Ferniss Fabriks"
+    },
+    "4": {
+        "name": "Standard, AB. Skofabriken",
+        "location": "Lund",
+        "products": "Skofabrik"
+    },
+    "5": {
+        "name": "AB. Standardhjul",
+        "location": "Norrköping",
+        "business": "Vagnfabrik",
+        "products": "Hästvagnar, hjul med kullagernav och gummidäck",
+        "contact": {
+            "phone": "23881",
+            "postgiro": "176524"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_turnover": "250,000 kr",
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "Owe Nilsson",
+                "role": "Disp."
+            }
+        ]
+    },
+    "6": {
+        "name": "AB. Standardhus",
+        "location": "Hultsfred",
+        "business": "Trähus",
+        "contact": {
+            "office": "Hultsfred",
+            "phone": "Telefon: Standardhus, Hultsfred"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_production_value": "10,000,000 kr"
+        },
+        "foundation_year": 1927,
+        "corporation_year": 1935
+    },
+    "7": {
+        "name": "AB. Standard Radiofabrik",
+        "location": "Ulv sunda",
+        "business": "Maskiner och apparater",
+        "products": "Maskiner och apparater för radiotelefoni och telegrafi, elektronrör, likriktare m. m.",
+        "contact": {
+            "office": "Ulv-sunda",
+            "phone": "Stockholm 252610",
+            "postgiro": "156723"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": "3,000,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "greve Adolf Hamilton",
+                "role": "Ordf."
+            },
+            {
+                "name": "Jens Bache-Wiig",
+                "role": "Dir."
+            },
+            {
+                "name": "Per Erikson",
+                "role": "Civiling."
+            },
+            {
+                "name": "Paul Hallgren",
+                "role": "Dir."
+            },
+            {
+                "name": "Bertil af Klercker",
+                "role": "Kapten"
+            },
+            {
+                "name": "Pér-Olov Åhlén",
+                "role": "Dir."
+            }
+        ]
+    },
+    "8": {
+        "name": "Står, Kartongfabriken",
+        "location": "Habo",
+        "products": "Kartongfabrik"
+    },
+    "9": {
+        "name": "Starbo Bruksägares AB.",
+        "location": "Starbo"
+    },
+    "10": {
+        "name": "AB. Starfors Säteri",
+        "location": "Heby",
+        "business": "Tegelbruk och bränntorvfabrik",
+        "products": "Taktegel, dräneringsrör, bränntorv",
+        "contact": {
+            "phone": "Starf orstegel",
+            "postgiro": "144565"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "3,500,000 kr"
+        }
+    },
+    "11": {
+        "name": "Stark, Cruf AB.",
+        "location": "Håksberg"
+    },
+    "12": {
+        "name": "AB. Statens Skogsindustrier",
+        "location": "Stockholm",
+        "business": "Sågverk, hyvleri och trähusfabrik"
+    }
+}

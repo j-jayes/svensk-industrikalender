@@ -1,0 +1,160 @@
+{
+    "1": {
+        "name": "Jungner, Svenska Ackumulator AB",
+        "location": "Stockholm",
+        "business": "Tillverkar monteringsfärdiga trähus, HB-balkar samt byggnadssnickerier",
+        "products": "Description of products manufactured or services offered.",
+        "contact": {
+            "office": "Flemingg. 41, Stockholm",
+            "phone": [
+                "HSB"
+            ],
+            "postgiro": "151113",
+            "head_office": "Flemingg. 41, Stockholm",
+            "sales_offices": [
+                {
+                    "location": "Uddevalla",
+                    "phone": "14260"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,650,000 kr",
+            "employees": {
+                "industriarb": 330
+            },
+            "annual_turnover": "8,600,000 kr",
+            "annual_production_value": "8,600,000 kr"
+        },
+        "foundation_year": 1938,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "E. W. Just",
+        "location": "Borås",
+        "business": "Färgeri, blekeri och merceriseringsan-stalt samt filmtryckeri. Förädlar medelst färgning, blekning och annan beredning ull- och bomullsgarn, konstsilke, vistra, cellull, trikåvaror m. m.",
+        "products": "Description of products manufactured or services offered.",
+        "contact": {
+            "telegraph": "Just, Borås",
+            "phone": [
+                "17465"
+            ],
+            "postgiro": "6507"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 140
+            }
+        },
+        "foundation_year": 1898,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "3": {
+        "name": "Juvelerare AB. John Pettersons Eftr.",
+        "location": "Stockholm",
+        "business": "Tillverkar guld-, silver- och doubléva-ror samt juvel- och platinasmycken",
+        "products": "Description of products manufactured or services offered.",
+        "contact": {
+            "office": "Drottningg. 82, Stockholm",
+            "phone": [
+                "109600"
+            ],
+            "postgiro": "3232"
+        },
+        "financials": {
+            "capital": "275,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "foundation_year": 1872,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "Jäders Bruks Intressenter",
+        "location": "Jädersbruk",
+        "business": "Sågverk, hyvleri och elektr. kraftstation i Jädersbruk (Västmanl. l.). Tillverkar sågade och hyvlade trävaror samt distribuerar elektr. energi. Vid bruket drives även jordbruk och skogshantering",
+        "products": "Description of products manufactured or services offered.",
+        "contact": {
+            "phone": [
+                "Arboga 50"
+            ],
+            "postgiro": "74877"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "coordinates": {
+            "Latitude": 59.40858759999999,
+            "Longitude": 15.7844081
+        }
+    },
+    "5": {
+        "name": "AB. Järna Reseffektfabrik",
+        "location": "Järna (Sthlms l.)",
+        "business": "Tillverkar reseffekter och portföljer",
+        "contact": {
+            "telegraph": "Reseffekter, Järna",
+            "phone": [
+                "75",
+                "165"
+            ],
+            "postgiro": "36144"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1925,
+        "coordinates": {
+            "Latitude": 59.0940774,
+            "Longitude": 17.5585733
+        }
+    },
+    "6": {
+        "name": "Ernst Järnfelt, Byggnads AB",
+        "location": "Göteborg",
+        "business": "Byggnadsentreprenörfirma för industribyggnader samt bostads- och affärshus",
+        "contact": {
+            "office": "Skeppsbrohuset, Göteborg",
+            "phone": [
+                "170955"
+            ],
+            "postgiro": "44322"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_production_value": "4,500,000 kr"
+        },
+        "foundation_year": 1931,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "7": {
+        "name": "Järnfors & Hall AB",
+        "location": "Sandared",
+        "business": "Svensk Pappersindustri",
+        "products": "Description of products manufactured or services offered.",
+        "coordinates": {
+            "Latitude": 57.7099364,
+            "Longitude": 12.7924104
+        }
+    }
+}

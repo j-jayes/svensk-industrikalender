@@ -1,0 +1,65 @@
+{
+    "1": {
+        "name": "Wards Möbelfabrik",
+        "location": "Tibro",
+        "business": "Tillverkar biblioteksbord, soff- och matbord, höj- och sänkbara bord, pelar-bord, rökbord, radiobord m. fl.",
+        "contact": {
+            "office": "Tibro",
+            "phone": [
+                "117"
+            ],
+            "postgiro": "26957",
+            "factory_office": "Tibro"
+        },
+        "financials": {
+            "capital": "ej tillgänglig",
+            "employees": {
+                "antal_industriarb": 14
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "ej tillgänglig"
+        },
+        "foundation_year": 1916,
+        "manager": "fabr. Anton Ward"
+    },
+    "2": {
+        "name": "Vargen AB., Regnklädersfabriken",
+        "location": "Norrköping",
+        "business": "Se Regnklädersfabriken Vargen AB., Norrköping."
+    },
+    "3": {
+        "name": "AB. Yargläderfabriken",
+        "location": "Uddevalla",
+        "business": "Tillverkar sulläder. Specialitet: kromsulläder."
+    },
+    "4": {
+        "name": "Wargöns AB.",
+        "location": "Vargön",
+        "business": "Pappersbruk med träsliperi och sulfitfabrik, elektr. smältverk, elektrodmasse-fabrik och karbidfabrik i Vargön."
+    },
+    "5": {
+        "name": "Varia, AB. Möbelfabriken",
+        "location": "Flen",
+        "business": "Se AB. Möbelfabriken Varia, Flen."
+    },
+    "6": {
+        "name": "Wasabryggeriet",
+        "location": "Borlänge",
+        "business": "Se AB. Sveabryggerier, Filipstad."
+    },
+    "7": {
+        "name": "Wasa-Bryggeriet",
+        "location": "Örebro",
+        "business": "Tillverkar måltidsdricka, lagrat svag-dricka, mineralvatten och läskedrycker."
+    },
+    "8": {
+        "name": "AB. Vasalampan",
+        "location": "Stockholm",
+        "business": "Tillverkar elektr. glödlampor."
+    },
+    "9": {
+        "name": "AB. Wasa Spisbrödsfabrik",
+        "location": "Filipstad",
+        "business": "Tillverkar spis- och knäckebröd."
+    }
+}

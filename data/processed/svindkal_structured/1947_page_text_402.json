@@ -1,0 +1,252 @@
+{
+    "1": {
+        "name": "P. O. Johansson Stackes Träförädling",
+        "location": "Gnosjö",
+        "business": "Träförädling",
+        "products": "Tillverkar möbler (speciellt bokhyllor) vid fabrik i Tibro (Skarab. l.)",
+        "contact": {
+            "office": "P. O. Johansson Stackes Träförädling, Gnosjö",
+            "phone": [
+                "135"
+            ],
+            "postgiro": "134779",
+            "factory_office": "Tibro",
+            "factory_phone": "135"
+        },
+        "financials": {
+            "capital": "N/A",
+            "annual_turnover": "82,000 kr",
+            "annual_production_value": "82,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "snickaremäst. Bertil Rudolfsson",
+                "role": "Ägare o. chef"
+            }
+        ]
+    },
+    "2": {
+        "name": "Samuel Johansson, Möbelfabrik",
+        "location": "Tibro",
+        "business": "Möbelfabrik",
+        "products": "Se S. Bogeryds Möbelfabrik, Tibro",
+        "contact": {
+            "office": "Samuel Johansson, Möbelfabrik, Tibro",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1902
+    },
+    "3": {
+        "name": "Sv. M. Johansson",
+        "location": "Ulricehamn",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar möbler vid möbelfabrik i Ulricehamn. Specialitet: sängkammarmöbler.",
+        "contact": {
+            "office": "Sv. M. Johansson, Ulricehamn",
+            "phone": [
+                "796",
+                "96"
+            ],
+            "postgiro": "95666"
+        },
+        "financials": {
+            "capital": "N/A",
+            "annual_turnover": "150,000 kr",
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1902,
+        "board": [
+            {
+                "name": "disp. Sven Ola Teng-sjö",
+                "role": "Delägare o. chef"
+            }
+        ]
+    },
+    "4": {
+        "name": "Vald. Johansson, Falu Spisbrödsfabrik",
+        "location": "Falun",
+        "business": "Spisbrödsfabrik",
+        "contact": {
+            "office": "Vald. Johansson, Falu Spisbrödsfabrik, Falun",
+            "phone": [
+                "N/A"
+            ]
+        },
+        "financials": {
+            "capital": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1915
+    },
+    "5": {
+        "name": "Jonsereds Fabrikers AB.",
+        "location": "Jonsered",
+        "business": "Bomulls-, lin-, hamp- och jutespinnerier och väverier",
+        "products": "Tillverkar presenningsduk och presenningar, brandslangar, drivremmar, segelduk, säckar, emballageväv, pressduk, domestik, smerting m. m. samt garner av lin, hampa, jute och bomull; träbearbetningsmaskiner för byggnads-, möbel- och modellsnickerier, för lådfabriker, hyvlerier, parkettfabriker och för fabriker för monteringsfärdiga trähus m. fl.",
+        "contact": {
+            "office": "Jonsereds Fabrikers AB., Jonsered",
+            "phone": [
+                "N/A"
+            ],
+            "telegraph": "Jonsereds, Göteborg",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "100624"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "309144"
+                }
+            ],
+            "postgiro": "10300"
+        },
+        "financials": {
+            "capital": "5,070,000 kr",
+            "annual_turnover": "18,200,000 kr",
+            "annual_production_value": "18,200,000 kr"
+        },
+        "foundation_year": 1833,
+        "corporation_year": 1873,
+        "board": [
+            {
+                "name": "f. kommendörkapten William Gibson",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Eric Brodén",
+                "role": "N/A"
+            },
+            {
+                "name": "revisor John W. Gibson",
+                "role": "N/A"
+            },
+            {
+                "name": "bergsing. Lennart Nordenfelt",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Ivar Wendt",
+                "role": "N/A"
+            }
+        ],
+        "director": "Eric Brodén",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    },
+    "6": {
+        "name": "Jonsson, Jonsson, Johnson, Johnsson. Jonsson, Hallsjö & Co.",
+        "location": "Malung",
+        "business": "Skinnbeklädnadsfabrik",
+        "products": "Tillverkar skinntröjor, -jackor och -västar, skinnrockar, pälsar och handskar.",
+        "contact": {
+            "office": "Jonsson, Hallsjö & Co., Malung",
+            "phone": [
+                "50"
+            ],
+            "postgiro": "30182"
+        },
+        "financials": {
+            "capital": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "fabr. Albert Jonsson",
+                "role": "Ägare o. chefer"
+            },
+            {
+                "name": "fabr. Johan Hallsjö",
+                "role": "Ägare o. chefer"
+            },
+            {
+                "name": "fabr. Petrus Jonsson",
+                "role": "Ägare o. chefer"
+            }
+        ]
+    },
+    "7": {
+        "name": "Johnson Hill AB.",
+        "location": "Örebro",
+        "business": "Kuvert- och påsfabrik, litografisk anstalt samt boktryckeri",
+        "products": "Tillverkar kuvert, papperspåsar och kortblanketter; utför litografiskt tryck och boktryck.",
+        "contact": {
+            "office": "Johnson Hill AB., Örebro",
+            "phone": [
+                "N/A"
+            ],
+            "telegraph": "Johnsonhill, Örebro",
+            "postgiro": "9107",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "204927"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "annual_turnover": "4,800,000 kr",
+            "annual_production_value": "4,800,000 kr"
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "dir. Erland Johnson",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Olof Johnson",
+                "role": "N/A"
+            }
+        ],
+        "director": "Erland Johnson",
+        "manager": "N/A"
+    },
+    "8": {
+        "name": "AB. Jonsson & Kjellin",
+        "location": "Kumla",
+        "business": "Skofabrik",
+        "products": "Tillverkar randsydda och agodamskodon.",
+        "contact": {
+            "office": "AB. Jonsson & Kjellin, Kumla",
+            "phone": [
+                "70186",
+                "70524"
+            ],
+            "postgiro": "20807"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "annual_turnover": "975,000 kr",
+            "annual_production_value": "975,000 kr"
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "fabr. Erik Kjellin",
+                "role": "ordf."
+            },
+            {
+                "name": "kassör Sigurd Johansson",
+                "role": "N/A"
+            }
+        ],
+        "director": "N/A",
+        "manager": "Erik Kjellin"
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "1": {
+        "name": "AB. Germa",
+        "location": "Sundbyberg",
+        "business": "Konfektions- och trikåfabrik",
+        "products": "Tillverkar korsetter samt herr- och damunderkläder. Varumärke: »Germa»",
+        "contact": {
+            "office": "Sundbyberg",
+            "phone": [
+                "Stockholm 282590"
+            ],
+            "postgiro": "1174",
+            "telegraph": "Germa, Sundbyberg"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": "1,700,000 kr"
+        },
+        "foundation_year": 1925,
+        "board": [
+            {
+                "name": "grossh. Artur Winberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Å. H. Bruhn",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Erik Winberg",
+                "role": "dir."
+            },
+            {
+                "name": "Erik Winberg",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Bertil Winberg",
+                "role": "Dir.-assist."
+            },
+            {
+                "name": "Torsten Espling",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.369325,
+            "Longitude": 17.9609133
+        }
+    },
+    "2": {
+        "name": "J. C. E. Cernandt",
+        "location": "Stockholm",
+        "business": "Tjär-, färg- och fernissfabrik",
+        "products": "Tillverkar diverse kemiska produkter för olika industrier.",
+        "contact": {
+            "office": "Västberga",
+            "phone": [
+                "Stockholm 452590"
+            ],
+            "postgiro": "2755",
+            "telegraph": "Gernandter, Stockholm"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1876,
+        "owners": [
+            "fabr. Ernest Gernandt"
+        ],
+        "board": [
+            {
+                "name": "fabr. Ernest Gernandt",
+                "role": "Ägare o. chef"
+            },
+            {
+                "name": "disp. Stig Gernandt",
+                "role": "Försäljn.-chef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "Getinge Mek. Verkstads AB.",
+        "location": "Getinge",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Tillverkar diverse tekniska produkter för olika användningsområden.",
+        "contact": {
+            "office": "Getinge",
+            "phone": [
+                "Getinge"
+            ],
+            "postgiro": "22622",
+            "telegraph": "Getingeverken, Getinge"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1888,
+        "corporation_year": 1904,
+        "board": [
+            {
+                "name": "trävaruhandl. Gösta Ewerhard",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl Steen, fru Ellen Steen",
+                "role": "Disp."
+            },
+            {
+                "name": "Carl Steen",
+                "role": "Disp."
+            },
+            {
+                "name": "Bror Börjesson",
+                "role": "Kontorschef"
+            },
+            {
+                "name": "Lars Ekman",
+                "role": "Försäljn.-chef"
+            },
+            {
+                "name": "Sven Hultman",
+                "role": "Verkstadschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.8200215,
+            "Longitude": 12.7351981
+        }
+    },
+    "4": {
+        "name": "Getinge Sågverk, Einar Nilsson",
+        "location": "Getinge",
+        "business": "Tillverkning av trävaror",
+        "products": "Tillverkar plank, spåntade och hyvlade trävaror, blockvaror i ek, alm, ask och bok, tegelbrukslattor samt råparkett i ek och bok vid sågverk med hyvleri",
+        "contact": {
+            "phone": [
+                "91"
+            ],
+            "postgiro": "168891"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1940,
+        "owners": [
+            "fabr. Einar G. Nilsson"
+        ],
+        "board": [
+            {
+                "name": "fabr. Einar G. Nilsson",
+                "role": "Ägare o. chef"
+            },
+            {
+                "name": "Sten Nilsson",
+                "role": "Försäljn.-chef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.8200215,
+            "Longitude": 12.7351981
+        }
+    },
+    "5": {
+        "name": "Getinge Tegelbruk",
+        "location": "Getinge",
+        "business": "Tillverkning av murtegel och dräneringsrör",
+        "products": "Tillverkar murtegel och dräneringsrör vid tegelbruk i Getinge",
+        "contact": {
+            "office": "Getinge",
+            "phone": [
+                "Getinge"
+            ],
+            "postgiro": "23000"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "coordinates": {
+            "Latitude": 56.8200215,
+            "Longitude": 12.7351981
+        }
+    },
+    "6": {
+        "name": "AB. Geveko",
+        "location": "Göteborg",
+        "business": "Holdingbolag för fabriksbolagen",
+        "products": "Holdingbolag för fabriksbolagen AB. Bitumuls och AB. Essäs med fabriker i Göteborg och Karlstad samt för försäljningsbolagen AB. Gatu- och Vägbeläggningsämnen och AB. Gatu- och Byggnadssten, samtliga i Göteborg.",
+        "contact": {
+            "office": "Göteborg, Magasinsg. 3",
+            "phone": [
+                "172950"
+            ],
+            "postgiro": "40163",
+            "telegraph": "Geveko, Göteborg"
+        },
+        "financials": {
+            "capital": "1,000,000 kr"
+        },
+        "corporation_year": 1926,
+        "board": [
+            {
+                "name": "kapten Emil Clemedtson",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Gunnar Bergendahl",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Gunnar Mattsson",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

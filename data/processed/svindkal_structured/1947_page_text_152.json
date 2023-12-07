@@ -1,0 +1,213 @@
+{
+    "1": {
+        "name": "AB. Alunda Snickerifabrik & Möbelaffär",
+        "location": "Alunda",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar möbler samt inredningar för privatbruk, kontors- och butikslokaler. Bolaget driver även jordbruk.",
+        "contact": {
+            "phone": [
+                "9a",
+                "9b"
+            ],
+            "postgiro": "174560"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 11
+            },
+            "annual_turnover": "71,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "Filip Selen",
+                "role": "hemmansägare"
+            },
+            {
+                "name": "Adéle Selen",
+                "role": "fröken"
+            },
+            {
+                "name": "David Selen",
+                "role": "fa.br."
+            },
+            {
+                "name": "Egron Selen",
+                "role": "fabr."
+            },
+            {
+                "name": "Josef Selen",
+                "role": "fabr."
+            }
+        ],
+        "director": "David Selen"
+    },
+    "2": {
+        "name": "Alvesta Gjuteri AB",
+        "location": "Alvesta",
+        "business": "Tillverkar gjutgods för armatur, medelstort maskingods samt maskinformat smågods",
+        "contact": {
+            "phone": "150"
+        },
+        "financials": {
+            "capital": "52,000 kr",
+            "employees": {
+                "industriarb": 54
+            },
+            "annual_turnover": "850,000 kr"
+        },
+        "foundation_year": 1943,
+        "original_name": "Alvesta Gjuteri i AB.",
+        "board": [],
+        "director": "Gustaf Atliley"
+    },
+    "3": {
+        "name": "Alvesta Glasbruk, Lindahl & Co.",
+        "location": "Alvesta",
+        "business": "Tillverkar flaskor, burkar och medicinglas, kem. tekniskt glas och emballageglas",
+        "contact": {
+            "phone": [
+                "237",
+                "227"
+            ],
+            "postgiro": "84348"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1932,
+        "director": "fabr. Georg Lindahl"
+    },
+    "4": {
+        "name": "AB. Alvesta Träförädling & Mek. Verkstad",
+        "location": "Alvesta",
+        "business": "Sågverk, hyvleri, trätoffelfabrik, mek. verkstad samt kvarn",
+        "products": "Tillverkar sågade och hyvlade trävaror, (specialitet: sågade sparrar o. bjälkar [kantholz]), trätoffelbottnar och läster samt turbiner, sågverksmaskiner och maskiner för trätoffeltillverkning.",
+        "contact": {
+            "phone": "99",
+            "postgiro": "34216"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1946,
+        "board": [
+            {
+                "name": "Ernst Andersson",
+                "role": "fabr."
+            },
+            {
+                "name": "Evald Andersson",
+                "role": "disp."
+            },
+            {
+                "name": "E. E. Andersson",
+                "role": "fru"
+            }
+        ],
+        "director": "Evald Andersson"
+    },
+    "5": {
+        "name": "Alviks Träförädlings AB.",
+        "location": "Alnö",
+        "business": "Hyvleri och fanérfabrik",
+        "products": "Tillverkar hyvlade trävaror samt lamellkryssfanér av furu och björk.",
+        "contact": {
+            "telegraph": "Alvik, Sundsvall",
+            "phone": [
+                "68141",
+                "68110"
+            ],
+            "postgiro": "30864"
+        },
+        "financials": {
+            "capital": "240,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "2,500 ton kryssfanér"
+        },
+        "foundation_year": 1927,
+        "owners": [
+            "Ankarsviks Ångsågs AB., Sundsvall"
+        ],
+        "board": [
+            {
+                "name": "Hugo Nordgren",
+                "role": "konsul"
+            },
+            {
+                "name": "Hugo Bäckström",
+                "role": "skogschef"
+            },
+            {
+                "name": "Fr. Forsgren",
+                "role": "disp."
+            },
+            {
+                "name": "Wilhelm T. Lindgren",
+                "role": "disp."
+            },
+            {
+                "name": "Ivar Wallmark",
+                "role": "bankdir."
+            }
+        ],
+        "director": "Fr. Forsgren",
+        "manager": "Hugo Magnusson",
+        "sales_manager": "G. D. Trolin"
+    },
+    "6": {
+        "name": "Andell & Anderson AB.",
+        "location": "Göteborg",
+        "business": "Modevarukonfektion",
+        "products": "Tillverkar dam-kragar, scarves samt modeartiklar. Bolaget driver även engroshandel med textil-och modevaror.",
+        "contact": {
+            "location": "Viktoriag. 16",
+            "postgiro": "240826"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "Arb.-antal": 12
+            }
+        },
+        "foundation_year": 1946,
+        "board": [
+            {
+                "name": "Nils Parkfelt",
+                "role": "rådman"
+            },
+            {
+                "name": "Max Andell",
+                "role": "dir."
+            },
+            {
+                "name": "Torsten Andell",
+                "role": "dir."
+            },
+            {
+                "name": "Oscar Anderson",
+                "role": "dir."
+            },
+            {
+                "name": "Bertil Hassel-blad",
+                "role": "dir."
+            },
+            {
+                "name": "Dage Ljungman",
+                "role": "godsäg."
+            }
+        ],
+        "director": "Oscar Anderson",
+        "manager": "M. Andell"
+    }
+}

@@ -1,0 +1,380 @@
+{
+    "1": {
+        "name": "AB. Bitumuls",
+        "location": "Bjärnum",
+        "business": "Asfaltprodukter",
+        "products": "Tillverkar inredningar och grövre snickerier samt lådor.",
+        "contact": {
+            "office": "Göteborg",
+            "phone": [
+                "32565"
+            ],
+            "postgiro": "81490",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "Antal industriarb.": 50
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1923,
+        "corporation_year": 1935,
+        "board": [
+            {
+                "name": "fabr. Ragnar E. Jansson",
+                "role": "ordf."
+            },
+            {
+                "name": "fabr. Johan T. Jansson",
+                "role": ""
+            }
+        ],
+        "director": "Ragnar E. Jansson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 56.2914154,
+            "Longitude": 13.7097126
+        }
+    },
+    "2": {
+        "name": "Bjelkes",
+        "location": "Karlskoga",
+        "business": "Snickare och byggarbeten",
+        "products": "Tillverkar inredningar och grövre snickerier samt lådor. Driver även handel med byggnadsmateriel och trävaror.",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "Antal industriarb.": 50
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1923,
+        "corporation_year": 1935,
+        "board": [
+            {
+                "name": "fabr. Ragnar E. Jansson",
+                "role": "ordf."
+            },
+            {
+                "name": "fabr. Johan T. Jansson",
+                "role": ""
+            }
+        ],
+        "director": "Ragnar E. Jansson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.32863399999999,
+            "Longitude": 14.536414
+        }
+    },
+    "3": {
+        "name": "Bjerkås AB.",
+        "location": "Göteborg",
+        "business": "Armaturfabrik",
+        "products": "Tillverkar belysningsarmatur och konstsmide.",
+        "contact": {
+            "office": "Nils Ericsonsg. A 3",
+            "phone": [
+                "154124"
+            ],
+            "postgiro": "40407",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "Antal industriarb.": 40
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1927,
+        "corporation_year": null,
+        "board": [],
+        "director": "Olof Gertorp",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Sture Lantz",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "Bjurhagens Fabrikers AB.",
+        "location": "Malmö",
+        "business": "Kabelfabrik",
+        "products": "Tillverkar vulkaniserade starkströmsledningar.",
+        "contact": {
+            "office": "Agneslundsvägen 8",
+            "phone": [
+                "72165"
+            ],
+            "postgiro": "39069",
+            "head_office": "",
+            "telegraph": "Kabelfabriken, Malmö",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "Antal industriarb.": 100
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1924,
+        "corporation_year": null,
+        "board": [],
+        "director": "Eric Carlson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "5": {
+        "name": "AB. Bjurstorps Marmorverk",
+        "location": "Västervik",
+        "business": "Marmorbearbetning",
+        "products": "Marmorbearbetning i Bjurstorp, Katrineholm, marmorbrott i Vånga socken samt granitstenhuggeri i Västervik.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "83"
+            ],
+            "postgiro": "272320",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "Antal industriarb.": 35
+            },
+            "annual_turnover": "425,000 kr",
+            "annual_production_value": "425,000 kr"
+        },
+        "foundation_year": 1944,
+        "corporation_year": null,
+        "board": [],
+        "director": "fabr. Edvin Nilsson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        }
+    },
+    "6": {
+        "name": "Bjursås Kvarn- & Såg AB.",
+        "location": "Ingels",
+        "business": "Sågverk och hyvleri",
+        "products": "Tillverkar sågade och hyvlade trävaror, listverk samt träkol.",
+        "contact": {
+            "office": "Born, Ingels",
+            "phone": [
+                "Ingels 13",
+                "Bjursås 13"
+            ],
+            "postgiro": "14376 (Born), 81485 (Bjursås)",
+            "head_office": "",
+            "telegraph": "Kvarnsågen, Rättvik",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "137,300 kr",
+            "employees": {
+                "Antal industriarb.": 65
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1917,
+        "corporation_year": null,
+        "board": [],
+        "director": "Erik Sjögren",
+        "managing_director": "Anders Sjögren",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 60.94526669999999,
+            "Longitude": 15.23561
+        }
+    },
+    "7": {
+        "name": "Bjursås Skomakeriförening",
+        "location": "Bjursås",
+        "business": "Tillverkning av skor och fotbeklädnader",
+        "products": "Tillverkar pjäxor, arbetsskor, vandrarskor och sandaler.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "14"
+            ],
+            "postgiro": "24802",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "85,000 kr",
+            "employees": {
+                "Antal industriarb.": 33
+            },
+            "annual_turnover": "650,000 kr",
+            "annual_production_value": "650,000 kr"
+        },
+        "foundation_year": 1921,
+        "corporation_year": null,
+        "board": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "fabr. Johan Hag",
+        "coordinates": {
+            "Latitude": 60.73846399999999,
+            "Longitude": 15.4467669
+        }
+    },
+    "8": {
+        "name": "AB. Bjäre Industrier",
+        "location": "Karpalund",
+        "business": "Livsmedelsindustri",
+        "products": "Tillverkar fruktkonserver, fruktmos och marmelad.",
+        "contact": {
+            "office": "Karpalund (Kristianst. l.)",
+            "phone": [
+                "14490—91"
+            ],
+            "postgiro": "12621",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 20
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1942,
+        "board": [],
+        "director": "civiling. Gunnar Nilsson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 56.03559629999999,
+            "Longitude": 14.089078
+        }
+    },
+    "9": {
+        "name": "AB. Bjärnums Möbelfabriker",
+        "location": "Bjärnum",
+        "business": "Möbeltillverkning",
+        "products": "Tillverkar möbler.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "15"
+            ],
+            "postgiro": "23550",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "73,700 kr",
+            "employees": {
+                "Antal industriarb.": 70
+            },
+            "annual_turnover": "550,000 kr",
+            "annual_production_value": "550,000 kr"
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1929,
+        "board": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "William Cederholm",
+        "coordinates": {
+            "Latitude": 56.2914154,
+            "Longitude": 13.7097126
+        }
+    },
+    "10": {
+        "name": "Bjärnums Redskapsfabrik",
+        "location": "Bjärnum",
+        "business": "Mekanisk verkstad",
+        "products": "Tillverkar skyfflar med smidda beslag, spadar, bethackor, potatiskvarnar samt yx- och andra skaft.",
+        "contact": {
+            "office": "Bjärnum (Kristianst. l.)",
+            "phone": [
+                "75",
+                "116"
+            ],
+            "postgiro": "29554",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_turnover": "100,000 kr",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1880,
+        "corporation_year": null,
+        "board": [],
+        "director": "fabr. Oscar Findahl",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 56.2914154,
+            "Longitude": 13.7097126
+        }
+    }
+}

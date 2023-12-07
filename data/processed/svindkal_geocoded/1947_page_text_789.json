@@ -1,0 +1,192 @@
+{
+    "1": {
+        "name": "AB. Örebro Skobandfabrik",
+        "location": "Örebro",
+        "business": "Tillverkar skoband och kängsnören.",
+        "contact": {
+            "phone": [
+                "11573"
+            ],
+            "postgiro": "34243"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1941,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "2": {
+        "name": "AB. Örebro Skofabrik",
+        "location": "Örebro",
+        "business": "Tillverkar randsydda och genomsydda skodon samt agoskodon.",
+        "products": "Varunamn: för damskor »Maritza»; för herrskor »Astor»; för pjäxor »Matsbo».",
+        "contact": {
+            "telegraph": "Palmborg, Örebro",
+            "phone": [
+                "10555",
+                "14555",
+                "10559 (avd. Svea: 10969)"
+            ],
+            "postgiro": "71378"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 135
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1929,
+        "predecessor": "f.d. AB. Skofabriken Svea",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "3": {
+        "name": "AB. Örebro Snickeri & Trävaru AB.",
+        "location": "Örebro",
+        "business": "Tillverkar byggnadssnickerier, butiks-och köksinredningar, Pivå-helljusfönster och Kährs lamelldörrar. Driver även handel med byggnadsmateriel.",
+        "contact": {
+            "phone": [
+                "10296",
+                "12596",
+                "12562"
+            ],
+            "postgiro": "86008"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "1,600,000 kr",
+            "annual_production_value": "1,600,000 kr"
+        },
+        "foundation_year": 1932,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "4": {
+        "name": "Örebro Sportindustri",
+        "location": "Örebro",
+        "business": "Tillverkar idrottsskodon, skidkängor och sandaler.",
+        "contact": {
+            "phone": [
+                "13574"
+            ],
+            "postgiro": "77450"
+        },
+        "financials": {
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1921,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "5": {
+        "name": "AB. Örebro Strå- & Filthattfabrik",
+        "location": "Örebro",
+        "business": "Tillverkar dam- och barnhattar.",
+        "contact": {
+            "telegraph": "örebrohattar, Örebro",
+            "phone": [
+                "11030",
+                "16920",
+                "12630"
+            ],
+            "postgiro": "28372"
+        },
+        "financials": {
+            "capital": "80,000 kr"
+        },
+        "foundation_year": 1923,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "6": {
+        "name": "AB. Örebro Vadd- & Yllefabrik",
+        "location": "Örebro",
+        "business": "Tillverkar schoddyvadd, bomullsvadd, limvadd, förbands- och frisörvadd, sanitetsbindor, isoleringsvadd, fönstervadd m.m. samt madrasser och kuddar vid fabrik i Sörby, Örebro.",
+        "contact": {
+            "telegraph": "Yaddfabriken, Örebro",
+            "phone": [
+                "24010"
+            ],
+            "postgiro": "73141"
+        },
+        "financials": {
+            "capital": "120,300 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1946,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "7": {
+        "name": "Öregrunds Slip & Warfs AB.",
+        "location": "Öregrund",
+        "business": "Skeppsvarv med slip och mek. verkstad. Utför klassificerings- och reparationsarbeten av ång- och segelfartyg och pråmar samt nybyggnader i mindre skala, även elektr. svetsning.",
+        "contact": {
+            "telegraph": "Slipbolaget, Öregrund",
+            "phone": [
+                "15"
+            ],
+            "postgiro": "89902"
+        },
+        "financials": {
+            "capital": "187,500 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1910,
+        "coordinates": {
+            "Latitude": 60.3392558,
+            "Longitude": 18.4402538
+        }
+    },
+    "8": {
+        "name": "Öresundsvarvet AB.",
+        "location": "Landskrona",
+        "business": "Skeppsvarv med dockor. Bygger stålfartyg och reparerar alla slags fartyg.",
+        "contact": {
+            "telegraph": "öresundsvarvet, Landskrona",
+            "phone": [],
+            "postgiro": "73722"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb": 1000
+            },
+            "annual_turnover": "20,000,000 kr"
+        },
+        "foundation_year": 1924,
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        }
+    }
+}

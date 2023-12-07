@@ -1,0 +1,160 @@
+{
+    "1": {
+        "name": "Cefle Yelocipedfabrik AB.",
+        "location": "Gävle",
+        "business": "Tillverkar velocipeder",
+        "contact": {
+            "phone": [
+                "7110"
+            ],
+            "postgiro": "15336"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "foundation_year": 1911,
+            "corporation_year": 1943
+        },
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "2": {
+        "name": "AB. Gävle Åkerredskap",
+        "location": "Gävle",
+        "business": "Se AB. Arvika-Verken, Arvika",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "3": {
+        "name": "Gefle Angväfveri AB.",
+        "location": "Gävle",
+        "business": "Väveri med färgeri och appreturverk. Tillverkar ylle- och sidenvävnader, ylle-och bomullsflaggduk",
+        "contact": {
+            "telegraph": "Ångväfveriet, Gävle",
+            "phone": "Telefon: Ångväfveriet, Gävle",
+            "postgiro": "9552"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 430
+            },
+            "foundation_year": 1862
+        },
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "4": {
+        "name": "Gefleborgs Tryckeri AB.",
+        "location": "Gävle",
+        "business": "Bok-, accidens- och tidningstryckeri, litografisk anstalt, offsettryckeri, bok-binderi samt förlagsrörelse. Utför bok-och offsettryck, litografiskt tryck och bok-binderiarbeten; tillverkar självkiistrande brevkort (»Gevalia») samt utger tidningen »Norrlands-Posten»—»Gefle Posten»",
+        "contact": {
+            "phone": [
+                "7000"
+            ],
+            "postgiro": "7696"
+        },
+        "financials": {
+            "capital": "330,000 kr",
+            "employees": {
+                "industriarb": 63
+            },
+            "foundation_year": 1761
+        },
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "5": {
+        "name": "Göstad Tegelbruk",
+        "location": "Ljusfors",
+        "business": "Tillverkar tegelrör, tak- och murtegel vid tegelbruk i Ljusfors (Östergötl. l.)",
+        "contact": {
+            "phone": "Telefon: Vånga 65"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "115,000 kr",
+            "foundation_year": 1936
+        },
+        "owners": [
+            "godsäg. Hugo Drangel (Horn)"
+        ],
+        "manager": "Förest.: Harry Saäf",
+        "coordinates": {
+            "Latitude": 58.583333,
+            "Longitude": 15.883333
+        }
+    },
+    "6": {
+        "name": "Göta Förnicklingsfabrik",
+        "location": "Stockholm",
+        "business": "Utför slipuing, förnickling, förkrom-ning, oxidering, kadmiering, förtenning, försilvring samt patineringar",
+        "contact": {
+            "office": "Regeringsg. 86",
+            "phone": [
+                "111161",
+                "214185"
+            ],
+            "postgiro": "57111"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "250,000 kr",
+            "foundation_year": 1934
+        },
+        "director": "Verkst. dir.: Georg Ericsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "AB. Götamotorer",
+        "location": "Osby",
+        "business": "Mek. verkstad i Osby (Kristianst. l.). Tillverkar bensin- och fotogenmotorer, kompressorer, armatur samt utför mekaniska arbeten",
+        "contact": {
+            "telegraph": "Götamotorer, Osby",
+            "phone": "Telefon: 25",
+            "postgiro": "163327"
+        },
+        "financials": {
+            "capital": "8,100 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "foundation_year": 1928
+        },
+        "board": [
+            {
+                "name": "disp. Bror Färe",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. G. Aspegren"
+            },
+            {
+                "name": "fru L. Färe"
+            }
+        ],
+        "director": "Verkst. dir.: Bror Färe",
+        "coordinates": {
+            "Latitude": 56.3815355,
+            "Longitude": 13.9929413
+        }
+    }
+}

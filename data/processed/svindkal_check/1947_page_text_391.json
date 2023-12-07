@@ -1,0 +1,253 @@
+{
+    "1": {
+        "name": "Ingenjörsfirman—Instrum e nt",
+        "location": "Luntmakarg. 14",
+        "business": "Ingenjörsfirman",
+        "contact": {
+            "office": "Luntmakarg. 14",
+            "phone": [
+                "112480"
+            ],
+            "postgiro": "2359"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "Hugo Edström",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "Ingenjörsfirman Alb. J. Wahlbeck",
+        "location": "Halmstad",
+        "business": "Maskinfabrik",
+        "products": "Tillverkar som specialitet snickerimaskiner. Varumärke: »Waco».",
+        "contact": {
+            "office": "Halmstad",
+            "phone": [
+                "952",
+                "2152"
+            ],
+            "postgiro": "93626"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1918,
+        "current_name_year": 1946,
+        "director": "Carl-Eric Wahlbeck"
+    },
+    "3": {
+        "name": "Ingenjörsfirman Yentilator",
+        "location": "Stockholm",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar fläktar, ventilationsmateriel, plåttrummor och kompletta ventilationsanläggningar. Varumärke: »Vento».",
+        "contact": {
+            "office": "Västbergavägen",
+            "phone": [
+                "452830"
+            ],
+            "postgiro": "53070"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 56
+            },
+            "annual_production_value": "1,300,000 kr"
+        },
+        "foundation_year": 1931,
+        "owner": "civiling. Sven Romedahl"
+    },
+    "4": {
+        "name": "Ingenjörstekniska Byrån AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar regenereringsmedel för metallsmältor samt bedriver konstruktionsverksamhet."
+    },
+    "5": {
+        "unknown_structure": "contact"
+    },
+    "6": {
+        "office": "Blasieholmstorg 11 C",
+        "phone": [
+            "104550"
+        ],
+        "postgiro": "2850"
+    },
+    "7": {
+        "unknown_structure": "financials"
+    },
+    "8": {
+        "capital": "5,000 kr",
+        "annual_turnover": "120,000 kr"
+    },
+    "9": {
+        "unknown_structure": "foundation_year"
+    },
+    "10": {
+        "unknown_structure": 1926
+    },
+    "11": {
+        "unknown_structure": "board"
+    },
+    "12": {
+        "unknown_structure": [
+            {
+                "name": "civiling. Karl Wessblad",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ]
+    },
+    "13": {
+        "unknown_structure": "owners"
+    },
+    "14": {
+        "unknown_structure": [
+            ""
+        ]
+    },
+    "15": {
+        "unknown_structure": "director"
+    },
+    "16": {
+        "unknown_structure": "civiling. Karl Wessblad"
+    },
+    "17": {
+        "unknown_structure": "manager"
+    },
+    "18": {
+        "unknown_structure": "civiling. Karl Wessblad"
+    },
+    "19": {
+        "unknown_structure": "sales_manager"
+    },
+    "20": {
+        "unknown_structure": "civiling. Karl Wessblad"
+    },
+    "21": {
+        "unknown_structure": "managing_director"
+    },
+    "22": {
+        "unknown_structure": "civiling. Karl Wessblad"
+    },
+    "23": {
+        "name": "Inlands AB.",
+        "location": "Lilla Edet",
+        "business": "Papp- och kartongfabrik, pappersbruk samt träsliperi.",
+        "products": "Tillverkar kartong och papper, såsom trämassepapp. bokbindarpapp. etc.",
+        "contact": {
+            "office": "Lilla Edet",
+            "phone": [
+                "26",
+                "200",
+                "272"
+            ],
+            "postgiro": "163464"
+        },
+        "financials": {
+            "capital": "1,100,000 kr",
+            "employees": {
+                "industriarb": 180
+            },
+            "annual_turnover": "12,000 ton kartong och papper"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "dir. Folke L. Lindqvist",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. O. Gunnar Haeger",
+                "role": "disp."
+            },
+            {
+                "name": "adv. Axel T. Nilsson",
+                "role": "adv."
+            }
+        ]
+    },
+    "24": {
+        "name": "Insjöns Sågverks AB.",
+        "location": "Insjön",
+        "business": "Sågverk, hyvleri, snickerifabrik samt kolugnar",
+        "products": "Tillverkar sågade och hyvlade trävaror, monteringsfärdiga trähus, fönster och dörrar samt träkol och trätjära.",
+        "contact": {
+            "office": "Insjön",
+            "phone": [
+                "40220-23"
+            ],
+            "postgiro": "143800"
+        },
+        "financials": {
+            "capital": "1,100,000 kr",
+            "employees": {
+                "industriarb": 275
+            },
+            "annual_production_value": {
+                "sågade o. hyvlade trävaror": "6,000 stds",
+                "träkol": "12,000 läster",
+                "trätjära": "250 ton"
+            }
+        },
+        "foundation_year": 1912,
+        "board": [
+            {
+                "name": "hovrättsassessor Å. Thorell",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. August Andersson",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Johan Danielsson",
+                "role": "disp."
+            },
+            {
+                "name": "disp.-assistent Rolf v. Heidenstam",
+                "role": "disp.-assistent"
+            },
+            {
+                "name": "dir. K. I. Hising",
+                "role": "dir."
+            },
+            {
+                "name": "prof. Oskar Lindberg",
+                "role": "prof."
+            }
+        ]
+    },
+    "25": {
+        "name": "Instrument AB. J. A. Palm",
+        "location": "Stockholm",
+        "business": "Finmekanisk verkstad",
+        "products": "Tillverkar ingenjörs- och kontorsutensilier såsom ritinstrument, stålmåttband, pennformeringsmaskiner, böjlig metallslang samt pressade och svarvade massartiklar.",
+        "contact": {
+            "office": "Stockholm, Välling. 12",
+            "phone": [
+                "235995"
+            ],
+            "postgiro": "195945"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1919,
+        "current_name_year": 1943
+    }
+}

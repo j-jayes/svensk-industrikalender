@@ -1,0 +1,170 @@
+{
+    "1": {
+        "name": "Pettersson—Piano fabrik",
+        "location": "Anderstorp",
+        "business": "Tillverkning av kvarnar, fruktpressar, passérmaskiner och silar m. m.",
+        "contact": {
+            "telegraph": "Levier, Anderstorp",
+            "phone": [
+                "19",
+                "202"
+            ],
+            "postgiro": "22575"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb.": 75
+            },
+            "annual_turnover": "1,300,000 kr",
+            "annual_production_value": "1,300,000 kr"
+        },
+        "foundation_year": 1914,
+        "corporation_year": 1944,
+        "director": "Levi Peterson",
+        "managing_director": "Kurt Idin"
+    },
+    "2": {
+        "name": "N. Petterssons Snickerifabrik",
+        "location": "Hestra (Jönköp. l.)",
+        "business": "Tillverkning av butiksinredningar och kontorsmöbler m. m.",
+        "contact": {
+            "phone": "3",
+            "postgiro": "168849"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 17
+            },
+            "annual_production_value": "270,000 kr"
+        },
+        "foundation_year": 1900,
+        "owners": [
+            "fabr. Ernst Petersson",
+            "fabr. Tage Petersson"
+        ]
+    },
+    "3": {
+        "name": "Th. Petterssons Snickeri- & Båtfabrik",
+        "location": "Broddbo (Västmanl. l.)",
+        "business": "Tillverkning av byggnadssnickerier och inredningar, monteringsfärdiga trähus, motor- och roddbåtar, kanoter samt pontoner.",
+        "contact": {
+            "phone": [
+                "15",
+                "25"
+            ],
+            "postgiro": "135953"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1914,
+        "owner": "byggm. Theodor Pettersson"
+    },
+    "4": {
+        "name": "Victor Pettersons Bokindustri AB.",
+        "location": "Stockholm",
+        "business": "Boktryckeri, litografi, bokbinderi, kartongage, reklamateljé och bokförlag.",
+        "contact": {
+            "office": "Holländarg. 10",
+            "phone": "Victor Petterson, Stockholm",
+            "postgiro": "939"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb.": 185
+            }
+        },
+        "foundation_year": 1874,
+        "board": [
+            {
+                "name": "dir. Alfr. Petterson",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Sigrid Petterson"
+            },
+            {
+                "name": "herr B. Rundin"
+            },
+            {
+                "name": "herr Per Arne Ström"
+            },
+            {
+                "name": "dr Gunnar Ågren"
+            }
+        ],
+        "director": "Alfr. Petterson"
+    },
+    "5": {
+        "name": "Bertil Petzén AB.",
+        "location": "Borås",
+        "business": "Tillverkning av arbetskläder, skjortor, byxor, damklänningar, förkläden, städrockar, nattlinnen och pyjamas.",
+        "contact": {
+            "phone": [
+                "10413",
+                "12655"
+            ],
+            "postgiro": "37297"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_production_value": "600,000 kr"
+        },
+        "corporation_year": 1928,
+        "current_name_year": 1945,
+        "director": "Bertil Petzén"
+    },
+    "6": {
+        "name": "AB. Pharmacia",
+        "location": "Stockholm",
+        "business": "Farmaceutisk-kemisk fabrik. Tillverkning av farmaceutiska preparat och kem.-tekn. artiklar.",
+        "contact": {
+            "office": "Lövholmsvägen 5, Liljeholmen",
+            "phone": "Pharmacia, Stockholm",
+            "postgiro": "1307"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb.": 125
+            },
+            "annual_turnover": "6,400,000 kr"
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "apot. J. A. Berke"
+            },
+            {
+                "name": "civiling. Elis Göth"
+            },
+            {
+                "name": "dir. Gottfrid Lundberg"
+            },
+            {
+                "name": "dir. Ivan Rothlin"
+            },
+            {
+                "name": "övering. Birger Sundfeldt"
+            },
+            {
+                "name": "apot. Emil Thulin"
+            }
+        ],
+        "director": "Elis Göth"
+    },
+    "7": {
+        "name": "Pianofabriks AB. Gustafson & Ljungqvist",
+        "location": "Norrköping",
+        "business": "Tillverkning av pianon.",
+        "contact": {
+            "phone": "21839"
+        },
+        "corporation_year": 1945
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "1": {
+        "name": "Nordiska",
+        "location": "Nordmaling",
+        "business": "Ping, telefon",
+        "contact": {
+            "telegraph": "Syrgas verken"
+        },
+        "financials": {
+            "capital": "2.000.000 kr"
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "Ejnar Rodling",
+                "role": "ordf."
+            },
+            {
+                "name": "Rolf v. Heidenstam",
+                "role": "kabinettskammarh."
+            },
+            {
+                "name": "Hans Rydin",
+                "role": "dir."
+            },
+            {
+                "name": "Nils Westberg",
+                "role": "dir."
+            }
+        ],
+        "director": "Ernst Weland",
+        "managing_director": "Ernst Weland",
+        "sales_manager": "Gösta Dahlström"
+    },
+    "2": {
+        "name": "AB. Nordiska Tapetfabriken",
+        "location": "Arvika",
+        "business": "Tillverkar tapeter och bårder",
+        "contact": {
+            "telegraph": "Tapetfabriken, Arvika",
+            "phone": [
+                "108",
+                "477"
+            ],
+            "postgiro": "37317"
+        },
+        "financials": {
+            "capital": "400.000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "H. Benndorf",
+                "role": "adv."
+            },
+            {
+                "name": "J. Edenquist",
+                "role": "herr"
+            },
+            {
+                "name": "Robert J:son Lindh",
+                "role": "dir."
+            }
+        ],
+        "director": "Robert J:son Lindh",
+        "managing_director": "Robert J:son Lindh"
+    },
+    "3": {
+        "name": "*AB. Nordiska Tubfabriken",
+        "location": "Kungsör",
+        "business": "Tillverkar vid fabrik i Kungsör (Västmanl. l.) förpackningstuber av aluminium, bly och tenn, tennpläterade tuber, kapslar, lackerade och tryckta tuber för kem. tekn. industrin, för färger m. m. samt zaponerade tuber för konservindustrin",
+        "contact": {
+            "telegraph": "Tubfabriken, Kungsör",
+            "phone": "Undisclosed",
+            "postgiro": "76670"
+        },
+        "financials": {
+            "capital": "137.500 kr"
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "Berthold Orrvik",
+                "role": "disp."
+            },
+            {
+                "name": "M. Orrvik",
+                "role": "fru"
+            },
+            {
+                "name": "Åke Orrvik",
+                "role": "verkstadschef"
+            }
+        ],
+        "director": "Berthold Orrvik",
+        "managing_director": "Berthold Orrvik"
+    },
+    "4": {
+        "name": "*Nordiska Värme- & Ventilations AB.",
+        "location": "Göteborg",
+        "business": "Bolaget äger mek. verkstad, plåtslageri och svetsningsverkstad samt driver entreprenadverksamhet i värme- och sanitetstekniska branschen",
+        "contact": {
+            "office": "3:dje Långg. 13",
+            "telegraph": "Värmebolaget, Göteborg",
+            "phone": "171045",
+            "postgiro": "42160"
+        },
+        "financials": {
+            "capital": "900.000 kr"
+        },
+        "foundation_year": 1903,
+        "board": [
+            {
+                "name": "C. Gunnar Laurenius",
+                "role": "dir."
+            },
+            {
+                "name": "B. Gunnar Laurenius",
+                "role": "ing."
+            },
+            {
+                "name": "Eric Levan",
+                "role": "civiling."
+            }
+        ],
+        "director": "O. G. Laurenius",
+        "managing_director": "O. G. Laurenius",
+        "sales_manager": "Erik Gabrielsson"
+    },
+    "5": {
+        "name": "*AB. Nordiska Yllefabriken",
+        "location": "Norrköping",
+        "business": "Ullspinneri, väveri, färgeri och appreturverk. Tillverkar klädes- och kamgarns-tyger samt cheviot. Varumärken: »Kungs-cheviot» o. »NYF»",
+        "contact": {
+            "telegraph": "Nordylle, Norrköping",
+            "phone": [
+                "23149",
+                "22163"
+            ],
+            "postgiro": "11106"
+        },
+        "financials": {
+            "capital": "100.000 kr"
+        },
+        "foundation_year": 1938,
+        "director": "Christian Schnock",
+        "managing_director": "Christian Schnock"
+    },
+    "6": {
+        "name": "d. F. Nordlöf",
+        "location": "Lerum",
+        "business": "Skofabrik i Lerum (Älvsb. l.). Tillverkar herr- och damskodon. Specialitet: handarbetade skor",
+        "contact": {
+            "telegraph": "Nordlöf s, Lerum",
+            "phone": [
+                "333",
+                "350",
+                "992"
+            ],
+            "postgiro": "40826"
+        },
+        "financials": {
+            "capital": "Undisclosed"
+        },
+        "foundation_year": 1875,
+        "director": "Sam. Bjerkander"
+    },
+    "7": {
+        "name": "*Nordmalings Angsågs AB.",
+        "location": "Nordmaling",
+        "business": "Ångsåg och wallboardfabrik vid Rundvik, manufaktur- och kättingsmedja vid Olovsfors samt elektr. vattenkraftstation vid Leduåfors (samtl. i Västerb. l.). Tillverkar sågade trävaror, wallboard (masonite) för isolerings-, byggnads- och inredningsändamål, kätting och flottningsmiden, redskap för timmeravverkning samt distribuerar elektr. energi. Bolaget idkar jämväl jordbruk, skogshantering och kvarnrörelse",
+        "contact": {
+            "office": "Olovsfors Bruk",
+            "telegraph": "Ångsågsbolaget, Nordmaling",
+            "phone": "26",
+            "postgiro": "62486"
+        },
+        "financials": {
+            "capital": "Undisclosed"
+        },
+        "foundation_year": "Undisclosed",
+        "director": "Undisclosed"
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "1": {
+        "name": "Olsson—Origoverken",
+        "location": "Hälsingborg",
+        "contact": {
+            "office": "Olssons, Hälsingborg",
+            "phone": [
+                "20750"
+            ],
+            "postgiro": "29013"
+        },
+        "financials": {
+            "capital": "4,256,000 kr",
+            "employees": {
+                "Sennan": 35,
+                "Rögle": 25
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "6 milj. st"
+        },
+        "foundation_year": 1853,
+        "corporation_year": 1911,
+        "board": [
+            {
+                "name": "Hjalmar Olsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Ulf Olsson",
+                "role": "ryttm."
+            },
+            {
+                "name": "C. G. Schultz",
+                "role": "disp."
+            },
+            {
+                "name": "Edvin Åberg",
+                "role": "dir."
+            },
+            {
+                "name": "David Östrand",
+                "role": "generaldir."
+            }
+        ],
+        "owners": [
+            "fabr. Erik Olsson",
+            "fröken Hildur Olsson"
+        ],
+        "director": "N/A",
+        "managing_director": "Edvin Åberg",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    },
+    "2": {
+        "name": "Olssons Sängfabrik, Storvik",
+        "location": "Storvik",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "10",
+                "470"
+            ],
+            "postgiro": "6919"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": 45,
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1905,
+        "board": [],
+        "owners": [
+            "fabr. Erik Olsson",
+            "fröken Hildur Olsson"
+        ],
+        "director": "Erik Olsson",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "Alfred Jonsson"
+    },
+    "3": {
+        "name": "S. & H. Olssons Snickeribolag, Malmö",
+        "location": "Malmö",
+        "contact": {
+            "office": "Kamrerg. 17",
+            "phone": [
+                "21395"
+            ],
+            "postgiro": "147888"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": 8,
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1894,
+        "board": [],
+        "owners": [
+            "P. Olssons sterbhus"
+        ],
+        "director": "N/A",
+        "managing_director": "fabr. Sam. Olsson",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    },
+    "4": {
+        "name": "Oppboga AB., Fellingsbro",
+        "location": "Fellingsbro",
+        "contact": {
+            "office": "Oppboga, Fellingsbro",
+            "phone": [
+                "Fellingsbro 1",
+                "100",
+                "101"
+            ],
+            "postgiro": "163943"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": 100,
+            "annual_turnover": "N/A",
+            "annual_production_value": "8,000 ton papp och kartong"
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "Rich. Julin",
+                "role": "bankdir. (ordf.)"
+            },
+            {
+                "name": "Hans Hulthén",
+                "role": "disp."
+            },
+            {
+                "name": "Carol Wallenberg",
+                "role": "kapten"
+            },
+            {
+                "name": "Jakob Winström",
+                "role": "disp."
+            }
+        ],
+        "owners": [],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "Sven Axelson"
+    },
+    "5": {
+        "name": "AB. Optimiis, Upplands Väsby",
+        "location": "Upplands Väsby",
+        "contact": {
+            "office": "Optimus, Stockholm",
+            "phone": [
+                "Optimus",
+                "Upplands Väsby"
+            ],
+            "postgiro": "5041"
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": 300,
+            "annual_turnover": "N/A",
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "Th. Raaschou",
+                "role": "bankdir. (ordf.)"
+            },
+            {
+                "name": "O. R. Bildt",
+                "role": "dir."
+            },
+            {
+                "name": "Axel Elfström",
+                "role": "dir."
+            },
+            {
+                "name": "Wiking Johnsson",
+                "role": "bruksdisp."
+            },
+            {
+                "name": "Carl S:son Schmidt",
+                "role": "civiling."
+            }
+        ],
+        "owners": [],
+        "director": "N/A",
+        "managing_director": "Axel Elfström",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    },
+    "6": {
+        "name": "AB. Original-Odhner, Göteborg",
+        "location": "Göteborg",
+        "contact": {
+            "office": "Original-Odhner, Göteborg",
+            "phone": [
+                "192510"
+            ],
+            "postgiro": "25501"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": 600,
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Axel Adler",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "R. Dencker",
+                "role": "dir."
+            },
+            {
+                "name": "Albert Engvall",
+                "role": "övering."
+            },
+            {
+                "name": "Elof Ericsson",
+                "role": "disp."
+            },
+            {
+                "name": "Gustaf Larson",
+                "role": "dir."
+            }
+        ],
+        "owners": [],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    },
+    "7": {
+        "name": "Origoverken, Bröderna Johanson, Halmstad",
+        "location": "Halmstad",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": "N/A",
+        "board": [],
+        "owners": [],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "1": {
+        "name": "Eelde-Ehrriberg",
+        "financials": {
+            "capital": "2,400,000 kr",
+            "employees": {
+                "industriarb": 180
+            },
+            "annual_turnover": "20,000 ton torr sulfitcellulosa, pappersmassa o. konstsilkes-massa"
+        },
+        "foundation_year": 1903,
+        "board": [
+            {
+                "name": "B. Oulie",
+                "role": "ordf."
+            },
+            {
+                "name": "Gust. Larsson",
+                "role": "kamrer"
+            },
+            {
+                "name": "A. Meidell",
+                "role": "generaldir."
+            }
+        ],
+        "director": "B. Oulie",
+        "contact": {
+            "office": "Dalag. 4",
+            "phone": [
+                "210294"
+            ],
+            "postgiro": "55467"
+        }
+    },
+    "2": {
+        "name": "AB. C. Fritz Eelde & Co.",
+        "location": "Stockholm",
+        "business": "Limfabrik",
+        "products": "Tillverkar ljumlim och kall-lim",
+        "financials": {
+            "capital": "35,000 kr",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1936,
+        "owner": "O. Fritz Eelde",
+        "contact": {
+            "office": "Pontonjärg. 36",
+            "phone": "516974 o. 516045",
+            "postgiro": "55467"
+        }
+    },
+    "3": {
+        "name": "Ege Färg- & Fernissindustri",
+        "location": "Göteborg",
+        "business": "Tillverkar olje- och spritfernissor, kombinationslacker",
+        "products": "oljefärger, pansar-, maskin- och redskapsfärger, emulsionsfärger (»Torcomatt»), maskeringsfärger, mörkläggningsfärger, spackelfärger, kitt m. m.",
+        "contact": {
+            "office": "Tuvevägen",
+            "phone": "Egefärg, Göteborg",
+            "postgiro": "44816"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "owner": "Sven A. Höglund"
+    },
+    "4": {
+        "name": "Egelin & Nilsson",
+        "location": "Stockholm",
+        "business": "Modell- och snickerifabrik",
+        "products": "Tillverkar gjutmodeller av trä, byggnadssnickerier m. m.",
+        "contact": {
+            "office": "Brännkyrkag. 124",
+            "phone": "407458—59",
+            "postgiro": "52302"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_production_value": "360,000 kr"
+        },
+        "owner": "Einar Egelin"
+    },
+    "5": {
+        "name": "AB. Egna Hem Vetlandahus",
+        "location": "Vetlanda",
+        "business": "Tillverkar monteringsfärdiga trähus",
+        "contact": {
+            "phone": "Vetlandahus"
+        },
+        "financials": {
+            "capital": "50,400 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_production_value": "7,000,000 kr"
+        },
+        "foundation_year": 1930,
+        "current_name_year": 1935,
+        "board": [
+            {
+                "name": "Bertil Andersson",
+                "role": "ordf."
+            },
+            {
+                "name": "Joel Hallert",
+                "role": "godsäg."
+            },
+            {
+                "name": "O. L. Skärlén",
+                "role": "kamrer"
+            }
+        ],
+        "director": "Bertil Andersson"
+    },
+    "6": {
+        "name": "Egnell & Co., Väveri AB",
+        "location": "Norrköping",
+        "business": "Se Väveri AB. Egnell & Co."
+    },
+    "7": {
+        "name": "Egnetls Bryggeri, Eksjö",
+        "location": "Se AB. Smålands Bryggerier, Jönköping"
+    },
+    "8": {
+        "name": "AB. Egneilska Boktryckeriet",
+        "location": "Stockholm",
+        "business": "Bok- och ståltryckeri samt bokbinderi",
+        "products": "Utför boktryck, bank- och försäkringstryck, affärstryck, ståltryck, illustr. kataloger, tidskrifter, självkopierings- och kortsystem m. m.",
+        "contact": {
+            "office": "Artillerig. 8",
+            "phone": "601383—84",
+            "postgiro": "151400"
+        },
+        "financials": {
+            "capital": "85,000 kr",
+            "employees": {
+                "arb.-antal": 10
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1920,
+        "board": [
+            {
+                "name": "Göran Boije af Gennäs",
+                "role": "ordf."
+            },
+            {
+                "name": "Lalla Boije af Gennäs",
+                "role": "fru"
+            },
+            {
+                "name": "Christer Boije af Gennäs",
+                "role": "ryttm."
+            }
+        ],
+        "director": "Göran Boije af Gennäs"
+    },
+    "9": {
+        "name": "AB. Alfr. Ehrlin",
+        "location": "Tranås",
+        "business": "Tillverkar möbler vid snickerifabrik i Tranås (Jönköp. l.)",
+        "contact": {
+            "phone": "2146",
+            "postgiro": "143563"
+        },
+        "financials": {
+            "capital": "31,500 kr",
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1923,
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "Tage Ehrlin",
+                "role": "fabr."
+            },
+            {
+                "name": "Knut Ehrlin",
+                "role": "fabr."
+            },
+            {
+                "name": "Olof Ehrlin",
+                "role": "fabr."
+            }
+        ],
+        "director": "Tage Ehrlin"
+    },
+    "10": {
+        "name": "AB. Ehrnberg & Sons Läderfabrik",
+        "location": "Simrishamn",
+        "business": "Tillverkar botten-, platt-, rem- och randläder",
+        "products": "vegetabiliskt och kromgarvat ovanläder, reseffekt-, sandal-, bokbinderi-, möbel- och automobilläder, beklädnadsläder, handskläder och andra färgade läderslag samt pegamoid"
+    }
+}

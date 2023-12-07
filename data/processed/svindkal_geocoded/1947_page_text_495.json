@@ -1,0 +1,174 @@
+{
+    "1": {
+        "name": "AB. Th. Malmbergs Tricotstickeri",
+        "location": "Borås",
+        "business": "Tillverkar herrtrikåvaror. Specialitet: sportartiklar av trikå.",
+        "contact": {
+            "phone": [
+                "17595"
+            ],
+            "postgiro": "34244",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "200227"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1904,
+        "corporation_year": 1937,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "2": {
+        "name": "AB. Malmbäcks Träindustri",
+        "location": "Malmbäck",
+        "coordinates": {
+            "Latitude": 57.5781694,
+            "Longitude": 14.4641901
+        }
+    },
+    "3": {
+        "name": "Malmens Metallverkstad",
+        "location": "Hovmantorp",
+        "contact": {
+            "phone": "89",
+            "postgiro": "165792"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1937,
+        "coordinates": {
+            "Latitude": 56.78451219999999,
+            "Longitude": 15.1448475
+        }
+    },
+    "4": {
+        "name": "Malmgrens Skofabriks AB.",
+        "location": "Ramlösa",
+        "contact": {
+            "phone": [
+                "96252",
+                "96253"
+            ],
+            "postgiro": "26040"
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "industriarb": 135
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1895,
+        "coordinates": {
+            "Latitude": 56.0216112,
+            "Longitude": 12.7429168
+        }
+    },
+    "5": {
+        "name": "Albert Malmgren & Co.",
+        "location": "Göteborg",
+        "business": "Färg- och fernissfabrik. Tillverkar torra kemiska färger, jordfärger, oljerivna färger samt fernissor.",
+        "contact": {
+            "phone": "170825",
+            "postgiro": "12073"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1890,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "Malmköpings Träförädling AB.",
+        "location": "Malmköping",
+        "business": "Sågverk och snickerifabrik. Tillverkar byggnadssnickerier, inredningar, möbler, sågade och hyvlade trävaror.",
+        "contact": {
+            "phone": [
+                "69",
+                "332"
+            ],
+            "postgiro": "23748"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1904,
+        "corporation_year": 1941,
+        "coordinates": {
+            "Latitude": 59.132406,
+            "Longitude": 16.729194
+        }
+    },
+    "7": {
+        "name": "Malmletning, AB. Elektrisk",
+        "location": "Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "8": {
+        "name": "J. Malmqvist & Son AB.",
+        "location": "Växjö",
+        "business": "Smides- och mek. verkstad samt snickerifabrik.",
+        "contact": {
+            "phone": [
+                "2265",
+                "2984"
+            ],
+            "postgiro": "84800"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_production_value": "1,250,000 kr"
+        },
+        "foundation_year": 1881,
+        "corporation_year": 1941,
+        "coordinates": {
+            "Latitude": 56.8790044,
+            "Longitude": 14.8058522
+        }
+    },
+    "9": {
+        "name": "d. C. Malmsjö AB.",
+        "location": "Göteborg",
+        "business": "Pianofabrik. Tillverkar flyglar och pianon.",
+        "contact": {
+            "office": "Sprängkullsg. 19 B",
+            "phone": "116709"
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

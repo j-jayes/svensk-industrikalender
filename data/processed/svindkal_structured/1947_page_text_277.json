@@ -1,0 +1,86 @@
+{
+    "1": {
+        "name": "Esselte AB",
+        "location": "Stockholm",
+        "business": "Tryckeri, reproduktionsanstalt för klichéer och litografi m. m., notstickeri, bokbinderi, kontorsbokfabrik, ask- och kartongfabrik, kartografisk anstalt, fabrik för kortsystem och paragonartiklar samt stämpelfabrik. Utför boktryck, djuptryck, ljustryck, litografi- och offsettryck, koppartryck, paragontryck, klichéer, färgfotografering och bokbinderiarbeten samt tillverkar album, kontorsböcker, askar, kartonger, kortregister, kortpärmar, kortaskar, kautschukstämplar m. m., s. k. columbus-kartonger och wellpapp. Avd. för bokföringssystem såsom Acme, Taylorix, Paragon och Viscard samt avd. för reklamartiklar och för blankettjänst. Bolaget driver jämväl förlagsverksamhet.",
+        "products": "Boktryck, djuptryck, ljustryck, litografi- och offsettryck, koppartryck, paragontryck, klichéer, färgfotografering och bokbinderiarbeten, album, kontorsböcker, askar, kartonger, kortregister, kortpärmar, kortaskar, kautschukstämplar, columbus-kartonger, wellpapp, bokföringssystem (Acme, Taylorix, Paragon, Viscard), reklamartiklar, blankettjänst, förlagsverksamhet",
+        "contact": {
+            "office": "Vasag. 16",
+            "phone": [
+                "Esselte"
+            ],
+            "postgiro": "1221"
+        },
+        "financials": {
+            "capital": "Not available",
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "Knut Östberg",
+                "role": "Ordförande"
+            },
+            {
+                "name": "Gustaf Dahlbäck",
+                "role": "Disponent"
+            },
+            {
+                "name": "Oskar Dahlström",
+                "role": "Disponent"
+            },
+            {
+                "name": "Gösta Smith",
+                "role": "Disponent"
+            },
+            {
+                "name": "Åke G. Wickman",
+                "role": "Ryttmästare"
+            },
+            {
+                "name": "C. G. Åhlund",
+                "role": "Major"
+            }
+        ],
+        "director": "Knut Östberg",
+        "managing_director": "Knut Östberg",
+        "original_name": "Not available"
+    },
+    "2": {
+        "name": "Essge-Konfektion",
+        "location": "Göteborg",
+        "business": "Tillverkar herrkostymer och herröverplagg samt damdräkter.",
+        "contact": {
+            "office": "Järntorgsg. 12—14",
+            "phone": [
+                "111312"
+            ],
+            "postgiro": "43164"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1936
+    },
+    "3": {
+        "name": "Essinge Bruks- och Fabriks AB",
+        "location": "Stockholm",
+        "business": "Papp- och pappersbruk å Stora Essingen, Stockholm. Tillverkar byggnadspapp, lumppapp, råpapp för impregnering, asbest- och annan isoleringspapp samt omslagspapper.",
+        "contact": {
+            "office": "Norrlandsg. 2",
+            "phone": [
+                "208243"
+            ],
+            "postgiro": "50078"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "annual_turnover": "Not available",
+            "annual_production_value": "800 ton papp o. papper"
+        },
+        "foundation_year": 1937
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "1": {
+        "name": "Apotekarnas Kemiska Laboratorium AB",
+        "location": "Stockholm",
+        "business": "Kem.-tekn. fabrik",
+        "products": "Tillverkar fria läkemedel, förbandsartiklar, kosmetiska preparat, pastiller m.m.",
+        "contact": {
+            "office": "Norrtullsg. 41-43",
+            "phone": [
+                "232380"
+            ],
+            "postgiro": "1670",
+            "telegraph": "Apotekskemi, Stockholm"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "750,000 kr"
+        },
+        "foundation_year": 1926,
+        "current_name_year": 1928,
+        "board": [
+            {
+                "name": "E. Öhman",
+                "role": "dir."
+            },
+            {
+                "name": "I. G:son Blomqvist",
+                "role": "apot."
+            },
+            {
+                "name": "Bertil H. Larsson",
+                "role": "dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "Apotekarnes Mineralvattens AB",
+        "location": "Stockholm",
+        "business": "Tillverkar mineralvatten, läskedrycker och medicinska vatten",
+        "products": "Varumärke: »AMA»",
+        "contact": {
+            "office": "Norra Stationsg. 69",
+            "phone": [
+                "Apotekarnes vatten"
+            ],
+            "postgiro": "1949",
+            "telegraph": "Mineralvatten, Stockholm"
+        },
+        "financials": {
+            "capital": "5,000,000 kr",
+            "employees": {
+                "industriarb": 285
+            },
+            "annual_turnover": "9,000,000 kr"
+        },
+        "foundation_year": 1874,
+        "board": [
+            {
+                "name": "Sven Schwartz",
+                "role": "dir."
+            },
+            {
+                "name": "Harald Engström",
+                "role": "dir."
+            },
+            {
+                "name": "Ivan Nordgren",
+                "role": "dir."
+            }
+        ]
+    },
+    "3": {
+        "name": "Apoteksvarucentralen Vitrum, Apotekare AB",
+        "location": "Stockholm",
+        "business": "Läkemedelsfabrik och förbandsfabrik",
+        "contact": {
+            "office": "Torsg. 4",
+            "phone": [
+                "Apoteksvarucentralen"
+            ],
+            "postgiro": "1151",
+            "telegraph": "Vitrum, Stockholm"
+        },
+        "financials": {
+            "capital": "2,268,000 kr",
+            "employees": {
+                "industriarb": 105
+            }
+        },
+        "foundation_year": 1877,
+        "current_name_year": 1930,
+        "board": [
+            {
+                "name": "Harald Ringberg",
+                "role": "apot."
+            },
+            {
+                "name": "Erik Berlin",
+                "role": "apot."
+            },
+            {
+                "name": "Bertil Bjurling",
+                "role": "dir."
+            },
+            {
+                "name": "Gösta Bjurling",
+                "role": "apot."
+            },
+            {
+                "name": "Gottfrid Winberg",
+                "role": "apot."
+            }
+        ]
+    },
+    "4": {
+        "name": "Appelbergs Boktryckeri AB",
+        "location": "Uppsala",
+        "business": "Utför boktryck, akademiska avhandlingar och tidskrifter m.m.",
+        "contact": {
+            "phone": [
+                "31016",
+                "33300"
+            ],
+            "postgiro": "26060"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1903,
+        "corporation_year": 1916
+    },
+    "5": {
+        "name": "Appelgrens Borstfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar kvastar, levanger, hårborstar m.m.",
+        "products": "Specialitet: maskinborstar och borstrullar",
+        "contact": {
+            "office": "S:t Paulsg. 33 B",
+            "phone": [
+                "434720"
+            ]
+        },
+        "employees": {
+            "industriarb": 5
+        },
+        "foundation_year": 1888
+    },
+    "6": {
+        "name": "AB. Appells Smides- & Mek. Verkstad",
+        "location": "Falun",
+        "business": "Tillverkar smidesarbeten, grovplåtsar-beten samt järnkonstruktioner",
+        "contact": {
+            "phone": [
+                "1691"
+            ],
+            "postgiro": "171407"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1906,
+        "corporation_year": 1941
+    },
+    "7": {
+        "name": "Appeltofftska Bryggeri AB",
+        "location": "Halmstad",
+        "business": "Tillverkar malt samt malt- och läskedrycker",
+        "contact": {
+            "phone": [
+                "317",
+                "3317"
+            ],
+            "postgiro": "98290"
+        },
+        "financials": {
+            "capital": "765,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1861,
+        "board": [
+            {
+                "name": "K. Hillgård",
+                "role": "jur. dr"
+            },
+            {
+                "name": "A. Krönlein",
+                "role": "dir."
+            },
+            {
+                "name": "E. Thestrup",
+                "role": "grossh."
+            }
+        ]
+    },
+    "8": {
+        "name": "Arabin AB",
+        "location": "Hälsingborg",
+        "business": "Kem.-tekn. fabrik",
+        "products": "Tillverkar lim och klister",
+        "contact": {
+            "telegraph": "Arabin, Hälsingborg",
+            "phone": [
+                "16454"
+            ],
+            "postgiro": "140064"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 16
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "A. Julius Junger",
+                "role": "Verkst. dir."
+            }
+        ]
+    }
+}

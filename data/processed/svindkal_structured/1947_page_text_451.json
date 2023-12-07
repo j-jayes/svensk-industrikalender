@@ -1,0 +1,135 @@
+{
+    "1": {
+        "name": "Kvarnshammars därnbruk, Begerön. Se AB. Qvarnshammars Jernbruk",
+        "location": "Degerön",
+        "business": "Sliperi och förnicklingsfabrik. Utför förnicklingar och förkromningar m. m.",
+        "contact": {
+            "office": "Huvudstav. 49",
+            "phone": [
+                "520140"
+            ],
+            "telegraph": "Kafab, Stockholm",
+            "postgiro": "3294"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1901,
+        "corporation_year": 1927,
+        "director": "dir. Helle Qvarnström",
+        "factory_office": "Säljkontor: Kungsg. 75"
+    },
+    "2": {
+        "name": "Kvarnströms £abrNc$ Ä1l<, Stockholm",
+        "business": "Utför förnicklingar och förkromningar m. m."
+    },
+    "3": {
+        "name": "Kvarnsvedens Pappersbruk, Kvarnsveden",
+        "location": "Borlänge",
+        "business": "Tillverkar tidnings- och tidskriftspapper, byggnadspapp (märke: »Dalpilen») och sulfitsprit; sulfitcellulosa och mek. trämassa för eget behov.",
+        "contact": {
+            "phone": [
+                "Borlänge 32200"
+            ],
+            "sales_offices": [
+                {
+                    "location": "Falun",
+                    "phone": "»Bergslaget», Falun"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 800
+            },
+            "annual_production_value": "110,000 ton papper"
+        }
+    },
+    "4": {
+        "name": "Kvarnäs Tegelbruks AB. i Viby, Kristianstad",
+        "location": "Skånes Viby (Kristianst. l.)",
+        "business": "Tillverkar mur- och taktegel samt dräneringsrör. Firman driver även jordbruk.",
+        "contact": {
+            "office": "Kristianstad",
+            "phone": [
+                "13919"
+            ],
+            "postgiro": "91124"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "2,700,000 st. tegel varor"
+        }
+    },
+    "5": {
+        "name": "AB. Kvillsfors Möbler, Kvillsfors",
+        "location": "Kvillsfors (Jönköp. l.)",
+        "business": "Tillverkar möbler vid fabrik i Kvillsfors (Jönköp. l.).",
+        "phone": [
+            "5"
+        ],
+        "postgiro": "23466",
+        "financials": {
+            "capital": "36,500 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "200,000 kr"
+        }
+    },
+    "6": {
+        "name": "Kvänums Fläktfabrik, Gustavsson & Karlsson, Kvänum",
+        "location": "Kvänum (Skarab. L)",
+        "business": "Tillverkar hö-, halm- och spannmålsfläktar, samt sammälds- och gröpkvarnar, samt betongblandare.",
+        "contact": {
+            "phone": [
+                "111"
+            ],
+            "postgiro": "174954"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": "300,000 kr"
+        }
+    },
+    "7": {
+        "name": "Kurzels Fabriker AB., Malmö",
+        "business": "Tillverkar väv-, trikå- och hemslöjdsgarner, dräkt-, kapp- och klänningstyger, mattor, skur-, damm- och diskdukar.",
+        "contact": {
+            "postgiro": "37825"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 600
+            }
+        }
+    },
+    "8": {
+        "name": "Kyl-Automatik Fabriks AB., Mjölby",
+        "location": "Mjölby (Östergötl. 1.)",
+        "business": "Tillverkar detaljer för kylanläggningar och kylskåp såsom varmpressade mässingsdetaljer, filter, torkare, avstängnings- och backventiler, automatiska och termostatiska expansionsventiler, konstanttryckventiler, automatiska vattenventiler, termostater m. m.",
+        "contact": {
+            "phone": [
+                "332"
+            ],
+            "postgiro": "267332"
+        },
+        "financials": {
+            "capital": "48,000 kr",
+            "employees": {
+                "industriarb": 313
+            }
+        }
+    }
+}

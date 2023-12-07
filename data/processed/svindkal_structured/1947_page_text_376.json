@@ -1,0 +1,162 @@
+{
+    "1": {
+        "name": "Håksbergs Nya Cruf AB.",
+        "location": "Håksberg",
+        "business": "Bryter och anrikar järnmalm",
+        "contact": {
+            "office": "Håksberg",
+            "telegraph": "Haks-berggruva, Ludvika",
+            "phone": [
+                "Ludvika 818"
+            ],
+            "postgiro": "146394"
+        },
+        "financials": {
+            "capital": "3.000.000 kr",
+            "employees": {
+                "industriarb": 200
+            }
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "Hermann Hennemann",
+                "role": "ordf."
+            },
+            {
+                "name": "John A. Hedlund",
+                "role": "disp."
+            },
+            {
+                "name": "Nils Högberg",
+                "role": "adv."
+            }
+        ],
+        "director": "H. Hennemann",
+        "managing_director": "H. Hennemann",
+        "sales_manager": "J. A. Hedlund"
+    },
+    "2": {
+        "name": "Hållstedts AB.",
+        "location": "Grönskåra",
+        "business": "Tillverkar träleksaker och svarvade massartiklar",
+        "contact": {
+            "office": "Grönskåra",
+            "phone": [
+                "23"
+            ],
+            "postgiro": "76890"
+        },
+        "financials": {
+            "capital": "60.000 kr",
+            "annual_production_value": "200.000 kr"
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "A. Håll-stedt",
+                "role": "disp."
+            }
+        ]
+    },
+    "3": {
+        "name": "Hålltorps AB.",
+        "location": "Vinninga",
+        "business": "Tegelbruk, kvarn och stärkelsefabrik",
+        "contact": {
+            "office": "Hålltorp, Vinninga",
+            "phone": [
+                "Lidköping 182"
+            ],
+            "postgiro": "34612"
+        },
+        "financials": {
+            "capital": "100.000 kr"
+        },
+        "foundation_year": 1909,
+        "director": "J. E. Synnergren"
+    },
+    "4": {
+        "name": "Hånsfors Bruks AB.",
+        "location": "Töcksfors",
+        "business": "Sågverk med hvvleri och elektr. kraftstationer",
+        "contact": {
+            "office": "Töcksfors",
+            "phone": [
+                "1",
+                "69",
+                "76"
+            ],
+            "postgiro": "136115"
+        },
+        "financials": {
+            "capital": "315.000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_production_value": "1.000 stds sågade och hyvlade trävaror, 3.000 ton papper och pappersmanufaktur"
+        },
+        "foundation_year": 1919,
+        "current_name_year": 1937,
+        "board": [
+            {
+                "name": "Axel ^ Gustafsson",
+                "role": "bankdir."
+            },
+            {
+                "name": "Gomer Brunius",
+                "role": "dir."
+            },
+            {
+                "name": "Sverker Brunius",
+                "role": "ing."
+            },
+            {
+                "name": "Eric Lindelöf",
+                "role": "dir."
+            }
+        ],
+        "manager": "Sverker Brunius"
+    },
+    "5": {
+        "name": "Hädinge Torfströ AB.",
+        "location": "Örebro",
+        "business": "Tillverkar torvströ, torvmull och torv-fiber",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "21010"
+            ],
+            "postgiro": "99746",
+            "factory_office": "Hädinge",
+            "factory_phone": "Värnamo 16"
+        },
+        "financials": {
+            "capital": "180.000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": "110.000 st. balar torvströ och torvmull"
+        },
+        "foundation_year": 1906,
+        "director": "disp. Johan Elion"
+    },
+    "6": {
+        "name": "Häfla Bruks AB.",
+        "location": "Hävla",
+        "business": "Järnbruk med valsverk, hästskofabriker med hästskobeslagsmédja",
+        "contact": {
+            "office": "Hävla",
+            "telegraph": "Häfla, Katrineholm",
+            "phone": [
+                "Häfla 30",
+                "Häfla 31",
+                "Häfla 37"
+            ],
+            "postgiro": "93350"
+        },
+        "financials": {
+            "capital": "Not available"
+        }
+    }
+}

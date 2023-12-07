@@ -1,0 +1,273 @@
+{
+    "1": {
+        "name": "Nordiska Maskinfilt AB",
+        "location": "Halmstad",
+        "business": "Maskinfiltfabrik med ullspinneri, ylle-väveri, appreturverk och färgeri.",
+        "products": "Tillverkar vävd och stampad maskinfilt för pappers- och cellulosaindustrin och andra tekniska ändamål samt filt för sko- och beklädndasindustrin.",
+        "contact": {
+            "office": "Nordiska Maskinfilt AB, Halmstad",
+            "phone": [
+                "Nordiska Maskinfilt, Halmstad"
+            ],
+            "postgiro": "20577"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 375
+            },
+            "annual_turnover": "6,000,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1904,
+        "board": [
+            {
+                "name": "Carl Jönsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Gottfrid Westerberg",
+                "role": "konsul"
+            },
+            {
+                "name": "Gunnar O. Westerberg",
+                "role": "löjtn"
+            }
+        ],
+        "manager": "Gottfrid Westerberg",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        }
+    },
+    "2": {
+        "name": "AB. Nordiska Metallduksväveriet",
+        "location": "Uppsala",
+        "products": "Tillverkar viror och dukar för pappers-, cellulosa- och trämasseindustrierna.",
+        "contact": {
+            "office": "Viror, Uppsala",
+            "phone": [
+                "30803",
+                "30895"
+            ],
+            "postgiro": "25150",
+            "sales_offices": {
+                "location": "Stockholm, Hovslagarg. 3",
+                "phone": "105919"
+            }
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1924,
+        "board": [
+            {
+                "name": "H. Isselhorst",
+                "role": "ordf."
+            },
+            {
+                "name": "Harald Håkansson",
+                "role": "v. auditör"
+            },
+            {
+                "name": "Carl Kehrer",
+                "role": "disp."
+            }
+        ],
+        "manager": "C. Kehrer",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        }
+    },
+    "3": {
+        "name": "AB. Nordiska Måttstockfabriken",
+        "location": "Fristad",
+        "original_name": "Nya AB. Nordiska Måttstockfabriken",
+        "foundation_year": 1918,
+        "manager": "H. Rask-Andersen",
+        "coordinates": {
+            "Latitude": 57.824945,
+            "Longitude": 13.007778
+        }
+    },
+    "4": {
+        "name": "AB. Nordiska Möbelfabrikerna",
+        "location": "Ödeshög",
+        "products": "Tillverkar kontors- och bostadsmöbler.",
+        "contact": {
+            "office": "Nordiska, Ödeshög",
+            "phone": [
+                "Ödeshög"
+            ],
+            "postgiro": "70209"
+        },
+        "financials": {
+            "capital": "79,100 kr",
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1918,
+        "manager": "H. Rask-Andersen",
+        "coordinates": {
+            "Latitude": 58.2289961,
+            "Longitude": 14.6488199
+        }
+    },
+    "5": {
+        "name": "Nordiska Pianofabriken",
+        "location": "Vetlanda",
+        "products": "Tillverkar pianon. Specialitet: Lill-pianon.",
+        "contact": {
+            "phone": [
+                "342"
+            ],
+            "postgiro": "74903"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "foundation_year": 1922,
+        "current_name_year": 1926,
+        "owner": "fabr. Emanuel Lager",
+        "coordinates": {
+            "Latitude": 57.42746,
+            "Longitude": 15.08533
+        }
+    },
+    "6": {
+        "name": "Nordiska Neonfabriken",
+        "location": "Göteborg",
+        "contact": {
+            "office": "A. Edwin Andrén & Co., Göteborg",
+            "phone": [
+                "Göteborg"
+            ],
+            "postgiro": "Unknown"
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "7": {
+        "name": "Nordiska Plywoodfabriken",
+        "location": "Hassela",
+        "products": "Tillverkar fanér, plywood och lamellplattor vid fabrik i Hassela (Gävleb. l.).",
+        "contact": {
+            "phone": [
+                "60"
+            ],
+            "postgiro": "288044"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1945,
+        "manager": "H. Rask-Andersen",
+        "coordinates": {
+            "Latitude": 62.111113,
+            "Longitude": 16.7220909
+        }
+    },
+    "8": {
+        "name": "Nordiska Slangfabriken, AB. Spiralslang",
+        "location": "Stockholm",
+        "products": "Tillverkar böjliga metallslangar. Specialitet: dammsugareslang. Varumärke: »Nordslang».",
+        "contact": {
+            "office": "Nordstans, Örebro",
+            "phone": [
+                "452665"
+            ],
+            "postgiro": "53835"
+        },
+        "financials": {
+            "capital": "62,500 kr",
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": 1924,
+        "board": [
+            {
+                "name": "Olof Hjorth",
+                "role": "ordf."
+            },
+            {
+                "name": "Stig Hjorth",
+                "role": "dir."
+            },
+            {
+                "name": "Ivar Kull",
+                "role": "dir."
+            }
+        ],
+        "manager": "Stig Hjorth",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "9": {
+        "name": "Nordiska Stansknivfabriken & Mek. Verkstad",
+        "location": "Örebro",
+        "products": "Tillverkar stansknivar, byggnadssmiden m. m.",
+        "contact": {
+            "office": "Postfack 3020, Örebro 3",
+            "phone": [
+                "14759"
+            ],
+            "postgiro": "71097"
+        },
+        "financials": {
+            "capital": "22,500 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1929,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "10": {
+        "name": "Nordiska Syrgasverken AB.",
+        "location": "Stockholm",
+        "products": "Framställer syrgas, vätgas, kvävgas samt komprimerad luft.",
+        "contact": {
+            "office": "Stockholm, Kungsg. 13",
+            "phone": [
+                "201188",
+                "201233"
+            ],
+            "postgiro": "825",
+            "sales_offices": {
+                "Örebro": "11218—19",
+                "Göteborg": "223891 o. 223991",
+                "Motala": "85",
+                "Hedemora": "575",
+                "Trollhättan": "10008"
+            }
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

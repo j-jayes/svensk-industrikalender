@@ -1,0 +1,170 @@
+{
+    "1": {
+        "name": "Larssons Mek. Verkstad",
+        "location": "Armtorp",
+        "contact": {
+            "office": "Armtorp",
+            "telegraph": "Armtorp",
+            "factory_office": "Armtorp"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 30
+            },
+            "capital": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1918,
+        "owner_and_manager": "fabr. Sigurd Johansson"
+    },
+    "2": {
+        "name": "Larssons Motorbåtsvarv",
+        "location": "Kristinehamn"
+    },
+    "3": {
+        "name": "Larsson & Co., Möbel AB.",
+        "location": "Karlstad",
+        "business": "Möbelproduktion"
+    },
+    "4": {
+        "name": "Larsson & Söner, Armaturfabrik",
+        "location": "Alingsås",
+        "business": "Armaturproduktion"
+    },
+    "5": {
+        "name": "Larsson & Wallgren, Eriksdals Möbelfabrik",
+        "location": "Hjo",
+        "business": "Möbelproduktion"
+    },
+    "6": {
+        "name": "Larssons Paraplyfabrik",
+        "location": "Malung",
+        "contact": {
+            "phone": [
+                "128"
+            ],
+            "postgiro": "85375",
+            "factory_office": "Malung"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 7
+            },
+            "capital": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1921,
+        "owner_and_manager": "fabr. H. Lars Larsson"
+    },
+    "7": {
+        "name": "Ad. Larsson & Co., AB.",
+        "location": "Borås"
+    },
+    "8": {
+        "name": "AB. Carl Larssons Mek. Verkstad",
+        "location": "Göteborg",
+        "business": "Tillverkar motordelar samt verktyg och maskiner för motorservicearbeten; utför såsom specialitet motorrenovéringar.",
+        "contact": {
+            "office": "Motorgatan",
+            "telegraph": "Mo-torslipning",
+            "phone": [
+                "150,000 kr"
+            ],
+            "postgiro": "41223",
+            "factory_office": "Göteborg",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 140
+            },
+            "capital": "150,000 kr",
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1941,
+        "owners": [
+            "fabr. Carl Larsson",
+            "ing. Lennart Larson",
+            "kamrer Lars Larsson"
+        ],
+        "director": "Carl Larsson"
+    },
+    "9": {
+        "name": "Carl Larssons Slakteri AB.",
+        "location": "Stockholm",
+        "business": "Charkuterivaror, kött- och fläskkonserver",
+        "contact": {
+            "office": "St. Eriksg. 46",
+            "phone": [
+                "1,500,000 kr"
+            ],
+            "postgiro": "836"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 87
+            },
+            "capital": "1,500,000 kr",
+            "annual_turnover": "3,000,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1908,
+        "owners": [
+            "AB. Nordiska Kompaniet"
+        ],
+        "director": "Herbert Sachs",
+        "manager": "N/A"
+    },
+    "10": {
+        "name": "F. C. Larsson, Byggnadsfirma",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads- och affärshus, industribyggnader m. m.",
+        "contact": {
+            "office": "Styrmansg. 3",
+            "phone": [
+                "2,000,000 kr"
+            ],
+            "postgiro": "577550"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": "N/A"
+            },
+            "capital": "N/A",
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1900,
+        "owner_and_manager": "byggm. Frans G. Larsson"
+    },
+    "11": {
+        "name": "Karl L. Larsson",
+        "location": "Gullestorp",
+        "business": "Trikåfabrik",
+        "contact": {
+            "phone": [
+                "Borås 7518"
+            ],
+            "postgiro": "90607"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 20
+            },
+            "capital": "N/A",
+            "annual_turnover": "125,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1895,
+        "owner_and_manager": "Karl L. Larssons sterbhus o. fabr. Lars E. Larsson"
+    },
+    "12": {
+        "name": "L. Larsson & Söner",
+        "location": "Freluga"
+    }
+}

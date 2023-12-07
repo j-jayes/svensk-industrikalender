@@ -1,0 +1,192 @@
+{
+    "1": {
+        "name": "AB. Boklund & Son",
+        "location": "Malmö",
+        "business": "Kniv- och verktygsfabrik",
+        "products": "Tillverkar knivar och verktyg för kork-, handsk-, läder- och pälsvaruindustrierna m. fl. yrkesknivar",
+        "contact": {
+            "office": "N. Vattenverksv. 44",
+            "phone": [
+                "20616"
+            ],
+            "telegraph": "Boklunds, Malmö",
+            "postgiro": "37597"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "total": 12
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "John Boklund",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Peder Bjurvik",
+                "role": "Disp."
+            }
+        ],
+        "director": "John Boklund",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "2": {
+        "name": "F. A. Boklund AB.",
+        "location": "Stockholm",
+        "business": "Snickerifabrik",
+        "products": "Utför inredningar för boktryckerier och tidningssätterier",
+        "contact": {
+            "office": "Roslagstull",
+            "phone": [
+                "337799"
+            ],
+            "telegraph": "Boktryckträ, Stockholm",
+            "postgiro": "52772"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "total": 9
+            },
+            "annual_turnover": "90,000 kr"
+        },
+        "foundation_year": 1868,
+        "board": [
+            {
+                "name": "Thor Boklund",
+                "role": "Verkst. dir."
+            }
+        ],
+        "director": "Thor Boklund",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "Boklövsfabriken i Magiehem AB.",
+        "location": "Kristianstad",
+        "business": "Preparerar boklöv och ormbunk för dekorationsändamål vid fabrik i Magiehem",
+        "contact": {
+            "phone": [
+                "13867"
+            ],
+            "postgiro": "30259"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "total": 8
+            },
+            "annual_turnover": "125,000 kr"
+        },
+        "foundation_year": 1887,
+        "board": [
+            {
+                "name": "fabr. Carl W. Boklund",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "director": "fabr. Carl W. Boklund",
+        "coordinates": {
+            "Latitude": 56.0293936,
+            "Longitude": 14.1566778
+        }
+    },
+    "4": {
+        "name": "AB. Boksta Tegelbruk",
+        "location": "Vittinge",
+        "business": "Tillverkar taktegel och dräneringsrör",
+        "contact": {
+            "phone": "50",
+            "postgiro": "75964"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "total": 16
+            },
+            "annual_turnover": "1,100,000 kr"
+        },
+        "foundation_year": 1911,
+        "corporation_year": 1942,
+        "board": [
+            {
+                "name": "J. Magnus Pettersson",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.9060095,
+            "Longitude": 17.0491496
+        }
+    },
+    "5": {
+        "name": "Bolidens Cruv AB.",
+        "location": "Skelleftehamn",
+        "business": "Gruvdrift och smältverk",
+        "products": "Gruvdrift vid Boliden och Kristineberg (båda i Västerb. l.) och vid Laisvall (Norrb. l.) m. fl. platser samt smältverk å Rönnskär, Skelleftehamn (Västerb. l.)",
+        "contact": {
+            "office": "Skelleftehamn",
+            "smältverk": "Rönnskär, Skelleftehamn (Västerb. l.)",
+            "phone": "31500",
+            "telegraph": "Smelter, Skellefteå"
+        },
+        "financials": {
+            "capital": "42,000,000 kr",
+            "employees": {
+                "total": 2,
+                "industriarb": 2,
+                "Centrallaboratorium": "Stockholm",
+                "Bryggarg": 17,
+                "telephone": 232630
+            }
+        },
+        "foundation_year": 1925,
+        "current_name_year": 1931,
+        "predecessor": "Västerbottens Gruv AB.",
+        "director": "Erik J. Bengtson",
+        "coordinates": {
+            "Latitude": 64.6861026,
+            "Longitude": 21.2361263
+        }
+    },
+    "6": {
+        "name": "AB. Bolinder—Munktell",
+        "location": "Eskilstuna",
+        "business": "Mek. verkstäder, tillverkar marina och stationära råolje- och dieselmotorer, traktorer, väghyvlar och motorvältar, tröskverk och skördetröskor, träbe-arbetningsmaskiner samt verktygsmaskiner",
+        "products": "Tillverkar i Eskilstuna: marina och stationära råolje- och dieselmotorer, flygmotorer, traktorer, väghyvlar och motorvältar, tröskverk och skördetröskor, träbe-arbetningsmaskiner för sågverk, hyvlerier och lådfabriker samt verktygsmaskiner såsom svarvar, pressar, hejare m. m.",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": "Bolinder-Munktell",
+            "postgiro": "10704",
+            "reservlager": {
+                "Stockholm": "N. Mälarstrand 30",
+                "Göteborg": "Fiskhamnsg.",
+                "Åstorp": "Bolinder-Munktell",
+                "Skövde": "373",
+                "Linköping": "21722",
+                "Kalmar": "1159"
+            }
+        },
+        "financials": {
+            "capital": "5,000,000 kr",
+            "employees": {
+                "total": 1,
+                "industriarb": 1,
+                "2": "0 milj. st. tegelvaror"
+            },
+            "annual_turnover": "32,000,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    }
+}

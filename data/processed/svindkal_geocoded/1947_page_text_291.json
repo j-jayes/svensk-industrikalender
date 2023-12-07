@@ -1,0 +1,250 @@
+{
+    "1": {
+        "name": "Finnés Snickerifabriks AB",
+        "location": "Lingbo",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror, byggnadssnickerier, träkol och gengaskol",
+        "contact": {
+            "office": "Lingbo",
+            "phone": [
+                "11"
+            ],
+            "postgiro": "73654"
+        },
+        "financials": {
+            "capital": "406,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1894,
+        "corporation_year": 1928,
+        "board": [
+            {
+                "name": "ing. Walo Finne",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Helmer Finne",
+                "role": ""
+            },
+            {
+                "name": "kamrer J. B. Forsblom",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 61.0459523,
+            "Longitude": 16.6846282
+        }
+    },
+    "2": {
+        "name": "AB. C. E. Finquists Verkstäder",
+        "location": "Älvsjö",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar snack- och precisionskuggväxlar, kuggväxelmotorer, kugghjul, kättinghjul samt elastiska kopplingar",
+        "contact": {
+            "office": "Älvsjö, Stockholm",
+            "phone": [
+                "472540-43"
+            ],
+            "postgiro": "25158"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "950,000 kr",
+            "annual_production_value": "950,000 kr"
+        },
+        "foundation_year": 1922,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "ing. Clifford W. Finquist",
+                "role": "ordf."
+            },
+            {
+                "name": "fröken F. J. Finquist",
+                "role": ""
+            },
+            {
+                "name": "fru H. J. Finquist",
+                "role": ""
+            }
+        ],
+        "director": "Clifford W. Finquist",
+        "coordinates": {
+            "Latitude": 59.2744881,
+            "Longitude": 18.0051298
+        }
+    },
+    "3": {
+        "name": "AB. Finshyttans Bruk",
+        "location": "Finnshyttan",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar vattenturbiner och turbinregulatorer, pumpar, maskiner för cellulosa- och pappersindustrien, gruvspel och uppfordringsverk, maskiner för järnbruk, reningsanläggningar för dricksvatten och kloakvatten samt gjutgods",
+        "contact": {
+            "office": "Finnshyttan (Värml. l.)",
+            "phone": [
+                "Filipstad 5",
+                "9",
+                "335",
+                "337",
+                "395",
+                "542"
+            ],
+            "postgiro": "90090"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 165
+            },
+            "annual_turnover": "2,200,000 kr",
+            "annual_production_value": "2,200,000 kr"
+        },
+        "corporation_year": 1903,
+        "board": [
+            {
+                "name": "jur. kand. Gillis Fahlbeck",
+                "role": ""
+            },
+            {
+                "name": "kamrer J. Alfr. Larsson",
+                "role": ""
+            },
+            {
+                "name": "disp. Rudolf Wallertz",
+                "role": ""
+            }
+        ],
+        "director": "R. Wallertz",
+        "manager": "Börje Sjögren",
+        "coordinates": {
+            "Latitude": 60.29772490000001,
+            "Longitude": 15.826766
+        }
+    },
+    "4": {
+        "name": "Finsjö Kraft AB",
+        "location": "Malmö",
+        "business": "Elektr. vattenkraftverk",
+        "products": "Distribuerar elektr. energi",
+        "contact": {
+            "office": "Malmö, Stora Ny g. 52",
+            "telegraph": "Kraftfinsjö, Malmö",
+            "phone": "Sydkraft",
+            "postgiro": "24600"
+        },
+        "financials": {
+            "capital": "654,000 kr",
+            "annual_turnover": "3,000,000 kr"
+        },
+        "corporation_year": 1909,
+        "owners": [
+            "Sydsvenska Kraft AB., Malmö"
+        ],
+        "director": "Jonte Hultkrantz",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "5": {
+        "name": "AB. Finsjö Pappersbruk",
+        "location": "Finsjö",
+        "business": "Pappfabrik",
+        "products": "Tillverkar papp och kartong, konstläderpapp, jacquardpapp, omslagspapp m. m.",
+        "contact": {
+            "office": "Finsjö (Kalmar l.)",
+            "phone": [
+                "Fliseryd 10"
+            ],
+            "postgiro": "131880"
+        },
+        "financials": {
+            "capital": "270,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "2,500 ton papp och kartong"
+        },
+        "corporation_year": 1916,
+        "director": "disp. Oskar E. Halle",
+        "coordinates": {
+            "Latitude": 57.1496854,
+            "Longitude": 16.2444178
+        }
+    },
+    "6": {
+        "name": "AB. Finspongs Hästskor",
+        "location": "Stockholm",
+        "business": "Hästskofabrik",
+        "products": "Tillverkar hästskor",
+        "contact": {
+            "office": "Motala",
+            "phone": [
+                "Motala 8"
+            ],
+            "postgiro": "1408"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "corporation_year": 1922,
+        "board": [
+            {
+                "name": "disp. Olof Hjorth",
+                "role": ""
+            },
+            {
+                "name": "adv. L. Levy",
+                "role": ""
+            },
+            {
+                "name": "dir. Sven Ponsbach",
+                "role": ""
+            },
+            {
+                "name": "dir. Karl-Erik Tiblom",
+                "role": ""
+            },
+            {
+                "name": "ing. Olof Tiblom",
+                "role": ""
+            }
+        ],
+        "director": "S. Ponsbach",
+        "manager": "K.-Th. Härse",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "AB. Fintlings Nickel- & Nysilverfabrik",
+        "location": "Stockholm",
+        "business": "Elektrogalvanisk fabrik",
+        "products": "Utför förgyllning, försilvring, förkromning, förnickling, förmässing, förzinkning, hårdkromning, oxidering m. m.",
+        "contact": {
+            "office": "Roslagsg. 33",
+            "telegraph": "Nickelfint, Stockholm",
+            "phone": [
+                "230280"
+            ],
+            "postgiro": "2744"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

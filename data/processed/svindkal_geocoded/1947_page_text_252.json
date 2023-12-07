@@ -1,0 +1,253 @@
+{
+    "1": {
+        "name": "Eck, Elektriska AB.",
+        "location": "Partille",
+        "business": "Tillverkar värmeledningsradiatorer av plåt, flyttbara, fotogeneldade och elektriska värmeradiatorer, varmlufts-batterier, expansionskärl, svetsnings- och pressningsarbeten m. m.",
+        "contact": {
+            "office": "Mek. verkstad i Sickla, Nacka (Sthlms 1.)",
+            "phone": [
+                "Stockholm 404111",
+                "Stockholm 404112",
+                "Stockholm 404160"
+            ],
+            "postgiro": "1212"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 106
+            },
+            "annual_turnover": "2,300,000 kr",
+            "annual_production_value": "2,300,000 kr"
+        },
+        "foundation_year": 1925,
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "H. Befrits",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.7366497,
+            "Longitude": 12.1251968
+        }
+    },
+    "2": {
+        "name": "Eds Cellulosafabriks AB",
+        "location": "Edsbruk",
+        "business": "Tillverkar sulfatcellulosa, flytande harts och råterpentin. Bolaget idkar jämväl jordbruk och kvarnrörelse.",
+        "contact": {
+            "telegraph": "Edsfabrik, Gamleby",
+            "phone": "Västra Ed 37"
+        },
+        "financials": {
+            "capital": "900,000 kr",
+            "employees": {
+                "industriarb": 109
+            },
+            "annual_production_value": "9,000 ton torr sulfatcellulosa"
+        },
+        "foundation_year": 1888,
+        "board": [
+            {
+                "name": "T. An. Tesch",
+                "role": "bergsing."
+            },
+            {
+                "name": "Thure Essen",
+                "role": "adv."
+            },
+            {
+                "name": "Ernst Håkansson",
+                "role": "övering"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.0200522,
+            "Longitude": 16.4650392
+        }
+    },
+    "3": {
+        "name": "Eds Tegel AB.",
+        "location": "Edsbruk",
+        "business": "Tillverkar mur- och taktegel samt rör vid tegelbruk i Edsbruk (Kalm. l.)",
+        "contact": {
+            "phone": "Västra Ed 70"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "0,8 milj. st. tegelvaror"
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "Axel Milton",
+                "role": "kommalkamrer"
+            },
+            {
+                "name": "Adolf Holmgren",
+                "role": "tegelmäst."
+            },
+            {
+                "name": "David Larsson",
+                "role": "hemmansäg."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.0200522,
+            "Longitude": 16.4650392
+        }
+    },
+    "4": {
+        "name": "Eda AB.",
+        "location": "Eda",
+        "business": "Sågverk, träullfabrik, kvarn och elektrisk kraftstation vid Eda (Värml. l.). Tillverkar plank, bräder och träull.",
+        "contact": {
+            "telegraph": "Edaträ, Eda",
+            "phone": "1"
+        },
+        "financials": {
+            "capital": "55,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "foundation_year": 1867,
+        "board": [
+            {
+                "name": "G. H. Löfvenholm",
+                "role": "f. d. landsfiskal"
+            },
+            {
+                "name": "Anders Ohlsson",
+                "role": "disp."
+            },
+            {
+                "name": "Gunnar Ohlsson",
+                "role": "civilek."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.7787407,
+            "Longitude": 12.2572415
+        }
+    },
+    "5": {
+        "name": "AB. Eda Glasbruk",
+        "location": "Eda",
+        "business": "Tillverkar hushållsglas, kristallglas oeb konservglas samt kem.-tekn. glas vid glasbruk i Eda (Värml. l.).",
+        "contact": {
+            "telegraph": "Edaglas, Eda",
+            "phone": "41",
+            "postgiro": "274212"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_production_value": "650,000 kr"
+        },
+        "foundation_year": 1943,
+        "board": [
+            {
+                "name": "Carl Svensson",
+                "role": "dir."
+            },
+            {
+                "name": "Harry Bratt",
+                "role": "genéralkonsul"
+            },
+            {
+                "name": "Birger Eklundh",
+                "role": "disp."
+            },
+            {
+                "name": "Axel Nystadius",
+                "role": "försäljningschef"
+            }
+        ],
+        "director": "Birger Eklundh",
+        "sales_manager": "Axel Nystadius",
+        "coordinates": {
+            "Latitude": 59.7787407,
+            "Longitude": 12.2572415
+        }
+    },
+    "6": {
+        "name": "Edeby Marmorbrott AB.",
+        "location": "Eölö",
+        "business": "Bryter och förädlar såväl vitgrön som grön marmor.",
+        "contact": {
+            "phone": [
+                "Hölö 22",
+                "Hölö 130"
+            ],
+            "postgiro": "29162",
+            "factory_office": "Avd.-kontor: Stockholm, Norr-landsg. 18, telefon: 108691"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1945,
+        "board": [
+            {
+                "name": "Georg Lundberg",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": null
+    },
+    "7": {
+        "name": "J. A. Edenholm, Culdlistfabrik",
+        "location": "Gustafs",
+        "business": "Tillverkar ram- och tapetlister, gardinstänger, kornischer och speglar vid fabrik i Gustafs (Kopparb. l.)",
+        "contact": {
+            "phone": "Borlänge 40021",
+            "postgiro": "12718",
+            "head_office": "Avd.-kontor: Stockholm, Herku-lesg. 26, telefon: 109254"
+        },
+        "employees": {
+            "industriarb": 42
+        },
+        "annual_production_value": "500,000 kr",
+        "foundation_year": 1905,
+        "owner": "fabr. J. A. Edenholm",
+        "manager": "fabr. J. A. Edenholm",
+        "sales_manager": "H. P. Myren",
+        "coordinates": {
+            "Latitude": 60.41140559999999,
+            "Longitude": 15.6110187
+        }
+    },
+    "8": {
+        "name": "Paul Edgren",
+        "location": "Eskilsäter",
+        "business": "Sågverk, hyvleri och lådfabrik samt cementvarufabrik vid Gaperhult, Eskilsäter (Värml. l.). Tillverkar sågade och hyvlade trävaror, lådbräder, props och rundvirke samt cementtaktegel.",
+        "contact": {
+            "telegraph": "Edgren, Säffle",
+            "phone": "Gaperhult 2",
+            "postgiro": "83143"
+        },
+        "employees": {
+            "industriarb": 12
+        },
+        "annual_production_value": "40,000 kr",
+        "foundation_year": 1884,
+        "owner": "godsäg. Paul Edgren",
+        "manager": "godsäg. Paul Edgren",
+        "coordinates": {
+            "Latitude": 58.94095799999999,
+            "Longitude": 13.156128
+        }
+    }
+}

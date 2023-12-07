@@ -1,0 +1,201 @@
+{
+    "1": {
+        "name": "Ivar Linds Eftr. Sågbladsfabrik",
+        "location": "Torshälla",
+        "business": "Tillverkning av bandsågblad, handsågar, vedsågar, sticksågar, sicklingar och filklovar",
+        "contact": {
+            "phone": [
+                "Eskilstuna 55144"
+            ],
+            "postgiro": "265335",
+            "factory_office": "Etablerad: 1930",
+            "owners": [
+                "fabr. Helmer Swärd",
+                "fabr. Vidar Andersson"
+            ]
+        },
+        "financials": {
+            "capital": "Ej tillgänglig",
+            "employees": {
+                "industriarb": 6
+            },
+            "annual_turnover": "100,000 kr",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1930,
+        "coordinates": {
+            "Latitude": 59.42129649999999,
+            "Longitude": 16.4769698
+        }
+    },
+    "2": {
+        "name": "J. Linds Snickerifabriks AB.",
+        "location": "Gimo",
+        "business": "Tillverkning av byggnadssnickerier",
+        "contact": {
+            "phone": [
+                "18"
+            ],
+            "postgiro": "13667",
+            "office": "Uppsala l.",
+            "board": [
+                {
+                    "name": "fabr. Janne Lind",
+                    "role": "ordf."
+                },
+                {
+                    "name": "verkm. Ernst Thornberg",
+                    "role": "kamrer"
+                },
+                {
+                    "name": "kamrer Harald Thornberg",
+                    "role": ""
+                }
+            ]
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 17
+            },
+            "annual_turnover": "175,000 kr",
+            "annual_production_value": "175,000 kr"
+        },
+        "foundation_year": 1927,
+        "current_name_year": 1944,
+        "coordinates": {
+            "Latitude": 60.1716941,
+            "Longitude": 18.185871
+        }
+    },
+    "3": {
+        "name": "AB. A. Lindahls Fabriker",
+        "location": "Stockholm",
+        "business": "Kemisk-teknisk fabrik",
+        "contact": {
+            "phone": [
+                "670400"
+            ],
+            "postgiro": "4000",
+            "office": "Alifabolaget AB., JSTybrog. 27, Stockholm 5",
+            "board": [
+                {
+                    "name": "ryttm. Erik Lindahl",
+                    "role": "disp."
+                },
+                {
+                    "name": "disp. Frithiof Lindahl",
+                    "role": ""
+                },
+                {
+                    "name": "",
+                    "role": "frithiof Lindahl"
+                }
+            ],
+            "director": "Erik Lindahl",
+            "manager": "Erik Lindahl"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "Ej tillgänglig",
+            "annual_production_value": "Ej tillgänglig"
+        },
+        "foundation_year": 1902,
+        "corporation_year": 1932,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "Lindbacka AB.",
+        "location": "Örebro",
+        "business": "Tillverkning av gummi klackar och sulor samt gummiplattor",
+        "contact": {
+            "phone": [
+                "19383"
+            ],
+            "postgiro": "161661",
+            "office": "Lindbacka, Örebro"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb": 22
+            },
+            "annual_turnover": "Ej tillgänglig",
+            "annual_production_value": "Ej tillgänglig"
+        },
+        "foundation_year": 1938,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "5": {
+        "name": "AB. Lindberg Strå- & Filthattfabrik",
+        "location": "Örebro",
+        "business": "Tillverkning av dam- och barnhattar av strå och filt",
+        "contact": {
+            "phone": [
+                "10467"
+            ],
+            "postgiro": "12606",
+            "office": "Örebro",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "114303"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "176460"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "14070"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 95
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1913,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "6": {
+        "name": "Lindbergs Tryckeri AB.",
+        "location": "Stockholm",
+        "business": "Boktryckeri och bokbinderi",
+        "contact": {
+            "phone": [
+                "232295"
+            ],
+            "postgiro": "52208",
+            "office": "N. Smedjeg. 34"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 73
+            }
+        },
+        "foundation_year": 1911,
+        "corporation_year": 1921,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

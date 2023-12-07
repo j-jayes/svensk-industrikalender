@@ -1,0 +1,203 @@
+{
+    "1": {
+        "name": "Engblads Tapetfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar tapeter och bårder",
+        "products": "Varumärke: »Lotura»",
+        "contact": {
+            "office": "Underåsbro; postadr.: Göteborg 5",
+            "phone": [
+                "161314",
+                "161317"
+            ],
+            "postgiro": "40681",
+            "telegraph": "Tapetblad, Göteborg"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1929,
+        "owner": "fabr. Einar Engblad",
+        "director": "Knut R. Pettersson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "Gunnar Engdahl",
+        "location": "Sävsjö",
+        "business": "Sågverk, hyvleri^ snickeri- och bränn-torvfabriker",
+        "contact": {
+            "phone": "109"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1922,
+        "owner": "fabr. Gunnar Engdahl",
+        "director": null,
+        "coordinates": {
+            "Latitude": 57.39899579999999,
+            "Longitude": 14.6658136
+        }
+    },
+    "3": {
+        "name": "Engel-Fabri kerna AB.",
+        "location": "Motala",
+        "business": "Tillverkar ylletyger såsom kamgarn, korderoj, paletå, kapptyger, filtar m. m.",
+        "contact": {
+            "phone": "»Engel-Fabrikerna»",
+            "postgiro": "28366"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "4,500,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1870,
+        "current_name_year": 1945,
+        "owner": null,
+        "director": "Gösta Engel",
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        }
+    },
+    "4": {
+        "name": "AB. P. Enger",
+        "location": "Åmål",
+        "business": "Tillverkar skjortor, pyjamas, skyddskläder och klänningar samt plastickap-por",
+        "products": "Varumärken: »Engers», »President», »Paramount», »Pilot» o. »A-skjortan»",
+        "contact": {
+            "phone": [
+                "11",
+                "56"
+            ],
+            "postgiro": "8264"
+        },
+        "financials": {
+            "capital": "175,000 kr",
+            "employees": {
+                "industriarb": 140
+            },
+            "annual_turnover": "1,800,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1897,
+        "current_name_year": 1945,
+        "owner": null,
+        "director": "Filip Enger",
+        "coordinates": {
+            "Latitude": 59.05111699999999,
+            "Longitude": 12.6977323
+        }
+    },
+    "5": {
+        "name": "0lle Engkvist Byggnads AB.",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "office": "Gröndal, Sjöbjörnsv. 16",
+            "phone": "452840",
+            "postgiro": "199434"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": null,
+            "annual_turnover": "10,000,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1923,
+        "current_name_year": 1945,
+        "owner": null,
+        "director": "Olle Engkvist",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "AB. Englund & Kjelsson",
+        "location": "Östersund",
+        "business": "Sadelmakeri och karosserifabrik",
+        "products": "Tillverkar arbetsselar och sadelmakerier, lastbilshytter och lastflak samt sportartiklar",
+        "contact": {
+            "phone": [
+                "95",
+                "196"
+            ],
+            "postgiro": "22980"
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "750,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1882,
+        "current_name_year": 1945,
+        "owner": null,
+        "director": null,
+        "coordinates": {
+            "Latitude": 63.1766832,
+            "Longitude": 14.6360681
+        }
+    },
+    "7": {
+        "name": "AB. Engshyttan",
+        "location": "Nybro",
+        "business": "Glasbruk",
+        "products": "Tillverkar belysningsglas",
+        "contact": {
+            "phone": "410",
+            "postgiro": "92355"
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": null,
+        "current_name_year": 1945,
+        "owner": null,
+        "director": null,
+        "coordinates": {
+            "Latitude": 56.745012,
+            "Longitude": 15.907874
+        }
+    },
+    "8": {
+        "name": "J. L. Engström & Söner Fabriks-bolag",
+        "location": "Hagalund",
+        "business": "Mek. verkstad i Hagalund (Sthlms l.). Tillverkar järnsängar, sjukhusmöbler ss. förlossnings- och sjuksängar, undersök-",
+        "contact": {},
+        "financials": {},
+        "foundation_year": null,
+        "current_name_year": null,
+        "owner": null,
+        "director": null,
+        "coordinates": {
+            "Latitude": 59.3638177,
+            "Longitude": 18.0157976
+        }
+    }
+}

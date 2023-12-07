@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "E. M. Johansson & Co.",
+        "location": "Tranemo",
+        "business": "Trikåfabrik",
+        "products": "Tillverkar stickade yllevaror.",
+        "contact": {
+            "office": "Tranemo",
+            "phone": [
+                "70083"
+            ],
+            "postgiro": "8241"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 9,
+                "hemarbetare": 30
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1922,
+        "owners": [
+            "Enoch M. Johansson",
+            "Ernst Tranefors"
+        ],
+        "coordinates": {
+            "Latitude": 57.4855688,
+            "Longitude": 13.35241
+        }
+    },
+    "2": {
+        "name": "Gustaf Johanssons Möbelfabrik",
+        "location": "Skillingaryd",
+        "business": "Tillverkar möbler",
+        "products": "Specialitet: Sängkammarmöbler.",
+        "contact": {
+            "office": "Skillingaryd",
+            "phone": [
+                "2"
+            ],
+            "postgiro": "176011"
+        },
+        "financials": {
+            "annual_production_value": "40,000 kr"
+        },
+        "foundation_year": 1908,
+        "manager": "Gustaf Johansson",
+        "coordinates": {
+            "Latitude": 57.43058180000001,
+            "Longitude": 14.0938696
+        }
+    },
+    "3": {
+        "name": "H. Johanssons Möbel verkstäder",
+        "location": "Vislanda",
+        "business": "Tillverkar möbler",
+        "products": "Samt träarmatur",
+        "contact": {
+            "office": "Vislanda",
+            "phone": [
+                "139"
+            ],
+            "postgiro": "168095"
+        },
+        "financials": {
+            "annual_production_value": "90,000 kr"
+        },
+        "foundation_year": 1939,
+        "manager": "Harry Johansson",
+        "coordinates": {
+            "Latitude": 56.7858694,
+            "Longitude": 14.4650634
+        }
+    },
+    "4": {
+        "name": "Hj. Johanssons Barncykelfabrik",
+        "location": "Anderstorp",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar barncyklar samt svetsade och pressade massartiklar av plåt.",
+        "contact": {
+            "office": "Anderstorp",
+            "phone": [
+                "28"
+            ],
+            "postgiro": "163395"
+        },
+        "financials": {
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1914,
+        "manager": "Hjalmar Johansson",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        }
+    },
+    "5": {
+        "name": "AB. I. A. Johansson",
+        "location": "Flisby",
+        "business": "Tillverkar trätofflor",
+        "products": "Trätoffelbottnar samt träbottensandaler.",
+        "contact": {
+            "office": "Flisby",
+            "phone": [
+                "1"
+            ],
+            "postgiro": "5405"
+        },
+        "financials": {
+            "capital": "86,000 kr",
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1879,
+        "directors": [
+            "Efr. Odengren"
+        ],
+        "coordinates": {
+            "Latitude": 57.7832666,
+            "Longitude": 14.8001215
+        }
+    },
+    "6": {
+        "name": "Leonard Johanssons Fabriks AB.",
+        "location": "Eskilstuna",
+        "business": "Järnmanufakturfabrik",
+        "products": "Tillverkar ma-manufaktursmide såsom sågbågar, elektriska strykjärn, spiraldörrstängare, spisringsställ, lieringar och pressade velocipeddelar; utför slipning, förnickling och förkromning.",
+        "contact": {
+            "telegraph": "Leonard jo. Eskilstuna",
+            "phone": [
+                "30480",
+                "34480"
+            ],
+            "postgiro": "10787"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1892,
+        "owner": "Nils L. Johansson",
+        "directors": [
+            {
+                "name": "Nils L. Johansson",
+                "role": "Verkst. dir. o. disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "7": {
+        "name": "N. J. Johanssons Eftr. AB.",
+        "location": "Aplared",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar arbetskläder och sportkläder. Specialiteter: overalls och skyddskläder. Varumärke: Joflo.",
+        "contact": {
+            "telegraph": "Joflo, Borås",
+            "phone": [
+                "80001",
+                "80002"
+            ],
+            "postgiro": "33040"
+        },
+        "financials": {
+            "capital": "175,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_production_value": "2,400,000 kr"
+        },
+        "foundation_year": 1875,
+        "owner": "John N. Johanson",
+        "directors": [
+            "John N. Johanson",
+            "O. Flodin"
+        ],
+        "coordinates": {
+            "Latitude": 57.65083159999999,
+            "Longitude": 13.0710761
+        }
+    },
+    "8": {
+        "name": "Oskar Johansons Slakteri AB.",
+        "location": "Norrköping",
+        "business": "Charkuteri- och konservfabrik",
+        "products": "Tillverkar charkuterivaror och konserver. Varumärke: O. J:s.",
+        "contact": {
+            "telegraph": "Ojohansons, Norrköping",
+            "phone": [
+                "Oskar Johansons"
+            ],
+            "postgiro": "10024"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1857,
+        "directors": [
+            "Axel Johansson",
+            "Erik W. Johanson",
+            "James Johanson"
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    }
+}

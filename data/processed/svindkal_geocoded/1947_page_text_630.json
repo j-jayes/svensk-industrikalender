@@ -1,0 +1,288 @@
+{
+    "1": {
+        "name": "AB. Skånska Dagbladet",
+        "location": "Malmö",
+        "business": "Tidnings- och boktryckeri",
+        "contact": {
+            "office": "österg. 11",
+            "phone": [
+                "Skånska Dagbladet"
+            ],
+            "postgiro": "24540",
+            "telegraph": "Dagbladet, Malmö"
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "employees": {
+                "industriarb": 247
+            }
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "Carl Fr. Ljunggren",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Bengt Persson",
+                "role": "Kamrer"
+            },
+            {
+                "name": "Karl Lundstedt",
+                "role": "T ryckeri förest."
+            }
+        ],
+        "director": "Carl Fr. Ljunggren",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "2": {
+        "name": "Skånska Granit AB.",
+        "business": "Bryter och bearbetar svart och ljus granit till gravvårdar, monument och byggnadsarbeten",
+        "location": "Broby",
+        "contact": {
+            "office": "Broby",
+            "phone": [
+                "1"
+            ],
+            "postgiro": "75780",
+            "telegraph": "Granit. Broby"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 70
+            }
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "Ragnar Kindgren",
+                "role": "åh."
+            },
+            {
+                "name": "Erik Norrman",
+                "role": "bankdir."
+            },
+            {
+                "name": "Artur Persson",
+                "role": "dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.2543556,
+            "Longitude": 14.0718204
+        }
+    },
+    "3": {
+        "name": "Skånska Jutefabriks AB.",
+        "business": "Spinneri och väveri. Tillverkar vävnader, garn och säckar av jute och pappersgarn (även pappersfodrade och asfalterade)",
+        "location": "Hälsingborg",
+        "contact": {
+            "office": "Jutebolaget, Hälsingborg",
+            "phone": [
+                "10487",
+                "12987",
+                "19687"
+            ],
+            "postgiro": "13907",
+            "sales_offices": [
+                {
+                    "location": "Svenska Jutefabrikernas Centralkontor, Halmstad",
+                    "phone": "220 o. 765"
+                },
+                {
+                    "location": "Svenska Jutefabrikernas avd.-kontor, R. Hägertz o. Sven Wallberg, Regeringsg. 39, Stockholm",
+                    "phone": "110433 o. 200475"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,350,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "3,600,000 kr"
+        },
+        "foundation_year": 1896,
+        "board": [
+            {
+                "name": "Henry Dunker",
+                "role": "disp."
+            },
+            {
+                "name": "O. A. Wicander",
+                "role": "dir."
+            },
+            {
+                "name": "Gösta Blum",
+                "role": "civiling."
+            },
+            {
+                "name": "Kjell Hägglöf",
+                "role": "dir."
+            },
+            {
+                "name": "Hj. Leijon",
+                "role": "disp."
+            }
+        ],
+        "director": "Hj. Leijon",
+        "sales_manager": "R. Melén",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "4": {
+        "name": "Skånska Konfektionsfabriken",
+        "business": "Tillverkar damkappor, dräkter, jiggers och blazers",
+        "location": "Malmö",
+        "contact": {
+            "office": "Maltgatarx 5",
+            "phone": [
+                "71690"
+            ],
+            "postgiro": "149528",
+            "telegraph": "Skånekonfektion, Malmö"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1925,
+        "board": [
+            {
+                "name": "Tore Lindeli",
+                "role": "adv."
+            },
+            {
+                "name": "Harry Malmqvist",
+                "role": "dir."
+            }
+        ],
+        "director": "Harry Malmqvist",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "5": {
+        "name": "Skånska Litografiska AB.",
+        "business": "Litografisk anstalt, offsettryckeri, boktryckeri, kontorsbok- och kartongfabrik. Tillverkar kontorsböcker, kuvert, kartonger m. m. samt utför litografiskt, bok- och duplikattryck",
+        "location": "Malmö",
+        "contact": {
+            "office": "Engelbrektsg. 2",
+            "phone": [
+                "71105"
+            ],
+            "postgiro": "38067",
+            "telegraph": "Litografiska, Malmö"
+        },
+        "financials": {
+            "annual_production_value": "Se AB. Sveriges Litografiska Tryckerier, Stockholm (Se detta bolag)"
+        },
+        "board": [
+            {
+                "name": "G. Trotzig"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "6": {
+        "name": "Skånska Makadamfabriken",
+        "location": "Åstorp",
+        "business": "Tillverkar makadam och filler",
+        "contact": {
+            "phone": [
+                "449"
+            ],
+            "postgiro": "84050"
+        },
+        "financials": {
+            "capital": "375,000 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "coordinates": {
+            "Latitude": 56.134262,
+            "Longitude": 12.945908
+        }
+    },
+    "7": {
+        "name": "Skånska Marmor AB.",
+        "location": "Landskrona",
+        "business": "Bearbetar in- och utländsk marmor samt kalksten för byggnads-, butiks- och möbeländamål, instrumenttavlor m. m. jämte granit för gravvårds- och byggnadsändamål",
+        "contact": {
+            "phone": [
+                "695"
+            ],
+            "postgiro": "6816"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "arb": 10
+            }
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "major Bror Jepsson"
+            },
+            {
+                "name": "Helge Helmers",
+                "role": "dir."
+            },
+            {
+                "name": "L. Helmers",
+                "role": "fru"
+            }
+        ],
+        "director": "Helge Helmers",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        }
+    },
+    "8": {
+        "name": "Skånska Spisbrödsfabriken",
+        "location": "Kristianstad",
+        "business": "Tillverkar spis-, knäcke- och delikatess-bröd",
+        "contact": {
+            "office": "Brödfabriken, Kristianstad",
+            "phone": [
+                "10026",
+                "10507",
+                "10660"
+            ],
+            "postgiro": "6855",
+            "sales_offices": [
+                {
+                    "location": "Malmö",
+                    "phone": "25667, 27665 o. 20293"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 56.0293936,
+            "Longitude": 14.1566778
+        }
+    }
+}

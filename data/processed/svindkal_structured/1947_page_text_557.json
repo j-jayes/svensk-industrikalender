@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "D. Nyqvist, Ljungby Trikåindustri",
+        "location": "Ljungby",
+        "business": "Trikåindustri",
+        "contact": {
+            "office": "Ljungby",
+            "telegraph": "Aena, Nyköping"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 150
+            }
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "dir. Wilhelm Josephson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gunnar K. H. Andersson",
+                "role": ""
+            },
+            {
+                "name": "adv. C. M. Fallenius",
+                "role": ""
+            },
+            {
+                "name": "bergsing. Carl J. Kjellberg",
+                "role": ""
+            },
+            {
+                "name": "adv. Ivar Philipson",
+                "role": ""
+            }
+        ],
+        "manager": "C. J. Kjellberg",
+        "sales_manager": "Arne Granström"
+    },
+    "2": {
+        "name": "Nyköpings Bryggeri AB.",
+        "location": "Nyköping",
+        "business": "Bryggeri",
+        "contact": {
+            "telephone": "Bryggeribolaget",
+            "postgiro": "11777"
+        },
+        "financials": {
+            "capital": "450,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "1,400,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "dir. Otto Lindeberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl Axel Anderson",
+                "role": ""
+            },
+            {
+                "name": "dir. Bure Holmbäck",
+                "role": ""
+            }
+        ],
+        "manager": "Carl Axel Anderson"
+    },
+    "3": {
+        "name": "AB. Nyköpings Ekmöbelfabrik",
+        "location": "Nyköping",
+        "business": "Ekmöbelfabrik",
+        "contact": {
+            "telephone": "292",
+            "postgiro": "28356"
+        },
+        "financials": {
+            "capital": "52,900 kr",
+            "employees": {
+                "industriarb": 22
+            },
+            "annual_production_value": "220,000 kr"
+        },
+        "foundation_year": 1909,
+        "manager": "Carl Johan Johansson"
+    },
+    "4": {
+        "name": "Nyköpings Entreprenad AB.",
+        "location": "Nyköping",
+        "business": "Byggnadsentreprenörfirma",
+        "contact": {
+            "telegraph": "Neab, Nyköping",
+            "telephone": "Entreprenadbolaget",
+            "postgiro": "70821"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1945,
+        "board": [
+            {
+                "name": "adv. Herman Heilborn",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl-Axel Andersson",
+                "role": ""
+            },
+            {
+                "name": "ing. Thage Andersson",
+                "role": ""
+            }
+        ],
+        "manager": "Thage Andersson"
+    },
+    "5": {
+        "name": "AB. Nyköpings Culdlistfabrik",
+        "location": "Nyköping",
+        "business": "Tillverkning av fotografiramar",
+        "contact": {
+            "telephone": "1661",
+            "postgiro": "132498",
+            "stockholm_representative": {
+                "company": "Herm. Bornemann AB.",
+                "telephone": "112730"
+            }
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "annual_production_value": "550,000 kr"
+        },
+        "foundation_year": 1939,
+        "manager": "Hilmer A. Andersson"
+    },
+    "6": {
+        "name": "Nyköpings Metallfabriks AB.",
+        "location": "Nyköping",
+        "business": "Tillverkning av metallinredningar",
+        "contact": {
+            "telephone": "114",
+            "postgiro": "26136"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 21
+            },
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1921,
+        "manager": "Göte Blomdahl"
+    },
+    "7": {
+        "name": "Nyköpings Nya Möblerings AB.",
+        "location": "Nyköping",
+        "business": "Möbelfabrik",
+        "contact": {
+            "telephone": "700"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "480,000 kr"
+        },
+        "foundation_year": 1933,
+        "manager": "John Tapper"
+    },
+    "8": {
+        "name": "AB. Nyköpings Storhusqvarn",
+        "location": "Nyköping",
+        "business": "Valskvarn",
+        "contact": {
+            "telegraph": "Storhusqvarn, Nyköping",
+            "telephone": "360",
+            "postgiro": "10287"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 19
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1888,
+        "board": [
+            {
+                "name": "v. konsul Carl Nilsson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Hj. Carlborn",
+                "role": ""
+            },
+            {
+                "name": "kontorschef Teodor Ceder",
+                "role": ""
+            },
+            {
+                "name": "dir. Sidney Holm",
+                "role": ""
+            },
+            {
+                "name": "civiling. Gunnar Molin",
+                "role": ""
+            }
+        ],
+        "manager": "Hj. Carlborn"
+    }
+}

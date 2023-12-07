@@ -1,0 +1,235 @@
+{
+    "1": {
+        "name": "Tollar e—Tornborg",
+        "location": "Stockholm",
+        "business": "Fabrikation och försäljning av omslagspapper och tryckpapper",
+        "contact": {
+            "office": "Kungsg. 15",
+            "phone": [
+                "231800",
+                "100798",
+                "115468",
+                "115478"
+            ],
+            "postgiro": "4830",
+            "telegraph": "Byggtoll, Stockholm"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "annual_production_value": "9,000,000 kr"
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "kanslirådet Axel Lekänder",
+                "role": "ordf."
+            },
+            {
+                "name": "revisor Arne Henrikson",
+                "role": null
+            },
+            {
+                "name": "ing. Leo Nordquist",
+                "role": null
+            },
+            {
+                "name": "civiling. Carl Gustaf Toll",
+                "role": null
+            },
+            {
+                "name": "kapten Gustav Vestin",
+                "role": null
+            }
+        ],
+        "director": "Carl Gustaf Toll",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "AB. Tollare Pappersbruk",
+        "location": "Tollare, Bo (Sthlms l.)",
+        "business": "Tillverkning av omslagspapper och tryckpapper",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Stockholm 150030"
+            ],
+            "postgiro": "52700"
+        },
+        "financials": {
+            "capital": "2,000,000 kr"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "bankdir. H. Bexelius",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Nils Berglund",
+                "role": null
+            },
+            {
+                "name": "fru Jane Hedenström",
+                "role": null
+            },
+            {
+                "name": "disp. Sigurd Lind",
+                "role": null
+            },
+            {
+                "name": "dir. Gustaf B. Söderlund",
+                "role": null
+            }
+        ],
+        "director": "Sigurd Lind",
+        "coordinates": {
+            "Latitude": 59.30524089999999,
+            "Longitude": 18.2399799
+        }
+    },
+    "3": {
+        "name": "Tomtens Kalkbruks AB.",
+        "location": "Torbjörntorp (Skarab. l.)",
+        "business": "Tillverkning av bränd, osläckt kalk för jordbruks- och byggnadsändamål samt bränd släckt kalk",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Falköping 611",
+                "Torbjörntorp 34"
+            ],
+            "postgiro": "26826"
+        },
+        "financials": {
+            "capital": "112,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "disp. John Torstensson",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Bengt Torstensson",
+                "role": null
+            },
+            {
+                "name": "notarie Åke Thorstensson",
+                "role": null
+            }
+        ],
+        "director": "disp. John Torstensson",
+        "coordinates": {
+            "Latitude": 58.2102316,
+            "Longitude": 13.6058656
+        }
+    },
+    "4": {
+        "name": "AB. Torebo Cementgjuteri",
+        "location": "Uddevalla",
+        "business": "Tillverkning av muff ror, väg- och kulvert-rör, trumögon, gatubrunnar, brunnsringar, väg- och trottoarplattor, kabelskydd, pool-block m. m.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "11922"
+            ],
+            "postgiro": "161305"
+        },
+        "financials": {
+            "capital": "57,000 kr"
+        },
+        "foundation_year": 1921,
+        "director": "Robert Hansson",
+        "coordinates": {
+            "Latitude": 58.3498003,
+            "Longitude": 11.935649
+        }
+    },
+    "5": {
+        "name": "AB. J. W. Torell",
+        "location": "Linköping",
+        "business": "Tillverkning av kylare till bilar, traktorer, vägmaskiner och stationära motorer m. m.; utför tunnplåtsarbeten",
+        "contact": {
+            "office": null,
+            "phone": [
+                "29935"
+            ],
+            "postgiro": "84022"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "annual_production_value": "450,000 kr"
+        },
+        "foundation_year": 1894,
+        "director": "fabr. Olof Torell",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    },
+    "6": {
+        "name": "Toréns Mek. Verkstads AB.",
+        "location": "Karlshamn",
+        "business": "Mek. verkstad, metall gjuteri samt rör-läggeri för värme- och sanitetsanläggningar",
+        "contact": {
+            "office": null,
+            "phone": [
+                "10"
+            ],
+            "postgiro": "96990"
+        },
+        "financials": {
+            "capital": "65,000 kr"
+        },
+        "foundation_year": 1901,
+        "director": "fabr. Folke Torén",
+        "coordinates": {
+            "Latitude": 56.170303,
+            "Longitude": 14.863073
+        }
+    },
+    "7": {
+        "name": "AB. Torkapparater",
+        "location": "Stockholm",
+        "business": "Konstruktion av industriella torkanläggningar och luftförvärmare",
+        "contact": {
+            "office": "Sveavägen 28—30",
+            "phone": [
+                "104650",
+                "104651"
+            ],
+            "postgiro": "152688",
+            "telegraph": "Torkapparater, Stockholm"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1937,
+        "director": "ing. G. Bojner",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "8": {
+        "name": "Tornborg & Lundberg AB.",
+        "location": "Stockholm",
+        "business": "Reparations- och serviceverkstad samt försäljning av maskiner",
+        "contact": {
+            "office": "Årstadalshamnen, Stockholm",
+            "phone": null,
+            "telegraph": null
+        },
+        "foundation_year": null,
+        "board": null,
+        "director": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

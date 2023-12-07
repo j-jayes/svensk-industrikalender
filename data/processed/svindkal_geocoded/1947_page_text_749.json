@@ -1,0 +1,101 @@
+{
+    "1": {
+        "name": "Wards Möbelfabrik",
+        "location": "Tibro",
+        "business": "Tillverkar biblioteksbord, soff- och matbord, höj- och sänkbara bord, pelar-bord, rökbord, radiobord m. fl.",
+        "contact": {
+            "office": "Tibro",
+            "phone": [
+                "117"
+            ],
+            "postgiro": "26957",
+            "factory_office": "Tibro"
+        },
+        "financials": {
+            "capital": "ej tillgänglig",
+            "employees": {
+                "antal_industriarb": 14
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "ej tillgänglig"
+        },
+        "foundation_year": 1916,
+        "manager": "fabr. Anton Ward",
+        "coordinates": {
+            "Latitude": 58.424323,
+            "Longitude": 14.1616418
+        }
+    },
+    "2": {
+        "name": "Vargen AB., Regnklädersfabriken",
+        "location": "Norrköping",
+        "business": "Se Regnklädersfabriken Vargen AB., Norrköping.",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "3": {
+        "name": "AB. Yargläderfabriken",
+        "location": "Uddevalla",
+        "business": "Tillverkar sulläder. Specialitet: kromsulläder.",
+        "coordinates": {
+            "Latitude": 58.3498003,
+            "Longitude": 11.935649
+        }
+    },
+    "4": {
+        "name": "Wargöns AB.",
+        "location": "Vargön",
+        "business": "Pappersbruk med träsliperi och sulfitfabrik, elektr. smältverk, elektrodmasse-fabrik och karbidfabrik i Vargön.",
+        "coordinates": {
+            "Latitude": 58.35662159999999,
+            "Longitude": 12.3888324
+        }
+    },
+    "5": {
+        "name": "Varia, AB. Möbelfabriken",
+        "location": "Flen",
+        "business": "Se AB. Möbelfabriken Varia, Flen.",
+        "coordinates": {
+            "Latitude": 59.0579376,
+            "Longitude": 16.5879122
+        }
+    },
+    "6": {
+        "name": "Wasabryggeriet",
+        "location": "Borlänge",
+        "business": "Se AB. Sveabryggerier, Filipstad.",
+        "coordinates": {
+            "Latitude": 60.484304,
+            "Longitude": 15.433969
+        }
+    },
+    "7": {
+        "name": "Wasa-Bryggeriet",
+        "location": "Örebro",
+        "business": "Tillverkar måltidsdricka, lagrat svag-dricka, mineralvatten och läskedrycker.",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "8": {
+        "name": "AB. Vasalampan",
+        "location": "Stockholm",
+        "business": "Tillverkar elektr. glödlampor.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "9": {
+        "name": "AB. Wasa Spisbrödsfabrik",
+        "location": "Filipstad",
+        "business": "Tillverkar spis- och knäckebröd.",
+        "coordinates": {
+            "Latitude": 59.7139973,
+            "Longitude": 14.1698445
+        }
+    }
+}

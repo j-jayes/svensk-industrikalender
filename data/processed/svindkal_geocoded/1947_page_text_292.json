@@ -1,0 +1,190 @@
+{
+    "1": {
+        "name": "Fischer—-Fjettman",
+        "location": "Stockholm",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar damkappor, dräkter och backfischkappor",
+        "contact": {
+            "office": "L:a Nyg. 13",
+            "telegraph": "Kappfischer, Stockholm",
+            "phone": [
+                "232595"
+            ],
+            "postgiro": "53450"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1893,
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "J. Waldemar Fintling",
+                "role": "fabr."
+            },
+            {
+                "name": "Erik Fintling",
+                "role": "ing."
+            },
+            {
+                "name": "E. J. Forsling",
+                "role": "lokmäst."
+            }
+        ],
+        "director": "J. Waldemar Fintling",
+        "managing_director": "Erik Fintling",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "AB. Elis Fischer",
+        "location": "Stockholm",
+        "business": "Not available",
+        "contact": {
+            "office": "L:a Nyg. 13",
+            "telegraph": "Kappfischer, Stockholm",
+            "phone": [
+                "232595"
+            ],
+            "postgiro": "53450"
+        },
+        "financials": {
+            "capital": "450,000 kr",
+            "employees": {
+                "industriarb": 132
+            }
+        },
+        "foundation_year": 1905,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "Fiskeby Fabriks AB.y",
+        "location": "Norrköping",
+        "business": "Pappersbruk med träsliperi och sulfitfabriker",
+        "products": "Tillverkar omslagspapper, påspapper, smörpapper och kraftpapper, sulfitsprit, klistrad och oklistrad kartong, sågade och hyvlade trävaror, byggnadssnickerier samt sulfat-och sulfitcellulosa och mek. trämassa för eget behov",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [
+                "Fiskebybolag, Norrköping"
+            ],
+            "postgiro": "11105"
+        },
+        "financials": {
+            "capital": "15,000,000 kr",
+            "employees": {
+                "industriarb": 1,
+                "Årstillv": 45,
+                "Antal": 1,
+                "050 ton papper": 5,
+                "000 ton papp": 5
+            }
+        },
+        "foundation_year": 1871,
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "4": {
+        "name": "Fiskredskapsindustrif Johansson & Co.",
+        "location": "Onosjö",
+        "business": "Järn- och metallmanufakturverk",
+        "products": "Tillverkar fiskredskap såsom drag, spinnspön, wobblers och spinnare samt tvålaskar, tobaksaskar, cykellås, sulskydd för skidskor, sandspadar för barn, mattsopare m. m.",
+        "contact": {
+            "phone": [
+                "136"
+            ],
+            "postgiro": "134529"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1937,
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    },
+    "5": {
+        "name": "AB. Fisksätra Motor bitsvarv",
+        "location": "Saltsjöbaden",
+        "business": "Utför nybyggnader av båtar upp till 70 ton, motorrenoveringar samt mek. verkstadsarbeten och finsnickerier",
+        "contact": {
+            "office": "Fisksätra, Saltsjöbaden",
+            "phone": [
+                "Stockholm 170423",
+                "170817"
+            ],
+            "postgiro": "131646"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 35
+            }
+        },
+        "corporation_year": 1927,
+        "director": "F. Axel Larsson",
+        "managing_director": "Torild Larsson",
+        "coordinates": {
+            "Latitude": 59.278744,
+            "Longitude": 18.3110523
+        }
+    },
+    "6": {
+        "name": "Fittja Tegelbruk",
+        "location": "Fittja",
+        "business": "See AB. Mälardalens Tegelbruk, Stockholm",
+        "coordinates": {
+            "Latitude": 59.25013819999999,
+            "Longitude": 17.8649991
+        }
+    },
+    "7": {
+        "name": "AB. Fixfabriken",
+        "location": "Göteborg",
+        "business": "Metallvarufabrik",
+        "products": "Tillverkar espagnoletter och byggnadsbeslag; utför automat-svarvning och pressgjutning",
+        "contact": {
+            "office": "Majviken, Kusttorget",
+            "telegraph": "Fixfabriken, Göteborg",
+            "phone": [
+                "148659"
+            ],
+            "postgiro": "40166"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "corporation_year": 1929,
+        "director": "ing. S. Walter Bengtsson",
+        "manager": "Kurt Sernheden",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "8": {
+        "name": "Fjellmans Mek. Verkstads AB.",
+        "location": "Mariestad",
+        "business": "Tillverkar spån- och vedeldningspannor, fanérpressar, värmebord och lim-kokare för snickeri- och möbelfabriker m. m.",
+        "coordinates": {
+            "Latitude": 58.7101119,
+            "Longitude": 13.8213327
+        }
+    }
+}

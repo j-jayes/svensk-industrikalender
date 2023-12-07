@@ -1,0 +1,141 @@
+{
+    "1": {
+        "name": "AB. Fritz Weist & Co-",
+        "location": "Stockholm",
+        "business": "Tillverkar vid dotterbolaget, AB. Fotomekano, Stockholm, fotografiska och optiska instrument såsom seriefotokameror (märke: »Fotomat»), förstoringsapparater, stillbildsprojektorer m. m. samt tillbehör. Bolaget driver även handel med instrument av utländsk tillverkning samt engroshandel med fotografiska artiklar.",
+        "contact": {
+            "office": "Regeringsg. 32",
+            "phone": [
+                "108747—48",
+                "101443"
+            ],
+            "postgiro": "2564",
+            "telegraph": "Weist Stockholm"
+        },
+        "financials": {
+            "capital": "164,000 kr",
+            "foundation_year": 1921,
+            "corporation_year": 1939
+        },
+        "board": [
+            {
+                "name": "Fritz Weist",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. Claes Welander",
+        "location": "Ulricehamn",
+        "business": "Trikåfabrik. Tillverkar damkoftor, jumpers, sporttröjor, pullovers, västar, mössor, vantar och skidsockor m. m. i ylle.",
+        "contact": {
+            "phone": "128",
+            "postgiro": "83400"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "700,000 kr",
+            "foundation_year": 1913,
+            "corporation_year": 1922
+        },
+        "board": [
+            {
+                "name": "fabr. Claes Welander",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ]
+    },
+    "3": {
+        "name": "Alvar Welander",
+        "location": "Norrköping",
+        "business": "Ylleväveri. Tillverkar yllevävnader. Specialitet: paletåtyger och tyger av svenskull.",
+        "contact": {
+            "phone": "20360",
+            "postgiro": "29414"
+        },
+        "financials": {
+            "employees": {
+                "arb": 10
+            },
+            "annual_production_value": "150,000 kr",
+            "foundation_year": 1912
+        },
+        "owner": "fabr. Ivar Welander"
+    },
+    "4": {
+        "name": "AB. Weldex",
+        "location": "Vadstena",
+        "business": "Mek. verkstad. Tillverkar varmvattenberedare, badkaminer, askhinkar samt shuntventiler.",
+        "contact": {
+            "phone": "31",
+            "postgiro": "144063"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "annual_production_value": "400,000 kr",
+            "foundation_year": 1938
+        },
+        "board": [
+            {
+                "name": "disp. Sven Lundstedt",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru Mary Lundstedt",
+                "role": "Styrelse"
+            }
+        ]
+    },
+    "5": {
+        "name": "Vellinge Vagn- & Karosserlverkstad",
+        "location": "Vellinge",
+        "business": "Snickeri, plåt- och smidesverkstäder i Vellinge (Malmöh. l.). Tillverkar karosserier, förråds-, manskaps- och campingvagnar, transportvagnar, hytter för traktorer samt säckeleva-torer.",
+        "contact": {
+            "phone": "222",
+            "postgiro": "160659"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "130,000 kr",
+            "foundation_year": 1933
+        },
+        "owner": "fabr. Artur Sjöö"
+    },
+    "6": {
+        "name": "AB. C. J. Wennbergs Mekaniska Verkstad",
+        "location": "Karlstad",
+        "business": "Mek. verkstad med gjuteri och plåtslageri. Tillverkar maskiner och utrustningar för cellulosa- och pappersindustrien samt dammluckor och hydrauliska pressar.",
+        "contact": {
+            "phone": "Weverk",
+            "postgiro": "34300"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_production_value": "1,400,000 kr",
+            "foundation_year": 1875,
+            "corporation_year": 1906
+        },
+        "board": [
+            {
+                "name": "disp. Simon Wennberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "konsul Curt Wennberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "övering. Olov Wennberg",
+                "role": "Styrelse"
+            }
+        ]
+    }
+}

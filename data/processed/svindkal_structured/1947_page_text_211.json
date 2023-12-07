@@ -1,0 +1,185 @@
+{
+    "1": {
+        "name": "AB. Bröderna Claesson",
+        "location": "ABC-fabrikerna, Kungälv",
+        "business": "Tillverkar sport-, camping-, läder- och sadelmakeriartiklar, sportskodon, reseffekter, trä- och järnmanufaktur",
+        "contact": {
+            "office": "Abcfabrikerna, Kungälv",
+            "phone": [
+                "302212"
+            ],
+            "postgiro": "7557"
+        },
+        "financials": {
+            "capital": "350,000 kr",
+            "employees": {
+                "industriarb": 850
+            },
+            "annual_turnover": "10,000,000 kr",
+            "annual_production_value": "10,000,000 kr"
+        },
+        "foundation_year": 1909,
+        "corporation_year": 1921,
+        "director": "Ivar S. Claesson"
+    },
+    "2": {
+        "name": "Bröderna Christofferson",
+        "location": "Vingåker",
+        "business": "Herrkonfektionsfabrik i Vingåker (Södermanl. l.). Tillverkar kostymer, smoking- och frackkostymer samt överplagg. Varumärke: »Vinge»",
+        "contact": {
+            "phone": [
+                "272"
+            ],
+            "postgiro": "84452"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1933
+    },
+    "3": {
+        "name": "Bröderna Edfasts Skofabrik",
+        "location": "Råneå",
+        "business": "Tillverkar sport- och arbetsskodon vid fabrik i Råneå (Norrb. l.). Specialitet: skidkängor",
+        "contact": {
+            "phone": "78",
+            "postgiro": "60829"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1930
+    },
+    "4": {
+        "name": "Bröderna Edmans Stolfabrik",
+        "location": "Tibro",
+        "business": "Specialtillverkning av stolar vid fabrik i Tibro (Skarab. l.)",
+        "contact": {
+            "phone": "436"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 23
+            }
+        },
+        "foundation_year": 1941
+    },
+    "5": {
+        "name": "Bröderna Ekbergs Eftr. O. Ekberg",
+        "location": "Örnsköldsvik",
+        "business": "Plåtslageri och mek. verkstad. Tillverkar kemiska apparater samt plåtbearbetningsmaskiner såsom figursaxar och plåtbokningsmaskiner",
+        "contact": {
+            "phone": "2417",
+            "postgiro": "63371"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "750,000 kr"
+        },
+        "foundation_year": 1919,
+        "director": "Oskar Ekberg",
+        "sales_manager": "Hugo Ekberg"
+    },
+    "6": {
+        "name": "Bröderna Engblom & C:o.",
+        "location": "Kristinehamn",
+        "business": "Borst- och penselfabrik. Tillverkar hushållsborstar, toalett.borstar, borstar för industriella ändamål samt penslar och träartiklar",
+        "contact": {
+            "phone": [
+                "10499",
+                "10182",
+                "11820"
+            ],
+            "postgiro": "27998"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "foundation_year": 1917
+    },
+    "7": {
+        "name": "AB. Bröderna Engdahls Möbelfabrik",
+        "location": "Örserumsbrunn",
+        "business": "Tillverkar möbler vid fabrik i Örserumsbrunn (Jönköp. l.). Specialitet: matsalsmöbler",
+        "contact": {
+            "phone": "27",
+            "postgiro": "145038"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "275,000 kr"
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1936,
+        "director": "Gilbert Engdahl"
+    },
+    "8": {
+        "name": "AB. Bröderna Envall",
+        "location": "Fellingsbro",
+        "business": "Gjuteri, mek. verkstad och plåtslageri i Fellingsbro (Örebro l.). Tillverkar transmissioner, ljuskopierings- och framkallningsmaskiner samt maskiner för gasverk och bränntorvindustrien, mekaniska verkstadsarbeten, metall- och tackjärnsgjutgods m. m",
+        "contact": {
+            "phone": [
+                "25",
+                "205"
+            ],
+            "postgiro": "23136"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "1,100,000 kr"
+        },
+        "foundation_year": 1909,
+        "corporation_year": 1942,
+        "board": [
+            {
+                "name": "Karl Envall",
+                "role": "disp."
+            },
+            {
+                "name": "Bengt Envall",
+                "role": "ing."
+            },
+            {
+                "name": "Sven Envall",
+                "role": "ing."
+            }
+        ],
+        "director": "Karl Envall"
+    },
+    "9": {
+        "name": "Bröderna Eriksons Mek. Snickerifabrik",
+        "location": "Örebro",
+        "business": "Tillverkar byggnadssnickerier och listverk samt lamelldörrar",
+        "contact": {
+            "phone": [
+                "10292",
+                "12092"
+            ],
+            "postgiro": "88399"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1885,
+        "manager": "O. Welin"
+    }
+}

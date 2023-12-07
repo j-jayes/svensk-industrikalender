@@ -1,0 +1,195 @@
+{
+    "1": {
+        "name": "Alingsås Snickerifabriks AB",
+        "location": "Alingsås",
+        "business": "Sågverk och snickerifabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror samt byggnadssnickerier. Driver handel med byggnadsmaterial.",
+        "contact": {
+            "office": "Ångsågen, Alingsås",
+            "phone": [
+                "50",
+                "1250"
+            ],
+            "postgiro": "164004"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industrial_workers": 41
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1892,
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        }
+    },
+    "2": {
+        "name": "AB. Alingsås Trikåfabrik",
+        "location": "Alingsås",
+        "business": "Tillverkar herrstrumpor, sportstrumpor m. m.",
+        "contact": {
+            "phone": "1417",
+            "postgiro": "46051"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industrial_workers": 30
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1939,
+        "current_name_year": 1943,
+        "predecessor": "AB. Helios Strumpfabriker",
+        "original_name": "AB. Helios Strumpfabriker",
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        }
+    },
+    "3": {
+        "name": "AB. Alka Aluminiumkapslar",
+        "location": "Linköping",
+        "business": "Mek. verkstad. Tillverkar flasktillslutningsmaskiner samt flaskförslutningar såsom patentkork och aluminmmkapslar.",
+        "contact": {
+            "office": "Alkamaskin, Linköping",
+            "phone": [
+                "20808",
+                "23878",
+                "24310"
+            ],
+            "postgiro": "85370"
+        },
+        "financials": {},
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    },
+    "4": {
+        "name": "AB. Alkafol",
+        "location": "Stocholm",
+        "business": "Tillverkar konsthartsfolier",
+        "contact": {
+            "office": "Västberga",
+            "phone": "453400",
+            "postgiro": "251274"
+        },
+        "financials": {
+            "capital": "5,000 kr"
+        },
+        "foundation_year": 1945,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "AB. Allkartong",
+        "location": "Stockholm",
+        "business": "Tillverkar kartonger, pappformar, och runda pappburkar.",
+        "contact": {
+            "office": "Arbetarg* 33 A",
+            "phone": "520055",
+            "postgiro": "154950"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industrial_workers": 70
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1912,
+        "current_name_year": 1938,
+        "original_name": "Pa-N petypi",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "Allkonfektion AB.",
+        "location": "Borås",
+        "business": "Tillverkar dam-, barn- och herxspoxtkläder, byxor, trenchcoats, ulsfrar öch kostymer.",
+        "contact": {
+            "office": "Allkonfektion, Borås",
+            "phone": [
+                "15001",
+                "12001"
+            ],
+            "postgiro": "71347"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industrial_workers": 50,
+                "home_workers": 120
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1928,
+        "current_name_year": 1934,
+        "original_name": "Trikå AB., Ramnås",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "7": {
+        "name": "AllmänG0 AB.",
+        "location": "Borås",
+        "business": "Trikå- och konfektionsfabrik. Tillverkar herrtrikåvaror, arbetskläder och herrkostymer, klänningar samt täcken och täpisserivaror.",
+        "contact": {
+            "office": "Allmänco, Borås",
+            "phone": "Allmänco",
+            "postgiro": "6464"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industrial_workers": 200
+            }
+        },
+        "foundation_year": 1933,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "8": {
+        "name": "Allmänna Betongbyggnadsbyrån",
+        "location": "Stockholm",
+        "business": "Konstruktions- och entreprenadf irmäför industri- och gruvanläggningar, bro-och vattenbyggnader.",
+        "contact": {
+            "office": "Stureg. 10",
+            "phone": "603988",
+            "postgiro": "154311"
+        },
+        "financials": {},
+        "foundation_year": 1925,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "9": {
+        "name": "Allmänna Brandredskapsaffären AB.",
+        "location": "Stockholm",
+        "business": "Mek. verkstad. Tillverkar armatur, brandredskap, mek. stegar, pumpar, skumsläckningsaggregat, slangklämmor m. m.",
+        "contact": {
+            "phone": "Allmänna Brandredskapsaffären AB., Stockholm",
+            "postgiro": "Allmänna Brandredskapsaffären AB."
+        },
+        "financials": {},
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

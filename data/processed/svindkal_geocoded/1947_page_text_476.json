@@ -1,0 +1,231 @@
+{
+    "1": {
+        "name": "Linoljeslageriernas Försäljnings AB.",
+        "location": "Göteborg",
+        "business": "Bolaget handhar försäljningen inom landet av de svenska linoljeslageriernas produkter av linolja, linkakor, och linkak-mjöl.",
+        "contact": {
+            "office": "Mölndal, Gamla Torget, Göteborg 5",
+            "phone": [
+                "272000"
+            ],
+            "postgiro": "12225",
+            "head_office": "Mölndal, Gamla Torget, Göteborg 5",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Henriksdal",
+                    "phone": "437070–72",
+                    "postgiro": "50460"
+                }
+            ],
+            "telegraph": "Linoljebolaget, Göteborg",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_turnover": "22,000,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "Oscar Gullander",
+                "role": "ordf."
+            },
+            {
+                "name": "Edw. H. Thomée",
+                "role": "v. ordf."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "AB. Otto Lion & Co.",
+        "location": "Hälsingborg",
+        "business": "Sidenväveri för tillverkning av klänningstyger, foder- och satinvävnader; blomsterindustri för tillverkning av krans- och dekorationsband, artificiella blommor och dekorationsföremål, blomsterkorgar, begravningsartiklar m. m.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "20410"
+            ],
+            "postgiro": "5423",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Lionco, Hälsingborg",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "300,300 kr",
+            "annual_turnover": "4,000,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "Carl Lööb",
+                "role": "ordf."
+            },
+            {
+                "name": "Lennart Lööb",
+                "role": "dir.-assist."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "3": {
+        "name": "Lars Lissman",
+        "location": "Malungsfors",
+        "business": "Skinnvarufabrik i Malungsfors (Kopparb. l.). Tillverkar skinnbeklädnadsar-tiklar såsom skinnkläder, pälsar, handskar och motormössor.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "12"
+            ],
+            "postgiro": "13557",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "annual_turnover": "250,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1925,
+        "board": [],
+        "coordinates": {
+            "Latitude": 60.7343754,
+            "Longitude": 13.5576468
+        }
+    },
+    "4": {
+        "name": "AB. Lithografiska AB. Norrköping",
+        "location": "Norrköping",
+        "business": "Litografisk anstalt, bok- och ståltryc-keri. Tillverkar kuvert, påsar, kontorsböcker, kartonger, blanketter, spelkort m. m.",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [],
+            "postgiro": "5290",
+            "head_office": "Norrköping",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Drottningg. 18",
+                    "phone": "230630"
+                },
+                {
+                    "location": "Göteborg, Ingenjörsg. 1 B",
+                    "phone": "131106"
+                },
+                {
+                    "location": "Malmö, Mårtensg. 8",
+                    "phone": "24831"
+                }
+            ],
+            "telegraph": "Lithografen, Norrköping",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1858,
+        "board": [],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "5": {
+        "name": "Litotryck, E. Sääw",
+        "location": "Linköping",
+        "business": "Tillverkar etiketter, omslag, tårtpapper samt affärstryck.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "22966"
+            ],
+            "postgiro": "82520",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "annual_turnover": "140,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1932,
+        "board": [],
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    },
+    "6": {
+        "name": "AB. Livbåtsvarvet",
+        "location": "Göteborg",
+        "business": "B åt varv i Varberg och i Allmag, Still-ingsön (Göteb. o. Bohus l.). Tillverkar livbåtar, motor- och segelbåtar.",
+        "contact": {
+            "office": "Göteborg, Kyrkog. 4",
+            "phone": [
+                "118365"
+            ],
+            "postgiro": "42611",
+            "head_office": "Göteborg, Kyrkog. 4",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "26,000 kr",
+            "annual_turnover": "140,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1917,
+        "board": [],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "7": {
+        "name": "Ljuders Nickelsilverfabrik AB.",
+        "location": "Hovmantorp",
+        "business": "Lås- och metallvarufabrik samt metallgjuteri i Hovmantorp (Kronob. l.). Tillverkar lås, metallbeslag, gångjärn, uppstigningshandtag och näthyllor för järnvägsvagnar, för elektr. lokomotiv, för",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": "",
+        "board": [],
+        "coordinates": {
+            "Latitude": 56.78451219999999,
+            "Longitude": 15.1448475
+        }
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "1": {
+        "name": "Danie Isson—D eg erfors AB* Danielssans Verkstäder",
+        "location": "Ängby",
+        "business": "Plåtslageri och mek. verkstad i Kårsta (Stockholms l.)",
+        "products": "Tillverkar brand-, kassa-välvs- och kylrumsdörrar, hissdörrar, gas-och splittersäkra dörrar, kassaskåp och hyllfack samt utför plåtslageri-, svetsnings- och svarvningsarbeten.",
+        "contact": {
+            "office": "Bältarvägen 201",
+            "phone": [
+                "Stockholm 372444"
+            ],
+            "postgiro": "144830"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 24
+            },
+            "annual_turnover": "375,000 kr",
+            "annual_production_value": "375,000 kr"
+        },
+        "foundation_year": 1927,
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "Karl Theodor Danielsson",
+                "role": "verkst. dir."
+            }
+        ],
+        "director": "Harald Danielsson",
+        "coordinates": {
+            "Latitude": 59.3514061,
+            "Longitude": 17.9007135
+        }
+    },
+    "2": {
+        "name": "AB. Dannemora Gruvor",
+        "location": "Dannemora",
+        "business": "Järnmalmsgruvor i Dannemora (Uppsala l.)",
+        "products": "Bryter järnmalm. Bolaget driver jämväl skogshantering och sågverksrörelse.",
+        "contact": {
+            "telegraph": "Gruvkontoret, Dannemora",
+            "phone": "109",
+            "postgiro": "135853"
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "Hj. Åselius",
+                "role": "disp."
+            },
+            {
+                "name": "Nils Elfström",
+                "role": "dir."
+            },
+            {
+                "name": "Karl Rutberg",
+                "role": "dir."
+            },
+            {
+                "name": "Gunnar Sundblad",
+                "role": "dir."
+            }
+        ],
+        "director": "E. Berggren",
+        "managing_director": "Per Olov Holmstrand",
+        "manager": "E. Breitholtz",
+        "coordinates": {
+            "Latitude": 60.1975419,
+            "Longitude": 17.8469454
+        }
+    },
+    "3": {
+        "name": "De Blindas Tekniska Fabrik, AB. Theo-Debas",
+        "location": "Stockholm",
+        "business": "Kem. tekn. fabrik",
+        "products": "Tillverkar tvätt-och rengöringsmedel såsom tvätt-, disk-och skurpulver, tvål, bonvax, rengöringsmedel för golv, maskiner m. m.",
+        "contact": {
+            "office": "Virkesvägen 6",
+            "telegraph": "Deblifa, Stockholm",
+            "phone": "440280",
+            "postgiro": "155667"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": 1937,
+        "current_name_year": 1945,
+        "board": [
+            {
+                "name": "Rolf Dillen",
+                "role": "adv."
+            },
+            {
+                "name": "Gunnar Alexanderson",
+                "role": "herr"
+            },
+            {
+                "name": "Charles Hedkvist",
+                "role": "sekr."
+            },
+            {
+                "name": "Ernst Retsler",
+                "role": "disp."
+            },
+            {
+                "name": "Sven Thörnstrand",
+                "role": "dir."
+            }
+        ],
+        "managing_director": "Sven Thörnstrand",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Defibrator",
+        "location": "Stockholm",
+        "business": "Konsulterande ingenjörsfirma för wall-board- och massaindustrierna. Specialmaskiner enligt firmans konstruktioner tillverkas vid olika verkstäder.",
+        "contact": {
+            "office": "Kungsg. 32",
+            "telegraph": "Defibrator, Stockholm",
+            "phone": "235185"
+        },
+        "financials": {
+            "capital": "600,000 kr"
+        },
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "Gunnar Magnuson",
+                "role": "dir."
+            },
+            {
+                "name": "Arne Asplund",
+                "role": "ing."
+            },
+            {
+                "name": "Alvar Bylund",
+                "role": "ing."
+            },
+            {
+                "name": "Birger Dahlerus",
+                "role": "civiling."
+            },
+            {
+                "name": "Sven Widemar",
+                "role": "jur. kand."
+            }
+        ],
+        "director": "Gunnar Magnuson",
+        "managing_director": "Arne Asplund",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "De Förenade Kolsyrefabrikernas AB.",
+        "location": "Stockholm",
+        "business": "Kolsyrefabriker i Stockholm (Svenska Kolsyrefabriken), Limhamn (Malmö) och Göteborg. Tillverkar kolsyra och kol-syreis (torris).",
+        "contact": {
+            "office": "Lövholmsbrinken 6, Liljeholmen",
+            "phone": "452720",
+            "telegraph": "Kolsyre, Stockholm, Göteborg o. Malmö",
+            "postgiro": "22207",
+            "sales_offices": [
+                {
+                    "location": "Limhamn",
+                    "phone": "Thure Söderberg"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "Ove Aller"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,011,960 kr",
+            "employees": {
+                "industriarb": 44
+            },
+            "annual_production_value": "650,000 kr"
+        },
+        "corporation_year": 1900,
+        "board": [
+            {
+                "name": "Max Nygren",
+                "role": "dir."
+            },
+            {
+                "name": "Hj. A:n Tesch",
+                "role": "apot."
+            },
+            {
+                "name": "L. G. Loberg",
+                "role": "disp."
+            },
+            {
+                "name": "Erik Olson",
+                "role": "civiling."
+            },
+            {
+                "name": "T. M. Simonsson",
+                "role": "dir."
+            },
+            {
+                "name": "Walter Wehtje",
+                "role": "dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "De Ceersfors Bruk",
+        "location": "Degeron",
+        "predecessor": "AB. Qvarnshammars Jernbruk, Degerön",
+        "coordinates": {
+            "Latitude": 58.70009630000001,
+            "Longitude": 15.15074
+        }
+    },
+    "7": {
+        "name": "Degerfors Järnverks AB.",
+        "location": "Deg erfors",
+        "business": "Järnverk med elektr. masugn",
+        "coordinates": {
+            "Latitude": 59.2391027,
+            "Longitude": 14.4339179
+        }
+    }
+}

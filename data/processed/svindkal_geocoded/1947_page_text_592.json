@@ -1,0 +1,212 @@
+{
+    "1": {
+        "name": "AB. Janne Richardson",
+        "location": "Halmstad",
+        "business": "Läder- och skofabrik",
+        "products": "Tillverkar läder, skodon samt skinn- och filttofflor; utför reparationer av automobiler m. m.",
+        "contact": {
+            "office": "Halmstad",
+            "phone": [
+                "Janne Richardson"
+            ],
+            "postgiro": "30540",
+            "telegraph": "Richardi, Halmstad"
+        },
+        "financials": {
+            "capital": "510,000 kr",
+            "employees": {
+                "industriarb": 180
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1925,
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "Janne Richardson",
+                "role": "ordf."
+            },
+            {
+                "name": "fröken M. Hallen"
+            }
+        ],
+        "director": "Erling Richard",
+        "managing_director": "Erling Richard",
+        "sales_manager": "fru A. Richard",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        }
+    },
+    "2": {
+        "name": "AB. Gusti Richter",
+        "location": "Lysekil",
+        "business": "Konservfabrik",
+        "products": "Tillverkar ansjovis-, sill- och fiskkonserver. Varunamn: »Tärnan», »Yggdrasil», »överstesill», »Mälar-drottning», »L’loyd», »Herrgårdssill», »Nubbesill» o. »Yachtsill» m. fl.",
+        "contact": {
+            "office": "Lysekil",
+            "phone": [
+                "12"
+            ],
+            "postgiro": "20825",
+            "telegraph": "Richter, Lysekil"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1916,
+        "board": [
+            {
+                "name": "kanslirådet C. Wilh. Hagman",
+                "role": "ordf."
+            },
+            {
+                "name": "kapten Hans Granfelt"
+            },
+            {
+                "name": "v. konsul James öhrnberg"
+            }
+        ],
+        "director": "James Öhrnberg",
+        "managing_director": "James Öhrnberg",
+        "coordinates": {
+            "Latitude": 58.27557299999999,
+            "Longitude": 11.435558
+        }
+    },
+    "3": {
+        "name": "AB. Richters Fabriker",
+        "location": "Malmö",
+        "business": "Tillverkar dam- Och herrparaplyer",
+        "contact": {
+            "office": "Malmö",
+            "phone": [
+                "20762",
+                "20765"
+            ],
+            "postgiro": "38095",
+            "telegraph": "Käpprichter, Malmö"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": 1879,
+        "corporation_year": 1909,
+        "board": [
+            {
+                "name": "Carl Herman Richter"
+            }
+        ],
+        "director": "Carl Herman Richter",
+        "managing_director": "Carl Herman Richter",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "4": {
+        "name": "Riddarhyt^é AB.",
+        "location": "Riddarhyttan",
+        "business": "Bergverk",
+        "products": "Bryter och anrikar järn- och kopparmalm; tillverkar sinter, tackjärn, råskenor samt sågade och hyvlade trävaror.",
+        "contact": {
+            "office": "Riddarhyttan",
+            "phone": [
+                "Skinnskatteberg 13001-—05"
+            ],
+            "postgiro": "9727",
+            "telegraph": "Riddarbruk, Köping"
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_turnover": "8,000,000 kr"
+        },
+        "foundation_year": 1877,
+        "board": [
+            {
+                "name": "bankdir. Gustaf Söderlund",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Mauritz Carlson"
+            },
+            {
+                "name": "bankdir. Erik Lundh"
+            },
+            {
+                "name": "disp. Thorsten Wigelius"
+            },
+            {
+                "name": "dir. Karl K:son Wistrand"
+            },
+            {
+                "name": "disp. O. Åkerström"
+            }
+        ],
+        "director": "O. Åkerström",
+        "sales_manager": "Erik Fredriksson",
+        "manager": "B. Enström",
+        "coordinates": {
+            "Latitude": 59.80851819999999,
+            "Longitude": 15.5491974
+        }
+    },
+    "5": {
+        "name": "AB. Rimforsa Möbelfabrik",
+        "location": "Rimforsa",
+        "business": "Tillverkar björkmöbler",
+        "coordinates": {
+            "Latitude": 58.1368196,
+            "Longitude": 15.6812611
+        }
+    },
+    "6": {
+        "name": "AB. Rinaldos Kartongfabrik",
+        "location": "Kumla",
+        "business": "Tillverkar kartonger",
+        "contact": {
+            "phone": [
+                "70082",
+                "71111"
+            ],
+            "postgiro": "30347"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1915,
+        "corporation_year": 1942,
+        "director": "Gösta Rinaldo",
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        }
+    },
+    "7": {
+        "name": "Ringarums Tegelbruk",
+        "location": "Ringarum",
+        "business": "Tillverkar mur-, tak- och reveterings-tegel, skorstenstegel samt dräneringsrör",
+        "contact": {
+            "office": "Ringarum"
+        },
+        "coordinates": {
+            "Latitude": 58.3327141,
+            "Longitude": 16.4462982
+        }
+    }
+}

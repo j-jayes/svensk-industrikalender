@@ -1,0 +1,253 @@
+{
+    "1": {
+        "name": "Orion",
+        "location": "Halmstad",
+        "business": "Okänd",
+        "contact": {
+            "office": "Huvudkontor: Halmstad",
+            "phone": [
+                "235",
+                "4235"
+            ],
+            "postgiro": "93479",
+            "head_office": "Lindesberg",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Västerlångg. 40",
+                    "phone": "107705"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "Okänd",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "Okänd",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1935,
+        "owners": [
+            "fabr. Ebbe Johanson",
+            "ing. Sture Johansson"
+        ]
+    },
+    "2": {
+        "name": "Orrefors Glasbruk",
+        "location": "Orrefors and Hovmantorp",
+        "business": "Tillverkar kristall-och hushållsglas, konstglas, belysningsarmatur samt flaskor och annat glas för tekniskt bruk.",
+        "contact": {
+            "telegraph": "Orreglas, Orrefors",
+            "phone": [
+                "1",
+                "2",
+                "4",
+                "6",
+                "112"
+            ],
+            "postgiro": "9220"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "Okänd",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "grossh. Robert Ljunglöf",
+                "role": "ordf."
+            },
+            {
+                "name": "konsul Henning Beyer",
+                "role": "Okänd"
+            },
+            {
+                "name": "konsulinnan S. Beyer",
+                "role": "Okänd"
+            },
+            {
+                "name": "dir. Nils Johansson",
+                "role": "Okänd"
+            }
+        ],
+        "director": "Nils Johansson",
+        "managing_director": "Okänd",
+        "sales_manager": "Okänd"
+    },
+    "3": {
+        "name": "Orrefors Skogar",
+        "location": "Orrefors (Kronobergs l.)",
+        "business": "Tillverkar sågade och hyvlade trävaror samt träull. Idkar även jordbruk och skogshantering.",
+        "contact": {
+            "telegraph": "Orreträ, Orrefors",
+            "phone": [
+                "7",
+                "1",
+                "5"
+            ],
+            "postgiro": "137117"
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb": 115
+            },
+            "annual_turnover": "Okänd",
+            "annual_production_value": "600,000 kr"
+        },
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "f.d. justitierådet Joh. Hellner",
+                "role": "ordf."
+            },
+            {
+                "name": "konsul Henning Beyer",
+                "role": "Okänd"
+            },
+            {
+                "name": "konsul Carl Ekman",
+                "role": "Okänd"
+            },
+            {
+                "name": "dir. Erik Hedberg",
+                "role": "Okänd"
+            },
+            {
+                "name": "överste Folke Ramström",
+                "role": "Okänd"
+            }
+        ],
+        "director": "Erik Hedberg",
+        "managing_director": "Okänd",
+        "sales_manager": "Okänd"
+    },
+    "4": {
+        "name": "Orresta Snickerifabrik",
+        "location": "Orresta (Västmanl)",
+        "business": "Tillverkar byggnadssnickerier såsom fönster, dörrar och inredningar samt parkettstav av ek. Specialitet: lamelldörrar.",
+        "contact": {
+            "phone": [
+                "27",
+                "24"
+            ],
+            "postgiro": "10621"
+        },
+        "financials": {
+            "capital": "110,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "Okänd",
+            "annual_production_value": "450,000 kr"
+        },
+        "corporation_year": 1928
+    },
+    "5": {
+        "name": "Orresta Tegelbruk",
+        "location": "Orresta (Västmanl l.)",
+        "business": "Tillverkar taktegel och dräneringsrör.",
+        "contact": {
+            "phone": [
+                "27",
+                "30"
+            ],
+            "postgiro": "134306"
+        },
+        "financials": {
+            "capital": "170,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "Okänd",
+            "annual_production_value": "Okänd"
+        },
+        "corporation_year": 1937
+    },
+    "6": {
+        "name": "Orrvikens Såg & Snickerifabrik",
+        "location": "Fanbyn and Orrviken (Jämtl. l.)",
+        "business": "Tillverkar sågade och hyvlade trävaror, listverk, byggnadssnickerier, möbler och inredningar samt monteringsfärdiga trähus.",
+        "contact": {
+            "office": "Kontor: Orrviken",
+            "phone": [
+                "7"
+            ],
+            "postgiro": "27030"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "Okänd",
+            "annual_production_value": "370,000 kr"
+        },
+        "corporation_year": 1934
+    },
+    "7": {
+        "name": "Orsa Kättingfabrik",
+        "location": "Orsa (Kopparb. l.)",
+        "business": "Tillverkar kätting, flottningssmiden, ankare och draggar, smiden och kätting för järnvägsvagnar, skogsredskap, järnkonstruktioner m. m.",
+        "contact": {
+            "telegraph": "Järnbirger, Orsa",
+            "phone": [
+                "Birger Olssons"
+            ],
+            "postgiro": "10459"
+        },
+        "financials": {
+            "capital": "Okänd",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "Okänd",
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1909,
+        "director": "dir. Birger Olsson"
+    },
+    "8": {
+        "name": "Orsa Sågbladsfabrik",
+        "location": "Orsa (Kopparb. l.)",
+        "business": "Tillverkar vedsågblad, bandsågblad, sågbågar, timmersågar, stocksågar, handsågar, sågfilklovar samt hjälp redskap för sågar vid fabrik i Orsa (Kopparb. l.). Varumärke: »Orsia».",
+        "contact": {
+            "phone": [
+                "481"
+            ],
+            "postgiro": "Okänd"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "Okänd",
+            "annual_production_value": "800,000 kr"
+        },
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "järnhandl. Tuwe Olsson",
+                "role": "Okänd"
+            },
+            {
+                "name": "ing. Gösta Timander",
+                "role": "Okänd"
+            }
+        ],
+        "director": "Birger Olsson"
+    },
+    "9": {
+        "name": "Orstadius Boktryckeri AB.",
+        "location": "Göteborg",
+        "business": "Utför boktryck, affärs- och reklamtryck.",
+        "contact": {
+            "phone": "Okänd"
+        }
+    }
+}

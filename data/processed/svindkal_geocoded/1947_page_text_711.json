@@ -1,0 +1,229 @@
+{
+    "1": {
+        "name": "Tekniska Fabriken Ama",
+        "location": "Stockholm",
+        "business": "Tillverkar tuggummi och krämpulver",
+        "contact": {
+            "office": "Igeldammsg. 20 B",
+            "phone": [
+                "538687",
+                "313430"
+            ],
+            "postgiro": "50011"
+        },
+        "financials": {
+            "capital": "480,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "750,000 kr",
+            "annual_production_value": "750,000 kr"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "Birger Delin",
+                "role": "ordf."
+            },
+            {
+                "name": "Harald Dahlin",
+                "role": "adv."
+            },
+            {
+                "name": "Hans Fryk-man",
+                "role": "civiling."
+            },
+            {
+                "name": "Karl Hedin",
+                "role": "disp."
+            },
+            {
+                "name": "Eric Krafft",
+                "role": "civiling."
+            }
+        ],
+        "owners": [
+            "Max Forslund"
+        ],
+        "director": "Hans Frykman",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "AB. Tekniska Fabriken Gripen",
+        "location": "Linköping",
+        "business": "Tillverkar tvål, tvättmedel, parfymer, toalettartiklar, bläck, läderkonserveringsmedel m. m.",
+        "contact": {
+            "telegraph": "Gripen, Linköping",
+            "phone": "29950",
+            "postgiro": "6219"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1890,
+        "board": [
+            {
+                "name": "Frans Håkanson",
+                "role": "ordf."
+            },
+            {
+                "name": "S. Gyrulf",
+                "role": "köpm."
+            },
+            {
+                "name": "John Hök",
+                "role": "dir."
+            }
+        ],
+        "owners": [
+            "John Hök"
+        ],
+        "director": "John Hök",
+        "manager": "Gerda Björkman",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    },
+    "3": {
+        "name": "AB. Tekniska Fabriken Nitor AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar lutpulver, bonvax, disk- och rengöringsmedel, tvättpulver, metallputs-medel, zinkputs, buteljlack m. m.",
+        "contact": {
+            "office": "Maria Prästgårdsg. 31",
+            "phone": [
+                "433120",
+                "434554"
+            ],
+            "postgiro": "840"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "annual_turnover": "420,000 kr",
+            "annual_production_value": "420,000 kr"
+        },
+        "foundation_year": 1927,
+        "director": "Hugo Grawström",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Tekniska Fabriken Skåne",
+        "location": "Malmö",
+        "business": "Tillverkar preparat för sko-, läder- och träindustrin samt lim, lösningar och rengöringsmedel.",
+        "contact": {
+            "office": "Rosenlundsg. 24",
+            "telegraph": "Limteknik. Malmö",
+            "phone": [
+                "25292",
+                "76254"
+            ],
+            "postgiro": "147707"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1936,
+        "director": "Elvir Lilja",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "5": {
+        "name": "Tekniska Fabriken Svanen",
+        "location": "Mölndal",
+        "business": "Tillverkar såpa",
+        "contact": {
+            "phone": "Göteborg 270065",
+            "postgiro": "12066"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1903,
+        "managing_director": "Nils Falkman",
+        "sales_manager": "V. Tolleson",
+        "coordinates": {
+            "Latitude": 57.65,
+            "Longitude": 12.016667
+        }
+    },
+    "6": {
+        "name": "AB. Tekniska Fabriken Thor",
+        "location": "Nässjö",
+        "business": "Tillverkar såpa",
+        "contact": {
+            "phone": "14",
+            "postgiro": "37069"
+        },
+        "financials": {
+            "capital": "197,600 kr",
+            "employees": {
+                "Arb.-antal": 3
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1907,
+        "director": "Birger Fritz",
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        }
+    },
+    "7": {
+        "name": "AB. Tekniska Textilfabriken",
+        "location": "Hälsingborg",
+        "business": "Tillverkar åderbråcksstrumpor",
+        "contact": {
+            "telegraph": "Tetex, Hälsingborg",
+            "phone": "10639",
+            "postgiro": "94480"
+        },
+        "financials": {
+            "capital": "12,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "70,000 kr"
+        },
+        "foundation_year": 1935,
+        "director": "Alf Krumlinde",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "8": {
+        "name": "Telefon AB. L. M. Ericsson",
+        "location": "Stockholm",
+        "business": "Elektromekaniska verkstäder i Midsommarkransen, Stockholm och kabelverk i Älvsjö, Stockholm. Tillverkar telefonapparater och telefonväxlar, automatiska och manuella, för alla ändamål, apparater och anläggningar för bärfrekvensteletonl och -telegrafi, pu-pinspolar, överdrag, apparater för tonfrekvenssignalering, mätinstrument, brand- och tjuvalarmanläggningar, tele-signalanläggningar, centralradio- och högtalaranläggningar, nivåvisare, maskin-kontrollapparater, tidkontrollapparater, elektriska ur, likriktare och laddnings-anordningar, elektronrör, elektriska ställverk samt signal- och säkerhetsapparater för järnvägar, linjemateriel, elektrisk ledningstråd och kablar för teletekniska ändamål.",
+        "contact": {
+            "office": "Midsommarkransen",
+            "phone": "Stockholm 32",
+            "postgiro": "1780",
+            "kabelverk": "Älvsjö",
+            "telegraph": "Kabelverk, Älvsjö"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

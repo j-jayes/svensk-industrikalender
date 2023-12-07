@@ -1,0 +1,246 @@
+{
+    "1": {
+        "name": "Bröderna Sterner",
+        "location": "Leksand",
+        "business": "Tillverkar skogs- och sportkängor samt vandrarskor vid fabrik i Leksand (Kopparb. l.). Firman driver även handel med hudar och skinn.",
+        "contact": {
+            "phone": [
+                "123",
+                "456"
+            ],
+            "postgiro": "91923"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 57
+            },
+            "annual_production_value": "1,400,000 kr",
+            "foundation_year": 1928
+        },
+        "owners": [
+            "fabr. Johan Sterner",
+            "fabr. Fredrik Sterner"
+        ]
+    },
+    "2": {
+        "name": "Bröderna Styrenius Stenhuggeri AB.",
+        "location": "Västervik",
+        "business": "Stenbrott i Törnsfall och Lofta (båda i Kalmar l.), stenhuggeri och sliperi i Västervik. Tillverkar såsom specialitet gravvårdar av svart granit.",
+        "contact": {
+            "phone": "91",
+            "postgiro": "6083"
+        },
+        "financials": {
+            "capital": "110,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "750,000 kr",
+            "foundation_year": 1897,
+            "corporation_year": 1913
+        },
+        "board": [
+            {
+                "name": "fru Elna Anderson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. David Styrenius",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Erik Styrenius",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kamrer Josef Styrenius",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fabr. Olof Styrenius",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Erik Styrenius",
+                "role": "Disp."
+            }
+        ]
+    },
+    "3": {
+        "name": "Bröderna Svenson",
+        "location": "Svenljunga",
+        "business": "Sågverk och hyvleri i Mobacka, Svenljunga (Älvsb. l.). Tillverkar sågade och hyvlade trävaror. Firman driver även jordbruk och skogshantering.",
+        "contact": {
+            "phone": "1015"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "130,000 kbf trävaror",
+            "foundation_year": 1922
+        },
+        "owners": [
+            "trävaruhandl. Ragnar Svenson",
+            "trävaruhandl. Jerker Svenson"
+        ]
+    },
+    "4": {
+        "name": "AB. Bröderna Svenssons Stenhuggeri",
+        "location": "Emmaboda",
+        "business": "Stenhuggeri och stensliperi i Emmaboda (Kalmar l.) och Nättraby (Blekinge 1.), stenbrott i Snöfleboda pr Vilshult (Blekinge l.) samt i Bondeskog pr Skruf (Kronob. l.). Tillverkar som specialiteter gravvårdar och askurnor.",
+        "contact": {
+            "telegraph": "Monumentsten, Emmaboda",
+            "phone": [
+                "22",
+                "225"
+            ],
+            "postgiro": "22489"
+        },
+        "financials": {
+            "capital": "85,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_production_value": "800,000 kr",
+            "foundation_year": 1907,
+            "corporation_year": 1927
+        },
+        "board": [
+            {
+                "name": "disp. Gustaf A. Swedeborg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kassörska Seri Philipsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fabr. Arvid Svensson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "G. A. Swedeborg",
+                "role": "Disp."
+            }
+        ]
+    },
+    "5": {
+        "name": "Bröderna Söderbergs Metallgjuteri",
+        "location": "Eskilstuna",
+        "business": "Metallgjuteri och mek. verkstad. Utför gjutningar i metall och aluminium i såväl sand som kokill. Tillverkar maskindelar i speciallegeringar (»Sicobrons», »Argal» samt »Ceraluminer»), affärsm-redningar av lättmetall, förkromat nysilver, rostfritt material för charkuterier och konditorier samt båt- och byggnadsbeslag. Varumärke: »BSM».",
+        "contact": {
+            "telegraph": "Metallgjuteriet, Eskilstuna",
+            "phone": "Bröderna Söderberg",
+            "postgiro": "10709"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 185
+            },
+            "annual_production_value": "3,500,000 kr",
+            "foundation_year": 1905
+        },
+        "owners": [
+            "fabr. Carl N. Söderberg"
+        ],
+        "board": [
+            {
+                "name": "Eric G. Andersson",
+                "role": "Kamrer"
+            },
+            {
+                "name": "R. Jernell",
+                "role": "Gjuteriing."
+            },
+            {
+                "name": "G. B. Westerfeldt",
+                "role": "Verkstadsing."
+            }
+        ]
+    },
+    "6": {
+        "name": "AB. Bröderna Thörner",
+        "location": "Kumla",
+        "business": "Tillverkar durksydda och sandalsydda skodon.",
+        "contact": {
+            "phone": "70371",
+            "postgiro": "24868"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "300,000 kr",
+            "foundation_year": 1927,
+            "corporation_year": 1945
+        },
+        "owners": [
+            "fabr. Theodor Thörner",
+            "fabr. Ragnar Thörner"
+        ]
+    },
+    "7": {
+        "name": "Bröderna Timander",
+        "location": "Lastad",
+        "business": "Sågverk och hyvleri i Böja, Låstad (Skarab. l.). Tillverkar sågade och hyvlade trävaror. Firman driver även jordbruk och skogshantering.",
+        "contact": {
+            "phone": "Låstadby 4",
+            "postgiro": "97313"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "owners": [
+            "sågverksäg. Birger Timander",
+            "sågverksäg. Valdemar Timander"
+        ]
+    },
+    "8": {
+        "name": "AB. Bröderna Troedson",
+        "location": "Bjärnum",
+        "business": "Möbelfabrik och sågverk i Bjärnum (Kristianst. l.). Tillverkar standardbokhyllor, enrums- och sovrumsmöbler, köksmöbler samt sågade trävaror.",
+        "contact": {
+            "phone": "3",
+            "postgiro": "94138"
+        },
+        "financials": {
+            "capital": "42,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "275,000 kr",
+            "foundation_year": 1900,
+            "corporation_year": 1938
+        },
+        "board": [
+            {
+                "name": "disp. Ernst Troedson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "adv. Tage Troedson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Ernst Troedson",
+                "role": "Disp."
+            }
+        ]
+    },
+    "9": {
+        "name": "Bröderna Tysklind AB.",
+        "location": "Insjön",
+        "business": "Fiskredskapsfabrik vid Insjön (Kopparb. l.). Tillverkar fisknät, ryssjor, no-tar, håvar, kräftredskap, fiskmjärdar (märke: »Galvano») samt sportfiskeredskap.",
+        "financials": {
+            "employees": {
+                "industriarb": 0
+            },
+            "foundation_year": 0
+        }
+    }
+}

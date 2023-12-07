@@ -1,0 +1,275 @@
+{
+    "1": {
+        "name": "Vetlanda Ullspinneri AB.",
+        "location": "Vetlanda",
+        "business": "Ullspinneri, väveri och färgeri",
+        "products": "Tillverkar ullgarn, filtar och möbeltyg. Varumärken: »Vetlandafilt» o. »Njudungsfilt».",
+        "contact": {
+            "office": "Sjunnenn, Vetlanda",
+            "phone": [
+                "Spinneribolaget"
+            ],
+            "postgiro": "24013"
+        },
+        "financials": {
+            "capital": "450,000 kr",
+            "employees": {
+                "industriarb": 117
+            },
+            "annual_turnover": "Unknown",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "John F. Bergfeldt",
+                "role": "disp."
+            },
+            {
+                "name": "Johan G. Bergfeldt",
+                "role": "chefsassist."
+            },
+            {
+                "name": "H. Biilow",
+                "role": "mäklare"
+            },
+            {
+                "name": "B. Netterbladt",
+                "role": "bankkamrer"
+            },
+            {
+                "name": "A. Thunborg",
+                "role": "handl."
+            }
+        ],
+        "director": "John F. Bergfeldt"
+    },
+    "2": {
+        "name": "AB. J. A. Wettergren & Co.",
+        "location": "Göteborg",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar dam- och backfisehkappor, dräkter samt pälskappor.",
+        "contact": {
+            "office": "Wollins Trappor, Göteborg",
+            "phone": [
+                "Wettergrens"
+            ],
+            "postgiro": "7500",
+            "head_office": "Oscarsg. 4"
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industriarb": 660
+            },
+            "annual_turnover": "12,000,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1836,
+        "board": [
+            {
+                "name": "Ebbe Lundberg",
+                "role": "bankdir."
+            },
+            {
+                "name": "Conrad Ankarcrona",
+                "role": "aktuarie"
+            },
+            {
+                "name": "Fredrik Holm",
+                "role": "dir."
+            },
+            {
+                "name": "Thorbjörn Holm",
+                "role": "dir."
+            },
+            {
+                "name": "Henning Settergren",
+                "role": "dir."
+            }
+        ],
+        "director": "Thorbjörn Holm",
+        "managing_director": "Fredrik Holm",
+        "sales_manager": "Torsten Lindros"
+    },
+    "3": {
+        "name": "S. A. Wetterlings Manufaktur AB.",
+        "location": "Storvik",
+        "business": "Yxfabrik",
+        "products": "Tillverkar hand- och huggyxor, timmermans-, skogs- och slaktbilor, släggyxor och vedkilar m. fl. typer. Varumärken: »Vallfors» o. »EX».",
+        "contact": {
+            "phone": [
+                "22"
+            ],
+            "postgiro": "36487"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "450,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1880,
+        "board": [
+            {
+                "name": "S. M. Liliebladh",
+                "role": "dir."
+            },
+            {
+                "name": "P. Herman Jonsson",
+                "role": "järnhandl."
+            },
+            {
+                "name": "Gustav Jungefors",
+                "role": "dir."
+            }
+        ],
+        "director": "Gustav Jungefors",
+        "manager": "Erik Högström"
+    },
+    "4": {
+        "name": "AB. Wexiö Bayerska Bryggeri",
+        "location": "Växjö",
+        "business": "Bryggeri",
+        "products": "Tillverkar malt- och läskedrycker.",
+        "contact": {
+            "phone": [
+                " Bayerska"
+            ],
+            "postgiro": "23075"
+        },
+        "financials": {
+            "capital": "499,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1864,
+        "board": [
+            {
+                "name": "Hj. Samuelson",
+                "role": "speditör"
+            },
+            {
+                "name": "C.-O. Agell",
+                "role": "överste"
+            },
+            {
+                "name": "G. H:son Peters",
+                "role": "bryggmäst."
+            },
+            {
+                "name": "Oscar Samuelson",
+                "role": "disp."
+            }
+        ],
+        "director": "major Georg Agell"
+    },
+    "5": {
+        "name": "Wäxjö Elektromek. Verkstad",
+        "location": "Växjö",
+        "business": "Elektronikverkstad",
+        "products": "Utför omlindningar, reparationer och provningar av elektr. maskiner och apparater samt reparerar och laddar ackumulatorbatterier.",
+        "contact": {
+            "phone": [
+                "2826"
+            ],
+            "postgiro": "30249"
+        },
+        "financials": {
+            "employees": {
+                "arb-antal": 6
+            },
+            "annual_turnover": "40,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1919,
+        "owner": "Kurt A. Sjölin"
+    },
+    "6": {
+        "name": "AB. Växjö Konfektionsfabrik",
+        "location": "Bäppe",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar barn-, flick- och damkappor samt gossrockar.",
+        "contact": {
+            "phone": [
+                "Växjö 6090"
+            ],
+            "postgiro": "285240",
+            "sales_office": {
+                "location": "Stockholm",
+                "phone": "673747"
+            }
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "owner": "Inge Distner",
+        "director": "Sune Nyman"
+    },
+    "7": {
+        "name": "AB. Wexiö Mek. Verkstad",
+        "location": "Växjö",
+        "business": "Maskintillverkning",
+        "products": "Tillverkar charkuteri- och livsmedelsmaskiner samt gjutgods.",
+        "contact": {
+            "phone": [
+                "1508",
+                "2156"
+            ],
+            "postgiro": "9719"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_turnover": "1,900,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "K. Leube",
+                "role": "dir."
+            },
+            {
+                "name": "J. Schytt",
+                "role": "dir."
+            },
+            {
+                "name": "H. Thaning",
+                "role": "dir."
+            }
+        ],
+        "manager": "Johan Schindeler"
+    },
+    "8": {
+        "name": "Weydes Tekn. Fabriks AB.",
+        "location": "Norrköping",
+        "business": "Tillverkning av tekniska produkter",
+        "products": "Tillverkar såpa, tvål, tråddragningsmedel samt kem. tekn. preparat. Varumärken: »Flipp» samt »Bosistos» eucalyptusolja o. -tabletter.",
+        "contact": {
+            "telegraph": "Wetefa, Norrköping",
+            "phone": [
+                "29790"
+            ],
+            "postgiro": "11694",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "109474"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "1": {
+        "name": "Vidus-Wii",
+        "location": "Arvika",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar kompletteringsmöbler och inredningar samt elektr. belysningsarmatur.",
+        "contact": {
+            "office": "Vidus, Arvika",
+            "phone": [
+                "130"
+            ],
+            "postgiro": "31080",
+            "head_office": "Vidus, Arvika",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "206190"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "1,500 kbm trävaror",
+            "annual_production_value": "1,5 milj. st. tegel"
+        },
+        "foundation_year": 1915,
+        "director": "Rolf-Henning Stjärn-swärcL",
+        "coordinates": {
+            "Latitude": 59.6548534,
+            "Longitude": 12.592136
+        }
+    },
+    "2": {
+        "name": "Vieille Montagne",
+        "location": "Åmmeberg",
+        "business": "Zink- och blygruvor samt anrikningsverk",
+        "products": "Bryter och anrikar zink- och blymalm.",
+        "contact": {
+            "office": "Åmmeberg",
+            "phone": [
+                "Åmmeberg 21"
+            ],
+            "telegraph": "Vieilmont, Askersund",
+            "sales_offices": [
+                {
+                    "location": "Zinkgruvan",
+                    "phone": ""
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": "4,000,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": "",
+        "owners": "La Société des mines et fonderies de zinc de la Vieille Montagne, Angleur, Belgien",
+        "director": "civiling. Sven Torell",
+        "manager": "V. Davignon",
+        "treasurer": "Reinhold Jonsson",
+        "engineering_managers": [
+            "Harry Holm",
+            "E. Mueller",
+            "Algot Persson"
+        ],
+        "coordinates": {
+            "Latitude": 58.86574969999999,
+            "Longitude": 14.9995161
+        }
+    },
+    "3": {
+        "name": "Wifstavarfs AB",
+        "location": "Vivstavarv",
+        "business": "Sågverk, hyvleri, wallboardfabrik och sulfatfabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror, sulfat- och sulfitcellulosa, sulfitsprit, wallboard, papp, terpentin, flytande harts m. m.",
+        "contact": {
+            "office": "Wifsta, Sundsvall",
+            "phone": [
+                "Sundsvall 74400"
+            ]
+        },
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    },
+    "4": {
+        "name": "AB. Oscar Wigén",
+        "location": "Tranås",
+        "business": "Päls- och mössfabrik",
+        "contact": {
+            "office": "Wigén, Tranås",
+            "phone": [
+                "4195"
+            ],
+            "postgiro": "11698",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "110435, 118406"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "152650"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "648,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": "3,500,000 kr"
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "Carl Annerfeldt",
+                "role": "bankdir"
+            },
+            {
+                "name": "Manfred Lebenberg",
+                "role": "disp"
+            },
+            {
+                "name": "H. Ode",
+                "role": "disp"
+            },
+            {
+                "name": "Gunnar Perlind",
+                "role": "dir"
+            },
+            {
+                "name": "Erik Rosén",
+                "role": "herr"
+            }
+        ],
+        "director": "Gunnar Perlind",
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        }
+    },
+    "5": {
+        "name": "AB. Vigär",
+        "location": "Hälsingborg",
+        "business": "Kem.-teknisk fabrik",
+        "products": "Tillverkar vitamin jästtabletter.",
+        "contact": {
+            "office": "Karl Krooksg. 65",
+            "phone": [
+                "14701"
+            ],
+            "postgiro": "92088",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "230645"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "58,100 kr",
+            "employees": {
+                "industriarb": null
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1938,
+        "director": "frih. Hans Henric M. Ramel",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "6": {
+        "name": "Wii Elektriska AB",
+        "location": "Sundsvall",
+        "business": "Elektr. vattenkraftstation",
+        "products": "Distribuerar elektr. energi till Sundsvalls stad samt en del storindustrier i Sundsvallsdistriktet.",
+        "contact": {
+            "phone": [
+                "55585"
+            ]
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "foundation_year": 1898
+        },
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        }
+    }
+}

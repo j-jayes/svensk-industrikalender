@@ -1,0 +1,170 @@
+{
+    "1": {
+        "name": "Kinna Cardinfabrik",
+        "location": "Kinna",
+        "business": "Tillverkar gardin-, draperi- och möbeltyger samt konstsilkevävnader vid väveri",
+        "contact": {
+            "office": "Kinna",
+            "phone": [
+                "10292"
+            ],
+            "postgiro": "81750"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1931,
+        "owners": [
+            "fabr. Erik W. Nilsson",
+            "fabr. Josef Nilson"
+        ]
+    },
+    "2": {
+        "name": "Kinna Yllefabrik",
+        "location": "Kinna",
+        "business": "Väveri, färgeri, trikå- och konfektionsfabrik i Kinna",
+        "contact": {
+            "office": "Kinna",
+            "phone": [
+                "10143",
+                "10053"
+            ],
+            "postgiro": "12732"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1926,
+        "owner": "dir. Verner Werner gren"
+    },
+    "3": {
+        "name": "Kinnahults Trikåfabrik",
+        "location": "Kinnahult",
+        "business": "Tillverkar herr- och damunderkläder",
+        "contact": {
+            "office": "Kinnahult",
+            "phone": "Kinna 10288",
+            "postgiro": "162299"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1934,
+        "owner": "fabr. Sigfrid Johansson"
+    },
+    "4": {
+        "name": "Kinnahults Väfveri",
+        "location": "Kinnahult",
+        "business": "Tillverkar gardiner, draperi- och möbeltyger",
+        "contact": {
+            "office": "Kinnahult",
+            "phone": "Kinna 10043",
+            "postgiro": "9346"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1917,
+        "owner": "fabr. Erik Eliason"
+    },
+    "5": {
+        "name": "AB. Kinnareds Textil",
+        "location": "Halmstad",
+        "business": "Tillverkar gardin- och draperityger vid väveri i Kinnared",
+        "contact": {
+            "office": "Halmstad",
+            "phone": "N/A",
+            "postgiro": "171500"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 32
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1934,
+        "corporation_year": 1941,
+        "director": "John Alsin"
+    },
+    "6": {
+        "name": "Kinnaströms Väfveri AB.",
+        "location": "Kinnaström, Kinna",
+        "business": "Bomulls väveri, färgeri, blekeri och appreturverk",
+        "contact": {
+            "office": "Kinnaström, Kinna",
+            "phone": "Kinna 10043",
+            "postgiro": "9346"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1885,
+        "corporation_year": 1895,
+        "owners": [
+            "dir. Clas Erikson",
+            "dir. Edvin Leffler",
+            "dir. John O. Erikson"
+        ]
+    },
+    "7": {
+        "name": "AB. Kinnekulle Kalk",
+        "location": "Kinnemalma",
+        "business": "Tillverkar jordbruks- och murbruks-kalk vid fabrik i Kinnemalma",
+        "contact": {
+            "office": "Kinnemalma",
+            "phone": "Lidköping 20340",
+            "postgiro": "25915"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "70,000 kr"
+        },
+        "foundation_year": 1928,
+        "owners": [
+            "dir. Knut Karlsson",
+            "fru J. Beckman"
+        ],
+        "director": "Erik Danielsson"
+    },
+    "8": {
+        "name": "AB. Kinofa",
+        "location": "Stockholm",
+        "business": "Fabrik för tillverkning av biografapparater",
+        "contact": {
+            "office": "Hammarbyvägen 9-11",
+            "phone": [
+                "441415",
+                "441416"
+            ],
+            "postgiro": "2562"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1913,
+        "corporation_year": 1935,
+        "director": "Stig Sundgren"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "1": {
+        "name": "J. N. Rosengrens Metallgjuteri AB.",
+        "location": "Limhamn, Malmö",
+        "business": "Metall- och aluminiumgjuteri",
+        "products": "Tillverkar gjutgods, metallgjutgods och lättmetallegeringar samt utför: konstgjutningar och centrifugalgjutningar. Varumärke för vita lagermetaller: »Göta».",
+        "contact": {
+            "office": "Järnvägsg. 42, Limhamn",
+            "phone": [
+                "Malmö 51669",
+                "Malmö 51667"
+            ],
+            "postgiro": "30685",
+            "telegraph": "Metallgjuteriet, Malmö"
+        },
+        "financials": {
+            "capital": "132,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1909
+    },
+    "2": {
+        "name": "Rosenlunds Järn- & Träförädlingsfabrik, Gustaf Andersson & Söner",
+        "location": "Hjo",
+        "products": "Tillverkar parkettgolv, fönster, dörrar och trappor samt köks- och butiksinredningar.",
+        "contact": {
+            "phone": "211",
+            "postgiro": "265915",
+            "sales_offices": [
+                {
+                    "location": "Göteborg, Södra vägen 65",
+                    "phone": "167799"
+                }
+            ]
+        },
+        "financials": {
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1910
+    },
+    "3": {
+        "name": "Ross AB.",
+        "location": "Göteborg",
+        "products": "Tillverkar apparater för fotografiskt ändamål."
+    },
+    "4": {
+        "name": "Elnär Rostedt, Nya Möbelfabriken",
+        "location": "Sävsjö"
+    },
+    "5": {
+        "name": "Rostfria Andersson",
+        "location": "Sundbyberg"
+    },
+    "6": {
+        "name": "Rostskyddsbolaget Lidén & Co.",
+        "location": "Stockholm"
+    },
+    "7": {
+        "name": "Rotogravyr",
+        "location": "Stockholm"
+    },
+    "8": {
+        "name": "Rottne Snickerifabriks AB.",
+        "location": "Rottne",
+        "products": "Tillverkar möbler vid fabrik i Rottne (Kronob. l.).",
+        "contact": {
+            "phone": "26",
+            "postgiro": "146420"
+        },
+        "financials": {
+            "capital": "28,500 kr",
+            "employees": {
+                "industriarb": 33
+            },
+            "annual_production_value": "220,000 kr"
+        },
+        "foundation_year": 1905
+    },
+    "9": {
+        "name": "AB. Rottneros Bruk",
+        "location": "Rottneros",
+        "products": "Träsliperi, sågverk, mek. verkstad och elektr. vattenkraftstationer vid Rottneros samt sågverk vid Slottsbron (båda i Värml. l.). Tillverkar mek. trämassa och sågade trävaror samt idkar elektrisk distributionsrörelse, skogshantering, jordbruk och kvarnrörelse."
+    },
+    "10": {
+        "name": "AB. Rubberfilm",
+        "location": "Åmål",
+        "business": "Gummivarufabrik",
+        "products": "Tillverkar sanitära gummi varor, batister, gummiduk, gummitaft till trench-coats, gummerade tyger."
+    }
+}

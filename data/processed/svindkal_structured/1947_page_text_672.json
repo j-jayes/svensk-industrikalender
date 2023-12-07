@@ -1,0 +1,137 @@
+{
+    "1": {
+        "name": "Svenska",
+        "location": "Stockholm",
+        "business": "Tillverkar skor och textilmaterial.",
+        "contact": {
+            "office": "Hornsg. 69",
+            "phone": [
+                "440010"
+            ],
+            "postgiro": "1933",
+            "telegraph": "Damask, Stockholm"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "Eric Hedman",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "Svenska Diamantbergborrnings AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar diamantbergborrningsmateriel, stöt-borrmateriel, djupbrunnspumpar och diamantverktyg, utför vattenborrningar och undersökningsborrningar samt tätnings-arbeten medelst injektion i betong och berggrund.",
+        "contact": {
+            "office": "Kungsg. 44",
+            "phone": "233380",
+            "postgiro": "3442",
+            "telegraph": "Adamante, Stockholm"
+        },
+        "financials": {
+            "capital": "2,268,000 kr",
+            "employees": {
+                "industriarb": 400
+            },
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1886,
+        "predecessor": "Äger AB. Elektrisk Malmletning",
+        "board": [
+            {
+                "name": "N. E. Lenander",
+                "role": "Styrelse"
+            },
+            {
+                "name": "F. G. Liljenroth",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Carl M. Matton",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Bengt Wadsted",
+                "role": "dir."
+            }
+        ]
+    },
+    "3": {
+        "name": "AB. Svenska Dragskivor",
+        "location": "Örebro",
+        "business": "Tillverkar hård-metalldragskivor för dragning av tråd, stänger, rör och profiler av järn och metall samt diamantdragskivor, utför omslipning av dragskivor.",
+        "contact": {
+            "phone": "22332",
+            "postgiro": "279700"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 35
+            }
+        },
+        "foundation_year": 1944,
+        "board": [
+            {
+                "name": "Heinrich Schlott",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ]
+    },
+    "4": {
+        "name": "Svenska Elektrodfabriken Kroma",
+        "location": "Vänersborg",
+        "business": "Tillverkar svetselektroder, svetspulver för gassvetsning, härdgryn för sätthärd-ning, härd- och anlöpningssalter, avfett-ningsmedel, eldfast murmassa, desoxidations- och flussmedel för gjutning av aluminium, rödmetall, brons och stereotypmetall in. m.",
+        "contact": {
+            "telegraph": "Kroma, Vänersborg",
+            "phone": "1032 o. 1465",
+            "postgiro": "94328"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 10
+            }
+        },
+        "foundation_year": 1933,
+        "owner": "ing. Alvar Harlitz"
+    },
+    "5": {
+        "name": "AB. Svenska Elektromagneter",
+        "location": "Åmål",
+        "business": "Tillverkar magnetapparater, magnetgeneratorer, permanenta magneter, elektromagneter, tänd-spolar, transformatorer upp till 10 kyA, dämprullar, signalinduktorer, special-reläer samt elektr. specialapparater.",
+        "contact": {
+            "telegraph": "Magneter, Åmål",
+            "phone": "104 o. 304",
+            "postgiro": "7519"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 125
+            }
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "E. Zetterqvist",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Knut Zetterqvist",
+                "role": "assu-ransdir."
+            },
+            {
+                "name": "Sven Zetterqvist",
+                "role": "disp."
+            }
+        ]
+    }
+}

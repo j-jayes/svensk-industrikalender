@@ -1,0 +1,183 @@
+{
+    "1": {
+        "name": "Plåtförädlingsbolaget—Plåtradiator",
+        "location": "Stockholm",
+        "business": "Radiatorer",
+        "contact": {
+            "office": "Strindbergsgatan 58, Stockholm",
+            "phone": [
+                "621880"
+            ],
+            "postgiro": "26320",
+            "head_office": "Stockholm"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 240
+            },
+            "annual_turnover": "8,500,000 kr",
+            "annual_production_value": "8,500,000 kr"
+        },
+        "foundation_year": 1918,
+        "predecessor": "Acetylénaffären A. Jönsson",
+        "board": [
+            {
+                "name": "Harald Befrits",
+                "role": "dir."
+            },
+            {
+                "name": "Gunnar Dalen",
+                "role": "dir."
+            },
+            {
+                "name": "Gunnar Ehn",
+                "role": "dir."
+            },
+            {
+                "name": "Rolf. v. Heidenstam",
+                "role": "kabinettskammarh."
+            },
+            {
+                "name": "Nils Sjödahl",
+                "role": "dir."
+            }
+        ],
+        "director": "Nils Sjödahl"
+    },
+    "2": {
+        "name": "Plåtförädlingsbolaget Olsson & Co.",
+        "location": "Värnamo",
+        "business": "Grovplåtslageri och mek. verkstad",
+        "contact": {
+            "phone": [
+                "10183"
+            ],
+            "postgiro": "9320"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1921,
+        "owners": [
+            "fabr. Harry Olsson",
+            "fabr. Albin Augustsson",
+            "fabr. Arno Olsson",
+            "disp. Einar Samuelson"
+        ]
+    },
+    "3": {
+        "name": "AB. Plåtindustri",
+        "location": "Limhamn",
+        "business": "Mek. verkstad",
+        "contact": {
+            "telegraph": "Plåtindustri, Limhamn",
+            "phone": "71650",
+            "postgiro": "39176"
+        },
+        "financials": {
+            "capital": "201,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_production_value": "1,800,000 kr"
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "adv. Tore Svenby",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. H. Levin",
+                "role": ""
+            },
+            {
+                "name": "dir. Stig Rogmark",
+                "role": ""
+            }
+        ],
+        "director": "Stig Rogmark",
+        "manager": "Lennart Ode"
+    },
+    "4": {
+        "name": "AB. Plåtmanufaktur",
+        "location": "Stockholm",
+        "business": "Bleckvarufabriken",
+        "description": "Sammanslutning av flera företag",
+        "contact": {
+            "office": "Biblioteksg. 26, Stockholm",
+            "phone": [
+                "235700"
+            ],
+            "postgiro": "2711"
+        },
+        "financials": {
+            "capital": "6,600,000 kr",
+            "employees": {
+                "i Malmö": 640,
+                "i Göteborg": 450,
+                "i Mölntorp": 100,
+                "i Lysekil": 110,
+                "i Ulvsunda": 40
+            },
+            "annual_turnover": "25,000,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "adv. Clas Östberg",
+                "role": "ordf."
+            },
+            {
+                "name": "bergsing. Bertil Holmgren",
+                "role": ""
+            },
+            {
+                "name": "disp. G. Karnéus",
+                "role": ""
+            },
+            {
+                "name": "dr Eric Laurin",
+                "role": ""
+            },
+            {
+                "name": "dir. Knut Laurin",
+                "role": ""
+            },
+            {
+                "name": "bankdir. P. Wåhlin",
+                "role": ""
+            }
+        ],
+        "director": "Knut Laurin",
+        "manager": "Börje Svenby",
+        "managing_director": "Uno Janson"
+    },
+    "5": {
+        "unknown_structure": null
+    },
+    "6": {
+        "name": "Plåtradiator AB.",
+        "location": "Skänninge",
+        "business": "Mek. verkstad",
+        "contact": {
+            "telegraph": "Wello, Skänninge",
+            "phone": [
+                "263"
+            ],
+            "postgiro": null
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": 1935,
+        "manager": "disp. Arvid Lindstedt"
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "1": {
+        "name": "A B. Slutarps Snickerifabrik",
+        "location": "Slutarp",
+        "business": "Tillverkar likkistor vid fabrik i Slutarp (Skarab. l.)",
+        "contact": {
+            "office": "Slutarp",
+            "phone": [
+                "Kinnarp 108"
+            ],
+            "postgiro": "74930"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "Arb.-antal": 12
+            },
+            "annual_turnover": "115,000 kr",
+            "annual_production_value": "115,000 kr"
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1945,
+        "director": "Tage Norrländer"
+    },
+    "2": {
+        "name": "Slöinge Träförädlings AB.",
+        "location": "Slöinge",
+        "business": "Tillverkar byggnadssnickerier, dörrar och fönster, trappor samt köks- och butiksinredningar vid fabrik i Slöinge (Hallands l.)",
+        "contact": {
+            "telegraph": "Träförädlingen, Slöinge",
+            "phone": "6",
+            "postgiro": "135495"
+        },
+        "financials": {
+            "capital": "19,500 kr",
+            "employees": {
+                "Arb.-antal": 15
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "Sven-Erik Christiansson",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "Sven-Ivar Christiansson",
+                "role": "lantbr."
+            },
+            {
+                "name": "Ernst Isberg",
+                "role": "byggm."
+            },
+            {
+                "name": "Karl Karlsson",
+                "role": "ombudsm."
+            },
+            {
+                "name": "Johannes Olsson",
+                "role": "godsäg."
+            }
+        ],
+        "director": "S.-E. Christiansson"
+    },
+    "3": {
+        "name": "Smedby Mek. Verkstad",
+        "location": "Malmköping",
+        "business": "Tillverkar grövre byggnadssmiden och cisterner; utför gas- och elektr. svetsningsarbeten samt metallisering vid mek. verkstad i Malmköping (Södermanl. l.)",
+        "contact": {
+            "phone": "126",
+            "postgiro": "1$3$09"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 8
+            }
+        },
+        "foundation_year": 1933,
+        "owners": [
+            "fabr. Martin Carlsson",
+            "fabr. Olof M. Andersson"
+        ]
+    },
+    "4": {
+        "name": "Smedjebackens Valsverks AB.",
+        "location": "Smedjebacken",
+        "business": "Järnverk med martinverk, stålgjuteri, valsverk, drageri, kallvalsvérk, kätting-fabrik, pressyerk, mek. verkstad och sågverk i Smedjebacken (Kopparb. l.)",
+        "contact": {
+            "telegraph": "Valsverket, Smedjebacken",
+            "phone": "Valsverket, Smedjebacken",
+            "postgiro": "24671"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "Antal industriarb.": 670
+            },
+            "annual_turnover": "16,000,000 kr"
+        },
+        "foundation_year": 1854,
+        "board": [
+            {
+                "name": "Wiking Johnsson",
+                "role": "bruksdisp. (ordf.)"
+            },
+            {
+                "name": "Gösta Grönberg",
+                "role": "adv."
+            },
+            {
+                "name": "Henry Tham",
+                "role": "civiling."
+            },
+            {
+                "name": "John Udd",
+                "role": "byrådir."
+            },
+            {
+                "name": "Rutger Wijkander",
+                "role": "disp."
+            }
+        ],
+        "director": "Rutger Wijkander"
+    },
+    "5": {
+        "name": "Smides AB. Bröderna Lundberg & Co.",
+        "location": "Stockholm",
+        "business": "Tillverkar järnkonstruktioner och transportanordningar; utför räck- och byggnadssmiden samt elektr. svetsningsarbeten. Varumärke: »Järnbröderna»",
+        "contact": {
+            "office": "Virkesvägen, Hammarby Industriområde",
+            "phone": [
+                "400041-42"
+            ],
+            "postgiro": "566"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "Antal industriarb.": 28
+            },
+            "annual_turnover": "510,000 kr"
+        },
+        "foundation_year": 1877,
+        "corporation_year": 1909,
+        "director": "Sven Ohrstedt"
+    },
+    "6": {
+        "name": "Smidesfabriken Standard, Carl E. Bladh",
+        "location": "Hjo",
+        "business": "Tillverkar manufaktursmide såsom gångjärn, lastbilsflaklås, limknektar och skruvtvingar, limhjul samt foglimmaski-ner",
+        "contact": {
+            "phone": "250",
+            "postgiro": "74923"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 15
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1921,
+        "manager": "Carl E. Bladh"
+    },
+    "7": {
+        "name": "Smidesfirman O. A. Möller",
+        "location": "Göteborg",
+        "predecessor": "Bröderna Lönn, Göteborg"
+    },
+    "8": {
+        "name": "Smides- & Järnsängsfabriks AB.",
+        "location": "Örbyhus",
+        "business": "Järnsängs- och snickerifabrik i Örbyhus (Uppsala l.). Tillverkar järn- o. träsängar samt stålrörsmöbler. Specialitet: sjukhussängar",
+        "contact": {
+            "phone": "»Sängfabriken»",
+            "postgiro": "250,000 kr"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 192
+            },
+            "annual_turnover": "1,640,000 kr"
+        },
+        "foundation_year": 1911,
+        "owners": [
+            "AB. Sängfabriken"
+        ],
+        "board": [
+            {
+                "name": "Eric Ericsson",
+                "role": "dir."
+            },
+            {
+                "name": "Tore Ericsson",
+                "role": "dir."
+            },
+            {
+                "name": "Clas Östberg",
+                "role": "adv."
+            }
+        ],
+        "director": "Tore Ericsson"
+    },
+    "9": {
+        "name": "Sigurd Smiths AB.",
+        "location": "Göteborg",
+        "predecessor": "AB. Plåtmanufaktur, Göteborgsfabrikerna, Göteborg"
+    }
+}

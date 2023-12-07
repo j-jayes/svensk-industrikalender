@@ -1,0 +1,254 @@
+{
+    "1": {
+        "name": "Malmö Metallvarufabrik AB.",
+        "location": "Malmö",
+        "business": "Tillverkar elektr. belysningsarmatur",
+        "products": "Description of products manufactured or services offered.",
+        "contact": {
+            "office": "Nya Vattenverksvägen 2B",
+            "phone": [
+                "25929"
+            ],
+            "postgiro": "37790"
+        },
+        "financials": {
+            "capital": "108,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "bankdir. Algot Riider",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Ivar Liljeqvist",
+                "role": "ing."
+            },
+            {
+                "name": "ing. Bo Riider",
+                "role": ""
+            }
+        ]
+    },
+    "2": {
+        "name": "Malmö Nysilverfabrik",
+        "location": "Malmö",
+        "business": "Tillverkar kuvertnysilver",
+        "contact": {
+            "office": "Regementsg. 10",
+            "phone": [
+                "22813"
+            ],
+            "postgiro": "38376"
+        },
+        "foundation_year": 1884,
+        "owners": [
+            "Gustav Frost"
+        ]
+    },
+    "3": {
+        "name": "Malmö Oljeslageri & Happachs Såp-fabriks AB.",
+        "location": "Malmö",
+        "business": "Oljeslageri och kem.-teknisk fabrik",
+        "products": "Tillverkar lin- och rovolja, kakor av lin-och rapsfrö samt såpa, soda, tvätt- och toalettvål, tvålflingor, tvättpulver, glyce-rin och vattenglas, parfymer, kosmetiska och farmaceutiska preparat. Varumärken: »Diamant», »Mohab» o. »Dido»",
+        "contact": {
+            "office": "Nobelvägen",
+            "phone": [
+                "21762"
+            ],
+            "postgiro": "38299",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "408801"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "119851"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,502,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": "8,500,000 kr",
+            "annual_production_value": "8,500,000 kr"
+        },
+        "predecessor": "utt.."
+    },
+    "4": {
+        "name": "Malmö Reklamfabrik AB.",
+        "location": "Malmö",
+        "business": "Skylt- och kartongfabrik",
+        "products": "Tillverkar reklamskyltar och kalenderryggar av kartong och celluloid, reklamartiklar samt kartonger. Specialiteter: Präglade reklamskyltar, kalenderryggar och massartiklar",
+        "contact": {
+            "office": "Barkg. 8",
+            "phone": [
+                "24584",
+                "78384",
+                "28103"
+            ],
+            "postgiro": "38312",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "103936"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "133663"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "160,400 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "disp. A. O. Lindh",
+                "role": ""
+            },
+            {
+                "name": "fru E. Lindh",
+                "role": ""
+            },
+            {
+                "name": "Arnold Sönnergård",
+                "role": "dir."
+            }
+        ]
+    },
+    "5": {
+        "name": "Malmö Sidenväveri AB.",
+        "location": "Malmö",
+        "business": "Tillverkar sidentyger",
+        "contact": {
+            "office": "Industrigatan 14—18",
+            "phone": [
+                "72550"
+            ],
+            "postgiro": "39220"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "3,000,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "bankdir. Einar Beskow",
+                "role": ""
+            },
+            {
+                "name": "adv. Matts Fallenius",
+                "role": ""
+            },
+            {
+                "name": "dr Hans Gwalter",
+                "role": ""
+            }
+        ],
+        "director": "Heinrich Gut"
+    },
+    "6": {
+        "name": "AB. Malmö Skeppsfärgfabrik",
+        "location": "Hälsingborg",
+        "business": "Tillverkar färger och fernissor vid fabrik i Hälsingborg",
+        "products": "Specialitet: skeppsfärger",
+        "contact": {
+            "office": "Hälsingborg",
+            "phone": [
+                "20760"
+            ],
+            "postgiro": "39454",
+            "sales_offices": [
+                {
+                    "location": "Malmö",
+                    "phone": "77300"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "115003"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "140526"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_turnover": "750,000 kr"
+        },
+        "corporation_year": 1924,
+        "director": "Erik B. Dupont"
+    },
+    "7": {
+        "name": "Malmö Skjortfabrik",
+        "location": "Malmö",
+        "business": "Tillverkar skjortor, pyjamas och slipsar",
+        "contact": {
+            "office": "Gustaf Adolfs torg 8 B",
+            "phone": [
+                "25230",
+                "74030"
+            ],
+            "postgiro": "37630"
+        },
+        "employees": {
+            "industriarb": 70
+        },
+        "annual_turnover": "650,000 kr",
+        "current_name_year": 1925,
+        "director": "disp. Karl Palmkvist"
+    },
+    "8": {
+        "name": "Malmö Skofabriks AB.",
+        "location": "Malmö",
+        "business": "Tillverkar skodon",
+        "products": "Varunamn: »Herkules» o. »Gyllene Gripen»",
+        "contact": {
+            "office": "Industrig. 4",
+            "phone": [
+                "25094",
+                "20586",
+                "23485"
+            ],
+            "postgiro": "38651",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "107344"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "134087"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 200
+            }
+        },
+        "corporation_year": 1934
+    }
+}

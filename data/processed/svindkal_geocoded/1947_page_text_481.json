@@ -1,0 +1,258 @@
+{
+    "1": {
+        "name": "Loddby—Ludvigsson",
+        "location": "Malmö",
+        "business": "Tillverkning av telegraf- och chefstelefon-anläggningar",
+        "contact": {
+            "office": "Box 292, Malmö 1",
+            "phone": [
+                "75250",
+                "75430",
+                "77030"
+            ],
+            "postgiro": "149503"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "425,000 kr"
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "konsul A. Edv. Jansson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Otto Taussig",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. Göte Ericsson",
+                "role": ""
+            }
+        ],
+        "director": "Göte Ericsson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "2": {
+        "name": "Lomma Ler & Keramik",
+        "location": "Lomma (Malmöh. l.)",
+        "business": "Tillverkning av blomsterkrukor och prydnadskeramik",
+        "contact": {
+            "office": "Lomma",
+            "phone": "462220",
+            "postgiro": "98802"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "130,000 kr"
+        },
+        "foundation_year": 1933,
+        "owners": [
+            "fabr. Simon Hågensen"
+        ],
+        "director": "Sigvard Hågensen",
+        "coordinates": {
+            "Latitude": 55.6731375,
+            "Longitude": 13.0674055
+        }
+    },
+    "3": {
+        "name": "AB. Lomma Tegelfabrik",
+        "location": "Lomma (Malmöh. l.)",
+        "business": "Tillverkning av fasad-tegel, murtegel, dräneringsrör och fabriksskorstenar",
+        "contact": {
+            "office": "Lomma",
+            "phone": [
+                "462002",
+                "462004"
+            ],
+            "postgiro": "172360"
+        },
+        "financials": {
+            "capital": "566,600 kr",
+            "employees": {
+                "industriarb": 154
+            }
+        },
+        "foundation_year": 1887,
+        "board": [
+            {
+                "name": "bankdir. Algot Riider",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Ruben Almare",
+                "role": ""
+            },
+            {
+                "name": "medicinalrådet Magnus Herrlin",
+                "role": ""
+            },
+            {
+                "name": "järnarb. Peter Nilsson",
+                "role": ""
+            },
+            {
+                "name": "borgmäst. Carl Johan Reventberg",
+                "role": ""
+            }
+        ],
+        "manager": "E. Engholm",
+        "coordinates": {
+            "Latitude": 55.6731375,
+            "Longitude": 13.0674055
+        }
+    },
+    "4": {
+        "name": "Lotorps Fabriks AB.",
+        "location": "Lotorp (Östergötl. l.)",
+        "business": "Tillverkning av herr- och gosskjortor samt barnkläder",
+        "contact": {
+            "office": "Lotorp",
+            "phone": "Finspång »Lotorpsfabrik»",
+            "postgiro": "28339",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "B. Carlsson, Älvsjö, Blaekensv. 59, telefon: 470210"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "E. Sturzen-Becker, ö. Hamng. 30—34, telefon: 115464"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "175,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "950,000 kr"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "disp. Bo Nilsson",
+                "role": ""
+            },
+            {
+                "name": "fru S. M. Nilsson",
+                "role": ""
+            },
+            {
+                "name": "grossh. O. T. Ringdahl",
+                "role": ""
+            }
+        ],
+        "director": "Bo Nilsson",
+        "coordinates": {
+            "Latitude": 58.7361776,
+            "Longitude": 15.8276973
+        }
+    },
+    "5": {
+        "name": "Lovene Dörrfabriks AB.",
+        "location": "Lovene (Skarab. l.)",
+        "business": "Tillverkning av lamelldörrar (system: Kähr)",
+        "contact": {
+            "phone": "62",
+            "postgiro": "276354"
+        },
+        "financials": {
+            "capital": "55,000 kr",
+            "employees": {
+                "industriarb": 17
+            }
+        },
+        "foundation_year": 1939,
+        "manager": "Oscar Carlson",
+        "coordinates": {
+            "Latitude": 58.4424474,
+            "Longitude": 13.045837
+        }
+    },
+    "6": {
+        "name": "Lucernans Trävaru AB.",
+        "location": "Västervik",
+        "business": "Tillverkning av sågade och hyvlade trävaror",
+        "contact": {
+            "office": "Stonewood, Västervik",
+            "phone": [
+                "897",
+                "758"
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "4,000 stds sågade och hyvlade trävaror"
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "frih. G. G. Falkenberg",
+                "role": "ordf."
+            },
+            {
+                "name": "v. konsul Uno Steinholtz",
+                "role": ""
+            }
+        ],
+        "manager": "Uno Steinholtz",
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        }
+    },
+    "7": {
+        "name": "AB. Elis Luckeys Konservfabrik",
+        "location": "Lysekil",
+        "business": "Tillverkning av ansjovis, sillkonserver, kaviar, rökta inläggningar i olja, sardiner, fiskbullar, konserverade musslor och sillolja",
+        "contact": {
+            "office": "Lysekil",
+            "phone": "»Luckeys»",
+            "postgiro": "10021"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1893,
+        "manager": "Ewald Luckey",
+        "coordinates": {
+            "Latitude": 58.27557299999999,
+            "Longitude": 11.435558
+        }
+    },
+    "8": {
+        "name": "E. Th. Ludvigsson",
+        "location": "Förlösa (Kalmar l.)",
+        "business": "Tillverkning av sågade och hyvlade trävaror samt jordbruk, skogshantering och rederirörelse",
+        "contact": {
+            "office": "Kalmar",
+            "phone": [
+                "271",
+                "441"
+            ],
+            "postgiro": "23661"
+        },
+        "coordinates": {
+            "Latitude": 56.7471915,
+            "Longitude": 16.2512704
+        }
+    }
+}

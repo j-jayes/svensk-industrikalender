@@ -1,0 +1,121 @@
+{
+    "1": {
+        "name": "Sverige—Sverre",
+        "location": "Stockholm",
+        "business": "En-samförsälj. - Riksförbundet Lin och Hampa",
+        "contact": {
+            "phone": [
+                "28",
+                "66"
+            ],
+            "postgiro": "86767",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "602235"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "vakant",
+                "role": "Disp."
+            },
+            {
+                "name": "Börje Aronsson",
+                "role": "Kamrer"
+            },
+            {
+                "name": "Arne Krall",
+                "role": "Driftsing."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "AB. Sveriges Litografiska Tryckerier (»S. L. T.»)",
+        "location": "Stockholm",
+        "business": "Litografisk Tryckning",
+        "products": "Tryckalster, boktryck, djuptryck, ljustryck, litografi och offsettryck, koppartryck, paragon tryck, klichéer och bok-binderiarbeten samt tillverkar kontorsutensilier, album, kontors- och skrivböeker, askar, kartonger, kortregister, kortpärmar, kortaskar och -lådor, kartfodral, spelkort, hyllremsor, tårtpapper, pappersservetrer, kuvert och påsar, cello-fanemballage, kautschukstämplar m.m., sulfatcellulosa, kraft- och spinnpapper, kraftpapp, byggnadspapp, kraft-papperssäckar, wellpapp och Columbia-kartonger",
+        "contact": {
+            "office": "Vasagatan 16",
+            "telegraph": "Esselte. Stockholm",
+            "phone": [
+                "Esselte"
+            ],
+            "postgiro": "78"
+        },
+        "financials": {
+            "capital": "43,395,000 kr",
+            "employees": {
+                "total": 7368
+            },
+            "foundation_year": 1913
+        },
+        "board": [
+            {
+                "name": "Ragnar Söderberg",
+                "role": "Generalkonsul (ordf.)"
+            },
+            {
+                "name": "Petrus Brundell",
+                "role": "Tankdir. (v. ordf.)"
+            },
+            {
+                "name": "Birger Barre",
+                "role": "Hovauditör"
+            },
+            {
+                "name": "Tore Bendz",
+                "role": "Kapten"
+            },
+            {
+                "name": "Gunnar Björkman",
+                "role": "Disp."
+            },
+            {
+                "name": "Johan Nordenfalk",
+                "role": "F.d. Hovrättsrådet"
+            },
+            {
+                "name": "Knut Östberg",
+                "role": "Dir."
+            }
+        ],
+        "director": "Knut Östberg",
+        "managing_director": "Knut Östberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "AB. Sverre",
+        "location": "Göteborg",
+        "business": "Mek. verkstad och båtvarv",
+        "products": "Tillverkar nautiska instrument, lanternor, modeller av fartyg och industriella anläggningar m.m., samt konstruerar och bygger lustyachter, fiskefartyg och mindre bruksfartyg av trä och järn",
+        "contact": {
+            "office": "Skeppsbron 2",
+            "telegraph": "Sverre, Göteborg",
+            "phone": "174138"
+        },
+        "financials": {
+            "capital": "100,000 kr"
+        },
+        "manager": "Arne Krall",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

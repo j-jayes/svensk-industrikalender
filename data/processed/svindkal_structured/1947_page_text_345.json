@@ -1,0 +1,224 @@
+{
+    "1": {
+        "name": "Hakefjordens Konservfabrik, Ivar Olausson & Co.",
+        "location": "Klädesholmen (Göteb. o. Bohus l.)",
+        "business": "Tillverkar sillkonserver, ansjovis m. m. vid fabrik å Klädesholmen",
+        "contact": {
+            "telegraph": "Ivar, Klädesholmen",
+            "phone": [
+                "35",
+                "55"
+            ],
+            "postgiro": "21361"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "foundation_year": 1923
+        },
+        "owners": [
+            "Ivar Olausson"
+        ]
+    },
+    "2": {
+        "name": "AB. F. W. Haker & Co.",
+        "location": "Skurup (Malmöh. l.)",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar slåttermaskiner, cambridgevältar, po-tatisupptagare, gröpkvarnar, sädeskrossar m. m.",
+        "contact": {
+            "telegraph": "Gjuteriet, Skurup",
+            "phone": "Hakers gjuteri",
+            "sales_offices": [
+                {
+                    "location": "Sverige",
+                    "phone": "Kooperativa Förbundet, Stockholm"
+                }
+            ],
+            "postgiro": "Not available"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 115
+            },
+            "annual_turnover": "600,000 kr",
+            "corporation_year": 1944
+        },
+        "director": "Sune Haker"
+    },
+    "3": {
+        "name": "Halda AB.",
+        "location": "Svängsta (Blekinge l.)",
+        "business": "Specialfabrik för tillverkning av skrivmaskiner",
+        "products": "Varumärke: »Halda»",
+        "contact": {
+            "telegraph": "Halda, Karlshamn",
+            "phone": "Karlshamn 400",
+            "postgiro": "22475",
+            "sales_offices": [
+                {
+                    "location": "Sverige",
+                    "phone": "AB. Åtvidabergs Industrier"
+                },
+                {
+                    "location": "Utlandet",
+                    "phone": "AB. Facit"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 550
+            },
+            "corporation_year": 1927
+        },
+        "board": [
+            {
+                "name": "Elof Ericsson",
+                "role": "ordf"
+            },
+            {
+                "name": "R. Dencker",
+                "role": "dir"
+            },
+            {
+                "name": "Albert Engvall",
+                "role": "dir"
+            }
+        ],
+        "manager": "G. Freidenfelt"
+    },
+    "4": {
+        "name": "Halendataxametern, Fabriks AB.",
+        "location": "Halmstad",
+        "contact": {
+            "telegraph": "Not available",
+            "phone": "Not available",
+            "postgiro": "Not available"
+        }
+    },
+    "5": {
+        "name": "Haldens Färgeri AB.",
+        "location": "Fritsla (Älvsb. l.)",
+        "business": "Färgeri, blekeri, appreturverk och filmtryckeri",
+        "products": "Utför färgning och brillantblekning av ullgarn, bomullsgarn och cellull i såväl hank som x-rullar samt färgning, tryckning blekning och appretering av gardiner, draperier, möbeltyger och trikå",
+        "contact": {
+            "phone": [
+                "Kinna 70062",
+                "70110"
+            ],
+            "postgiro": "13468"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "1,300,000 kr",
+            "corporation_year": 1946
+        },
+        "board": [
+            {
+                "name": "Holger Åkerlund",
+                "role": "styrelse o. verkst. dir"
+            }
+        ],
+        "director": "Lennart Halden"
+    },
+    "6": {
+        "name": "Halla Textil AB.",
+        "location": "Överlida (Älvsb. l.)",
+        "business": "Gardinfabrik och färgeri",
+        "products": "Tillverkar s. k. allmogegardiner",
+        "contact": {
+            "phone": "18",
+            "postgiro": "13737"
+        },
+        "financials": {
+            "capital": "130,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "225,000 kr",
+            "corporation_year": 1921
+        },
+        "board": [
+            {
+                "name": "Fritz Sterner",
+                "role": "disp and styrelse"
+            },
+            {
+                "name": "Bernhard Bengtsson",
+                "role": "vävm"
+            },
+            {
+                "name": "Alf Sterner",
+                "role": "chefsassistent"
+            }
+        ],
+        "director": "Fritz Sterner"
+    },
+    "7": {
+        "name": "Hallabo Metallgjuteri",
+        "location": "Gnosjö (Jönköp. l.)",
+        "business": "Metallgjuteri och metallvarufabrik",
+        "products": "Tillverkar metallgjutgods, båtbeslag, skeppsklockor, elektr. marinmateriel m. m.",
+        "contact": {
+            "phone": "19",
+            "postgiro": "6538"
+        },
+        "financials": {
+            "employees": {
+                "antalarb": 11
+            },
+            "annual_production_value": "180,000 kr"
+        },
+        "owners": [
+            "Algot Halidén",
+            "Oscar Uhnér"
+        ]
+    },
+    "8": {
+        "name": "Hallands läns linodlareförening u. p. a.",
+        "location": "Laholm",
+        "business": "Linberedningsverk",
+        "products": "Tillverkar lintåga och linblånor",
+        "contact": {
+            "phone": "435",
+            "postgiro": "173038",
+            "sales_offices": {
+                "location": "Stockholm",
+                "phone": "602235"
+            }
+        },
+        "financials": {
+            "capital": "235,000 kr",
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_turnover": "2,500,000 kr"
+        },
+        "board": [
+            {
+                "name": "Lars Ekberg",
+                "role": "disp"
+            }
+        ],
+        "director": "Bernt Larson"
+    },
+    "9": {
+        "name": "Haliarums Tegelbruk",
+        "location": "Nättrabyhamn (Jämjöslätt, Blekinge l.)",
+        "business": "Tillverkar murtegel och dräneringsrör",
+        "contact": {
+            "office": "Nättrabyhamn",
+            "phone": [
+                "Nätt-raby 1",
+                "211"
+            ],
+            "postgiro": "5476"
+        }
+    }
+}

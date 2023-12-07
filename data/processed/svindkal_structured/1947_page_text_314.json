@@ -1,0 +1,199 @@
+{
+    "1": {
+        "name": "AB. Gasgenerator",
+        "location": "Örebro",
+        "business": "Tillverkar ved- och träkolsgeneratorer för bilar, traktorer, stationära motorer och för industriella ändamål",
+        "contact": {
+            "telegraph": "Gasgenerator, Örebro",
+            "phone": [
+                "19235"
+            ],
+            "postgiro": "99626"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "foundation_year": 1929
+        },
+        "board": [
+            {
+                "name": "jägmäst. Henrik Dieden",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. John Erikson",
+                "role": null
+            },
+            {
+                "name": "ing. Axel Svedlund",
+                "role": null
+            }
+        ],
+        "director": "Axel Svedlund",
+        "sales_manager": "Sune Pettersson"
+    },
+    "2": {
+        "name": "AB. Gavleverken",
+        "location": "Gävle",
+        "business": "Mek. verkstad, gjuteri och emaljverk. Tillverkar gas- och vedspisar, vattenvär-mare, värmeledningspannor, gjutgods av tackjärn och lättmetall, järnkonstruktioner samt plåtpressningsarbeten",
+        "contact": {
+            "telegraph": "Gavleverken, Gävle",
+            "phone": [
+                "43",
+                "3643"
+            ],
+            "postgiro": "9962",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "231770"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "270,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "1,400,000 kr",
+            "foundation_year": 1912
+        },
+        "board": [
+            {
+                "name": "konsul J. Wilh. Ericson",
+                "role": "ordf."
+            },
+            {
+                "name": "byråchef R. Edman",
+                "role": null
+            },
+            {
+                "name": "dir. Hans Rydin",
+                "role": null
+            },
+            {
+                "name": "dir. Sven Wiklund",
+                "role": null
+            }
+        ],
+        "director": null,
+        "managing_director": null
+    },
+    "3": {
+        "name": "Geas Konstharts-industri",
+        "location": "Gislaved",
+        "business": "Tillverkar massartiklar i bakelit vid fabrik i Gislaved (Jönköp. l.). Specialitet: elektr. artiklar för staik- och svagström. Varumärke: »Gaki»",
+        "contact": {
+            "phone": [
+                "214"
+            ],
+            "postgiro": "288090"
+        },
+        "employees": {
+            "industriarb": 10
+        },
+        "ownership": "Ägare o. chef: fabr. Gustav Ambjörnson"
+    },
+    "4": {
+        "name": "Fredrik Gedin",
+        "location": "Hälsingborg",
+        "business": "Tillverkar konstgjorda blommor, dekorationsartiklar, leksaksdjur i plastisk konstmassa, begravningsartiklar samt scarves",
+        "contact": {
+            "telegraph": "Fregedin, Hälsingborg",
+            "phone": [
+                "20830"
+            ],
+            "postgiro": "90519"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "1,300,000 kr"
+        },
+        "ownership": "Ägare o. chef: dir. Fredrik Gedin"
+    },
+    "5": {
+        "name": "Cefa AB.",
+        "location": "Tranemo",
+        "business": "Tillverkar arbetskläder, byxor, sportjackor, skiddräkter m. m.",
+        "contact": {
+            "phone": [
+                "70100"
+            ],
+            "postgiro": "134638"
+        },
+        "financials": {
+            "capital": "52,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "foundation_year": 1937
+        },
+        "board": [
+            {
+                "name": "landsfiskal Anders Gustavson",
+                "role": "Styrelseordf. o. verkst. dir."
+            }
+        ]
+    },
+    "6": {
+        "name": "AB. Geform",
+        "location": "Hjo",
+        "business": "Korsettfabrik i Hjo (Skarab. l.). Tillverkar korsetter, korseletter samt bysthållare. Varumärke: »Geform»",
+        "contact": {
+            "phone": [
+                "123"
+            ],
+            "postgiro": "82040"
+        },
+        "financials": {
+            "capital": "16,000 kr",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "100,000 kr",
+            "foundation_year": 1939
+        },
+        "director": "Ragnar Dahlgren"
+    },
+    "7": {
+        "name": "Gegerfelt &amp; Weijdling AB.",
+        "location": "Göteborg",
+        "business": "Makaronifabrik. Tillverkar makaroner, sago- och potatisgryn, ris- och vetestärkelse, dextrin och torrklister",
+        "contact": {
+            "office": "Vädursg. 2",
+            "telegraph": "Gegerfelt, Göteborg",
+            "phone": [
+                "151970"
+            ],
+            "postgiro": "40478"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "board": [
+            {
+                "name": "disp. Gunnar Loven",
+                "role": "Styrelseordf."
+            },
+            {
+                "name": "adv. K. A. Vinge",
+                "role": null
+            }
+        ],
+        "director": null
+    },
+    "8": {
+        "name": "AB. Gemax-Clas",
+        "location": "Bosersberg",
+        "business": "Tillverkar splitterfritt glas, pansarglas samt härdat glas för trafikmedel, byggnadsändamål och inredningar ävensom for skyddsglasögon vid fabrik i Rosersberg (Sthlms l.).",
+        "contact": {
+            "phone": null,
+            "postgiro": null
+        }
+    }
+}

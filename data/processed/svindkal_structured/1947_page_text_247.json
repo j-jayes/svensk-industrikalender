@@ -1,0 +1,156 @@
+{
+    "1": {
+        "name": "Dockans Fabriks AB",
+        "location": "Söderköping",
+        "business": "Mekanisk verkstad, förnicklings- och snickerifabrik",
+        "contact": {
+            "office": "Söderköping",
+            "phone": "435",
+            "postgiro": "131783"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "Erik Wäström",
+                "role": "Verkställande direktör (Norrköping)"
+            }
+        ]
+    },
+    "2": {
+        "name": "Domkraft AB",
+        "location": "Nike, Eskilstuna",
+        "business": "Mekanisk verkstad och aduceringsgjuteri",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": "32439, 34469, 35669, 30811",
+            "postgiro": "85282",
+            "telegraph": "Nikedomkraft, Eskilstuna"
+        },
+        "financials": {
+            "capital": "550,000 kr",
+            "employees": {
+                "industriarb": 105
+            }
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "Ordförande"
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "Filosofie licentiat"
+            },
+            {
+                "name": "Hj. Degerstedt",
+                "role": "Direktör"
+            },
+            {
+                "name": "Hugo Eclstam",
+                "role": "Direktör"
+            },
+            {
+                "name": "G. Osvalcl",
+                "role": "Direktör"
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "Direktör"
+            }
+        ],
+        "director": "Herbert Landin"
+    },
+    "3": {
+        "name": "Domnarfvets Jernverk",
+        "location": "Domnarvet",
+        "business": "Järn- och stålverk",
+        "contact": {
+            "office": "Borlänge",
+            "phone": "Domnarfvets Jernverk, Borlänge",
+            "telegraph": "Jernverket, Domnarvet"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 2700
+            },
+            "annual_production_value": "200,000 ton järnvaror"
+        },
+        "board": [
+            {
+                "name": "Sixten Wohlfahrt",
+                "role": "Verkschef"
+            },
+            {
+                "name": "Sven v. Hofsten",
+                "role": "Övering. (överingenjör)"
+            },
+            {
+                "name": "Bror Hanson",
+                "role": "Försäljningschef"
+            }
+        ]
+    },
+    "4": {
+        "name": "Domsands Verkstads AB",
+        "location": "Bankeryd",
+        "business": "Tillverkning av pressade massartiklar för radio- o. elarmatur, penselringar m. m.",
+        "contact": {
+            "office": "Bankeryd",
+            "phone": "194",
+            "postgiro": "173799"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "425,000 kr"
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "Eskil H. Bengtson",
+                "role": "Verkställande direktör"
+            },
+            {
+                "name": "Peter Räf",
+                "role": "Kamrer"
+            }
+        ]
+    },
+    "5": {
+        "name": "Dorclt, Bäcksin & Co:s AB.",
+        "location": "Göteborg",
+        "business": "Färg-, ferniss- och kem.-tekn. fabrik vid Agnesberg (Älvsb. l.)",
+        "contact": {
+            "office": "Göteborg",
+            "phone": "N. Hamng. 24",
+            "postgiro": "44000",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Brunkebergsg. 3, 102456"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "Hermansg. 7, 18770"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,250,000 kr",
+            "employees": {
+                "industriarb": 125
+            }
+        },
+        "foundation_year": 1889
+    }
+}

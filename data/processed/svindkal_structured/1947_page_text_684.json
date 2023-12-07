@@ -1,0 +1,161 @@
+{
+    "1": {
+        "name": "AB. Svenska Pälsvarufabriken",
+        "location": "Göteborg",
+        "business": "Tillverkar alla slags pälsvaror",
+        "contact": {
+            "office": "Stigbergsg. 1",
+            "phone": [
+                "125436"
+            ],
+            "postgiro": "40900",
+            "telegraph": "Svenskpels, Göteborg"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1942,
+        "board": [
+            {
+                "name": "ing. Allan Alfredéen",
+                "role": "Verh stads chef"
+            }
+        ]
+    },
+    "2": {
+        "name": "Svenska Radio AB",
+        "location": "Stockholm",
+        "business": "Elektromek. fabrik",
+        "products": "Tillverkar radiomottagare och radiosändare, högtalareanläggningar, centralradio, högtalare, grammofonskivor, transformatorer, signallampor för telefonändamål, apparater för interurbantelefoni såsom högfrekvensanläggningar, provutrustningar för interurbanstationer, telefonförstärkare m. m. samt utför anläggningar för trådlös telegrafi och telefoni.",
+        "contact": {
+            "office": "Alströmerg. 12",
+            "phone": [
+                "Svenska Radiobolaget"
+            ],
+            "postgiro": "2838",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": ""
+                },
+                {
+                    "location": "Malmö",
+                    "phone": ""
+                },
+                {
+                    "location": "Norrköping",
+                    "phone": ""
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": ""
+                },
+                {
+                    "location": "Örebro",
+                    "phone": ""
+                }
+            ]
+        },
+        "financials": {
+            "capital": "875,000 kr",
+            "employees": {
+                "industriarb": 670
+            }
+        },
+        "corporation_year": 1919,
+        "board": [
+            {
+                "name": "dir. Hans Th. Holm",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Hemming Johansson",
+                "role": "v. ordf."
+            },
+            {
+                "name": "amiral H. W. Grant",
+                "role": ""
+            },
+            {
+                "name": "övering. Seth Ljung-qvist",
+                "role": ""
+            },
+            {
+                "name": "grossh. U. Salchow",
+                "role": ""
+            },
+            {
+                "name": "H. V. Alexandersson",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Bertil Svensson",
+                "role": "V. verkst. dir."
+            },
+            {
+                "name": "Karl Jansson",
+                "role": "Inköpschef"
+            },
+            {
+                "name": "Hjalmar Carlsson",
+                "role": "Försäljn.-chef"
+            }
+        ]
+    },
+    "3": {
+        "name": "Svenska Rakbladsfabriken AB",
+        "location": "Grästorp",
+        "business": "Tillverkar rakblad och rakhyvlar vid fabrik i Grästorp (Skarab. l.)",
+        "products": "Varumärken: »Record» o. »Aeterna».",
+        "contact": {
+            "phone": [
+                "Svenskablad"
+            ],
+            "postgiro": "6015"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "corporation_year": 1941
+        },
+        "board": [
+            {
+                "name": "jur. kand. Tell Thunberg",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "G. Bandh",
+                "role": "Kamrer"
+            }
+        ]
+    },
+    "4": {
+        "name": "Svenska Reklambandfabriken Nya AB",
+        "location": "Linköping",
+        "products": "Se Reklamband, Svenska Reklambandfabriken Nya AB., Linköping."
+    },
+    "5": {
+        "name": "Svenska Remfabriks AB",
+        "location": "Gislaved",
+        "business": "Garveri och remfabrik"
+    },
+    "6": {
+        "name": "AB. Svenska Reservoarpennfabriken",
+        "location": "Strömstad",
+        "business": "Tillverkar reservoarpennor för bläck",
+        "products": "Varumärken: »Runa» o. »Scribo»."
+    },
+    "7": {
+        "name": "Svenska Rökpipfabriken",
+        "location": "Lerum",
+        "business": "Tillverkar rökpipor vid fabrik i Lerum (Älvsb. l.)",
+        "products": "Varumärke: »SRF-Lerum»."
+    }
+}

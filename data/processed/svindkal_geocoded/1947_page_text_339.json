@@ -1,0 +1,197 @@
+{
+    "1": {
+        "name": "AB. Göteborgs Kappfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar damkappor och dräkter",
+        "contact": {
+            "office": "N. Hamng. 36",
+            "phone": [
+                "117706",
+                "137706"
+            ],
+            "postgiro": "48805"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1940,
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "dir. Gustaf Werner",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Frans H. Nilsson",
+                "role": "disp."
+            },
+            {
+                "name": "disp. C. O. Smedmark",
+                "role": "disp."
+            }
+        ],
+        "director": "C. O. Smedmark",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "AB. Göteborgs Kapsylfabrik",
+        "location": "Göteborg",
+        "business": "Metall varufabrik. Tillverkar tuber (förpacknings-), stanniol, tennplåt, tennband, blyfolier, blyplåt, blyband, blypackningar, aluminiumhalvfabrikat (plåt, band, rondeller etc.), kapsyler, lödtenn i band och stänger, babbits, plomber, knappar, aluminiumhylsor och -burkar, skruvkapsyler, stansade, pressade och dragna massartiklar av järn och metall.",
+        "contact": {
+            "office": "Kilsgatan 4",
+            "telegraph": "Kap-sylfabriken, Göteborg",
+            "phone": "192100",
+            "postgiro": "12384"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1902,
+        "board": [
+            {
+                "name": "civiling. K. A. Risberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Bo Risberg",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Per Risberg",
+                "role": "dir."
+            }
+        ],
+        "director": "Bo Risberg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "3": {
+        "name": "AB. Göteborgs Kassaskåpsfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar kassaskåp, valvdörrar och inmurningsskåp",
+        "contact": {
+            "office": "Kustens Varv"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1942,
+        "board": [
+            {
+                "name": "disp. John A. Andersson"
+            }
+        ],
+        "director": "disp. John A. Andersson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "Göteborgs Kemiska Fabriks AB.",
+        "location": "Göteborg",
+        "business": "Kem.-tekn. fabrik å Hisingen, Göteborg. Tillverkar maskinfett såsom kul-lagerfett, konsistensfett, varmlagerfett, fiberfett, hard solid oil, kugghjulssmörjor, linsmörjor, remsmörjor, remvax och vagnsfett; tjär produkter såsom asfalt-tjära och andra taktjäror, fiskegarns-tjära, black varnish, karbolineum och skeppsbeck; industrifärger och fernissor såsom maskinfärger, redskapsfärger, rostskyddsfärger, oljeriven blymönja (non setting), modellack, asfaltlack, färdiglagade oljeslamfärger, kallvattenfärger m. fl. — Varumärke: »BRIO».",
+        "contact": {
+            "office": "Motorg. 1",
+            "telegraph": "01eum&gt; Göteborg",
+            "phone": "222801—02"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "board": [
+            {
+                "name": "dir. Håkan Ekman",
+                "role": "verkst. dir."
+            }
+        ],
+        "director": "dir. Håkan Ekman",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "5": {
+        "name": "Göteborgs Kem.-Tekn. Fabrik, John Larson",
+        "location": "Göteborg",
+        "business": "Tillverkar industriförnödenheter, rengöringsmedel, kosmetiska och hygieniska preparat samt permanentpreparat. Varumärken: »Vasco», »Colcin», »Diana» o. »Termisole». Firman driver även engroshandel med tekniska artiklar och industriförnödenheter av främmande fabrikat.",
+        "contact": {
+            "office": "ö. Hamng. 4",
+            "telegraph": "Vasco-fabriken, Göteborg",
+            "phone": "222045",
+            "postgiro": "41240"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 14
+            }
+        },
+        "director": "fabr. John Larson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "Göteborgs Kexfabriks AB.",
+        "location": "Kungälv",
+        "business": "Tillverkar kex, wafers, kola, marmelad och chokladvaror",
+        "contact": {
+            "office": "Kungälv",
+            "telegraph": "Kexfabriken, Kungälv",
+            "phone": "Kexfabriken, Kungälv",
+            "postgiro": "8995"
+        },
+        "financials": {
+            "capital": "2,380,000 kr",
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": "6,000,000 kr"
+        },
+        "board": [
+            {
+                "name": "adv. Birger Melin",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Sven Colliander",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. Ernfr. Samuelson"
+            },
+            {
+                "name": "dir. Sigfrid Wedel"
+            }
+        ],
+        "director": "Axel E. Thornberg",
+        "coordinates": {
+            "Latitude": 57.86975400000001,
+            "Longitude": 11.9740317
+        }
+    }
+}

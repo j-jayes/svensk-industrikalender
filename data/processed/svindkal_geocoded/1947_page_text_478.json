@@ -1,0 +1,290 @@
+{
+    "1": {
+        "name": "Ljungby Konfektions Industri",
+        "location": "Ljungby",
+        "business": "Tillverkning av skjortor, byxor och arbetskläder",
+        "products": "Varumärke: »Elki»",
+        "contact": {
+            "office": "Telefon: 175, Postgiro: 77377",
+            "employees": {
+                "industriarb": 80
+            }
+        },
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "Ej tillgängligt": "Ej tillgängligt"
+            },
+            "annual_turnover": "585,000 kr",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "foundation_year": 1928,
+        "director": "Manfred Svensson",
+        "coordinates": {
+            "Latitude": 56.8338774,
+            "Longitude": 13.9410417
+        }
+    },
+    "2": {
+        "name": "AB. Ljungby Möbelindustri",
+        "location": "Ljungby",
+        "business": "Tillverkning av butiksinredningar",
+        "contact": {
+            "office": "Telefon: 334, Postgiro: 22408"
+        },
+        "financials": {
+            "capital": "22,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "250,000 kr",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "köpm. Edvin Tranberg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Herman Green",
+                "role": "Ej tillgängligt"
+            },
+            {
+                "name": "dir. Harald Mörck",
+                "role": "Ej tillgängligt"
+            }
+        ],
+        "sales_manager": "Harald Mörck",
+        "manager": "Ej tillgängligt",
+        "coordinates": {
+            "Latitude": 56.8338774,
+            "Longitude": 13.9410417
+        }
+    },
+    "3": {
+        "name": "Ljungby Snickerifabrik, Andersson & Son",
+        "location": "Ljungby",
+        "business": "Tillverkning av lamelldörrar",
+        "contact": {
+            "office": "Telefon: 201, Postgiro: 174129",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "Ej tillgängligt": "Ej tillgängligt"
+            },
+            "annual_turnover": "Ej tillgängligt",
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1919,
+        "director": "fabr. F. E. Alf fram",
+        "coordinates": {
+            "Latitude": 56.8338774,
+            "Longitude": 13.9410417
+        }
+    },
+    "4": {
+        "name": "AB. Ljungby Stålgjuteri",
+        "location": "Ljungby",
+        "business": "Tillverkning av smärre och medelgrovt stålgjutgods samt sten-krossplattor av högprocentigt manganstål",
+        "contact": {
+            "office": "Telegr.-adr.: Stålgjuteriet, Ljungby, Telefon: 8. o. 108, Postgiro: 24016",
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "Ej tillgängligt": "Ej tillgängligt"
+            },
+            "annual_turnover": "630,000 kr",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "adv. Per Yngström",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Herman Andersson",
+                "role": "Ej tillgängligt"
+            },
+            {
+                "name": "fru N. Hartman",
+                "role": "Ej tillgängligt"
+            },
+            {
+                "name": "byråsekr. Nils Yngström",
+                "role": "Ej tillgängligt"
+            },
+            {
+                "name": "civiling. Per Yngström",
+                "role": "Ej tillgängligt"
+            }
+        ],
+        "director": "Herman Andersson",
+        "coordinates": {
+            "Latitude": 56.8338774,
+            "Longitude": 13.9410417
+        }
+    },
+    "5": {
+        "name": "Ljungby Trikåindustri, D. Nyqvist",
+        "location": "Ljungby",
+        "business": "Tillverkning av herr-, dam- och barnunderkläder",
+        "contact": {
+            "office": "Telefon: 324, Postgiro: 131570",
+            "employees": {
+                "Ej tillgängligt": "Ej tillgängligt"
+            }
+        },
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "Ej tillgängligt": "Ej tillgängligt"
+            },
+            "annual_turnover": "290,000 kr",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "foundation_year": 1936,
+        "director": "fabr. David Nyqvist",
+        "coordinates": {
+            "Latitude": 56.8338774,
+            "Longitude": 13.9410417
+        }
+    },
+    "6": {
+        "name": "AB. Ljungby Velociped- och Förnicklingsfabrik",
+        "location": "Ljungby",
+        "business": "Tillverkning av velocipeddelar såsom styrstänger, pedaler, sadelstolpar, skärmstag m. m",
+        "contact": {
+            "office": "Telefon: 143, Postgiro: 98400..",
+            "employees": {
+                "industriarb": 70
+            }
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "Ej tillgängligt": "Ej tillgängligt"
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "foundation_year": 1918,
+        "managing_director": "Egon Sjöberg o. Torsten Weidrup",
+        "coordinates": {
+            "Latitude": 56.8338774,
+            "Longitude": 13.9410417
+        }
+    },
+    "7": {
+        "name": "C. Ljungdahls Handels & Fabriks AB.",
+        "location": "Lerum",
+        "business": "Färg-, ferniss- och kem.-teknisk fabrik",
+        "contact": {
+            "office": "Inköps- och försäljningskontor: Göteborg, S:t Eriksg. 4",
+            "phone": {
+                "Göteborg": "174760"
+            },
+            "employees": {
+                "industriarb": 26
+            }
+        },
+        "financials": {
+            "capital": "165,000 kr",
+            "employees": {
+                "Ej tillgängligt": "Ej tillgängligt"
+            },
+            "annual_turnover": "2,400,000 kr",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "ing. Oscar Ljungdahl",
+                "role": "Ej tillgängligt"
+            },
+            {
+                "name": "dir. Gunnar Ringström",
+                "role": "Ej tillgängligt"
+            },
+            {
+                "name": "disp. Torsten Ringström",
+                "role": "Ej tillgängligt"
+            }
+        ],
+        "director": "Gunnar Ringström",
+        "coordinates": {
+            "Latitude": 57.7694839,
+            "Longitude": 12.2688197
+        }
+    },
+    "8": {
+        "name": "AB. Sture Ljungdahl & Co.",
+        "location": "Nybro",
+        "business": "Kuvertfabrik och boktryckeri",
+        "contact": {
+            "office": "Telegr.-adr.: Ljungdahls, Nybro, Telefon: »Ljungdahls fabriker», Postgiro: 9477",
+            "phone": {
+                "Stockholm": "114613",
+                "Göteborg": "134585",
+                "Malmö": "72160"
+            },
+            "employees": {
+                "industriarb": 225
+            }
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "Ej tillgängligt": "Ej tillgängligt"
+            }
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "kontorschef Anders Ljungdahl",
+                "role": "ordf."
+            },
+            {
+                "name": "kontorist Evald Ljungdahl",
+                "role": "Ej tillgängligt"
+            },
+            {
+                "name": "fabrikschef Ivar Ljungdahl",
+                "role": "Ej tillgängligt"
+            },
+            {
+                "name": "dir. Sture Ljungdahl",
+                "role": "Ej tillgängligt"
+            },
+            {
+                "name": "kamrer A. W. Öländer",
+                "role": "Ej tillgängligt"
+            }
+        ],
+        "director": "Sture Ljungdahl",
+        "manager": "A. W. Öländer",
+        "coordinates": {
+            "Latitude": 56.745012,
+            "Longitude": 15.907874
+        }
+    },
+    "9": {
+        "name": "AB. Bröderna Ljungdell",
+        "location": "Malmö",
+        "director": "Ej tillgängligt",
+        "manager": "Ej tillgängligt",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    }
+}

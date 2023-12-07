@@ -1,0 +1,195 @@
+{
+    "1": {
+        "name": "Elektriska Apparatfabriken Glory",
+        "location": "Mariefred",
+        "business": "Tillverkar elektr. värmedynor samt elektromed. värmelampor",
+        "products": "Varumärke: »Glory»",
+        "contact": {
+            "office": "Glory, Mariefred",
+            "phone": [
+                "39"
+            ],
+            "postgiro": "21308",
+            "telegraph": "Glory, Mariefred"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "total": 7
+            },
+            "annual_turnover": "90,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1925,
+        "owners": [
+            "fröken Kerstin Johansson",
+            "fru Anna Strandmark"
+        ],
+        "director": "Kerstin Johansson"
+    },
+    "2": {
+        "name": "Elektriska AB. Ergo",
+        "location": "Västerås",
+        "business": "Tillverkar elektriska värmeapparater",
+        "products": "såsom värmeplattor, kokskåp, vattenvär-mare, värmeelement för kyrkor, radiatorer, värmebatterier för pressluft, cirkulationsapparater för vatten, olja o. d., värmeanläggningar med automatisk temperaturreglering m. m.",
+        "contact": {
+            "phone": "39010—12",
+            "postgiro": "8702"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "total": 40
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1922,
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "ing. Johan A. Carlberg",
+                "role": "ordf."
+            },
+            {
+                "name": "verkm. Erik O. Larsson"
+            },
+            {
+                "name": "ing. G. E. Schnell"
+            }
+        ],
+        "director": "Johan A. Carlberg",
+        "sales_manager": "G. E. Schnell"
+    },
+    "3": {
+        "name": "Elektriska AB. Helios",
+        "location": "Stockholm",
+        "business": "Elektromek. verkstad",
+        "products": "Tillverkar elvärmeapparater såsom spisar, kaminer, kokkärl, strykjärn, värmeplattor, värmeskåp, bakugnar, vattenvärmare m. m. samt elvärmeutrustningar för stor kök, restauranger, bagerier, industrier, laboratorier etc.",
+        "contact": {
+            "office": "Heliosv. 12",
+            "phone": [
+                "Elektrohelios, Stockholm"
+            ],
+            "postgiro": "2804"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "total": 740
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "dir. Hugo Edström"
+            },
+            {
+                "name": "dir. Alb. Elfström"
+            },
+            {
+                "name": "dir. Thorsten Ericson"
+            },
+            {
+                "name": "kamrer Tore Lindén"
+            }
+        ],
+        "director": "Hugo Edström",
+        "sales_manager": "Tore Lindén",
+        "manager": "N. Wollart"
+    },
+    "4": {
+        "name": "Elektriska Industri AB.y",
+        "location": "Stockholm",
+        "business": "Elektromek. verkstad",
+        "products": "Tillverkar radiomateriel och radioapparater",
+        "contact": {
+            "office": "Hudiksvallsg. 6",
+            "phone": [
+                "232140"
+            ],
+            "postgiro": [
+                "1339",
+                "58449"
+            ],
+            "exhibition": "Drottningg. 85"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "total": 60
+            },
+            "annual_turnover": "1,800,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1926,
+        "board": [
+            {
+                "name": "ing. W. Berling"
+            },
+            {
+                "name": "civiling. Håkan Kjörling"
+            },
+            {
+                "name": "kamrer E. Westin"
+            }
+        ],
+        "manager": "Håkan Kjörling"
+    },
+    "5": {
+        "name": "Elektriska AB. Käwe",
+        "location": "Sundbyberg",
+        "business": "Elektromek. verkstad",
+        "products": "Tillverkar hårtorkningsapparater, permanentapparater samt länkrullar",
+        "contact": {
+            "phone": [
+                "281266"
+            ],
+            "postgiro": "162141"
+        },
+        "financials": {
+            "capital": "8,000 kr",
+            "employees": {
+                "total": 13
+            },
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1934,
+        "director": "Karl Andersson"
+    },
+    "6": {
+        "name": "Elektriska AB. Lindström & Andeli",
+        "location": "Göteborg",
+        "business": "Elektromek. verkstad",
+        "products": "Tillverkar transformatorer och elektr. startapparater samt utför reparationer och omlindningar av elektr. motorer, generatorer, transformatorer m. m.",
+        "contact": {
+            "office": "Göteborg, Odinsplatsen 2 B",
+            "phone": [
+                "172730"
+            ],
+            "postgiro": "12280",
+            "branch_office": {
+                "location": "Stockholm",
+                "phone": [
+                    "672041",
+                    "672044"
+                ]
+            }
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "total": 84
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1934,
+        "director": "Albin Andeli"
+    }
+}

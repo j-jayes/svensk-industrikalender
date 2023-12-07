@@ -1,0 +1,209 @@
+{
+    "1": {
+        "name": "Rummens Möbelindustri",
+        "location": "Gamléby",
+        "business": "Tillverkar kontors- och bostadsmöbler, bank- och affärsinredningar vid möbelfabrik i Gamleby (Kalmar l.)",
+        "contact": {
+            "office": "Gamléby",
+            "phone": [
+                "259 C"
+            ],
+            "postgiro": "3046"
+        },
+        "financials": {
+            "capital": "103.000 kr",
+            "employees": {
+                "total": 10
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1908,
+        "corporation_year": 1920,
+        "board": [
+            {
+                "name": "fru C. Engström",
+                "role": "ordförande"
+            },
+            {
+                "name": "C. G. Jäderblom",
+                "role": "disp."
+            }
+        ]
+    },
+    "2": {
+        "name": "Runa, Skofabriks AB.",
+        "location": "Örebro",
+        "business": "Se Skofabriks AB. Runa, Örebro"
+    },
+    "3": {
+        "name": "Karl Rundgren",
+        "location": "Borås",
+        "business": "Väveri. Tillverkar överkast, draperityger och gardiner samt borddukar"
+    },
+    "4": {
+        "name": "Edvin Rundlöf",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m.m.",
+        "contact": {
+            "office": "Triewaldsgränd 2",
+            "phone": [
+                "116852",
+                "205365"
+            ],
+            "postgiro": "57813"
+        },
+        "foundation_year": 1929,
+        "owner": "byggm. Edvin Rundlöf"
+    },
+    "5": {
+        "name": "Rundviks Ångsåg",
+        "location": "Lögdeå",
+        "business": "Se Nördmalings Ångsågs AB., Nordmaling."
+    },
+    "6": {
+        "name": "Runemo Sågverks AB.",
+        "location": "Bunemo",
+        "business": "Sågverk och hyvleri i Runemo (Gävleb. L). Tillverkar sågade och hyvlade trävaror",
+        "contact": {
+            "telegraph": "Runemosåg, Bollnäs",
+            "phone": "Alfta 4"
+        },
+        "financials": {
+            "capital": "234,250 kr",
+            "employees": {
+                "total": 75
+            },
+            "annual_turnover": "3,500 stds sågade och hyvlade trävaror",
+            "corporation_year": 1900
+        },
+        "board": [
+            {
+                "name": "dir. Carl Trygger",
+                "role": "ordf."
+            },
+            {
+                "name": "dr Gunnar Sundblad",
+                "role": null
+            },
+            {
+                "name": "jur. kand. Hans Westberg",
+                "role": null
+            },
+            {
+                "name": "skogschef Rolf Ålund",
+                "role": null
+            }
+        ],
+        "managing_director": "Gunnar Sundblad"
+    },
+    "7": {
+        "name": "Fabriken Rurik",
+        "location": "Karlshamn"
+    },
+    "8": {
+        "name": "Nils Ruthérs Möbelfabrik",
+        "location": "Nässjö",
+        "business": "Tillverkar kompletteringsmöbler vid fabrik i Nässjö (Jönköp. l.)",
+        "contact": {
+            "phone": "997",
+            "postgiro": "164652"
+        },
+        "financials": {
+            "employees": {
+                "total": 16
+            },
+            "annual_production_value": "180,000 kr"
+        },
+        "foundation_year": 1937,
+        "original_name": "Husinredningar",
+        "current_name_year": 1945,
+        "owner": "fabr. Nils Ruthér"
+    },
+    "9": {
+        "name": "AB. Ruteverken",
+        "location": "Slite",
+        "business": "Tillverkar trottoarplattor, byggnadsmaterial av lättbetong (»Siporex»), samt kalkstensmjöl vid fabrik i Rute (GofcL l.)",
+        "contact": {
+            "head_office": "Slite",
+            "phone": "Slitecement",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "234780"
+                }
+            ],
+            "postgiro": "37503"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "total": 90
+            },
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1933,
+        "predecessor": "Vallevikens Cementfabrik",
+        "board": [
+            {
+                "name": "dir. Ernst Wehtje",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Arendt de Jounge",
+                "role": null
+            },
+            {
+                "name": "dir. Malte Ström",
+                "role": null
+            }
+        ],
+        "managing_director": "Arendt de Jounge"
+    },
+    "10": {
+        "name": "AB. Ruuthsbo Konservfabriker",
+        "location": "Ystad",
+        "business": "Tillverkar konserver av ärter, sparris, champinjoner, frukt m.m. Bolaget har egna grönsaksodlingar",
+        "contact": {
+            "telegraph": "Ark, Ystad",
+            "phone": "948",
+            "postgiro": "12962"
+        },
+        "financials": {
+            "capital": "177,000 kr",
+            "employees": {
+                "total": 30
+            },
+            "annual_production_value": "650,000 kr"
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1921,
+        "board": [
+            {
+                "name": "grossh. Oscar Möller",
+                "role": null
+            },
+            {
+                "name": "disp. Bror Tibell",
+                "role": null
+            },
+            {
+                "name": "disp. S.-Å. Åkeson",
+                "role": null
+            }
+        ],
+        "managing_director": "Bror Tibell",
+        "sales_manager": "Otto Linder"
+    },
+    "11": {
+        "name": "Rydhs Fabriks AB.",
+        "location": "Virserum",
+        "business": "Mek. verkstad i Virserum (Kalmar l.). Tillverkar semitrailer, släpvagnar, boggieaxlar för lastbilar, släpvagns- och hästvagnsaxlar samt plåthjul och pressningsarbeten",
+        "contact": {
+            "phone": "Rydhs AB.",
+            "postgiro": "164717"
+        },
+        "financials": {
+            "capital": "40,000 kr"
+        }
+    }
+}

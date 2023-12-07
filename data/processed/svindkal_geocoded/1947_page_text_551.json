@@ -1,0 +1,205 @@
+{
+    "1": {
+        "name": "Nya Mekaniska Taberg AB",
+        "location": "Smålands Taberg",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Tillverkar manglar och vricLmaskiner samt gjutgods på beställning.",
+        "contact": {
+            "office": "In Smålands Taberg (Jönköp. l.)",
+            "phone": [
+                "72",
+                "202"
+            ],
+            "postgiro": "23419"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 80
+            }
+        },
+        "foundation_year": 1920,
+        "coordinates": {
+            "Latitude": 57.68333329999999,
+            "Longitude": 14.0833333
+        }
+    },
+    "2": {
+        "name": "Nya AB. Eskil Metzén",
+        "location": "Malmö",
+        "business": "Färgeri och kemisk tvättanstalt",
+        "contact": {
+            "office": "Kopparbergsg. 3",
+            "phone": [
+                "Metzéns Kemiska Tvätt"
+            ],
+            "postgiro": "39947"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "foundation_year": 1850,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "3": {
+        "name": "Nya Murbruksfabrikens i Stockholm AB.",
+        "location": "Stockholm",
+        "business": "Murbruksfabriker",
+        "products": "Tillverkar mur- och putsbruk, fasad- och sockelputs samt träullsplattor och fönster.",
+        "contact": {
+            "office": "Jakobsbergsg. 2",
+            "telegraph": "Murbruksfabriken, Stockholm",
+            "postgiro": "1275"
+        },
+        "financials": {
+            "capital": "720,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "6,000,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1889,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Nya Möbelfabriken, Pettersson & Co.",
+        "location": "Värnamo",
+        "business": "Tillverkar möbler",
+        "products": "Tillverkar möbler av ek och björk. Specialitet: skulpterade och antikpatinerade ekmöbler.",
+        "contact": {
+            "phone": [
+                "10020",
+                "10199",
+                "1061"
+            ],
+            "postgiro": "32703"
+        },
+        "financials": {
+            "capital": "96,000 kr",
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": 1923,
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        }
+    },
+    "5": {
+        "name": "Nya Möbelfabriken, Einar Rostedt",
+        "location": "Sävsjö",
+        "business": "Tillverkar möbler",
+        "products": "Tillverkar möbler vid fabrik i Sävsjö (Jönköp. l.). Specialitet: Matsalsmöbler.",
+        "contact": {
+            "phone": [
+                "104"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 9
+            }
+        },
+        "foundation_year": 1926,
+        "coordinates": {
+            "Latitude": 57.39899579999999,
+            "Longitude": 14.6658136
+        }
+    },
+    "6": {
+        "name": "Nya Möbelfabriksföreningen, u. p. a.",
+        "location": "Glimåkra",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar möbler, butiks- och skolinredningar.",
+        "contact": {
+            "phone": [
+                "53"
+            ],
+            "postgiro": "23792"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1918,
+        "coordinates": {
+            "Latitude": 56.3028124,
+            "Longitude": 14.1337053
+        }
+    },
+    "7": {
+        "name": "Nya AB. Njurunda Industrier",
+        "location": "Njurunda",
+        "business": "Smidesfabrik och motorreparationsverkstad samt elektr. kraftstation",
+        "products": "Tillverkar hugg- och barkmasikinsknivar, specialstål för träbearbetningsmaskiner, väghyvelstål samt hydrauliska tippar för lastautomobiler.",
+        "contact": {
+            "telegraph": "Industrierna, Sundsvall",
+            "phone": [
+                "Njurunda 8"
+            ]
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 16
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1919,
+        "coordinates": {
+            "Latitude": 62.27070439999999,
+            "Longitude": 17.3718572
+        }
+    },
+    "8": {
+        "name": "Nya AB. Nordiska Måttstockfabriken",
+        "location": "Fristad",
+        "business": "Tillverkar trämåttstockar, trädgårdsmöbler samt slipssträckare",
+        "contact": {
+            "telegraph": "Nordmått, Fristad",
+            "phone": [
+                "Borås 60035"
+            ],
+            "postgiro": "52177"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1928,
+        "coordinates": {
+            "Latitude": 57.824945,
+            "Longitude": 13.007778
+        }
+    },
+    "9": {
+        "name": "Nya AB. Resinit",
+        "location": "Västervik",
+        "business": "Bakelitfabrik",
+        "products": "Tillverkar bakelitprodukter såsom elektr. isoleringsmateriel, tystgående kugghjul och ämnen härtill m. m.",
+        "contact": {
+            "telegraph": "Resinit, Västervik",
+            "phone": [
+                "191",
+                "927"
+            ],
+            "postgiro": "270800"
+        },
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        }
+    }
+}

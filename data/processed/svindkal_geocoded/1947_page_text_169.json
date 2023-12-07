@@ -1,0 +1,205 @@
+{
+    "1": {
+        "name": "Aurora AvisO-Systemet",
+        "location": "Stockholm",
+        "business": "Manufacturing of våningsregister, tavlor för valutanoteringar, skyltning, utställningar, teater- och biografprogram, tidtabeller and matsedlar",
+        "products": "Orienteringstavlor för industrier and ämbetsverk",
+        "contact": {
+            "office": "Näckströmsg. 1",
+            "phone": [
+                "110212"
+            ],
+            "postgiro": "3008"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": 6,
+            "annual_turnover": "125,000 kr"
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "ing. Walle Bergström",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "Avesta Bryggeri AB",
+        "location": "Avesta",
+        "business": "Manufacturing of malt- and läskedrycker",
+        "contact": {
+            "phone": [
+                "5030"
+            ],
+            "postgiro": "98303"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": 15
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "Eric Åkesson",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "I. Hintze",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.14532999999999,
+            "Longitude": 16.1738399
+        }
+    },
+    "3": {
+        "name": "Avesta Jernverks AB",
+        "location": "Avesta",
+        "business": "Manufacturing of tackjärn, ferrolegeringar, göten, stång- and fasonjärn, bergborrstål, järn- och stålplåt, pressade and svetsade grovplåtsarbeten, pressade gasbehållare, komprimerade and svarvade axlar, smiden, stål, and tackjärnsgjutgods",
+        "products": "Rostfritt, syrafast and värmebestän-digt stål and gjutgods",
+        "contact": {
+            "office": "Stureplan 3",
+            "factory_office": "Avesta",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "»Johnsons»"
+                }
+            ],
+            "postgiro": "50730"
+        },
+        "financials": {
+            "capital": "8,000,000 kr",
+            "employees": 2200,
+            "annual_turnover": "40,000,000 kr"
+        },
+        "foundation_year": "Början av 1300-talet",
+        "board": [
+            {
+                "name": "Axel ^ Ax:sonJohnson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Vilhelm Björkman",
+                "role": "dir."
+            },
+            {
+                "name": "Walfrid Eriksson",
+                "role": "disp."
+            },
+            {
+                "name": "Axel Ax:sonJohnson J:r",
+                "role": "bergsing."
+            },
+            {
+                "name": "G. Raabe",
+                "role": "dir."
+            }
+        ],
+        "director": "Axel Ax:son Johnson J:r",
+        "managing_director": "Walfrid Eriksson",
+        "sales_manager": "Sten Sandlund",
+        "coordinates": {
+            "Latitude": 60.14532999999999,
+            "Longitude": 16.1738399
+        }
+    },
+    "4": {
+        "name": "Auto-Metallfabrik Ulvsunda",
+        "location": "Ulvsunda, Stockholm",
+        "business": "Manufacturing of kylare and kylelement for motorer, värmebatterier, automobiltillbehör, cylinderlocks-packningar m. m.",
+        "contact": {
+            "telegraph": "Autometall, Stockholm",
+            "phone": "Stockholm 282695",
+            "postgiro": "75332"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": 130
+        },
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "fabr. Oscar Dahlberg",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.33688530000001,
+            "Longitude": 17.9638876
+        }
+    },
+    "5": {
+        "name": "Automekan Sundsvall",
+        "location": "Sundsvall",
+        "business": "Tillverkar motordrivna hydrauliska tippanordningar, oljepumpar samt hydrauliska verkstadspressar and universella motorställ",
+        "contact": {
+            "phone": "3232",
+            "postgiro": "82505"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": 25,
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "disp. J. W. Norberg",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        }
+    },
+    "6": {
+        "name": "Avancemotor Eskilstuna",
+        "location": "Eskilstuna",
+        "business": "See AB. Bolinder-Munktell, Eskilstuna",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "7": {
+        "name": "A-vant Stockholm",
+        "location": "Stockholm",
+        "business": "Mek. verkstad and metallskyltfabrik",
+        "products": "Etsade skyltar and skalor, press- and stansverktyg, plåtpressnings- and smides-arbeten, båtbojar, cykelbromsar, biltillbehör m. m.",
+        "contact": {
+            "office": "Stockholm, Kungsg. 30",
+            "phone": [
+                "230345"
+            ],
+            "postgiro": "1271"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": 50,
+            "annual_turnover": "600,000 kr"
+        },
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "Gunnar Berglund",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Åke Hultberg",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

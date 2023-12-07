@@ -1,0 +1,205 @@
+{
+    "1": {
+        "name": "Skinnskattebergsverken—Skofabriken",
+        "location": "Skinnskatt eb er g",
+        "business": "Skofabrik",
+        "contact": {
+            "office": "Skinnskattebergsverken, Skinnskatt eb er g, Stockholm",
+            "phone": [
+                "10284",
+                "18109"
+            ],
+            "postgiro": "14620",
+            "manager": "disp. G. Öberg"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1934
+    },
+    "2": {
+        "name": "AB. Skjutfönster",
+        "location": "Malmö",
+        "business": "Tillverkare av vertikala skjutfönster",
+        "products": "Vertikala skjutfönster av trä, järn och metall",
+        "contact": {
+            "office": "Malmö",
+            "phone": "71475",
+            "postgiro": "147429",
+            "contact": {
+                "location": "Malmö",
+                "phone": "71475"
+            }
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 4
+            },
+            "corporation_year": 1934
+        }
+    },
+    "3": {
+        "name": "AB. Sko-Cement",
+        "location": "Malmö",
+        "business": "Kemisk-teknisk fabrik",
+        "products": "Tillverkning av kemisk-tekniska artiklar för skofabriker",
+        "contact": {
+            "office": "Celsiusg. 37, Malmö",
+            "phone": "24860",
+            "postgiro": "39421",
+            "factory_office": "Celsiusg. 37",
+            "factory_phone": "24860"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "arb-antal": 10
+            },
+            "foundation_year": 1912
+        }
+    },
+    "4": {
+        "name": "Skofabriken Eyra",
+        "location": "Kävlinge",
+        "business": "Skofabrik",
+        "products": "Tillverkar ago damskor",
+        "contact": {
+            "office": "Kävlinge",
+            "phone": "300",
+            "postgiro": "26602"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "300,000 kr",
+            "corporation_year": 1945
+        },
+        "foundation_year": 1920
+    },
+    "5": {
+        "name": "Skofabriken Hebe AB.",
+        "location": "Göteborg",
+        "business": "Tillverkare av damskodon",
+        "products": "Tillverkar damskodon, varumärke: »Hebe»",
+        "contact": {
+            "office": "Malmsjög. 14, Göteborg",
+            "phone": "157990",
+            "postgiro": "40890"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "440,000 kr",
+            "corporation_year": 1938
+        },
+        "foundation_year": 1919
+    },
+    "6": {
+        "name": "AB. Skofabriken Iris",
+        "location": "Almby",
+        "business": "Tillverkar sandalsydda och ago skodon",
+        "products": "Sandal-sydda och ago skodon",
+        "contact": {
+            "office": "Almby",
+            "phone": "13282",
+            "postgiro": "24,000 kr"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "400,000 kr",
+            "foundation_year": 1924,
+            "corporation_year": 1931
+        }
+    },
+    "7": {
+        "name": "Skofabriken Johansson &amp; Söner",
+        "location": "Falkenberg",
+        "business": "Tillverkare av skor",
+        "products": "Tillverkar rand- och becksömsydda pjäxor och lågskor, sandalsydda barn-och mansskor samt klamrade pjäxor",
+        "contact": {
+            "office": "Falkenberg",
+            "phone": "637",
+            "postgiro": "71857"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1930
+    },
+    "8": {
+        "name": "Skofabriken Ree",
+        "location": "Örebro",
+        "business": "Tillverkar veltsydda skodon",
+        "contact": {
+            "office": "Örebro",
+            "phone": "15695",
+            "postgiro": "135191"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "300,000 kr",
+            "foundation_year": 1931
+        }
+    },
+    "9": {
+        "name": "AB. Skofabriken Rex",
+        "location": "Örebro",
+        "business": "Tillverkar skodon",
+        "products": "Specialitet dams-kodon, varumärke: »Rex»",
+        "contact": {
+            "office": "Örebro",
+            "phone": "19470",
+            "postgiro": "96940"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "corporation_year": 1913
+        }
+    },
+    "10": {
+        "name": "Skofabriks AB. Runa",
+        "location": "Örebro",
+        "business": "Tillverkar damskodon",
+        "contact": {
+            "office": "Örebro",
+            "phone": "12777",
+            "postgiro": "28145"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "annual_turnover": "100,000 kr",
+            "corporation_year": 1931
+        }
+    },
+    "11": {
+        "name": "AB. Skofabriken Skändia",
+        "location": "Örebro",
+        "business": "Tillverkar skodon och tofflor",
+        "contact": {
+            "office": "Örebro",
+            "phone": "19205",
+            "postgiro": "21464"
+        }
+    }
+}

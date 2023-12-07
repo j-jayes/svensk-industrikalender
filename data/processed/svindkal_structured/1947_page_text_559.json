@@ -1,0 +1,386 @@
+{
+    "1": {
+        "name": "AB. Nyströms Snickerifabrik",
+        "location": "Kristianstad",
+        "business": "Tillverkar byggnadssnickerier",
+        "products": "fönster, dörrar, inredningar, trappor m.m.",
+        "contact": {
+            "office": "Fabrik i Everöd, Kristianstad",
+            "phone": [
+                "11556"
+            ],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "150,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1944,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Einar Nyström",
+                "role": "byggm."
+            },
+            {
+                "name": "Gudrun Lund",
+                "role": "kassör"
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": "Einar Nyström",
+        "sales_manager": null,
+        "manager": null
+    },
+    "2": {
+        "name": "AB. C. C. Nyström & Go.",
+        "location": "Solna",
+        "business": "Chokladfabrik",
+        "products": "choklad, konfektyrer, fruktmos",
+        "contact": {
+            "office": "Hagalund, Solna (Sthlms l.)",
+            "phone": [
+                "Stockholm 272221"
+            ],
+            "postgiro": "3683",
+            "head_office": null,
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "112570"
+                }
+            ],
+            "telegraph": "Nyco, Stockholm",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "1,360,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1917,
+        "current_name_year": 1923,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "C. G. Nyström",
+                "role": "verkst. dir."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "3": {
+        "name": "F. O. Nyströms Bieckkärisfabrik AB.",
+        "location": "Torshälla",
+        "business": "Bleckvarufabrik",
+        "products": "emballage av bleckplåt, svart och galvaniserad järnplåt, pressade och svetsade tunnplåtsarbeten, askar, lådor, fläskkorgar, vilstolar, regnmätare, dokumentskrin, badrums- och toalettskåp, bränsle- och oljebehållare",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Eskilstuna 55031",
+                "55231"
+            ],
+            "postgiro": "23827",
+            "head_office": null,
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": null
+                }
+            ],
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 36
+            },
+            "annual_turnover": "620,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1874,
+        "current_name_year": 1937,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "fru S. Nyström",
+                "role": "ordf."
+            },
+            {
+                "name": "Erland Anderson",
+                "role": "disp."
+            },
+            {
+                "name": "Ernst V. Jansson",
+                "role": "köpm."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "4": {
+        "name": "C. Nyströms Karosserifabrik",
+        "location": "Umeå",
+        "business": "Tillverkar bilkarosserier, bärgningsverktyg för lastbilar samt fjädrande rörstolar",
+        "products": "3-mans lastbilshytter",
+        "contact": {
+            "office": null,
+            "phone": [
+                "203",
+                "2331"
+            ],
+            "postgiro": "63312",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "1,700,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1935,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": "fabr. Gösta Nyström",
+        "sales_manager": null,
+        "manager": null
+    },
+    "5": {
+        "name": "AB. Ivar Nyström",
+        "location": "Borås",
+        "business": "Knappfabrik",
+        "products": "knappar och spännen av konsthorn för damkonfektion",
+        "contact": {
+            "office": null,
+            "phone": [
+                "48070"
+            ],
+            "postgiro": "37259",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Knappmode, Borås",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "120,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1929,
+        "current_name_year": 1939,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Ivar Nyström",
+                "role": "verkst. dir."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "6": {
+        "name": "J. Nyströms Metallfabrik",
+        "location": "Gnosjö",
+        "business": "Tillverkar byggnadsbeslag",
+        "products": null,
+        "contact": {
+            "office": "Gnosjö (Jönköp. l.)",
+            "phone": [
+                "142"
+            ],
+            "postgiro": "73773",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1929,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": "fabr. Justus Nyström",
+        "sales_manager": null,
+        "manager": null
+    },
+    "7": {
+        "name": "AB. J. P. Nyströms Orgel & Pianofabrik",
+        "location": "Karlstad",
+        "business": "Tillverkar flyglar, pianon och orglar",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                "10020",
+                "12646"
+            ],
+            "postgiro": "74850",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Pianoorgel, Karlstad",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1865,
+        "current_name_year": 1901,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "konsul Boo Nyström",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Anna Nyström",
+                "role": null
+            },
+            {
+                "name": "disp. Sören Nyström",
+                "role": null
+            },
+            {
+                "name": "konsul Curt Wennberg",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": "Boo Nyström",
+        "sales_manager": null,
+        "manager": null
+    },
+    "8": {
+        "name": "AB. Rud. Nyströms & Co.",
+        "location": "Stockholm",
+        "business": "Mek. verkstäder",
+        "products": "maskiner för sko- och reseffektfabriker, tygskärmaskiner, handel med maskiner av utländsk tillverkning, garvämnen och garvextrakter",
+        "contact": {
+            "office": "Örebro och Stockholm",
+            "phone": [
+                "231040"
+            ],
+            "postgiro": "4878",
+            "head_office": "Stockholm, St. Nygatan 10—12",
+            "sales_offices": [
+                {
+                    "location": "Malmö",
+                    "phone": null
+                },
+                {
+                    "location": "Borås",
+                    "phone": null
+                },
+                {
+                    "location": "Örebro",
+                    "phone": null
+                }
+            ],
+            "telegraph": "Rudnycomp, Stockholm",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "165,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "dir. Helge Arvidson",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Axel Nilsson",
+                "role": null
+            },
+            {
+                "name": "dir. Rudolf Nyström",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": "Rudolf Nyström",
+        "sales_manager": null,
+        "manager": null
+    }
+}

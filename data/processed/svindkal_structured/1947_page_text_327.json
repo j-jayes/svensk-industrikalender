@@ -1,0 +1,125 @@
+{
+    "1": {
+        "name": "Gröndal—Guldvaru",
+        "location": "Bruket, Bergsjö",
+        "business": "Guldvaror",
+        "contact": {
+            "telegraph": "Bruket, Bergsjö",
+            "phone": [
+                "28",
+                "49"
+            ],
+            "postgiro": "30389"
+        },
+        "financials": {
+            "capital": "56,200 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1902,
+        "board": [
+            {
+                "name": "grossh. Olof Eriksson",
+                "role": "ordf."
+            },
+            {
+                "name": "kontorschef Axel Bäckström",
+                "role": null
+            },
+            {
+                "name": "verkm. A. Wennerström",
+                "role": null
+            }
+        ],
+        "director": "Olof Eriksson"
+    },
+    "2": {
+        "name": "AB. Wilh. Grönvalls Läderfabrik",
+        "location": "Ängelholm",
+        "business": "Tillverkar sulläder och bindsulläder, diamantläder, kruponger, vändläder, smorläder, plattläder, toffel- och sandalläder, portföljläder samt handskläder och spalt.",
+        "contact": {
+            "telegraph": "Grönvall, Ängelholm",
+            "phone": "Grönvalls Läderfabrik",
+            "postgiro": "73550"
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industriarb": 200
+            }
+        },
+        "foundation_year": 1858,
+        "current_name_year": 1911,
+        "board": [
+            {
+                "name": "dir. Sture Grönvall",
+                "role": "ordf."
+            },
+            {
+                "name": "dr Herman Grönvall",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. I. Ekblom",
+                "role": null
+            }
+        ],
+        "director": "Sture Grönvall"
+    },
+    "3": {
+        "name": "Guldsmeds AB. i Stockholm, C. A. B.",
+        "location": "Stockholm",
+        "business": "Silver-, nysilver-, tenn- och bronsvaru-fabrik",
+        "contact": {
+            "office": "Svedenborgsg. 50",
+            "telegraph": "Gabis, Stockholm",
+            "phone": "G. A. B.",
+            "postgiro": "3383"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "total": 350,
+                "industriarb": 140
+            },
+            "annual_turnover": "5,000,000 kr"
+        },
+        "foundation_year": 1867,
+        "board": [
+            {
+                "name": "jur. dr Axel Roos",
+                "role": "ordf."
+            },
+            {
+                "name": "kamrer Gert Arnold",
+                "role": null
+            },
+            {
+                "name": "fröken G. Holm",
+                "role": null
+            },
+            {
+                "name": "fru G. Nyström",
+                "role": null
+            },
+            {
+                "name": "dir. Carl-Sigvard Roos",
+                "role": null
+            }
+        ],
+        "director": "A. Roos"
+    },
+    "4": {
+        "name": "Guldvaru AB. C. Dahlgren & Co.",
+        "location": "Malmö",
+        "business": "Tillverkar alla slags smycken i guld, platina och silver",
+        "contact": {
+            "telegraph": "Guldvarubolaget, Malmö",
+            "phone": "24195",
+            "postgiro": "14094"
+        },
+        "foundation_year": null
+    }
+}

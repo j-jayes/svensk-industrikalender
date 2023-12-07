@@ -1,0 +1,176 @@
+{
+    "1": {
+        "name": "Skoghallsverken",
+        "location": "Skoghall",
+        "business": "Tackjärnsgjuteri och mekanisk verkstad",
+        "contact": {
+            "head_office": "Gävle",
+            "telegraph": "Skoglunds, Gävle",
+            "phone": [
+                "9239"
+            ]
+        },
+        "financials": {
+            "capital": "800,000 kr",
+            "employees": {
+                "industriarb": 280
+            },
+            "annual_turnover": "2,800,000 kr"
+        },
+        "foundation_year": 1874,
+        "corporation_year": 1914,
+        "board": [
+            {
+                "name": "Erik Ahlgren",
+                "role": "ordf."
+            },
+            {
+                "name": "Nils Ryström",
+                "role": "civiling."
+            },
+            {
+                "name": "Uno Söderström",
+                "role": "civiling."
+            }
+        ],
+        "director": "Sigfr. Höglund",
+        "managing_director": "Sigfr. Höglund",
+        "sales_manager": "Carl W. Jacobsson",
+        "manager": "T. E. Tegelström",
+        "coordinates": {
+            "Latitude": 59.32462750000001,
+            "Longitude": 13.4693947
+        }
+    },
+    "2": {
+        "name": "AB. Skoglund & Olson",
+        "location": "Gävle",
+        "business": "Tackjärnsgjuteri och mekanisk verkstad",
+        "contact": {
+            "telegraph": "Skoglunds, Gävle",
+            "phone": [
+                "Skoglund & Olson",
+                "9239"
+            ]
+        },
+        "financials": {
+            "capital": "800,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "950,000 kr"
+        },
+        "foundation_year": 1911,
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "fil. lic."
+            },
+            {
+                "name": "Hj. Deger-stedt",
+                "role": "dir."
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "dir."
+            },
+            {
+                "name": "G. Osvald",
+                "role": "dir."
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "dir."
+            }
+        ],
+        "director": "Uno Söderström",
+        "sales_manager": "E. Schönberg",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "3": {
+        "name": "Skogslunds Fabrik",
+        "location": "Gnosjö",
+        "business": "Spiralfjädrar, tråd- och järnmanufaktur",
+        "contact": {
+            "phone": [
+                "46"
+            ],
+            "postgiro": "29694"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_turnover": "68,000 kr"
+        },
+        "foundation_year": 1914,
+        "director": "fabr. Eric Ericsson",
+        "manager": "fabr. C.-E. Ericsson",
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        }
+    },
+    "4": {
+        "name": "Skogs- & Sågverks AB. Lind & Norman",
+        "location": "Sveg",
+        "business": "Tillverkning av sågade trävaror",
+        "contact": {
+            "phone": [
+                "106",
+                "249"
+            ]
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1926,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "Torsten Lind",
+                "role": "jägmäst."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 62.0346245,
+            "Longitude": 14.3590366
+        }
+    },
+    "5": {
+        "name": "Skogstorps Sågverks AB.",
+        "location": "Skogstorp",
+        "business": "Tillverkning av sågade och hyvlade trävaror",
+        "contact": {
+            "phone": [
+                "Eskilstuna 26125",
+                "25005"
+            ],
+            "postgiro": "25226"
+        },
+        "financials": {
+            "capital": "360,000 kr",
+            "annual_turnover": "Info not available"
+        },
+        "corporation_year": 1915,
+        "director": "Erik F. Schenström",
+        "coordinates": {
+            "Latitude": 59.32747879999999,
+            "Longitude": 16.4824523
+        }
+    }
+}

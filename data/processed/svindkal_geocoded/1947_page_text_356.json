@@ -1,0 +1,262 @@
+{
+    "1": {
+        "name": "Rutger Heijl AB",
+        "location": "Stockholm",
+        "business": "Farmaceutisk-kemisk fabrik",
+        "products": "Tillverkar medicinskt kol, kloramin m.m. samt disk- och rengöringsmedel, avfettningsmedel, textilrengöringsmedel m.m. Varumärken: »Cleora», »Clipper» m.fl.",
+        "contact": {
+            "office": "Trångsund (Stockholm C)",
+            "phone": [
+                "Drevviks-strand 150—153"
+            ],
+            "postgiro": "158648",
+            "head_office": "Stockholm 20",
+            "telegraph": "Heijlab, Stockholm",
+            "factory_office": "Factory office address.",
+            "factory_phone": "Factory phone number."
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 11
+            },
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1924,
+        "board": [
+            {
+                "name": "Rutger C-son Heijl",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "Bertil Kristensson",
+                "role": "Kamrer"
+            },
+            {
+                "name": "Börje Altstad",
+                "role": "Försäljn.-chef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "AB. Hejarsmide",
+        "location": "Enköping",
+        "business": "Smidesverkstad",
+        "products": "Utför som specialitet selsmide och heljade cykeldelar.",
+        "contact": {
+            "office": "Office address.",
+            "phone": [
+                "370"
+            ],
+            "postgiro": "15060",
+            "sales_offices": [
+                {
+                    "location": "AB. Josef Eriksson, Uppsala",
+                    "phone": "Ensam-försälj. för cykeldelar"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 32
+            },
+            "annual_turnover": "460,000 kr"
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "Erik Jonsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "E. Nissbeck",
+                "role": "dir."
+            },
+            {
+                "name": "E. J. P ålsson",
+                "role": "dir."
+            },
+            {
+                "name": "Axel E. Söderberg",
+                "role": "fabr."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.63569090000001,
+            "Longitude": 17.0778228
+        }
+    },
+    "3": {
+        "name": "Hellos Kemisk-Tekniskä Fabriker AB.",
+        "location": "Stockholm",
+        "business": "Kemisk-tekn. fabrik",
+        "products": "Tillverkar tvättmedel, skur- och putspulver, bonvax, rengörings-och avfettningsmedel. Varumärken: »Vita Tvättbjörn», »Standard», »Skur-Björn» m.fl.",
+        "contact": {
+            "office": "Vid Midsommarkransen, Stockholm",
+            "phone": [
+                "233980"
+            ],
+            "postgiro": "2137"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 115
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1902,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "Thure Holmberg",
+                "role": "dir."
+            },
+            {
+                "name": "Nils-Erik Lindblom",
+                "role": "adv."
+            },
+            {
+                "name": "Ivar Stille",
+                "role": "disp."
+            }
+        ],
+        "director": "H. Koux",
+        "managing_director": "Yngve Dalström",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. C. V. Heljestrand",
+        "location": "Eskilstuna",
+        "business": "Smidesverkstad och stålvarufabrik",
+        "products": "Tillverkar rakknivar, rakhyvlar med tjocka blad, dam- och frisérsaxar, papperssaxar, korkskruvar samt kirurgiska instrument.",
+        "contact": {
+            "telegraph": "Heljestrand, Eskilstuna",
+            "phone": [
+                "30620",
+                "34620"
+            ],
+            "postgiro": "10710"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 140
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1808,
+        "corporation_year": 1907,
+        "board": [
+            {
+                "name": "P. Bergsten",
+                "role": "f. kapten"
+            },
+            {
+                "name": "Richard M. Kindal",
+                "role": "dir."
+            }
+        ],
+        "director": "R. M. Kindal",
+        "managing_director": "R. M. Kindal",
+        "sales_manager": "Gösta Lindblom",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "5": {
+        "name": "Hellbergs Fabriks AB",
+        "location": "Ulricehamn",
+        "business": "Trikå- och herrkonfektionsfabrik",
+        "products": "Tillverkar herr- och barnkläder såsom kostymer, ulstrar, paletåer etc., arbetskläder såsom overalls, byxor, blusar, skjortor m.m. samt trikåvaror såsom koftor, strumpor, vantar, herrvästar, sweaters, slipovers o. d.",
+        "contact": {
+            "office": "Trikå- och herrkonfektionsfabrik",
+            "phone": [
+                "Helltex, Ulricehamn"
+            ],
+            "postgiro": "8946"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 85
+            }
+        },
+        "foundation_year": 1915,
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "E. Grenfors",
+                "role": "adv."
+            },
+            {
+                "name": "John Hellberg",
+                "role": "grossh."
+            },
+            {
+                "name": "Ernst H. Rudin",
+                "role": "disp."
+            }
+        ],
+        "director": "John Hellberg",
+        "managing_director": "John Hellberg",
+        "sales_manager": "E. H. Rudin",
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        }
+    },
+    "6": {
+        "name": "J. A. Hellbergs Knivfabrik",
+        "location": "Eskilstuna",
+        "business": "Knivfabrik",
+        "products": "Tillverkar rakknivar, jakt- och slidknivar samt hästsaxar.",
+        "contact": {
+            "phone": [
+                "30646"
+            ],
+            "postgiro": "10797"
+        },
+        "employees": {
+            "industriarb": 15
+        },
+        "foundation_year": 1891,
+        "owners": [
+            "fabr. Sven Hellberg",
+            "kamrer Nils Hellberg"
+        ],
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "7": {
+        "name": "Hellefors Bruks AB",
+        "location": "Hällefors",
+        "business": "Järnbruk, martin-, elektrostål- och varmvalsverk, gjuteri, mek. verkstad, sågverk, hyvleri och lådfabrik samt snickerifabrik.",
+        "products": "Tillverkar stål i sur eller basisk martin-.",
+        "corporation_year": 1907,
+        "owners": [
+            "Hellefors Bruk, Hällefors",
+            "Sikfors Bruk, Sikfors",
+            "Bångbroverken, Bångbro",
+            "Fredriksbergsverken, Fredriksberg (Kopparb. l.)",
+            "stållinefabrik i Kristinehamn (Värml. l.)"
+        ],
+        "coordinates": {
+            "Latitude": 59.783688,
+            "Longitude": 14.5225692
+        }
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "1": {
+        "name": "CTC—Dahlgren*AB",
+        "location": "Göteborg",
+        "business": "Tillverkar varmvattenberedare och värmeledningspannor samt utrustningar för värme- och sanitetsanläggningar vid mek. verkstäder i Ljungby (Kronob. l.), mek. verkstad i Lerum (Älvsb. l.), samt monteringsverkstad i Göteborg.",
+        "contact": {
+            "office": "Stora Bad-husg. 20, Göteborg",
+            "phone": [
+                "172630"
+            ],
+            "postgiro": "25596",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "232320"
+                },
+                {
+                    "location": "Ljungby",
+                    "phone": "311 o. 418"
+                }
+            ],
+            "telegraph": "Cetec, Göteborg"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 400
+            },
+            "annual_turnover": "12,000,000 kr"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "Franz Hartmann",
+                "role": "disp."
+            },
+            {
+                "name": "Eric Höglund",
+                "role": "dir."
+            },
+            {
+                "name": "Karl Westin",
+                "role": "adv."
+            }
+        ],
+        "director": "Eric Höglund",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "AB. Cykelfabriken Monark",
+        "location": "Varberg",
+        "business": "Tillverkar velocipeder och motorcyklar. Varumärken: »Monark», »Erlan», »Nornan», »Scout» o. »Pilot».",
+        "contact": {
+            "office": "Varberg",
+            "phone": [
+                "Monark velocipeder"
+            ],
+            "postgiro": "31586",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "234005"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "133520, 133302 o. 131840"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "26511 o. 17633"
+                }
+            ],
+            "telegraph": "Monark, Varberg"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb": 500
+            }
+        },
+        "foundation_year": 1908,
+        "board": [
+            {
+                "name": "Tage War-born",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.107118,
+            "Longitude": 12.2520907
+        }
+    },
+    "3": {
+        "name": "AB. Dago",
+        "location": "Falun",
+        "business": "Bryter dolomit vid fyndigheter i Mårds-hyttan, Guldsmedshyttan (Örebro l.).",
+        "contact": {
+            "office": "Falun",
+            "phone": [
+                "Bergslaget, Falun"
+            ],
+            "postgiro": "Bergslaget, Falun"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "arb": 5
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Erik G. Pehrsson",
+                "role": "dir."
+            },
+            {
+                "name": "Karl Rutberg",
+                "role": "dir."
+            },
+            {
+                "name": "Rutger Wijkan-der",
+                "role": "disp."
+            }
+        ],
+        "director": "Karl Rutberg",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        }
+    },
+    "4": {
+        "name": "J. Dahl & Son AB. Mek. Verkstad",
+        "location": "Stockholm",
+        "business": "Tillverkar specialmaskiner för bok- och tidningstryckerier, bokbinderier, kartonnagefabriker, tapetfabriker och påsfabri-ker.",
+        "contact": {
+            "office": "Adolf Fredrikstorg 5, Stockholm",
+            "phone": [
+                "418080 o. 418680"
+            ],
+            "postgiro": "58797"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "520,000 kr"
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "Julius Dahl",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "Pehr Aug. Dahl AB.",
+        "location": "Norrköping",
+        "business": "Yllefabrik med spinneri och väveri. Tillverkar paletå- och sporttyger samt vattolin och tagelvävnader.",
+        "contact": {
+            "phone": [
+                "20488"
+            ],
+            "postgiro": "50,000 kr"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1883,
+        "board": [
+            {
+                "name": "Ragnar Dahl",
+                "role": "fabr."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "6": {
+        "name": "J. Dahlander & Co:s Fabriks AB.",
+        "location": "Göteborg",
+        "business": "Tapet-, markis- och metallvarufabrik i örgryte, Göteborg. Tillverkar tapeter, bårder, markiser, rullgardiner, presenningar, flaggor, tält m. m.; utför affärs-fasader i metall och rostfritt stål samt branddörrar och dörrar till luftskyddsrum.",
+        "contact": {
+            "office": "Mölndalsvägen, Göteborg",
+            "phone": [
+                "Dahlanders fabriker"
+            ],
+            "postgiro": "40792"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 96
+            }
+        },
+        "foundation_year": 1850,
+        "board": [
+            {
+                "name": "Gunnar Jonson",
+                "role": "disp."
+            },
+            {
+                "name": "Lars H. Jonson",
+                "role": "disp."
+            },
+            {
+                "name": "Lisa Jonson",
+                "role": "fru"
+            }
+        ],
+        "manager": "L. H. Jonson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

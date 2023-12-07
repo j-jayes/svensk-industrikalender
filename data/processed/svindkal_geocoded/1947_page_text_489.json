@@ -1,0 +1,203 @@
+{
+    "1": {
+        "name": "Lydde Tegelbruk, Anderson & Nilsander",
+        "location": "Kinna (Älvsb. l.)",
+        "business": "Tegeltillverkning",
+        "products": "Murtegel, gult och rött fasad-tegel, högporöst och lättegel, plattor, tak- och reveteringstegel, block-, mellanväggstegel, månghålstegel samt dräneringsrör.",
+        "contact": {
+            "phone": [
+                "Kinna 10024"
+            ],
+            "postgiro": "72899"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 46
+            },
+            "annual_turnover": "4 milj. kr",
+            "annual_production_value": "4 milj. st. tegelvaror"
+        },
+        "foundation_year": 1915,
+        "predecessor": "Tegelbruket anlagt 1879",
+        "director": "fabr. J. Nilsander",
+        "coordinates": {
+            "Latitude": 57.50984,
+            "Longitude": 12.6941321
+        }
+    },
+    "2": {
+        "name": "AB. Lysekils Emballagefabrik",
+        "location": "Lysekil",
+        "business": "Bleckemballagef abrik och bleckplåtstryckeri",
+        "products": "Konservemballage och konservnycklar",
+        "contact": {
+            "telegraph": "Plåtmanufaktur, Stockholm",
+            "postgiro": "132955",
+            "head_office": "AB. Plåtmanufaktur, Stockholm, Biblioteksg. 26, telefon: 235700"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 130
+            }
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "disp. Gunnar Flodin",
+                "role": null
+            },
+            {
+                "name": "dir. Knut Laurin",
+                "role": null
+            },
+            {
+                "name": "dir. Börje Svenby",
+                "role": null
+            },
+            {
+                "name": "adv. Clas Östberg",
+                "role": null
+            }
+        ],
+        "director": "Knut Laurin",
+        "managing_director": "Gunnar Flodin",
+        "coordinates": {
+            "Latitude": 58.27557299999999,
+            "Longitude": 11.435558
+        }
+    },
+    "3": {
+        "name": "AB. Lysekils Konservfabrik",
+        "location": "Lysekil",
+        "business": "Fiskkonservering",
+        "products": "Ansjovis, sillinläggningar, kaviar samt fiskkonserver, musslor m.m.",
+        "contact": {
+            "telegraph": "Oceankonserv, Lysekil",
+            "phone": [
+                "72"
+            ],
+            "postgiro": "70115"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1937,
+        "director": "disp. Ivar Havstam",
+        "coordinates": {
+            "Latitude": 58.27557299999999,
+            "Longitude": 11.435558
+        }
+    },
+    "4": {
+        "name": "AB. Lysekils Stenindustri",
+        "location": "Strömstad",
+        "business": "Granitbrott och stenhuggerier",
+        "products": "Gat-, kaj-och kantsten, byggnadssten, råblock m.m.",
+        "contact": {
+            "phone": [
+                "11"
+            ],
+            "postgiro": "172210"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1917,
+        "director": "Y. Septus-Larsen",
+        "coordinates": {
+            "Latitude": 58.9383459,
+            "Longitude": 11.1791871
+        }
+    },
+    "5": {
+        "name": "Lyths Instrumentfabrik",
+        "location": "Stockholm",
+        "director": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "AB. Långasjönäs Pappersbruk",
+        "location": "Kisa",
+        "business": "Pappersbruk",
+        "products": "Cellulosavadd, handgjort filter- och karduspapper, filtermassa för bryggerier, oljefiltrerpapper, grålump-papper, toalettpapper, M. G. sulfit- och M. G. Cappapper, mösspapp, papp till slip- och polérskivor m.m.",
+        "contact": {
+            "telegraph": "Långasjönäs, Kisa",
+            "phone": [
+                "119"
+            ],
+            "postgiro": "8015"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": null
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "ing. Kurt V:son Sandberg",
+                "role": null
+            },
+            {
+                "name": "ing. Victor Sandberg",
+                "role": null
+            },
+            {
+                "name": "fru I. öman",
+                "role": null
+            }
+        ],
+        "director": "Kurt V:son Sandberg",
+        "coordinates": {
+            "Latitude": 57.9883475,
+            "Longitude": 15.6292256
+        }
+    },
+    "7": {
+        "name": "AB. Långebro Mek. Werkstad",
+        "location": "Långebro (Kristianst. l.)",
+        "business": "Mek. verkstad, gjuteri och koppar-sla-geri",
+        "products": "Apparater, redskap, utrustningar, ångpannor, pumpar, hissar, transportanordningar, packningsmaskiner m.m.; utför elsvetsning och metallisering",
+        "contact": {
+            "phone": [
+                "Kristianstad 10409"
+            ],
+            "postgiro": "80744"
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1903,
+        "director": "Carl Björklund",
+        "coordinates": {
+            "Latitude": 56.0217107,
+            "Longitude": 14.1442461
+        }
+    },
+    "8": {
+        "name": "AB. Långeds Pappersbruk",
+        "location": "Långed",
+        "director": null,
+        "coordinates": {
+            "Latitude": 63.6036816,
+            "Longitude": 19.6737153
+        }
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "1": {
+        "name": "Wästlund-l—Växlar AB",
+        "location": "Earlstad",
+        "business": "Sågverk och hyvleri.",
+        "products": "Tillverkar sågade och hyvlade trävaror och driver handel med byggnadsmateriel.",
+        "contact": {
+            "office": "Skattkärr (Värml. l.) samt hyvleri i Karlstad",
+            "phone": [
+                "15435"
+            ],
+            "postgiro": "70278",
+            "head_office": "Träwästlund, Karlstad",
+            "telegraph": "Träwästlund, Karlstad"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "800 stds trävaror",
+            "foundation_year": 1907,
+            "corporation_year": 1938
+        },
+        "board": [
+            {
+                "name": "Olof Wästlund",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        }
+    },
+    "2": {
+        "name": "Västra Klagstorps Snickerifabrik",
+        "location": "Västra Klagstorp",
+        "business": "Tillverkar fönster, dörrar, trappor och köksinredningar.",
+        "contact": {
+            "phone": [
+                "Malmö 66141"
+            ],
+            "postgiro": "12992"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 7
+            },
+            "annual_production_value": "55,000 kr",
+            "foundation_year": 1925
+        },
+        "owners": [
+            "fabr. Orvar Berggren"
+        ],
+        "coordinates": {
+            "Latitude": 55.52745299999999,
+            "Longitude": 12.9962708
+        }
+    },
+    "3": {
+        "name": "Västra Sveriges Textilfabrik AB.",
+        "location": "Borås",
+        "business": "Väveri.",
+        "products": "Tillverkar gardiner och draperityger samt klänningstyger i konstsilke.",
+        "contact": {
+            "phone": [
+                "12238",
+                "12256"
+            ],
+            "postgiro": "90653",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "209707"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": "1,000,000 kr",
+            "foundation_year": 1922,
+            "corporation_year": 1923
+        },
+        "board": [
+            {
+                "name": "fru A. Weber",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. E. W. Weber",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "E. W. Weber",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "4": {
+        "name": "Västsvenska Fläkt AB.",
+        "location": "Göteborg",
+        "business": "Mek. verkstad.",
+        "products": "Tillverkar fläktar, ventilationsanläggningar, varmluftsbat-terier, luftfilter m. m.",
+        "contact": {
+            "office": "Barnhusgatan 16",
+            "phone": [
+                "192505"
+            ],
+            "postgiro": "47545"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 34
+            },
+            "foundation_year": 1925,
+            "corporation_year": 1938
+        },
+        "managing_director": "Per Björk",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "5": {
+        "name": "Västsvenska Kylhus AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar konst-is samt utför infrysning och lagring av livsmedel m. m.",
+        "contact": {
+            "office": "Andréeg",
+            "phone": [
+                "128420",
+                "129040"
+            ],
+            "postgiro": "48093"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "foundation_year": 1941
+        },
+        "board": [
+            {
+                "name": "adv. J. Ramberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "skeppsm. G. Blidberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. I. Busck",
+                "role": "Styrelse"
+            },
+            {
+                "name": "bankkamrer Ernst Holmberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "höjesteretssagförer Ejvind Möller",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. J. O. Möller",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Otis Hanson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "AB. Vättervikens Skaftfabrik",
+        "location": "Skänninge",
+        "predecessor": "Industri AB. Uhr & Son",
+        "original_name": "Vättervikens Skaftfabrik",
+        "foundation_year": 1923,
+        "coordinates": {
+            "Latitude": 58.3954378,
+            "Longitude": 15.0862189
+        }
+    },
+    "7": {
+        "name": "Väveri AB. Egnell & C:o.",
+        "location": "Norrköping",
+        "business": "Ylleväveri.",
+        "products": "Tillverkar kostymtyger, paletå- och kapptyger.",
+        "contact": {
+            "phone": [
+                "27847"
+            ],
+            "postgiro": "141155"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "arb.-antal": 10
+            },
+            "annual_production_value": "200,000 kr",
+            "foundation_year": 1936,
+            "corporation_year": 1937
+        },
+        "board": [
+            {
+                "name": "fabr. Einar Egnell",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru M. Egnell",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kamrer Ernst Svenson",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Ernst Svenson",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "8": {
+        "name": "AB. Växlar och Signaler (Avos)",
+        "location": "Örebro",
+        "business": "Mek. verkstad och gjuteri.",
+        "products": "Tillverkar spårväxlar, mekaniska och elektriska väg-bommar, ljussignaler, varningsmärken, vändskivor och gjutgods samt utför växel- och signalsäkerhetsanläggningar för järnvägar samt reparationer av bilar.",
+        "contact": {
+            "phone": [
+                "19285"
+            ],
+            "postgiro": "13789"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_production_value": "2,400,000 kr",
+            "foundation_year": 1915,
+            "corporation_year": 1921
+        },
+        "board": [
+            {
+                "name": "grossh. Mårten E. Liander",
+                "role": "Styrelse"
+            },
+            {
+                "name": "herr Olof Andrén",
+                "role": "Styrelse"
+            },
+            {
+                "name": "tullfiskal Thure Eksandh",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Carl-Axel Ericsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "major Hugo Håkansson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "trafikchef Vilhelm Lindström",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Mårten E.Liander (Sthlm)",
+        "managing_director": "Carl-Axel Ericsson",
+        "sales_manager": "Oskar Hägglund",
+        "manager": "Ivar Carlsson",
+        "cashier": "Gust. M. Almén",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    }
+}

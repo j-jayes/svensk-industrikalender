@@ -1,0 +1,207 @@
+{
+    "1": {
+        "name": "Bröderna—Burseryd",
+        "location": "Riddarg. 16, Stockholm",
+        "contact": {
+            "office": "Riddarg. 16",
+            "phone": [
+                "670345"
+            ],
+            "postgiro": "151788",
+            "telegraph": "Byggwiklund, Stockholm"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "foundation_year": 1937
+        },
+        "board": [
+            {
+                "name": "ing. Bertil Wiklund",
+                "role": "ordf."
+            },
+            {
+                "name": "byggm. Birger Wiklund",
+                "role": ""
+            },
+            {
+                "name": "ing. Carl Wiklund",
+                "role": ""
+            },
+            {
+                "name": "ing. Ragnar Wiklund",
+                "role": ""
+            }
+        ],
+        "director": "Bertil Wiklund",
+        "managing_director": "Bertil Wiklund",
+        "sales_manager": "N/A",
+        "manager": "Carl Wiklund"
+    },
+    "2": {
+        "name": "Bultfabriks AB., Eallstahammar",
+        "location": "Hallstahammar",
+        "contact": {
+            "office": "Hallstahammar",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "10242"
+        },
+        "financials": {
+            "capital": "8,460,000 kr",
+            "employees": {
+                "industrial_workers": 1400
+            },
+            "annual_turnover": "22,000,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1873,
+        "current_name_year": 1923,
+        "predecessor": "N/A",
+        "corporation_year": "N/A",
+        "board": [
+            {
+                "name": "civiling. Bengt Ingeström",
+                "role": "ordf."
+            },
+            {
+                "name": "bergsing. Hans v. Kantzow",
+                "role": ""
+            },
+            {
+                "name": "generalkonsul Ragnar Söderberg",
+                "role": ""
+            }
+        ],
+        "owners": [
+            "AB. Kanthal, Hallstahammar",
+            "Ramnäs Bruks AB., Ramnäs"
+        ],
+        "director": "Hans v. Kantzow",
+        "managing_director": "Hans v. Kantzow",
+        "sales_manager": "E. Malmgren",
+        "manager": "Bo Brundin"
+    },
+    "3": {
+        "name": "AB. Bungenäs Kalkbrott, Malmö",
+        "location": "Malmö, Fersensväg 9",
+        "contact": {
+            "office": "Malmö, Fersensväg 9",
+            "phone": [
+                "26588"
+            ],
+            "postgiro": "38302"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industrial_workers": 75
+            },
+            "annual_turnover": "1,220,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": "N/A",
+        "current_name_year": "N/A",
+        "predecessor": "N/A",
+        "corporation_year": "N/A",
+        "board": [
+            {
+                "name": "dir. C. F. Tranchell",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. N. W. Lundblad",
+                "role": ""
+            },
+            {
+                "name": "bankdir. Ivar Åkerman",
+                "role": ""
+            }
+        ],
+        "owners": [
+            "Svenska Sockerfabriks AB."
+        ],
+        "director": "N. W. Lundblad",
+        "managing_director": "N. W. Lundblad",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    },
+    "4": {
+        "name": "Bure AB., Bureå",
+        "location": "Bureå, Västerbotten",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "N/A",
+            "telegraph": "N/A"
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "employees": {
+                "industrial_workers": 300
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": "N/A",
+        "current_name_year": "N/A",
+        "predecessor": "N/A",
+        "corporation_year": 1920,
+        "board": [
+            {
+                "name": "v. konsul F. Sverdrup",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Lars Landmark",
+                "role": "v. ordf."
+            },
+            {
+                "name": "disp. Simon A. Boman",
+                "role": ""
+            },
+            {
+                "name": "skogsförvalt. E. Landmark",
+                "role": ""
+            }
+        ],
+        "owners": [
+            "Ekman* & Co., AB., Göteborg"
+        ],
+        "director": "L. Landmark",
+        "managing_director": "L. Landmark",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    },
+    "5": {
+        "name": "Burseryds Parkettfabrik AB., Smala/rids Burseryd",
+        "location": "Smålands Burseryd, Jönköping",
+        "contact": {
+            "office": "Smala/rids Burseryd",
+            "phone": [
+                "49",
+                "112"
+            ],
+            "postgiro": "275963",
+            "telegraph": "Parkettfabriken, Smål. Burseryd"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industrial_workers": 28
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1944,
+        "current_name_year": "N/A",
+        "predecessor": "N/A",
+        "corporation_year": "N/A",
+        "director": "Ragnar Hultqvist",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A"
+    }
+}

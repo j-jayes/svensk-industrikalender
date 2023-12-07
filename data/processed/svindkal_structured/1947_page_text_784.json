@@ -1,0 +1,163 @@
+{
+    "1": {
+        "name": "Algarås Sågverks AB.",
+        "location": "Hjo",
+        "business": "Tillverkar sågade och hyvlade trävaror vid sågverk i Älgarås (Skarab. l.)",
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "Inte tillgänglig",
+            "annual_production_value": "1,000 stds trävaror"
+        },
+        "foundation_year": 1932,
+        "board": {
+            "name": "Gustaf Törling",
+            "role": "Verkst. dir. o. disp."
+        },
+        "owners": [
+            "I. Mannerborn",
+            "M. Kilström"
+        ],
+        "director": "Gustaf Törling"
+    },
+    "2": {
+        "name": "AB. Älgefors, Forsheda",
+        "location": "Forsheda, Jönköp. l.",
+        "business": "Tillverkar spiralfjädrar, fjädrar för korsetter, planschetter, remlås, spiralkablar för cykelbelysningar",
+        "products": "Varumärke: »Älgen»",
+        "contact": {
+            "phone": "12",
+            "postgiro": "70796"
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "Inte tillgänglig",
+            "annual_production_value": "210,000 kr"
+        },
+        "foundation_year": 1921,
+        "director": "Gunnar J. Petersson"
+    },
+    "3": {
+        "name": "ÄlmhuIts Spikfabrik, Älmhult",
+        "location": "Älmhult, Kronob. l.",
+        "business": "Tillverkar trådspik och stift alla slag vid fabrik i Älmhult",
+        "contact": {
+            "phone": "157",
+            "postgiro": "37185"
+        },
+        "financials": {
+            "capital": "Inte tillgänglig",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1926,
+        "director": "Erik S. Forsberg"
+    },
+    "4": {
+        "name": "Älvdalens Sågverks AB.",
+        "location": "Rot, Älvdalen, Kopparb. l.",
+        "business": "Tillverkar sågade och hyvlade trävaror, slipers, fanértimmer, telegrafstolpar, fyllnadsspån, ribb- och bakved, massaved samt träkol; utför bilreparationer",
+        "contact": {
+            "phone": "Älvdalen 118",
+            "postgiro": "89495"
+        },
+        "financials": {
+            "capital": "150,500 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "Inte tillgänglig",
+            "annual_production_value": "1,100 stds trävaror o. 2,900 kbm. träkol"
+        },
+        "foundation_year": 1932,
+        "board": {
+            "name": "Viktor Nygren",
+            "role": "Disp."
+        },
+        "manager": "Gustaf Adolfsson"
+    },
+    "5": {
+        "name": "AB. Älvsereds Syfabrik",
+        "location": "Älvsered, Älvsb. l.",
+        "business": "Tillverkar herr- och barnkläder vid fabrik i Älvsered",
+        "contact": {
+            "phone": "1"
+        },
+        "financials": {
+            "capital": "72,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "director": "Olof Gustafsson"
+    },
+    "6": {
+        "name": "AB. Älvsereds Trikåfabrik",
+        "location": "Älvsered, Älvsb. l.",
+        "business": "Tillverkar herrstrumpor vid fabrik i Älvsered",
+        "products": "Varumärke: »Elfse»",
+        "contact": {
+            "phone": "9",
+            "postgiro": "77165",
+            "representatives": [
+                {
+                    "location": "Stockholm",
+                    "phone": "109665"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "627425"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "director": "Åke Gustafsson"
+    },
+    "7": {
+        "name": "Ängsfors Snickerifabrikers AB.",
+        "location": "Hovslätt, Jönköp. l.",
+        "business": "Tillverkar byggnadssnickerier, ek-inredningar samt hyvlade och sågade trävaror",
+        "contact": {
+            "phone": "1 o. 100",
+            "postgiro": "23003"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1914,
+        "board": {
+            "name": "J. A. Nyrén",
+            "role": "Styrelse o. disp."
+        },
+        "manager": "Oskar Ängfors"
+    },
+    "8": {
+        "name": "Ätradals Konfektions AB.",
+        "location": "Timmele, Älvsb. l.",
+        "business": "Tillverkar ^ herr- och gosskostymer, dam- och flickkappor samt trenchcoats vid fabrik i Timmele",
+        "contact": {
+            "phone": "154",
+            "postgiro": "143265"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "700,000 kr"
+        },
+        "director": "John Larsson"
+    }
+}

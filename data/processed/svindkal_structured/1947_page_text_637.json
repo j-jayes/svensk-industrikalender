@@ -1,0 +1,256 @@
+{
+    "1": {
+        "name": "Snickerifabriken Ödmark & Nordgren",
+        "location": "Borlänge",
+        "business": "Tillverkar trappor, köksinredningar, byggnadssnickerier och möbler",
+        "contact": {
+            "phone": [
+                "10612"
+            ],
+            "postgiro": "28715"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_production_value": "110,000 kr"
+        },
+        "foundation_year": 1923,
+        "owners": [
+            "fabr. Helmer Ödmark"
+        ]
+    },
+    "2": {
+        "name": "Sodafabrikernas Försäljnings AB",
+        "location": "Göteborg",
+        "business": "Försäljer delägande och samarbetande fabrikers hélä tillverkning av kristall-soda",
+        "contact": {
+            "sales_offices": [
+                {
+                    "location": "Thulehuset",
+                    "phone": "136904"
+                }
+            ],
+            "telegraph": "Soda, Göteborg",
+            "postgiro": "25536"
+        },
+        "financials": {
+            "capital": "117,600 kr"
+        },
+        "foundation_year": 1900,
+        "board": [
+            {
+                "name": "Otto Hill",
+                "role": "ordf."
+            },
+            {
+                "name": "Anders Christofferson",
+                "role": "disp."
+            },
+            {
+                "name": "P. Gustaf Ågren",
+                "role": "kapten"
+            }
+        ],
+        "managing_director": "Sven Thurén"
+    },
+    "3": {
+        "name": "AB. Solberga Fabriker",
+        "location": "Solberga (Jönköp. l.)",
+        "business": "Tillverkar likkistor och möbler vid snickerifabrik",
+        "contact": {
+            "phone": "10",
+            "postgiro": "81260"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "Gunnar Leide",
+                "role": "ordf."
+            },
+            {
+                "name": "Johan Bergström",
+                "role": "disp."
+            },
+            {
+                "name": "Vilh. Svensson",
+                "role": "verkm."
+            },
+            {
+                "name": "Johan Bergström",
+                "role": "disp."
+            }
+        ]
+    },
+    "4": {
+        "name": "Solberga Mek. Werkstads A B",
+        "location": "Solberga (Jönköp. l.)",
+        "business": "Tillverkar verktygsmaskiner m. m",
+        "contact": {
+            "telegraph": "Verkstaden, Solberga",
+            "phone": "90",
+            "postgiro": "27897"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1915,
+        "board": [
+            {
+                "name": "Nathan Widfeldt",
+                "role": "ordf."
+            },
+            {
+                "name": "Eric Widfeldt",
+                "role": "fabr."
+            },
+            {
+                "name": "Nathan Widfeldt",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "Nils-Gustaf Widfeldt",
+                "role": "Kontorschef"
+            }
+        ]
+    },
+    "5": {
+        "name": "AB. Solfarin",
+        "location": "Sölvesborg",
+        "business": "Glykosfabrik - Tillverkar glykos, sago-och potatisgryn",
+        "contact": {
+            "telegraph": "Solfarin, Sölvesborg",
+            "phone": "10ÖÖ8",
+            "postgiro": "20954"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1904,
+        "board": [
+            {
+                "name": "Thure Carlssöh",
+                "role": "v. konsul"
+            },
+            {
+                "name": "Fritz Arne",
+                "role": "kapten"
+            },
+            {
+                "name": "Hj. Carl-born",
+                "role": "dir."
+            },
+            {
+                "name": "Thure Carlsson",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Emil Eklund",
+                "role": "Disp."
+            }
+        ]
+    },
+    "6": {
+        "name": "Sollefteå Bryggeri AB",
+        "location": "Sollefteå",
+        "business": "Tillverkar malt- och läskedrycker",
+        "contact": {
+            "phone": "Bryggeriet, Sollefteå",
+            "postgiro": "76450"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "700,000 kr"
+        },
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "Dayid Jansson",
+                "role": "försäljn.tchef"
+            },
+            {
+                "name": "A.-L. Otterström",
+                "role": "fru"
+            },
+            {
+                "name": "S. Otterström",
+                "role": "disp."
+            }
+        ]
+    },
+    "7": {
+        "name": "AB. Sollefteå Kalksandstegel",
+        "location": "Sollefteå",
+        "business": "Tillverkar kalksandstegel, méllianväggs-plattor och betongtegel",
+        "contact": {
+            "phone": "380",
+            "postgiro": "84611"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "Arb.-antal": 12
+            }
+        },
+        "foundation_year": 1908,
+        "director": "Gustaf Lunägren"
+    },
+    "8": {
+        "name": "AB. Sollefteå Syrgas verk",
+        "location": "Sollefteå",
+        "business": "Framställer syrgas och dissousgas vid fabriker i Sundsvall, Örnsköldsvik, Skelleftehamm (Västerbott. L) och Luleå",
+        "contact": {
+            "phone": "358",
+            "postgiro": "13492"
+        },
+        "financials": {
+            "capital": "990,000 kr",
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "P. Sjödin",
+                "role": "sågverksäg."
+            },
+            {
+                "name": "Rolf v. Heidenstam",
+                "role": "kabinettskammarh."
+            },
+            {
+                "name": "Herbert Lindblad",
+                "role": "ing."
+            },
+            {
+                "name": "Axel Mellin",
+                "role": "dir."
+            },
+            {
+                "name": "S. A. Webjörn",
+                "role": "fil. lie."
+            }
+        ],
+        "managing_director": "August Bylund"
+    }
+}

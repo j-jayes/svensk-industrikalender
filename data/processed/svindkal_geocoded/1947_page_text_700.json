@@ -1,0 +1,210 @@
+{
+    "1": {
+        "name": "Sydsvenska Kraft AB",
+        "location": "Malmö",
+        "business": "Elektr. kraftstationer",
+        "contact": {
+            "office": "St. Nygatan 52—54",
+            "telegraph": "Sydkraft, Malmö",
+            "phone": [
+                "Sydkraft"
+            ],
+            "postgiro": "14192"
+        },
+        "financials": {
+            "capital": "29,723,800 kr",
+            "annual_turnover": "36,000,000 kr"
+        },
+        "foundation_year": 1906,
+        "predecessor": "Hemsjö Kraft AB",
+        "owners": [
+            "Finsjö Kraft AB",
+            "Djupafors Fabriks AB",
+            "Hanefors Nya Kraft AB",
+            "Svalöfs Kraft AB"
+        ],
+        "board": [
+            {
+                "name": "Emil Olsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Edwin Berling",
+                "role": "v. ordf."
+            },
+            {
+                "name": "Olof Andersson",
+                "role": "riksdagsman"
+            },
+            {
+                "name": "Jonte Hultkrantz",
+                "role": "dir."
+            },
+            {
+                "name": "F. Hägertz",
+                "role": "lokförare"
+            },
+            {
+                "name": "Per Larsson",
+                "role": "expeditör"
+            },
+            {
+                "name": "Carl Axel Nilsson",
+                "role": "civiling."
+            },
+            {
+                "name": "Sven Olsson",
+                "role": "lektor"
+            },
+            {
+                "name": "Wald. Olsson",
+                "role": "riksdagsman"
+            },
+            {
+                "name": "Nils O. Persson",
+                "role": "ombudsm."
+            },
+            {
+                "name": "Harald Schoug",
+                "role": "ombudsm."
+            }
+        ],
+        "director": "J. Hultkrantz",
+        "managing_director": "Thure Strand",
+        "kamrer": "R. Sternby",
+        "overingenjörer": [
+            "Th. Björgerd",
+            "S. Stage",
+            "K. Ljunggren"
+        ],
+        "inköpschef": "Andreas Erixon",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "2": {
+        "name": "Sydläder & Remfabriks AB",
+        "location": "Ängelholm",
+        "business": "Tillverkar bottenläder (märke: Star), remläder och läder för tekn. ändamål, läderdrivremmar, lädersnören, sy- och ryckremmar, pickers, manschetter, läder-packningar och andra tekniska läder-artiklar samt fot- och handbollar",
+        "contact": {
+            "telegraph": "Sydläder, Ängelholm",
+            "phone": [
+                "326",
+                "726",
+                "734"
+            ],
+            "postgiro": "33587"
+        },
+        "financials": {
+            "capital": "1,000,000 kr"
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "Richard Juhlin",
+                "role": "bankdir."
+            },
+            {
+                "name": "F. G. Liljenroth",
+                "role": "civiling."
+            },
+            {
+                "name": "Joh. W. Rydinger",
+                "role": "dir."
+            }
+        ],
+        "managing_director_disp": "Joh. W. Rydinger",
+        "fabrikschef": "J. Brändström",
+        "kontorschef": "Åke Jönsson",
+        "coordinates": {
+            "Latitude": 56.245748,
+            "Longitude": 12.863881
+        }
+    },
+    "3": {
+        "name": "Syfabriken Ekonomi AB",
+        "location": "Sundsvall",
+        "business": "Konfektionsfabrik. Tillverkar kappor, barnoveralls, klänningar, skid- och sportkläder",
+        "contact": {
+            "telegraph": "Ekonomifabriken, Sundsvall",
+            "phone": [
+                "3043—44"
+            ],
+            "postgiro": "76638"
+        },
+        "financials": {
+            "capital": "175,000 kr"
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "S. Felländer",
+                "role": "dir."
+            },
+            {
+                "name": "G. Levål",
+                "role": "disp."
+            }
+        ],
+        "managing_director": "S. Felländer",
+        "disp": "G. Levål",
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        }
+    },
+    "4": {
+        "name": "AB. Syntes",
+        "location": "Nol",
+        "business": "Kemisk fabrik i Nol (Älvsb. l.). Tillverkar etyleter för narkos samt kem. och tekn. ren etyleter, kollodium av alla slag,etylacetat, formalin, ftalsyra, lösningsmedel samt kem.-tekn. preparat",
+        "contact": {
+            "phone": [
+                "Syntes, Nol"
+            ],
+            "postgiro": "1940"
+        },
+        "financials": {
+            "capital": "135,000 kr"
+        },
+        "foundation_year": 1913,
+        "director": "apot. Hj. A:n Tesch",
+        "fabrikschef": "civiling. Lennart Mattsson",
+        "coordinates": {
+            "Latitude": 57.91840010000001,
+            "Longitude": 12.0661766
+        }
+    },
+    "5": {
+        "name": "AB. Syrabruk",
+        "location": "Stockholm",
+        "business": "Tillverkar syra- och alkali fasta murmassor (varumärke: AX) vid fabrik i Härnösand samt utför dylika murningar på entreprenad",
+        "contact": {
+            "phone": [
+                "200048",
+                "102348"
+            ]
+        },
+        "financials": {
+            "capital": "50,000 kr"
+        },
+        "foundation_year": 1939,
+        "director": "ing. Fritz Ramström",
+        "verkst_dir": "Nils Ultvedt",
+        "driftsing": "I. Björnstad",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "Sågbladsfabriken i Nora",
+        "location": "Nora",
+        "business": "Tillverkar sågblad och maskinhyveljärn",
+        "telegraph": "Sågbladsfabrik, Nora",
+        "coordinates": {
+            "Latitude": 59.51920639999999,
+            "Longitude": 15.0378667
+        }
+    }
+}

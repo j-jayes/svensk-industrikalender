@@ -1,0 +1,195 @@
+{
+    "1": {
+        "name": "AB. Järnforsens Möbelfabrik",
+        "location": "Järnforsen",
+        "business": "Tillverkar kontorsmöbler",
+        "contact": {
+            "office": "Järnforsen",
+            "phone": [
+                "2"
+            ],
+            "postgiro": "23468",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "232640"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 21
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1909,
+        "predecessor": "Maskinaffären Carl Lamm AB",
+        "coordinates": {
+            "Latitude": 57.41540999999999,
+            "Longitude": 15.62295
+        }
+    },
+    "2": {
+        "name": "AB. Järnförädling",
+        "location": "Hälleforsnäs",
+        "business": "Aduceringsgjuteri, manufakturverk, mek. verkstad och galvaniseringsverk",
+        "contact": {
+            "telegraph": "Malleable, Flen",
+            "phone": "Hälleforsnäs 1",
+            "postgiro": "8282"
+        },
+        "financials": {
+            "capital": "4,000,000 kr",
+            "employees": {
+                "industriarb": 600
+            }
+        },
+        "foundation_year": 1918,
+        "original_name": "Helle-fors Styckebruk",
+        "board": [
+            {
+                "name": "dir. J. S. Edström",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Sixten V. Nilsson",
+                "role": ""
+            },
+            {
+                "name": "kapten Sten Rudberg",
+                "role": ""
+            },
+            {
+                "name": "dir. C. A. Wicander",
+                "role": ""
+            }
+        ],
+        "director": "Sten Rudberg",
+        "managing_director": "Sten Rudberg",
+        "sales_manager": "N/A",
+        "coordinates": {
+            "Latitude": 59.1504308,
+            "Longitude": 16.4966728
+        }
+    },
+    "3": {
+        "name": "Järnhs Elektriska AB",
+        "location": "Stockholm",
+        "business": "Elektromek. verkstad",
+        "contact": {
+            "office": "Hagalund, Solna",
+            "phone": "Stockholm 272630",
+            "postgiro": "3207"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 140
+            },
+            "annual_turnover": "1,800,000 kr"
+        },
+        "foundation_year": 1890,
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "ing. Bror Edv. Järnh",
+                "role": "ordf."
+            },
+            {
+                "name": "dipl.-ing. Bertil Edv. Järnh",
+                "role": ""
+            }
+        ],
+        "director": "Bertil Edv. Järnh",
+        "managing_director": "Bertil Edv. Järnh",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "AB. Järnmontering",
+        "location": "Malmö",
+        "business": "Grovplåtslageri och mek. verkstad",
+        "contact": {
+            "office": "Magasinsg.",
+            "phone": "72140",
+            "postgiro": "39225"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 125,
+                "formarb": 30
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1938,
+        "manager": "Ruben J:son Pontén",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "5": {
+        "name": "Järnvägsverkstäderna",
+        "location": "Linköping",
+        "business": "Se AB. Svenska Järnvägs verkstäderna",
+        "description": "Gjuteriing.: N/A",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    },
+    "6": {
+        "name": "AB. Järpens Tapetfabrik",
+        "location": "Örebro",
+        "business": "Tillverkar limfärgstapeter",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "7": {
+        "name": "Jästfabriks AB., Svenska",
+        "location": "Stockholm",
+        "business": "Se Svenska Jästfabriks AB.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "8": {
+        "name": "Jönells AB.",
+        "location": "Borås",
+        "business": "Damkonfektionsfabrik",
+        "contact": {
+            "phone": "14795",
+            "postgiro": "94218"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 21,
+                "hemarbetare": 30
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1935,
+        "manager": "Carl G. Jönell",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "9": {
+        "name": "Jönköpings Borstfabrik",
+        "location": "Jönköping",
+        "business": "Tillverkar industriborstar",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        }
+    }
+}

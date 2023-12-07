@@ -1,0 +1,245 @@
+{
+    "1": {
+        "name": "Svenska Invarit AB.",
+        "location": "Köping",
+        "business": "Tillverkar asbestcementplattor för taktäckning och väggbeklädnad samt evakueringstrummor m. m.",
+        "products": "Varumärke: Invarit",
+        "contact": {
+            "office": "Köping",
+            "phone": [
+                "Invaritbola-l?et"
+            ],
+            "postgiro": "268373",
+            "head_office": "Köping",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "231650"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "113527—28"
+                }
+            ],
+            "telegraph": "Invarit, Köping"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "annual_production_value": "7,000,000 kr"
+        },
+        "foundation_year": 1945,
+        "board": [
+            {
+                "name": "civiling. Carl Pålsson",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Håkan Birke",
+                "role": ""
+            },
+            {
+                "name": "ing. Alvar Bylund",
+                "role": ""
+            },
+            {
+                "name": "ing. Sven Dahlberg",
+                "role": ""
+            },
+            {
+                "name": "civiling. Bo Jondal",
+                "role": ""
+            }
+        ],
+        "director": "Sven Dahlberg"
+    },
+    "2": {
+        "name": "AB. Svenska Isoleringsflaskfabriken",
+        "location": "Jönköping",
+        "business": "Se AB. Termoverken, Jönköping.",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": null,
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null
+        },
+        "financials": {
+            "capital": "100,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "dir. Ernst Wehtje",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Malte Ström",
+                "role": ""
+            },
+            {
+                "name": "övering. Donovan Werner",
+                "role": ""
+            }
+        ],
+        "director": "Karl G. Fieber"
+    },
+    "3": {
+        "name": "AB. Svenska Järnvägsverkstäderna",
+        "location": "Linköping",
+        "business": "Mek. verkstäder och gjuterier",
+        "products": "Tillverkar lokomotiv, järnvägsvagnar, spårvagnar, rälsbussar, omnibuskarosserier, arméfordon, värmetekniska apparater (system: Parca) såsom kol- och vedeldade värmeledningspannor, stokerpannor och stokerapparater för flis och stenkol, generatorpannor, industriugnar, varmvattenberedare och motströmsapparater samt gjutgods etc.",
+        "contact": {
+            "office": "Linköping",
+            "phone": [
+                "Verkstäderna"
+            ],
+            "postgiro": "11430",
+            "head_office": "Linköping",
+            "sales_offices": [
+                {
+                    "location": "Falun",
+                    "phone": null
+                },
+                {
+                    "location": "Arlöv",
+                    "phone": null
+                }
+            ],
+            "telegraph": "Svenska, Linköping"
+        },
+        "financials": {
+            "capital": "12,249,000 kr",
+            "employees": {
+                "industriarb.": 130
+            }
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "konsul Oscar Gullander",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Rolf Calissendorff",
+                "role": ""
+            },
+            {
+                "name": "bergsing. Tryggve Holm",
+                "role": ""
+            },
+            {
+                "name": "civiling. F. G. laljenroth",
+                "role": ""
+            }
+        ],
+        "director": "Tryggve Holm"
+    },
+    "4": {
+        "name": "Svenska Jästfabriks AB.",
+        "location": "Stockholm",
+        "business": "Jästfabriker och stärkelsefabriker",
+        "products": "Tillverkar pressjäst, torr jäst, jäst-extrakt, potatismjöl och potatissprit.",
+        "contact": {
+            "office": "Stockholm",
+            "phone": [
+                "Jästbolaget"
+            ],
+            "postgiro": "839",
+            "head_office": "Stockholm",
+            "sales_offices": null,
+            "telegraph": "Zymos, Stockholm"
+        },
+        "financials": {
+            "capital": "16,000,000 kr",
+            "employees": {
+                "industriarb.": 160
+            }
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "dir. Fritiof Söderbäck",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Sten Westerberg",
+                "role": "v. ordf."
+            },
+            {
+                "name": "övering. Henry Brahmer",
+                "role": ""
+            },
+            {
+                "name": "civiling. C.-G. Piehl",
+                "role": ""
+            },
+            {
+                "name": "dir. Otto Ramstedt",
+                "role": ""
+            },
+            {
+                "name": "fabr. Carl Schröder",
+                "role": ""
+            },
+            {
+                "name": "dir. Richard Wennberg",
+                "role": ""
+            }
+        ],
+        "director": "Sten Westerberg"
+    },
+    "5": {
+        "name": "Svenska Kamgarnsspinneri AB.",
+        "location": "Borås",
+        "business": "Tillverkar vid fabrik i Norrköping kamgarner för AB. Borås Klädningstygsfabriks behov.",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": null,
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Tops, Borås"
+        },
+        "financials": {
+            "capital": "200,000 kr"
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "dir. Arthur Anderson",
+                "role": ""
+            },
+            {
+                "name": "dir. C. E. Edlund",
+                "role": "ordf."
+            }
+        ],
+        "director": "C. E. Edlund"
+    },
+    "6": {
+        "name": "Svenska Kapokfabriken AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar kapok, vadd, täcken, madrasser, kuddar samt sovsäckar och morgonrockar, bäddjackor och damkonfektion",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": null,
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null
+        },
+        "financials": {
+            "capital": "unknown"
+        },
+        "foundation_year": null,
+        "board": [
+            {
+                "name": "unknown"
+            }
+        ]
+    }
+}

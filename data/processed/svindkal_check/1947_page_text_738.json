@@ -1,0 +1,148 @@
+{
+    "1": {
+        "1": {
+            "name": "Ulfshytte Jern verks AB.",
+            "location": "Vikmanshyttan",
+            "business": "Järnverk med gruvor och anrikningsverk samt såg, hyvleri och elektr. vattenkraftstationer",
+            "products": "Bryter och anrikar järnmalm samt tillverkar sågade och hyvlade trävaror. Bolaget idkar jämväl jordbruk och skogshantering.",
+            "contact": {
+                "office": "Wikmanshyttan, Hedemora",
+                "phone": [
+                    "Hedemora/Borlänge 47014",
+                    "Hedemora/Borlänge 47021"
+                ],
+                "postgiro": "95825"
+            },
+            "financials": {
+                "capital": "1,750,000 kr",
+                "employees": {
+                    "industriarb": 120
+                },
+                "annual_turnover": "1,500,000 kr",
+                "annual_production_value": "1,500,000 kr"
+            },
+            "foundation_year": 1887,
+            "owners": [
+                "Wikmanshytte Bruks AB"
+            ],
+            "board": [
+                {
+                    "name": "Jacob Wallenberg",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Henrik Arfwedson",
+                    "role": "disp."
+                },
+                {
+                    "name": "Arvid Olsson",
+                    "role": "disp."
+                }
+            ],
+            "director": "W. Ulän-der",
+            "sales_manager": "Arthur Törnquist"
+        },
+        "2": {
+            "name": "AB. K. A. Ullholm",
+            "location": "Linköping",
+            "business": "Tillverkar strumpor. Bolaget driver även engroshandel med strumpor.",
+            "contact": {
+                "office": "Linköping",
+                "phone": [
+                    "Ullholms Linköping"
+                ],
+                "postgiro": "6163"
+            },
+            "financials": {
+                "capital": "810,000 kr",
+                "employees": {
+                    "industriarb": 10
+                }
+            },
+            "foundation_year": 1916
+        },
+        "3": {
+            "name": "AB. Ulricehamns Yllefabrik",
+            "location": "Ulricehamn",
+            "business": "Tillverkar trikå- och yllevaror",
+            "contact": {
+                "office": "Ulricehamn",
+                "phone": [
+                    "Ulricehamns Yllefabrik"
+                ],
+                "postgiro": "32671"
+            },
+            "financials": {
+                "capital": "303,000 kr",
+                "employees": {
+                    "industriarb": 90
+                },
+                "annual_production_value": "2,000,000 kr"
+            },
+            "foundation_year": 1916
+        },
+        "4": {
+            "name": "Ulriksfors Sulfit AB.",
+            "location": "Stockholm",
+            "business": "Tillverkar stark sulfitcellulosa",
+            "contact": {
+                "office": "Stockholm, Eriksbergsg. 27",
+                "phone": [
+                    "Stockholm 103793"
+                ],
+                "postgiro": "153221"
+            },
+            "financials": {
+                "capital": "700,000 kr",
+                "employees": {
+                    "industriarb": 110
+                },
+                "annual_production_value": "16,000 ton sulfitcellulosa"
+            },
+            "foundation_year": 1915
+        },
+        "5": {
+            "name": "Ulunda Kalkbruk",
+            "location": "Värnhem",
+            "predecessor": "AB. Västergötlands Förenade Kalkindustrier, Falköping"
+        },
+        "6": {
+            "name": "H. Ulvfors",
+            "location": "Stockholm",
+            "business": "Syfabrik. Tillverkar som specialitet damunderkläder i charmeuse och konstsiden.",
+            "contact": {
+                "office": "Götg. 14, Stockholm",
+                "phone": [
+                    "Stockholm 415475",
+                    "Stockholm 415566"
+                ],
+                "postgiro": "50519",
+                "telegraph": "Ulvfors, Stockholm"
+            },
+            "financials": {
+                "annual_production_value": "600,000 kr"
+            },
+            "director": "fabr. Henry Ulvfors"
+        },
+        "7": {
+            "name": "Ulvsunda Cummifabriks AB.",
+            "location": "Ulv sunda",
+            "business": "Gummifabrik i Ulvsunda, Stockholm. Tillverkar gummislangar för industrien, tekniska gummivaror och formgjorda gummi detaljer, gummibeläggning av valsar och transporthjul, gummiklackar och -sulor, gummiparkettgolv och gummimattor, gummiremmar, maskinpackningar, isoleringsband, bakelitvaror m. m.",
+            "contact": {
+                "office": "Stockholm",
+                "phone": [
+                    "Stockholm 262560"
+                ],
+                "postgiro": "10899"
+            },
+            "financials": {
+                "capital": "381,250 kr",
+                "employees": {
+                    "industriarb": 300
+                },
+                "annual_production_value": "5,000,000 kr"
+            },
+            "foundation_year": 1917
+        }
+    }
+}

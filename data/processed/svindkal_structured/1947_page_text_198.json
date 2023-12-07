@@ -1,0 +1,282 @@
+{
+    "1": {
+        "name": "Bong, Ystad",
+        "location": "Ystad",
+        "business": "Telegraftjänster",
+        "contact": {
+            "telegraph": "Bong, Ystad",
+            "postgiro": "23181",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "438760"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "154415"
+                },
+                {
+                    "location": "Hälsingborg",
+                    "phone": "14545"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "300 600 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "1 400 000 kr"
+        },
+        "foundation_year": 1890,
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "Gustaf Bong",
+                "role": "Fabrikör"
+            },
+            {
+                "name": "Ludvig Bong",
+                "role": "Kontorschef"
+            },
+            {
+                "name": "Axel Jonason",
+                "role": "Bankdirektör"
+            },
+            {
+                "name": "Johan L. Larsson",
+                "role": "Lantbrukare"
+            }
+        ],
+        "director": "Fredrik Bong",
+        "managing_director": "Ludvig Bong"
+    },
+    "2": {
+        "name": "Albert Bonniers Förlag AB.",
+        "location": "Stockholm",
+        "business": "Bokförlag, boktryckeri, bokbinderi, offset samt klichéanstalt",
+        "contact": {
+            "office": "Sveavägen 56",
+            "telegraph": "Bonniers, Stockholm",
+            "phone": [
+                "Information saknas"
+            ],
+            "postgiro": "23181"
+        },
+        "financials": {
+            "capital": "2 100 000 kr",
+            "employees": {
+                "industriarb": 545
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "Information saknas"
+        },
+        "foundation_year": "1837",
+        "board": [
+            {
+                "name": "Tor Bonnier",
+                "role": "Bokförläggare (ordförande)"
+            },
+            {
+                "name": "Gerard Bonnier",
+                "role": "Herr"
+            },
+            {
+                "name": "Kaj Bonnier",
+                "role": "Bokförläggare"
+            },
+            {
+                "name": "Ivar Philipson",
+                "role": "Advokat"
+            }
+        ],
+        "director": "Information saknas"
+    },
+    "3": {
+        "name": "Boréns AB.",
+        "location": "Borås",
+        "business": "Metallvarufabrik. Tillverkar elektr. belysningsarmatur. Varumärken: »BABO» o. »Hellas»",
+        "contact": {
+            "phone": [
+                "17900"
+            ],
+            "postgiro": "34110"
+        },
+        "financials": {
+            "capital": "50 000 kr",
+            "employees": {
+                "industriarb": 63
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "600 000 kr"
+        },
+        "foundation_year": 1924,
+        "board": [
+            {
+                "name": "Karl Boren",
+                "role": "Direktör"
+            }
+        ],
+        "director": "Karl Boren"
+    },
+    "4": {
+        "name": "Borens Trikåfabrik AB.",
+        "location": "Motala",
+        "business": "Tillverkar herr-, dam- och barnartiklar i trikå. Specialitet: konstsilke-, imitat-och lahmannsartiklar i underkläder",
+        "contact": {
+            "phone": [
+                "450",
+                "879"
+            ],
+            "postgiro": "177317"
+        },
+        "financials": {
+            "capital": "90 000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "1 800 000 kr"
+        },
+        "foundation_year": "1916",
+        "corporation_year": 1936,
+        "director": "Ivar Ericson"
+    },
+    "5": {
+        "name": "Borensbergs Glasbruks Arrendatorer",
+        "location": "Borensberg",
+        "business": "Tillverkar buteljer vid glasbruk i Borensberg (Östergötl. l.)",
+        "contact": {
+            "phone": [
+                "19"
+            ],
+            "postgiro": "87788"
+        },
+        "financials": {
+            "capital": "300 000 kr",
+            "employees": {
+                "industriarb": 33
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "365 000 kr"
+        },
+        "corporation_year": 1932,
+        "director": "Hjalmar Råsberg"
+    },
+    "6": {
+        "name": "AB. Borensbergs Mek. Verkstad",
+        "location": "Motala",
+        "business": "Information saknas",
+        "contact": {
+            "phone": [
+                "Information saknas"
+            ],
+            "postgiro": "Information saknas"
+        }
+    },
+    "7": {
+        "name": "Borgs Fabriks AB.",
+        "location": "Norrköping",
+        "business": "Spinneri i Kneippbaden, Norrköping. Tillverkar vigogne- och yllegarner samt utför löngodsarbeten",
+        "contact": {
+            "phone": [
+                "Norrköping 20385"
+            ],
+            "postgiro": "71501"
+        },
+        "financials": {
+            "capital": "100 000 kr",
+            "employees": {
+                "industriarb": 22
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "225 000 kr"
+        },
+        "corporation_year": 1904,
+        "board": [
+            {
+                "name": "Sven-Erik Ronnerström",
+                "role": "Ingenjör (ordförande)"
+            },
+            {
+                "name": "D. Ronnerström",
+                "role": "Fru"
+            },
+            {
+                "name": "Gunvor Ronnerström",
+                "role": "Fru"
+            }
+        ],
+        "director": "Sven-Erik Ronnerström"
+    },
+    "8": {
+        "name": "AB. Borgs Snickerifabrik",
+        "location": "Norrköping",
+        "business": "Tillverkar fönster, dörrar, trappor och köksinredningar",
+        "contact": {
+            "office": "Torsgatan 1",
+            "postgiro": "161047"
+        },
+        "financials": {
+            "capital": "40 000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "250 000 kr"
+        },
+        "foundation_year": 1926,
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "Ivar Karlsson",
+                "role": "Direktör (ordförande)"
+            },
+            {
+                "name": "Waldemar Karlsson",
+                "role": "Verkställande direktör"
+            }
+        ],
+        "director": "Ivar Karlsson"
+    },
+    "9": {
+        "name": "A. J. Borgs Väfveri AB.",
+        "location": "Kinnahult",
+        "business": "Jacquardväveri i örby s:n (Älvsb. l.). Tillverkar möbeltyger, ottoman- och sängöverkast, badväv, gardin- och draperityger, allmogevävnader m. m",
+        "contact": {
+            "location": "Kinnahult",
+            "telegraph": "Borg, Kinna",
+            "phone": [
+                "Kinna »Borgs väveri» o.",
+                "10670"
+            ],
+            "postgiro": "10636"
+        },
+        "financials": {
+            "capital": "800 000 kr",
+            "employees": {
+                "industriarb": 166
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "Information saknas"
+        },
+        "foundation_year": 1893,
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "Carl Gustaf Borg",
+                "role": "Direktör (ordförande)"
+            },
+            {
+                "name": "Bror Erik Borg",
+                "role": "Ingenjör (vice ordförande)"
+            },
+            {
+                "name": "Tage Borg",
+                "role": "Direktör"
+            }
+        ],
+        "director": "Carl Gustaf Borg"
+    }
+}

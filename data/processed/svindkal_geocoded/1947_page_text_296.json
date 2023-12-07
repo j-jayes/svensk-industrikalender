@@ -1,0 +1,98 @@
+{
+    "1": {
+        "name": "Flygverkstäder—Fors",
+        "location": "Orrefors",
+        "business": "Flygverkstäder",
+        "contact": {
+            "office": "Orrefors",
+            "phone": [
+                "Orrefors 57"
+            ],
+            "postgiro": "90544"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "1,700,000 kr",
+            "annual_production_value": "2 milj. st. tegelvaror"
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "Oskar Rosander",
+                "role": "ordf."
+            },
+            {
+                "name": "Viktor Erlandson",
+                "role": "arrendator"
+            },
+            {
+                "name": "Emil Flytström",
+                "role": "dir."
+            }
+        ],
+        "director": "O^kar Rosander",
+        "managing_director": "Walter Granqvist",
+        "sales_manager": "Gunnar Petersso",
+        "manager": "Arne Rosander",
+        "coordinates": {
+            "Latitude": 56.8382325,
+            "Longitude": 15.7420197
+        }
+    },
+    "2": {
+        "name": "AB. Flyinge Tegelbruk, Flyinge",
+        "location": "Flyinge",
+        "business": "Tillverkar murtegel och dräneringsrör",
+        "coordinates": {
+            "Latitude": 55.7517542,
+            "Longitude": 13.3655012
+        }
+    },
+    "3": {
+        "name": "AB. Fläkt- &amp; Cyklonfabriken, Malmö",
+        "location": "Malmö",
+        "business": "Tillverkar varmvattenberedare och varmvattencisterner",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "4": {
+        "name": "AB. Fodervävnader, Alingsås",
+        "location": "Alingsås",
+        "business": "Konstsilkeväveri",
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        }
+    },
+    "5": {
+        "name": "AB. Fogelfors Bruk, Fågelfors",
+        "location": "Fågelors",
+        "business": "Snickerifabrik, trähusfabrik och sågverk",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    },
+    "6": {
+        "name": "Foglaviks Glasbruk, Fåglavik",
+        "location": "Fåglavik",
+        "coordinates": {
+            "Latitude": 58.1078458,
+            "Longitude": 13.1098176
+        }
+    },
+    "7": {
+        "name": "Abb. Fors Ullspinneri, Nyköping",
+        "location": "Nyköping",
+        "business": "Ullspinneri och ylleväveri, färgeri och beredningsverk samt tvättanstalt",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        }
+    }
+}

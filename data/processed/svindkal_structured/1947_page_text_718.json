@@ -1,0 +1,197 @@
+{
+    "1": {
+        "name": "E. Tingströms Möbelfabriks AB.",
+        "location": "Valdemarsvik",
+        "business": "Tillverkar möbler, fåtöljstommar, byggnadssnickerier och inredningar",
+        "contact": {
+            "telegraph": "Tingsmöbler",
+            "phone": [
+                "Tingströms möbler"
+            ],
+            "postgiro": "87945"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 42
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1924,
+        "predecessor": "såsom handelsbolag",
+        "board": [
+            {
+                "name": "Valfrid Tingström",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "Eric Tingström",
+                "role": "Försäljn.-chef"
+            }
+        ]
+    },
+    "2": {
+        "name": "Tlngvalla Bryggeri AB.",
+        "location": "Karlstad",
+        "business": "Tillverkar skattefria maltdrycker och kolsyrade drycker",
+        "contact": {
+            "phone": "10319",
+            "postgiro": "140331"
+        },
+        "financials": {
+            "capital": "155,000 kr",
+            "employees": {
+                "Arb.-antal": 9
+            }
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "Reinhold Ternqvist",
+                "role": "Styrelse, fabr."
+            },
+            {
+                "name": "Nils G. Arvedson",
+                "role": "dir."
+            },
+            {
+                "name": "Sven Jansson",
+                "role": "disp."
+            }
+        ]
+    },
+    "3": {
+        "name": "Tjernelds Radiofabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar radiomottagare, radiogrammofoner samt grammofon bord",
+        "contact": {
+            "office": "Iludiksvallsg. 4",
+            "telegraph": "Tjerneldradio",
+            "phone": "332001",
+            "postgiro": "53914",
+            "sales_offices": [
+                {
+                    "location": "Regeringsgatan 56",
+                    "phone": "Unknown"
+                }
+            ]
+        },
+        "financials": {
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1923,
+        "owner": "ing. Olof Tjerneld",
+        "board": [
+            {
+                "name": "Olof Tjerneld",
+                "role": "Ägare o. chef"
+            },
+            {
+                "name": "Eric Åström",
+                "role": "Disp."
+            }
+        ]
+    },
+    "4": {
+        "name": "Tjustbygdens Fruktförening u.pa.",
+        "location": "Gamleby",
+        "business": "Tillverkar äppelmos, marmelad, sylter, safter, frukt- och bärkonserver, geléer och syltade frukter",
+        "contact": {
+            "phone": [
+                "125",
+                "308"
+            ],
+            "postgiro": "33756"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 16
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1922,
+        "board": [
+            {
+                "name": "Helge Petersson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Seth Björk",
+                "role": "Disp."
+            }
+        ]
+    },
+    "5": {
+        "name": "Tjärby Tegelbruks AB.",
+        "location": "Genevad",
+        "business": "Tillverkar murtegel, lättegel, högporöst tegel, taktegel samt dräneringsrör",
+        "contact": {
+            "phone": "Genevad 10",
+            "postgiro": "79545"
+        },
+        "financials": {
+            "capital": "130,000 kr",
+            "employees": {
+                "Antal industriarb.": 30
+            },
+            "annual_production_value": "5 milj. st. tegelvaror"
+        },
+        "foundation_year": 1898,
+        "director": "N. Herbert Andersson"
+    },
+    "6": {
+        "name": "O. Tjärnberg",
+        "location": "Örnsköldsvik",
+        "business": "Byggnadsentreprenörfirma för bostadshus, industribyggnader, skolor och biografer",
+        "contact": {
+            "phone": [
+                "2489",
+                "1539"
+            ],
+            "postgiro": "62962"
+        },
+        "financials": {
+            "employees": {
+                "Antal byggnadsarb.": 180
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1925,
+        "owner": "Oscar Tjärnberg",
+        "manager": "Erik Österberg"
+    },
+    "7": {
+        "name": "AB. Tobo Bruk",
+        "location": "Tobo",
+        "business": "Radiofabrik, mek. verkstad, kjolnatsfabrik, sportvarufabrik samt skidfabrik",
+        "contact": {
+            "telegraph": "Tobobruk",
+            "phone": "46",
+            "postgiro": "168139"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "Antal industriarb.": 220
+            },
+            "annual_production_value": "2,600,000 kr"
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Thor Warborn",
+                "role": "Styrelse o. disp."
+            }
+        ]
+    },
+    "8": {
+        "name": "Tolls Byggnads AB.",
+        "location": "Stockholm",
+        "business": "Utför bostads- och fabriksbyggnader, vattenverksbyggnader, bro- och kajbyggnader, grundläggningar",
+        "financials": {
+            "employees": {
+                "unknown": "Unknown"
+            }
+        }
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "1": {
+        "name": "Malvia—Manus",
+        "location": "Malmö",
+        "business": "garn för väverier och trikåfabriker, ylle-och silkesstrumpor samt bomullsgarn och bomullsvävnader",
+        "contact": {
+            "office": "Trelleborgsvä-gen 13",
+            "phone": [
+                "70730"
+            ],
+            "postgiro": "37531",
+            "head_office": "Malmö",
+            "telegraph": "Yllefabriken",
+            "factory_office": "Malmö",
+            "factory_phone": "Se AB. Fabriken Malvia, Malmö"
+        },
+        "financials": {
+            "capital": "4,197,600 kr",
+            "employees": {
+                "industriarb": 1800
+            },
+            "annual_turnover": "30,000,000 kr",
+            "annual_production_value": "30,000,000 kr"
+        },
+        "foundation_year": 1866,
+        "board": [
+            {
+                "name": "Nils W. Lundblad",
+                "role": "ordf."
+            },
+            {
+                "name": "Einar Bager",
+                "role": "konstnär"
+            },
+            {
+                "name": "Thorsten C. Bergh",
+                "role": "konsul"
+            },
+            {
+                "name": "Ivar Åkerman",
+                "role": "bankdir."
+            }
+        ],
+        "owners": [
+            "Manufaktur AB. i Malmö"
+        ],
+        "director": "Nils W. Lundblad",
+        "managing_director": "Thorstön C. Bergh",
+        "sales_manager": "Adalbert Schmitz",
+        "manager": "Tore Ericsson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "2": {
+        "name": "Mannerståls Snickerifabrik",
+        "location": "Vårgårda",
+        "business": "Tillverkar byggnadssnickerier såsom fönster, dörrar och trappor",
+        "contact": {
+            "phone": [
+                "300"
+            ],
+            "postgiro": "282460"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "225,000 kr"
+        },
+        "foundation_year": 1945,
+        "owner": "ing. Magni Mannerstål",
+        "coordinates": {
+            "Latitude": 58.0323039,
+            "Longitude": 12.8089764
+        }
+    },
+    "3": {
+        "name": "Manufaktur AB. i Malmö",
+        "location": "Malmö",
+        "business": "Bomullsspinneri och -väveri, trikåfabrik, vaddfabrik, färgeri, blekeri och appreturverk",
+        "contact": {
+            "telegraph": "Mabim",
+            "office": "Malmö",
+            "phone": [
+                "MAB",
+                "MYA"
+            ],
+            "postgiro": "39345"
+        },
+        "financials": {
+            "capital": "4,200,000 kr",
+            "employees": {
+                "industriarb": 750
+            },
+            "annual_production_value": "10,000,000 kr"
+        },
+        "foundation_year": 1855,
+        "board": [
+            {
+                "name": "Nils W. Lundblad",
+                "role": "ordf."
+            },
+            {
+                "name": "Einar Bager",
+                "role": "konstnär"
+            },
+            {
+                "name": "Carl Bergh",
+                "role": "disp."
+            },
+            {
+                "name": "Thorsten O. Bergh",
+                "role": "konsul"
+            },
+            {
+                "name": "Ivar Åkerman",
+                "role": "bankdir."
+            }
+        ],
+        "director": "Thorsten C. Bergh",
+        "sales_manager": "Eric Myrhagen",
+        "manager": "Folke Thulin",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "4": {
+        "name": "Manufaktur AB. Svea",
+        "location": "Borås",
+        "business": "Se Kilsunds AB., Borås",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "5": {
+        "name": "AB. Manufaktur & Konfektion",
+        "location": "Borås",
+        "business": "Damkonfektionsfabrik. Tillverkar klänningar, blusar och kjolar. Varumärke: »MK»",
+        "contact": {
+            "phone": [
+                "11820",
+                "11890"
+            ],
+            "postgiro": "84262"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "Arvid Liljeros",
+                "role": "verkst. dir.:"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "6": {
+        "name": "AB. Manufaktursmiden",
+        "location": "Halmstad",
+        "business": "Kättingfabrik. Tillverkar kortlänkad och långlänkad kätting",
+        "contact": {
+            "telegraph": "Manufaktursmide",
+            "phone": [
+                "Malcus"
+            ],
+            "postgiro": "72224"
+        },
+        "financials": {
+            "capital": "62,500 kr",
+            "employees": {
+                "industriarb": 6
+            },
+            "annual_production_value": "75,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "Edw. Berger",
+                "role": "ordf."
+            },
+            {
+                "name": "Oscar Hill",
+                "role": "v. konsul"
+            },
+            {
+                "name": "Johan Wendt",
+                "role": "disp."
+            }
+        ],
+        "director": "Bertil Junger",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        }
+    },
+    "7": {
+        "name": "Manufaktur & Syfabriks AB.",
+        "location": "Örbyhus",
+        "business": "Se AB. örby hus Syfabrik, örby hus",
+        "coordinates": {
+            "Latitude": 60.22448389999999,
+            "Longitude": 17.7015559
+        }
+    },
+    "8": {
+        "name": "Manufakturverket Göta Bruk AB.",
+        "location": "Malmö",
+        "business": "Mek. verkstad i Anderslöv (Malmöh. l.). Tillverkar # reservdelar till plogar och skördemaskiner samt yxor och skruvbrodd. Varumärke: »Göta»",
+        "contact": {
+            "office": "Malmö, Engelbrektsg. 11 A",
+            "phone": [
+                "Tho-méesjärn"
+            ],
+            "postgiro": "14063"
+        },
+        "financials": {
+            "capital": "46,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1915,
+        "director": "Allan Bäckman",
+        "sales_manager": "Gunnar Martinsson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "9": {
+        "name": "AB. Manus",
+        "location": "Norrköping",
+        "business": "Mek. verkstad. Tillverkar mjölkningsmaskiner, vacuumpumpar och mjölkkylare",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    }
+}

@@ -1,0 +1,283 @@
+{
+    "1": {
+        "name": "AB. Svenska Salpeterverken",
+        "location": "Köping",
+        "business": "Fabrik för tillverkning av kvävegödselmedel (kalkammonsalpeter), salpetersyra, ammoniak, ammoniumnitrat och andra ammoniakprodukter",
+        "contact": {
+            "telegraph": "Koab, Köping",
+            "phone": [
+                "»Salpeterverken»"
+            ],
+            "postgiro": "280970"
+        },
+        "financials": {
+            "capital": "5,000,000 kr",
+            "employees": {
+                "arb.-antal": 200
+            },
+            "annual_production_value": "8,000,000 kr"
+        },
+        "foundation_year": 1943,
+        "owners": [
+            "Kooperativa Förbundet, Stockholm"
+        ],
+        "board": [
+            {
+                "name": "dir. Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "fil. lic. Mauritz Bonow",
+                "role": null
+            },
+            {
+                "name": "dir. Hj. Deger-stedt",
+                "role": null
+            },
+            {
+                "name": "dir. Hugo Edstam",
+                "role": null
+            },
+            {
+                "name": "dir. G. Osvald",
+                "role": null
+            },
+            {
+                "name": "dir. Ernst Persson",
+                "role": null
+            }
+        ],
+        "director": "civiling. Hilding Håkanson",
+        "managing_director": "civiling. Pål Pålsson",
+        "manager": "Kaleb Back",
+        "laboratory_manager": "dr J. Kuusk",
+        "coordinates": {
+            "Latitude": 59.5120962,
+            "Longitude": 15.9945102
+        }
+    },
+    "2": {
+        "name": "AB. Svenska Siden väveriet",
+        "location": "Hälsingborg",
+        "business": "Tillverkar sidentyger",
+        "contact": {
+            "telegraph": "Svesiko, Hälsingborg",
+            "phone": [
+                "17929"
+            ],
+            "postgiro": "135780"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 60
+            }
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "f. d. assessor Henry Ljunggren",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Bengt Linders",
+                "role": null
+            },
+            {
+                "name": "dir. Carl J. Michaelsen",
+                "role": null
+            }
+        ],
+        "manager": "Walter Michaelsen",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "3": {
+        "name": "Svenska Silikategelfabriken",
+        "manager": "Sven Setterberg",
+        "location": "Göteborg",
+        "business": "Kvartsbrott och tegelfabrik",
+        "contact": {
+            "head_office": "Stora Badhusg. 20, Göteborg",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "132953"
+                },
+                {
+                    "location": "Köpmannebro",
+                    "phone": "Köpmannebro 5"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 85
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1902,
+        "owners": [
+            "Sven Setterberg"
+        ],
+        "managerial_staff": {
+            "driftsing.": "Oleg Backlund",
+            "kontorschef": "fru H. Silfverstolpe"
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "Svenska Skaftfabriken",
+        "location": "Söderhamn",
+        "business": "Snickerifabrik",
+        "contact": {
+            "telegraph": "Skaftfabriken, Söderhamn",
+            "phone": [
+                "2345"
+            ],
+            "postgiro": "34567"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 11
+            },
+            "annual_production_value": "90,000 kr"
+        },
+        "foundation_year": 1907,
+        "owners": [
+            "fabr. Ernst Erikson"
+        ],
+        "managerial_staff": {
+            "verkmäst.": "Emil Nilsson"
+        },
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        }
+    },
+    "5": {
+        "name": "Svenska Skandex AB.",
+        "location": "Stockholm",
+        "business": "Stålmanufakturfabrik",
+        "contact": {
+            "location": "Stockholm, Nybrokajen 3",
+            "telegraph": "Skandex, Stockholm",
+            "phone": [
+                "230895"
+            ],
+            "postgiro": "3121"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb.": 165
+            }
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "dir. Gustaf B. Söderlund",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Algot Hanson",
+                "role": null
+            },
+            {
+                "name": "bankdir. G. G. Rissler",
+                "role": null
+            },
+            {
+                "name": "kapten Bengt Söderlund",
+                "role": null
+            },
+            {
+                "name": "bergsing. Finn Söderlund",
+                "role": null
+            },
+            {
+                "name": "ing. Stig Söderlund",
+                "role": null
+            }
+        ],
+        "managerial_staff": {
+            "verkst. dir.": "Gustaf B. Söderlund",
+            "försäljn.-chef": "Bengt Söderlund",
+            "exportchef": "Algot Hanson"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "Svenska Skifferolje AB.",
+        "location": "Örebro",
+        "business": "Skifferoljeverk",
+        "contact": {
+            "location": "Örebro, Drottningg. 3",
+            "telegraph": "Sveskiab, Örebro",
+            "phone": [
+                "19195"
+            ],
+            "postgiro": "159662"
+        },
+        "financials": {
+            "capital": "20,000,000 kr",
+            "employees": {
+                "industriarb.": 1,
+                "bord members": [
+                    165
+                ]
+            }
+        },
+        "foundation_year": 1941,
+        "owners": [
+            "Svenska staten"
+        ],
+        "board": [
+            {
+                "name": "marinöverdir. J. H. Qvistgaard",
+                "role": "ordf."
+            },
+            {
+                "name": "förbundssekr. Gunnar Mohlne",
+                "role": "v. ordf."
+            },
+            {
+                "name": "riksdagsm. ^ E. R. Brandt",
+                "role": null
+            },
+            {
+                "name": "dir. Claes Gejrot",
+                "role": null
+            },
+            {
+                "name": "övering. E. Schön",
+                "role": null
+            },
+            {
+                "name": "dir. Torsten Åqvist",
+                "role": null
+            }
+        ],
+        "managerial_staff": {
+            "verkst. dir.": "Claes Gejrot",
+            "intendent o. försäljn.-dir.": "Hans Wiborgh",
+            "kamrer": "Henry Steijer",
+            "planeringschef": "civiling. Nils Bergenstråhle",
+            "övering.": "civiling. Arvid Johansson",
+            "laboratoriechef": "prof. Edmund Schjånberg",
+            "inköpschef": "Inge Svenson"
+        },
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    }
+}

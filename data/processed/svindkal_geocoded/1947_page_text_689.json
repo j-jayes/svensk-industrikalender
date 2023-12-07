@@ -1,0 +1,230 @@
+{
+    "1": {
+        "name": "AB. Svenska Suchard",
+        "location": "Alingsås",
+        "business": "Choklad- och karamellfabrik",
+        "products": "Tillverkar choklad, konfekt, karameller, kola och marmelad m.m.",
+        "contact": {
+            "office": "Lidköping",
+            "phone": [
+                "Kinnevik"
+            ],
+            "postgiro": "20642",
+            "head_office": "Alingsås",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "233920"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "132090"
+                }
+            ],
+            "telegraph": "Suchard, Alingsås",
+            "factory_office": "Alingsås",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 330
+            }
+        },
+        "foundation_year": 1919,
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        }
+    },
+    "2": {
+        "name": "AB. Svenska Suckatfabriken",
+        "location": "Malmö",
+        "business": "Tillverkar kanderade frukter, fruktkonserver och sylt",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "29066"
+            ],
+            "postgiro": "37936",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Svensksuckat, Malmö",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "arbantal": 9
+            },
+            "annual_turnover": "330,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1932,
+        "corporation_year": 1935,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "3": {
+        "name": "AB. Svenska Stilfabriken",
+        "location": "Göteborg",
+        "business": "Tillverkar inläggssulor till skodon",
+        "products": "Specialitet: Getraggsulor",
+        "contact": {
+            "office": "Köpmansg. 36—38",
+            "phone": [
+                "132882"
+            ],
+            "postgiro": "44112",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "employees": {
+                "arbantal": 12
+            },
+            "annual_turnover": "",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1931,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "Svenska Superfosfat-Försäljnings AB.",
+        "location": "Hälsingborg",
+        "business": "Ensamförsäljare av super fosfat inom landet",
+        "products": "",
+        "contact": {
+            "office": "Hälsingborg",
+            "phone": [
+                "Fosfatforsaljningen"
+            ],
+            "postgiro": "14373",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "109886—87"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "131407 o. 131490"
+                }
+            ],
+            "telegraph": "Fosforsyra, Hälsingborg, Stockholm och Göteborg",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "3,600,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1909,
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "5": {
+        "name": "AB. Svenska Syrgasfabriken",
+        "location": "Oskarshamn",
+        "business": "Tillverkar syrgas, kväve och flytande luft",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "353"
+            ],
+            "postgiro": "12773",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "264,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1910,
+        "coordinates": {
+            "Latitude": 57.26569929999999,
+            "Longitude": 16.4473984
+        }
+    },
+    "6": {
+        "name": "AB. Svenska Tacksfabriken",
+        "location": "Trollhättan",
+        "business": "Skostiftfabrik med tråddrageri",
+        "products": "Tillverkar skostift (tacks), klackspik, skofjädrar (gelänkfjädrar), pappgelänk samt häfttråd, stifttråd och knappnålar",
+        "contact": {
+            "office": "",
+            "phone": [
+                "10062 o. 10602"
+            ],
+            "postgiro": "20661",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Tacksfabriken, Trollhättan",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "antalindustriarb": 90
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1901,
+        "coordinates": {
+            "Latitude": 58.28348939999999,
+            "Longitude": 12.2858206
+        }
+    },
+    "7": {
+        "name": "AB. Svenska Tagelspinneri",
+        "location": "Karlstad",
+        "business": "Bereder tagel till madrass- och möbelstoppning, tagel för borstbinderier samt tagelmattor",
+        "products": "",
+        "contact": {
+            "office": "Kalendeg. 17",
+            "phone": [
+                "10453"
+            ],
+            "postgiro": "71339",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Svensktagel, Karlstad",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        }
+    }
+}

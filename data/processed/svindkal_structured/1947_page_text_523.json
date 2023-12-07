@@ -1,0 +1,320 @@
+{
+    "1": {
+        "name": "A. Mårtenssons Orgelfabrik AB.",
+        "location": "Lund",
+        "business": "Tillverkar kyrkorglar",
+        "contact": {
+            "office": "Lund",
+            "phone": [
+                "11119"
+            ],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "120,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1914,
+        "current_name_year": 1931,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Anders Mårtensson",
+                "role": "ordf."
+            },
+            {
+                "name": "Gunnar Mårtensson",
+                "role": "orgelbyggare"
+            },
+            {
+                "name": "Gösta Mårtensson",
+                "role": "orgelbyggare"
+            }
+        ],
+        "owners": null,
+        "director": "Anders Mårtensson",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "2": {
+        "name": "Nils Mårtenssons Cjuteri AB.",
+        "location": "Alingsås",
+        "business": "Gjuteri och mek. verkstad",
+        "contact": {
+            "office": "Alingsås",
+            "phone": [
+                "53",
+                "651"
+            ],
+            "postgiro": "32883",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1925,
+        "current_name_year": 1946,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "3": {
+        "name": "AB. Måttstockar, Lidingö",
+        "location": "Mellösa (Södermanl. l.)",
+        "business": "Tillverkar tumstockar av trä och lättmetall, jumperstickor av förnicklad lättmetall, pressverktyg samt utför pressningsarbeten. Varumärke: »Jim».",
+        "contact": {
+            "office": "Lidingö 3",
+            "phone": [
+                "Stockholm 656911"
+            ],
+            "postgiro": "53265",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Jim, Stockholm",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1930,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "4": {
+        "name": "AB. Mälardalens Tegelbruk, Stockholm",
+        "location": "Vid Broby, Fittja, Hända, Kiholm, Lina, Nora, Rimbo (samtl. i Sthlms l.), Bergsbrunna, Brogård, Röbo (Uppsala l.), Husby, Näsby, Valla (Södermanl. l.)",
+        "business": "Tillverkar mur- och fasadtegel, tak-, reveterings- och håltegel, dräneringsrör m. m. Idkar jämväl jordbruk, skogshantering samt rederirörelse.",
+        "contact": {
+            "office": "Eriksbergsg. 27",
+            "phone": [
+                "233365"
+            ],
+            "postgiro": "3581",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Tegelbolaget, Stockholm",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "2,665,500 kr",
+            "employees": {
+                "under säsong": 700
+            },
+            "annual_turnover": null,
+            "annual_production_value": "55 milj. st. tegelvaror"
+        },
+        "foundation_year": 1914,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Arvid Carlander",
+                "role": "ordf."
+            },
+            {
+                "name": "Einar Helenius",
+                "role": "kamrer"
+            },
+            {
+                "name": "Sten B:son Leijonhuvud",
+                "role": "adv. frih."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": "Ivar Ericson",
+        "manager": null
+    },
+    "5": {
+        "name": "Möbel AB. Larsson & Co., Karlstad",
+        "location": null,
+        "business": "Tillverkar matrums-, sovrums- och kompletteringsmöbler",
+        "contact": {
+            "office": null,
+            "phone": [
+                "11331"
+            ],
+            "postgiro": "27637",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "82,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "240,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1916,
+        "current_name_year": 1935,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    },
+    "6": {
+        "name": "Möbel AB. Vasa, Vaggeryd",
+        "location": "Fabrik i Vaggeryd (Jönköp. l.)",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "office": null,
+            "phone": [
+                "153"
+            ],
+            "postgiro": "94433",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "420,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": 1935,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": "Carl Gustafsson"
+    },
+    "7": {
+        "name": "AB. Möbelfabriken Balder, Vaggeryd",
+        "location": "Fabrik i Vaggeryd (Jönköp. l.)",
+        "business": "Tillverkar matrums- och sittrumsmöbler",
+        "contact": {
+            "office": null,
+            "phone": [
+                "59"
+            ],
+            "postgiro": "162280",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1939,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": "Rolf Grenthe"
+    },
+    "8": {
+        "name": "Möbelfabriken Ejdern, Karl Malmberg, Vimmerby",
+        "location": null,
+        "business": "Tillverkar bostadsmöbler, kontorsmöbler samt inredningar för banker och affärslokaler",
+        "contact": {
+            "office": null,
+            "phone": [
+                "779",
+                "229"
+            ],
+            "postgiro": "25629",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "150,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1924,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": [
+            "fabr. Karl Malmberg"
+        ],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null
+    }
+}

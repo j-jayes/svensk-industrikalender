@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "S. A. Wennerlund",
+        "location": "Örebro",
+        "business": "Sandal-sydda skodon",
+        "products": "Varumärke: Essa",
+        "contact": {
+            "office": "Skofabrik",
+            "phone": [
+                "10869",
+                "14769"
+            ],
+            "postgiro": "10871"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1914,
+        "owner": "S. A. Wennerlund",
+        "director": null,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "2": {
+        "name": "AB. Ventilatorverken",
+        "location": "Malmö",
+        "business": "Mek. verkstad",
+        "products": "Utför anläggningar för ventilation och luftkonditionering samt pneumatisk transport. Tillverkar fläktar, varmluftsbatterier, luftkonditionerings-apparater, tvättorkar, röksugare, varmvattenberedare, plåtcisterner m. m.",
+        "contact": {
+            "office": "Idunsg. 19",
+            "phone": "28057",
+            "postgiro": "38476"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 37
+            },
+            "annual_turnover": "410,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1918,
+        "director": "Ing. Thure Ericson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "3": {
+        "name": "Verkstads AB. Haldex",
+        "location": "Halmstad",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar taxametrar, varvtalsmätare, varvräknare, hastighets-mätare och andra instrument för bilar och marinmotorer, telefonkontrollur, mätur (indikatorklockor) m. fl. finmekaniska tillverkningar. Bolaget driver även försäljning på export av plåtbearbetningsmaskiner (märke: Pullmax), tillverkade vid dotterbolaget AB. Svets-mekano, Göteborg.",
+        "contact": {
+            "office": null,
+            "phone": "3900",
+            "postgiro": "94"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "Thorsten Wigelius",
+                "role": "disp."
+            },
+            {
+                "name": "David Arvidsson",
+                "role": "dir."
+            },
+            {
+                "name": "Stellan Bendz",
+                "role": "dir."
+            },
+            {
+                "name": "Hugo B. Hintze",
+                "role": "dir."
+            }
+        ],
+        "director": "S. Bendz",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        }
+    },
+    "4": {
+        "name": "Verkstads AB* Bernhard Hedlund",
+        "location": "Hedemora",
+        "business": "Tillverkar cyklar och cykeldelar, grammofondelar, skidbindningar m. m.",
+        "products": "Varumärke: Brage",
+        "contact": {
+            "office": null,
+            "phone": [
+                "600",
+                "613"
+            ],
+            "postgiro": "33983"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1929,
+        "director": "Georg Hedlund",
+        "coordinates": {
+            "Latitude": 60.2775453,
+            "Longitude": 15.985892
+        }
+    },
+    "5": {
+        "name": "Verkstads AB. Lindqvist",
+        "location": "Motala",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar stålmöbler, fotskrapor, räfsor, grepar, brevkorgar, vertikalskåp, förvaringsskåp av plåt samt elektr. material; utför gassvetsnings- och pressarbeten samt förnickling och galvanisering.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "2320",
+                "2321"
+            ],
+            "postgiro": "29707"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 175
+            },
+            "annual_turnover": "1,650,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1918,
+        "director": "Tore Lindqvist",
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        }
+    },
+    "6": {
+        "name": "Verkstads AB. Mekano",
+        "location": "Hälsingborg",
+        "business": "Tillverkar transportanordningar såsom rullbanor, transportabla varuhissar, höj-och sänkbara transportvagnar, remtransportörer, elevatorer, stålkätting m. m., disk- och sköljmaskiner för mejerier och bryggerier samt metalltvättningsmaskiner.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "12600",
+                "12659"
+            ],
+            "postgiro": "30575"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "1,100,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "Joh. E. Gorthon",
+                "role": "skeppsred."
+            },
+            {
+                "name": "Fritz Helldov",
+                "role": "ing."
+            },
+            {
+                "name": "Ivar Nyberg",
+                "role": "dir."
+            }
+        ],
+        "director": null,
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "7": {
+        "name": "Verkstads AB. Tibo",
+        "location": "Ulvsunda",
+        "business": "Tillverkar rör-svetsmaskiner, arbetsstolar, klipp- och pressverktyg m. m. vid mek. verkstad i Ulvsunda, Stockholm.",
+        "contact": {
+            "office": null,
+            "phone": "252545",
+            "postgiro": "159540"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "615"
+        },
+        "coordinates": {
+            "Latitude": 59.33688530000001,
+            "Longitude": 17.9638876
+        }
+    }
+}

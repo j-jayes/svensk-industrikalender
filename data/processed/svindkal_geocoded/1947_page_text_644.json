@@ -1,0 +1,245 @@
+{
+    "1": {
+        "name": "Stens Choklad & Konfektfabrik AB",
+        "location": "Göteborg",
+        "business": "Tillverkar choklad, konfekt, marmelad, karameller och dragéer.",
+        "contact": {
+            "office": "Åvägen 18",
+            "phone": [
+                "182116-18",
+                "182138"
+            ],
+            "postgiro": "12250"
+        },
+        "financials": {
+            "capital": "82,500 kr",
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1924,
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "Olof Stenborg",
+                "role": "ordf"
+            },
+            {
+                "name": "Ivar Stenborg",
+                "role": "disp"
+            },
+            {
+                "name": "Nils Stenborg",
+                "role": "prokurist"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "Stensholms Fabriks AB",
+        "location": "Huskvarna",
+        "business": "Mek. verkstad. Tillverkar industritillbehör såsom oljetätningsr ingår, låsringar, högtryckssmörj sprutor, eltermostater, strömställare, svänghjulsmagneter samt spistermometrar.",
+        "contact": {
+            "telegraph": "Stensholm, Huskvarna",
+            "phone": "1200",
+            "postgiro": "31812"
+        },
+        "financials": {
+            "capital": "82,000 kr",
+            "employees": {
+                "industriarb": 270
+            },
+            "annual_production_value": "3,600,000 kr"
+        },
+        "foundation_year": 1890,
+        "board": [
+            {
+                "name": "F. af Klercker",
+                "role": "dir"
+            },
+            {
+                "name": "Johan Nordenfalk",
+                "role": "f.d. hovrättsråd"
+            },
+            {
+                "name": "Percy H:sson Tamm",
+                "role": "civiling"
+            },
+            {
+                "name": "Stig Tham",
+                "role": "civiling"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.7904141,
+            "Longitude": 14.2755781
+        }
+    },
+    "3": {
+        "name": "AB Stenströms Skjortfabrik",
+        "location": "Hälsingborg",
+        "business": "Tillverkar skjortor, kragar och manschetter samt pyjamas.",
+        "contact": {
+            "phone": "10627",
+            "postgiro": "80080"
+        },
+        "financials": {
+            "capital": "360,000 kr",
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "foundation_year": 1899,
+        "corporation_year": 1901,
+        "board": [
+            {
+                "name": "Henry Ljunggren",
+                "role": "assessor"
+            },
+            {
+                "name": "I. Stenström",
+                "role": "fröken"
+            },
+            {
+                "name": "A. Ohrlander",
+                "role": "köpm"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "4": {
+        "name": "Ch. Stenström AB",
+        "location": "Norrköping",
+        "business": "Vaddfabrik och ullspinneri. Tillverkar vadd, flock, stoppmaterial, resårikuddar och madrasser, täcken, axelvaddar samt svenskulls- och schoddygarner.",
+        "contact": {
+            "telegraph": "Tebe, Norrköping",
+            "phone": "20829",
+            "postgiro": "70733"
+        },
+        "financials": {
+            "capital": "72,400 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1910,
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "Torsten Brodin",
+                "role": "dir"
+            },
+            {
+                "name": "Karl-Otto Lewander",
+                "role": "ing"
+            },
+            {
+                "name": "Ragnar Öländer",
+                "role": "disp"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "5": {
+        "name": "Stensö Bandfabrik",
+        "location": "Skillingaryd",
+        "business": "Bandfabrik vid Stensö, Skillingaryd (Jönköp. l.). Tillverkar jacquardband, indiaband, mössband, hattband, band för trikå- och korsettfabriker samt vävda etiketter m. m.",
+        "contact": {
+            "phone": "88 a",
+            "postgiro": "30131"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            }
+        },
+        "foundation_year": 1905,
+        "owner": "fabr. Sven Hellberg",
+        "coordinates": {
+            "Latitude": 57.43058180000001,
+            "Longitude": 14.0938696
+        }
+    },
+    "6": {
+        "name": "AB Sterlo Sportläderindustri",
+        "location": "Gislaved",
+        "business": "Tillverkar läderremmar och läderdetaljer, velocipedrockskydd, shoppingväskor m. m. samt artiklar av plastic såsom babybyxor, badmössor, regnhuvor och kragar, skyddsförkläden, tobakspungar m. m. vid fabrik i Gislaved (Jönköp. l.).",
+        "contact": {
+            "phone": "241",
+            "postgiro": "173454"
+        },
+        "financials": {
+            "capital": "32,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1941,
+        "managing_director": "Gösta Stregård",
+        "manager": "Sture Lundqvist",
+        "coordinates": {
+            "Latitude": 57.2985,
+            "Longitude": 13.54326
+        }
+    },
+    "7": {
+        "name": "Stiab, Svenska Textilindustri AB.",
+        "location": "Ulricehamn",
+        "owner": "Svenska Textilindustri AB. Stiab",
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        }
+    },
+    "8": {
+        "name": "Stibergs Konservfabriker AB.",
+        "location": "Göteborg",
+        "business": "Charkuteri- och konservfabrik i Göteborg. Tillverkar charkuterivaror samt kött- och fiskkonserver.",
+        "contact": {
+            "office": "Almedalsväg",
+            "phone": "160423",
+            "postgiro": "42403"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "1,700,000 kr"
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1925,
+        "board": [
+            {
+                "name": "Harald Jerndal",
+                "role": "disp"
+            },
+            {
+                "name": "Hakon Stiberg",
+                "role": "dir"
+            },
+            {
+                "name": "Tage Stiberg",
+                "role": "dir"
+            }
+        ],
+        "director": "H. Stiberg",
+        "manager": "Gunnar Levin",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

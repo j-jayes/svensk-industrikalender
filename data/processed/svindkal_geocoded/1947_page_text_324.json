@@ -1,0 +1,214 @@
+{
+    "1": {
+        "name": "Grill—Gruf",
+        "location": "Kungsbacka",
+        "business": "Tillverkning av hållskärl, plåtkaminer, kannor för A.I.V.-lösning samt försäljning av lågtryckspannor och vatten värmare, träslöjd m.m.",
+        "contact": {
+            "phone": [
+                "163"
+            ],
+            "postgiro": "71813"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 17
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1925,
+        "board": [
+            {
+                "name": "fabr. David Andersson",
+                "role": "fabrikör"
+            },
+            {
+                "name": "fabr. Ernst Andersson",
+                "role": "fabrikör"
+            },
+            {
+                "name": "fabr. Karl Rosenqvist",
+                "role": "fabrikör"
+            }
+        ],
+        "director": "Karl Rosenqvist",
+        "coordinates": {
+            "Latitude": 57.48749189999999,
+            "Longitude": 12.0761927
+        }
+    },
+    "2": {
+        "name": "B. & R. Grill",
+        "location": "Kungsbacka",
+        "business": "Snickerifabrik och trävaruaffär som tillverkar byggnadssnickerier",
+        "contact": {
+            "phone": [
+                "41",
+                "415"
+            ],
+            "postgiro": "75961"
+        },
+        "financials": {
+            "employees": {
+                "antal": 15
+            }
+        },
+        "foundation_year": 1899,
+        "owners": [
+            "fabr. R. E. Grill"
+        ],
+        "coordinates": {
+            "Latitude": 57.48749189999999,
+            "Longitude": 12.0761927
+        }
+    },
+    "3": {
+        "name": "Grimsås Syfabrik",
+        "location": "Grimsås",
+        "business": "Tillverkning av skjortor och klänningar",
+        "contact": {
+            "phone": [
+                "Svenljunga 7424",
+                "7436"
+            ],
+            "postgiro": "169774"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1931,
+        "owners": [
+            "disp. Erik Hägg"
+        ],
+        "coordinates": {
+            "Latitude": 57.48403099999999,
+            "Longitude": 13.5543297
+        }
+    },
+    "4": {
+        "name": "AB. Gripens Konservfabrik",
+        "location": "Göteborg",
+        "business": "Fabrik för tillverkning av ansjovis, sillkonserver, kaviar, herring, sardiner, fiskbullar, fiskpudding och engroshandel med salt sill och fisk",
+        "contact": {
+            "office": "Ringö vägen",
+            "phone": "220438, 220439",
+            "postgiro": "41855"
+        },
+        "financials": {
+            "capital": "25,500 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1925,
+        "director": "Reinh. Tiljänder",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "5": {
+        "name": "AB. Crohmann & Eichelberg",
+        "location": "Stockholm",
+        "business": "Utför klichéer och fotografiska reproduktioner",
+        "contact": {
+            "office": "Mästersamuelsg. 67",
+            "phone": "231195",
+            "postgiro": "2613"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "550,000 kr"
+        },
+        "foundation_year": 1896,
+        "corporation_year": 1901,
+        "board": [
+            {
+                "name": "dir. Per Q. S. Fjästad",
+                "role": "styrelseledamot"
+            },
+            {
+                "name": "Erik Cederquist",
+                "role": "dispens"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "Gropptorps Marmor AB.",
+        "location": "Katrineholm",
+        "business": "Marmorbrott, stenhuggeri och stenslipning, framställer råvara i block och skivor, elektriska instrumenttavlor, gravvårdar och monument, mortlar, konst- och prydnadsföremål, möbelmarmor m.m.",
+        "contact": {
+            "phone": [
+                "Gropptorp 10, 35"
+            ],
+            "postgiro": "36346"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_production_value": "1,060,000 kr"
+        },
+        "foundation_year": 1908,
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "f.d. konsul Jerker Henke",
+                "role": "ordförande"
+            },
+            {
+                "name": "dir. Folke Anger",
+                "role": "styrelseledamot"
+            },
+            {
+                "name": "dir. Bertil Henke",
+                "role": "styrelseledamot"
+            },
+            {
+                "name": "F. Anger",
+                "role": "verkställande direktör"
+            }
+        ],
+        "director": "F. Anger",
+        "manager": "H. Fritzell",
+        "sales_manager": "civiling. Nils Lindberg",
+        "coordinates": {
+            "Latitude": 58.99555109999999,
+            "Longitude": 16.2054756
+        }
+    },
+    "7": {
+        "name": "Sixten Groths Eftr.",
+        "location": "Sjötorp",
+        "business": "Varv med torrdocka och sågverk, nybyggnader och reparationer av trä- och järnfartyg, tillverkning av trävaror",
+        "contact": {
+            "phone": "Sjötorp 77",
+            "postgiro": "33738"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 90
+            }
+        },
+        "foundation_year": 1877,
+        "owners": [
+            "disp. Åke Groth"
+        ],
+        "coordinates": {
+            "Latitude": 58.8365715,
+            "Longitude": 13.9804666
+        }
+    }
+}

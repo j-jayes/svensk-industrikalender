@@ -1,0 +1,166 @@
+{
+    "1": {
+        "name": "Obbola Sulfatfabrik",
+        "location": "Obbola",
+        "business": "Sulfatfabrik",
+        "contact": {
+            "telegraph": "Ångsågen, Obbola",
+            "phone": [
+                "7"
+            ],
+            "postgiro": "165873"
+        },
+        "financials": {
+            "capital": "165,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "2,000 stds trävaror"
+        },
+        "foundation_year": 1925
+    },
+    "2": {
+        "name": "Odatverken",
+        "location": "Eksjö",
+        "business": "Mek. verkstad",
+        "products": "bränslekrossar, ben-, kött-, gröp-, hö- och spånkvarnar, foderblandare, trätuggare, vädurar m. m.",
+        "contact": {
+            "telegraph": "Odalverken, Eksjö",
+            "phone": "279",
+            "postgiro": "30401"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1897,
+        "current_name_year": 1923,
+        "owner": "ing. E. I. Wohlfart"
+    },
+    "3": {
+        "name": "Odell & Ekberg",
+        "location": "Pälsboda",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "massproduktion av maskinformat gjutgods, såväl arbetat som oarbetat",
+        "contact": {
+            "telegraph": "Odell & Ekberg, Pälsboda",
+            "phone": "N/A",
+            "postgiro": "265530"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1936,
+        "owner": [
+            "ing. Filip Odell",
+            "disp. Karl Ekberg"
+        ],
+        "sales_manager": "Bror Sjönwall"
+    },
+    "4": {
+        "name": "Ohs Bruk, AB.",
+        "location": "Osbruk",
+        "business": "Sulfitfabrik, sågverk, hyvleri, vattenkraftstationer, tegelbruk",
+        "products": "blekt sulfitcellulosa för finpapper och konstsilketillverkning, sågade och hyvlade trävaror samt tegel",
+        "description": "Firman idkar jämväl jordbruk, skogshantering, mejeri- och kvarnrörelse",
+        "contact": {
+            "telegraph": "N/A",
+            "phone": "Värnamo 51023",
+            "postgiro": "75692"
+        },
+        "financials": {
+            "capital": "1,175,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "4,200 ton helblekt sulfitcellulosa, 2,000 stds sågade och hyvlade trävaror"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "dir. Erik Berglund",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Anders Berglund"
+            },
+            {
+                "name": "fröken Karin Berglund"
+            }
+        ],
+        "director": "Erik Berglund"
+    },
+    "5": {
+        "name": "Oljefabriks-AB. Merkantil",
+        "location": "Kristianstad",
+        "business": "Oljeslageri",
+        "products": "rå och kokt linolja, linfrökakor, linfrömjöl",
+        "contact": {
+            "telegraph": "Oljefabriken, Kristianstad",
+            "phone": "11469",
+            "postgiro": "72130"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "v. konsul Carl Nilsson",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. Anders Andersson"
+            },
+            {
+                "name": "dir. Hj. Carlborn"
+            },
+            {
+                "name": "dir. O. W. Öländer"
+            },
+            {
+                "name": "grossh. Thure Persson"
+            }
+        ],
+        "director": "Hj. Carlborn"
+    },
+    "6": {
+        "name": "AB. Oljeraffinaderiet Ceres",
+        "location": "Malmö",
+        "business": "Tillverkar taktjära, impregneringsmedel, färger, skosmörja, bön vax, läcker och fernissor, mineralfodersalt, insektsbeparutingsmedel m. m.",
+        "description": "Bolaget idkar jämväl handel med smörjoljor, trätjära, torsklevertran, byggnadsmaterial m. m.",
+        "contact": {
+            "office": "S. Förstadsg. 18",
+            "telegraph": "Oljeceres, Malmö",
+            "phone": "21347",
+            "postgiro": "14093"
+        },
+        "financials": {
+            "capital": "270,000 kr",
+            "employees": {
+                "industriarb": 10
+            }
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "Holger Balk-Möller",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Erik Balk-Möller",
+                "role": "Disp."
+            }
+        ]
+    }
+}

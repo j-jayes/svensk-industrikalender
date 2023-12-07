@@ -1,0 +1,165 @@
+{
+    "1": {
+        "name": "Ätranverken AB",
+        "location": "Falkenberg",
+        "business": "Tillverkar cykelsadlar (märke: »Elas-iic»), ryggsäcksmesar, detaljer för belysningsarmatur samt stansade och pressade järn- och metallvaror.",
+        "contact": {
+            "telegraph": "Ätranverken, Falkenberg",
+            "phone": [
+                "857"
+            ],
+            "postgiro": "183379"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "major Ragnar Aaby-Ericsson",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. I. Skogh",
+                "role": ""
+            },
+            {
+                "name": "dir. Georg Torstenson",
+                "role": ""
+            }
+        ],
+        "director": "Georg Torstenson",
+        "managing_director": "Georg Torstenson",
+        "manager": "Erik Thorell",
+        "factory_office": "P. Harms"
+    },
+    "2": {
+        "name": "C. O. Öberg & Co:s AB",
+        "location": "Eskilstuna",
+        "business": "Filfabrik. Tillverkar filar och raspar, pansarfilar, diagonalfilar, roterande filar, skavstål samt glasborrar. Varumärken: »Halvmåne», »Pansar» o. »Wasa».",
+        "contact": {
+            "telegraph": "Öbergs, Eskilstuna",
+            "phone": [
+                "37460"
+            ],
+            "postgiro": "10079"
+        },
+        "financials": {
+            "capital": "2,800,000 kr",
+            "employees": {
+                "industriarb": 460
+            }
+        },
+        "foundation_year": 1850,
+        "corporation_year": 1907,
+        "board": [
+            {
+                "name": "f. rådman J. Au g. Hedin",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Arvid H. Nilsson",
+                "role": ""
+            },
+            {
+                "name": "herr Ivar Nilsson",
+                "role": ""
+            }
+        ],
+        "director": "Arvid H. Nilsson"
+    },
+    "3": {
+        "name": "AB. J. O. Öberg & Son",
+        "location": "Eskilstuna",
+        "business": "Kontorsbokfabrik, offsettryckeri, klichéanstalt och boktryckeri, spelkortsfabrik. Tillverkar kontorsböcker, lösbladsböcker och kortsystem, anteckningsböcker, millimeterpapper, samlingskartonger och samlingspärmar, portföljer, spelkort, dekalkomanier, allmänna blanketter m. m. samt reklam-, affärs- och banktryck.",
+        "contact": {
+            "telegraph": "öbergson, Eskilstuna",
+            "phone": [
+                "Öberg & Son"
+            ],
+            "postgiro": "6087"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 440
+            }
+        },
+        "foundation_year": 1845
+    },
+    "4": {
+        "name": "Ödbogårdens Kalkbruks AB",
+        "location": "Kinnemalma",
+        "business": "Tillverkar kalk för jordbruks- och byggnadsändamål vid kalkbruk i Kinnemalma (Skarab. l.). Bolaget driver även jordbruk.",
+        "contact": {
+            "phone": [
+                "Kinne Kleva 58"
+            ]
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "dir. Knut Karlsson",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Jennie Beckman",
+                "role": ""
+            },
+            {
+                "name": "förvalt. Eric Wermel",
+                "role": ""
+            }
+        ],
+        "manager": "Eric Wermel"
+    },
+    "5": {
+        "name": "Ödeborgs Bruks AB",
+        "location": "Ödeborg",
+        "business": "Järnbruk med presspikfabrik, klipp-spikfabrik, tråddrageri, trådspikfabrik, mek. verkstad samt sågverk, tegelbruk och elektr. vattenkraftstationer vid ödeborg och Färgelanda (båda i Älvsb. l.). Tillverkar presspik, klippspik, trådspik, skotacks, dragen järntråd, sågade trävaror samt mur-, tak- och rörtegel.",
+        "contact": {
+            "telegraph": "ödeborgsbruket, Uddevalla",
+            "phone": [
+                "Uddevalla 10428",
+                "Färgelanda 9",
+                "Färgelanda 90",
+                "Färgelanda 109"
+            ],
+            "postgiro": "84330"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "4,600,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "dir. Claes Wahlund",
+                "role": "ordf."
+            },
+            {
+                "name": "flygdir. Per Anjou",
+                "role": ""
+            },
+            {
+                "name": "disp. Åke Anjou",
+                "role": ""
+            }
+        ],
+        "director": "Åke Anjou",
+        "managing_director": "Per Anjou",
+        "sales_manager": "Ragnar Hillström"
+    }
+}

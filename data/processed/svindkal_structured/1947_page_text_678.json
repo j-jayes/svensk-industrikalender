@@ -1,0 +1,235 @@
+{
+    "1": {
+        "name": "AB. Svenska Drangel-konfektion",
+        "location": "Stockholm",
+        "business": "Tillverkar damkappor och dräkter",
+        "contact": {
+            "office": "Valhallav. 10",
+            "phone": [
+                "328077"
+            ],
+            "postgiro": "53170",
+            "telegraph": "Kapok, Stockholm"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "foundation_year": 1930,
+            "corporation_year": 1940
+        },
+        "board": [
+            {
+                "name": "Hugo Bergqvist",
+                "role": "disp."
+            },
+            {
+                "name": "O.-G. Hedström",
+                "role": "adv."
+            },
+            {
+                "name": "Erik Holmberg",
+                "role": "kamrer"
+            }
+        ],
+        "director": "Hugo Bergqvist",
+        "kamrer": "Erik Holmberg"
+    },
+    "2": {
+        "name": "AB. Svenska Kappfabriken",
+        "location": "Malmö",
+        "business": "Tillverkar damkappor och dräkter",
+        "contact": {
+            "office": "Södra Promenaden 51",
+            "phone": [
+                "26535",
+                "23535"
+            ],
+            "postgiro": "148940",
+            "telegraph": "Kappfabriken, Malmö"
+        },
+        "financials": {
+            "capital": "312,500 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_production_value": "1,000,000 kr",
+            "foundation_year": 1907,
+            "corporation_year": 1911
+        },
+        "board": [
+            {
+                "name": "fru F. Hartz",
+                "role": null
+            },
+            {
+                "name": "grossh. Hektor Kiaer",
+                "role": null
+            },
+            {
+                "name": "polismästare Y, Schaar",
+                "role": null
+            }
+        ],
+        "director": "fru F. Hartz",
+        "kontorschef": "Alfred Nilsson"
+    },
+    "3": {
+        "name": "AB. Svenska Kapsyifabriken",
+        "location": "Stockholm",
+        "business": "Tillverkar kapsyler för flaskor och burkar, skruvlock. aluminiumhylsor, aluminium-, bly- och tenn tuber m. fl. metallartiklar",
+        "contact": {
+            "office": "Tjärhovsg. 44",
+            "phone": [
+                "414322",
+                "418838",
+                "433387"
+            ],
+            "postgiro": "3771",
+            "telegraph": "Kapsyl, Stockholm"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "corporation_year": 1888
+        },
+        "board": [
+            {
+                "name": "f. d. taxeringskom. Sven Ekman",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Folke Gill",
+                "role": null
+            }
+        ],
+        "director": "Folke Gill"
+    },
+    "4": {
+        "name": "Svenska Karosseri Verkstäderna AB.",
+        "location": "Katrineholm",
+        "business": "Karosserifabrik. Tillverkar karosserier för omnibusar",
+        "contact": {
+            "telegraph": "Karossen, Katrineholm",
+            "phone": [
+                "825",
+                "826",
+                "836"
+            ],
+            "postgiro": "8516"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_production_value": "2,000,000 kr",
+            "corporation_year": 1927
+        },
+        "board": [
+            {
+                "name": "disp. Alfred Jönsson",
+                "role": null
+            },
+            {
+                "name": "adv. Vilh. Moberg",
+                "role": null
+            }
+        ],
+        "disp": "Alfred Jönsson",
+        "försäljn.-chef": "Nils Manning",
+        "inköpschef": "Einar Jonsson"
+    },
+    "5": {
+        "name": "Svenska Kassaskåpsfabriken",
+        "location": "Stockholm",
+        "business": "Tillverkar kassaskåp, valvdörrar, branddörrar m. m",
+        "contact": {
+            "office": "Hornsg. 35",
+            "phone": [
+                "436654",
+                "437604"
+            ],
+            "postgiro": "54538"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "owners": [
+            "ing. K. R. Berglund"
+        ],
+        "chef": "K. R. Berglund",
+        "kamrer": "Nils Berglund"
+    },
+    "6": {
+        "name": "Svenska Konfektionsfabriken, Carl Högström AB",
+        "location": "Göteborg",
+        "business": "Tillverkar damunderkläder såsom nattlinnen och pyjamas",
+        "contact": {
+            "office": "Järntorgsg. 12—14",
+            "phone": [
+                "115270"
+            ],
+            "postgiro": "40459"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "corporation_year": 1941
+        },
+        "director": "Carl Högström"
+    },
+    "7": {
+        "name": "AB. Svenska Konservfabriken Clobus",
+        "location": "Stockholm",
+        "business": "Tillverkar tomatprodukter, frukt- och grönsakskonserver, marmelader, bageriar-tiklar m. m. vid fabrik i Hälsingborg",
+        "contact": {
+            "main_office": "Frihamnen, Stockholm",
+            "phone": [
+                "Bananer"
+            ],
+            "postgiro": "40459"
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "corporation_year": 1945
+        },
+        "board": [
+            {
+                "name": "dir. Carl Matthiessen",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Ernst Holmström",
+                "role": null
+            },
+            {
+                "name": "skeppsredare Sven G. Salén",
+                "role": null
+            }
+        ],
+        "disp": "Erik Nilsson"
+    },
+    "8": {
+        "name": "Svenska Kopierings AB.",
+        "location": "Stockholm",
+        "business": "Mek. verkstad. Tillverkar stycklist- och ljuskopieringsmaskiner, båglampor för kopierings- och fotoändamål samt framkall-ningsmaskiner",
+        "contact": {
+            "phone": [
+                "S.K.A."
+            ],
+            "telegraph": null
+        }
+    }
+}

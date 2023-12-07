@@ -1,0 +1,228 @@
+{
+    "1": {
+        "name": "Tornva 11—Torsvik",
+        "location": "Södertälje",
+        "contact": {
+            "office": "Förmansvägen 19",
+            "telegraph": "Tornborgs, Stockholm",
+            "postgiro": "51240",
+            "head_office": "Förmansvägen 19, År-stadalshamnen, Stockholm 9",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "133072"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "11170"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "825,000 kr",
+            "employees": {
+                "industriarb": 43
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1882,
+        "corporation_year": 1907,
+        "board": [
+            {
+                "name": "ing. Walter Hesselman",
+                "role": "ordförande"
+            },
+            {
+                "name": "ing. Gottfrid Mattsson",
+                "role": "N/A"
+            }
+        ],
+        "director": "W. Hesselman",
+        "coordinates": {
+            "Latitude": 59.197762,
+            "Longitude": 17.6201942
+        }
+    },
+    "2": {
+        "name": "Tornvalls Konfektlons AB.",
+        "location": "Södertälje",
+        "products": "Tillverkar herrkläder samt damdräkter. Varumärken: »Tornkläder» o. »Tornman».",
+        "contact": {
+            "office": "N/A",
+            "telegraph": "Tornkläder, Södertälje",
+            "postgiro": "11089"
+        },
+        "financials": {
+            "capital": "410,000 kr",
+            "employees": {
+                "industriarb": 160
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "dir. Eric Tornvall",
+                "role": "ordförande"
+            },
+            {
+                "name": "lagerchef R. Börjesson",
+                "role": "N/A"
+            },
+            {
+                "name": "kamrer Gustaf Ålund",
+                "role": "N/A"
+            }
+        ],
+        "director": "Eric Tornvall",
+        "coordinates": {
+            "Latitude": 59.197762,
+            "Longitude": 17.6201942
+        }
+    },
+    "3": {
+        "name": "Torpa Tegelbruks AB",
+        "location": "Göteborg",
+        "business": "Tillverkar murtegel och dräneringsrör.",
+        "contact": {
+            "office": "Kj^rkog. 4",
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "3 milj. st. tegel"
+        },
+        "corporation_year": 1928,
+        "board": [
+            {
+                "name": "kapten*Hilding Ström",
+                "role": "ordförande"
+            },
+            {
+                "name": "disp. R. Nymansson",
+                "role": "N/A"
+            },
+            {
+                "name": "bruksäg. Gunnar Wulf",
+                "role": "N/A"
+            }
+        ],
+        "director": "N/A",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "AB. Torpa Trikåfabrik",
+        "location": "Laxå",
+        "products": "Tillverkar herrunderkläder samt damunderkläder, jumpers och sportartiklar.",
+        "board": [
+            {
+                "name": "N/A",
+                "role": "ordförande"
+            }
+        ],
+        "director": "And. Andersson",
+        "coordinates": {
+            "Latitude": 58.98269,
+            "Longitude": 14.62289
+        }
+    },
+    "5": {
+        "name": "AB. Torps Mek. Verkstäder",
+        "location": "Torpsbruk",
+        "business": "Gjuteri och mek. verkstad med snickerifabrik vid Torpsbruk (Kronob. l.). Tillverkar enkel- och dubbelrensande tröskverk, råoljemotorer, lokomobiler, ångpannor samt automatiska bobinmaskiner, sågmaskiner m. m.",
+        "contact": {
+            "office": "Brukskontoret, Torpsbruk",
+            "postgiro": "13768"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "550,000 kr"
+        },
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "N/A",
+                "role": "ordförande"
+            }
+        ],
+        "director": "N/A",
+        "coordinates": {
+            "Latitude": 57.0345939,
+            "Longitude": 14.5746558
+        }
+    },
+    "6": {
+        "name": "AB. Torshaga Strumpfabrik",
+        "location": "Borås",
+        "products": "Tillverkar damstrumpor.",
+        "contact": {
+            "phone": "12557",
+            "postgiro": "135558"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "arb": 5
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "35,000 kr"
+        },
+        "board": [
+            {
+                "name": "N/A",
+                "role": "ordförande"
+            }
+        ],
+        "director": "civilekonom Gunnar Lindahl",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "7": {
+        "name": "Torshälla Sågbladsfabrik",
+        "location": "Torshälla",
+        "business": "Tillverkar cirkelsågar för trä- och metallbearbetning, stock- och issågar, kedjesågar, ram- och bandsågblad, rälssågblad m. fl. sågblad samt hugg- och barkmaskin-knivar för trämassefabriker, maskinhyvel-järn, cirkelknivar och hackelsemaskinkni-var, trä- och metallfräsar, skiftnycklar samt excenter- och hävstångsplåtsaxar m. m.",
+        "contact": {
+            "telegraph": "Sågfabriken, Torshälla",
+            "phone": "Eskilstuna 55005",
+            "postgiro": "140505"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": "N/A"
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "150,000 kr"
+        },
+        "board": [
+            {
+                "name": "N/A",
+                "role": "N/A"
+            }
+        ],
+        "owners": [
+            "ing. Rune Alison"
+        ],
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 59.42129649999999,
+            "Longitude": 16.4769698
+        }
+    }
+}

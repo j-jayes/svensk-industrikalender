@@ -1,0 +1,156 @@
+{
+    "1": {
+        "name": "Aug. Hoffmans Pianofabriks AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar pianinon",
+        "contact": {
+            "office": "Malmskillnadsg. 46",
+            "phone": [
+                "201606"
+            ],
+            "postgiro": "50006",
+            "telegraph": "Pianohoffman, Stockholm"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1832,
+        "corporation_year": 1923,
+        "director": "fru Elma Hoffman",
+        "owners": [
+            "Nils R:son Hoffman",
+            "disp. Bo Hoffman"
+        ]
+    },
+    "2": {
+        "name": "Einar Hoffmans Stolfabrik",
+        "location": "Tibro",
+        "business": "Tillverkar stolar i olika stilar och träslag",
+        "contact": {
+            "phone": [
+                "177"
+            ],
+            "postgiro": "15086"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_production_value": "125,000 kr"
+        },
+        "foundation_year": 1920,
+        "director": "snickarna Einar Hoffman"
+    },
+    "3": {
+        "name": "Hj. Hofgrens AB.",
+        "location": "Örebro",
+        "business": "Tillverkar fiskredskap såsom revar och linor",
+        "contact": {
+            "phone": "Lindmark & Nilsson",
+            "postgiro": "14292"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "Arb.-antal": 10
+            }
+        },
+        "foundation_year": 1939
+    },
+    "4": {
+        "name": "Hofors Bruk",
+        "location": "Hofors",
+        "description": "Se AB. Svenska Kullagerfabriken, Hofors Bruk, Hofors"
+    },
+    "5": {
+        "name": "Hofvids Trävaru AB.",
+        "location": "Sundsvall",
+        "description": "Se Ankarsviks Ångsågs AB., Sundsvall"
+    },
+    "6": {
+        "name": "Hofving & Myrberg, Grafiska AB.",
+        "location": "Stockholm",
+        "description": "Se Grafiska AB. Hofving & Myrberg, Stockholm"
+    },
+    "7": {
+        "name": "Hohults Snickerifabrik",
+        "location": "Hohultslätt",
+        "business": "Snickeri och träförädlingsfabrik",
+        "contact": {
+            "telegraph": "Hohult, Kalmar",
+            "phone": [
+                "3",
+                "84"
+            ],
+            "postgiro": "82580"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 25
+            },
+            "annual_production_value": "460,000 kr"
+        },
+        "foundation_year": 1898,
+        "director": "disp. Simeon Weidow"
+    },
+    "8": {
+        "name": "Hohult-Spexeryds Mangangruvor",
+        "location": "Tenhult",
+        "description": "Se Wargöns AB., Vargön"
+    },
+    "9": {
+        "name": "AB. Hohultslätts Spegelindustri",
+        "location": "Hohultslätt",
+        "business": "Tillverkar speglar och kompletteringsmöbler",
+        "contact": {
+            "phone": "45",
+            "postgiro": "99494"
+        },
+        "financials": {
+            "capital": "48,200 kr",
+            "employees": {
+                "Antal industriarb.": 45
+            }
+        },
+        "foundation_year": 1936
+    },
+    "10": {
+        "name": "AB. Hollner & Hultquist",
+        "location": "Stallarholmen",
+        "business": "Kartongfabrik och tryckeri",
+        "contact": {
+            "phone": "19",
+            "postgiro": "98486"
+        },
+        "financials": {
+            "capital": "25,400 kr",
+            "employees": {
+                "Antal industriarb.": 30
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1935,
+        "corporation_year": 1944,
+        "director": "fabr. William Hollner"
+    },
+    "11": {
+        "name": "Holm AB., Bröderna",
+        "location": "Ransta",
+        "description": "Se Bröderna Holm AB., Ransta"
+    },
+    "12": {
+        "name": "Holm & Hoppe",
+        "location": "Stockholm",
+        "description": "Se Mepe, Holm & Hoppe, Stockholm"
+    },
+    "13": {
+        "name": "Holma-Helsinglands Linspinneri- & Väfveri AB.",
+        "location": "Sörforsa och Madängsholm",
+        "business": "Linspinneri och blekeri",
+        "financials": {
+            "capital": "unknown"
+        },
+        "foundation_year": "unknown"
+    }
+}

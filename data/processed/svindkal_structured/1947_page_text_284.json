@@ -1,0 +1,137 @@
+{
+    "1": {
+        "name": "AB. M. Faerden",
+        "location": "Stockholm",
+        "business": "Smides- och mek. verkstad samt entreprenadrörelse",
+        "contact": {
+            "office": "Kungstensg. 10",
+            "phone": [
+                "231830"
+            ],
+            "postgiro": "3570",
+            "telegraph": "Faerden, Stockholm"
+        },
+        "financials": {
+            "capital": "275.000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "K. Gösta Eriksson",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. S. Fagerberg & Söners Kartongfabrik",
+        "location": "Hälsingborg",
+        "business": "Tillverkar pappkartonger och emballage",
+        "contact": {
+            "phone": [
+                "13778"
+            ],
+            "postgiro": "264233"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_turnover": "55,000 kr"
+        },
+        "foundation_year": 1920,
+        "director": "Sigfrid Fagerberg"
+    },
+    "3": {
+        "name": "Fagernäs Väveri AB.",
+        "location": "Mölnbo",
+        "business": "Bomullsväveri och konfektionsfabrik",
+        "contact": {
+            "phone": [
+                "23"
+            ],
+            "postgiro": "30051"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1936,
+        "director": "Yngve Viberg"
+    },
+    "4": {
+        "name": "Fagersanna Verken AB.",
+        "location": "Fagersanna",
+        "business": "Sågverk med hyvleri samt trähusfabrik",
+        "contact": {
+            "phone": [
+                "10"
+            ],
+            "postgiro": "164186"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1878,
+        "current_name_year": 1939,
+        "board": [
+            {
+                "name": "dir. Arthur Storck (ordf.)",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Eric Storck",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Martin Storck",
+                "role": "disp."
+            }
+        ],
+        "director": "Arthur Storck",
+        "managing_director": "Martin Storck"
+    },
+    "5": {
+        "name": "Fagersta Bruks AB.",
+        "location": "Fagersta",
+        "business": "Järn- och stålverk",
+        "financials": {
+            "capital": "30,000,000 kr",
+            "employees": {
+                "industriarb": 5400
+            }
+        },
+        "foundation_year": 1873,
+        "board": [
+            {
+                "name": "bankdir. K. E. Browaldh",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. N. Arvid Ericsson",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Sven E. Lundberg",
+                "role": "dir."
+            },
+            {
+                "name": "disp. Hj. Åselius",
+                "role": "disp."
+            }
+        ]
+    }
+}

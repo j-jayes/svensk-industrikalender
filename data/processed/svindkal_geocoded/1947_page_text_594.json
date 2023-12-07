@@ -1,0 +1,303 @@
+{
+    "1": {
+        "name": "Rockströms Fabriker Goa AB.",
+        "location": "Norrköping",
+        "business": "Essensfabrik",
+        "products": "Tillverkar fruktessenser, fruktextrakter och fruktkoncentrater för läskedrycks-, saft-, likör- och sötvaru-industrien samt för konditorier och bagerier. Driver även engroshandel med salter för mineralvatten, glycos och fruktsyror.",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [
+                "27295"
+            ],
+            "postgiro": "31555",
+            "telegraph": "GOA, Norrköping"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "Arb.-antal": 21
+            },
+            "foundation_year": 1934,
+            "current_name_year": 1942
+        },
+        "board": [
+            {
+                "name": "Ivar I:son Rockström",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Ing. Kurt Rockström",
+                "role": "Disp."
+            },
+            {
+                "name": "Harry Holmqvist",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "2": {
+        "name": "Rockwool AB.",
+        "location": "Skövde",
+        "business": "Isoleringsmaterialfabrik",
+        "products": "Tillverkar mineralull och färdigfabrikat hära¥ för värme-, köld- och ljudisolering samt för ljudabsorption.",
+        "contact": {
+            "office": "Carlsro, Skövde",
+            "phone": [
+                "2270"
+            ],
+            "postgiro": "134062",
+            "telegraph": "Rockwool, Skövde"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "Antal industriarb.": 80
+            },
+            "foundation_year": 1938
+        },
+        "board": [
+            {
+                "name": "Ing. Eric Grane",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.3902782,
+            "Longitude": 13.8461208
+        }
+    },
+    "3": {
+        "name": "Rölling Fabriks AB.",
+        "location": "Stockholm",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar bandslipma-skiner.",
+        "contact": {
+            "office": "Stockholm, Strandv. 3",
+            "phone": [
+                "070760"
+            ],
+            "postgiro": null,
+            "telegraph": "Rollingbolag, Stockholm"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "Antal industriarb.": 5,
+                "Tillv.-värde pr år": 250,
+                "000 kr": 250000
+            },
+            "corporation_year": 1945
+        },
+        "board": [
+            {
+                "name": "Richard Rönström",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Oscar ^Ohlson",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "A B. Roos Skyltreklam",
+        "location": "Västerås",
+        "business": "Tillverkar neonskyltar, lysrör, glasskyltar och fasad bokstäver.",
+        "contact": {
+            "office": "Västerås",
+            "phone": [
+                "31550"
+            ],
+            "postgiro": "26113",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Mästersamuelsg. 20",
+                    "phone": "105161"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "Antal industriarb.": 50,
+                "Tillv.-värde pr år": 1000,
+                "000 kr": 1000000
+            },
+            "corporation_year": 1923
+        },
+        "owners": [
+            "Fabr. Sigurd Roos",
+            "Fabr. Ragnar Roos"
+        ],
+        "director": "Bertil Sundberg",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        }
+    },
+    "5": {
+        "name": "E. S. ROOS AB.",
+        "location": "Perstorp",
+        "business": "Träförädlingsfabrik",
+        "products": "Tillverkar rundstav (donyels), svarvade massartiklar, husgerådsartikjar m. m. Specialiteter: karamellpinnar,’och paraplykäppar.",
+        "contact": {
+            "office": "Perstorp (Kristianst. l.)",
+            "phone": [
+                "37"
+            ],
+            "postgiro": "287928",
+            "telegraph": "Roosab, Perstorp"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "Antal industriarb.": 30,
+                "Tillv.-värde pr år": 600,
+                "000 kr": 600000
+            },
+            "corporation_year": 1944
+        },
+        "director": "Ilenric Lennås",
+        "coordinates": {
+            "Latitude": 56.137972,
+            "Longitude": 13.3949862
+        }
+    },
+    "6": {
+        "name": "AB. Rory",
+        "location": "Borås",
+        "business": "Herrkonfektionsfabrik",
+        "products": "Tillverkar herrkläder.",
+        "contact": {
+            "office": "Borås",
+            "phone": null,
+            "postgiro": "5377"
+        },
+        "financials": {
+            "capital": "350,000 kr",
+            "employees": {
+                "Antal industriarb.": 250,
+                "Tillv.-värde pr år": 4700,
+                "000 kr": 4700000
+            },
+            "corporation_year": 1915,
+            "original_name": "Rob. Rydins Handels- &amp; Fabriks AB.",
+            "current_name_year": 1937
+        },
+        "board": [
+            {
+                "name": "Gunnar Roos",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Fru Signe Roos",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Gunnar Roos",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "7": {
+        "name": "AB. Rosdala Glasbruk",
+        "location": "Norrhult",
+        "business": "Glasbruk",
+        "products": "För tillverkning av belysningsglas,^ speciellt lampglas samt glas för elektrisk belysning.",
+        "contact": {
+            "office": "Norrhult (Kronob. l.)",
+            "phone": [
+                "2"
+            ],
+            "postgiro": "36521",
+            "telegraph": "Roosab, Perstorp"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "Antal industriarb.": 90,
+                "Tillv.-värde pr år": 800,
+                "000 kr": 800000
+            },
+            "foundation_year": 1900
+        },
+        "board": [
+            {
+                "name": "Grossh. Emil Karlsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Disp. Oscar Nyrén",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Theodor Nyrén",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.1240064,
+            "Longitude": 15.1687493
+        }
+    },
+    "8": {
+        "name": "Roselis Fabriks- &amp; Handelsbolag",
+        "location": "Skövde",
+        "business": "Syfabrik",
+        "products": "Tillverkar dam- och barnkläder, klänningar, blusar m. m. Driver även engroshandel med manufaktur- och kortyaror.",
+        "contact": {
+            "office": "Skövde",
+            "phone": [
+                "837",
+                "997"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 22
+            },
+            "foundation_year": 1935
+        },
+        "director": "Erik Roseli",
+        "coordinates": {
+            "Latitude": 58.3902782,
+            "Longitude": 13.8461208
+        }
+    },
+    "9": {
+        "name": "Roséns Trikåindustri",
+        "location": "Ulricehamn",
+        "business": "Tillverkar herr- och damunderkläder",
+        "contact": {
+            "phone": [
+                "482"
+            ],
+            "postgiro": "172794"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 10,
+                "Tillv.-värde pr år": 95,
+                "000 kr": 95000
+            },
+            "foundation_year": 1934
+        },
+        "manager": "fabr. Isac Rosén.",
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        }
+    }
+}

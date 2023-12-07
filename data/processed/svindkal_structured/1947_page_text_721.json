@@ -1,0 +1,234 @@
+{
+    "1": {
+        "name": "Torsviks Sågverks AB.",
+        "location": "Härnösand",
+        "business": "Sågverk och hyvleri vid Ramvik (Västernorrl. l.), wallboard- och fanérfabrik i Härnösand.",
+        "products": "Tillverkar sågade och hyvlade trävaror, wallboard (»Hernit»), kryssfanér, block-lamell (»Härnösands») samt lamellträ (»Titus»-lamellträ).",
+        "contact": {
+            "office": "Härnösand",
+            "phone": [
+                "Ramvik 33",
+                "Ramvik 77",
+                "Sollefteå 211",
+                "Malmö 11401",
+                "Göteborg 111446",
+                "Nässjö 1533",
+                "Karlstad 17100"
+            ],
+            "postgiro": "28839",
+            "head_office": "Härnösand",
+            "sales_offices": [
+                {
+                    "location": "Ramvik",
+                    "phone": "Ramvik 33 o. 77"
+                },
+                {
+                    "location": "Sollefteå",
+                    "phone": "211"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "11401"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "111446"
+                },
+                {
+                    "location": "Nässjö",
+                    "phone": "1533"
+                },
+                {
+                    "location": "Karlstad",
+                    "phone": "17100"
+                }
+            ],
+            "telegraph": "Plyboard, Härnösand",
+            "factory_office": "Torsvik",
+            "factory_phone": "Torsvik"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "Härnösand": 230,
+                "Total": 330
+            },
+            "annual_turnover": "8,000 stds sågade och hyvlade trävaror, 15,000 ton wallboard, 12,000 kbm kryssfanér och lamellträ",
+            "annual_production_value": "8,000 stds sågade och hyvlade trävaror, 15,000 ton wallboard, 12,000 kbm kryssfanér och lamellträ"
+        },
+        "foundation_year": 1922,
+        "board": [
+            {
+                "name": "disp. Abraham Hellström",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. Emil Eriksson"
+            },
+            {
+                "name": "ing. Kurt Hellström"
+            },
+            {
+                "name": "skogschef Olof Hellström"
+            },
+            {
+                "name": "dir. Hobert Högberg"
+            }
+        ],
+        "director": "Abraham Hellström"
+    },
+    "2": {
+        "name": "Torsåkers Linnefabriks AB.",
+        "location": "Torsåker",
+        "business": "Linneväveri, blekeri och färgeri i Torsåker (Gävleb. l.).",
+        "products": "Tillverkar linnevävna-der samt lin- och towgarner för hemslöjd. Varumärke: Tor med hammaren.",
+        "contact": {
+            "phone": [
+                "85",
+                "185"
+            ],
+            "postgiro": "9005",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "328887"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "260428"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "270,000 kr",
+            "employees": 100,
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1920,
+        "current_name_year": 1932,
+        "board": [
+            {
+                "name": "dir. Carl Larsson",
+                "role": "ordf."
+            },
+            {
+                "name": "vdir. Lars Larsson"
+            },
+            {
+                "name": "köpman Arvid Olsson"
+            },
+            {
+                "name": "fabr. H. Svantesson"
+            },
+            {
+                "name": "köpman Y. Tjerneld"
+            }
+        ],
+        "director": "Carl Larsson",
+        "managing_director": "Lars Larsson"
+    },
+    "3": {
+        "name": "Torsås Träförädlings AB.",
+        "location": "Torsås",
+        "business": "Tillverkar verktygsskaft såsom yx-, jslägg-, korp-, hammar- och spadskaft, sågade ämnen av lövträ och blockvara av <ek samt lastbilshytter och karosseriomb- byggnader vid fabrik i Torsås (Kalmar l.).",
+        "contact": {
+            "phone": [
+                "115",
+                "119"
+            ],
+            "postgiro": "13829"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": 75
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "disp. Göte Carlwig",
+                "role": "Verkst. dir."
+            }
+        ]
+    },
+    "4": {
+        "name": "Torvströ AB. Ryttaren",
+        "location": "Sandhem",
+        "business": "Torvströ- och träullsfabrik i Sandhem (Skarab. l.).",
+        "products": "Tillverkar torvströ och torvmull samt träull och träullsplattor.",
+        "contact": {
+            "phone": "12",
+            "postgiro": "140,000 kr"
+        },
+        "financials": {
+            "capital": "140,000 kr",
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "Nils Hartelius",
+                "role": "Styrelse o. disp."
+            }
+        ]
+    },
+    "5": {
+        "name": "Tostarps Träförädlings AB.",
+        "location": "Udd et o.",
+        "business": "Bobinfabrik i Tranemo (Älvsb. l.).",
+        "products": "Tillverkar bobiner, skaft för redskap och verktyg, delar till leksaker, träaskar och andra svarvade träarbeten.",
+        "contact": {
+            "phone": "Svenljunga 27071",
+            "postgiro": "9759"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": 40,
+            "annual_turnover": "450,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "fabr. Rich. Claeson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Helge Claeson"
+            },
+            {
+                "name": "ing. Ragnar Claeson"
+            }
+        ],
+        "director": "Helge Claeson",
+        "manager": "Erling Kylenfelt"
+    },
+    "6": {
+        "name": "Totebo Hjulfabrik, C. 0. Larsson & Söner",
+        "location": "Totebo",
+        "business": "Snickerifabrik, fanérfabrik och sågverk i Totebo (Kalmar l.).",
+        "products": "Tillverkar vagnshjul, radiolådor och skåp för radiogrammofoner samt faner.",
+        "contact": {
+            "phone": [
+                "1",
+                "7"
+            ],
+            "postgiro": "36464"
+        },
+        "financials": {
+            "employees": 225,
+            "annual_turnover": "2,000,000 kr"
+        },
+        "current_name_year": 1925,
+        "owners": [
+            "Valter Larsson",
+            "Ariel Larsson"
+        ],
+        "director": "Valter Larsson",
+        "managing_director": "Ariel Larsson",
+        "sales_manager": "Ragnar Persson"
+    },
+    "7": {
+        "name": "Trafik AB. Grängesberg-Oxelösund",
+        "location": "Stockholm",
+        "business": "Idkar gruvdrift vid järnmalmsfält i Grängesberg (Kopparb. l.) samt driver järnvägs- och rederirörelse."
+    }
+}

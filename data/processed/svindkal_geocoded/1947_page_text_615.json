@@ -1,0 +1,282 @@
+{
+    "1": {
+        "name": "Erik Sjöbergs Fiskredskapsfabrik",
+        "location": "Runnvika",
+        "business": "Tillverkar ryssjor, mjärdar, sjöfärdiga nät, håvar, kräftburar och kräfthåvar vid fabrik i Runnvika (Kopparb. l.)",
+        "contact": {
+            "office": "Runnvika",
+            "phone": [
+                "14"
+            ],
+            "postgiro": "24110",
+            "telegraph": "Fiskredskap, Runnvika"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1907,
+        "corporation_year": 1945,
+        "director": "Erik Sjöberg",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    },
+    "2": {
+        "name": "Fritz Sjöbloms Trikåfabrik",
+        "location": "Borås",
+        "business": "Tillverkar trikåvaror i bomull och silke",
+        "products": "Varumärken: »F. S. B. Boråstrikå» o. »Sjöbloms»",
+        "contact": {
+            "phone": [
+                "11717"
+            ],
+            "postgiro": "22111"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 12
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1909,
+        "owner": "fabr. Fritz Sjöblom",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "3": {
+        "name": "Sjöboverken AB.",
+        "location": "Sjöbo",
+        "predecessor": "Ankarsrums Skåne AB.",
+        "coordinates": {
+            "Latitude": 55.634822,
+            "Longitude": 13.70337
+        }
+    },
+    "4": {
+        "name": "AB. Sjöexpress",
+        "location": "Lidingö",
+        "business": "Båtbyggeri och varv",
+        "products": "Bygger och reparerar motorbåtar",
+        "contact": {
+            "office": "Stockholm",
+            "phone": [
+                "656562"
+            ],
+            "postgiro": "23312"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "Henning Forslund",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Sigrid Forslund"
+            },
+            {
+                "name": "Henning Forslund",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.36295999999999,
+            "Longitude": 18.1468
+        }
+    },
+    "5": {
+        "name": "AB. P. A. Sjögren",
+        "location": "Stockholm",
+        "business": "Utför gas-, vatten-, avlopps- och värmeledningsanläggningar, bad- och toalettrumsinredningar",
+        "contact": {
+            "office": "Mästersamuelsg. 16",
+            "phone": [
+                "P. A. Sjögren"
+            ],
+            "postgiro": "1246"
+        },
+        "financials": {
+            "capital": "375,000 kr"
+        },
+        "foundation_year": 1888,
+        "corporation_year": 1916,
+        "board": [
+            {
+                "name": "Johan Sjögren",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Adolf Sjögren"
+            },
+            {
+                "name": "fröken E. Sjögren"
+            },
+            {
+                "name": "agronom Torsten Sjögren",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "Arvid Sjöquists Clasformfabrik & Mek. Verkstad",
+        "location": "Nybro",
+        "business": "Tillverkar glasformar samt maskiner och verktyg för glasindustrin i Nybro (Kalmar l.)",
+        "contact": {
+            "phone": [
+                "73"
+            ],
+            "postgiro": "20564"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 10
+            }
+        },
+        "foundation_year": 1888,
+        "owner": "fabr. Olof E. Sjöquist",
+        "coordinates": {
+            "Latitude": 56.745012,
+            "Longitude": 15.907874
+        }
+    },
+    "7": {
+        "name": "Helmer Sjökvist",
+        "location": "Eskilstuna",
+        "business": "Metallfabrik och mek. verkstad",
+        "products": "Tillverkar smörjsprutor och smörjnipplar för högtryckssmörjning, beställningsarbeten såsom armatur, maskindelar och svarvade detaljer",
+        "contact": {
+            "phone": [
+                "31555"
+            ],
+            "postgiro": "32846"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 39
+            },
+            "annual_production_value": "340,000 kr"
+        },
+        "foundation_year": 1924,
+        "owner": "ing. Helmer Sjökvist",
+        "manager": "Olle Sjökvist",
+        "sales_manager": "Sven Lundberg",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "8": {
+        "name": "AB. P. Sjökvists Skofabrik",
+        "location": "Lindesberg",
+        "business": "Skofabrik i Lindesberg (Örebro L) tillverkar randsydda skodon",
+        "contact": {
+            "phone": [
+                "168"
+            ]
+        },
+        "financials": {
+            "capital": "75,000 kr"
+        },
+        "corporation_year": 1936,
+        "owners": [
+            "Skofabriks AB. Kronan, Örebro"
+        ],
+        "board": [
+            {
+                "name": "Arthur Larsson"
+            },
+            {
+                "name": "Håkan Perman"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.5976983,
+            "Longitude": 15.2229108
+        }
+    },
+    "9": {
+        "name": "Sjölins Byggnads AB.",
+        "location": "Landskrona",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "phone": [
+                "825"
+            ],
+            "postgiro": "136644"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "byggm. Sture Sjölin",
+                "role": "ordf."
+            },
+            {
+                "name": "köpm. Harry Sjölin"
+            },
+            {
+                "name": "revisor Ragnar Sjölin",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        }
+    },
+    "10": {
+        "name": "AB. Sjömarkens Skjortfabrik",
+        "location": "Bollebygd",
+        "description": "Se AB. Yrkesuniformer, Bollebygd",
+        "coordinates": {
+            "Latitude": 57.66896910000001,
+            "Longitude": 12.5701434
+        }
+    },
+    "11": {
+        "name": "Gustaf Sjöstedt & Co., Handels- & Fabriks AB.",
+        "location": "Göteborg",
+        "business": "Färg- och fernissfabrik samt linolje-kokeri",
+        "products": "Tillverkar linoleumfernissor, ko-pal-, cellulosa- och spritfernissor, lack-, olje-, emulsions- och spritfärger, brytningsfärger i tuber, spackelfärger, kokt linolja och andra målaroljor, siccativer samt färgborttagningsmedel. Firman driver även engroshandel med torra färger, penslar och övriga måleriutensilier",
+        "contact": {
+            "office": "Krokegårdsg. 5",
+            "phone": [
+                "222030"
+            ],
+            "postgiro": "43310",
+            "avd-kontor": "Stockholm, Wollmar Yxkullsg. 2",
+            "avd-phone": [
+                "410093",
+                "94"
+            ]
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "Antal industriarb.": 28
+            },
+            "annual_production_value": "2,100,000 kr"
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1934,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

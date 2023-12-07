@@ -1,0 +1,214 @@
+{
+    "1": {
+        "name": "Glemensnäs—G ondor verken",
+        "location": "Klemensnäs",
+        "business": "Isoleringsmateriel och maskinhandel för fartyg",
+        "contact": {
+            "telegraph": "Cleo, Ballingslöv",
+            "phone": [
+                "73"
+            ],
+            "postgiro": "94398"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "foundation_year": 1909,
+            "corporation_year": 1928
+        },
+        "board": [
+            {
+                "name": "Viking Clase",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "ing. Carl-Otto Witte",
+                "role": "Försäljn.-chef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 64.71616019999999,
+            "Longitude": 21.1390514
+        }
+    },
+    "2": {
+        "name": "AB. Cleo",
+        "location": "Ballingslöv (Kristianst. l.)",
+        "business": "Tillverkning av rakblad",
+        "contact": {
+            "telegraph": "Cleo, Ballingslöv",
+            "phone": [
+                "73"
+            ],
+            "postgiro": "94398"
+        },
+        "financials": {
+            "capital": "22,000 kr",
+            "employees": {
+                "industriarb": 9
+            },
+            "annual_production_value": "200,000 kr",
+            "foundation_year": 1934
+        },
+        "director": "Nils E. Axelsson",
+        "coordinates": {
+            "Latitude": 56.21496,
+            "Longitude": 13.84858
+        }
+    },
+    "3": {
+        "name": "AB. Cohn & Lindblom",
+        "location": "Göteborg",
+        "business": "Tillverkning av mössor och engroshandel med hattar och pälsvaror",
+        "contact": {
+            "office": "Kastellg. 1",
+            "telegraph": "Cohn-blom, Göteborg",
+            "phone": "138091",
+            "postgiro": "12158",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "201338"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": "650,000 kr",
+            "foundation_year": 1901,
+            "corporation_year": 1912
+        },
+        "director": "Georg Nyman",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "Colgafabriken AB.",
+        "location": "Stockholm",
+        "business": "Tillverkning av kemikalieprodukter såsom tvål och rengöringsmedel",
+        "contact": {
+            "office": "Huddingevägen 109",
+            "telegraph": "Putsväck, Stockholm",
+            "phone": "492555",
+            "postgiro": "1801"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "1,300,000 kr",
+            "foundation_year": 1926,
+            "corporation_year": 1941
+        },
+        "board": [
+            {
+                "name": "A. Wober",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "Golgate-Palmolive-Peet AB.",
+        "location": "Stockholm",
+        "business": "Tillverkning av toalettprodukter och kosmetika",
+        "contact": {
+            "office": "N. Stationsg. 79—81",
+            "telegraph": "Palmolive, Stockholm",
+            "phone": "233610",
+            "postgiro": "50285",
+            "sales_offices": [
+                {
+                    "location": "Lager",
+                    "phone": "Östgö-tag. 50"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "corporation_year": 1928
+        },
+        "board": [
+            {
+                "name": "adv. Axel T. Nilsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. W. L. Sims",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. H. örtengren",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "H. örtengren",
+        "manager": "C. G. Griiting",
+        "engineer": "R. E. Janerud",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "AB. Collan-Olje-Fabriken",
+        "location": "Stockholm",
+        "predecessor": "T. Oisens Fabriks AB.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "AB. Gunnar Collijn",
+        "location": "Stockholm",
+        "business": "Tillverkning av konfektionskläder",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "8": {
+        "name": "CoIlins Tekn. Industri",
+        "location": "Göteborg",
+        "business": "Tillverkning av färg- och fernissprodukter",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "9": {
+        "name": "Condorverken AB.",
+        "location": "Göteborg",
+        "business": "Tillverkning av färg- och fernissprodukter",
+        "contact": {
+            "office": "Tuvevägen",
+            "telegraph": "Cotein, Göteborg",
+            "phone": "222040",
+            "postgiro": "25421"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "1,600,000 kr"
+        },
+        "director": "Sven A. Höglund",
+        "factory_manager": "Sven Ahlström",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

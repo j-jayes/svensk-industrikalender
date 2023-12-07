@@ -1,0 +1,177 @@
+{
+    "1": {
+        "name": "AB. Norma Projektilfabrik",
+        "location": "Åmotfors",
+        "business": "Tillverkar projektiler och laddade patroner för handvapen",
+        "contact": {
+            "office": "Telefon: 12",
+            "phone": [
+                "12"
+            ],
+            "postgiro": "70133"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 465
+            },
+            "foundation_year": 1918,
+            "original_name": "Fabriken anlagd 1902",
+            "corporation_year": 1918
+        },
+        "coordinates": {
+            "Latitude": 59.75765879999999,
+            "Longitude": 12.3572534
+        }
+    },
+    "2": {
+        "name": "Norma Skoindustri Eftr., John Jansson & Co.",
+        "location": "Hudiksvall",
+        "business": "Tillverkar handgjorda sport- och arbets-skodon",
+        "contact": {
+            "phone": "692",
+            "postgiro": "324446"
+        },
+        "financials": {
+            "annual_production_value": "75,000 kr",
+            "foundation_year": 1918,
+            "current_name_year": 1940
+        },
+        "owners": [
+            "fabr. Erik Jansson",
+            "fabr. John Jansson"
+        ],
+        "coordinates": {
+            "Latitude": 61.7273909,
+            "Longitude": 17.107401
+        }
+    },
+    "3": {
+        "name": "Normans Bokbinderi AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar askar, kartonger och kapslar, samt utför bokbinderiarbeten",
+        "contact": {
+            "office": "Kontor: Luntmakarg. 68",
+            "phone": [
+                "300191-92",
+                "300188"
+            ],
+            "postgiro": "51837"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_turnover": "1,200,000 kr",
+            "foundation_year": 1863,
+            "corporation_year": 1906
+        },
+        "board": [
+            {
+                "name": "Allan Norman",
+                "role": "direktör"
+            },
+            {
+                "name": "Knut Lindström",
+                "role": "direktör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "Normans Skogs- & Sågverks AB.",
+        "location": "Sömmen",
+        "business": "Tillverkar sågade, hyvlade och bilade trävaror samt stolpar, pålar, slipers och mastspiror",
+        "contact": {
+            "phone": "33",
+            "postgiro": "25184"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_production_value": "6,000 stds trävaror",
+            "foundation_year": 1921,
+            "corporation_year": 1934
+        },
+        "director": "grossh. Rudolf Norman",
+        "managing_director": "forstmästare Oscar Norman",
+        "coordinates": {
+            "Latitude": 58.1388201,
+            "Longitude": 14.9675701
+        }
+    },
+    "5": {
+        "name": "Knuth Normarks Tegelbruk",
+        "location": "Skellefteå",
+        "business": "Tillverkar murtegel",
+        "contact": {
+            "office": "Postadr.: Box 28, Skellefteå",
+            "phone": "10358",
+            "postgiro": "66354"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "800,000 st. murtegel",
+            "foundation_year": 1924
+        },
+        "owner": "fabr. Knuth A. Normark",
+        "coordinates": {
+            "Latitude": 64.750244,
+            "Longitude": 20.950917
+        }
+    },
+    "6": {
+        "name": "AB. Norra Kinds Hemindustri",
+        "location": "Gällstad",
+        "business": "Tillverkar strumpor, sockor, vantar, jumpers, gensare, dam- och barntröjor i ylle och bomull",
+        "contact": {
+            "phone": "52",
+            "postgiro": "72585"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 10,
+                "hemarbetare": 20
+            },
+            "annual_production_value": "175,000 kr",
+            "foundation_year": 1931,
+            "corporation_year": 1935
+        },
+        "manager": "Axel Bolander",
+        "coordinates": {
+            "Latitude": 57.66859969999999,
+            "Longitude": 13.4328388
+        }
+    },
+    "7": {
+        "name": "Norrahammars Bruk",
+        "location": "Norrahammar",
+        "business": "Tillverkar tackjärns- och handelsgjutgods, elspisar, el-kokhällar och elugnar, plåtradiatorer, aduceringsgjutgods, sanitetsgods",
+        "contact": {
+            "office": "Kontor: Norrahammar",
+            "telegraph": "Telegr.-adr.: Bruket, Norrahammar",
+            "phone": "Jönköping: »Norrahammars Bruk»",
+            "postgiro": "5289"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 1100
+            },
+            "annual_turnover": "20,000,000 kr"
+        },
+        "foundation_year": 1877,
+        "coordinates": {
+            "Latitude": 57.6970541,
+            "Longitude": 14.1095846
+        }
+    }
+}

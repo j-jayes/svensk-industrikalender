@@ -1,0 +1,188 @@
+{
+    "1": {
+        "name": "Scheel-Schullström",
+        "location": "Malmö",
+        "contact": {
+            "office": "41066; Malmö",
+            "phone": [
+                "71355"
+            ],
+            "postgiro": "37682",
+            "telegraph": "Tripas, Stockholm, Göteborg o. Malmö"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "Stockholm": 100,
+                "Göteborg": 150,
+                "Malmö": 50
+            }
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "H. Thaning",
+                "role": "Director"
+            },
+            {
+                "name": "J. Schytt",
+                "role": "Director"
+            },
+            {
+                "name": "K. Leube",
+                "role": "Director"
+            }
+        ]
+    },
+    "2": {
+        "name": "Schéels Fabriker, AB.",
+        "location": "Göteborg",
+        "business": "Kem.-tekn. fabrik",
+        "products": "Tillverkar såpa, tvål och kem.-tekn. preparat",
+        "contact": {
+            "office": "Göteborg",
+            "phone": [
+                "135396"
+            ],
+            "postgiro": "42434",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "118070"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "28396"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": 15
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "Torsten Setterberg",
+                "role": "Board Member"
+            }
+        ]
+    },
+    "3": {
+        "name": "J. Scheja",
+        "location": "Stockholm",
+        "business": "Tillverkar förhydningsmassa (»Scheja-massa») till golvbeläggning och väggbeklädnad",
+        "contact": {
+            "office": "Kungsg. 29",
+            "phone": [
+                "114082",
+                "211016"
+            ],
+            "postgiro": "59395"
+        },
+        "financials": {
+            "employees": 8
+        },
+        "foundation_year": 1899,
+        "owners": [
+            "Oscar Scheja"
+        ],
+        "director": "Oscar Scheja"
+    },
+    "4": {
+        "name": "C. E. Scheutz’ Son",
+        "location": "Tranås",
+        "business": "Läderfabrik",
+        "products": "Tillverkar helt koläder och kruponger. Varumärke: »Solidsulläder»",
+        "contact": {
+            "phone": [
+                "2038"
+            ]
+        },
+        "financials": {
+            "employees": 20
+        },
+        "foundation_year": 1870,
+        "owners": [
+            "Sven Segerdahl"
+        ],
+        "manager": "Sven Segerdahl",
+        "sales_manager": "Ernst Folin"
+    },
+    "5": {
+        "name": "AB. K. A. Schilds Sågbladsfabrik",
+        "location": "Enköping",
+        "business": "Tillverkar metallsågblad, metallfräs-klingor och slitsfräsar",
+        "contact": {
+            "office": "Enköping",
+            "phone": "128",
+            "postgiro": "30388"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": 30,
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Uno Hultgren",
+                "role": "Chairman"
+            },
+            {
+                "name": "Carl A. Johansson",
+                "role": "Director"
+            },
+            {
+                "name": "K. Albin Schild",
+                "role": "Director"
+            }
+        ],
+        "director": "K. A. Schild"
+    },
+    "6": {
+        "name": "Henning Schlasberg & Co. AB.",
+        "location": "Landskrona",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar herr-, dam- och gosskonfektion. Varumärke: »Lejon-Märket»",
+        "contact": {
+            "office": "Landskrona",
+            "phone": "Schlasbergs",
+            "postgiro": "93500",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "212908"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "121010"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "800,000 kr",
+            "employees": 350,
+            "annual_production_value": "4,000,000 kr"
+        },
+        "foundation_year": 1896,
+        "board": [
+            {
+                "name": "Alf Lindahl",
+                "role": "Chairman"
+            },
+            {
+                "name": "Sigfrid Lindström",
+                "role": "Board Member"
+            },
+            {
+                "name": "Mauritz Nidén",
+                "role": "Director"
+            },
+            {
+                "name": "Harald Schlasberg",
+                "role": "Manager"
+            }
+        ]
+    }
+}

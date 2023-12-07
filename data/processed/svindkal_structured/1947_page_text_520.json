@@ -1,0 +1,88 @@
+{
+    "1": {
+        "name": "Munka Ljungby Snickeri AB",
+        "location": "Munkaljungby",
+        "business": "Tillverkar byggnadssnickerier, butiksinredningar och som specialitet växthusanläggningar vid fabrik i Munkaljungby (Kristianst. l.)",
+        "contact": {
+            "phone": [
+                "6"
+            ],
+            "postgiro": "8,2247"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1907
+    },
+    "2": {
+        "name": "Munkedals AB",
+        "location": "Munkedal",
+        "business": "Finpappersbruk och pappfabrik med sulfitfabrik, träsliperi och spritfabrik vid Munkedal (Göteb. o. Bohus l.). Tillverkar träfria blekta papperssorter såsom skriv- och tryckpapper m. m., väggpapp, sulfitsprit samt för eget behov sulfitcellulosa och mek. trämassa",
+        "contact": {
+            "head_office": "Munkedal",
+            "telegraph": "Munkedalsbruk, Munkedal",
+            "phone": "Munkedal 3",
+            "postgiro": "8630",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Kungsg. 38",
+                    "phone": "206015"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industriarb": 600
+            },
+            "annual_turnover": "12,000 ton papper o. 2,500 ton papp"
+        },
+        "foundation_year": 1871
+    },
+    "3": {
+        "name": "Munkedals Snickerifabrik AB",
+        "location": "Munkedal",
+        "business": "Tillverkar byggnadssnickerier och butiksinredningar"
+    },
+    "4": {
+        "name": "Munkens Konservfabriker",
+        "location": "Gravarne"
+    },
+    "5": {
+        "name": "Munkfors Järnverk",
+        "location": "Munkfors"
+    },
+    "6": {
+        "name": "Munksjö AB",
+        "location": "Jönköping",
+        "business": "Pappersbruk och pappfabrik med sulfitfabrik vid Munksjö, Jönköping, sulfatfabrik vid Stödstorp, Vaggeryd, kartongfabrik vid Lindefors, Hok, elektr. vattenkraftstation vid Ebbes bruk (samtl. i Jönköp. l.). Tillverkar omslagspapper i kraft-, fi-déle- och sulfitkvalitet, spinnpapper, isoleringspapper och tändstickspapper, takpapp, förhydningspapp, läder- och glanspapp, sulfatcellulosa och sågade trävaror ävensom sulfitcellulosa och mek. trämassa för eget behov. Specialiteter: kabelisolerings-, spinn- och cementsäcks-papper, kraftpapperssäckar, handdukar, borddukar och servietter samt papperspåsar. Bolaget idkar jämväl skogshantering",
+        "contact": {
+            "telegraph": "Munksjö",
+            "phone": "231640",
+            "postgiro": "14722",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, V. Trädgårdsg. 11 B",
+                    "phone": "231640"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "15,000,000 kr",
+            "employees": {
+                "industriarb": 885
+            },
+            "annual_turnover": "40,000 ton papper och papp, 18,000 ton sulfatmassa för avsalu"
+        },
+        "foundation_year": 1890
+    },
+    "7": {
+        "name": "Munksunds AB",
+        "location": "Luleå",
+        "business": "Sågverk, sulfatfabrik och snickerifabrik samt kubbgolvsfabrik i Munksund, trämassefabrik invid Luleå (samtl. i Norr-.)"
+    }
+}

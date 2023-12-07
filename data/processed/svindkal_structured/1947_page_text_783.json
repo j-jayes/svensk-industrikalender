@@ -1,0 +1,184 @@
+{
+    "1": {
+        "name": "Åtvidabergs Kvarn AB.",
+        "location": "Åtvidaberg",
+        "business": "Tillverkar mjöl och korngryn vid kvarn i Åtvidaberg (Östergötl. l.).",
+        "contact": {
+            "phone": [
+                "46",
+                "216"
+            ],
+            "postgiro": "86600"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "Arb.-antal": 8
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "godsförvalt. Å. Joachimsson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. John Johnsson",
+                "role": "disp."
+            },
+            {
+                "name": "bankdir. G. Ljungmark",
+                "role": "bankdir."
+            }
+        ]
+    },
+    "2": {
+        "name": "Åtvidabergs Spårväxlar & Signal-fabriks AB. (Åssa)",
+        "location": "Stockholm",
+        "business": "Tillverkar spårväxlar, vändskivor, signalmaterial för järnvägar, plåtbyggnader, smörj apparater samt bränslepumpar och automatiska elektr. oljekontroller för explosionsmotorer.",
+        "contact": {
+            "phone": "617956—57",
+            "postgiro": "3997",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "617956—57"
+                },
+                {
+                    "location": "Åtvidaberg",
+                    "phone": "404 o. 405"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "Antal industriarb.": 120
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1912,
+        "board": [
+            {
+                "name": "hovauditör Birger # Barre",
+                "role": "ordf."
+            },
+            {
+                "name": "övering. W. Jiillig",
+                "role": "övering."
+            },
+            {
+                "name": "dipl.-ing. R. Vogelgesang",
+                "role": "dipl.-ing."
+            }
+        ]
+    },
+    "3": {
+        "name": "Ådelmetall AB.",
+        "location": "Malmö",
+        "business": "Affineri, legerings- och krätzanstalt. Utvinner ädla metaller ur avfall samt framställer legeringar för juvelerare, dentaländamål samt för tekniskt bruk.",
+        "contact": {
+            "phone": "28346",
+            "postgiro": "37677"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 10
+            },
+            "annual_production_value": "4,500,000 kr"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "jur. dr Axel Roos",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Gerhild Nyström",
+                "role": "fru"
+            },
+            {
+                "name": "dipl.-ing. G. I. Roman",
+                "role": "dipl.-ing."
+            }
+        ]
+    },
+    "4": {
+        "name": "Åggemballage AB.",
+        "location": "Alvesta",
+        "business": "Tillverkar äggemballage av trä och papp vid fabrik i Alvesta (Kronob. l.).",
+        "contact": {
+            "phone": "25",
+            "postgiro": "92949"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "Antal industriarb.": 10
+            },
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1937,
+        "director": "Nils G. Berg"
+    },
+    "5": {
+        "name": "Aggfors AB.",
+        "location": "Mörsil",
+        "business": "Träsliperi vid Äggfors, Mörsil (Jämtl. l.). Tillverkar mek. trämassa.",
+        "contact": {
+            "phone": "20",
+            "postgiro": "179065"
+        },
+        "financials": {
+            "capital": "2,700,000 kr",
+            "employees": {
+                "Antal industriarb.": 100
+            },
+            "annual_production_value": "60,000 ton våt vit trämassa"
+        },
+        "foundation_year": 1887,
+        "board": [
+            {
+                "name": "disp. N. B. Börresen",
+                "role": "disp."
+            },
+            {
+                "name": "ing. Alf Prydz",
+                "role": "ing."
+            },
+            {
+                "name": "disp. Tor Prydz",
+                "role": "disp."
+            }
+        ]
+    },
+    "6": {
+        "name": "Alfkarleö Bruk",
+        "location": "Älvkarleö",
+        "business": "Stålmanufakturverk vid Älvkarleö (Uppsala l.). Tillverkar alla slags fjädrar samt annan hejad och smidd stålmanufaktur.",
+        "contact": {
+            "phone": [
+                "16",
+                "34"
+            ]
+        },
+        "employees": {
+            "Antal industriarb.": 75
+        }
+    },
+    "7": {
+        "name": "Älfängens Tegelbruk, Kilström & Mannerborn",
+        "location": "Säffle",
+        "business": "Tillverkar murtegel och dräneringsrör vid tegelbruk i Säffle (Värml. l.).",
+        "contact": {
+            "phone": "191",
+            "postgiro": "172454"
+        },
+        "employees": {
+            "Antal industriarb.": 26
+        },
+        "annual_production_value": "645*"
+    }
+}

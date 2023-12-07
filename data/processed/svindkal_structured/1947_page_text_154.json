@@ -1,0 +1,346 @@
+{
+    "1": {
+        "name": "A. C. Anderssons Snickerifabrik",
+        "location": "Valåse",
+        "business": "Manufacturing of doors, windows, kitchen fittings, stairs, and drawers",
+        "products": "Doors, windows, kitchen fittings, stairs, drawers",
+        "contact": {
+            "office": "Valåsen (Örebro L)",
+            "phone": [
+                "Karlskoga 28170"
+            ],
+            "postgiro": "139541",
+            "head_office": "Valåsen",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industrial": 2
+            },
+            "annual_turnover": "30,000 kr"
+        },
+        "foundation_year": 1928,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "Anders G. Andersson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Anders G. Andersson"
+    },
+    "2": {
+        "name": "A. H. Andersson & C:o. AB.",
+        "location": "Ljung",
+        "business": "Manufacturing of castings in heavy and light metals and brass and aluminum castings",
+        "products": "Castings in heavy and light metals, brass and aluminum, radiator fittings",
+        "contact": {
+            "office": "Ljung (Älvsb. l.)",
+            "phone": [
+                "Ljungarmatur"
+            ],
+            "postgiro": "79600",
+            "head_office": "",
+            "telegraph": "Ljungarmatur",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industrial": 120
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1875,
+        "current_name_year": 1943,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "adv. G. Sundberg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. G. Berntson",
+                "role": ""
+            },
+            {
+                "name": "dir. Wilhelm Carlsson",
+                "role": ""
+            },
+            {
+                "name": "herr O. E. Plomgren",
+                "role": ""
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "Göte Berntson",
+        "sales_manager": "",
+        "manager": ""
+    },
+    "3": {
+        "name": "AB. Carl Anderson",
+        "location": "Motala",
+        "business": "Manufacturing of hats, fur products, and wholesale trading of skins and fur accessories",
+        "products": "Hats, fur hats, fur caps, fur coats, fur accessories, skins",
+        "contact": {
+            "office": "Motala",
+            "phone": [
+                "6",
+                "230"
+            ],
+            "postgiro": "28359",
+            "head_office": "",
+            "telegraph": "Gam",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industrial": 87
+            },
+            "annual_turnover": "kr"
+        },
+        "foundation_year": 1872,
+        "current_name_year": 1934,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "dir. Torgil Nilson",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Arnold Andersson",
+                "role": ""
+            },
+            {
+                "name": "bankdir. A. S. Ringberg",
+                "role": ""
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "Torgil ifilsbn",
+        "sales_manager": "",
+        "manager": ""
+    },
+    "4": {
+        "name": "Carl Anderssons Åkdonsfabrik",
+        "location": "Mora",
+        "business": "Manufacturing of knives and work implements",
+        "products": "Knives, work implements",
+        "contact": {
+            "office": "Mora (Kopparb. l.)",
+            "phone": [
+                "42"
+            ],
+            "postgiro": "30026",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industrial": 25
+            },
+            "annual_turnover": "kr"
+        },
+        "foundation_year": 1890,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Erik V. Andersson"
+    },
+    "5": {
+        "name": "C. A. Anderssons Möbelfåbrik",
+        "location": "Hogstad",
+        "business": "Manufacturing of complementary furniture",
+        "products": "Complementary furniture",
+        "contact": {
+            "office": "Hogstad (österg-ötl. l.)",
+            "phone": [
+                "58"
+            ],
+            "postgiro": "",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industrial": 12
+            },
+            "annual_turnover": "80,000 kr"
+        },
+        "foundation_year": 1915,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "C. Albert Andersson"
+    },
+    "6": {
+        "name": "C. V. Anderssons Aluminium- & Metallgjuteri AB.",
+        "location": "Södertälje",
+        "business": "Manufacturing of aluminum castings, steel, and silumin",
+        "products": "Aluminium castings, steel, silumin",
+        "contact": {
+            "office": "Södertälje",
+            "phone": [
+                "32186"
+            ],
+            "postgiro": "77863",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industrial": 12
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1928,
+        "current_name_year": 1945,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": ""
+    },
+    "7": {
+        "name": "David Andersson",
+        "location": "Örkelljunga",
+        "business": "Sawmill and carpentry factory",
+        "products": "Sawed and planed timber, carpentry",
+        "contact": {
+            "office": "Örkelljunga (Kristianst. l.)",
+            "phone": [
+                "Davidanders"
+            ],
+            "postgiro": "27557",
+            "head_office": "",
+            "telegraph": "Dea",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industrial": 15
+            },
+            "annual_turnover": "1,500 stds trävaror"
+        },
+        "foundation_year": 1911,
+        "current_name_year": null,
+        "predecessor": "Malmö Trävaru AB",
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Anders Davidson"
+    },
+    "8": {
+        "name": "Edvin Anderssons Mössfabrik",
+        "location": "Hässleholm",
+        "business": "Manufacturing of all types of hats and wholesale of men's hats",
+        "products": "All types of hats, men's hats",
+        "contact": {
+            "office": "Hässleholm (Kristianst. l.)",
+            "phone": [
+                "778"
+            ],
+            "postgiro": "134161",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industrial": 20
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1902,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Edvin Andersson"
+    },
+    "9": {
+        "name": "Einar Anderssons Mek. Verkstad",
+        "location": "Örnsköldsvik",
+        "business": "Manufacturing of hydraulic truck tipper and crane (brand: ETE)",
+        "products": "Hydraulic truck tipper, truck crane (brand: ETE)",
+        "contact": {
+            "office": "Örnsköldsvik",
+            "phone": [
+                "1380"
+            ],
+            "postgiro": "63672",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": ""
+        },
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": ""
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "1": {
+        "name": "AB. Figeholms Bruk",
+        "location": "Figeholm",
+        "business": "Tillverkning av presspan och presspanrör, jacquardpapp, jacquardkort, registerkartong m.m.",
+        "contact": {
+            "office": "Figeholm",
+            "phone": [
+                "56"
+            ],
+            "postgiro": "165362"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1783,
+        "board": [
+            {
+                "name": "köpman Evald Johansson",
+                "role": "ordförande"
+            },
+            {
+                "name": "löjtn. N.-E. Gadelii",
+                "role": null
+            },
+            {
+                "name": "adv. Georg Lindberg",
+                "role": null
+            }
+        ],
+        "owners": [],
+        "director": "Evald Johansson"
+    },
+    "2": {
+        "name": "AB. FSgo",
+        "location": "Stockholm",
+        "business": "Tillverkning av fönsterbeslag såsom espagnoletter, helautomatiska fönsterhållare, koppelhakar samt inspektionsluckor för badkar. Varumärke: »Figo».",
+        "contact": {
+            "office": "Stockholm, Furusundsg. 8",
+            "phone": [
+                "615828"
+            ],
+            "postgiro": "153123"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 95
+            },
+            "annual_production_value": "1,000 ton presspan m.m."
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "adv. R. Allmér",
+                "role": "ordförande"
+            },
+            {
+                "name": "musikdir. Bertil Håkansson",
+                "role": null
+            },
+            {
+                "name": "doktor Enar Håkansson",
+                "role": null
+            },
+            {
+                "name": "disp. Roland Håkansson",
+                "role": null
+            },
+            {
+                "name": "fru B, Nordenskjöld",
+                "role": null
+            }
+        ],
+        "owners": [],
+        "director": "Roland Håkansson",
+        "sales_manager": "Willie Håkansson"
+    },
+    "3": {
+        "name": "Filfabriks AB., Forserum",
+        "location": "Forserum (Jönköp. l.)",
+        "business": "Tillverkning av filar och raspar.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "28"
+            ],
+            "postgiro": "23409"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1890,
+        "board": [
+            {
+                "name": "disp. Ernst A. Zetterstrand",
+                "role": "ordförande"
+            },
+            {
+                "name": "fru Gerda Bergman",
+                "role": null
+            },
+            {
+                "name": "herr Emanuel A. Pettersson",
+                "role": null
+            }
+        ],
+        "owners": [],
+        "director": "Ernst A. Zetterstrand"
+    },
+    "4": {
+        "name": "AB. Filling & Co.",
+        "location": "Stockholm",
+        "business": "Tillverkning av möbler och inredningar.",
+        "contact": {
+            "office": "Roslagsg. 33",
+            "phone": [
+                "323387"
+            ],
+            "postgiro": "195867"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "adv. C. M. Fallenius",
+                "role": "ordförande"
+            },
+            {
+                "name": "fabr. K. I. Filling",
+                "role": null
+            },
+            {
+                "name": "arkitekt D. Holmertz",
+                "role": null
+            },
+            {
+                "name": "dir. R. Kalderén",
+                "role": null
+            }
+        ],
+        "owners": [],
+        "director": "K. I. Filling"
+    },
+    "5": {
+        "name": "AB. Finnboda Varf",
+        "location": "Stockholm",
+        "business": "Skeppsvarv med flyt- och torrdockor samt mek. verkstad. Bygger och reparerar fartyg, båtar och pråmar av järn och stål.",
+        "contact": {
+            "office": "Stockholm 2",
+            "phone": [
+                "Finnboda Varf"
+            ],
+            "telegraph": "Finnboda, Stockholm",
+            "postgiro": "3298"
+        },
+        "financials": {
+            "capital": "2,100,000 kr",
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_production_value": "8,000,000 kr"
+        },
+        "corporation_year": 1916,
+        "board": [
+            {
+                "name": "dir. Eman^ Högberg",
+                "role": "ordförande"
+            },
+            {
+                "name": "dir. Sven Engwall",
+                "role": null
+            },
+            {
+                "name": "dir. Chr. Hansen",
+                "role": null
+            },
+            {
+                "name": "kapten P. Schollin-Borg",
+                "role": null
+            },
+            {
+                "name": "generalkonsul P. G. Thulin",
+                "role": null
+            }
+        ],
+        "owners": [],
+        "manager": "Erik Olin"
+    }
+}

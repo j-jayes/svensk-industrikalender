@@ -1,0 +1,288 @@
+{
+    "1": {
+        "name": "AB. Emmaboda Snickerifabrik",
+        "location": "Emmaboda",
+        "business": "Snickerifabrik i Emmaboda.",
+        "products": "Tillverkar byggnadssnickerier, inredningar och möbler.",
+        "contact": {
+            "office": "Emmaboda",
+            "phone": [
+                "39"
+            ],
+            "postgiro": "75307"
+        },
+        "financials": {
+            "capital": "175,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1901,
+        "current_name_year": 1925,
+        "board": [
+            {
+                "name": "v. konsul Th. Annerstedt",
+                "role": "ordf."
+            },
+            {
+                "name": "konditor Frans E. Holmgren",
+                "role": ""
+            },
+            {
+                "name": "bankdir. G. Larsen",
+                "role": ""
+            }
+        ],
+        "director": "Th. Annerstedt",
+        "managing_director": "Th. Annerstedt",
+        "coordinates": {
+            "Latitude": 56.63068550000001,
+            "Longitude": 15.540006
+        }
+    },
+    "2": {
+        "name": "Emmaboda Tapetfabrik",
+        "location": "Emmaboda",
+        "business": "Tapetfabrik i Emmaboda.",
+        "products": "Tillverkar tapeter och bårder.",
+        "contact": {
+            "postgiro": "80950"
+        },
+        "board": [
+            {
+                "name": "",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "managing_director": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 56.63068550000001,
+            "Longitude": 15.540006
+        }
+    },
+    "3": {
+        "name": "Emmaljunga Barnvagnsfabrik",
+        "location": "Emmaljunga",
+        "business": "Mek. verkstad och barnvagnsfabrik i Emmaljunga.",
+        "products": "Tillverkar barnvagnar och dockvagnar m. m.",
+        "contact": {
+            "phone": [
+                "Emmaljunga 9",
+                "56"
+            ],
+            "postgiro": "31622"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "director": "",
+        "managing_director": "",
+        "manager": "fabr. Henry L. Persson",
+        "coordinates": {
+            "Latitude": 56.3972437,
+            "Longitude": 13.6505764
+        }
+    },
+    "4": {
+        "name": "Carl Emond AB.",
+        "location": "Landskrona",
+        "business": "Textilfabrik.",
+        "products": "Tillverkar hängslen, strumpeband, ärmhållare, herrstrumpor, badkappor samt halsdukar och bälten.",
+        "contact": {
+            "phone": [
+                "Norr-landsg. 31—33",
+                "111458"
+            ],
+            "postgiro": "9663"
+        },
+        "financials": {
+            "capital": "425,000 kr",
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "dir. Carl Emond",
+                "role": ""
+            },
+            {
+                "name": "ing. Stig Emond",
+                "role": ""
+            }
+        ],
+        "director": "Carl Emond",
+        "sales_manager": "",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        }
+    },
+    "5": {
+        "name": "Emil Emond AB.",
+        "location": "Landskrona",
+        "business": "Trikå- och konfektionsfabrik.",
+        "products": "Tillverkar damunderkläder och klänningar.",
+        "contact": {
+            "phone": [
+                "Sveavägen 29",
+                "208272",
+                "Kungsg. 10 B",
+                "134203"
+            ],
+            "postgiro": "6815"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 500
+            }
+        },
+        "foundation_year": 1921,
+        "board": [
+            {
+                "name": "grossh. Albert Emond",
+                "role": ""
+            },
+            {
+                "name": "dir. Emil Emond",
+                "role": ""
+            },
+            {
+                "name": "disp. Fabian Emond",
+                "role": ""
+            },
+            {
+                "name": "konstnär Martin Emond",
+                "role": ""
+            }
+        ],
+        "director": "Emil Emond",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        }
+    },
+    "6": {
+        "name": "AB. Emsfors Bruk",
+        "location": "Påskallavik",
+        "business": "Pappersbruk med^ sulfitfabrik i Emsfors.",
+        "products": "Tillverkar omslags- och påspapper, fruktomslags- och buteljomslagspapper samt sulfitcellulosa.",
+        "financials": {
+            "capital": "1,000,000 kr",
+            "annual_turnover": "12,000 ton sulfitpapper o. 3,000 ton sulfitcellulosa (för försäljn.)"
+        },
+        "foundation_year": 1867,
+        "current_name_year": 1914,
+        "board": [
+            {
+                "name": "civiling. frih. Tage Fleet-wood",
+                "role": ""
+            },
+            {
+                "name": "konsul Tag*e Hedborg",
+                "role": ""
+            },
+            {
+                "name": "dir. Arvid örn",
+                "role": ""
+            },
+            {
+                "name": "dir. Bertil örn",
+                "role": ""
+            },
+            {
+                "name": "disp. Ragnar örn",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "sales_manager": "Folke Enderlein",
+        "coordinates": {
+            "Latitude": 57.1638581,
+            "Longitude": 16.4618268
+        }
+    },
+    "7": {
+        "name": "Emtiverken",
+        "location": "Eskilstuna",
+        "business": "Metall- och försilvringsfabrik.",
+        "products": "Tillverkar tenn- och nysilverartiklar, utför för-silvring samt rostskyddsbehandling av järn och stål (fosfatering).",
+        "contact": {
+            "phone": [
+                "32340"
+            ],
+            "postgiro": "27094"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 9
+            }
+        },
+        "current_name_year": 1930,
+        "owner": "ing. O. F. Flodeli",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        }
+    },
+    "8": {
+        "name": "AB. Eneroth & Co.",
+        "location": "Stockholm",
+        "business": "Kem. tekn. fabrik.",
+        "products": "Tillverkar såpa, tvättpulver (»Gummans» tvättpulver), kristallsoda m. m.",
+        "contact": {
+            "office": "Alvik, Stockholm",
+            "postgiro": "Stockholm 12"
+        },
+        "financials": {
+            "capital": "1,000,000 kr"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "grossh. Robert Ljunglöf",
+                "role": "ordf."
+            },
+            {
+                "name": "fil. dr Harald Nordenson",
+                "role": ""
+            },
+            {
+                "name": "disp. Nils Westerdahl",
+                "role": ""
+            }
+        ],
+        "director": "Tor Olsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "9": {
+        "name": "Thure Enfors",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "office": "Florag. 20",
+            "phone": [
+                "109030",
+                "109535"
+            ],
+            "postgiro": "156684"
+        },
+        "foundation_year": 1926,
+        "owner": "ing. Thure Enfors",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

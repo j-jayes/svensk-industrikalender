@@ -1,0 +1,224 @@
+{
+    "1": {
+        "name": "Myggbo Såg AB.",
+        "location": "Västerås",
+        "business": "Sågverk och hyvleri",
+        "products": "Tillverkar sågade och hyvlade trävaror samt listverk. Försäljning av plywood och träfiberplattor.",
+        "contact": {
+            "office": "Västerås",
+            "phone": [
+                "30467"
+            ],
+            "postgiro": "26114",
+            "factory_office": "Orresta",
+            "factory_phone": "Unknown"
+        },
+        "financials": {
+            "capital": "55,000 kr",
+            "employees": {
+                "Västerås": 25,
+                "Orresta": 10
+            },
+            "annual_turnover": "Unknown",
+            "annual_production_value": "1,000 stds trävaror"
+        },
+        "foundation_year": 1901,
+        "corporation_year": 1932,
+        "board": {
+            "1": {
+                "name": "A. Rudolf Rudén",
+                "role": "Verkst. dir."
+            }
+        },
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        }
+    },
+    "2": {
+        "name": "Myrbacka Sågverks AB.",
+        "location": "Dala-J ärna",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror samt byggnadssnickerier. Dörrar och fönster av svensk standardtyp.",
+        "contact": {
+            "office": "Myrbacka, Dala-Järna",
+            "phone": [
+                "8"
+            ],
+            "postgiro": "76287"
+        },
+        "financials": {
+            "capital": "78,400 kr",
+            "employees": 34,
+            "annual_turnover": "Unknown",
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1900,
+        "board": {
+            "1": {
+                "name": "Olof Andersson",
+                "role": "Styrelse"
+            },
+            "2": {
+                "name": "Anders Danielsson",
+                "role": "Styrelse"
+            },
+            "3": {
+                "name": "Alfr. Kristiansson",
+                "role": "Styrelse"
+            },
+            "4": {
+                "name": "Josef Larsson",
+                "role": "Styrelse"
+            },
+            "5": {
+                "name": "Kristian Larsson",
+                "role": "Skräddarmäst."
+            },
+            "6": {
+                "name": "Hugo Samuelsson",
+                "role": "Disp."
+            }
+        },
+        "coordinates": {
+            "Latitude": 60.54959609999999,
+            "Longitude": 14.3650969
+        }
+    },
+    "3": {
+        "name": "Myrens Mek. Verkstads AB.",
+        "location": "Strömstad",
+        "business": "Båtbyggeri, varv och mek. verkstad",
+        "products": "Tillverkar roddbåtar, segelbåtar, motorbåtar och livbåtar. Specialitet: »Strömstads jollen».",
+        "contact": {
+            "office": "Unknown",
+            "phone": [
+                "47",
+                "275"
+            ],
+            "postgiro": "173320"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": 22,
+            "annual_turnover": "Unknown",
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1915,
+        "board": {
+            "1": {
+                "name": "Nils Ljungqvist",
+                "role": "Verkst. dir."
+            }
+        },
+        "coordinates": {
+            "Latitude": 58.9383459,
+            "Longitude": 11.1791871
+        }
+    },
+    "4": {
+        "name": "AB. Myresjö-Hus",
+        "location": "Stockholm",
+        "business": "Tillverkar snickerier och annat trämaterial samt monteringsfärdiga bostadshus och baracker",
+        "contact": {
+            "office": "Stockholm, Kungsg. 2",
+            "phone": [
+                "230380"
+            ],
+            "factory_office": "Myresjö",
+            "factory_phone": "»Myresjö-hus»"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": 150,
+            "annual_turnover": "6,000,000 kr",
+            "annual_production_value": "Unknown"
+        },
+        "corporation_year": 1932,
+        "board": {
+            "1": {
+                "name": "Gunnar Westholm",
+                "role": "Styrelse"
+            },
+            "2": {
+                "name": "Berth Järnland",
+                "role": "Disp."
+            },
+            "3": {
+                "name": "Guy Nordlander",
+                "role": "Disp."
+            },
+            "4": {
+                "name": "Gösta Sandstedt",
+                "role": "Adv."
+            },
+            "5": {
+                "name": "Curt Westholm",
+                "role": "Disp."
+            }
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "AB. Mål i I la Mek. Verkstad",
+        "location": "Målilla station",
+        "contact": {
+            "office": "Unknown",
+            "phone": [
+                "Unknown"
+            ]
+        },
+        "coordinates": {
+            "Latitude": 57.39039129999999,
+            "Longitude": 15.8247406
+        }
+    },
+    "6": {
+        "name": "Målilla Möbelfabrik",
+        "location": "Rosenfors",
+        "business": "Tillverkar möbler och stolar",
+        "products": "Tillverkar möbler och stolar.",
+        "contact": {
+            "phone": [
+                "Målilla 17"
+            ]
+        },
+        "financials": {
+            "employees": 22,
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1898,
+        "owner": "Halward Haglund",
+        "coordinates": {
+            "Latitude": 57.36628419999999,
+            "Longitude": 15.8381097
+        }
+    },
+    "7": {
+        "name": "Malte Månson AB.",
+        "location": "Linköping",
+        "business": "Mek. verkstäder",
+        "products": "Tillverkar motordelar, motorverktyg m. m.; utför motorrenoveringar.",
+        "contact": {
+            "phone": [
+                "Unknown"
+            ],
+            "postgiro": "23771"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": 122,
+            "annual_production_value": "2,000,000 kr"
+        },
+        "corporation_year": 1942,
+        "director": "Malte Månson",
+        "manager": "Bert Månson",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        }
+    }
+}

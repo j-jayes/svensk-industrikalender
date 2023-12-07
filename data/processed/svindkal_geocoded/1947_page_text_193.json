@@ -1,0 +1,226 @@
+{
+    "1": {
+        "name": "Bobin—Bofors AB. Bobin & Trä",
+        "location": "Kalmar",
+        "business": "Sågverk, hyvleri och lådfabrik",
+        "products": "Tillverkar lådämnen",
+        "contact": {
+            "office": "Kalmar",
+            "telegraph": "Bobinträ, Kalmar",
+            "phone": [
+                "2445"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "36,400 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1935,
+        "director": "Oscar B. Johansson",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        }
+    },
+    "2": {
+        "name": "Boda Bruks AB., Boda glasbruk",
+        "location": "Kronob. 1.",
+        "business": "Glasbruk",
+        "products": "Slipat, etsat, graverat, pressat och målat hushålls- och prydnadsglas m. m.",
+        "contact": {
+            "telegraph": "Bodaglas, Kalmar",
+            "phone": [
+                "Boda Glasbruk 1",
+                "Boda Glasbruk 2"
+            ],
+            "postgiro": "145590"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 122
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1864,
+        "director": "Lars Gabrielson",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "G. Cassing",
+        "coordinates": {
+            "Latitude": 56.9279048,
+            "Longitude": 14.8044469
+        }
+    },
+    "3": {
+        "name": "AB. Boda Kalk, Kärvsåsen",
+        "location": "Kärvsåsen",
+        "business": "Kalkbruk",
+        "products": "Bryter och bränner kalk för byggnads-, industri- och jordbruksändamål",
+        "contact": {
+            "office": "Stockholm, Kungsg. 37",
+            "phone": [
+                "116361",
+                "116362"
+            ],
+            "factory_office": "Kärvsåsen",
+            "factory_phone": "Kärvsåsen 42014",
+            "postgiro": "51380"
+        },
+        "financials": {
+            "capital": "110,000 kr",
+            "employees": {
+                "industriarb": 29
+            },
+            "annual_production_value": "12,000 ton bränd kalk"
+        },
+        "foundation_year": 1930,
+        "director": "G. A. Svensson",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 61.05375919999999,
+            "Longitude": 15.1916504
+        }
+    },
+    "4": {
+        "name": "Bodafors Snickerifabrik, Fransson & Nilsson",
+        "location": "Bodafors",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar möbler speciellt fåtöljer och soffstommar",
+        "contact": {
+            "phone": [
+                "97"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 11
+            },
+            "annual_turnover": "125,000 kr"
+        },
+        "foundation_year": 1944,
+        "owners": [
+            "fabr. Bertil Fransson",
+            "fabr. Elmer Nilsson"
+        ],
+        "coordinates": {
+            "Latitude": 57.50394780000001,
+            "Longitude": 14.7079586
+        }
+    },
+    "5": {
+        "name": "A. F. Bodecker",
+        "location": "Stockholm",
+        "business": "Hattfabrik",
+        "products": "Tillverkar herrhattar såsom höga hattar, filthattar, uniformshattar samt doktorshattar",
+        "contact": {
+            "office": "Fredsg. 6",
+            "telegraph": "Bodeckerhat, Stockholm",
+            "phone": [
+                "201570"
+            ],
+            "postgiro": "2171"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1882,
+        "director": "kapten Ludwig Graucob",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "6": {
+        "name": "Axel Bodéns Handels AB.",
+        "location": "Stockholm",
+        "business": "Garveri",
+        "products": "Tillverkar beklädnads- och handskskinn samt skofoder",
+        "contact": {
+            "office": "Stockholm, Birger Jarlsg. 32",
+            "telegraph": "Bodénbolag, Stockholm",
+            "phone": [
+                "200703"
+            ],
+            "postgiro": "4767"
+        },
+        "financials": {
+            "capital": "350,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "1,300,000 kr"
+        },
+        "foundation_year": 1862,
+        "director": "Sven-Axel Boden",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "7": {
+        "name": "AB. Bofors",
+        "location": "Bofors (Örebro l.)",
+        "business": "Järnverk",
+        "products": "Tillverkar tackjärn, göt, stålgjutgods, valsat stål, pressmiden, hammar- och hejarsmiden, artillerimateriel och större verkstadsarbeten",
+        "contact": {
+            "telegraph": "Boforsco, Bofors",
+            "phone": [
+                "Bofors",
+                "Karlskoga"
+            ],
+            "postgiro": "6500"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": "N/A"
+            }
+        },
+        "corporation_year": "N/A",
+        "board": [
+            {
+                "name": "grossh. Verner Nordström",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Edvin Johansson",
+                "role": "N/A"
+            },
+            {
+                "name": "byggm. G. Anders Svensson",
+                "role": "N/A"
+            }
+        ],
+        "owners": [
+            "N/A"
+        ],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 59.33335509999999,
+            "Longitude": 14.5377751
+        }
+    }
+}

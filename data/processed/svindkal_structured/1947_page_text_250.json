@@ -1,0 +1,51 @@
+{
+    "1": {
+        "name": "Dux Madrassfabrik, AB.",
+        "location": "Malmö",
+        "business": "Tillverkar radioapparater samt kvick-silverlikriktare och elektr. motorer.",
+        "products": "Description of products manufactured or services offered.",
+        "contact": {
+            "office": "Svarvarg. 11",
+            "phone": [
+                "520380"
+            ],
+            "postgiro": "2977"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb.": 63
+            },
+            "annual_turnover": "Annual turnover of the firm.",
+            "annual_production_value": "Annual production value."
+        },
+        "foundation_year": 1926,
+        "current_name_year": 1932,
+        "manager": "Hilding Ljung-feldt"
+    },
+    "2": {
+        "name": "Dyita Bruk",
+        "location": "Dyltabruk",
+        "business": "Sågverk och hyvleri vid Dyltabruk (Örebro l.). Tillverkar sågade och hyvlade trävaror. Driver jämväl jordbruk och skogsbruk."
+    },
+    "3": {
+        "name": "AB. Dynamoborstfabriken",
+        "location": "Vadstena",
+        "business": "Tillverkar som specialiteter el-borstar för dynamomaskiner och elektromotorer, gnistkol till reläslutare."
+    },
+    "4": {
+        "name": "Dyñas AB.",
+        "location": "Väja",
+        "business": "Sågverk, sulfatfabrik, pappersbruk och fabrik för tillverkning av papperssäckar vid Väja samt sågverk vid Dynäs (båda i Vasternorrl. l.). Tillverkar sågade trävaror, sulfatcellulosa, kraftpapper, flytande harts och terpentin samt papperssäckar."
+    },
+    "5": {
+        "name": "Dyviks Bruks AB.",
+        "location": "Stockholm",
+        "business": "Träullsplattfabrik samt betongvarufabrik i Dyvik, östanå (Sthlms l.). Tillverkar träullsplattor samt lättbetongtegel och block. Bolaget driver även jordbruk och skogshantering."
+    },
+    "6": {
+        "name": "AB. Dösebacka Cementindustri",
+        "location": "Nol",
+        "business": "Sandtag och betonggjuteri i Dösebacka, Nol (Göteb. o. Bohus l.). Tillverkar betongrör, kulvertar, mursten och grundsten, betonghålsten, mellanväggsplattor av »Tretong» m. m."
+    }
+}

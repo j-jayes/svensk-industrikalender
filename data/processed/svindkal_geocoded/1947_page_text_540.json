@@ -1,0 +1,206 @@
+{
+    "1": {
+        "name": "Nordströms Plåtindustri",
+        "location": "Hälsingborg",
+        "business": "Tillverkar plåtemballage och rostfria plåtarbeten.",
+        "contact": {
+            "phone": [
+                "13872",
+                "17272"
+            ],
+            "postgiro": "84390"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1920,
+        "owners": [
+            "fabr. Elmer Nordstrom",
+            "fabr. Nils Nordström"
+        ],
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        }
+    },
+    "2": {
+        "name": "AB. Nordsvenska Bruk",
+        "location": "Stockholm",
+        "business": "Försäljnings-, befraktnings- och inköpskontor för Mo och Domsjö AB., Stockholm, AB. Robertsfors, Stockholm, och AB. Moälvens Träsliperi, Örnsköldsvik.",
+        "contact": {
+            "office": "Strandvägen 1",
+            "phone": "670050",
+            "telegraph": "Nordmills, Stockholm",
+            "postgiro": "153964"
+        },
+        "financials": {
+            "capital": "25,000 kr"
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "dir. Carl Kempe",
+                "role": ""
+            },
+            {
+                "name": "fil. dr Erik Kempe",
+                "role": ""
+            },
+            {
+                "name": "dir. Ragnar Lagergren",
+                "role": ""
+            }
+        ],
+        "manager": "R. Lagergren",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "AB. W. H. Nordvall & Co.",
+        "location": "Sjöbo",
+        "business": "Tillverkar trycksaker, kontorsböcker och apoteksemballage vid tryckeri och bokbinderi i Sjöbo (Malmöh. l.).",
+        "contact": {
+            "postgiro": "6623"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "334,000 kr"
+        },
+        "foundation_year": 1920,
+        "owners": [
+            "dir. Albin Nordvall",
+            "disp. Olof Johansson",
+            "fru Ruth Johansson"
+        ],
+        "manager": "Albin Nordvall",
+        "board": [
+            {
+                "name": "disp. Olof Johansson",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.634822,
+            "Longitude": 13.70337
+        }
+    },
+    "4": {
+        "name": "AB. Nordverk",
+        "location": "Skattkärr",
+        "business": "Snickerifabrik och mek. verkstad i Skattkärr (Värml. l.). Tillverkar sängar, schäslonger, ottomaner och dyschateller, soffor samt vägsladdar och beställningsarbeten i järn, stål och plåt.",
+        "contact": {
+            "telegraph": "Nordverk, Karlstad",
+            "phone": "Skattkärr",
+            "postgiro": "299556"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 80
+            }
+        },
+        "foundation_year": 1945,
+        "board": [
+            {
+                "name": "disp. Lennart Ullberg",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Gerda Petersson",
+                "role": ""
+            },
+            {
+                "name": "fru Eva Ullberg",
+                "role": ""
+            }
+        ],
+        "manager": "Lennart Ullberg",
+        "director": "Per-Olof östergren",
+        "coordinates": {
+            "Latitude": 59.41224800000001,
+            "Longitude": 13.6709545
+        }
+    },
+    "5": {
+        "name": "AB. Norema Industrier",
+        "location": "Malung",
+        "business": "Skyltfabrik och mek. verkstad i Malung (Kopparb. l.). Tillverkar ljus- och affärsskyltar, bagageräck och -bryggor för bilar, verktygslådor, montörvagnar, verkstadsbord, -skåp och -stolar, klädskåp, backspeglar, skottkärror, magasinskärror, transportvagnar, cykelställ och -garage samt motor-, rodd- och segelbåtar.",
+        "contact": {
+            "phone": "201",
+            "postgiro": "83892"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1932,
+        "owner": "fabr. Eric Larsson",
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        }
+    },
+    "6": {
+        "name": "AB. Norlings Bryggeri",
+        "location": "Örebro",
+        "business": "Tillverkar maltdrycker, läskedrycker och vichyvatten.",
+        "contact": {
+            "phone": "Norlings bryggeri",
+            "postgiro": "75168"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "900,006 kr"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "adv. Per Westling",
+                "role": "ordf."
+            },
+            {
+                "name": "fröken Anna Cederborg",
+                "role": ""
+            }
+        ],
+        "manager": "Erland Skantze",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "7": {
+        "name": "Ivar E. Norlins Skofabrik",
+        "location": "Mjällom",
+        "business": "Tillverkar arbets- och sportskodon vid fabrik i Mjällom, Nordingrå (Västernorrl. l.).",
+        "contact": {
+            "phone": "Nordingrå 42",
+            "postgiro": "96222"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "foundation_year": 1932,
+        "owner": "fabr. Ivar Norlin",
+        "coordinates": {
+            "Latitude": 62.98592969999999,
+            "Longitude": 18.4316649
+        }
+    }
+}

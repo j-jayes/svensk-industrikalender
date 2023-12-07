@@ -1,0 +1,204 @@
+{
+    "1": {
+        "name": "AB. Athena",
+        "location": "Ystad",
+        "business": "Metallvarufabrik",
+        "products": "Pappers-rullställ, inredningar, specialartiklar för butiker, konstsmide, konstföremål i tenn och brons",
+        "contact": {
+            "office": "Athena, Ystad",
+            "phone": [
+                "1228"
+            ],
+            "postgiro": "99020"
+        },
+        "financials": {
+            "capital": "20,500 kr",
+            "employees": {
+                "industrial": 50
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "fabr. Anton Persson",
+                "role": "Verkstdirigent"
+            },
+            {
+                "name": "Nils Söderman",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.4295051,
+            "Longitude": 13.8200308
+        }
+    },
+    "2": {
+        "name": "AB. Atlas Diesel",
+        "location": "Stockholm",
+        "business": "Mek. verkstad",
+        "products": "Luftkompressorer, lastningsmaskiner, bergborrmaskiner, tryckluftverktyg, elektriska verktyg, dieselmotorer, hydrauliska växlar",
+        "contact": {
+            "office": "Sickla",
+            "phone": [
+                "Not available"
+            ],
+            "postgiro": "1526",
+            "head_office": "Stockholm 1"
+        },
+        "financials": {
+            "capital": "10,159,500 kr",
+            "employees": {
+                "industrial": 1300
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1917,
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "Marcus Wallenberg",
+                "role": "bankdir."
+            },
+            {
+                "name": "Frans G. Liljenroth",
+                "role": "civiling."
+            },
+            {
+                "name": "H. Pyk",
+                "role": "dir."
+            },
+            {
+                "name": "Tarras Sällfors",
+                "role": "generaldir."
+            },
+            {
+                "name": "Walter Wehtje",
+                "role": "dir."
+            }
+        ],
+        "director": "W. Wehtje",
+        "managing_director": "Not available",
+        "sales_manager": "Not available",
+        "manager": "Not available",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "AB. Atsa",
+        "location": "Gävle",
+        "business": "Mek. verkstad och stålpresseri",
+        "products": "Lantbruksmaskiner, mjölkningsmaskiner, separatorer",
+        "contact": {
+            "office": "Atsa, Gävle",
+            "phone": [
+                "2195"
+            ],
+            "postgiro": "93217"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industrial": 60
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "Per-Ulf Gustafsson",
+                "role": "Styrelse o. disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "4": {
+        "name": "Atög Chokladfabrik AB.",
+        "location": "Göteborg",
+        "business": "Chokladtillverkning",
+        "products": "Choklad, karameller, kola, konfekt, pastiller",
+        "contact": {
+            "office": "Krokslätt",
+            "phone": [
+                "272140"
+            ],
+            "postgiro": "12188"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industrial": 85
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "Verner Nordin",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "5": {
+        "name": "AB. P. A. Augustsson & Son Granit-Industri",
+        "location": "Immeln",
+        "business": "Granitbrott och tillverkning av råblock",
+        "contact": {
+            "office": "Immeln",
+            "phone": [
+                "48"
+            ],
+            "postgiro": "93910"
+        },
+        "financials": {
+            "capital": "56,750 kr",
+            "employees": {
+                "industrial": 15
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "foundation_year": 1929,
+        "coordinates": {
+            "Latitude": 56.2049058,
+            "Longitude": 14.2473335
+        }
+    },
+    "6": {
+        "name": "L. Augustsons Bleckvarufabrik",
+        "location": "Göteborg",
+        "business": "Tillverkning av bleckemballage",
+        "contact": {
+            "office": "Gamla Tuvevägen",
+            "phone": [
+                "220023"
+            ],
+            "postgiro": "12393"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industrial": 41
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1909,
+        "owners": [
+            "fru Ellen Augustson"
+        ],
+        "manager": "fröken Elin Augustson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

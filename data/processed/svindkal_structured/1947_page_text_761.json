@@ -1,0 +1,104 @@
+{
+    "1": {
+        "name": "Viking",
+        "location": "Stockholm",
+        "business": "Blyertsfabrik",
+        "contact": {
+            "office": "Kustens Varv, Göteborg",
+            "phone": [
+                "147152",
+                "145842"
+            ],
+            "postgiro": "42406"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1908,
+        "owners": [
+            "fabr. Gustaf Wiking",
+            "ing. Håkan Wiking"
+        ]
+    },
+    "2": {
+        "name": "Vikingsågar AB",
+        "location": "Lidköping",
+        "business": null,
+        "contact": null,
+        "financials": {
+            "capital": "5,000,000 kr",
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_turnover": "10,000,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1922,
+        "owners": null
+    },
+    "3": {
+        "name": "Wikmanshytte Bruks AB",
+        "location": "Vikmanshyttan",
+        "business": "Stålverk",
+        "contact": {
+            "telegraph": "Wikmanshyttan, Hedemora",
+            "phone": "»Wikmanshyttebruk», Hedemora",
+            "postgiro": "9119"
+        },
+        "financials": {
+            "capital": "5,000,000 kr",
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_turnover": "10,000,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1922,
+        "owners": null
+    },
+    "4": {
+        "name": "Wiksfors AB",
+        "location": "Stockholm",
+        "business": "Mek. verkstad",
+        "contact": {
+            "office": "Långserud (Värml. l.)",
+            "phone": null,
+            "postgiro": "1408"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1908,
+        "owners": null
+    },
+    "5": {
+        "name": "AB. Wikstrand & Berg",
+        "location": "Mora (Kopparb. l.)",
+        "business": "Mek. verkstad",
+        "contact": {
+            "telegraph": "Wibe, Mora",
+            "phone": "480",
+            "postgiro": "77622"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1929,
+        "owners": null
+    }
+}

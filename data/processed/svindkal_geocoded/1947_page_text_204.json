@@ -1,0 +1,144 @@
+{
+    "1": {
+        "name": "AB. Erik Brandahl & Co.",
+        "location": "Mölndal",
+        "business": "Damväskfabrik",
+        "products": "Tillverkar damväskor",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Göteborg 272010"
+            ],
+            "postgiro": "42206",
+            "telegraph": "Brandahl, Mölndal"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1924,
+        "corporation_year": 1945,
+        "director": "Erik Brandahl",
+        "coordinates": {
+            "Latitude": 57.65,
+            "Longitude": 12.016667
+        }
+    },
+    "2": {
+        "name": "Brandsmo Sågverk",
+        "location": "Brandsmo",
+        "business": "Tillverkar sågade och hyvlade trävaror samt lådor och lådämnen",
+        "products": "Specialitet: grönsakslådor",
+        "contact": {
+            "office": "Brandsmo",
+            "phone": [
+                "Sven-ljunga 7211"
+            ],
+            "postgiro": "162637"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1939,
+        "current_name_year": 1944,
+        "owners": [
+            "fabr. Ernst Johansson",
+            "fabr. Arvid Jonasson"
+        ],
+        "coordinates": {
+            "Latitude": 57.5078353,
+            "Longitude": 13.3988363
+        }
+    },
+    "3": {
+        "name": "Brandsnäs Såg och Tegelbruk",
+        "location": "Tranås",
+        "business": "Tillverkar sågade trävaror samt mur-och taktegel",
+        "contact": {
+            "office": "Brandsnäs, Tranås",
+            "phone": [
+                "Torpön 1"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "125,000 kr"
+        },
+        "foundation_year": 1879,
+        "manager": "disp. Ernst Brandel",
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        }
+    },
+    "4": {
+        "name": "Brattefors Kalkbruks AB.",
+        "location": "Kinnemalma",
+        "business": "Tillverkar kalk för industri- och jordbruksändamål",
+        "contact": {
+            "phone": [
+                "Kinne-Kleva 58"
+            ],
+            "postgiro": "8476"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "foundation_year": 1918,
+        "owners": [
+            "dir. Knut Karlsson (ordf.)",
+            "fru J. Beckman"
+        ],
+        "manager": "Eric Wermel",
+        "coordinates": {
+            "Latitude": 58.573458,
+            "Longitude": 13.460525
+        }
+    },
+    "5": {
+        "name": "AB. Bredaryds Mek. Verkstad",
+        "location": "Bredaryd",
+        "business": "Mek. verkstad och snickerifabrik",
+        "products": "Tillverkar lantbruksmaskiner såsom tröskverk, halm- och bossfläktar",
+        "contact": {
+            "phone": "2 o. 66",
+            "postgiro": "162166"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "550,000 kr"
+        },
+        "foundation_year": 1871,
+        "current_name_year": 1933,
+        "manager": "disp. Sten Lundblad",
+        "coordinates": {
+            "Latitude": 57.1790865,
+            "Longitude": 13.7456359
+        }
+    },
+    "6": {
+        "name": "Breitholtz Tekn. Fabriks AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar disk- och rengöringsmedel samt putsmedel",
+        "products": "Varumärken: »Eminent», »Eminé», »Tekå-zinkputs», »Gloria-stålull», »Ultra-rapid» och »Ultra-glans»",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    }
+}

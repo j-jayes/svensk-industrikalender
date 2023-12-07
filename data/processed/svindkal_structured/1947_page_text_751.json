@@ -1,0 +1,270 @@
+{
+    "1": {
+        "name": "Vebe",
+        "location": "Porslinsfabriken, Kvilleg. 9 B.",
+        "business": "Porslinsfabrik",
+        "contact": {
+            "office": "Porslinsfabriken, Kvilleg. 9 B.",
+            "phone": [
+                "225041",
+                "225042"
+            ],
+            "postgiro": "48459",
+            "telegraph": "Wazoverken, Göteborg"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 38
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1943,
+        "director": "Oscar Wallmark",
+        "managing_director": "Oscar Wallmark",
+        "required": [
+            "name",
+            "location",
+            "business"
+        ]
+    },
+    "2": {
+        "name": "Vebe-Betong",
+        "location": "Björköby",
+        "business": "Betongvarufabrik",
+        "products": "Tillverkar muff- och vägrör, kulvertar, byggnadssten, sanitetsbrunnar, urnor m. m.",
+        "contact": {
+            "phone": [
+                "3"
+            ],
+            "postgiro": "10831"
+        },
+        "financials": {
+            "capital": "62,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "180,000 kr",
+            "annual_production_value": "180,000 kr"
+        },
+        "foundation_year": 1921,
+        "current_name_year": 1945,
+        "director": "ing. Yilh. Bäckman",
+        "required": [
+            "name",
+            "location",
+            "business"
+        ]
+    },
+    "3": {
+        "name": "Weberöds Nya Tegelbruks AB",
+        "location": "Veberöd",
+        "business": "Tegelbruk",
+        "products": "Tillverkar tak- och fasadtegel, dräneringsrör m. m.",
+        "contact": {
+            "phone": [
+                "8",
+                "9"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "270,000 kr",
+            "employees": {
+                "industriarb": 132
+            },
+            "annual_production_value": "12 milj. tegelvaror"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "v. konsul A. Hyberg",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Axel Jonason",
+                "role": "N/A"
+            },
+            {
+                "name": "fröken R. Persson",
+                "role": "N/A"
+            },
+            {
+                "name": "grossh. Rudolf Petersen",
+                "role": "N/A"
+            },
+            {
+                "name": "kapten K. v. Schinkel",
+                "role": "N/A"
+            }
+        ],
+        "director": "Axel Jonason",
+        "managing_director": "Axel Jonason",
+        "required": [
+            "name",
+            "location",
+            "business"
+        ]
+    },
+    "4": {
+        "name": "Wedevågs Bruks AB",
+        "location": "Vedevåg",
+        "business": "Järnmanufakturverk",
+        "products": "Tillverkar handredskap såsom spadar, skyfflar, grepar och högafflar m. m., svartsmiden, redskapsskaft; spiralborrar och brotschar av snabbstål, borrchuckar; färger, fernissor och läcker.",
+        "contact": {
+            "office": "Trädgårdsg. 17",
+            "phone": [
+                "234630"
+            ],
+            "postgiro": "10061",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "234630"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "119770"
+                }
+            ],
+            "telegraph": "Wedevågbruk, Lindesberg"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "6,000,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": "före år 1539",
+        "corporation_year": 1922,
+        "board": [
+            {
+                "name": "dir. Helge Norlander",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Lars V. Blume",
+                "role": "N/A"
+            },
+            {
+                "name": "kapten S.-E. Cornelius",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. Harry Lindqvist",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. C. Matthewisen",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Gösta Norlander",
+                "role": "N/A"
+            },
+            {
+                "name": "övering. Patrik Rydbeck",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. Gunnar Wallgren",
+                "role": "N/A"
+            }
+        ],
+        "director": "Gösta Norlander",
+        "managing_director": "Gösta Norlander",
+        "required": [
+            "name",
+            "location",
+            "business"
+        ]
+    },
+    "5": {
+        "name": "Wedholms AB",
+        "location": "Nyköping",
+        "business": "Press- och förtenningsverk, plåtslageri samt mek. verkstad",
+        "products": "Tillverkar transportflaskor, kärl, tankar och behållare av järn och rostfritt material för mejerier, mejerimaskiner såsom kärnor, plattapparater, maskinostkar m. m.; utför pressade och svetsade arbeten.",
+        "contact": {
+            "telegraph": "Wedholms, Nyköping",
+            "phone": "N/A",
+            "postgiro": "72320",
+            "sales_offices": [
+                {
+                    "location": "Malmö",
+                    "phone": "13672"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 220
+            },
+            "annual_turnover": "5,000,000 kr",
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1879,
+        "corporation_year": 1904,
+        "board": [
+            {
+                "name": "godsäg. S. B. Norup",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. V. Aaröe",
+                "role": "N/A"
+            },
+            {
+                "name": "godsäg. Knut Lindström",
+                "role": "N/A"
+            },
+            {
+                "name": "godsäg. N. H. Sahlström",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. Gösta Winberg",
+                "role": "N/A"
+            }
+        ],
+        "director": "Gösta Ekwall",
+        "managing_director": "Gösta Ekwall",
+        "required": [
+            "name",
+            "location",
+            "business"
+        ]
+    },
+    "6": {
+        "name": "Vegeå Tegelbruk",
+        "location": "Malmö",
+        "business": "Tegelbruk",
+        "products": "Tillverkar mur- och taktegel samt dräneringsrör vid tegelbruk i Vegeholm (Malmöh. l.). Varumärke: »VG».",
+        "contact": {
+            "office": "Försäljn.-kontor: Malmö, Jörgen Kocksg. 4",
+            "phone": [
+                "10414"
+            ],
+            "factory_office": "Brukskontor: Vegeholm, telefon: Ängelholm 22",
+            "postgiro": "N/A",
+            "sales_offices": []
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1926,
+        "board": [],
+        "director": "dir. Harald Axelson",
+        "managing_director": "dir. Harald Axelson",
+        "required": [
+            "name",
+            "location",
+            "business"
+        ]
+    }
+}

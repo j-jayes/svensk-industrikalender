@@ -1,0 +1,218 @@
+{
+    "1": {
+        "name": "Edmans Stolfabrik, Bröderna",
+        "location": "Tibro",
+        "business": "Tillverkar maskiner för pappersbruk",
+        "products": "asfalteringsmaskiner, kräppmaskiner, paraffineringsmaskiner, gummieringsmaskiner, hylsmaskiner, rullmaskiner, vi-raregulatorer samt pappersmaskindelar m. m.",
+        "contact": {
+            "office": "Dals Långed",
+            "phone": [
+                "68"
+            ],
+            "postgiro": "80194"
+        },
+        "financials": {
+            "capital": "22,100 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "145,000 kr",
+            "annual_production_value": "145,000 kr"
+        },
+        "foundation_year": 1930,
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "fabr. Osear Ednell",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.424323,
+            "Longitude": 14.1616418
+        }
+    },
+    "2": {
+        "name": "Edsbyns Industri AB.",
+        "location": "Edsbyn",
+        "business": "Tillverkar sågar, sågblad och sågbågar, skogsverktyg, handredskap och verktyg, cykelställ, slipstensställningar, disk-torkställ m. m.",
+        "contact": {
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "106079"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "194930"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "78755"
+                }
+            ],
+            "postgiro": "26550"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "Leander Owén",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Nils Mure",
+                "role": "Disp."
+            }
+        ],
+        "owner": "Leander Owén",
+        "director": "Leander Owén",
+        "coordinates": {
+            "Latitude": 61.37502739999999,
+            "Longitude": 15.8182726
+        }
+    },
+    "3": {
+        "name": "AB. Edsbyns Möbelfabrik",
+        "location": "Edsbyn",
+        "business": "Tillverkar björk- och furumöbler samt svarvade pinnstolar",
+        "products": "EMöbler",
+        "contact": {
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "401348"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "117304"
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": "4843"
+                }
+            ],
+            "postgiro": "34144"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 226
+            },
+            "annual_production_value": "2,500,000 kr"
+        },
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "L. Ivar Pettersson",
+                "role": "ordf."
+            },
+            {
+                "name": "Bengt I. Ivarsson",
+                "role": "Disp."
+            }
+        ],
+        "owner": "L. Ivar Pettersson",
+        "director": "L. Ivar Pettersson",
+        "coordinates": {
+            "Latitude": 61.37502739999999,
+            "Longitude": 15.8182726
+        }
+    },
+    "4": {
+        "name": "AB. Edsbyns Skidfabrik",
+        "location": "Edsbyn",
+        "business": "Tillverkar skidor",
+        "products": "ES",
+        "contact": {
+            "postgiro": "91172"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "corporation_year": 1941,
+        "director": "L. Ivar Pettersson",
+        "sales_manager": "Thure öhman",
+        "owner": "L. Ivar Pettersson",
+        "coordinates": {
+            "Latitude": 61.37502739999999,
+            "Longitude": 15.8182726
+        }
+    },
+    "5": {
+        "name": "AB. Edsbyns Träförädlings AB.",
+        "location": "Norredsbyn",
+        "business": "Tillverkar kryssfanér (plywood) av björk, furu och asp",
+        "contact": {
+            "postgiro": "70438"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "board": [
+            {
+                "name": "Johan G. Jonsson",
+                "role": "ordf."
+            },
+            {
+                "name": "O. Bergstrand",
+                "role": "Disp."
+            }
+        ],
+        "director": "Claes R. Pettersson",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        }
+    },
+    "6": {
+        "name": "Edsbyns Ullspinneri",
+        "location": "Edsbyn",
+        "business": "Tillverkar strump-, väv- och stickgarner, raffelstopp och täckvadd, yllefloek samt madrasser, kuddar och täcken",
+        "contact": {
+            "postgiro": "77947"
+        },
+        "employees": {
+            "industriarb": 14
+        },
+        "director": "Claes R. Pettersson",
+        "coordinates": {
+            "Latitude": 61.37502739999999,
+            "Longitude": 15.8182726
+        }
+    },
+    "7": {
+        "name": "AB. Edsbyns Ångsåg",
+        "location": "Edsbyn",
+        "business": "Tillverkar sågade och hyvlade trävaror",
+        "coordinates": {
+            "Latitude": 61.37502739999999,
+            "Longitude": 15.8182726
+        }
+    },
+    "8": {
+        "name": "AB. Edsvalla Bruk",
+        "location": "Edsvalla",
+        "business": "Tillverkar blekt sulfitcellulosa",
+        "contact": {
+            "postgiro": "21043"
+        },
+        "coordinates": {
+            "Latitude": 59.43637409999999,
+            "Longitude": 13.2111633
+        }
+    }
+}

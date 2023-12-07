@@ -1,0 +1,220 @@
+{
+    "1": {
+        "name": "Holmlunds Kameraverkstad",
+        "location": "Stockholm",
+        "business": "Tillverkar reproduktionskameror, teckningskameror och vertilkalkameror samt kopieringsramar",
+        "contact": {
+            "office": "Holländarg. 5",
+            "phone": [
+                "213022"
+            ],
+            "postgiro": "193609"
+        },
+        "financials": {
+            "capital": "okänt",
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_turnover": "okänt",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1899,
+        "owner_and_manager": {
+            "owner": "Ernst Adamson",
+            "director": "Elof Johansson"
+        }
+    },
+    "2": {
+        "name": "Allan Holmqvist AB",
+        "location": "Stockholm",
+        "business": "Mek. verkstad. Tillverkar ugnar, maskiner, inredningar och utensilier för bagerier och konditorier, restauranger och storkök",
+        "contact": {
+            "office": "Malmskillnadsg. 39",
+            "telegraph": "Elholmqvist, Stockholm",
+            "phone": "233800",
+            "postgiro": "130647"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1943,
+        "owner_and_manager": {
+            "director_and_disp": "Allan Holmqvist"
+        }
+    },
+    "3": {
+        "name": "C. R. Holmqvists Boktryckeri AB",
+        "location": "Göteborg",
+        "business": "Utför tryckalster såsom böcker, kataloger, tidskrifter, reklamtryck, blanketter, fraktsedlar m. m.",
+        "contact": {
+            "office": "Magasinsg. 3",
+            "phone": [
+                "130607",
+                "139614"
+            ],
+            "postgiro": "42908"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 24
+            }
+        },
+        "foundation_year": 1886,
+        "owner_and_manager": {
+            "board": [
+                {
+                    "name": "ing. J. Ewald Holmqvist",
+                    "role": "ordf"
+                },
+                {
+                    "name": "dir. Otto R. Holmqvist",
+                    "role": "ing. J. Ewald Holmqvist"
+                },
+                {
+                    "name": "fru E. Karlberg",
+                    "role": "dir. Otto R. Holmqvist"
+                }
+            ],
+            "director": "Otto R. Holmqvist"
+        }
+    },
+    "4": {
+        "name": "AB. Malcus Holmquist",
+        "location": "Halmstad",
+        "business": "Mek. verkstäder med gjuterier, verktygs- och spiralborrfabrik samt filtfabrik",
+        "contact": {
+            "telegraph": "Malcus, Halmstad",
+            "phone": "okänt",
+            "postgiro": "14707"
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "employees": {
+                "industriarb": 800
+            }
+        },
+        "foundation_year": 1889,
+        "owner_and_manager": {
+            "board": [
+                {
+                    "name": "dir. Edw. Berger",
+                    "role": "ordf"
+                },
+                {
+                    "name": "disp. Carl Magnus Berger",
+                    "role": "dir. Edw. Berger"
+                },
+                {
+                    "name": "disp. Kurt Berger",
+                    "role": "v. konsul A. O. Hill"
+                },
+                {
+                    "name": "civiling. Johan Wendt",
+                    "role": "disp. Kurt Berger"
+                }
+            ],
+            "director": "Edw. Berger",
+            "department_managers": [
+                {
+                    "department": "gjuteri- samt allm. maskinavdelningen",
+                    "manager": "kontorschef J. B. Thorbjörnsson"
+                },
+                {
+                    "department": "lyftverktygsavd.",
+                    "manager": "ing. O. Nordqvist"
+                },
+                {
+                    "department": "filtavd.",
+                    "manager": "E. Ammilon"
+                },
+                {
+                    "department": "borravd.",
+                    "manager": "A. Paulson"
+                },
+                {
+                    "department": "slipmaskiner",
+                    "manager": "ing. M. Brofelth"
+                },
+                {
+                    "department": "värmetekniska avd.",
+                    "manager": "Ernst Andersson"
+                },
+                {
+                    "department": "patent- och litterära avd.",
+                    "manager": "ing. M. Brofelth"
+                }
+            ]
+        }
+    },
+    "5": {
+        "name": "Holms Industri AB.",
+        "location": "Motala",
+        "business": "Manufakturverk vid Holmsbruk, Motala. Tillverkar såsom specialiteter: hästskor och plogdelar, hejar- och pressmiden, spadar och skyfflar samt utför plåtpressningsarbeten och svetsning",
+        "contact": {
+            "telegraph": "okänt",
+            "phone": [
+                "1011",
+                "591",
+                "292"
+            ],
+            "postgiro": "30327"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "okänt",
+            "annual_production_value": "1,400,000 kr"
+        },
+        "foundation_year": 1927,
+        "owner_and_manager": {
+            "board": [
+                {
+                    "name": "disp. Karl Ström",
+                    "role": "ordf"
+                },
+                {
+                    "name": "ing. Lars Dahlström",
+                    "role": "disp. Karl Ström"
+                },
+                {
+                    "name": "schaktm. R. Pettersson",
+                    "role": "ing. Lars Dahlström"
+                },
+                {
+                    "name": "disp. Edvin Sandström",
+                    "role": "schaktm. R. Pettersson"
+                }
+            ],
+            "director": "Edvin Sandström"
+        }
+    },
+    "6": {
+        "name": "Holms Maskinfabrik AB.",
+        "location": "Södertälje",
+        "business": "Tillverkar verktygsmaskiner och kopplingar. Specialiteter: profilslipmaskiner o. lamellkopplingar",
+        "contact": {
+            "phone": "34010",
+            "postgiro": "176814"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "okänt",
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1940,
+        "owner_and_manager": {
+            "director": "ing. Sven Holm",
+            "workshop_engineer": "Tore Holm",
+            "accountant": "Bengt Gunnermark"
+        }
+    }
+}

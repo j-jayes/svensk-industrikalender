@@ -1,0 +1,132 @@
+{
+    "1": {
+        "name": "Svenska",
+        "location": "Göteborg",
+        "business": "Swedish firm",
+        "contact": {
+            "office": "S. Hamng. 25",
+            "telegraph": "Swedjoin, Göteborg",
+            "phone": [
+                "138160"
+            ],
+            "postgiro": "47283"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1941,
+        "director": "Carl A. Schröder",
+        "board": [
+            {
+                "name": "Carl A. Schröder",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Carl Skoglund",
+                "role": "Disp."
+            }
+        ]
+    },
+    "2": {
+        "name": "Svenska Sniljegarnsfabriken",
+        "location": "Kinna",
+        "business": "Spinneri",
+        "products": "Tillverkar sniljegarn",
+        "contact": {
+            "office": "Älvsb. l.",
+            "telegraph": "Snilje, Kinna",
+            "phone": "10353",
+            "postgiro": "89980"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 11
+            },
+            "annual_production_value": "125,000 kr"
+        },
+        "foundation_year": 1934,
+        "owners": [
+            "fabr. Arne Gadh"
+        ]
+    },
+    "3": {
+        "name": "Svenska Sockerfabriks AB.",
+        "location": "Malmö",
+        "business": "Sockerraffinaderier",
+        "products": "Tillverkar raffinerat socker, sirap och melass; råsocker, betfor, betmassa och melass.",
+        "contact": {
+            "office": "Fersens väg 9",
+            "telegraph": "Sockerbolaget, Malmö"
+        },
+        "financials": {
+            "capital": "81,000,000 kr",
+            "board": [
+                {
+                    "name": "Johan Nilsson",
+                    "role": "Ordf."
+                },
+                {
+                    "name": "K. Dahlberg",
+                    "role": "Häradshövd."
+                },
+                {
+                    "name": "Ernst C:son Herslow",
+                    "role": "Bankdir."
+                },
+                {
+                    "name": "Hakon Leffler",
+                    "role": "Dir."
+                },
+                {
+                    "name": "N. W. Lundblad",
+                    "role": "Dir."
+                },
+                {
+                    "name": "Carl Joh. Malmros",
+                    "role": "Dir."
+                },
+                {
+                    "name": "H. Ståhlbrandt",
+                    "role": "Dir."
+                },
+                {
+                    "name": "C. F. Tranchell",
+                    "role": "Dir."
+                },
+                {
+                    "name": "Ivar Åkerman",
+                    "role": "Bankdir."
+                }
+            ],
+            "director": "C. F. Tranchell",
+            "managing_director": "N. W. Lundblad",
+            "sales_manager": "Gustaf T. Rooth"
+        },
+        "foundation_year": 1907
+    },
+    "4": {
+        "name": "AB. Svenska Spiralfabriken",
+        "location": "Stockholm",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar spiral-, platt- och fasonfjädrar, smörjbara bärfjädrar, ventilfjädrar, startmotor-fjädrar, böjliga axlar, dörr- och portstängare, velocipedsadelfjädrar, låsfjädrar, m.m.",
+        "contact": {
+            "office": "Med galv. tekn. avdelning"
+        },
+        "financials": {
+            "products": "Utför förnickling, för-kromning, fosfatisering, glansförzinkning och försilvring",
+            "capital": "N/A",
+            "board": [
+                {
+                    "name": "N/A",
+                    "role": "N/A"
+                }
+            ],
+            "director": "N/A"
+        }
+    }
+}

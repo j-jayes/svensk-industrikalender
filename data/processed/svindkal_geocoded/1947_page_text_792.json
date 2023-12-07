@@ -1,0 +1,241 @@
+{
+    "1": {
+        "name": "Östra Bryggeri AB.",
+        "location": "Halmstad",
+        "business": "Tillverkar malt- och läskedrycker",
+        "contact": {
+            "phone": [
+                "308",
+                "304"
+            ]
+        },
+        "financials": {
+            "capital": "408,000 kr",
+            "employees": {
+                "industry": 27
+            },
+            "annual_production_value": "1,100,000 kr"
+        },
+        "foundation_year": 1863,
+        "board": [
+            {
+                "name": "disp. Bjarne Anjou",
+                "role": "ordf."
+            },
+            {
+                "name": "bryggmäst. Karl Erik Anjou",
+                "role": null
+            },
+            {
+                "name": "dir. E. Meijel",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        }
+    },
+    "2": {
+        "name": "Östra Götalands Linodlareförening u. p. a.",
+        "location": "Växjö",
+        "business": "Linberedningsverk. Tillverkar lintåga och linblånor samt otjärat och tjärat packningsgarn och drev",
+        "contact": {
+            "phone": [
+                "2405",
+                "1809"
+            ],
+            "postgiro": "176950"
+        },
+        "financials": {
+            "employees": {
+                "industry": 150
+            },
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "Disp.: Gustaf Svensson",
+                "role": null
+            },
+            {
+                "name": "Kamrer: Olof Fäste",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.8790044,
+            "Longitude": 14.8058522
+        }
+    },
+    "3": {
+        "name": "AB. Östrands Sulfatfabrik",
+        "location": "Sundsvall",
+        "business": "Tillverkar sulfatcellulosa vid fabrik i östrand (Västernorrl. l.)",
+        "contact": {
+            "telegraph": "Pulpco, Stockholm",
+            "phone": "»Cellulosabolaget»"
+        },
+        "financials": {
+            "capital": "742,500 kr",
+            "employees": {
+                "industry": 400
+            },
+            "annual_turnover": "140,000 ton sulfatcellulosa, varav 30,000 ton blekt, 5,500 ton flytande harts, 1,500 ton råterpentin"
+        },
+        "foundation_year": 1931,
+        "owners": [
+            "Svenska Cellulosa AB., Stockholm"
+        ],
+        "board": [
+            {
+                "name": "dir. Torsten Hérnod",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gust. Göranson",
+                "role": null
+            },
+            {
+                "name": null,
+                "role": null
+            },
+            {
+                "name": "civiling. Sten Westerberg",
+                "role": null
+            },
+            {
+                "name": "bankdir. P. F. Wåhlin",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        }
+    },
+    "4": {
+        "name": "AB. Östrup-Jeppesen",
+        "location": "Malmö",
+        "business": "Choklad- och dragéfabrik. Tillverkar strössel, choklad samt dragéer",
+        "contact": {
+            "phone": [
+                "19893",
+                "78980",
+                "78990"
+            ],
+            "postgiro": "38815"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industry": 20
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "dipl.-ing. Folke Hain",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "5": {
+        "name": "Öström & Fischer AB.",
+        "location": "Vålberg",
+        "business": "Bobinfabrik i Vålberg (Värml. l.). Tillverkar bobiner samt svarvade massartiklar av trä. Specialitet: trådrullar",
+        "contact": {
+            "telegraph": "öström, Karlstad",
+            "phone": "Karlstad 42050",
+            "postgiro": "11911"
+        },
+        "financials": {
+            "capital": "200,000 kr"
+        },
+        "foundation_year": 1885,
+        "board": [
+            {
+                "name": "dir. C.-Fr. Löwenhielm",
+                "role": null
+            },
+            {
+                "name": "adv-Claes C:son Uggla",
+                "role": null
+            },
+            {
+                "name": "dir. Einar Ullman",
+                "role": null
+            },
+            {
+                "name": "byggm. Olof Wästlund",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.39515039999999,
+            "Longitude": 13.1952629
+        }
+    },
+    "6": {
+        "name": "AB. Öwedskiosters Stenindustrier",
+        "location": "Malmö",
+        "business": "Makadamfabrik (stenkross) vid öved (Malmöh. l.). Tillverkar granitmakadam, bottensten och stenmjöl samt röd sandsten",
+        "contact": {
+            "phone": "26588",
+            "postgiro": "39772"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industry": 26
+            },
+            "annual_production_value": "170,000 kr"
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "verkst. dir.: frih. Otto Ramel",
+                "role": null
+            },
+            {
+                "name": "Kamrer: Elis G. Larson",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "7": {
+        "name": "Överlida Strumpindustri",
+        "location": "Överlida",
+        "business": "Tillverkar herrstrumpor vid fabrik i överlida (Älvsb. l.)",
+        "contact": {
+            "phone": "26",
+            "postgiro": "168558"
+        },
+        "financials": {
+            "employees": {
+                "industry": 15
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "board": [
+            {
+                "name": "fabr. Fritz Isacson",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.349177,
+            "Longitude": 12.893943
+        }
+    }
+}

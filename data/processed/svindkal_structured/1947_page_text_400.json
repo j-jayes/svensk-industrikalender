@@ -1,0 +1,262 @@
+{
+    "1": {
+        "name": "A. C. Johansons Metallfabrik AB",
+        "location": "Västerås",
+        "business": "Metallfabrik med gjuteri och mek. verkstad",
+        "products": "Tillverkar mejeriarmatur av mässing och rostfritt stål, metallarmatur för gas, vatten och ånga, mjölkpumpar samt snabbkopplingar",
+        "contact": {
+            "office": null,
+            "phone": [
+                "30155",
+                "30408"
+            ],
+            "postgiro": "90555",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1894,
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "ing. Olle Vällfors",
+                "role": "ordf."
+            },
+            {
+                "name": "fru S. Johansson",
+                "role": null
+            },
+            {
+                "name": "fabr. Erik Vällfors",
+                "role": null
+            }
+        ]
+    },
+    "2": {
+        "name": "Carl Johansson Mek. Verkstad AB.",
+        "location": "Stockholm",
+        "business": null,
+        "products": "Tillverkar pressverktyg, besiktningsverktyg, borrgiggar m. m.",
+        "contact": {
+            "office": "N. Smedjeg. 30—32",
+            "phone": [
+                "200556",
+                "102256"
+            ],
+            "postgiro": "3441",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1925,
+        "corporation_year": 1932,
+        "board": null
+    },
+    "3": {
+        "name": "AB. C. E» Johansson",
+        "location": "Eskilstuna",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar måttsatser, tillbehörssatser, normal- och toleransmät-verktyg, toleransindikatorer och mätinstrument, gängmätverktyg, mikrometrar och stickmått, borrchuckar, gänghuvuden och gängbackar, gängtappar och gängsnitt, gängstål, cykelkedjor m. m.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "37470"
+            ],
+            "postgiro": "9979",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Combination, Eskilstuna",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_turnover": "6,000,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1911,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "borgmäst. Wilhelm Hallin",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Richard Dahlgren",
+                "role": null
+            },
+            {
+                "name": "dir. Algot Domellöf",
+                "role": null
+            },
+            {
+                "name": "dir. Rudolf Domellöf",
+                "role": null
+            },
+            {
+                "name": "ing. Edv. J ohansson",
+                "role": null
+            },
+            {
+                "name": "dir. Helge Norlander",
+                "role": null
+            },
+            {
+                "name": "dir. Erik G. Pehrsson",
+                "role": null
+            }
+        ]
+    },
+    "4": {
+        "name": "AB. E. C. Johanssons Metallduksfabrik",
+        "location": "Anderstorp",
+        "business": null,
+        "products": "Tillverkar järntrådduk, mässingstrådduk och stängselnät",
+        "contact": {
+            "office": null,
+            "phone": [
+                "118"
+            ],
+            "postgiro": "131529",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "42,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "250,000 kr",
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1936,
+        "board": [
+            {
+                "name": "Fredr. Petersson",
+                "role": "Verkst. dir."
+            }
+        ]
+    },
+    "5": {
+        "name": "E. Johansson & C. Bohmans Lervarufabrik",
+        "location": "Töreboda",
+        "business": "Tillverkar oglaserade trädgårdskrukor",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                "329",
+                "199"
+            ],
+            "postgiro": "142601",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_turnover": "90,000 kr",
+            "annual_production_value": "90,000 kr"
+        },
+        "foundation_year": 1933,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "fabr. Georg Bohman",
+                "role": "Chef"
+            }
+        ]
+    },
+    "6": {
+        "name": "Erik Johanssons Elektro-Mek. Verkstad",
+        "location": "Stockholm",
+        "business": "Tillverkar biografteknisk^ apparatur, snäckväxlar och spel, regleringstransformatorer och reostater, scenställverk och strålkastare.",
+        "products": null,
+        "contact": {
+            "office": "Huvudstavägen 49",
+            "phone": [
+                "530824",
+                "538486"
+            ],
+            "postgiro": "53752",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "250,000 kr",
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1918,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Olle Johansson",
+                "role": "Chef"
+            }
+        ]
+    },
+    "7": {
+        "name": "AB. E. C. Johanssons Boktryckeri",
+        "location": "Karlshamn",
+        "business": "Tidnings-, bok- och accidenstryckeri, bokbinderi och kontorsbokfabrik",
+        "products": "Utför tidnings- och boktryck, blanketter och kontorsböcker",
+        "contact": {
+            "office": null,
+            "phone": null,
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": null,
+        "corporation_year": null,
+        "board": null
+    }
+}

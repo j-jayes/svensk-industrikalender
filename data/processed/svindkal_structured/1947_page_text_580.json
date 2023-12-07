@@ -1,0 +1,251 @@
+{
+    "1": {
+        "name": "Piano fabrike ma—Plåt för ädling",
+        "foundation_year": 1888,
+        "corporation_year": 1897,
+        "foundation_name": "AB. Förenade Piano- & Orgelfabriker",
+        "board": [
+            {
+                "name": "G. A. Hadell",
+                "role": "disp."
+            },
+            {
+                "name": "Karl Högberg",
+                "role": "dir."
+            },
+            {
+                "name": "J. Sande J:or",
+                "role": "dir."
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. Pickers",
+        "location": "Södertälje",
+        "products": "Tillverkar pickers av råhud och läder, ryck- och slagremmar, syremmar m. m.; specialitet: råhudspickers.",
+        "contact": {
+            "phone": [
+                "30252"
+            ],
+            "postgiro": "33286"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "Rich. Juhlin",
+                "role": "bankdir."
+            },
+            {
+                "name": "John W. Rydinger",
+                "role": "dir."
+            }
+        ],
+        "director": "va kant",
+        "sales_manager": "H. Wilhelmsson",
+        "manager": "verkm. K. R. Andersson"
+    },
+    "3": {
+        "name": "Gustaf Piehls Bryggeri AB.",
+        "location": "Stockholm",
+        "contact": {
+            "office": "Götgatan 106",
+            "phone": [
+                "427900",
+                "427901"
+            ],
+            "postgiro": "2144"
+        },
+        "financials": {
+            "capital": "2,000,000 kr"
+        },
+        "foundation_year": 1891,
+        "corporation_year": 1897,
+        "products": "Tillverkningen av maltdrycker nedlagd.",
+        "board": [
+            {
+                "name": "Carl-Gustaf Piehl",
+                "role": "ing."
+            },
+            {
+                "name": "Sigurd Klingman",
+                "role": "kamrer"
+            },
+            {
+                "name": "C. F. Riben",
+                "role": "vice-amiral"
+            }
+        ],
+        "director": "Carl-Gustaf Piehl"
+    },
+    "4": {
+        "name": "AB. Pilgrimsta Sågverk",
+        "location": "Pilgrimstad",
+        "products": "Tillverkar sågade och hyvlade trävaror, stav och battens.",
+        "contact": {
+            "phone": [
+                "1",
+                "30"
+            ],
+            "postgiro": "83470"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "Antal industriarb.": 50
+            },
+            "annual_production_value": "3,500 stds trävaror o. 250 stds stav"
+        },
+        "foundation_year": 1925,
+        "board": [
+            {
+                "name": "Adolf Sjöberg",
+                "role": "adv."
+            },
+            {
+                "name": "Tor Busch",
+                "role": "disp."
+            },
+            {
+                "name": "Ernst Pettersson",
+                "role": "disp."
+            }
+        ],
+        "director": "Disp.: Tor Busch"
+    },
+    "5": {
+        "name": "Piteå Bryggeri AB.",
+        "location": "Piteå",
+        "products": "Tillverkar malt och läskedrycker.",
+        "contact": {
+            "phone": [
+                "1006"
+            ],
+            "postgiro": "60002"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "Antal industriarb.": 15
+            },
+            "annual_turnover": "490,000 kr"
+        },
+        "foundation_year": 1891,
+        "corporation_year": 1935,
+        "predecessor": "AB. Luleå Bryggeri",
+        "director": "Styrelse o. disp.: Folke Burström",
+        "sales_manager": "Bryggmäst.: Dag Röing"
+    },
+    "6": {
+        "name": "Piteå Träkemiska Fabriker",
+        "location": "Piteå",
+        "predecessor": "AB. Statens Skogsindustrier, Stockholm"
+    },
+    "7": {
+        "name": "Pix AB. (f. d. Ericson & Rabenius)",
+        "location": "Gävle",
+        "products": "Specialfabrik för tillverkning av tabletter, pastiller och engelsk lakrits, karamellfabrik med tillverkning av karameller, dragéer och konfekt samt chokladfabrik.",
+        "contact": {
+            "phone": [
+                "588"
+            ],
+            "postgiro": "76100",
+            "representant_stockholm": "Pix AB:s Nederlag, Hagag. 31—33, telefon: 234755"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "Antal industriarb.": 75
+            },
+            "annual_turnover": "2,500,000 kr"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "Wilh. Ericson",
+                "role": "konsul"
+            },
+            {
+                "name": "John Sjödahl",
+                "role": "dir."
+            }
+        ],
+        "director": "Verkst. dir.: John Sjödahl"
+    },
+    "8": {
+        "name": "AB. Plastiska Pluralis-Klichéer",
+        "location": "Stockholm",
+        "products": "Tillverkar plastiska klichéer och matriser.",
+        "contact": {
+            "office": "Gamla Brog. 27",
+            "phone": [
+                "231695"
+            ],
+            "postgiro": "150850"
+        },
+        "financials": {
+            "capital": "18,000 kr",
+            "employees": {
+                "Antal industriarb.": 5
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1935,
+        "director": "Verkst. dir.: Per O. S. Fjästad",
+        "manager": "Kamrer: Börje Abelmann"
+    },
+    "9": {
+        "name": "Plastolit AB.",
+        "location": "Brastad",
+        "products": "Tillverkar konsthartsprodukter vid fabrik i Brastad (Göteb. o. Bohus l.). Varumärke: »Plastolit».",
+        "contact": {
+            "phone": [
+                "149"
+            ],
+            "postgiro": "253043"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 35
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1945,
+        "board": [
+            {
+                "name": "Nils Kärrlander",
+                "role": "dir."
+            },
+            {
+                "name": "Eric Brodén",
+                "role": "civiling."
+            },
+            {
+                "name": "Waldemar Ewerlöf",
+                "role": "disp."
+            },
+            {
+                "name": "Olaf Kristoffersen",
+                "role": "ing."
+            },
+            {
+                "name": "Sven Oleinikoff",
+                "role": "ryttm."
+            }
+        ],
+        "director": "Verkst. dir.: Nils Kärrlander"
+    },
+    "10": {
+        "name": "AB. Plåtförädling",
+        "location": "Hälsingborg",
+        "products": "Tennpläterad bakelitkapasistet."
+    }
+}

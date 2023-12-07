@@ -1,0 +1,109 @@
+{
+    "1": {
+        "name": "C hristemson—C lase",
+        "location": "Kungsbroplan 1, Amanda, Stockholm",
+        "contact": {
+            "telegraph": "Amanda, Stockholm",
+            "phone": [
+                "520135"
+            ],
+            "postgiro": "2780"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1885,
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "Rudolf Christensen",
+                "role": "dir."
+            },
+            {
+                "name": "Vidar Christensen",
+                "role": "herr"
+            }
+        ],
+        "director": "Rudolf Christensen",
+        "coordinates": {
+            "Latitude": 59.3316885,
+            "Longitude": 18.049699
+        }
+    },
+    "2": {
+        "name": "AB. Alfr. Christensson & Co.",
+        "location": "Torup",
+        "products": "Tillverkar sågade och hyvlade trävaror, spec. sparrar och bjälkar.",
+        "contact": {
+            "telegraph": "Christenssons, Torup",
+            "phone": [
+                "11",
+                "22"
+            ],
+            "postgiro": "37500"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": "2,000 stds trävaror"
+        },
+        "foundation_year": 1903,
+        "board": [
+            {
+                "name": "Alfr. Christensson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "director": "Alfr. Christensson",
+        "coordinates": {
+            "Latitude": 56.9574499,
+            "Longitude": 13.0807404
+        }
+    },
+    "3": {
+        "name": "AB. Axel Christiernsson",
+        "location": "Stockholm, Vasag. 14",
+        "products": "Tillverkar konsistensfett, kullagerfett, smörjoljor för verkstadsindustri och motortrafik, marinoljor samt rostskyddsmedel.",
+        "contact": {
+            "telegraph": "Christian, Stockholm",
+            "phone": [
+                "»Christiernssons»"
+            ],
+            "postgiro": "748"
+        },
+        "financials": {
+            "capital": "360,000 kr",
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "board": [
+            {
+                "name": "Carl Gustav Nanne",
+                "role": "rådman"
+            },
+            {
+                "name": "Jean W. Fryckstedt",
+                "role": "dir."
+            },
+            {
+                "name": "Anders Nanne",
+                "role": "dir."
+            }
+        ],
+        "director": "Anders Nanne",
+        "managing_director": "Jean W. Fryckstedt",
+        "coordinates": {
+            "Latitude": 59.3300746,
+            "Longitude": 18.0603121
+        }
+    }
+}

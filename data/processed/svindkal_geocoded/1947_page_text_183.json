@@ -1,0 +1,232 @@
+{
+    "1": {
+        "name": "Bergviks Hartsprodukter AB.",
+        "location": "Söderhamn",
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "Ragnar Sundfeldt",
+                "role": "ordf."
+            },
+            {
+                "name": "I. Göthner",
+                "role": ""
+            },
+            {
+                "name": "K. E. Nyberg",
+                "role": "dir."
+            },
+            {
+                "name": "A. Orrmell",
+                "role": "dir."
+            }
+        ],
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "products": "Tillverkar tallolja, hartsbeck, harts i stvcken, hartskristaller (abietin-syra), kokillolja och kärnolja samt tall-oljealkyder, fenolmodifierade liartser, esterhartser m. fl. konsthartsprodukter.",
+        "contact": {
+            "office": "Söderhamn",
+            "phone": [
+                "1490"
+            ],
+            "postgiro": "31769",
+            "telegraph": "Bergvik, Söderhamn"
+        },
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        }
+    },
+    "2": {
+        "name": "Bergå Färgeri & Ullspinneri AB.",
+        "location": "Stora Skedvi",
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "Josef Bergeå",
+                "role": "ordf."
+            },
+            {
+                "name": "Johan Bergeå",
+                "role": "fantbr."
+            },
+            {
+                "name": "Sven Bergeå",
+                "role": "fabrikschef"
+            },
+            {
+                "name": "Joel Johnsson",
+                "role": "korrespondent"
+            },
+            {
+                "name": "Gustav Nord",
+                "role": "spinnmäst."
+            }
+        ],
+        "financials": {
+            "capital": "52,000 kr",
+            "employees": {
+                "industriarb.": 30
+            }
+        },
+        "products": "Tillverkar liemslöjdsgarner samt utför beredning av hemvävda tyger m. m.",
+        "contact": {
+            "phone": [
+                "12",
+                "52"
+            ],
+            "postgiro": "26749"
+        },
+        "coordinates": {
+            "Latitude": 60.40686150000001,
+            "Longitude": 15.8030531
+        }
+    },
+    "3": {
+        "name": "M. Berlin & Co. AB.",
+        "location": "Värnamo",
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "Axel T. Nilsson",
+                "role": "adv."
+            },
+            {
+                "name": "Göran Berlin",
+                "role": "disp."
+            },
+            {
+                "name": "Mauritz Berlin",
+                "role": "dir."
+            },
+            {
+                "name": "C. G. Gislow",
+                "role": "generalkonsul"
+            }
+        ],
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb.": 71
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "products": "Tillverkar velocipeder och velocipeddetaljer.",
+        "contact": {
+            "phone": [
+                "Cykelberlin, Värnamo"
+            ],
+            "postgiro": "89855",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "408848 o. 400948"
+                },
+                {
+                    "location": "Uppsala",
+                    "phone": "819 o. 4913"
+                }
+            ]
+        },
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        }
+    },
+    "4": {
+        "name": "Berlingska Boktryckeri & Stilgjuteri AB.",
+        "location": "Lund",
+        "foundation_year": 1888,
+        "board": [
+            {
+                "name": "Algot Werin",
+                "role": "fil. dr"
+            },
+            {
+                "name": "Per-Håkan Ohlsson",
+                "role": "boktr."
+            },
+            {
+                "name": "B. Wiekman",
+                "role": "adv."
+            }
+        ],
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb.": 70
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "products": "Tillverkar boktryckstilar, stereotypklichéer, lågmaterial och mässingslinjer samt utför boktryck.",
+        "contact": {
+            "phone": [
+                "Berlings, Lund"
+            ],
+            "postgiro": "30490"
+        },
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        }
+    },
+    "5": {
+        "name": "Berner & Zetterström AB.",
+        "location": "Göteborg",
+        "foundation_year": 1929,
+        "board": [],
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb.": 15
+            }
+        },
+        "products": "Tillverkar insektsmedel, råttutrotningsmedel samt inläggssulor in. m.",
+        "contact": {
+            "office": "Drottningg. 53",
+            "phone": [
+                "110506"
+            ],
+            "postgiro": "12331",
+            "telegraph": "Bernzett, Göteborg"
+        },
+        "managing_director": "Carl Berner",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "Berners AB.",
+        "location": "Borås",
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Aron Berner",
+                "role": "fabr."
+            }
+        ],
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_production_value": "2,500,000 kr"
+        },
+        "products": "Utför beredning av bomullsvävnader och bomullsgarn.",
+        "contact": {
+            "phone": [
+                "11579",
+                "11179",
+                "11240"
+            ],
+            "postgiro": "20601"
+        },
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    }
+}

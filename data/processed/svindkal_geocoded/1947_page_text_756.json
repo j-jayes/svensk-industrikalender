@@ -1,0 +1,168 @@
+{
+    "1": {
+        "name": "ÄB. Gunnar Westholm",
+        "location": "Stockholm",
+        "business": "Tjärpappfabrik, tjär- och oljeraffinaderi, färgfabrik och kemisk industri",
+        "products": "Tillverkar byggnadspapp, isoleringsmedel för järn och trä, asfaltlacker samt eldskyddsfärg (varumärke: »Guwe»)",
+        "contact": {
+            "office": "Kungsg. 2",
+            "phone": [
+                "230880"
+            ],
+            "postgiro": "52116",
+            "telegraph": "Westbolag",
+            "factory_office": "Ulvsunda, Stockholm"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "2,000 ton byggnadspapp",
+            "annual_production_value": "390,000 kr"
+        },
+        "foundation_year": 1930,
+        "director": "Gunnar Westholm",
+        "sales_manager": "Lennart Bergström",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "Westins Ateljé",
+        "location": "Stockholm",
+        "business": "Guld-, silver- och metallvarufabrik",
+        "products": "Tillverkar medaljer, plaketter och föreningsmärken, knappar, uniforms- och ordensemblem, emaljarbeten, sportpriser (märke: »Sire»), monogram och bokstäver för reseffekter m.m. samt präglingsstansar, stämplar och verktyg för metallpressning",
+        "contact": {
+            "office": "österlångg. 26",
+            "phone": [
+                "113671",
+                "212522"
+            ],
+            "postgiro": "3568"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 32
+            },
+            "annual_production_value": "390,000 kr"
+        },
+        "foundation_year": 1921,
+        "director": "kamrer Erik Jarlebring",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "3": {
+        "name": "Westroths Leksaksfabrik",
+        "location": "Kulltorp",
+        "business": "Tillverkar träleksaker",
+        "contact": {
+            "phone": [
+                "3 a",
+                "3 b"
+            ],
+            "postgiro": "29261"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1931,
+        "director": "fabr. Oscar Westroth",
+        "coordinates": {
+            "Latitude": 57.2639556,
+            "Longitude": 13.7937279
+        }
+    },
+    "4": {
+        "name": "AB. E. Westlunds Konfektionsfabrik",
+        "location": "Svenljunga",
+        "business": "Syfabrik",
+        "products": "Tillverkar blåkläder, lumberjackor, skiddräkter, sportkläder, barn- och lekkostymer, sportjackor, stranddräkter för damer m.m.",
+        "contact": {
+            "phone": "11350",
+            "postgiro": "72152"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1936,
+        "director": "Disp.: Valle Berg",
+        "coordinates": {
+            "Latitude": 57.4955715,
+            "Longitude": 13.1146225
+        }
+    },
+    "5": {
+        "name": "Algot Westmans Mek. Verkstad",
+        "location": "Norrköping",
+        "business": "Tillverkar hiss- och transportanläggningar samt maskiner för konfektionsindustrin",
+        "contact": {
+            "telegraph": "Algwest",
+            "phone": "20528",
+            "postgiro": "36047"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 29
+            }
+        },
+        "foundation_year": 1879,
+        "director": "ing. Algot Westman",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "6": {
+        "name": "AB. Vetlanda Skinn- &amp; Läderindustri",
+        "location": "Vetlanda",
+        "business": "Tillverkar plånböcker, portmonnäer, cigarrettfodral m.m. Specialitet: massartiklar i skinn",
+        "contact": {
+            "phone": "726—27",
+            "postgiro": "145623"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1938,
+        "director": "verkst. dir.: fabr. Melker Bergquist",
+        "coordinates": {
+            "Latitude": 57.42746,
+            "Longitude": 15.08533
+        }
+    },
+    "7": {
+        "name": "Vetlanda Täckindustri",
+        "location": "Vetlanda",
+        "business": "Tillverkar vaddtäcken och vaddmadrasser samt bomullsvadd",
+        "contact": {
+            "phone": "474",
+            "postgiro": "71863"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1930,
+        "director": "Ägare o. chef: fabr. Gunnar Lundkvist",
+        "coordinates": {
+            "Latitude": 57.42746,
+            "Longitude": 15.08533
+        }
+    }
+}

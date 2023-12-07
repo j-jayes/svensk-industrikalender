@@ -1,0 +1,175 @@
+{
+    "1": {
+        "name": "Grammofonindustri AB Svenska",
+        "location": "Stockholm",
+        "business": "Grammofonindustri",
+        "contact": {
+            "telegraph": "Grammofonindustri, AB.",
+            "office": "Stockholm",
+            "postgiro": "139221"
+        },
+        "financials": {
+            "capital": "80,200 kr",
+            "employees": {
+                "industriarb.": 40
+            },
+            "annual_production_value": "650,000 kr"
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "I. L. la Cour",
+                "role": "ordf."
+            },
+            {
+                "name": "Hjalmar Olsson",
+                "role": "dir."
+            },
+            {
+                "name": "Herman Wernekinck",
+                "role": "civiling."
+            }
+        ],
+        "director": "Herman Wernekinck",
+        "sales_manager": "E. G. Larsson"
+    },
+    "2": {
+        "name": "AB Grangärde Ångsåg",
+        "location": "Grangärde",
+        "business": "Tillverkar sågade och hyvlade trävaror",
+        "contact": {
+            "phone": "7",
+            "postgiro": "139221"
+        },
+        "financials": {
+            "capital": "80,200 kr",
+            "employees": {
+                "industriarb.": 40
+            },
+            "annual_production_value": "650,000 kr"
+        },
+        "foundation_year": 1935,
+        "director": "disp. Karl Hedin",
+        "managing_director": "disp. Karl Hedin",
+        "owners": [
+            "Anders Pettersson",
+            "Alfred Pettersson"
+        ]
+    },
+    "3": {
+        "name": "Graningeverkens AB",
+        "location": "Bollstabruk",
+        "business": "Tillverkar sågade och hyvlade trävaror, torr mek. trämassa samt dragen tråd; levererar elektr. energi",
+        "contact": {
+            "head_office": "Bollstabruk",
+            "telegraph": "Graningeverken, Nyland",
+            "phone": "Nyland 4",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "600312, 600344, 620634"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "10,530,000 kr",
+            "employees": {
+                "industriarb.": 400
+            },
+            "annual_turnover": "20,000 stds trävaror, varav 5,000 stds hyvlade, 18,000 ton torr mek. trämassa"
+        },
+        "foundation_year": 1873,
+        "board": [
+            {
+                "name": "Tom Forssner",
+                "role": "adv."
+            },
+            {
+                "name": "C. v. Essen",
+                "role": "frih."
+            },
+            {
+                "name": "Nils H. Qvist",
+                "role": "dir."
+            },
+            {
+                "name": "G. J. Versteegh",
+                "role": "dir."
+            }
+        ],
+        "director": "G. J. Versteegh",
+        "sales_manager": "Karl Wingstedt"
+    },
+    "4": {
+        "name": "Granit AB C. A. Kuilgrens Enka",
+        "location": "Uddevalla",
+        "business": "Tillverkar gatsten, kantsten, byggnadssten, gravvårdar, rå-block m. m. samt polerade och slipade granit arbeten",
+        "contact": {
+            "telegraph": "Kullgrens, Uddevalla",
+            "phone": "10058, 11782",
+            "postgiro": "77042"
+        },
+        "financials": {
+            "capital": "1,050,000 kr",
+            "employees": {
+                "industriarb.": 350
+            },
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1842,
+        "board": [
+            {
+                "name": "Karl S. Rasmussen",
+                "role": "f. borgm."
+            },
+            {
+                "name": "Victor Kullgren",
+                "role": "dir."
+            },
+            {
+                "name": "William G. Thorburn",
+                "role": "dir."
+            }
+        ],
+        "director": "Victor Kullgren",
+        "contact_officer": "A. Rönnau",
+        "managing_director": "Victor Kullgren",
+        "sales_manager": "Not Available"
+    },
+    "5": {
+        "name": "Granit och Beton AB.",
+        "location": "Stochholm",
+        "business": "Utför väg- och vattenbyggnader, hus-och fabriksbyggnader, armerade och oarmerade betongarbeten, schaktnings- och sprängningsarbeten, terrasseringar, pål-ningar, grundläggningar m. m.",
+        "contact": {
+            "office": "Linnég. 3",
+            "telegraph": "Granit, Stockholm",
+            "phone": "67-0120",
+            "postgiro": "1641"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "annual_production_value": "10,000,000 kr"
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "And. Olby",
+                "role": "ing."
+            },
+            {
+                "name": "Karl Bergquist",
+                "role": "ing."
+            },
+            {
+                "name": "Sven Björkenstam",
+                "role": "jur. kand."
+            },
+            {
+                "name": "Erik Brändström",
+                "role": "dir."
+            }
+        ],
+        "director": "And. Olby",
+        "managing_director": "Not Available"
+    }
+}

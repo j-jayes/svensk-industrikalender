@@ -1,0 +1,337 @@
+{
+    "1": {
+        "name": "AB. Nyköpings Träindustri",
+        "location": "Nyköping",
+        "business": "Tillverkar fotografiramar, ramlist, förgyllda kompletteringsmöbler och snickeriarbeten",
+        "contact": {
+            "office": "",
+            "phone": [
+                "880",
+                "2917"
+            ],
+            "postgiro": "177182",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Nyträ, Nyköping",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1941,
+        "board": [],
+        "owners": [],
+        "director": "Ivan Thor",
+        "managing_director": "Lennart Thor"
+    },
+    "2": {
+        "name": "AB. Nyköpingsverken",
+        "location": "Nyköping (Södermanl. l.)",
+        "business": "Tillverkar svetsade värmeledningspannor samt cykeltillbehör. Varumärke: »Durospeed»",
+        "contact": {
+            "office": "",
+            "phone": [
+                "2267"
+            ],
+            "postgiro": "272246",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "110994"
+                }
+            ],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "725,000 kr",
+            "annual_production_value": "725,000 kr"
+        },
+        "foundation_year": 1944,
+        "board": [],
+        "owners": [],
+        "director": "Nils Wålinder"
+    },
+    "3": {
+        "name": "Nylund & Son Pianofabrik",
+        "location": "Uppsala",
+        "business": "Tillverkar pianon och kammarpianon",
+        "contact": {
+            "office": "",
+            "phone": [
+                "31519",
+                "32519"
+            ],
+            "postgiro": "88140",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 29
+            },
+            "annual_turnover": "375,000 kr",
+            "annual_production_value": "375,000 kr"
+        },
+        "foundation_year": 1906,
+        "board": [],
+        "owners": [
+            "fabr. Emil Nylund"
+        ],
+        "director": ""
+    },
+    "4": {
+        "name": "AB. I. Nylunds Litografiska Anstalt",
+        "location": "Stockholm",
+        "business": "Utför reklamtryck, affischer och etiketter",
+        "contact": {
+            "office": "Döbelnsg. 3",
+            "phone": [
+                "116107",
+                "204343"
+            ],
+            "postgiro": "4054",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1873,
+        "corporation_year": 1905,
+        "board": [],
+        "owners": [],
+        "director": "Carl-Erik Nylund"
+    },
+    "5": {
+        "name": "Nyma Manufaktur AB.",
+        "location": "Flen (Södermanl. l.)",
+        "business": "Tillverkar baddräkter och badkappor",
+        "contact": {
+            "office": "",
+            "phone": [
+                "260"
+            ],
+            "postgiro": "174537",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "334883"
+                }
+            ],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "250,000 kr",
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [],
+        "owners": [],
+        "director": "Curt Weissenberg"
+    },
+    "6": {
+        "name": "AB. Nymans Verkstäder",
+        "location": "Uppsala",
+        "business": "Tillverkar cyklar och cykeldelar. Specialmärken: »Hermes», »Crescent», »Nord-st jernan» o. »Vega»",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Nymans"
+            ],
+            "postgiro": "9922",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": [
+                        "110122",
+                        "110182"
+                    ]
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "28534—36"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "Nymanbolagen"
+                },
+                {
+                    "location": "Linköping"
+                },
+                {
+                    "location": "Luleå"
+                }
+            ],
+            "telegraph": "Nymännerna, Uppsala",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "4,500,000 kr",
+            "employees": {
+                "industriarb": 1016
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "Helge Norlander",
+                "role": "ordf."
+            },
+            {
+                "name": "Erik G. Pehrsson",
+                "role": "v. ordf."
+            },
+            {
+                "name": "Nils Eneström",
+                "role": "intendent"
+            },
+            {
+                "name": "Erik A. Gill-berg",
+                "role": "dir."
+            },
+            {
+                "name": "Gustaf Grahn",
+                "role": "dir."
+            },
+            {
+                "name": "Erland Ståhlnacke",
+                "role": "ing."
+            },
+            {
+                "name": "Eric Tofte",
+                "role": "bankdir."
+            }
+        ],
+        "owners": [],
+        "director": "Gustaf Grahn",
+        "sales_manager": "Edvin Lundgren",
+        "manager": "E. Krigström"
+    },
+    "7": {
+        "name": "Nynäshamns Tryckeri AB.",
+        "location": "Nynäshamn",
+        "business": "Utför civiltryck, blanketter, formulär och affärstryck vid tryckeri i Nynäshamn",
+        "contact": {
+            "office": "",
+            "phone": [
+                "128",
+                "818"
+            ],
+            "postgiro": "28442",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "9,600 kr",
+            "employees": {
+                "Arb.-antal": 7
+            },
+            "annual_turnover": "142,000 kr",
+            "annual_production_value": "142,000 kr"
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "Gunnar Norberg",
+                "role": "ordf."
+            },
+            {
+                "name": "Algot Andersson",
+                "role": "avsynare"
+            },
+            {
+                "name": "Axel Fredlund",
+                "role": "verkm."
+            },
+            {
+                "name": "Hjalmar Holmstedt",
+                "role": "montör"
+            },
+            {
+                "name": "Karl-Olof Virén",
+                "role": "kontorsskriv."
+            }
+        ],
+        "owners": [],
+        "director": "Aino Nyholm"
+    },
+    "8": {
+        "name": "Nysilverfabriken Aurora AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar som specialitet kuvertnysilver samt utför förkromning, omförsilv-ring och andra galvaniska utfällningar",
+        "contact": {
+            "office": "Norra Kustbanegatan 19",
+            "phone": [
+                "155401"
+            ],
+            "postgiro": "12333",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Aurora, Göteborg",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 26
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1911,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "fru A. Gustafson",
+                "role": "ordf."
+            },
+            {
+                "name": "John Hellsing",
+                "role": "disp."
+            }
+        ],
+        "owners": [],
+        "director": "John Hellsing"
+    }
+}

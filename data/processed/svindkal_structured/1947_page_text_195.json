@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "J. Bohmans Fabriks AB.",
+        "location": "Jönköping",
+        "business": "Mek. verkstad, träförädlingsfabrik och elektricitetsverk",
+        "contact": {
+            "office": "Lovsjö, Jönköping",
+            "phone": [
+                "6",
+                "26"
+            ],
+            "postgiro": "23417",
+            "telegraph": "Bohmans, Jönköping"
+        },
+        "financials": {
+            "capital": "100 000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_production_value": "500 000 kr"
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "Sven J. Larsson",
+                "role": "dir."
+            },
+            {
+                "name": "Åke Larson",
+                "role": "disp."
+            },
+            {
+                "name": "Wald. Person",
+                "role": "disp."
+            }
+        ],
+        "director": "John Bohman"
+    },
+    "2": {
+        "name": "Knut Bomans Mössfabrik AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar herr-, dam- och barnmössor",
+        "contact": {
+            "office": "Ö. Hamng. 12",
+            "phone": [
+                "137568"
+            ],
+            "postgiro": "40532"
+        },
+        "financials": {
+            "capital": "60 000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "400 000 kr"
+        },
+        "foundation_year": 1906,
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "Gustaf Ryhre",
+                "role": "Styrelse o. disp."
+            }
+        ]
+    },
+    "3": {
+        "name": "Bohus Mek. Verkstads AB.",
+        "location": "Göteborg",
+        "business": "Mek. verkstad, plåtslageri och gjuteri",
+        "contact": {
+            "office": "Getebergsäng, postadr.: Göteborg 5",
+            "telegraph": "Bohus, Göteborg",
+            "phone": "187020",
+            "postgiro": "40796"
+        },
+        "financials": {
+            "capital": "445 000 kr",
+            "employees": {
+                "industriarb": 225
+            },
+            "annual_production_value": "5 000 000 kr"
+        },
+        "foundation_year": 1876,
+        "corporation_year": 1882,
+        "board": [
+            {
+                "name": "Gust. J. Sahlin",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "Axel O. Engberg",
+                "role": "dir."
+            },
+            {
+                "name": "Gunnar Juhlin",
+                "role": "civiling., verkst. dir."
+            }
+        ],
+        "director": "Gunnar Juhlin",
+        "manager": "Arvid Anderson"
+    },
+    "4": {
+        "name": "Bohus Varv, Knut Tiderman",
+        "location": "Bohus",
+        "business": "Utför nybyggnader och reparationer av järn- och träfartyg",
+        "contact": {
+            "phone": [
+                "3",
+                "144"
+            ],
+            "postgiro": "145621"
+        },
+        "employees": {
+            "industriarb": 60
+        },
+        "foundation_year": 1907,
+        "manager": "Knut Tiderman"
+    },
+    "5": {
+        "name": "AB. Bohusläns Stenförädling",
+        "location": "Hunnebostrand",
+        "business": "Stenhuggeri och sliperi",
+        "contact": {
+            "phone": "111",
+            "postgiro": "133876"
+        },
+        "financials": {
+            "capital": "50 000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_production_value": "500 000 kr"
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Axel R. Bäckman",
+                "role": "fabr. (ordf.)"
+            },
+            {
+                "name": "Hj. Höij",
+                "role": "disp."
+            }
+        ]
+    },
+    "6": {
+        "name": "AB. Bohuslänska Granit-Kompaniet",
+        "location": "Strömstad",
+        "business": "Stenhuggerier å olika platser i norra Bohuslän",
+        "contact": {
+            "office": "Strömstad",
+            "phone": "77",
+            "telegraph": "Hessel, Strömstad"
+        },
+        "financials": {
+            "capital": "60 000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "150 000 kr"
+        },
+        "foundation_year": 1908,
+        "director": "Arthur Hessel"
+    },
+    "7": {
+        "name": "Bokenäs Tegelbruks AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar mur- och taktegel samt dräneringsrör",
+        "contact": {
+            "office": "Göteborg, Kyrkog. 4",
+            "phone": "131328",
+            "postgiro": "41856"
+        },
+        "financials": {
+            "capital": "85 000 kr",
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Gunnar Wulf",
+                "role": "bruksäg. (ordf.)"
+            },
+            {
+                "name": "Ragnar Nymansson",
+                "role": "disp."
+            },
+            {
+                "name": "Hilding Ström",
+                "role": "kapten"
+            },
+            {
+                "name": "Joel Svensson",
+                "role": "disp."
+            }
+        ],
+        "manager": "Harald Olsson"
+    },
+    "8": {
+        "name": "AB. Boklund & Davidson",
+        "location": "Linköping",
+        "business": "Möbelfabrik. Tillverkar bäddsoffor och ottomaner",
+        "contact": {
+            "phone": "22730",
+            "postgiro": "95788"
+        },
+        "financials": {
+            "capital": "125 000 kr",
+            "employees": {
+                "industriarb": "N/A"
+            }
+        }
+    }
+}

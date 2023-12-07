@@ -1,0 +1,155 @@
+{
+    "1": {
+        "name": "AB. Förenade Svenska Tändsticksfabriker",
+        "location": "Jönköping",
+        "business": "Tändsticksfabrik",
+        "contact": {
+            "telegraph": "United, Jönköping",
+            "phone": [
+                "Tändsticksbolaget"
+            ],
+            "postgiro": "91370"
+        },
+        "financials": {
+            "capital": "18,000,000 kr",
+            "employees": {
+                "industriarb": 0
+            }
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "Axel Brandin",
+                "role": "ordf"
+            },
+            {
+                "name": "And. Granberg",
+                "role": "dir"
+            },
+            {
+                "name": "Torsten Jung",
+                "role": ""
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. Förenade Tegelbruken",
+        "location": "Linköping",
+        "business": "Tegelbruksindustri",
+        "contact": {
+            "phone": "20201",
+            "postgiro": "170340"
+        },
+        "financials": {
+            "capital": "562,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "6 milj. st. tegel varor"
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "Carl Schoug",
+                "role": "ordf"
+            },
+            {
+                "name": "Jacob Henricson",
+                "role": ""
+            },
+            {
+                "name": "K. G. Magni",
+                "role": ""
+            },
+            {
+                "name": "Nils Mårtensson",
+                "role": ""
+            },
+            {
+                "name": "Stellan Vennersten",
+                "role": ""
+            }
+        ]
+    },
+    "3": {
+        "name": "AB. Förenade Tryckerier",
+        "location": "Stockholm",
+        "business": "Boktryckeri",
+        "contact": {
+            "office": "Gävleg. 12 B",
+            "phone": [
+                "230125"
+            ],
+            "postgiro": "57543"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "foundation_year": 1934
+        },
+        "board": [
+            {
+                "name": "Gustav Söderberg",
+                "role": "ordf"
+            },
+            {
+                "name": "Olof L. Pettersson",
+                "role": "disp"
+            }
+        ],
+        "sales_manager": "Hjalmar Kindwall"
+    },
+    "4": {
+        "name": "Förenade Trähusfabriker, Förening u. p. a.",
+        "location": "Stockholm",
+        "business": "Tillverkning och export av trähus och baracker"
+    },
+    "5": {
+        "name": "Förenade Vattenfabriker i Göteborg",
+        "location": "Göteborg"
+    },
+    "6": {
+        "name": "AB. Förenade Yllefabrikerna",
+        "location": "Norrköping",
+        "business": "Kammeri, kamgarnsspinneri, kardgarnsspinneri, ylle- och konstsilkeväveri, färgeri",
+        "contact": {
+            "telegraph": "Yfa, Norrköping",
+            "phone": [
+                "Yfa"
+            ],
+            "postgiro": "11034"
+        },
+        "financials": {
+            "capital": "5,000,000 kr",
+            "employees": {
+                "industriarb": 1200
+            },
+            "annual_production_value": "34,000 yllestyck, 10,000 konstsilkefoderstyck, 3,500 tageldukstyck o. 7,000 vattolinstyck"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "Chr. v. Sydow",
+                "role": "ordf"
+            },
+            {
+                "name": "Wilhelm Wahren",
+                "role": "disp"
+            }
+        ],
+        "director": "Wilhelm Wahren",
+        "managing_director": "Tore R. Wahren",
+        "sales_manager": "C.-M. Möller",
+        "manager": "B. Anshelm Peterson"
+    },
+    "7": {
+        "name": "Föreningen Möbelsnickeriet u. p. a.",
+        "location": "Umeå",
+        "business": "Möbler och inredningar",
+        "contact": {
+            "office": "Grisbacka, Umeå"
+        }
+    }
+}

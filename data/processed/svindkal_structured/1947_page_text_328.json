@@ -1,0 +1,258 @@
+{
+    "1": {
+        "name": "Gullaskruf-—Gallringen",
+        "location": "Gallringen",
+        "business": "Glasbruk",
+        "products": "Tillverkar pressat och blåst hushållsglas, kristall- och konstglas samt strålkastar-glas och tekniskt glas.",
+        "contact": {
+            "head_office": "Gullaskruf, Kalmar",
+            "phone": [
+                "Orrefors 42"
+            ],
+            "postgiro": "165600",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "612602"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_turnover": "3,600,000 kr",
+            "annual_production_value": "3,600,000 kr"
+        },
+        "foundation_year": 1845,
+        "corporation_year": 1906,
+        "board": [
+            {
+                "name": "jur. dr Axel Roos",
+                "role": "ordf."
+            },
+            {
+                "name": "fröken G. Holm",
+                "role": ""
+            },
+            {
+                "name": "fru G. Nyström",
+                "role": ""
+            },
+            {
+                "name": "dir. Carl-Sigvard Roos",
+                "role": ""
+            }
+        ],
+        "manager": "Carl-Sigvard Roos"
+    },
+    "2": {
+        "name": "Gullaskrufs Glasbruks AB.",
+        "location": "Gullaskruv",
+        "business": "Glasbruk",
+        "products": "Tillverkar pressat och blåst hushållsglas, kristall- och konstglas samt strålkastar-glas och tekniskt glas.",
+        "contact": {
+            "office": "Gullaskruf, Kalmar",
+            "phone": [
+                "Orrefors 42"
+            ],
+            "postgiro": "165600",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "612602"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "87,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1893,
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "ing. William Stenberg",
+                "role": "ordf."
+            },
+            {
+                "name": "godsäg. Carl Andersson",
+                "role": ""
+            },
+            {
+                "name": "disp. Tage Stenberg",
+                "role": ""
+            }
+        ],
+        "manager": "William Stenberg"
+    },
+    "3": {
+        "name": "Cullbergs Maskinfabriks AB.",
+        "location": "Stockholm",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar maskiner för byggnadsindustrien såsom betongblandare och lyftkranar, sågverksmaskiner såsom balanskapsågar och justerverk, transportanordningar såsom rem- och kättingtransportörer.",
+        "contact": {
+            "office": "Förmansvägen 19, Stockholm",
+            "phone": [
+                "452760"
+            ],
+            "postgiro": "191512",
+            "sales_offices": [
+                {
+                    "location": "Lindås",
+                    "phone": "Emmaboda 4 o. 277"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "93,000 kr",
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "foundation_year": 1871,
+        "corporation_year": 1904,
+        "current_name_year": 1938,
+        "board": [
+            {
+                "name": "ing. Walter Hesselman",
+                "role": ""
+            },
+            {
+                "name": "ing. Gottfrid Mattsson",
+                "role": ""
+            },
+            {
+                "name": "civiling. Carl-Olof Stråhle",
+                "role": ""
+            }
+        ],
+        "manager": "Walter Hesselman",
+        "sales_manager": "Rickard Kempe"
+    },
+    "4": {
+        "name": "Gullbergs Skofabrik",
+        "location": "Mosas",
+        "business": "Tillverkar skodon",
+        "products": "Tillverkar ago, randsydda, klammerrand, pliggade och sandalsydda skodon samt sandaler och tofflor.",
+        "contact": {
+            "phone": [
+                "Örebro 75150"
+            ],
+            "postgiro": "92992"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 74
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "fru L. M. Gullberg"
+        ],
+        "director": "Erik Gullberg"
+    },
+    "5": {
+        "name": "Cullebo Snickerifabrik",
+        "location": "Rottne",
+        "business": "Tillverkar möbler",
+        "products": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "29"
+            ],
+            "postgiro": "95365",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "206668"
+                },
+                {
+                    "location": "södra Sverige",
+                    "phone": "78782"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1920,
+        "manager": "Gunnar Petersson"
+    },
+    "6": {
+        "name": "AB. Gullhögens Bruk",
+        "location": "Skövde",
+        "business": "Cementfabrik och kalkbruk",
+        "products": "Tillverkar cement och bränd kalk. Bolaget driver även jordbruk.",
+        "contact": {
+            "phone": [
+                "Gullhögen, Skövde"
+            ],
+            "postgiro": "26865"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 244
+            },
+            "annual_turnover": "§ 100,000 kr"
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "v. konsul Aug. Wingårdh",
+                "role": "ordf."
+            },
+            {
+                "name": "v. konsul Gustaf Wingårdh",
+                "role": ""
+            },
+            {
+                "name": "disp. Erik Wingårdh",
+                "role": ""
+            },
+            {
+                "name": "agronom Henning Wingårdh",
+                "role": ""
+            },
+            {
+                "name": "agronom Åke Wingårdh",
+                "role": ""
+            }
+        ],
+        "manager": "Aug. Wingårdh"
+    },
+    "7": {
+        "name": "Gullringens Träförädling",
+        "location": "Gullringen",
+        "business": "Snickerifabrik",
+        "products": "Tillverkar monteringsfärdiga trähus samt byggnadssnickerier.",
+        "contact": {
+            "telegraph": "Ansgarius, Gullringen",
+            "phone": [
+                "18",
+                "20",
+                "28"
+            ],
+            "postgiro": "23470"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1930,
+        "manager": "Stig Ansg. Svensson",
+        "sales_manager": "Martin Jakobsson"
+    }
+}

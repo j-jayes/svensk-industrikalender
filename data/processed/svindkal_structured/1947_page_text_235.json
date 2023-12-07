@@ -1,0 +1,145 @@
+{
+    "1": {
+        "name": "Centralbolaget—Choklad fabriken",
+        "location": "Stockholm",
+        "business": "Förmedla och utvidga kommersiellt och tekniskt samarbete på den kemiska industriens område",
+        "contact": {
+            "office": "Sveavägen 48",
+            "phone": [
+                "233530"
+            ],
+            "postgiro": "193104",
+            "telegraph": "Kemindustri, Stockholm"
+        },
+        "financials": {
+            "capital": "480,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "grossh. Robert Ljunglöf",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Sverre R:son Sohlman",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. Erik 3*. Bengtson",
+                "role": null
+            },
+            {
+                "name": "dir. Gösta Browall",
+                "role": null
+            },
+            {
+                "name": "dir. P. Eg. Gummeson",
+                "role": null
+            },
+            {
+                "name": "dir. W. Hellgren",
+                "role": null
+            },
+            {
+                "name": "dir. Sven E. Lundberg",
+                "role": null
+            },
+            {
+                "name": "dir. ISf. W. Lundblad",
+                "role": null
+            },
+            {
+                "name": "fil. dr Harald Nordenson",
+                "role": null
+            },
+            {
+                "name": "dir. Ii. Rydin",
+                "role": null
+            },
+            {
+                "name": "dir. Sven Schwartz",
+                "role": null
+            },
+            {
+                "name": "disp. Nils Westerdahi",
+                "role": null
+            }
+        ],
+        "director": "tekn. dr R. Winbladh"
+    },
+    "2": {
+        "name": "AB. Centraltryckeriet I Stockholm",
+        "location": "Stockholm",
+        "business": "Bok-, stål- och djuptryckeri, litografisk och klichéanstalt, notstickeri och musikalietryckeri, bokbinderi och stämpelfabrik",
+        "contact": {
+            "office": "Vasag. 16",
+            "phone": null,
+            "postgiro": "35",
+            "telegraph": "Centraltryck, Stockholm"
+        },
+        "financials": null,
+        "foundation_year": 1873,
+        "board": [
+            {
+                "name": "Gösta Smith",
+                "role": "verkst. dir."
+            }
+        ]
+    },
+    "3": {
+        "name": "AB. Cewo-Kappor",
+        "location": "Malmö",
+        "business": "Tillverkar dräkter, dam- och flickkappor samt riddräkter",
+        "contact": {
+            "office": "Norbergsg. 11",
+            "phone": [
+                "71575"
+            ],
+            "postgiro": "147431"
+        },
+        "financials": {
+            "capital": "100,000 kr"
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "fru S. Thånell",
+                "role": "verkst. dir."
+            }
+        ]
+    },
+    "4": {
+        "name": "AB. Chamberts Möbelfabrik",
+        "location": "Norrköping",
+        "business": "Tillverkar möbler och inredningar",
+        "contact": {
+            "phone": "27244",
+            "postgiro": "95235"
+        },
+        "financials": {
+            "capital": "70,000 kr"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "Axel Chambert",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "Otto Chambert",
+                "role": "Disp."
+            }
+        ]
+    },
+    "5": {
+        "name": "AB. Chokladfabriken Coralli",
+        "location": "Hälsingborg",
+        "business": "Tillverkar kakao, choklad och konfityrer",
+        "contact": {
+            "phone": null,
+            "postgiro": "147431"
+        },
+        "financials": null,
+        "foundation_year": null
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "1": {
+        "name": "Bröderna",
+        "location": "Skurup",
+        "contact": {
+            "telegraph": "Bröderna, Skurup",
+            "phone": [
+                "67",
+                "287"
+            ],
+            "postgiro": "9178"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1903,
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "A. Olof Andersson",
+                "role": "Verkst. direktör"
+            },
+            {
+                "name": "Emil Andersson",
+                "role": "Verkst. direktör"
+            },
+            {
+                "name": "Lars M. Hansson",
+                "role": "Kamrer"
+            }
+        ]
+    },
+    "2": {
+        "name": "Bröderna Anderssons Velociped- & Radiofabrik AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar velocipeder och radioapparater",
+        "products": "Varumärken: »Kungs-Radio», »Kungsvelocipeden», »B.A.V.» o. »Velux».",
+        "contact": {
+            "office": "Kungsg. 18",
+            "telegraph": "Radiocykel, Göteborg",
+            "phone": "»Kungsradio»",
+            "postgiro": "12207"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 140
+            }
+        },
+        "foundation_year": 1903,
+        "current_name_year": 1932,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Albin Andersson",
+                "role": "dir."
+            },
+            {
+                "name": "Arne Andersson",
+                "role": "dir."
+            },
+            {
+                "name": "Gunhild Andersson",
+                "role": "fru"
+            }
+        ]
+    },
+    "3": {
+        "name": "Bröderna Arnerot",
+        "location": "Stockholm",
+        "business": "Snickerifabrik",
+        "products": "Tillverkar byggnadssnickerier samt inredningar för banker, biografer, affärslokaler och laboratorier.",
+        "contact": {
+            "office": "Norra Stationsg. 63",
+            "phone": "339563",
+            "postgiro": "3554"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_production_value": "330,000 kr"
+        },
+        "foundation_year": 1917,
+        "corporation_year": 1940,
+        "board": [
+            {
+                "name": "Elias Arnerot",
+                "role": "fabr."
+            },
+            {
+                "name": "Erik Arnerot",
+                "role": "fabr."
+            },
+            {
+                "name": "Bror Ema-nuelz",
+                "role": "vaktmäst."
+            }
+        ]
+    },
+    "4": {
+        "name": "Bröderna Bengtsson",
+        "location": "Falkenberg",
+        "business": "Byggnadsentreprenörfirma",
+        "products": "För bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "phone": "202",
+            "postgiro": "77814"
+        },
+        "financials": {
+            "annual_production_value": "1,250,000 kr"
+        },
+        "foundation_year": 1920,
+        "owners": [
+            "byggm. Gustaf Bengtsson",
+            "byggm. Hugo Bengtsson",
+            "fru Signe Bengtsson"
+        ],
+        "manager": "Gustaf Bengtsson"
+    },
+    "5": {
+        "name": "Bröderna Bringholtz’ Möbelfabrik",
+        "location": "Ruda",
+        "business": "Tillverkar stolar och fåtöljer",
+        "products": "Vid fabrik i Ruda (Kalmar l.)",
+        "contact": {
+            "phone": "21"
+        },
+        "financials": {
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1926,
+        "owners": [
+            "fabr. Linder Bringholtz",
+            "fabr. Erik Bringholtz"
+        ]
+    },
+    "6": {
+        "name": "Bröderna Bruce, Seffle Motorverkstad",
+        "location": "Säffle",
+        "business": "Seffle Motorverkstad",
+        "contact": {
+            "telegraph": "AB. Seffle Motorverkstad, Bröderna Bruce, Säffle"
+        }
+    },
+    "7": {
+        "name": "AB. Bröderna Brännströms Mek. Verkstad",
+        "location": "Skellefteå",
+        "business": "Tillverkar sågverksmaskiner, ångvin-schar, hissar, transmissioner och maskinelement m. m.",
+        "contact": {
+            "telegraph": "Maskiner, Skellefteå",
+            "phone": [
+                "10218",
+                "11718"
+            ],
+            "postgiro": "61446"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1913,
+        "corporation_year": 1933,
+        "director": "Karl A. Eriksson"
+    },
+    "8": {
+        "name": "Bröderna Carlsson & Anderssons AB.",
+        "location": "Eskilstuna",
+        "business": "Metallgjuteri och metallvarufabrik",
+        "products": "Tillverkar gjutgods i mässing, rödgods, lagermetall m. m. samt spiselräck, batterikabelskor, bilbeslag m. m.",
+        "contact": {
+            "phone": "31851",
+            "postgiro": "27782"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_production_value": "175,000 kr"
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1942,
+        "director": "O. Arvid Carlsson"
+    },
+    "9": {
+        "name": "AB. Bröderna Carlssons Möbelfabrik",
+        "location": "Virserum",
+        "business": "Tillverkar matsalsmöbler samt bokhyllor, bord och stolar",
+        "products": "Vid fabrik i Virserum (Kalmar l.)",
+        "contact": {
+            "phone": [
+                "50",
+                "26"
+            ],
+            "postgiro": "130780"
+        },
+        "financials": {
+            "capital": "36,000 kr",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": "190,000 kr"
+        },
+        "corporation_year": 1922,
+        "board": [
+            {
+                "name": "Gust. Carlsson",
+                "role": "fabr."
+            },
+            {
+                "name": "Johan Andersson",
+                "role": "fabr."
+            },
+            {
+                "name": "Arvid Carlsson",
+                "role": "fabr."
+            },
+            {
+                "name": "Fabian Carlsson",
+                "role": "fabr."
+            }
+        ]
+    }
+}

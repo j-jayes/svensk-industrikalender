@@ -1,0 +1,87 @@
+{
+    "1": {
+        "name": "AB. Ignaberga Kalksten, Ignaberga",
+        "business": "Kalkbrott, kalkbruk, kalkgödningsfabriker och kalkstenshuggerier",
+        "location": "Ignaberga, Kristianstad l.",
+        "contact": {
+            "telegraph": "Kalksten, Kristianstad",
+            "phone": [
+                "Vinslöv 66",
+                "Vinslöv 132"
+            ],
+            "postgiro": "30916"
+        },
+        "financials": {
+            "capital": "750,000 kr",
+            "employees": 50,
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1914
+    },
+    "2": {
+        "name": "AB. Imo-Industri, Stockholm",
+        "business": "Mek. verkstad. Tillverkar pumpar, hydrauliska motorer och vattenmätare. Varumärke: »IMO».",
+        "location": "Stockholm",
+        "contact": {
+            "office": "Lindhagensg. 132",
+            "telegraph": "Imoindustri, Stockholm",
+            "phone": "520405",
+            "postgiro": "53845"
+        },
+        "financials": {
+            "capital": "1,250,000 kr",
+            "employees": 100,
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1931
+    },
+    "3": {
+        "name": "Industri AB., Elektriska, Stockholm",
+        "location": "Stockholm"
+    },
+    "4": {
+        "name": "Industri AB. Furuplywood, Kristinehamn",
+        "business": "Träförädlingsfabrik. Tillverkar kryssfaner (plywood) av furu och björk, lamellträ (blockboard) samt kombinationsskivan »Startex». Varumärken: »Stjärn-Plywood», »Stjärn-lamell» o. »Startex».",
+        "location": "Kristinehamn",
+        "contact": {
+            "telegraph": "Furuplywood, Kristinehamn",
+            "phone": "Furuplywood",
+            "postgiro": "81150"
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": 275
+        },
+        "foundation_year": 1927
+    },
+    "5": {
+        "name": "Industri AB. Halba, Stockholm",
+        "location": "Stockholm"
+    },
+    "6": {
+        "name": "Industri AB. Kerba, Göteborg",
+        "business": "Damkonfektionsfabrik. Tillverkar blusar, underkläder, klänningar, bysthållare och scarves",
+        "location": "Göteborg",
+        "contact": {
+            "office": "S. Allég. 5",
+            "phone": "135686",
+            "postgiro": "46924"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": 80,
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1941
+    },
+    "7": {
+        "name": "Industri AB. Kronan, Norrköping",
+        "business": "Kem.-tekn. fabriker. Tillverkar såpa, tvätt- och diskpulver, disktabletter, handpasta, borroljeersättning, fernissa, bonvax, golvolja, vagnsmörja samt kalirikt stenmjöl och rödfärg.",
+        "location": "Norrköping, Doverstorp (Östergötl. l.)",
+        "contact": {
+            "telegraph": "Industrikronan, Norrköping",
+            "phone": "29685",
+            "postgiro": "141030"
+        }
+    }
+}

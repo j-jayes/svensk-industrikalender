@@ -1,0 +1,198 @@
+{
+    "1": {
+        "name": "Grycksbo Pappersbruk AB.",
+        "location": "Grycksbo",
+        "business": "Pappersbruk med cellulosafabriker",
+        "products": "skrivpapper, tryckpapper, kraftpapper, rit-papper, filtrerpapper, kartonger",
+        "contact": {
+            "office": "Munktell, Grycksbo",
+            "phone": [
+                "Grycksbo Pappersbruk, Falun"
+            ],
+            "postgiro": "72424"
+        },
+        "financials": {
+            "capital": "4,500,000 kr",
+            "employees": {
+                "industriarb.": 800
+            },
+            "annual_turnover": "18,000 ton papper"
+        },
+        "foundation_year": 1740,
+        "current_name_year": 1939,
+        "board": [
+            {
+                "name": "disp. H. Hanngren",
+                "role": ""
+            },
+            {
+                "name": "ing. A. M. Munktell",
+                "role": ""
+            },
+            {
+                "name": "prof. Henrik Munktell",
+                "role": ""
+            },
+            {
+                "name": "kapten William Nisser",
+                "role": ""
+            }
+        ],
+        "director": "William Nisser",
+        "managing_director": "E. Mide",
+        "sales_manager": "A. Goliath"
+    },
+    "2": {
+        "name": "AB. Gryts Bruk",
+        "location": "Hjortkvarn",
+        "business": "Tråddrageri och galvaniseringsverk",
+        "products": "blank, för-kopprad, galvaniserad och glödgad järntråd, trådspik",
+        "contact": {
+            "office": "Björnhammar, Hjortkvarn",
+            "phone": [
+                "Hjortkvarn 16"
+            ],
+            "postgiro": "80656"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": "2,500,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "generalkonsul Ragnar Söderberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Gust. Kihlgren",
+                "role": ""
+            },
+            {
+                "name": "generalkonsul Torsten O. Söderberg",
+                "role": ""
+            }
+        ],
+        "director": "Gust. Kihlgren",
+        "manager": "Nils Larsson"
+    },
+    "3": {
+        "name": "AB. Grytgöls Bruks AB.",
+        "location": "Grytgöl",
+        "business": "Tråddrageri-, spik- och stängselnät-fabrik",
+        "products": "blank, förkopprad, glödgad, förzinkad och förtent järntråd, häfttråd, stängselnät, trådspik, krampor, stålmöbler, järnmanufakturvaror",
+        "contact": {
+            "office": "Grytgöl, Grytgöl",
+            "phone": [
+                "Grytgöl # 36—41"
+            ],
+            "postgiro": "6617"
+        },
+        "financials": {
+            "capital": "325,000 kr",
+            "employees": {
+                "industriarb.": 130
+            },
+            "annual_turnover": "2,300,000 kr"
+        },
+        "board": [
+            {
+                "name": "kapten Arv. Buren",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. C. D. Buren",
+                "role": ""
+            },
+            {
+                "name": "överstelöjtn. Torsten Hagstedt",
+                "role": ""
+            }
+        ],
+        "director": "Arv. Buren",
+        "manager": "Ivar Ringdahl"
+    },
+    "4": {
+        "name": "AB. Crythytte Skifferverk",
+        "location": "Grythyttan",
+        "business": "Skifferverk",
+        "products": "takskiffer, skifferhällar, skifferplattor för elektriska och byggnadsändamål, möbelplattor",
+        "contact": {
+            "office": "Skifferverket, Grythyttan",
+            "phone": [
+                "1",
+                "69"
+            ],
+            "postgiro": "33470"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "board": [
+            {
+                "name": "bruksäg. Carl E. Carlsson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. P. Eg. Gummeson",
+                "role": ""
+            },
+            {
+                "name": "civiling. Vincent Spak",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "managing_director": "",
+        "manager": ""
+    },
+    "5": {
+        "name": "Grängesbergs Bryggeri",
+        "location": "Grängesberg",
+        "business": "Bryggeri",
+        "products": "maltdrycker",
+        "contact": {
+            "phone": [
+                "33"
+            ],
+            "postgiro": ""
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 12
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1898,
+        "owners": [
+            "bryggm. Louis Spendrup"
+        ],
+        "director": "",
+        "manager": "Edvin Jakobsson"
+    },
+    "6": {
+        "name": "Gränsfors Bruks A B.",
+        "location": "Bergsjö",
+        "business": "Manufaktursmedja",
+        "products": "yxor, bilor och barkspadar, svartsmiden såsom flåhackor, jord-hackor, timmerredskap, hakgångjärn",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": ""
+        },
+        "financials": {
+            "employees": {},
+            "annual_turnover": ""
+        },
+        "board": [],
+        "director": "",
+        "manager": ""
+    }
+}

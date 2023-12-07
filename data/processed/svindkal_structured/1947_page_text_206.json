@@ -1,0 +1,192 @@
+{
+    "1": {
+        "name": "Bro gård—Brunnzell",
+        "location": "Bro",
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "1,200,000 kr",
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1946,
+        "director": "Oscar Ohlsson"
+    },
+    "2": {
+        "name": "Broholm AB",
+        "location": "Blomstermåla",
+        "products": "Tillverkar fanér vid fabrik i Ålem (Kalmar l.)",
+        "contact": {
+            "office": "Blomstermåla",
+            "phone": [
+                "Ålem 7"
+            ],
+            "postgiro": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1917,
+        "board": {
+            "name": "Waldemar Persson",
+            "role": "Styrelse o. disp."
+        }
+    },
+    "3": {
+        "name": "A. Th. Broms AB",
+        "location": "Eskilstuna",
+        "predecessor": "Gense, Eskilstuna"
+    },
+    "4": {
+        "name": "Bromsbandsfabriken AB",
+        "location": "Mölnlycke",
+        "predecessor": "Svenska Bromsbandsfabriken AB., Mölnlycke"
+    },
+    "5": {
+        "name": "Bromsregulator, Svenska AB",
+        "location": "Malmö",
+        "predecessor": "Svenska AB. Bromsregulator, Malmö"
+    },
+    "6": {
+        "name": "Bromölla Chamottefabrik",
+        "location": "Bromölla",
+        "predecessor": "AB. Iföverken, Bromölla"
+    },
+    "7": {
+        "name": "Brosten AB",
+        "location": "Lysekil",
+        "products": "Tillverkar gatsten",
+        "contact": {
+            "office": null,
+            "phone": [
+                "43"
+            ],
+            "postgiro": null,
+            "sales_offices": null,
+            "telegraph": "Gunnerson, Lysekil",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1928,
+        "board": {
+            "name": "civiling. J. G. Gunnerson",
+            "role": "Styrelse o. verkst. dir."
+        }
+    },
+    "8": {
+        "name": "Brottby Mek. Verkstads AB",
+        "location": "Göteborg",
+        "products": "Tillverkar ställbar maskinbelysning samt steglöst variabla växellådor",
+        "contact": {
+            "office": "Friggag. 12",
+            "phone": [
+                "195577"
+            ],
+            "postgiro": "240495"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "Arb.-antal": 15
+            },
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1938,
+        "director": "civiling. Sven Rennerfelt"
+    },
+    "9": {
+        "name": "Bruhns Intressenter AB",
+        "location": "Stockholm",
+        "products": "Tillverkar förbands- och sjukvårdsartiklar. Bolaget driver även engroshandel med sjukvårdsartiklar och glasvaror för apotek och sjukhus",
+        "contact": {
+            "office": "Gästrikeg. 17",
+            "phone": [
+                "304592—93"
+            ],
+            "postgiro": "3783"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1922,
+        "board": {
+            "name": "Henry Rundgren",
+            "role": "Styrelse o. verkst. dir."
+        },
+        "sales_manager": "Georg Hillman"
+    },
+    "10": {
+        "name": "AB. Frans Brunke",
+        "location": "Länghem",
+        "products": "Trikåfabrik i Länghem (Älvsb. l.). Tillverkar damunderkläder i bomull, ylle och konstsilke samt stickade yllesockor och vantar",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Svenljunga 40028 o. 40048"
+            ],
+            "postgiro": "36640",
+            "sales_offices": {
+                "location": "Stockholm",
+                "phone": "101250"
+            }
+        },
+        "financials": {
+            "capital": "350,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1901,
+        "board": {
+            "name": "disp. Gunnar J. Sundgren",
+            "role": "Styrelse"
+        },
+        "director": "Frans Brunke",
+        "sales_manager": "disp. Gunnar J. Sundgren"
+    },
+    "11": {
+        "name": "AB. Fridolf Brunnzell",
+        "location": "Sundsvall",
+        "products": "Tillverkar monteringsfärdig isolering med plåtbeklädnad, isoleringsmassa och isoleringsmanschetter samt utför isoleringar för industrier och bostadsfastigheter",
+        "contact": {
+            "office": null,
+            "phone": [
+                "2283"
+            ],
+            "postgiro": "95133"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "montörer": 18
+            }
+        },
+        "foundation_year": 1912,
+        "board": {
+            "name": "fabr. Fridolf Brunnzell",
+            "role": "Styrelse"
+        },
+        "director": "Fridolf Brunnzell",
+        "sales_manager": "K. S. Lundqvist"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "1": {
+        "name": "AB. Lessebo Skogar, Klippan",
+        "location": "Klippan",
+        "business": "Sågverk, hyvleri, lådfabrik samt impregneringsanläggning enligt Bolidens tryckmetod vid Lessebo (Kronob. l.)",
+        "contact": {
+            "head_office": "Klippan",
+            "sales_offices": [
+                {
+                    "location": "Lessebo",
+                    "phone": "Lessebo 1"
+                }
+            ],
+            "telegraph": "Woodex, Lessebo",
+            "postgiro": "9243"
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb.": 112
+            },
+            "annual_production_value": "1,800,000 kr"
+        },
+        "foundation_year": 1903,
+        "owners": [
+            "AB. Klippans Finpappersbruk"
+        ],
+        "board": [
+            {
+                "name": "bankir Tage Cervin",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Allan Alexanderson",
+                "role": ""
+            },
+            {
+                "name": "dir. P. Eg. Gummeson",
+                "role": ""
+            },
+            {
+                "name": "f. d. bankdir. H. K. Laurit-zen",
+                "role": ""
+            },
+            {
+                "name": "dir. Carl Joh. Malmros",
+                "role": ""
+            }
+        ],
+        "director": "Carl Joh. Malmros"
+    },
+    "2": {
+        "name": "AB. Levin Strå- & Filthattfabrik, Stockholm",
+        "location": "Stockholm",
+        "business": "Tillverkar damhattar av strå och filt samt dammössor",
+        "contact": {
+            "office": "Svarvarg. 11",
+            "telegraph": "Labist, Stockholm",
+            "phone": "520215",
+            "postgiro": "50280"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb.": 85
+            },
+            "annual_turnover": "1,800,000 kr"
+        },
+        "foundation_year": 1886,
+        "board": [
+            {
+                "name": "dir. Josef Benno",
+                "role": ""
+            },
+            {
+                "name": "adv. Tore Lindell",
+                "role": ""
+            }
+        ],
+        "director": "J. Benno"
+    },
+    "3": {
+        "name": "AB. Herman Carlson Levin, Göteborg",
+        "location": "Göteborg",
+        "business": "Musikinstrumentfabrik. Tillverkar stränginstrument såsom gitarrer, lutor och mandoliner samt trummor",
+        "contact": {
+            "office": "Lilla Bommens torg 2",
+            "phone": "133116",
+            "postgiro": "40680"
+        },
+        "financials": {
+            "capital": "204,000 kr",
+            "employees": {
+                "industriarb.": 112
+            },
+            "annual_production_value": "1,300,000 kr"
+        },
+        "foundation_year": 1900,
+        "board": [
+            {
+                "name": "Herman Carlson Levin",
+                "role": ""
+            }
+        ],
+        "director": "Herman Carlson Levin"
+    },
+    "4": {
+        "name": "AB. K. J. Levin, Malmö",
+        "location": "Malmö",
+        "business": "Mek. verkstad. Tillverkar kommers, kylanläggningar och varuautomater. Firman driver även försäljning av kylskåp samt tvätt- och köksmaskiner",
+        "contact": {
+            "office": "Lövviksg. 13",
+            "telegraph": "Levinautomat, Malmö",
+            "phone": "71155",
+            "postgiro": "38071"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb.": 90
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1925,
+        "director": "K. J. Levin"
+    },
+    "5": {
+        "name": "Martin Levissons Söner, Göteborg",
+        "location": "Göteborg",
+        "business": "Garveri. Tillverkar bottenläder, bindsulläder och plattläder",
+        "contact": {
+            "office": "Mölndalsvägen 14",
+            "telegraph": "Levisoener, Göteborg",
+            "phone": "161065",
+            "postgiro": "42058"
+        },
+        "employees": 25,
+        "director": "disp. Einar Lamm"
+    },
+    "6": {
+        "name": "Li Snickerifabrik AB., Stockholm",
+        "location": "Stockholm",
+        "business": "Tillverkar möbler och inredningar vid fabrik i Liatorp (Kronob. l.)",
+        "contact": {
+            "office": "Drottningg. 14",
+            "phone": "207840",
+            "postgiro": "274560"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb.": 17
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1943,
+        "board": [
+            {
+                "name": "ing. Henrik Mattsson",
+                "role": ""
+            },
+            {
+                "name": "ing. Henry Wallestam",
+                "role": ""
+            }
+        ]
+    }
+}

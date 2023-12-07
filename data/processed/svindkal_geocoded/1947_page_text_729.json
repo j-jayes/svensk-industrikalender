@@ -1,0 +1,208 @@
+{
+    "1": {
+        "name": "Träkons truktio ner—Trä varu",
+        "location": "Vansbro",
+        "business": "Trävaru",
+        "contact": {
+            "telegraph": "Träkol, Vansbro",
+            "phone": [
+                "55",
+                "255",
+                "175"
+            ],
+            "postgiro": "8772"
+        },
+        "financials": {
+            "capital": "750,000 kr",
+            "employees": {
+                "industrial": 150
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "G. Wesslén",
+                "role": "skogschef (ordf.)"
+            },
+            {
+                "name": "Bengt Carleson",
+                "role": "disp."
+            },
+            {
+                "name": "A. Wahlsteen",
+                "role": "dir."
+            }
+        ],
+        "director": "Folke Lunell",
+        "coordinates": {
+            "Latitude": 60.5099434,
+            "Longitude": 14.2253417
+        }
+    },
+    "2": {
+        "name": "Träkonstruktioner, AB. Fribärande",
+        "location": "Töreboda",
+        "business": "Fribärande Träkonstruktioner",
+        "coordinates": {
+            "Latitude": 58.70550919999999,
+            "Longitude": 14.1261468
+        }
+    },
+    "3": {
+        "name": "Trämanufaktur, Värnamo",
+        "location": "Värnamo",
+        "business": "E. Bergwall",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        }
+    },
+    "4": {
+        "name": "Träspecialen, David Johansson",
+        "location": "Smålandsstenar",
+        "business": "Snickerifabrik",
+        "products": "fällbara bord med masoniteskiva (märke: »Fix»)",
+        "contact": {
+            "phone": "66",
+            "postgiro": "86457"
+        },
+        "financials": {
+            "employees": {
+                "industrial": 14
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1934,
+        "current_name_year": 1940,
+        "owners": [
+            "fru Carin Johansson"
+        ],
+        "coordinates": {
+            "Latitude": 57.1597167,
+            "Longitude": 13.403521
+        }
+    },
+    "5": {
+        "name": "Träullit, AB.",
+        "location": "Köping",
+        "business": "Träullsplattor",
+        "products": "armerade träullsplattor",
+        "contact": {
+            "telegraph": "Träullit, Köping",
+            "phone": [
+                "1313",
+                "1350"
+            ],
+            "postgiro": "251690"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industrial": 80
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1943,
+        "board": [
+            {
+                "name": "Viggo Hanzon",
+                "role": "disp."
+            },
+            {
+                "name": "Henrik Mattsson",
+                "role": "ing."
+            }
+        ],
+        "director": "Henry Wallestam",
+        "coordinates": {
+            "Latitude": 59.5120962,
+            "Longitude": 15.9945102
+        }
+    },
+    "6": {
+        "name": "Träullsbolaget Export, Forserum",
+        "location": "Forserum",
+        "business": "Träull",
+        "coordinates": {
+            "Latitude": 57.69932780000001,
+            "Longitude": 14.475408
+        }
+    },
+    "7": {
+        "name": "Trävaru AB. Braås",
+        "location": "Braås",
+        "business": "AB. Böksholms Sulfitfabrik",
+        "coordinates": {
+            "Latitude": 57.0599208,
+            "Longitude": 15.0537039
+        }
+    },
+    "8": {
+        "name": "Trävaru AB. Dalarne",
+        "location": "Vansbro",
+        "business": "Elektrisk kraftstation",
+        "products": "distribuerar elektr. energi",
+        "contact": {
+            "telegraph": "Dalarne, Vansbro",
+            "phone": "61",
+            "postgiro": "85188"
+        },
+        "financials": {
+            "capital": "2,500,000 kr",
+            "annual_turnover": "19,000,000 kWh"
+        },
+        "foundation_year": 1892,
+        "owners": [
+            "Korsnäs Sågverks AB., Gävle"
+        ],
+        "coordinates": {
+            "Latitude": 60.5099434,
+            "Longitude": 14.2253417
+        }
+    },
+    "9": {
+        "name": "Trävaruindustrin, B. Johansson",
+        "location": "Smålandsstenar",
+        "business": "Snickerifabrik",
+        "products": "turistsängar, balkongbord",
+        "contact": {
+            "phone": "214",
+            "postgiro": "281951"
+        },
+        "financials": {
+            "employees": {
+                "industrial": 12
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1944,
+        "owners": [
+            "fabr. Bertil Johansson"
+        ],
+        "coordinates": {
+            "Latitude": 57.1597167,
+            "Longitude": 13.403521
+        }
+    },
+    "10": {
+        "name": "Trävaru AB. N. Chr. Jensen",
+        "location": "Karlstad",
+        "business": "Sågverk, hyvleri, lådfabrik, trähus",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        }
+    },
+    "11": {
+        "name": "Trävaru AB. Kronoberg",
+        "location": "Räppe",
+        "business": "Lådfabrik, hyvleri",
+        "products": "lådämnen, bryggerilådor, packlådor, fatbottnar",
+        "coordinates": {
+            "Latitude": 56.8948099,
+            "Longitude": 14.7334953
+        }
+    }
+}

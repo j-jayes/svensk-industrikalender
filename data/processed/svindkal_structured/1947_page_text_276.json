@@ -1,0 +1,220 @@
+{
+    "1": {
+        "name": "Eskilstuna Stålindustri",
+        "location": "Eskilstuna",
+        "business": "Tillverkar rostfria bordsknivar och gafflar samt kaffekvarnar.",
+        "contact": {
+            "phone": [
+                "30805"
+            ],
+            "postgiro": "10789"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_turnover": "240,000 kr"
+        },
+        "foundation_year": 1913,
+        "owner": "fabr. W. L. Jernström"
+    },
+    "2": {
+        "name": "Eskilstuna Stålpressnings AB",
+        "location": "Eskilstuna",
+        "business": "Press-, förtennings- och galvaniseringsverk i Eskilstuna samt plåtvalsverk och elektr. vattenkraftstation vid Skogstorp (Södermanl. l.).",
+        "contact": {
+            "phone": "Eskilstuna",
+            "postgiro": "10712",
+            "sales_offices": [
+                {
+                    "location": "Eskilstuna",
+                    "phone": "Pressbolaget"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 580
+            },
+            "annual_turnover": "12,000,000 kr"
+        },
+        "foundation_year": 1893,
+        "owners": "AB. Separator, Stockholm",
+        "board": [
+            {
+                "name": "dir. Axel Wästfelt",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Erik Brändström",
+                "role": null
+            },
+            {
+                "name": "dir. Richard Dahlgren",
+                "role": null
+            },
+            {
+                "name": "dir. Folke Hellstedt",
+                "role": null
+            }
+        ],
+        "director": "Richard Dahlgren",
+        "sales_manager": "S. E. Edwards",
+        "manager": "Oscar Nilsson"
+    },
+    "3": {
+        "name": "Eskilstuna Termometerfabrik",
+        "location": "Eskilstuna",
+        "business": "Tillverkar termometrar såsom febertermometrar, rums- och fönstertermometrar, minimitermometrar, reklamtermometrar samt enklare glasinstrument och vattenpasslibellor.",
+        "contact": {
+            "phone": [
+                "35125"
+            ],
+            "postgiro": "278246"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "foundation_year": 1941,
+        "owner": "fabr. Fritz Feingold"
+    },
+    "4": {
+        "name": "Eskilstuna Vattenpassfabrik",
+        "location": "Eskilstuna",
+        "business": "Vattenpassfabrik och aluminiumgjuteri. Tillverkar vattenpass av trä och aluminium samt maskinvattenpass av aluminium.",
+        "contact": {
+            "phone": [
+                "32802"
+            ],
+            "postgiro": "90627"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 11
+            },
+            "annual_turnover": "105,000 kr"
+        },
+        "foundation_year": 1923,
+        "owner": "fabr. Ax. Ridderström"
+    },
+    "5": {
+        "name": "Eslövs Korkfabrik",
+        "location": "Eslöv",
+        "business": "Tillverkar butelj- och kapselkork samt korkplattor för isoleringsändamål.",
+        "contact": {
+            "phone": [
+                "115"
+            ],
+            "postgiro": "36571"
+        },
+        "employees": "20",
+        "foundation_year": 1891,
+        "owner": "disp. Gösta Kock"
+    },
+    "6": {
+        "name": "Eslövs Skofabriks AB.",
+        "location": "Eslöv",
+        "business": "Tillverkar randsydda skodon.",
+        "contact": {
+            "phone": [
+                "3, 119",
+                "925"
+            ],
+            "postgiro": "32868",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "107962"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "138873"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 115
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "board": [
+            {
+                "name": "disp. Henry Dunker",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Wilhelm Bahrke",
+                "role": null
+            },
+            {
+                "name": "greve Pontus De la Gardie",
+                "role": null
+            },
+            {
+                "name": "dir. C. F. Tranchell",
+                "role": null
+            },
+            {
+                "name": "bankdir. Ivar Åkerman",
+                "role": null
+            }
+        ],
+        "director": "Wilhelm Bahrke",
+        "manager": "Karl Hedström"
+    },
+    "7": {
+        "name": "Eslövs Yllefabriks AB.",
+        "location": "Eslöv",
+        "business": "Ullspinneri, väveri och appreturverk. Tillverkar hel- och halvylletyger samt filtar.",
+        "contact": {
+            "phone": [
+                "110",
+                "127"
+            ],
+            "postgiro": "6503"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1905,
+        "owners": "disp. Albert Herrmann, disp. Gerhard Herrmann, adv. Wilh. Penser",
+        "managers": [
+            "A. Herrmann",
+            "G. Herrmann"
+        ]
+    },
+    "8": {
+        "name": "AB. Esma",
+        "location": "Malmö",
+        "business": "Kem. tekn. fabrik. Tillverkar hand-pasta, flytande tvål, bonvax m. m.",
+        "contact": {
+            "phone": [
+                "72270"
+            ],
+            "postgiro": "148103"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "arb.-antal": 9
+            },
+            "annual_turnover": "110,000 kr"
+        },
+        "foundation_year": 1938,
+        "manager": "Göte Åkesson"
+    },
+    "9": {
+        "name": "AB. Espagnolettfabriken Fix",
+        "location": "Gbg",
+        "business": null
+    }
+}

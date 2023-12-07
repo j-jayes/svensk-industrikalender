@@ -1,0 +1,206 @@
+{
+    "1": {
+        "name": "AB. Svenska Bandagefabriken",
+        "location": "Stockholm",
+        "business": "Tillverkar bandage såsom bråckband, maggördlar, korsetter, rygghållare, sus-pensoirer m. m.",
+        "contact": {
+            "office": "Kungsg. 67",
+            "phone": [
+                "114515"
+            ],
+            "postgiro": "50637"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 10
+            },
+            "foundation_year": 1919
+        },
+        "board": [
+            {
+                "name": "kommerserådet Axel F. En-ström",
+                "role": "ordf."
+            },
+            {
+                "name": "höiesteretsadv. Herman Christiansen",
+                "role": ""
+            },
+            {
+                "name": "konteramiral Helge Friis",
+                "role": ""
+            },
+            {
+                "name": "ing. Hans. J. Krogh",
+                "role": ""
+            },
+            {
+                "name": "kommerserådet S. Erik österberg",
+                "role": ""
+            }
+        ],
+        "director": "Herman Lund",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "2": {
+        "name": "Svenska Bandfabriken",
+        "location": "Stenungsund",
+        "business": "Tillverkar såsom specialitet vävda etiketter, konstsilkeband och bomullsband.",
+        "contact": {
+            "phone": [
+                "Bandfabriken"
+            ],
+            "postgiro": "80514"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            },
+            "foundation_year": 1931
+        },
+        "owner": "dir. Karl Theodor Friedrichs",
+        "coordinates": {
+            "Latitude": 58.0678388,
+            "Longitude": 11.8294346
+        }
+    },
+    "3": {
+        "name": "AB. Svenska Bilfabriken",
+        "location": "Stockholm",
+        "business": "Tillverkar person- och lastautomobiler, karosseri-fabrik, släpvagnar, förarhytter, lastflak, bilklädslar, kylarskydd m. m. samt utför motorrenoveringar.",
+        "contact": {
+            "office": "Augustendal",
+            "phone": [
+                "Svenska Bilfabriken"
+            ],
+            "teleph": "Bilpalatset"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "unknown",
+            "annual_production_value": "unknown"
+        },
+        "board": [
+            {
+                "name": "disp. Evert Philipson",
+                "role": ""
+            },
+            {
+                "name": "disp. Inghar Westerdahl",
+                "role": ""
+            }
+        ],
+        "director": "Gunnar V. Philipson",
+        "managing_director": "Gunnar V. Philipson",
+        "sales_manager": "unknown",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "4": {
+        "name": "Svenska Bindgarnsfabrikens AB.",
+        "location": "Malmö",
+        "business": "Tillverkar bindgarn, snören, skör-de- och halmpressgarn, rörläggnings-packgarn, tågvirke för sjöfart och fiske, skeppsdrev m. m. samt pappersgarn.",
+        "contact": {
+            "telegraph": "Bindgarnet",
+            "phone": [
+                "Bindgarnsfabri-ken"
+            ],
+            "postgiro": "38205"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 400
+            },
+            "foundation_year": 1889
+        },
+        "board": [
+            {
+                "name": "civiling. Olof Winkler",
+                "role": "ordf."
+            },
+            {
+                "name": "kontorschef Carl Kristensson",
+                "role": ""
+            },
+            {
+                "name": "ryttm. Sven Winkler",
+                "role": ""
+            }
+        ],
+        "owners": [
+            "Fritz Nauckhoff"
+        ],
+        "sales_manager": "Helmer Norén",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "5": {
+        "name": "AB. Svenska Block",
+        "location": "Göteborg",
+        "business": "Tillverkar skeppsblock av järn och trä, skeppssmi-den m. m.; utför galvanisering på varm och elektrolytisk väg.",
+        "contact": {
+            "office": "Torgny Segerstedtsg. 94",
+            "postgiro": "12464"
+        },
+        "financials": {
+            "capital": "51,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "board": [
+            {
+                "name": "civiling. Gunnar Albrechtson",
+                "role": ""
+            },
+            {
+                "name": "dir. Hans Albrechtson",
+                "role": ""
+            },
+            {
+                "name": "kamrer Knut Höög",
+                "role": ""
+            }
+        ],
+        "director": "Gunnar Albrechtson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "Svenska Bromsbandsfabriken AB.",
+        "location": "Mölnlycke",
+        "business": "Tillverkar bromsband för motorfordon och för tekniskt bruk såsom för hissar, kranar, vinschar, spel m. m., friktions-och kopplingsbelägg, bakelitprodukter, asbetspackningar för ugnar, tätningsringar m. m.",
+        "contact": {
+            "phone": [
+                "270"
+            ],
+            "postgiro": "99398"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "director": "Hjalmar Johansson",
+        "coordinates": {
+            "Latitude": 57.658163,
+            "Longitude": 12.118993
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "1": {
+        "name": "Häggåstrands Väveri AB.",
+        "location": "Kinnahult",
+        "business": "Tillverkar allmogegardiner, markisetter, draperier, tryckta gardiner och möbeltyger vid väveri i Kinnahult (Älvsb. l.)",
+        "contact": {
+            "office": "Häggåstrands Jacquard väveri, Kinna",
+            "phone": [
+                "Kinna 10475"
+            ],
+            "postgiro": "143436",
+            "factory_office": "Kinnahult",
+            "factory_phone": "Kinnahult",
+            "description": "Contact information for the firm."
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "",
+            "annual_production_value": "",
+            "description": "Financial information of the firm."
+        },
+        "foundation_year": 1938,
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "fabr. Harald Håkanson",
+                "role": null
+            },
+            {
+                "name": "fabr. Erik Skoglund",
+                "role": null
+            },
+            {
+                "name": "fabr. Per Skoglund",
+                "role": null
+            }
+        ]
+    },
+    "2": {
+        "name": "AB. Hällarydsverken",
+        "location": "SJcede",
+        "business": "Mek. verkstad och gjuteri vid Hällaryd, Skede (Jönköp. l.). Tillverkar vattenturbiner, hydrauliska regulatorer, trycksvarvar, universalfräsmaskiner, bordhyvelma-skiner m. m.",
+        "contact": {
+            "telegraph": "Turbo, Vetlanda",
+            "phone": "Skedeby 47",
+            "postgiro": "275480",
+            "description": "Contact information for the firm."
+        },
+        "financials": {
+            "capital": "66,200 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "",
+            "description": "Financial information of the firm."
+        },
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "disp. Sverker Brunius",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Greta Brunius",
+                "role": null
+            },
+            {
+                "name": "bankdir. Axel Gustafsson",
+                "role": null
+            }
+        ]
+    },
+    "3": {
+        "name": "Häller & Co., Smögen",
+        "business": "Konservfabriker i Smögen och Grebbestad (båda i Göteb. o. Bohus l.). Tillverkar sill-, fisk- och skaldjurskonserver m. m.",
+        "contact": {
+            "office": "Smögen",
+            "telegraph": "Häller, Smögen",
+            "phone": "»Häller & Oo.",
+            "postgiro": "33053",
+            "description": "Contact information for the firm."
+        },
+        "financials": {
+            "employees": 45,
+            "annual_production_value": "500,000 kr",
+            "description": "Financial information of the firm."
+        },
+        "original_name": "Firman grundad 1880, nuv. namn 1922",
+        "owners": [
+            "fabr. Reinhold Häller",
+            "fabr. Olof Häller"
+        ],
+        "director": "Leif Häller",
+        "sales_manager": "Torsten Häller",
+        "manager": "Nils Lorentzon"
+    },
+    "4": {
+        "name": "Hälleviks Konservfabrik, A. T. Bovik & Co.",
+        "location": "Hälleviksstrand",
+        "business": "Tillverkar grönsakskonserver, fisk- och sillkonserver vid fabrik i Hälleviksstrand (Göteb. o. Bohus l.)",
+        "contact": {
+            "office": "AB. Boviks Konservfabriker, Lysekil",
+            "telegraph": "Bovik, Lysekil",
+            "phone": "89",
+            "postgiro": "30300",
+            "description": "Contact information for the firm."
+        },
+        "financials": {
+            "employees": 45,
+            "annual_production_value": "700,000 kr",
+            "description": "Financial information of the firm."
+        },
+        "owners": [
+            "AB. Boviks Konservfabriker"
+        ],
+        "sales_manager": "v. konsul Alfr. T. Bovik"
+    },
+    "5": {
+        "name": "AB. Hälsingborgs Choklad- & Konfektfabrik Kärnan",
+        "location": "Hälsingborg",
+        "business": "Tillverkar kakao, choklad, konfekt, karameller och kola",
+        "contact": {
+            "phone": "20705",
+            "postgiro": "291699",
+            "description": "Contact information for the firm."
+        },
+        "financials": {
+            "capital": "450,000 kr",
+            "employees": 150,
+            "annual_production_value": "4,000,000 kr",
+            "description": "Financial information of the firm."
+        },
+        "foundation_year": 1903
+    }
+}

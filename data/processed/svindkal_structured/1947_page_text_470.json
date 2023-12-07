@@ -1,0 +1,173 @@
+{
+    "1": {
+        "name": "J. M. Lindelöf Träförädlingsfabrik",
+        "location": "Landskrona",
+        "business": "Träförädlingsfabrik och kalkbruk",
+        "products": "TiHverkar dörrar, fönster, inredningar, möbler, trädetaljer av bok, lådämnen och lådor samt bränd kalk.",
+        "contact": {
+            "office": "Telefon: 45",
+            "postgiro": "135405"
+        },
+        "financials": {
+            "capital": "450,000 kr",
+            "employees": {
+                "industriarb": 33
+            },
+            "annual_production_value": "490,000 kr"
+        },
+        "foundation_year": 1888,
+        "owners": [
+            "Pål Berggren"
+        ]
+    },
+    "2": {
+        "name": "Lindesbergs Gjuteri & Mek. Verkstad AB",
+        "location": "Lindesberg",
+        "business": "Tillverkar grövre och finare maskin-gjutgods, motorgods, vatten- och luft-kylda cylindrar, hårdgjutgods, kokillhärdat slitgods, vattenledningsgod?, rör och rördelar, gatu- och gårdsbrunnar.",
+        "contact": {
+            "office": "Telegr.-adr. o. telefon: \"Gjuteriet\", Lindesberg",
+            "postgiro": "133419"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1920
+    },
+    "3": {
+        "name": "AB. Lindesbergs Ängbryggeri",
+        "location": "Lindesberg",
+        "business": "Tillverkar fatsvagdricka vid bryggeri",
+        "contact": {
+            "office": "Telefon: 24",
+            "postgiro": "289109"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_production_value": "50,000 kr"
+        },
+        "foundation_year": 1945,
+        "owners": [
+            "Eskilstuna Bryggeri AB"
+        ],
+        "director": "Gösta Sverdrup",
+        "manager": "Gösta Sverdrup"
+    },
+    "4": {
+        "name": "Lindesby Masugn",
+        "location": "Järnboås",
+        "business": "Tillverkar martin-, aducerings-, lancashire-och gjuteritaekjärn.",
+        "contact": {
+            "head_office": "Huvudkontor: Stockholm, Birger Jarlsg. 26, telefon: 232565",
+            "sales_offices": [
+                {
+                    "location": "Järnboås",
+                    "phone": "Järnboås 1"
+                }
+            ]
+        },
+        "financials": {
+            "annual_production_value": "1,500,000 kr"
+        },
+        "predecessor": "Lindesby Hyttebolag, Carl Setterwall & Co. AB. (Stockholm)"
+    },
+    "5": {
+        "name": "A. Lindgren & Söner",
+        "location": "Göteborg",
+        "business": "Boktryckeri, bokbinderi, kartong- och kuvertfabrik samt affischeringsbyrå.",
+        "contact": {
+            "office": "Kontor: Rosenlundsplatsen 3. Telegr.-adr.: Trycket, Göteborg. Telefon: 170985",
+            "postgiro": "25409"
+        },
+        "financials": {
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1845,
+        "owners": [
+            "fru M. Lindgren"
+        ],
+        "director": "Arne Svensson",
+        "manager": "T. Lessler"
+    },
+    "6": {
+        "name": "Algot Lindgren",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader samt för väg- och vattenbyggnadsarbeten.",
+        "contact": {
+            "office": "Kontor: Sveavägen 33. Telefon: 115058 o. 208834",
+            "postgiro": "55727"
+        },
+        "financials": {
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1921,
+        "owners": [
+            "överstelöjtn. Algot Lindgren",
+            "kapten Ragnar Lindgren"
+        ],
+        "manager": "Börje Hellstrand"
+    },
+    "7": {
+        "name": "Arvid Lindgren & Co.",
+        "location": "Stockholm",
+        "business": "Färg- & Ferniss Fabriks AB.",
+        "foundation_year": 1921
+    },
+    "8": {
+        "name": "Cottfr. Lindgren",
+        "location": "Uppsala",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m. samt mek. verkstad i Uppsala och snickerifabrik i Skyttorp (Uppsala l.).",
+        "contact": {
+            "office": "Kontor: Uppsala. Telefon: 39645. Postgiro: 90701",
+            "sales_offices": [
+                {
+                    "location": "Västerås",
+                    "phone": "35298"
+                },
+                {
+                    "location": "Gävle",
+                    "phone": "5982"
+                },
+                {
+                    "location": "Karlskoga",
+                    "phone": "31500"
+                },
+                {
+                    "location": "Kungsör",
+                    "phone": "424"
+                }
+            ]
+        },
+        "financials": {
+            "annual_production_value": "12,000,000 kr"
+        },
+        "foundation_year": 1921,
+        "owners": [
+            "byggm. Gottfrid Lindgren"
+        ],
+        "board": [
+            {
+                "name": "Oscar Ring",
+                "role": "Avdelningschef, Västerås"
+            },
+            {
+                "name": "Johan Ericson",
+                "role": "Verkmästare, Gävle"
+            },
+            {
+                "name": "Gustaf Carlgren",
+                "role": "Verkmästare, Karlskoga"
+            },
+            {
+                "name": "Sten Meiton",
+                "role": "Ingenjör, Kungsör"
+            }
+        ]
+    }
+}

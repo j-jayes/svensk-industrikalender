@@ -1,0 +1,213 @@
+{
+    "1": {
+        "name": "Fabriks—Facit",
+        "location": "Duved",
+        "business": "Tillverkar talk för pappers-, takpapps-och gummiindustrin samt tälj stenstegel för cellulosaindustrin",
+        "contact": {
+            "office": "Nordhallen, Duved",
+            "phone": [
+                "Nordhallen 12"
+            ],
+            "postgiro": "130990"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "annual_turnover": "3,500 ton talk o. tälj stensmjöl, 1,000 ton täljstenstegel"
+        },
+        "foundation_year": 1917,
+        "corporation_year": 1925,
+        "board": [
+            {
+                "name": "iur. stud. Curt Weidling",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "A. Attergaard",
+                "role": "Platschef"
+            }
+        ]
+    },
+    "2": {
+        "name": "Fabriks AB. Klas Törnblom",
+        "location": "Eskilstuna",
+        "business": "Smidesfabrik. Tillverkar rostfria knivar, gafflar och skedar, rostfria slaktknivar, rostfria köttkrokar, gummitapp-ningsknivar, hovknivar samt hovbesticks-knivar, hammare samt ställbara espagno-letter (märke: »Magistern G.») och kop-pelhakar",
+        "contact": {
+            "phone": [
+                "30655"
+            ],
+            "postgiro": "263000"
+        },
+        "financials": {
+            "capital": "62,500 kr",
+            "employees": {
+                "industriarb.": 25
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1807,
+        "corporation_year": 1916,
+        "board": [
+            {
+                "name": "byggm. Ferdinand Malmberg",
+                "role": "Styrelse: ordf."
+            },
+            {
+                "name": "disp. Bengt Malmberg",
+                "role": "Styrelse: disp."
+            },
+            {
+                "name": "disp. G. Ridaeus",
+                "role": "Disp.: B. Malmberg"
+            }
+        ]
+    },
+    "3": {
+        "name": "Fabriks AB. Victoria",
+        "location": "Hälsingborg",
+        "business": "Margarinfabrik med tillverkning av bords- och bagerimargarin samt kokos och konstister. Kemisk-tekn. fabrik med tillverkning av toalett- och tvättvål, såpa, tvålflingor m. fl. kem.-tekniska preparat. Marsipanfabrik för tillverkning av marsipanvaror",
+        "contact": {
+            "office": "Victoria, Hälsingborg",
+            "telegraph": "Victoria, Hälsingborg",
+            "phone": [
+                "Victoria, Hälsingborg"
+            ],
+            "postgiro": "5052"
+        },
+        "financials": {
+            "capital": "900,000 kr",
+            "employees": {
+                "industriarb.": 60
+            },
+            "annual_production_value": "10,000,000 kr"
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1916,
+        "board": [
+            {
+                "name": "disp. Henry Dunker",
+                "role": "Styrelse: ordf."
+            },
+            {
+                "name": "disp. Ernst Elfgren",
+                "role": "Styrelse: disp."
+            },
+            {
+                "name": "disp. Hj. Magnuson",
+                "role": "Styrelse: disp."
+            }
+        ],
+        "manager": "Gunnar Gustavsson",
+        "sales_manager": "Ture Ågren"
+    },
+    "4": {
+        "name": "AB. Fabriksprodukter",
+        "location": "Hestra",
+        "business": "Mek. verkstad i Hestra (Jönköp. l.). Tillverkar häftapparater, häftklammer, hårklämmor, mekaniska leksaker m. m. samt svagströmselektr. artiklar såsom ringklockor",
+        "contact": {
+            "office": "Hestra",
+            "phone": [
+                "39"
+            ],
+            "postgiro": "178660"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb.": 35
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1939,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Simon Brick",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "A. Olof Westlund",
+                "role": "Disp."
+            }
+        ]
+    },
+    "5": {
+        "name": "AB. Fabriksskorsten",
+        "location": "Malmö",
+        "business": "Utför fabriksskorstenar, ångpannein-murningar och ugnsmurningar m. m.",
+        "contact": {
+            "office": "österg. 19, Malmö",
+            "telegraph": "Fabriksskorsten, Malmö",
+            "phone": [
+                "»Armerad-betong»"
+            ],
+            "postgiro": "37821"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb.": 100
+            }
+        },
+        "corporation_year": 1916,
+        "board": [
+            {
+                "name": "dir. Harald G. Evers",
+                "role": "Styrelse: ordf."
+            },
+            {
+                "name": "övering. David Andersson",
+                "role": "Styrelse: övering."
+            },
+            {
+                "name": "övering. Hj. J epsson",
+                "role": "övering."
+            }
+        ],
+        "manager": "A. Mårde"
+    },
+    "6": {
+        "name": "AB. Facit",
+        "location": "Åtvidaberg",
+        "business": "Specialfabrik för tillverkning av räknemaskiner i Åtvidaberg (Östergötl. l.). Varumärke: »Facit»",
+        "contact": {
+            "telegraph": "Facit, Åtvidaberg",
+            "phone": [
+                "»Industrierna»"
+            ],
+            "postgiro": "72363"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb.": 340
+            }
+        },
+        "foundation_year": 1922,
+        "board": [
+            {
+                "name": "jur. dr Axel Roos",
+                "role": "Styrelse: ordf."
+            },
+            {
+                "name": "greve Folke Bernadotte af Visborg",
+                "role": "Styrelse: disp."
+            },
+            {
+                "name": "disp. Elof Ericsson",
+                "role": "Disp."
+            },
+            {
+                "name": "L. Jacoby",
+                "role": "Exportchef"
+            },
+            {
+                "name": "Albert Engvall",
+                "role": "Tehn. dir."
+            },
+            {
+                "name": "R. E. Annerén",
+                "role": "Övering."
+            }
+        ]
+    }
+}

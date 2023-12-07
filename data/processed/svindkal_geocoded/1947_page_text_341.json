@@ -1,0 +1,271 @@
+{
+    "1": {
+        "name": "Göteborg-Dals Pappersbruk",
+        "location": "Göteborg",
+        "business": "Pappersbruk",
+        "foundation_year": 1889,
+        "predecessor": "AB. Göteborg-Dals Pappersbruk och Gamlestadens Papppersbruks AB.",
+        "board": [
+            {
+                "name": "Nils Troedsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Gunnar Lewerth",
+                "role": "avd."
+            },
+            {
+                "name": "Nils Thenberg",
+                "role": "dir."
+            },
+            {
+                "name": "Nathan Troedsson",
+                "role": "köpm."
+            }
+        ],
+        "sales_manager": "Yngve Olin",
+        "manager": "Bo Enderlein",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "2": {
+        "name": "Göteborgs Pulveriserings AB",
+        "location": "Göteborg",
+        "business": "Kvarnanläggning för pulverisering",
+        "products": "Tillverkar rostskyddsfärg (märke: Ironskin), cementhärdnings-pulver (märke: Concrete Hardener) samt pannrensningsmedel (märke: G. P.A.)",
+        "contact": {
+            "office": "Kämpeg. 3",
+            "phone": [
+                "150431"
+            ],
+            "postgiro": "42939",
+            "telegraph": "Pulver",
+            "description": "Kontaktinformation för företaget."
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb.": 20
+            },
+            "foundation_year": 1898,
+            "corporation_year": 1900
+        },
+        "director": "Olof Mellgren",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "3": {
+        "name": "Göteborgs Remfabriks AB",
+        "location": "Göteborg",
+        "business": "Tillverkar driv- och transportremmar",
+        "products": "Av bomull, cellull, hampa och kamelhår samt bomullsbromsband",
+        "contact": {
+            "office": "Åvägen 15",
+            "phone": [
+                "160561"
+            ],
+            "postgiro": "40491",
+            "description": "Kontaktinformation för företaget."
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb.": 35
+            },
+            "annual_turnover": "1,000,000 kr",
+            "foundation_year": 1891
+        },
+        "director": "Torsten Holmstrand",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "AB. Göteborgs Reseffektfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar reseffekter",
+        "products": "Resandekoffertar, rese-necessärer, damväskor, shoppingväskor, etuier m. m.",
+        "contact": {
+            "office": "Fabriksg. 3",
+            "phone": [
+                "152713",
+                "152732"
+            ],
+            "postgiro": "12049",
+            "description": "Kontaktinformation för företaget."
+        },
+        "financials": {
+            "capital": "110,000 kr",
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": "1,400,000 kr",
+            "foundation_year": 1889,
+            "corporation_year": 1928
+        },
+        "director": "Carl Kronker",
+        "managing_director": "dir. Carl Kronker",
+        "sales_manager": "disp. Eric Anderson",
+        "manager": "M. Jägerholm",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "5": {
+        "name": "Göteborgs Sand AB",
+        "location": "Göteborg",
+        "business": "Murbuks- och betongfabrik",
+        "products": "Tillverkar kalkbruk, betong och cementvaror samt levererar sand och makadam",
+        "contact": {
+            "office": "Marieholmsg. 42",
+            "phone": [
+                "Sandbolaget, Göteborg"
+            ],
+            "postgiro": "25440",
+            "description": "Kontaktinformation för företaget."
+        },
+        "financials": {
+            "capital": "272,500 kr",
+            "employees": {
+                "industriarb.": 90
+            },
+            "annual_turnover": "3,500,000 kr",
+            "foundation_year": 1920
+        },
+        "board": [
+            {
+                "name": "R. Schéle",
+                "role": "ordf."
+            },
+            {
+                "name": "Gunnar Åberg",
+                "role": "ing."
+            },
+            {
+                "name": "Erik Ågren",
+                "role": "ing."
+            },
+            {
+                "name": "P. Gustaf Ågren",
+                "role": "kapten"
+            }
+        ],
+        "director": "Gunnar Åberg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "6": {
+        "name": "AB. Göteborgs Siporexfabrik",
+        "location": "Göteborg",
+        "business": "Betongvarufabrik",
+        "products": "Tillverkar armerad och oarmerad lättbetong (märke: Siporex) i block",
+        "contact": {
+            "office": "Backa",
+            "phone": [
+                "Siporex"
+            ],
+            "postgiro": "45077",
+            "description": "Kontaktinformation för företaget."
+        },
+        "financials": {
+            "capital": "340,000 kr",
+            "employees": {
+                "industriarb.": 100
+            },
+            "foundation_year": 1938
+        },
+        "board": [
+            {
+                "name": "Ernst Wehtje",
+                "role": "dir."
+            },
+            {
+                "name": "Bror Sjögren",
+                "role": "dir."
+            },
+            {
+                "name": "Fredrik Wehtje",
+                "role": "dir."
+            },
+            {
+                "name": "Hugo Wehtje",
+                "role": "ryttm."
+            },
+            {
+                "name": "Walter Wehtje",
+                "role": "dir."
+            }
+        ],
+        "director": "Bror Sjögren",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "7": {
+        "name": "AB. Göteborgs Skeppssnickeri",
+        "location": "Göteborg",
+        "business": "Möbelfabrik, snickerifabrik och tunnfabrik",
+        "products": "Tillverkar möbler, inredningar och snickerier för fartyg, butiksinredningar samt tunnor",
+        "contact": {
+            "office": "Göteborg, ö. Hamng. 30—34",
+            "phone": [
+                "139626",
+                "139686"
+            ],
+            "postgiro": "240133",
+            "description": "Kontaktinformation för företaget."
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": "1,000,000 kr",
+            "foundation_year": 1944
+        },
+        "board": [
+            {
+                "name": "Elis Jönner",
+                "role": "disp."
+            },
+            {
+                "name": "Gösta Bregell",
+                "role": "ing."
+            },
+            {
+                "name": "Erik Eriksson",
+                "role": "verkmäst."
+            },
+            {
+                "name": "Älf Håman",
+                "role": "verkmäst."
+            },
+            {
+                "name": "Holger Johansson",
+                "role": "verkmäst."
+            },
+            {
+                "name": "Werna Johansson",
+                "role": "fru"
+            },
+            {
+                "name": "Carl-Eric Rydgren",
+                "role": "verkmäst."
+            }
+        ],
+        "director": "Elis Jönner",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

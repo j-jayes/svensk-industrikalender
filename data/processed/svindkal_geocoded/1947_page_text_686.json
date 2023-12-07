@@ -1,0 +1,303 @@
+{
+    "1": {
+        "name": "Svenska Skoindustri AB",
+        "location": "Örebro",
+        "business": "Tillverkar randsydda och genomsydda skodon",
+        "products": "Varumärken: »SS-sko» o. »KF-sko»",
+        "contact": {
+            "telegraph": "Skoindustri, Örebro",
+            "phone": [
+                "19290"
+            ],
+            "postgiro": "600,000 kr",
+            "head_office": "Örebro",
+            "factory_phone": "Factory phone number."
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb.": 180
+            },
+            "annual_turnover": "3,300,000 kr",
+            "annual_production_value": "3,300,000 kr"
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "fil. lic."
+            },
+            {
+                "name": "Hj. Deger-stedt",
+                "role": "dir."
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "dir."
+            },
+            {
+                "name": "G. Osvald",
+                "role": "dir."
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "dir."
+            }
+        ],
+        "director": "V. Theander",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        }
+    },
+    "2": {
+        "name": "Svenska Skolmateriel AB",
+        "location": "Gävle",
+        "business": "Tillverkar skrivböcker och övriga pappersvaror för skolbruk",
+        "contact": {
+            "telegraph": "Gevaliaförlaget, Gävle",
+            "phone": [
+                "5206"
+            ],
+            "postgiro": "5113"
+        },
+        "foundation_year": 1917,
+        "description": "Firman driver jämväl engroshandel med skolmateriel och skolinventarier.",
+        "board": [
+            {
+                "name": "Helge Åkerlund",
+                "role": "verkst. dir."
+            }
+        ],
+        "manager": "Erik Sjöberg",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        }
+    },
+    "3": {
+        "name": "AB. Svenska Skolästfabriken",
+        "location": "Järrestad",
+        "business": "Skolästfabrik, träförädlingsfabrik samt stansknivfabrik i Järrestad (Kristianst. 1.) och i Örebro",
+        "contact": {
+            "office": "Järrestad",
+            "phone": [
+                "1"
+            ]
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb.": 100
+            }
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Carl S:son Schmidt",
+                "role": "civiling. (ordf.)"
+            },
+            {
+                "name": "C.-A. Davidson",
+                "role": "disp."
+            },
+            {
+                "name": "Arvid Jonsson",
+                "role": "disp."
+            },
+            {
+                "name": "Adolf Körner",
+                "role": "adv."
+            }
+        ],
+        "director": "C.-A. Davidson",
+        "coordinates": {
+            "Latitude": 55.5375197,
+            "Longitude": 14.2866355
+        }
+    },
+    "4": {
+        "name": "Svenska Skumsiäcknings AB",
+        "location": "Stockholm",
+        "business": "Mek. verkstad. Tillverkar brandmate-riel såsom skumsläckningsaggregat m. m",
+        "products": "Varumärke: »Mekano-Skum»",
+        "contact": {
+            "office": "Birger Jarlsg. 15",
+            "telegraph": "Skumab, Stockholm",
+            "phone": [
+                "233855"
+            ],
+            "postgiro": "55638",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "616154"
+                },
+                {
+                    "location": "Norrland",
+                    "phone": "629573"
+                },
+                {
+                    "location": "södra Sverige",
+                    "phone": "Eriks-torpsg. 30"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "215,000 kr",
+            "employees": {
+                "industriarb.": 10
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "director": "Tage Wendler",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        }
+    },
+    "5": {
+        "name": "AB. Svenska Skyltfabriken",
+        "location": "Hagalund",
+        "business": "Tillverkar etsade och tryckta skyltar, radioskalor, reklamartiklar samt besiktningsskyltar m. m",
+        "contact": {
+            "phone": [
+                "Stockholm 273115",
+                "Stockholm 272475"
+            ],
+            "postgiro": "56335"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb.": 46
+            },
+            "annual_turnover": "450,000 kr"
+        },
+        "description": "Firman etabl. 1933, bolag 1938",
+        "owners": [
+            "Einar Wendel"
+        ],
+        "manager": "Einar Wendel",
+        "coordinates": {
+            "Latitude": 59.3638177,
+            "Longitude": 18.0157976
+        }
+    },
+    "6": {
+        "name": "Svenska Slipsfabriken AB",
+        "location": "Malmö",
+        "business": "Tillverkar slipsar, kravatter, rosetter och scarfs",
+        "products": "Varumärken: »Simba» o. »Spader-Ess»",
+        "contact": {
+            "office": "Göran Olsg. 1",
+            "phone": [
+                "28675",
+                "28662"
+            ],
+            "postgiro": "14097",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "28675"
+                },
+                {
+                    "location": "Norrland",
+                    "phone": "28662"
+                },
+                {
+                    "location": "södra Sverige",
+                    "phone": "Eriks-torpsg. 30"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "industriarb.": 60
+            }
+        },
+        "director": "Thorild Nilsson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "7": {
+        "name": "Svenska Slöjdfabriken, Bröderna Segebaden",
+        "location": "Säter",
+        "business": "Snickerifabrik. Tillverkar såsom specialitet pulkor och spantlösa båtar",
+        "contact": {
+            "phone": [
+                "15"
+            ],
+            "postgiro": "27755"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_turnover": "480,000 kr"
+        },
+        "description": "Firman etabl. 1918",
+        "owners": [
+            "Ugo v. Segebaden",
+            "Ernst v. Segebaden"
+        ],
+        "manager": "Ugo v. Segebaden",
+        "coordinates": {
+            "Latitude": 60.34665,
+            "Longitude": 15.7479
+        }
+    },
+    "8": {
+        "name": "AB. Svenska Smergelskiffabriken",
+        "location": "Höganäs",
+        "business": "Tillverkar slipskivor, brynen, skurstenar, stensågskivor, slipduk, slippapper m. m",
+        "contact": {
+            "phone": [
+                "207"
+            ],
+            "postgiro": "21384"
+        },
+        "financials": {
+            "capital": "375,000 kr",
+            "employees": {
+                "industriarb.": 30
+            }
+        },
+        "description": "Firman etabl. 1907, bolag 1915",
+        "owners": [
+            "Janne Rydström",
+            "Harry Lundwall",
+            "Gustaf Rydström"
+        ],
+        "director": "Gustaf Rydström",
+        "coordinates": {
+            "Latitude": 56.2006388,
+            "Longitude": 12.5553288
+        }
+    },
+    "9": {
+        "name": "AB. Svenska Snickerier",
+        "location": "Göteborg",
+        "business": "Snickerifabrik i Berga (Kalmar l.)",
+        "products": "Tillverkar byggnadssnickerier såsom fönster, dörrar, köks- och garderobsinredningar, monteringsfärdiga trähus samt lådbräder",
+        "contact": {
+            "phone": [
+                "Kalmar l."
+            ]
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "1": {
+        "name": "Löfving—MaacJc",
+        "business": "Sågverk och Träförädling",
+        "products": "Tillverkar sovrums- och enrumsmöbler, stav till silltunnor, sågade trävaror",
+        "location": "Tibro, Skarab. l.",
+        "contact": {
+            "phone": [
+                "115"
+            ],
+            "postgiro": "21349"
+        },
+        "financials": {
+            "capital": "Okänt",
+            "employees": {
+                "Arb.-antal": 16
+            },
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": "Okänt"
+        },
+        "foundation_year": 1894,
+        "board": [
+            {
+                "name": "dir. Georg Sjödin",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Gust. Sjödin",
+                "role": "Okänt"
+            },
+            {
+                "name": "dir. Karl Sjödin",
+                "role": "Okänt"
+            }
+        ],
+        "owners": [
+            "fabr. Aug. Löfving",
+            "fabr. Folke Löfving"
+        ],
+        "director": "Karl Sjödin",
+        "coordinates": {
+            "Latitude": 58.424323,
+            "Longitude": 14.1616418
+        }
+    },
+    "2": {
+        "name": "Lörstrands Sågverks AB.",
+        "business": "Sågverk och Träförädling",
+        "products": "Tillverkar stav till silltunnor, sågade trävaror",
+        "location": "Lörstrand, Gävleb. l.",
+        "contact": {
+            "office": "Eric Jonsson"
+        },
+        "financials": {
+            "capital": "51,000 kr",
+            "employees": {
+                "Antal industriarb.": 20
+            },
+            "annual_turnover": "Okänt",
+            "annual_production_value": "Okänt"
+        },
+        "foundation_year": 1918,
+        "coordinates": {
+            "Latitude": 61.6577175,
+            "Longitude": 16.1662353
+        }
+    },
+    "3": {
+        "name": "Ernst Löwe & Co., Handels- & Fabriks AB.",
+        "business": "Sängklädersfabrik och Engroshandel med Manufakturvaror",
+        "products": "Tillverkar madrasser, kuddar, täcken, sovsäckar, stoppade möbler, vadd, trassel, fjäder och dun",
+        "location": "Göteborg",
+        "contact": {
+            "office": "Stallmästareg. 5",
+            "phone": [
+                "159505-06"
+            ],
+            "postgiro": "40825"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 50
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "Okänt"
+        },
+        "foundation_year": 1928,
+        "current_name_year": 1931,
+        "board": [
+            {
+                "name": "Ernst Löwe",
+                "role": "Okänt"
+            },
+            {
+                "name": "Gösta Kruse",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        }
+    },
+    "4": {
+        "name": "Lövträförädling",
+        "business": "Sågverk och Tunnsnickerier",
+        "products": "Tillverkar ek- och bokfat, sågade ämnen av lövträ, blocksågad ek, träkol m.m.",
+        "location": "Näsum, Skäralid, Ljungbyholm, och Skottorp",
+        "contact": {
+            "factory_office": "Ernst Nilsson",
+            "factory_phone": "Okänt"
+        },
+        "financials": {
+            "capital": "160,000 kr",
+            "employees": {
+                "Antal industriarb.": 155
+            },
+            "annual_turnover": "3,500,000 kr",
+            "annual_production_value": "Okänt"
+        },
+        "foundation_year": 1906,
+        "corporation_year": 1920,
+        "board": [
+            {
+                "name": "disp. Albert Nilsson",
+                "role": "Okänt"
+            },
+            {
+                "name": "disp. Ernst Nilsson",
+                "role": "Okänt"
+            },
+            {
+                "name": "disp. Gunnar Nilsson",
+                "role": "Okänt"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.4471222,
+            "Longitude": 12.9615445
+        }
+    },
+    "5": {
+        "name": "Maack & Wennberg AB.",
+        "business": "Skofabrik",
+        "products": "Tillverkar arbets- och sportlågskor, rem- och snörsandaler, tennisskor samt skinntofflor",
+        "location": "Sölvesborg",
+        "contact": {
+            "phone": "10163",
+            "postgiro": "12959"
+        },
+        "financials": {
+            "capital": "16,000 kr",
+            "employees": {
+                "Antal industriarb.": 19
+            },
+            "annual_turnover": "260,000 kr",
+            "annual_production_value": "Okänt"
+        },
+        "foundation_year": 1935,
+        "corporation_year": 1946,
+        "owners": [
+            "fabr. Levi Maack",
+            "fabr. Elof Wennberg"
+        ],
+        "manager": "Okänt",
+        "coordinates": {
+            "Latitude": 56.0537433,
+            "Longitude": 14.5796878
+        }
+    }
+}

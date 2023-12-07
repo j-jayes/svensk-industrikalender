@@ -1,0 +1,194 @@
+{
+    "1": {
+        "name": "AB. Carl Wikström",
+        "location": "Göteborg",
+        "business": "Mössfabrik",
+        "contact": {
+            "office": "Wallg. 38",
+            "phone": [
+                "111275",
+                "130125",
+                "138275"
+            ],
+            "postgiro": "12140",
+            "telegraph": "Carl-wik, Göteborg"
+        },
+        "financials": {
+            "capital": "24,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "foundation_year": 1908,
+            "corporation_year": 1936
+        },
+        "board": [
+            {
+                "name": "Nils Göransson",
+                "role": "dir."
+            },
+            {
+                "name": "Rudolf Köhler",
+                "role": "dir."
+            },
+            {
+                "name": "fröken A. Pehrson",
+                "role": "Kontorschef"
+            }
+        ],
+        "owners": [
+            "Erik Nord"
+        ]
+    },
+    "2": {
+        "name": "Hj. Wikström",
+        "location": "Stockholm",
+        "business": "Möbelfabrik",
+        "contact": {
+            "office": "Banérg. 25",
+            "phone": "614825"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 4
+            },
+            "foundation_year": 1902
+        },
+        "owners": [
+            "Hjalmar Wikström"
+        ]
+    },
+    "3": {
+        "name": "Vimmerby Bryggeri",
+        "location": "Vimmerby",
+        "description": "Se AB. Nya Centralbryggeriet, Linköping"
+    },
+    "4": {
+        "name": "AB. Vimmerby Byggnadssnickerier",
+        "location": "Vimmerby",
+        "business": "Tillverkar byggnadssnickerier",
+        "contact": {
+            "phone": "291",
+            "postgiro": "132070",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "320130"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "208,800 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1935,
+        "director": "Tore Isberg"
+    },
+    "5": {
+        "name": "Vimmerby Läderfabriks AB.",
+        "location": "Vimmerby",
+        "business": "Tillverkar kromovanläder, kombinationstärdat ovanläder, plattläder och toffelläder",
+        "contact": {
+            "telegraph": "Läder fabriken, Vimmerby",
+            "phone": "172",
+            "postgiro": "70200"
+        },
+        "financials": {
+            "capital": "70,500 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1881
+    },
+    "6": {
+        "name": "AB. Vimmerby Träförädingsfabrik",
+        "location": "Vimmerby",
+        "business": "Tillverkar byggnadssnickerier, hyvlade trävaror samt listverk",
+        "contact": {
+            "phone": "73"
+        },
+        "financials": {
+            "capital": "225,200 kr",
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_production_value": "325,000 kr"
+        },
+        "foundation_year": 1892
+    },
+    "7": {
+        "name": "AB. Th. Winborg & Co.",
+        "location": "Stockholm",
+        "business": "Kem-teknisk fabrik",
+        "contact": {
+            "postaddr": "Stockholm 11",
+            "telegraph": "Winborgs, Stockholm",
+            "phone": "»Win-borgs Fabriker»",
+            "postgiro": "870"
+        },
+        "financials": {
+            "capital": "2,100,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_production_value": "7,000,000 kr"
+        },
+        "foundation_year": 1861,
+        "board": [
+            {
+                "name": "Boris Meyerson",
+                "role": "dir."
+            },
+            {
+                "name": "Gunnar Meyerson",
+                "role": "ing."
+            }
+        ],
+        "owners": [
+            "B. Meyerson",
+            "Gunnar Meyerson"
+        ]
+    },
+    "8": {
+        "name": "AB. P. Winckler & Comp.",
+        "location": "Malmö",
+        "business": "Snickeri- och möbelfabrik",
+        "contact": {
+            "office": "Norreg. 4",
+            "phone": "22390",
+            "postgiro": "245623"
+        },
+        "financials": {
+            "capital": "18,000 kr",
+            "employees": {
+                "industriarb": 7
+            },
+            "annual_production_value": "125,000 kr"
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "Einar Andersson",
+                "role": "snickarmäst."
+            },
+            {
+                "name": "Nils Larsson",
+                "role": "snickare"
+            },
+            {
+                "name": "Tage Nordqvist",
+                "role": "verkm."
+            }
+        ]
+    },
+    "9": {
+        "name": "L. J. Wingqvist, Fritsla Mekaniska Väfveri & Spinnerier",
+        "location": "Fritsla",
+        "business": "Väveri, färgeri, blekeri och appreturverk, bomulls- och ullspinnerier",
+        "description": "i Fritsla (Älvsb. l.)"
+    }
+}

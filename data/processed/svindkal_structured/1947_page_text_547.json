@@ -1,0 +1,178 @@
+{
+    "1": {
+        "name": "Norrtelje—Nya",
+        "location": "Norrtälje",
+        "business": "stålgjutgods, syrafast gjutgods, tack-järnsgjutgods, ugnsdetaljer till gengasaggregat m. m. Specialitet: Eldhärdigt gjutgods.",
+        "contact": {
+            "phone": [
+                "Norrtelje Gjuteri"
+            ],
+            "postgiro": "88873"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "1,300,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1864,
+        "owners": [
+            "fabr. Eddie Greisz",
+            "fabr. Harry Greisz",
+            "fabr. Conny Greisz"
+        ]
+    },
+    "2": {
+        "name": "Norrtelje Ångbryggeri AB.",
+        "location": "Norrtälje",
+        "business": "Bryggeri och läskedrycksfabrik. Tillverkar malt- och läskedrycker.",
+        "contact": {
+            "phone": [
+                "Bryggeribolaget"
+            ],
+            "postgiro": "96880"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1890,
+        "owners": [
+            "AB. Stockholms Bryggerier"
+        ]
+    },
+    "3": {
+        "name": "AB. Norshro Sågverksegare",
+        "location": "Leksand",
+        "business": "Sågverk, hyvleri och snickerifabrik. Tillverkar sågade och hyvlade trävaror, dörrar och fönster samt byggnadssnickerier.",
+        "contact": {
+            "phone": "36",
+            "postgiro": "5284"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "3,500,000 kr"
+        },
+        "foundation_year": 1873,
+        "board": {
+            "name": "J. Melander",
+            "role": "Skogsförvalt."
+        }
+    },
+    "4": {
+        "name": "AB. P. A. Norstedt & Söner",
+        "location": "Stockholm",
+        "business": "Boktryckeri, stilgjuteri och bokförlag. Utför bok- och tidningstryck samt stereotyper; tillverkar stil och materiel för boktryck. Bolaget driver även handelsrörelse med skolmateriel och skolfilm.",
+        "contact": {
+            "phone": [
+                "Norstedts Söner"
+            ],
+            "postgiro": "93"
+        },
+        "financials": {
+            "capital": "9,600,000 kr",
+            "employees": {
+                "industriarb": 390
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1879,
+        "board": {
+            "name": "Knut Östberg",
+            "role": "dir."
+        }
+    },
+    "5": {
+        "name": "P. A. Norstedt & Söners Bokbinderi AB.",
+        "location": "Stockholm",
+        "business": "Utför parti- och privatbindning, kart-och planschuppfodring m. m. samt tillverkar lyxband och hyllningsadresser.",
+        "contact": {
+            "phone": [
+                "Norstedts Söner"
+            ],
+            "postgiro": "1678"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": "N/A"
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1933
+    },
+    "6": {
+        "name": "Norsälvens Sågverks AB.",
+        "location": "Karlstad",
+        "business": "Sågverk, hyvleri och impregnerings-verk. Tillverkar sågade och hyvlade trävaror samt impregnerade kraftlednings-stolpar, slipers m. m.",
+        "contact": {
+            "phone": [
+                "16256",
+                "16246",
+                "13946"
+            ],
+            "telegraph": "Norsträ",
+            "postgiro": "262877"
+        },
+        "financials": {
+            "capital": "450,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1941
+    },
+    "7": {
+        "name": "AB. Notnäs Ångsåg",
+        "location": "Torsby",
+        "business": "Sågverk med hyvleri i Torsby (Värml. 1.). Tillverkar sågade och hyvlade trävaror.",
+        "contact": {
+            "phone": [
+                "34",
+                "35"
+            ],
+            "postgiro": "11930"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1936
+    },
+    "8": {
+        "name": "Nya Asfalt AB.",
+        "location": "Stockholm",
+        "business": "Entreprenadfirma för husbyggnader, väg-, vatten- och brobyggnader, isoleringar och asfaltbeläggningar. Tillverkar asfaltprodukter och betongrör samt trappor och plattor av cement och cementmosaik.",
+        "contact": {
+            "phone": [
+                "Asfaltbolaget"
+            ],
+            "postgiro": "1802"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": "15,000,000 kr"
+        },
+        "foundation_year": 1875
+    }
+}

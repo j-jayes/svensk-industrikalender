@@ -1,0 +1,192 @@
+{
+    "1": {
+        "name": "Tanneforsm öbler—Tegeborg",
+        "location": "Tången, Stockholm",
+        "business": "sängöverkast, dukar, spetsar, stores m. m. vid väveri",
+        "contact": {
+            "office": "Tången, Stockholm",
+            "phone": [
+                "252525"
+            ],
+            "postgiro": "53052"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 66
+            }
+        },
+        "foundation_year": 1897,
+        "original_name": "AB. Skandinaviska Trådgardinfabriken",
+        "board": [
+            {
+                "name": "Erik A. Gillberg",
+                "role": "ordf."
+            },
+            {
+                "name": "Nils Berglöf",
+                "role": "dir."
+            },
+            {
+                "name": "Wilhelm Moberg",
+                "role": "adv."
+            }
+        ],
+        "director": "Nils Berglöf",
+        "managing_director": "Verner Lindsjö"
+    },
+    "2": {
+        "name": "AB. Tanneforsmöbler, Tannefors",
+        "location": "Tannefors (Östergötl. l.)",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "Linköping 21297"
+            ],
+            "postgiro": "71504"
+        },
+        "financials": {
+            "capital": "41,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1928,
+        "original_name": "AB. Edfeldt & Karlssons Möbelfabrik",
+        "current_name_year": 1945,
+        "board": [
+            {
+                "name": "Anders Edfeldt",
+                "role": "fabr."
+            },
+            {
+                "name": "Bertil Edfeldt",
+                "role": "disp."
+            }
+        ],
+        "director": "Anders Edfeldt"
+    },
+    "3": {
+        "name": "AB. Tannin, Västervik",
+        "location": "Tannin, Västervik",
+        "business": "Garvämnesfabrik, sågverk och kem. tekn. fabrik",
+        "contact": {
+            "phone": "Tannin, Västervik",
+            "postgiro": "8627"
+        },
+        "financials": {
+            "capital": "625,000 kr",
+            "employees": {
+                "industriarb": 205
+            },
+            "annual_turnover": "4,900,000 kr"
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Mauritz Carlson",
+                "role": "ordf."
+            },
+            {
+                "name": "Gösta Albin",
+                "role": "dir."
+            },
+            {
+                "name": "Claes Lindskog",
+                "role": "bankdir."
+            }
+        ],
+        "director": "Gösta Albin"
+    },
+    "4": {
+        "name": "Teckomatorps Skofabrik AB., Teckomatorp",
+        "location": "Teckomatorp (Malmöh. l.)",
+        "business": "Tillverkar damskodon",
+        "contact": {
+            "phone": "75",
+            "postgiro": "72687"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1941,
+        "director": "Adrian Nilsson"
+    },
+    "5": {
+        "name": "Tefako AB., Stockholm",
+        "business": "Damkonfektionsfabrik",
+        "contact": {
+            "office": "Regeringsg. 45",
+            "phone": [
+                "103319"
+            ],
+            "postgiro": "157104"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb": 37
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1939,
+        "director": "E. Lepiorz"
+    },
+    "6": {
+        "name": "AB. TefCO, Göteborg",
+        "location": "Tingstad, Göteborg",
+        "business": "Pappersförädlingsfabrik",
+        "contact": {
+            "office": "Tingstad, Göteborg",
+            "phone": [
+                "224804",
+                "221063"
+            ],
+            "postgiro": "40432",
+            "representatives": [
+                {
+                    "name": "Johannsen & Svensson",
+                    "location": "Stockholm",
+                    "phone": "339800"
+                },
+                {
+                    "name": "Sixten Torne",
+                    "location": "Malmö",
+                    "phone": "15523"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1934,
+        "director": "Carl Svensson",
+        "managing_director": "C.-Å. Willman"
+    },
+    "7": {
+        "name": "Tegeborgs Tegelbruk, Knislinge",
+        "location": "Knislinge (Kristianst. l.)",
+        "business": "Tillverkar rött fasadtegel, lättegel, brunnstegel och bjälklagstegel, mellanväggsplattor samt dräneringsrör",
+        "contact": {
+            "phone": "180"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_production_value": "1 milj. st. tegelvaror"
+        },
+        "foundation_year": 1912,
+        "owner": "fabr. Ture Persson"
+    }
+}

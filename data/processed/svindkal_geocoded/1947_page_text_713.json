@@ -1,0 +1,257 @@
+{
+    "1": {
+        "name": "Texo AB. Maskinfabrik",
+        "location": "Norrköping",
+        "business": "Tillverkar maskiner för textilindustrien såsom vävstolar och vävskedar, appretur- och beredningsmaskiner, bomflänsar för vävbommar, bomställningar, lameller för väverier, skaftramar samt spolmaskiner. Bolaget driver även engroshandel med textilförnödenheter.",
+        "contact": {
+            "telegraph": "Texo, Norrköping",
+            "phone": [
+                "Vävstolsfabriken"
+            ],
+            "postgiro": "271150"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1940,
+        "director": "Axel Sundgren",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    },
+    "2": {
+        "name": "Textil AB. Nilsson & Co.",
+        "location": "Smålandsstenar",
+        "business": "Herrkonfektionsfabrik i Smålandsstenar (Jönköp. l.). Tillverkar stärkskjortor, arbetsskjortor och blåkläder.",
+        "contact": {
+            "phone": [
+                "30",
+                "90"
+            ],
+            "postgiro": "22593"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 115,
+                "hemarbetare": 150
+            },
+            "annual_turnover": "1,800,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "Fritz Nilsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Artur Anderson",
+                "role": "disp."
+            },
+            {
+                "name": "Johannes Nilsson",
+                "role": "souschef"
+            }
+        ],
+        "director": "Fritz Nilsson",
+        "manager": "Ragnar Peterson",
+        "coordinates": {
+            "Latitude": 57.1597167,
+            "Longitude": 13.403521
+        }
+    },
+    "3": {
+        "name": "AB. Textilfabriken Merkur",
+        "location": "Borås",
+        "business": "Trikåfabrik. Tillverkar trikåvaror och strumpor.",
+        "contact": {
+            "telegraph": "Merkur, Borås",
+            "phone": "17130",
+            "postgiro": "34652"
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "4,000,000 kr"
+        },
+        "foundation_year": 1922,
+        "board": [
+            {
+                "name": "Olof Nilsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Hadar Halén",
+                "role": "försäljn.-chef"
+            },
+            {
+                "name": "Nils Halén",
+                "role": "kamrer"
+            },
+            {
+                "name": "fru A.-G. Nilsson",
+                "role": ""
+            }
+        ],
+        "director": "Olof Nilsson",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        }
+    },
+    "4": {
+        "name": "Textilindustri AB. Stiab, Svenska",
+        "location": "Ulricehamn",
+        "business": "Se Svenska Textilindustri AB. Stiab, Ulricehamn.",
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        }
+    },
+    "5": {
+        "name": "Textilindustrien Gust. Carlsson",
+        "location": "Ulricehamn",
+        "business": "Trikåfabrik i Ulricehamn (Älvsb. l.). Tillverkar stickade yllevaror såsom damjumpers, bluskoftor samt herr- och dam-cardigan.",
+        "contact": {
+            "phone": "434",
+            "postgiro": "82443"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 9
+            }
+        },
+        "owner": "fabr. Gustaf Carlsson",
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        }
+    },
+    "6": {
+        "name": "AB. Textilkompaniet",
+        "location": "Bollebygd",
+        "business": "Herrkonfektionsfabrik i Bollebygd (Älvsb. l.). Tillverkar arbets- och sportkläder samt skjortor. Varumärke: »T. K.».",
+        "contact": {
+            "telegraph": "Textilkompaniet, Bollebygd",
+            "phone": "20150",
+            "postgiro": "14947"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 148
+            },
+            "annual_turnover": "4,100,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "prof. Gunnar Olin",
+                "role": "ordf."
+            },
+            {
+                "name": "Elof Areqvist",
+                "role": "försäljn.-chef"
+            },
+            {
+                "name": "Stig Arvidson",
+                "role": "dir."
+            },
+            {
+                "name": "Patrick Lithander",
+                "role": "dir."
+            },
+            {
+                "name": "Uno Murray",
+                "role": "dir."
+            }
+        ],
+        "director": "P. Lithander",
+        "sales_manager": "Elof Areqvist",
+        "coordinates": {
+            "Latitude": 57.66896910000001,
+            "Longitude": 12.5701434
+        }
+    },
+    "7": {
+        "name": "AB. Textilkonst",
+        "location": "Malmö",
+        "business": "Tillverkar band och snörmakeriartiklar samt spetsar.",
+        "contact": {
+            "office": "Norbergsgatan 7",
+            "telegraph": "Textilkonst, Malmö",
+            "phone": "71210",
+            "postgiro": "39273"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "fru Gertrud Ehnimb",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Gerlach Richter",
+                "role": ""
+            }
+        ],
+        "director": "Erik Ehnimb",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        }
+    },
+    "8": {
+        "name": "AB. Textilmaskiner",
+        "location": "Norrköping",
+        "business": "Mek. verkstad. Tillverkar maskiner och utensilier m. m. för textilindustrien.",
+        "contact": {
+            "office": "Norrköping 5",
+            "telegraph": "Textilmaskiner, Norrköping",
+            "phone": "29045",
+            "postgiro": "29410"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1918,
+        "predecessor": "Firma G. Welander & Kellner",
+        "board": [
+            {
+                "name": "ing. Robert Dott",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Birger Dott",
+                "role": ""
+            },
+            {
+                "name": "fru Siri Dott",
+                "role": ""
+            }
+        ],
+        "director": "Robert Dott",
+        "manager": "Gust. Edoff",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        }
+    }
+}
