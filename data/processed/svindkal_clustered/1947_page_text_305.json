@@ -1,0 +1,201 @@
+{
+    "1": {
+        "name": "Fröbergs Fabriker",
+        "location": "Borlänge",
+        "business": "Svarveri och snickerifabrik",
+        "products": "Tillverkar golv- och bordslampor, ljusstakar, tamburhyllor, murarverktyg, verktygsskaft, rullar och signalkorkar till angeldon samt träslöjdsaker såsom skålar, fat, ordförandeklubbor m.m.",
+        "contact": {
+            "office": "Fröbergs Fabriker, Borlänge",
+            "phone": [
+                "10155"
+            ],
+            "postgiro": "180935"
+        },
+        "financials": {
+            "capital": "350,000 kr",
+            "employees": {
+                "industri-sarb": 30
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1907,
+        "current_name_year": 1944,
+        "owners": [
+            "fabr. Nils Fröberg"
+        ],
+        "coordinates": {
+            "Latitude": 60.484304,
+            "Longitude": 15.433969
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. John Fröberg",
+        "location": "Finspång",
+        "business": "Accidenstryckeri, stämpelfabrik och pappersförädlingsindustri",
+        "products": "Tillverkar trycksaker, stämplar, gummiklichéer för anilin- och boktryck, gummerat papper, förseglingsremsor, fönsterremsor, vaxpapper, och t&gt;rödomslag, fuktapparater samt skylt-montrar (varumärken: »Visir» o. »Dixi»)",
+        "contact": {
+            "office": "John Fröberg, Finspång",
+            "phone": [
+                "John Fröberg"
+            ],
+            "postgiro": "15432"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {},
+            "annual_production_value": "1,300,000 kr"
+        },
+        "foundation_year": 1879,
+        "corporation_year": 1926,
+        "board": [
+            {
+                "name": "bankdir. S. Mårtenson",
+                "role": "ordf."
+            },
+            {
+                "name": "f. d. riksdagsm. Karl Andersson",
+                "role": ""
+            },
+            {
+                "name": "disp. Rolf Fröberg",
+                "role": ""
+            },
+            {
+                "name": "dir. Stig Fröberg",
+                "role": ""
+            }
+        ],
+        "director": "Stig Fröberg",
+        "owners": [],
+        "managing_director": "Stig Fröberg",
+        "sales_manager": "Rolf Fröberg",
+        "coordinates": {
+            "Latitude": 58.7074884,
+            "Longitude": 15.773595
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Frölings Paraplyindustri",
+        "location": "Norrköping",
+        "business": "Tillverkar damparaplyer",
+        "contact": {
+            "office": "V. S:t Persg. 83",
+            "phone": [
+                "1993"
+            ],
+            "postgiro": "14304"
+        },
+        "financials": {},
+        "foundation_year": 1942,
+        "owners": [
+            "köpm. Bernt Fröling"
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Frövifors Bruks AB.",
+        "location": "Frövi",
+        "business": "Pappersbruk med sulfatfabrik",
+        "products": "Tillverkar kraft-, säck-och spinnpapper samt sulfatcellulosa",
+        "contact": {
+            "telegraph": "Frövifors, Örebro",
+            "phone": [
+                "Frövi 1",
+                "65",
+                "185"
+            ],
+            "postgiro": "80393"
+        },
+        "financials": {
+            "capital": "2,500,000 kr",
+            "employees": {
+                "industriarb": 180
+            },
+            "annual_turnover": "12,000 ton papper, 30,000 ton sulfatcellulosa"
+        },
+        "foundation_year": 1902,
+        "current_name_year": "",
+        "owners": [
+            "Örebro Pappersbruks AB"
+        ],
+        "board": [
+            {
+                "name": "dir. Knut Östberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Gunnar Björkman",
+                "role": ""
+            },
+            {
+                "name": "f. d. hovrättsrådet Johan Nordenfalk",
+                "role": ""
+            },
+            {
+                "name": "disp. Gösta Reuterswärd",
+                "role": ""
+            },
+            {
+                "name": "generalkonsul Ragnar Söderberg",
+                "role": ""
+            }
+        ],
+        "director": "Gunnar Björkman",
+        "coordinates": {
+            "Latitude": 59.46457889999999,
+            "Longitude": 15.3648866
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "AB. Fundament",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma",
+        "contact": {
+            "office": "Stureg. 7",
+            "telegraph": "Fundament, Stockholm",
+            "phone": [
+                "234550"
+            ],
+            "postgiro": "4075"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "annual_production_value": "3,500,000 kr"
+        },
+        "foundation_year": 1923,
+        "owners": [],
+        "board": [
+            {
+                "name": "viceamiral Claes O. Lindström",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Anders Åhlén",
+                "role": ""
+            },
+            {
+                "name": "ing. Carl Semler",
+                "role": ""
+            },
+            {
+                "name": "civiling. Georg v. Zweigbergk",
+                "role": ""
+            }
+        ],
+        "director": "Georg v. Zweigbergk",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    }
+}

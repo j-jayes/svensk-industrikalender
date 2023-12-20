@@ -1,0 +1,249 @@
+{
+    "1": {
+        "name": "AB. Rantens Strå- & Filthattfabrik",
+        "location": "Falköping",
+        "business": "Tillverkning av hattar och filtar",
+        "contact": {
+            "office": "Rantenshatt, Falköping",
+            "phone": [
+                "156",
+                "556"
+            ],
+            "postgiro": "57815",
+            "factory_office": "Falköping",
+            "factory_phone": "55"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "Industriarb": 80
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1917,
+        "current_name_year": 1935,
+        "board": [
+            {
+                "name": "Erik Thorssell",
+                "role": "ordf."
+            },
+            {
+                "name": "Sten A. Andersson",
+                "role": "disp."
+            },
+            {
+                "name": "R. Karlberg",
+                "role": "köpm."
+            },
+            {
+                "name": "Linus Lindberg",
+                "role": "adv."
+            }
+        ],
+        "manager": "Erik Thorssell",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "AB. Rantens Saft- & Vattenfabrik",
+        "location": "Falköping",
+        "business": "Tillverkning av läskedrycker, mineralvatten, saft och sylt",
+        "contact": {
+            "phone": [
+                "55",
+                "56"
+            ],
+            "postgiro": "27,000 kr"
+        },
+        "financials": {
+            "capital": "27,000 kr",
+            "employees": {
+                "Arb.-antal": 8
+            },
+            "annual_turnover": "45,000 kr"
+        },
+        "foundation_year": 1904,
+        "corporation_year": 1937,
+        "manager": "fröken Signe Holmen",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Rantens Snickerifabrik",
+        "location": "Falköping",
+        "business": "Tillverkning av byggnadssnickerier och inredningar samt dörrar",
+        "contact": {
+            "phone": [
+                "55",
+                "56"
+            ],
+            "postgiro": "10066"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "Arb.-antal": 15
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1885,
+        "corporation_year": 1911,
+        "manager": "Bengt Karmert",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Rantens Trikåindustri",
+        "location": "Falköping",
+        "business": "Tillverkning av dam- och herrunderkläder",
+        "contact": {
+            "phone": "739",
+            "postgiro": "133154"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 10
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "foundation_year": 1935,
+        "manager": "fabr. Fredrik Allers-meier",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Rantzows Gymnastikredskap",
+        "location": "Hjärnarp",
+        "business": "Tillverkning av gymnastikredskap",
+        "contact": {
+            "phone": [
+                "47",
+                "147"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 20
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1925,
+        "manager": "fabr. Fritiof Rantzow",
+        "coordinates": {
+            "Latitude": 56.3231508,
+            "Longitude": 12.908397
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "Ranå Tegelbruk",
+        "location": "Ransäter",
+        "business": "Tillverkning av murtegel",
+        "contact": {
+            "phone": "45",
+            "postgiro": "274169"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 13
+            },
+            "annual_production_value": "1,600,000 st. murtegel"
+        },
+        "foundation_year": 1906,
+        "current_name_year": 1937,
+        "owner": "bruksäg. Gottfrid Sand walls sterbhus",
+        "manager": "tegelmäst. Lars O. Jönsson",
+        "coordinates": {
+            "Latitude": 59.76996389999999,
+            "Longitude": 13.462544
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "Albin Rapp, Konfektionsfabrik",
+        "location": "Örebro",
+        "business": "Tillverkning av kostymer, överrockar, poplinrockar, trenchcoats, damkappor och -dräkter",
+        "contact": {
+            "office": "Örebro"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 550
+            },
+            "foundation_year": 1921,
+            "manager": "fabr. Albin Rapp"
+        },
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "AB. Rasco",
+        "location": "Malmö",
+        "business": "Pappersförädlingsfabrik",
+        "contact": {
+            "office": "Hjulhamnsg. 4",
+            "postgiro": "14162",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "Friggag. 4"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "Drottningg. 30"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 50
+            }
+        },
+        "foundation_year": 1927,
+        "current_name_year": 1938,
+        "manager": "Carl Arnesen",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "9": {
+        "name": "Raus Stenkärlsfabrik",
+        "location": "Råns",
+        "business": "Tillverkning av saltglaserade stenkärl",
+        "contact": {
+            "phone": "Hälsingborg 90130"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 7
+            },
+            "annual_turnover": "46,000 kr"
+        },
+        "foundation_year": 1911,
+        "owner": "L. A. Johnssons sterbhus",
+        "coordinates": {
+            "Latitude": 60.90000000000001,
+            "Longitude": 17.066667
+        },
+        "cluster": 1
+    }
+}

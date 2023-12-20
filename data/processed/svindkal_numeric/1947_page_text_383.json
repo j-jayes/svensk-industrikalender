@@ -1,0 +1,221 @@
+{
+    "1": {
+        "name": "Höganäskeramik, Holm & Bjurestig",
+        "location": "Höganäs",
+        "business": "Tillverkar eldfast hushållsgods samt prydnadssaker av keramik",
+        "contact": {
+            "phone": [
+                "401"
+            ],
+            "postgiro": "320953"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 45
+            },
+            "annual_turnover": 40000,
+            "annual_production_value": 40000
+        },
+        "foundation_year": 1930,
+        "owners": [
+            "herr Sture Holm",
+            "herr Äke Bjurestig"
+        ],
+        "coordinates": {
+            "Latitude": 56.2006388,
+            "Longitude": 12.5553288
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Högbergs Kemisk-Tekniska Industri",
+        "location": "Stockholm",
+        "business": "Tillverkar förbandsartiklar, farmaceutiska preparat, klister m. m.",
+        "contact": {
+            "office": "Flemingg. 15",
+            "phone": [
+                "510962",
+                "533500"
+            ],
+            "postgiro": "Not provided"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 32
+            },
+            "annual_turnover": 825000
+        },
+        "foundation_year": 1938,
+        "owner": "disp. H. J. Johnen",
+        "board": [
+            "disp. H. J. Johnen (chef)",
+            "dr Bruno Lövenberg (chefer"
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Högberg & Hultners Snickerifabrik",
+        "location": "Mjölby",
+        "business": "Tillverkar fodral till grammofonlådor och -skåp, radiolådor och -skåp, symaskinsbord, urfoder samt kompletteringsmöbler.",
+        "contact": {
+            "telegraph": "Hultner, Mjölby",
+            "phone": [
+                "49",
+                "879"
+            ],
+            "postgiro": "11686"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "Antal industriarb.": 150
+            }
+        },
+        "foundation_year": 1901,
+        "corporation_year": 1932,
+        "owners": [
+            "Einar Wissing",
+            "Axel Hultner",
+            "Gösta Hultner"
+        ],
+        "director": "Axel Hultner",
+        "manager": "Gillis Wissing",
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Högboholms Mek. Verkstad",
+        "location": "Torpsbruk",
+        "business": "Tillverkar bänksvarvar, pressade massartiklar, chuckar samt dejsar och stål för toftmaskiner vid verkstad i Torpsbruk (Kronob. l.).",
+        "contact": {
+            "phone": [
+                "7"
+            ],
+            "postgiro": "274846"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_production_value": 55000
+        },
+        "foundation_year": 1941,
+        "owner": "fabr. Yngve Cornfors",
+        "managing_director": "Yngve Cornfors",
+        "coordinates": {
+            "Latitude": 57.0345939,
+            "Longitude": 14.5746558
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Högfors AB., Högforsbruk",
+        "business": "Järnmalmsgruvor och sintringsverk, masugn samt mek. verkstad och gjuteri vid Högfors bruk (Örebro l.). Tillverkar tackjärn och sinter samt kupolugnsgjutgods.",
+        "contact": {
+            "telegraph": "Högforsab, Kopparberg",
+            "phone": [
+                "Högforsbruk 11",
+                "Högforsbruk 23"
+            ],
+            "postgiro": "83230"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "Antal industriarb.": 100
+            },
+            "annual_turnover": 2500000
+        },
+        "corporation_year": 1897,
+        "board": [
+            "disp. Karl Hedin",
+            "Lars Hedin",
+            "Olof Hedin",
+            "adv. Helmer Lindh"
+        ],
+        "cluster": 6
+    },
+    "6": {
+        "name": "Högfors Cjuteri & Mek. Verkstad",
+        "location": "Högforsbruk",
+        "business": "See AB. Walldén-Verken, Köping",
+        "contact": {
+            "telegraph": "Not provided",
+            "phone": [
+                "Not provided"
+            ]
+        },
+        "original_name": "AB. Walldén-Verken, Köping",
+        "coordinates": {
+            "Latitude": 59.98853380000001,
+            "Longitude": 15.019391
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Högfors och Persbo AB.",
+        "location": "Stockholm",
+        "business": "Masugnar och gjuteri vid Högfors (Västmanl. l.). Tillverkar tackjärn och gjutgods. Bolaget idkar jämväl jordbruk och skogshantering.",
+        "contact": {
+            "office": "Stureplan 3",
+            "phone": [
+                "Not provided"
+            ],
+            "postgiro": "Not provided"
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "Antal industriarb.": 200
+            }
+        },
+        "board": [
+            "generalkonsul Axel Ax:son Johnson",
+            "Vilhelm Björkman",
+            "Filip Eriksson",
+            "Walfrid Eriksson",
+            "Axel Ax:son Johnson J:or"
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Högfors Träsliperi",
+        "location": "Häggenås",
+        "business": "Träsliperi vid Högfors, Häggenås (Jämtl. l.). Tillverkar torr mek. trämassa.",
+        "contact": {
+            "phone": [
+                "Häggenås 6",
+                "Häggenås 52",
+                "Häggenås 73"
+            ],
+            "postgiro": "Not provided"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "Antal industriarb.": 45
+            }
+        },
+        "board": [
+            "dir. G. Bertil örn",
+            "Tage Fleetwood",
+            "Erik Hedborg"
+        ],
+        "coordinates": {
+            "Latitude": 63.3934041,
+            "Longitude": 14.9062139
+        },
+        "cluster": 7
+    }
+}

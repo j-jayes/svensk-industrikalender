@@ -1,0 +1,249 @@
+{
+    "1": {
+        "name": "Gjuteri—Glimma",
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "adv. Sven Munck af Rosen-sehöld",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. J. E. Sande J:or",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Jean Silfving",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Jean Silfving",
+        "managing_director": "Sten Beite",
+        "sales_manager": "Ragnar Wi-sén",
+        "cluster": 4
+    },
+    "2": {
+        "name": "Gjuter i AB. Normalrör",
+        "location": "Eskilstuna",
+        "products": "Tillverkar gjutna raka normalrör vid gjuteri i Eskilstuna. Varumärke: GN.",
+        "contact": {
+            "office": "Åkers styckebruk",
+            "phone": [
+                "Mariefred 55"
+            ],
+            "postgiro": "276907"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 180
+            },
+            "annual_turnover": "3,000,000 kr"
+        },
+        "foundation_year": 1944,
+        "predecessor": "AB. Åkers Styckebruk",
+        "board": [
+            {
+                "name": "bruksäg. Rutger v. Seth",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Claes Gejrot",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Gunnar Hult",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Rutger v. Seth",
+        "sales_manager": "Harry Eriksson",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Gjuterimaskiner, Halmstad",
+        "location": "Halmstad",
+        "products": "Tillverkar gjuterimaskiner och alla slags förnödenheter för gjuterier och modellverkstäder, värmeledningsspisar och värmeledningspannor, kokplattor, handpumpar, tackjärns- och metallgjutgods m. m. samt utför plåtarbeten och svetsning.",
+        "contact": {
+            "telegraph": "Stans, Halmstad",
+            "phone": "»Malcus»",
+            "postgiro": "77300"
+        },
+        "financials": {
+            "capital": "450,000 kr",
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_turnover": "1,550,000 kr"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "dir. Edw. Berger",
+                "role": "Styrelse"
+            },
+            {
+                "name": "ing. Johan G. Wendt",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Carl Magnus Berger",
+                "role": "Styrelse"
+            },
+            {
+                "name": "v. konsul A. O. Hill",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "disp. ing. Nils Svensson",
+        "manager": "Martin Ericson",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Glacéläderfabriken, Kävlinge",
+        "location": "Kävlinge",
+        "products": "Bereder får- och lammskinn för olika ändamål.",
+        "contact": {
+            "telegraph": "Glacéläder, Kävlinge",
+            "phone": "Glacéläder, Kävlinge",
+            "postgiro": "30818"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 275
+            },
+            "annual_turnover": "12,000,000 kr"
+        },
+        "foundation_year": 1898,
+        "current_name_year": 1929,
+        "board": [
+            {
+                "name": "konsul Edw. H. Thomée",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Frans Möller",
+                "role": "Styrelse"
+            },
+            {
+                "name": "amanuens Mogens Möller",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Verkst. dir.: Frans Möller",
+        "manager": "Albin Norrbring",
+        "coordinates": {
+            "Latitude": 55.7939999,
+            "Longitude": 13.1104293
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. Clas & Trä, Hovmantorp",
+        "location": "Hovmantorp",
+        "products": "Tillverkar speglar, piedestaler, kompletteringsmöbler, badrumsskåp, serveringsbrickor, bordsdekorationer i glas m. m.",
+        "contact": {
+            "telegraph": "Glasträ, Hovmantorp",
+            "phone": "Möbel AB. Gustaf Lundgren",
+            "postgiro": "275503"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1943,
+        "director": "Verkst. dir.: disp. Gösta Franzén",
+        "coordinates": {
+            "Latitude": 56.78451219999999,
+            "Longitude": 15.1448475
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "AB. E. T. Cleitsmann, Trelleborg",
+        "location": "Trelleborg",
+        "products": "Tillverkar svarta och kulörta tryckfärger, tryckfernissor, valsmassa, torkpreparat, grafiska hjälpmedel m. m.",
+        "contact": {
+            "phone": "1540",
+            "postgiro": "23066"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "f. d. borgm. G. Rosencrantz",
+                "role": "Styrelse"
+            },
+            {
+                "name": "övering. Hans Köhler",
+                "role": "Styrelse"
+            },
+            {
+                "name": "köpm. H. Maresch",
+                "role": "Styrelse"
+            }
+        ],
+        "manager": "övering.: Hans Köhler",
+        "coordinates": {
+            "Latitude": 55.3762427,
+            "Longitude": 13.1574231
+        },
+        "cluster": 5
+    },
+    "7": {
+        "name": "Clemminge Tegelbruk, John Glemming, Glemmingebro",
+        "location": "Glemmingebro",
+        "products": "Tillverkar murtegel och dräneringsrör vid tegelbruk i Glemmingebro.",
+        "contact": {
+            "phone": "10",
+            "postgiro": "72492"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "1,900,000 st. tegel var or"
+        },
+        "original_name": "Tegelbruket anlagt 1870, nuv. firma etabl. 1933",
+        "owners": "disp. John Glemming",
+        "manager": "Kamrer: A. E. Antonsson",
+        "coordinates": {
+            "Latitude": 55.4504116,
+            "Longitude": 14.0202651
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "Glimma Glasbruks AB., Glimåkra",
+        "location": "Glimåkra",
+        "products": "Tillverkar hushålls- och restaurantglas",
+        "coordinates": {
+            "Latitude": 56.3028124,
+            "Longitude": 14.1337053
+        },
+        "cluster": 1
+    }
+}

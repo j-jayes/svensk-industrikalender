@@ -1,0 +1,251 @@
+{
+    "1": {
+        "name": "Bröderna Lindqvist",
+        "location": "Säter",
+        "business": "Mekanisk verkstad",
+        "products": "Tillverkar sågverksmaskiner såsom cirkelsågverk, dubbla kantverk, kapsågar, spånfläktar samt slipmaskiner för klingor. Firman driver även maskinaffär.",
+        "contact": {
+            "office": "Undefined",
+            "phone": [
+                "210"
+            ],
+            "postgiro": "98159",
+            "head_office": "Undefined",
+            "telegraph": "Undefined",
+            "factory_office": "Undefined",
+            "factory_phone": "Undefined"
+        },
+        "financials": {
+            "capital": "Undefined",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": "Undefined"
+        },
+        "foundation_year": 1933,
+        "owners": [
+            "fabr. Nils Lindqvist",
+            "fabr. Olof Lindqvist",
+            "fabr. Pontus Lindqvist"
+        ],
+        "coordinates": {
+            "Latitude": 60.34665,
+            "Longitude": 15.7479
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB Bröderna Ljungdell",
+        "location": "Malmö",
+        "business": "Gjuteri och mekanisk verkstad",
+        "products": "Tillverkar järn- och aluminiumgjutgods, hattformar, smides- och plåtarbeten m.m.",
+        "contact": {
+            "office": "Fosievägen",
+            "phone": [
+                "22666"
+            ],
+            "postgiro": "38144",
+            "telegraph": "Ljungdells, Malmö",
+            "factory_phone": "Undefined"
+        },
+        "financials": {
+            "capital": 90900,
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": "Undefined"
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Hjalmar Larsson",
+                "role": "Disp."
+            }
+        ],
+        "owner": "Nils Neymark",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Bröderna Ljungquist",
+        "location": "Jönköping",
+        "business": "Bleckkärisfabrik",
+        "products": "Tillverkar hushållskärl i bleckplåt, aluminium och rostfritt, lackerade artiklar samt leksaker. Firman driver även engroshandel med främmande fabrikat inom branschen.",
+        "contact": {
+            "phone": [
+                "1314",
+                "1373",
+                "1399"
+            ],
+            "postgiro": "29000",
+            "factory_office": "Undefined",
+            "factory_phone": "Undefined"
+        },
+        "financials": {
+            "capital": "Undefined",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 650000,
+            "annual_production_value": "Undefined"
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "fabr. Josef Ljungquist",
+            "fabr. Nils Ljungquist"
+        ],
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB Bröderna Lönn",
+        "location": "Göteborg",
+        "business": "Tillverkar järnkonstruktioner, byggnads- och skeppssmiden samt grovplåtsarbeten",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Bröderna Magnusson",
+        "location": "Borås",
+        "business": "Damkonfektionsfabrik",
+        "products": "Tillverkar klänningar, blusar och kjolar samt städrockar m.m.",
+        "contact": {
+            "phone": [
+                "17495"
+            ],
+            "postgiro": "86809"
+        },
+        "financials": {
+            "capital": "Undefined",
+            "employees": "Undefined",
+            "annual_turnover": "Undefined",
+            "annual_production_value": "Undefined"
+        },
+        "foundation_year": 1934,
+        "owners": [
+            "köpm. Yngve Magnusson",
+            "köpm. Tage Magnusson"
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB Bröderna Magnusson Trä & Metallindustri",
+        "location": "Gnosjö",
+        "business": "Tillverkar skoblock, leksaker samt svartverksartiklar i trä och pressade artiklar i metall vid trä- och metallmanufakturverk i Gnosjö (Jönköp. l.).",
+        "contact": {
+            "phone": [
+                "65"
+            ],
+            "postgiro": "93309"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 13
+            },
+            "annual_turnover": 150000,
+            "annual_production_value": "Undefined"
+        },
+        "board": [
+            {
+                "name": "fabr. Oscar Magnusson",
+                "role": "ordf."
+            },
+            {
+                "name": "fabr. Anton Magnusson",
+                "role": "Undefined"
+            },
+            {
+                "name": "fabr. Einar Magnusson",
+                "role": "Undefined"
+            }
+        ],
+        "owner": "Oscar Magnusson",
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB Bröderna Malmqvists Möbelfabrik",
+        "location": "Malmbäck",
+        "business": "Undefined",
+        "coordinates": {
+            "Latitude": 57.5781694,
+            "Longitude": 14.4641901
+        },
+        "cluster": 4
+    },
+    "8": {
+        "name": "Bröderna Malmströms Metallvarufabrik",
+        "location": "Malmö",
+        "business": "Metallgjuteri och metallvarufabrik",
+        "products": "Tillverkar elektrisk belysningsarmatur, stålrörsmöbler, askurnor, massartiklar, järnvägstekniska armaturer och apparater samt lamphållare; utför metallpressning, metalltryckning, förnickling, förkromning, udylitisering, metallisering m.m.",
+        "contact": {
+            "office": "Porslinsg. 3",
+            "telegraph": "Metallmalmström, Malmö",
+            "phone": [
+                "26002-03"
+            ]
+        },
+        "financials": {
+            "capital": "Undefined",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "Undefined",
+            "annual_production_value": "Undefined"
+        },
+        "owner": "civiling. K. G. Lindesvärd",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "9": {
+        "name": "Bröderna Melinders Skofabrik",
+        "location": "Mjällom",
+        "business": "Tillverkar grövre skodon vid fabrik i Mjällom (Västernorrl. l.).",
+        "contact": {
+            "phone": [
+                "6",
+                "7"
+            ],
+            "postgiro": "70258"
+        },
+        "financials": {
+            "capital": "Undefined",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 1200000,
+            "annual_production_value": "Undefined"
+        },
+        "owners": [
+            "fabr. Helmer Melinder",
+            "fabr. Erland Melinder"
+        ],
+        "coordinates": {
+            "Latitude": 62.98592969999999,
+            "Longitude": 18.4316649
+        },
+        "cluster": 9
+    }
+}

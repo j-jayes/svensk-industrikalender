@@ -1,0 +1,282 @@
+{
+    "1": {
+        "name": "Sängfabriken—Sätra",
+        "location": "Sätra",
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "Arb.-antal": 10
+            }
+        },
+        "foundation_year": 1937,
+        "director": "Gösta Lindström",
+        "coordinates": {
+            "Latitude": 59.28882979999999,
+            "Longitude": 17.9150581
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Säng- & Svarverifabrlken Göta",
+        "location": "Forserum",
+        "contact": {
+            "telegraph": "Göta, Forserum",
+            "phone": [
+                "66"
+            ],
+            "postgiro": "94728"
+        },
+        "financials": {
+            "employees": {
+                "antal industriarb.": 15
+            },
+            "annual_turnover": "150,000 kr"
+        },
+        "foundation_year": 1932,
+        "owners": [
+            "fabr. Arvid Sandahls sterbhus"
+        ],
+        "manager": "fröken Solweig Sandahl",
+        "coordinates": {
+            "Latitude": 57.69932780000001,
+            "Longitude": 14.475408
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "AB. Carl Särenholm",
+        "location": "Eskilstuna",
+        "business": "Järn- och metallindustri",
+        "products": "Tryckeri AB. Sätherlund & Krook, Stockholm",
+        "contact": {
+            "phone": "30213 o. 31313",
+            "postgiro": "10802"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "Antal industriarb.": 125
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1895,
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "Einar Särenholm",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "director": "Einar Särenholm",
+        "managing_director": "Joel Ågren",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "AB. Säters Träförädling",
+        "location": "Stockholm",
+        "business": "Träförädlingsfabrik",
+        "products": "dalamålade möbler, trävita möbler, hyvelbänkar, modellbyggsatser, leksaker, gardinbräden m. m.",
+        "contact": {
+            "office": "Stockholm, Värtavägen 55",
+            "telegraph": "Abalga, Stockholm",
+            "phone": "670860",
+            "postgiro": "70966"
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "employees": {
+                "Antal industriarb.": 50
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1924,
+        "corporation_year": 1945,
+        "director": "G. Holmqvist",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Säters Väveri AB.",
+        "location": "Säter",
+        "business": "Bomull sväveri, färgeri och appreturverk",
+        "products": "kulörta bomulls- och cellullstyger, gardiner och möbeltyger",
+        "contact": {
+            "telegraph": "Väveriet, Säter",
+            "phone": "61 o. 139",
+            "postgiro": "27754"
+        },
+        "financials": {
+            "capital": "300,300 kr",
+            "employees": {
+                "Antal industriarb.": 90
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "Erik W. Panes",
+                "role": "ordf."
+            },
+            {
+                "name": "L. Norlander",
+                "role": "ing."
+            },
+            {
+                "name": "Thure Öberg",
+                "role": "dir."
+            },
+            {
+                "name": "Arvid öhlin",
+                "role": "dir."
+            },
+            {
+                "name": "Erik öhlin",
+                "role": "herr"
+            }
+        ],
+        "director": "A. öhlin",
+        "sales_manager": "L. Norlander",
+        "coordinates": {
+            "Latitude": 60.34665,
+            "Longitude": 15.7479
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "AB. Säters Yxfabrik",
+        "location": "Stockholm",
+        "business": "Yxfabrik",
+        "products": "yxor och bilor",
+        "contact": {
+            "office": "Kungsg. 4 A",
+            "telegraph": "Odelbergolson, Stockholm",
+            "phone": "Odelbergolson, Stockholm",
+            "postgiro": "1408",
+            "factory_office": "Säter",
+            "factory_phone": "Säter 13"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 40
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "Olof Hjorth",
+                "role": "bruksdisp. (ordf.)"
+            },
+            {
+                "name": "L. Levy",
+                "role": "adv."
+            },
+            {
+                "name": "S. Ponsbach",
+                "role": "dir."
+            },
+            {
+                "name": "Karl-Erik Tiblom",
+                "role": "dir."
+            },
+            {
+                "name": "Olof Tiblom",
+                "role": "ing."
+            }
+        ],
+        "director": "Olof Tiblom",
+        "sales_manager": "Sven-Börje Lundberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Säters Ångsågs AB.",
+        "location": "Säter",
+        "business": "Sågverk och hyvleri",
+        "products": "sågade och hyvlade trävaror samt listverk",
+        "contact": {
+            "phone": "82 o. 282",
+            "postgiro": "130522"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "Antal industriarb.": 25
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1936,
+        "manager": "Folke Isakson",
+        "coordinates": {
+            "Latitude": 60.34665,
+            "Longitude": 15.7479
+        },
+        "cluster": 7
+    },
+    "8": {
+        "name": "Sätherlund & Krook, Tryckeri AB.",
+        "location": "Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    },
+    "9": {
+        "name": "Sätra Bruk AB.",
+        "location": "Sätrafabriker",
+        "business": "Sågverk och elektr. kraftstationer",
+        "products": "sågade trävaror samt distribuerar elektr. energi",
+        "contact": {
+            "telegraph": "Sätrabruk, Mariestad",
+            "phone": "Ilalna 25",
+            "postgiro": "95618"
+        },
+        "financials": {
+            "capital": "1,400,000 kr",
+            "employees": {
+                "Antal industriarb.": 30
+            },
+            "annual_production_value": "500 stds trävaror"
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "överstelöjtn. Knut Stanler",
+                "role": "(ordf.)"
+            },
+            {
+                "name": "ing. L. Norlander"
+            },
+            {
+                "name": "dir. Thure Öberg"
+            },
+            {
+                "name": "dir. Arvid öhlin"
+            },
+            {
+                "name": "herr Erik öhlin"
+            }
+        ],
+        "director": "överstelöjtn. Knut Stanler",
+        "manager": "jägmäst. Enar Johansson",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 7
+    }
+}

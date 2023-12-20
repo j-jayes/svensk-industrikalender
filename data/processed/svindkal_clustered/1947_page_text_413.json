@@ -1,0 +1,271 @@
+{
+    "1": {
+        "name": "Kamyr—Kappfabriken",
+        "location": "Uddevalla",
+        "business": "Tillverkning av trämasse- och cellulosatillverkning",
+        "contact": {
+            "office": "Kampenhof, Uddevalla",
+            "phone": [
+                "203529"
+            ],
+            "postgiro": "15188",
+            "telegraph": "Kamyr, Karlstad",
+            "factory_office": "AB. Karlstads Mek. Werkstad, Karlstad"
+        },
+        "financials": {
+            "capital": "900,000 kr",
+            "employees": {
+                "industriarb": 380
+            },
+            "annual_turnover": "5,500,000 kr",
+            "annual_production_value": "5,500,000 kr"
+        },
+        "foundation_year": 1856,
+        "board": [
+            {
+                "name": "Axel M. Koch",
+                "role": "ordförande"
+            },
+            {
+                "name": "Nils Dreijer",
+                "role": "disp."
+            },
+            {
+                "name": "G. Lönner",
+                "role": "f. major"
+            },
+            {
+                "name": "J. H. Sanne",
+                "role": "konsul"
+            },
+            {
+                "name": "David Thorburn",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.3498003,
+            "Longitude": 11.935649
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Kamyr",
+        "location": "Karlstad",
+        "business": "Försäljning av patenterade maskiner för trämasse- och cellulosatillverkning",
+        "contact": {
+            "office": "Karlstad",
+            "phone": [],
+            "postgiro": "",
+            "telegraph": "KMW",
+            "head_office": "Karlstad"
+        },
+        "financials": {
+            "capital": "363,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "F. Anker",
+                "role": "grosshandlare"
+            },
+            {
+                "name": "Gunnar Brolin",
+                "role": "dir."
+            },
+            {
+                "name": "G. Raabe",
+                "role": "dir."
+            }
+        ],
+        "director": "Knud Dahl",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Kanex Konfektions AB.",
+        "location": "Borås",
+        "business": "Tillverkning av kostymer, rockar, trenchcoats, kappor, blazers och byxor",
+        "contact": {
+            "phone": [
+                "12524"
+            ],
+            "postgiro": "263843"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1944,
+        "manager": "Karl Axel Larson",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "AB. Kaniks Tegelfabrik",
+        "location": "Flädie",
+        "business": "Tillverkning av murtegel, lättegel och dräneringsrör",
+        "contact": {
+            "phone": [
+                "Lund 47024"
+            ],
+            "postgiro": "275016",
+            "telegraph": "Kanikstegel, Lund"
+        },
+        "financials": {
+            "capital": "210,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Lars Swenson",
+                "role": "dir."
+            },
+            {
+                "name": "Arwid Swenson",
+                "role": "ing."
+            },
+            {
+                "name": "E. Sönne-Swenson",
+                "role": "fru"
+            },
+            {
+                "name": "A. Trydegård",
+                "role": "fröken"
+            },
+            {
+                "name": "Lars Ingvar Trydegård",
+                "role": "teknolog"
+            }
+        ],
+        "director": "Lars Swenson",
+        "coordinates": {
+            "Latitude": 55.7259042,
+            "Longitude": 13.0712193
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "AB. Kantex",
+        "location": "Stockholm",
+        "business": "Tillverkning av dam- och herrunderkläder, speciellt av natursilke",
+        "contact": {
+            "office": "Svarvareg. 11, Stockholm",
+            "phone": [
+                "536801—02"
+            ],
+            "postgiro": "3931"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1938,
+        "manager": "C. Kahn",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "AB. Kant hal",
+        "location": "Hallstahammar",
+        "business": "Tillverkning av elektr. stålgjuteri, smältverk, kallvalsverk och dragerier",
+        "contact": {
+            "office": "Hallstahammar",
+            "phone": [
+                "Kanthal"
+            ],
+            "postgiro": "73633"
+        },
+        "financials": {
+            "capital": "4,500,000 kr",
+            "employees": {
+                "industriarb": 400
+            },
+            "annual_turnover": "8,000,000 kr"
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "Bengt Ingeström",
+                "role": "ing."
+            },
+            {
+                "name": "Hans v. Kantzow",
+                "role": "disp."
+            },
+            {
+                "name": "Göran Kalling",
+                "role": "greve"
+            },
+            {
+                "name": "Ragnar Söderberg",
+                "role": "generalkonsul"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.6132041,
+            "Longitude": 16.2294755
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. M. Kaplans Konfektionsfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkning av herrkläder samt damkappor och -dräkter",
+        "contact": {
+            "office": "Igeldammsg. 22, Stockholm",
+            "phone": [
+                "Kaplans Konfektionsfabrik"
+            ],
+            "postgiro": "52549"
+        },
+        "financials": {
+            "capital": "487,500 kr",
+            "employees": {
+                "industriarb": 260
+            },
+            "annual_turnover": "3,300,000 kr"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "L. Levy",
+                "role": "adv."
+            },
+            {
+                "name": "Marcus Kaplan",
+                "role": "dir."
+            },
+            {
+                "name": "Oscar Kaplan",
+                "role": "disp."
+            }
+        ],
+        "director": "M. Kaplan",
+        "managing_director": "M. Kaplan",
+        "sales_manager": "O. Kaplan",
+        "manager": "Samuel Gerov",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    }
+}

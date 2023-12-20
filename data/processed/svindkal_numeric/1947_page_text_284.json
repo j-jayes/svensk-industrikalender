@@ -1,0 +1,162 @@
+{
+    "1": {
+        "name": "AB. M. Faerden",
+        "location": "Stockholm",
+        "business": "Smides- och mek. verkstad samt entreprenadrörelse",
+        "contact": {
+            "office": "Kungstensg. 10",
+            "phone": [
+                "231830"
+            ],
+            "postgiro": "3570",
+            "telegraph": "Faerden, Stockholm"
+        },
+        "financials": {
+            "capital": "275.000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": 2500000,
+            "annual_production_value": 2500000
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "K. Gösta Eriksson",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. S. Fagerberg & Söners Kartongfabrik",
+        "location": "Hälsingborg",
+        "business": "Tillverkar pappkartonger och emballage",
+        "contact": {
+            "phone": [
+                "13778"
+            ],
+            "postgiro": "264233"
+        },
+        "financials": {
+            "capital": 20000,
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_turnover": 55000
+        },
+        "foundation_year": 1920,
+        "director": "Sigfrid Fagerberg",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Fagernäs Väveri AB.",
+        "location": "Mölnbo",
+        "business": "Bomullsväveri och konfektionsfabrik",
+        "contact": {
+            "phone": [
+                "23"
+            ],
+            "postgiro": "30051"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": 300000
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1936,
+        "director": "Yngve Viberg",
+        "coordinates": {
+            "Latitude": 59.04784,
+            "Longitude": 17.42373
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Fagersanna Verken AB.",
+        "location": "Fagersanna",
+        "business": "Sågverk med hyvleri samt trähusfabrik",
+        "contact": {
+            "phone": [
+                "10"
+            ],
+            "postgiro": "164186"
+        },
+        "financials": {
+            "capital": 20000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 800000
+        },
+        "foundation_year": 1878,
+        "current_name_year": 1939,
+        "board": [
+            {
+                "name": "dir. Arthur Storck (ordf.)",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Eric Storck",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Martin Storck",
+                "role": "disp."
+            }
+        ],
+        "director": "Arthur Storck",
+        "managing_director": "Martin Storck",
+        "coordinates": {
+            "Latitude": 58.46794569999999,
+            "Longitude": 14.2958394
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Fagersta Bruks AB.",
+        "location": "Fagersta",
+        "business": "Järn- och stålverk",
+        "financials": {
+            "capital": 30000000,
+            "employees": {
+                "industriarb": 5400
+            }
+        },
+        "foundation_year": 1873,
+        "board": [
+            {
+                "name": "bankdir. K. E. Browaldh",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. N. Arvid Ericsson",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Sven E. Lundberg",
+                "role": "dir."
+            },
+            {
+                "name": "disp. Hj. Åselius",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.989144,
+            "Longitude": 15.8166418
+        },
+        "cluster": 6
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "1": {
+        "name": "Hudiksvalls Bryggeri AB.",
+        "location": "Hudiksvall",
+        "business": "Tillverkar malt- och läskedrycker",
+        "contact": {
+            "office": "Hudiksvall",
+            "phone": [
+                "13",
+                "302"
+            ],
+            "postgiro": "29890"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "940,000 kr",
+            "annual_production_value": "940,000 kr"
+        },
+        "foundation_year": 1855,
+        "corporation_year": 1886,
+        "board": [
+            {
+                "name": "Gunnar Dahlquist",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Nils G. Dahlquist",
+                "role": "Disp. o. v. verkst dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 61.7273909,
+            "Longitude": 17.107401
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Hudiksvalls Lådfabrik",
+        "location": "Hudiksvall (Djuped)",
+        "business": "Tillverkar lådämnen och lådor, sågade trävaror samt fanéremballage",
+        "contact": {
+            "office": "Hudiksvall",
+            "phone": [
+                "649"
+            ],
+            "postgiro": "160265"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1930,
+        "owner": "fabr. Orwall Larsson",
+        "coordinates": {
+            "Latitude": 61.7273909,
+            "Longitude": 17.107401
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Hugin Kassaregister AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar butiksmaskiner, hushållsdammsugare och större dammsugare för industriella behov",
+        "contact": {
+            "office": "Stadsgården 10",
+            "phone": [
+                "440505"
+            ],
+            "postgiro": "150699",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "134556 o. 134979"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "19781"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "anställda": 104
+            }
+        },
+        "foundation_year": 1936,
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "Styrelseordförande"
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "Fil. lic."
+            },
+            {
+                "name": "Hj. Deger-stedt",
+                "role": "Dir."
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "Dir."
+            },
+            {
+                "name": "Eric Olsson",
+                "role": "Dir."
+            },
+            {
+                "name": "G. Osvald",
+                "role": "Dir."
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "Dir."
+            }
+        ],
+        "director": "Eric Olsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Hugoson & Roberts",
+        "location": "Hälsingborg",
+        "business": "Tillverkar essenser, extrakter och sockerkulör",
+        "contact": {
+            "office": "Hälsingborg",
+            "phone": [
+                "14173"
+            ],
+            "postgiro": "34770"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 5
+            }
+        },
+        "foundation_year": 1930,
+        "owner": [
+            "fabr. Jöns Nilsson",
+            "fabr. Anton Nilsson",
+            "fabr. Hugo Klämfeldt"
+        ],
+        "director": "ing. Carl Hugoson",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Hulta Tegelbruks AB.",
+        "location": "Värnamo (Hulta, Berghem)",
+        "business": "Tillverkar mur-, fasad- och reveteringstegel, taktegel samt tegelrör",
+        "contact": {
+            "office": "Värnamo",
+            "phone": [
+                "Värnamo 10098 o. 10638"
+            ],
+            "postgiro": "92910",
+            "sales_offices": [
+                {
+                    "location": "Borås",
+                    "phone": "17170"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "131368"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_production_value": "8 milj. st. tegelvaror"
+        },
+        "foundation_year": 1891,
+        "board": [
+            {
+                "name": "Gunnar Thilén",
+                "role": "Disp."
+            },
+            {
+                "name": "Lage Thilén",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 0
+    }
+}

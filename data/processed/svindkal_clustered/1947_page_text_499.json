@@ -1,0 +1,187 @@
+{
+    "1": {
+        "name": "AB. Malmö Skolästfabrik, Limhamn",
+        "location": "Limhamn, Malmö",
+        "contact": {
+            "office": "Skolästfabriken, Limhamn",
+            "phone": [
+                "71805"
+            ],
+            "postgiro": "11075"
+        },
+        "business": "Tillverkar skoläster, skoblock, pappläster, träspännen, kilklackar, precisionssvarvade träslor, galoschläster av aluminium och trä, sågade trävaror av bok, skrin och andra massartiklar av lövträ samt stansknivar.",
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "foundation_year": 1915
+        },
+        "coordinates": {
+            "Latitude": 55.5724415,
+            "Longitude": 12.9147749
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Malmö Spikfabriks AB",
+        "location": "Limhamn, Malmö",
+        "contact": {
+            "office": "Spikfabriken, Malmö",
+            "phone": "Malmö 50742",
+            "postgiro": "39032"
+        },
+        "business": "Tillverkar blank, förkopprad, glödgad och förzinkad järntråd, spik, stift, krampor och taggtråd.",
+        "financials": {
+            "capital": "106,000 kr",
+            "employees": {
+                "industriarb": 16
+            },
+            "foundation_year": 1922
+        },
+        "coordinates": {
+            "Latitude": 55.5724415,
+            "Longitude": 12.9147749
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Malmö Stora Valskvarn",
+        "location": "Malmö",
+        "contact": {
+            "office": "Valskvarnen, Malmö",
+            "phone": "Kvarnkontoret",
+            "postgiro": "13100"
+        },
+        "business": "Tillverkar mjöl av råg och vete samt kli. Varunamn för vetemjöl: »Kungsörnen» m. fl.",
+        "financials": {
+            "capital": "3,600,000 kr",
+            "employees": {
+                "industriarb": 138
+            },
+            "annual_turnover": "25,250,000 kr",
+            "foundation_year": 1875
+        },
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Malmö Strumpfabrik",
+        "location": "Malmö",
+        "contact": {
+            "office": "Malmöstrump, Malmö",
+            "phone": [
+                "Malmö Strumpfabrik"
+            ],
+            "postgiro": "24413"
+        },
+        "business": "Tillverkar dam- och barnstrumpor. Varumärken: »Nivella» o. »Vogue».",
+        "financials": {
+            "capital": "1,400,000 kr",
+            "employees": {
+                "industriarb": 765
+            },
+            "annual_production_value": "12,300,000 kr",
+            "foundation_year": 1926
+        },
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Malmö Stråhattfabrik",
+        "location": "Malmö",
+        "contact": {
+            "office": "Amastro, Malmö",
+            "phone": "71260",
+            "postgiro": "38178",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "101548"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "136458"
+                }
+            ]
+        },
+        "business": "Tillverkar damhattar i strå, filt och sammet m. m. Driver även engroshandel med modevaror.",
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "2,300,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Malmö Vattenfabriker",
+        "location": "Malmö",
+        "contact": {
+            "office": "Möllevångsg. 36 C",
+            "phone": [
+                "20180",
+                "21229",
+                "23387"
+            ],
+            "postgiro": "39233"
+        },
+        "business": "Tillverkar läskedrycker och medicinska mineralvatten samt kristall-is.",
+        "financials": {
+            "capital": "420,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "700,000 kr",
+            "foundation_year": 1913
+        },
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Malmö Yllefabriks AB.",
+        "location": "Malmö",
+        "contact": {
+            "office": "Ull- och kamgarnsspinnerier samt ylle-väveri, Malmö",
+            "phone": "»Kvarnkontoret»",
+            "postgiro": "13100",
+            "sales_offices": [
+                {
+                    "location": "Lund",
+                    "phone": "phone_number"
+                },
+                {
+                    "location": "Varberg",
+                    "phone": "phone_number"
+                }
+            ]
+        },
+        "business": "Tillverkar hel- och halvyllevävnader, oblekt och färgat kardullsgarn och kam",
+        "financials": {
+            "capital": "11,987,400 kr",
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_turnover": "53,200,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 3
+    }
+}

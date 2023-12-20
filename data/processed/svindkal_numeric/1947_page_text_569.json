@@ -1,0 +1,201 @@
+{
+    "1": {
+        "name": "AB. Osram-Elektraverken",
+        "location": "Stockholm",
+        "business": "Glödlampfabrik. Tillverkar metalltrådslampor av märket »Osram».",
+        "contact": {
+            "office": "Ringvägen 98",
+            "phone": [
+                "Osram, Stockholm"
+            ],
+            "postgiro": "727"
+        },
+        "financials": {
+            "capital": 2750000,
+            "employees": {
+                "industriarb.": 300
+            }
+        },
+        "foundation_year": 1917,
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "W. Borgquist",
+                "role": "generaldirektör"
+            },
+            {
+                "name": "Jerker Henke",
+                "role": "direktör"
+            },
+            {
+                "name": "Linus Lindberg",
+                "role": "advokat"
+            },
+            {
+                "name": "Edy Veländer",
+                "role": "professor"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Hans Österman",
+        "location": "Stockholm",
+        "business": "Bilreparations- och serviceverkstäder. Utför bilreparationer och monteringar av bilar. Firman driver försäljning av automobiler och gummiringar.",
+        "contact": {
+            "office": "Birger Jarlsg. 18",
+            "phone": [
+                "Hans Österman"
+            ],
+            "postgiro": "767"
+        },
+        "financials": {
+            "capital": 1500000
+        },
+        "foundation_year": 1908,
+        "corporation_year": 1915,
+        "board": [
+            {
+                "name": "Rich. Julin",
+                "role": "bankdirektör"
+            },
+            {
+                "name": "Olle Engkvist",
+                "role": "byggmästare"
+            },
+            {
+                "name": "Gösta Grönberg",
+                "role": "advokat"
+            },
+            {
+                "name": "Lennart Österman",
+                "role": "ingenjör"
+            }
+        ],
+        "director": "Lennart Österman",
+        "sales_manager": "K.-H. Björngård",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "John Österman, Elektr. AB.",
+        "location": "Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "Ostvik-Snickerifabrik",
+        "location": "Ostvik",
+        "products": "Tillverkar fönster och dörrar samt bostads- och butiksinredningar.",
+        "contact": {
+            "phone": "29",
+            "postgiro": "65672"
+        },
+        "financials": {
+            "employees": 12,
+            "annual_production_value": 70000
+        },
+        "foundation_year": 1928,
+        "coordinates": {
+            "Latitude": 64.8845766,
+            "Longitude": 21.0621446
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "AB. Carl Ottossons Remfabrik",
+        "location": "Anderstorp",
+        "products": "Tillverkar livremmar och bälten, sportartiklar, ryggsäckar, shoppingväskor, res-effekter m. m.",
+        "contact": {
+            "telegraph": "Carlo, Anderstorp",
+            "phone": "Carlobolaget",
+            "postgiro": "28814"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": 50,
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1921,
+        "corporation_year": 1945,
+        "director": "Holge Ottosson",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Karl G. Ottosson",
+        "location": "Falköping",
+        "business": "Trikåfabrik. Tillverkar koftor, jumpers, blusar, klänningar, baddräkter, badbyxor, scarves, babyartiklar m. m.",
+        "contact": {
+            "phone": "Ottossons, Falköping",
+            "postgiro": "76520"
+        },
+        "financials": {
+            "capital": 650000,
+            "employees": 300,
+            "annual_production_value": 5000000
+        },
+        "foundation_year": 1924,
+        "corporation_year": 1940,
+        "director": "Karl G. Ottosson",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "E. S. Ouchterlony & Comp.",
+        "location": "Trångsviken",
+        "products": "Tillverkar sågade och hyvlade trävaror.",
+        "contact": {
+            "phone": "10"
+        },
+        "financials": {
+            "employees": 40,
+            "annual_production_value": "3,500 stds trävaror"
+        },
+        "foundation_year": 1907,
+        "director": "E. S. Ouchterlony",
+        "coordinates": {
+            "Latitude": 63.3334213,
+            "Longitude": 14.0167372
+        },
+        "cluster": 7
+    },
+    "8": {
+        "name": "Ousby Kimröks Fabriks AB.",
+        "location": "Osby",
+        "business": "Kimröksfabrik. Tillverkar kimrök.",
+        "contact": {
+            "phone": "17",
+            "postgiro": "85300"
+        },
+        "financials": {
+            "capital": 79000,
+            "employees": 10,
+            "annual_production_value": 100000
+        },
+        "foundation_year": 1887,
+        "director": "Joh. Ekman",
+        "sales_manager": "Ernst Rooth",
+        "coordinates": {
+            "Latitude": 56.3815355,
+            "Longitude": 13.9929413
+        },
+        "cluster": 1
+    }
+}

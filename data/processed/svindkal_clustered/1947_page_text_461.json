@@ -1,0 +1,233 @@
+{
+    "1": {
+        "name": "Lejonets Fabriker AB.",
+        "location": "Stockholm",
+        "business": "Livsmedelsfabrik och kemisk-teknisk fabrik",
+        "products": "Tillverkar wafers samt hudkräm, puder, hårvatten m. m.",
+        "contact": {
+            "office": "Elis Pihlkvist & Co. AB., Bredgränd 1.",
+            "phone": [
+                "230120"
+            ],
+            "postgiro": "3708"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "polisint. Alvar Zetterquist",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Georg Hurtig",
+                "role": ""
+            },
+            {
+                "name": "fru Mary Pihlkvist-Liljeson",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Leksaksfabriken Norco",
+        "location": "Stockholm",
+        "products": "Tillverkning av stoppade djur och dockor",
+        "contact": {
+            "office": "Upplandsg. 19 A",
+            "phone": [
+                "308499"
+            ],
+            "postgiro": "58256"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 33
+            },
+            "annual_turnover": "310,000 kr"
+        },
+        "foundation_year": 1935,
+        "owners": [
+            "fil. dr A. Magasanik"
+        ],
+        "manager": "Kurt Westerberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Leksandsbröd",
+        "location": "Häradsbygden",
+        "business": "Spisbrödsfabrik och handelskvarn",
+        "products": "Tillverkar spis- och knäckebröd samt rågmjöl för eget behov",
+        "contact": {
+            "phone": [
+                "17",
+                "87"
+            ],
+            "postgiro": "85925"
+        },
+        "financials": {
+            "capital": "67,000 kr",
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_turnover": "350,000 kr"
+        },
+        "foundation_year": 1929,
+        "director": "fabr. Martin Joon",
+        "coordinates": {
+            "Latitude": 60.69627,
+            "Longitude": 15.05732
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Lemunda Sandstensbrott",
+        "location": "Motala",
+        "business": "Sandstensbrott",
+        "products": "Tillverkar slipstenar och raffinörstenar; bryter byggnadssten och kvartssandsten för ugnar och till beredning av formsand och kupolugnsmassa m. m., levererar kvartssand för stålgjutning, blästring, slipning, glastillverkning samt kärnsand, formsand och kupolugnsmassa",
+        "contact": {
+            "telegraph": "Lemundabolaget, Motala",
+            "phone": [
+                "86"
+            ],
+            "financials": {
+                "capital": "270,000 kr",
+                "employees": {
+                    "industriarb": 60
+                }
+            },
+            "foundation_year": 1899,
+            "board": [
+                {
+                    "name": "folkskollärare Åke G. Olofsson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "köpman H. Almborg",
+                    "role": ""
+                },
+                {
+                    "name": "gods-äg. Arvid Olofsson",
+                    "role": ""
+                },
+                {
+                    "name": "ing. E. V. Abenius",
+                    "role": "Disp."
+                }
+            ]
+        },
+        "5": {
+            "name": "Lenhovda Radiatorfabriks AB.",
+            "location": "Lenhovda",
+            "business": "Tillverkar värmeledningsradiatorer av plåt",
+            "products": "Vid mek. verkstad i Lenhovda (Kronob. l.)",
+            "contact": {
+                "telegraph": "Radiatorer, Lenhovda, Växjö",
+                "phone": [
+                    "SS"
+                ],
+                "postgiro": "131650"
+            },
+            "financials": {
+                "capital": "60,000 kr",
+                "employees": {
+                    "industriarb": 30
+                }
+            },
+            "foundation_year": 1936,
+            "director": "Yngve Johansson"
+        },
+        "6": {
+            "name": "AB. Lenhovdaverken",
+            "location": "Lenhovda",
+            "business": "Snickeri- och trähusfabrik",
+            "products": "Tillverkar monteringsfärdiga trähus, snickerier samt lådor",
+            "contact": {
+                "phone": [
+                    "161-63"
+                ],
+                "postgiro": "11461",
+                "sales_offices": [
+                    {
+                        "location": "Stockholm",
+                        "phone": "300704"
+                    },
+                    {
+                        "location": "Norrköping",
+                        "phone": "21664 o. 21864"
+                    }
+                ]
+            },
+            "financials": {
+                "capital": "190,000 kr",
+                "employees": {
+                    "industriarb": 210
+                },
+                "annual_turnover": "4,000,000 kr"
+            },
+            "foundation_year": 1944,
+            "board": [
+                {
+                    "name": "grossh. Artur Alexandersson",
+                    "role": "ordf."
+                },
+                {
+                    "name": "disp. Eric Jakobsson",
+                    "role": ""
+                },
+                {
+                    "name": "byggnads-ing. Henry Johansson",
+                    "role": ""
+                },
+                {
+                    "name": "disp. Oscar Törn-qvist",
+                    "role": ""
+                },
+                {
+                    "name": "kamrer Gustaf Widerström",
+                    "role": ""
+                },
+                "manager: Artur Alexandersson"
+            ],
+            "7": {
+                "name": "Lenna Bruks AB.",
+                "location": "Länna",
+                "business": "Sågverk, hyvleri och snickerifabrik",
+                "products": "Tillverkar sågade och hyvlade trävaror, byggnadssnickerier samt monteringsfärdiga trähus",
+                "contact": {
+                    "phone": [
+                        "Länna 57"
+                    ],
+                    "postgiro": "134335"
+                },
+                "financials": {
+                    "capital": "2,100,000 kr",
+                    "employees": {
+                        "industriarb": 175
+                    }
+                },
+                "foundation_year": 1912
+            }
+        },
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        },
+        "cluster": 0
+    }
+}

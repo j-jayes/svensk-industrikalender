@@ -1,0 +1,192 @@
+{
+    "1": {
+        "name": "ABi Burseryds Tråd- & Spikfabrik",
+        "location": "Smålands Burseryd",
+        "business": "Tråddrageri, spikfabrik och lådfabrik",
+        "products": "Tillverkar blank, förkopprad, förtent, galvaniserad och glödgad järntråd, häfttråd, taggtråd, trådspik, staglinor, galvaniserat varm- och kallvalsat band järn, sängbot-tenkätting, ovaler, spiraler samt sågade lådämnen",
+        "contact": {
+            "office": "Elektr. kraftstation",
+            "phone": [
+                "83"
+            ],
+            "postgiro": "22588",
+            "telegraph": "Tråddrageriet, Smålands Burseryd"
+        },
+        "financials": {
+            "capital": 90000,
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_turnover": 950000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1913,
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "Carl-Evert Josefsson",
+                "role": "disp."
+            },
+            {
+                "name": "Kristina Josefsson",
+                "role": "bokh."
+            }
+        ],
+        "director": "Carl-Evert Josefsson",
+        "coordinates": {
+            "Latitude": 57.2,
+            "Longitude": 13.283333
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Burseryds Träindustri",
+        "location": "Smålands Burseryd",
+        "business": "Parkettfabrik",
+        "products": "Tillverkar parkettstav och utför inläggning av parkettgolv",
+        "contact": {
+            "phone": "51",
+            "postgiro": "94045"
+        },
+        "financials": {
+            "capital": 52000,
+            "employees": {
+                "industriarb": 47
+            },
+            "annual_turnover": 900000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "Martin Larsson",
+                "role": "nämndeman"
+            },
+            {
+                "name": "Lars Davidsson",
+                "role": "fabr."
+            }
+        ],
+        "director": "John Johansson",
+        "coordinates": {
+            "Latitude": 57.2,
+            "Longitude": 13.283333
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "Bustorps Tegelbruk",
+        "location": "Nättrabyhamn",
+        "business": "Tillverkar mur- och fasad tegel, hög-poröst- och lättegel, taktegel samt dräneringsrör vid tegelbruk vid Ronneby. Firman driver även jordbruk",
+        "contact": {
+            "office": "Nättrabyhamn",
+            "phone": [
+                "Nättraby 1",
+                "211"
+            ],
+            "postgiro": "5476"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "2,5 milj. st. tegel varor"
+        },
+        "owner": "fabr. Eric Mattelin",
+        "coordinates": {
+            "Latitude": 56.2,
+            "Longitude": 15.533333
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Buteljglasbrukens Försäljnings AB",
+        "location": "Stockholm",
+        "business": "Bolaget är ensamförsäljare för följande glasbruk",
+        "products": "Säljer buteljer, vattenflaskor, damejeanner, svagdricks-flaskor, mjölkflaskor, kem. tekn. glas, konserveringsglas, burkar m. m.",
+        "contact": {
+            "office": "Birger Jarlsg. 2",
+            "phone": [
+                "619920—23"
+            ],
+            "postgiro": "1601"
+        },
+        "financials": {
+            "capital": 70000,
+            "annual_production_value": 12000000
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "Harald Engström",
+                "role": "dir."
+            }
+        ],
+        "managing_director": "S. Emanuelson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Byggnads AB. Bröderna Bergbäck",
+        "location": "Linköping",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "phone": [
+                "23731",
+                "26390"
+            ],
+            "postgiro": "131618"
+        },
+        "financials": {
+            "capital": 40000,
+            "annual_production_value": 1200000
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1938,
+        "original_name": "Byggnads AB. Axel Johanson",
+        "board": [
+            {
+                "name": "Ragnar Bergbäck",
+                "role": "byggnadsing."
+            }
+        ],
+        "director": "R. Bergbäck",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "Byggnads AB. Contractor",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenadfirma med varvsanläggning i Nyköping (Brandholmens varv)",
+        "products": "Utför kaj-, bro-, kraftstations-, industri- och bostadsbyggnader, grundläggnings- och sprängningsarbeten, fördjupnings- och sandfyllningsarbeten med sandsugningsfartyg. Tillverkar kasuner, pontoner, pråmar, färjor m. m. av armerad betong",
+        "contact": {
+            "office": "Kungsg. 28",
+            "phone": [
+                "231605"
+            ],
+            "postgiro": "50653"
+        },
+        "financials": {
+            "capital": 900000,
+            "annual_turnover": 10000000
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "Erik Lenander",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    }
+}

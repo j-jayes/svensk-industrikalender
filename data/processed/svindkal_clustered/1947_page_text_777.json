@@ -1,0 +1,230 @@
+{
+    "1": {
+        "name": "Axel H. Åberg",
+        "location": "Linköping",
+        "business": "Byggnadsentreprenörfirma för väg-och brobyggnadsarbeten, flygfälts- och idrottsanläggningar",
+        "contact": {
+            "phone": [
+                "20181"
+            ]
+        },
+        "financials": {
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1933,
+        "owner": "civiling. Axel H. Åberg",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "Åbro Bryggeri (Gamla Vimmerby-bryggeriet)",
+        "location": "Vimmerby",
+        "business": "Tillverkar malt-och läskedrycker",
+        "contact": {
+            "phone": [
+                "101",
+                "23",
+                "600"
+            ],
+            "postgiro": "12643"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1856,
+        "owner": "disp. Axel Dunge",
+        "coordinates": {
+            "Latitude": 57.6690339,
+            "Longitude": 15.858857
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Åby Tegelbruk, C. J. Gustafsson",
+        "location": "Vallentuna",
+        "business": "Tillverkar murtegel och dräneringsrör vid tegelbruk i Vallentuna (Sthlms l.)",
+        "contact": {
+            "phone": "109",
+            "postgiro": "73379"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "2 milj. st. tegelvaror"
+        },
+        "foundation_year": 1927,
+        "owner": "fabr. C. Janne Gustafsson",
+        "coordinates": {
+            "Latitude": 59.53569999999999,
+            "Longitude": 18.078017
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Åbyfors Spikfabriks AB.",
+        "location": "Södra Valbo",
+        "business": "Tråddrageri och spikfabrik i Åbyfors, Södra Valbo (Gävleb. Tillverkar järn-och ståltråd samt trådspik t»ch trådstift",
+        "contact": {
+            "phone": "Valbo 115",
+            "postgiro": "131124"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_production_value": "180,000 kr"
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "Oscar H. Jönsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Martin Wallin",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.6430312,
+            "Longitude": 17.0082511
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Åbyfors Tegelbruk",
+        "location": "Södra Valbo",
+        "business": "Tillverkar murtegel vid tegelbruk i Södra Valbo (Gävleb. l.)",
+        "contact": {
+            "phone": "Gävle 418",
+            "postgiro": "267570"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "1,5 milj. st. tegelvaror"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "Robert Carrick",
+                "role": "ordf."
+            },
+            {
+                "name": "Lars Carrick",
+                "role": "ing."
+            },
+            {
+                "name": "Richard Carrick",
+                "role": "ing."
+            }
+        ],
+        "director": "Robert Carrick",
+        "coordinates": {
+            "Latitude": 60.6430312,
+            "Longitude": 17.0082511
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "AB. ÅETÅ Tryck",
+        "location": "Stockholm",
+        "business": "Boktryckeri, offset- och djuptryckeri, bokbinderi och reklamservice",
+        "contact": {
+            "telegraph": "Förlaget",
+            "phone": "Åhlén & Åkerlund",
+            "postgiro": "1111"
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "employees": {
+                "industriarb": 65
+            }
+        },
+        "foundation_year": 1939,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Albert Bonnier J:r",
+                "role": "ordf."
+            },
+            {
+                "name": "J. Holger Ihre",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "7": {
+        "name": "AB. Åfors Glasbruk",
+        "location": "Emmaboda",
+        "business": "Tillverkar kristall samt pressat, slipat och etsat hushållsglas vid glasbruk i Åfors (Kronob. l.)",
+        "contact": {
+            "phone": "Emmaboda 15",
+            "postgiro": "32151"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 140
+            },
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1911,
+        "director": "Eric Åfors",
+        "coordinates": {
+            "Latitude": 56.63068550000001,
+            "Longitude": 15.540006
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "Åfors Möbelfabriks AB.",
+        "location": "Blomstermåla",
+        "business": "Möbelfabrik i Blomstermåla (Kalmar l.). Tillverkar möbler i alla träslag",
+        "contact": {
+            "phone": "11",
+            "postgiro": "21234"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1906,
+        "owner": "Ernfrid Johansson",
+        "coordinates": {
+            "Latitude": 56.9814885,
+            "Longitude": 16.3327375
+        },
+        "cluster": 8
+    },
+    "9": {
+        "name": "Axel H. Ågren AB.",
+        "location": "Göteborg",
+        "business": "Kem. tekniska fabriker i Stockholm, Göteborg och Norrköping, kalkstensbrott vid Klinthagen å Gotland. Tillverkar vattenglas, kristallsoda, kem. ren soda samt stenkolssot; bryter kalksten. Bolaget driver såsom huvudrörelse handel med",
+        "financials": {
+            "capital": "639*"
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    }
+}

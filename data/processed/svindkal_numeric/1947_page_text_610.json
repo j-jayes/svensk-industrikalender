@@ -1,0 +1,211 @@
+{
+    "1": {
+        "name": "C. W. Schumacher AB.",
+        "location": "Stockholm",
+        "business": "Bageri",
+        "products": "Tillverkar mjukt bröd och konditorivaror",
+        "contact": {
+            "office": "Norrlandsg. 17",
+            "phone": [
+                "100417",
+                "100470"
+            ],
+            "postgiro": "933",
+            "telegraph": "Schumacher, Stockholm"
+        },
+        "financials": {
+            "capital": 250100,
+            "annual_turnover": 1500000
+        },
+        "foundation_year": 1864,
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "O. Ankarlöv",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB. Schwartzman & Nordström",
+        "location": "Uddevalla",
+        "business": "Herrkonfektionsfabrik",
+        "products": "Tillverkar kostymer, paletåer, ulstrar och trenchcoats",
+        "contact": {
+            "telegraph": "Schwartzman, Uddevalla",
+            "phone": "Schwartzman & Nordström",
+            "postgiro": "32196"
+        },
+        "financials": {
+            "capital": 2000000,
+            "annual_turnover": 11000000
+        },
+        "foundation_year": 1903,
+        "board": [
+            {
+                "name": "Marcus Fr. Schwartzman",
+                "role": "ordf."
+            },
+            {
+                "name": "Leon Schwartzman",
+                "role": "disp."
+            },
+            {
+                "name": "Rob. Schwartzman",
+                "role": "disp."
+            }
+        ],
+        "director": "M. Fr. Schwartzman",
+        "managing_director": "Rob. Schwartzman",
+        "sales_manager": "L. Schwartzman",
+        "coordinates": {
+            "Latitude": 58.3498003,
+            "Longitude": 11.935649
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Georg Schönander",
+        "location": "Stockholm",
+        "business": "Tillverkar röntgenapparater och röntgenrör",
+        "contact": {
+            "office": "Kungsbroplan 3",
+            "telegraph": "Instrument, Stockholm",
+            "phone": "520470",
+            "postgiro": "762"
+        },
+        "financials": {
+            "employees": {
+                "antal": 100
+            }
+        },
+        "foundation_year": 1921,
+        "director": "ing. Georg Schönander",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "R. Schönwell, Mössfabrik",
+        "location": "Malmö",
+        "business": "Tillverkar sport-, skid-, uniforms- och skolmössor",
+        "contact": {
+            "office": "S. Förstadsg. 23 A",
+            "phone": "20635",
+            "postgiro": "37908"
+        },
+        "financials": {
+            "annual_production_value": 250000
+        },
+        "foundation_year": 1934,
+        "director": "fabr. R. Schönwell",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Scott & Svedman, Snickerifabrik",
+        "location": "Stureby",
+        "business": "Tillverkar möbler samt inredningar för affärer, biografer, bankkontor och skolor",
+        "contact": {
+            "phone": "Stockholm 494008-09",
+            "postgiro": "3764"
+        },
+        "financials": {
+            "annual_production_value": 250000
+        },
+        "foundation_year": 1928,
+        "owners": [
+            "fabr. Gunnar Scott",
+            "fabr. Erik Svedman"
+        ],
+        "coordinates": {
+            "Latitude": 59.283333,
+            "Longitude": 18.05
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "See Fabriks AB.",
+        "location": "Sandviken",
+        "business": "Rördrageri och stålmanufakturerings-verk",
+        "products": "Tillverkar kalldragna stålrör till t. ex. cyklar, bilar och flygplan m.m.",
+        "contact": {
+            "telegraph": "See, Sandviken",
+            "phone": "4070",
+            "postgiro": "9993"
+        },
+        "financials": {
+            "capital": 2160000,
+            "employees": {
+                "antal": 655
+            },
+            "annual_turnover": 10000000
+        },
+        "foundation_year": 1895,
+        "board": [
+            {
+                "name": "Erik W. Forsberg",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "Gunnar Dalen",
+                "role": "dir."
+            },
+            {
+                "name": "överste E. G. Erici",
+                "role": "övering."
+            },
+            {
+                "name": "Nils J. Gille",
+                "role": "disp."
+            },
+            {
+                "name": "S. Håål",
+                "role": "civiling."
+            }
+        ],
+        "manager": "Roy Schultz",
+        "coordinates": {
+            "Latitude": 60.621607,
+            "Longitude": 16.775918
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. W. Segerströms Metallvarufabrik",
+        "location": "Ängelholm",
+        "business": "Tillverkar velocipedtillbehör såsom pumpar och pumpfästen, slangventiler samt reflexer",
+        "products": "Varumärken: »WS» och »SeGe»",
+        "contact": {
+            "phone": [
+                "137",
+                "637"
+            ],
+            "postgiro": "91450"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "antal": 40
+            },
+            "annual_turnover": 1000000
+        },
+        "foundation_year": 1902,
+        "corporation_year": 1944,
+        "coordinates": {
+            "Latitude": 56.245748,
+            "Longitude": 12.863881
+        },
+        "cluster": 6
+    }
+}

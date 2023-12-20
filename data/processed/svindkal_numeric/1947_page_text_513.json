@@ -1,0 +1,190 @@
+{
+    "1": {
+        "name": "Midnäs Industri AB",
+        "location": "Bollnäs",
+        "business": "Sågverk, hyvleri och wallboardfabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror samt träfiberplattor. Varumärke: »Fibrex».",
+        "contact": {
+            "office": "Rengsjö, Bollnäs",
+            "phone": [
+                "Midnäs, Bollnäs"
+            ],
+            "postgiro": "76441",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "207926"
+                },
+                {
+                    "location": "Hagalund",
+                    "phone": "Stockholm 274300"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "vid sågverket": 55,
+                "vid wallboard-fabriken": 155
+            },
+            "annual_turnover": "2,500 stds sågade och hyvlade trävaror, 12,000 ton wallboard"
+        },
+        "foundation_year": 1928,
+        "current_name_year": 1946,
+        "board": [
+            {
+                "name": "Erik Stenberg",
+                "role": "bankdir."
+            },
+            {
+                "name": "E. G. Bjöörn",
+                "role": "landsfiskal"
+            },
+            {
+                "name": "H. Freudenthal",
+                "role": "förvalt."
+            },
+            {
+                "name": "W. E. Freudenthal",
+                "role": "bruksförvalt."
+            },
+            {
+                "name": "John R. Jonsson",
+                "role": "dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 61.34837950000001,
+            "Longitude": 16.3942685
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Mikro-Verktyg",
+        "location": "Södertälje",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar precisionsverktyg, såsom kontrollverktyg, mätverktyg, passbitsmått, tolkar, jiggar, formstål, mallar och fixturer samt pressverktyg, pressgjutningsverktyg, bakelitverktyg och tablettverktyg.",
+        "contact": {
+            "phone": [
+                "31103",
+                "31106"
+            ],
+            "postgiro": "31113"
+        },
+        "financials": {
+            "capital": 12000,
+            "employees": 30,
+            "annual_turnover": 250000
+        },
+        "foundation_year": 1943,
+        "manager": "Sven Gustafson",
+        "coordinates": {
+            "Latitude": 59.197762,
+            "Longitude": 17.6201942
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Mildens Elektr. Motor AB.",
+        "location": "Spånga",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar elektr. borr- och slipmaskiner, motorer samt specialmaskiner för elektr. drift.",
+        "contact": {
+            "telegraph": "Mema, Stockholm",
+            "phone": "Stockholm 362397—98 o. 362409",
+            "postgiro": "3058"
+        },
+        "financials": {
+            "capital": 84000,
+            "employees": 50,
+            "annual_turnover": 900000
+        },
+        "corporation_year": 1925,
+        "board": [
+            {
+                "name": "Knut Strömberg",
+                "role": "adv."
+            },
+            {
+                "name": "Ragnar Gottfarb",
+                "role": "adv."
+            },
+            {
+                "name": "Harry Milden",
+                "role": "ing."
+            }
+        ],
+        "director": "Harry Milden",
+        "coordinates": {
+            "Latitude": 59.381668,
+            "Longitude": 17.9012902
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Miles &amp; Warnberg AB.",
+        "location": "Göteborg",
+        "business": "Lädervaru- och reseffektfabrik",
+        "products": "Tillverkar damväskor, plånböcker och portföljer. Varumärke: »Miwa».",
+        "contact": {
+            "office": "Stadsskrivareg. 3",
+            "phone": [
+                "194812—13"
+            ],
+            "postgiro": "41454"
+        },
+        "financials": {
+            "capital": 44500,
+            "employees": 75,
+            "annual_turnover": 1500000
+        },
+        "director": "Ingvar Warnberg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Millers Stämplar",
+        "location": "Sunne",
+        "business": "Tillverkar dessinvalsar för anilin- och oljefärgstryck, gummiklichéer för anilin- och boktryck, zinkklichéer samt stämplar och stämpelfärger",
+        "contact": {
+            "phone": "294",
+            "postgiro": "70028"
+        },
+        "employees": 9,
+        "owners": [
+            "fabr. Gösta E:son Miller",
+            "fabr. Erik Thorell"
+        ],
+        "coordinates": {
+            "Latitude": 59.83655749999999,
+            "Longitude": 13.1440464
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "Minnesbergs Tegelbruks AB.",
+        "location": "Minnesberg",
+        "business": "Tillverkar tegel, alla slag, reveteringsplattor och dräneringsrör samt utför skorstensbyggen. Specialiteter: glaserat och rött taktegel, handslaget fasad- och fasontegel.",
+        "contact": {
+            "telegraph": "Minnesberg, Svedala",
+            "phone": [
+                "Svedala 36 o. 636"
+            ],
+            "postgiro": "96166"
+        },
+        "financials": {
+            "capital": 700000,
+            "employees": 80,
+            "annual_turnover": 700000
+        },
+        "foundation_year": 1888,
+        "coordinates": {
+            "Latitude": 55.4729762,
+            "Longitude": 13.2178665
+        },
+        "cluster": 0
+    }
+}

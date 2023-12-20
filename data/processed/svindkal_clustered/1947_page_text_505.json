@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "AB. Marks Skofabrik",
+        "location": "Örebro",
+        "business": "Tillverkar finare skodon",
+        "products": "Varumärke: »Marks»",
+        "contact": {
+            "office": "AB. A. P. Hallqvist",
+            "phone": [
+                "10582"
+            ],
+            "postgiro": "20794"
+        },
+        "financials": {
+            "capital": "426,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "grossh. A. P. Hallqvist",
+                "role": "ordf."
+            },
+            {
+                "name": "köpman David Hallqvist",
+                "role": "disp."
+            },
+            {
+                "name": "Åke Hallqvist",
+                "role": "disp."
+            }
+        ],
+        "director": "A. P. Hallqvist",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. Marks Tegelbruk",
+        "location": "Örebro",
+        "business": "Tillverkar mur- och taktegel samt dräneringsrör",
+        "contact": {
+            "phone": [
+                "10601"
+            ],
+            "postgiro": "161045"
+        },
+        "financials": {
+            "capital": "190,00 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "495,000 kr"
+        },
+        "foundation_year": 1902,
+        "director": "Arvid Adamson",
+        "manager": "Erik J. Larsson",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Marks Textilfabrik",
+        "location": "Kinna",
+        "business": "Mek. jacquardväveri",
+        "products": "Tillverkar borddukar, ottomantäcken, sängöverkast, draperi-, möbel- och allmogetyger m. m",
+        "contact": {
+            "telegraph": "Textil, Kinna",
+            "phone": [
+                "10735",
+                "10077",
+                "10125"
+            ],
+            "postgiro": "31793"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "foundation_year": 1908,
+        "owners": [
+            "fabr. Carl Ad. Carlson",
+            "Gust. Arv. Gadhs sterbhus"
+        ],
+        "director": "Carl Ad. Carlson",
+        "coordinates": {
+            "Latitude": 57.50984,
+            "Longitude": 12.6941321
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Markström & Co. AB.",
+        "location": "Smålands Farstorp",
+        "business": "Tillverkar sittmöbler och bord",
+        "contact": {
+            "phone": [
+                "4"
+            ],
+            "postgiro": "72767"
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "industriarb": 36
+            }
+        },
+        "foundation_year": 1899,
+        "corporation_year": 1936,
+        "board": [
+            {
+                "name": "fabr. Harald Dahlberg",
+                "role": null
+            },
+            {
+                "name": "fabr. Sven Dahlberg",
+                "role": null
+            }
+        ],
+        "director": "disp. Ernst Dahlberg",
+        "coordinates": {
+            "Latitude": 57.3304279,
+            "Longitude": 15.3139592
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Marma—Långrörs AB.",
+        "location": "Söderhamn",
+        "business": "Sulfatfabrik, biproduktsfabrik och sågverk",
+        "products": "Tillverkar oblekt sulfat- och sulfitcellulosa, torr mekanisk massa, sågade och hyvlade trävaror, kemiska produkter samt jordbruk och skogshantering",
+        "contact": {
+            "office": "Söderhamn",
+            "phone": [
+                "Mar-ma-Långrör"
+            ],
+            "postgiro": "144062",
+            "factory_office": "Lottefors"
+        },
+        "financials": {
+            "capital": "4,200,000 kr",
+            "employees": {
+                "industriarb": 700
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "70,000 ton sulfatcellulosa, 50,000 ton sulfitcellulosa, 16,000 ton torrberäknad mek. massa, 15,000 stds trävaror, 4 milj. ltr sulfitsprit"
+        },
+        "foundation_year": 1907,
+        "original_name": "Marma Sågverks AB.; Marmorbruks AB.",
+        "owners": [
+            "Marma Sågverks AB.",
+            "Marma Sulfatfabriks AB.",
+            "Adolf Ungers Industri AB."
+        ],
+        "director": "Ludvig Lundquist",
+        "sales_manager": "Hugo Roland",
+        "manager": "Göran Unger",
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Marmorförädlings AB.",
+        "location": "Malmö",
+        "business": "Tillverkar marmor-, kalkstens- och skifferarbeten samt cement- och mosaikvaror",
+        "contact": {
+            "office": "Spång. 91",
+            "phone": [
+                "21131",
+                "21257"
+            ],
+            "postgiro": "37804"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 63
+            },
+            "annual_turnover": "N/A"
+        },
+        "foundation_year": 1919,
+        "director": "N. G. Nihlén",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "AB. Marstrands Mek. Verkstad",
+        "location": "Marstrand",
+        "business": "Skeppsvarv med slipar, grovplåtslageri, sågverk och snickeri",
+        "products": "Livbåtar av stål och livflottar, maskindelar, cisterner, svetsade behållare m. m",
+        "contact": {
+            "phone": [
+                "Mar-ma-Långrör"
+            ],
+            "postgiro": "N/A"
+        },
+        "coordinates": {
+            "Latitude": 57.8884502,
+            "Longitude": 11.5967453
+        },
+        "cluster": 6
+    }
+}

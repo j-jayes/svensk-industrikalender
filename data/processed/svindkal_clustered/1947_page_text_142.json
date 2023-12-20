@@ -1,0 +1,143 @@
+{
+    "1": {
+        "name": "Aero AB., Skandinaviska",
+        "location": "Stockholm",
+        "business": "Aircraft",
+        "products": "Aircraft manufacturing",
+        "contact": {
+            "office": "Stockholm",
+            "phone": [
+                "Aero AB., Skandinaviska"
+            ],
+            "postgiro": "N/A",
+            "head_office": "Stockholm",
+            "telegraph": "N/A",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "total": 0,
+                "management": 0,
+                "administration": 0,
+                "production": 0
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 0,
+        "current_name_year": 0,
+        "predecessor": "N/A",
+        "original_name": "N/A",
+        "corporation_year": 0,
+        "board": [],
+        "owners": [],
+        "director": "N. Martin Eriksson",
+        "managing_director": "N/A",
+        "sales_manager": "Fritiof Nilsson",
+        "brands": [],
+        "manager": "N/A",
+        "reference": "N/A",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Adolfsfors AB.,",
+        "location": "Adolfsfors",
+        "business": "Lumber and Power",
+        "products": "Sawed timber, agricultural products, and forest management",
+        "contact": {
+            "office": "Adolfsfors, Adolfsfors",
+            "phone": [
+                "Adolfsfors 1"
+            ],
+            "postgiro": "N/A",
+            "head_office": "N/A",
+            "sales_offices": [],
+            "telegraph": "N/A",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": "440,000 kr",
+            "employees": {
+                "total": 40,
+                "administration": 0,
+                "production": 40
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "500 stds sawed timber"
+        },
+        "foundation_year": 1902,
+        "current_name_year": 0,
+        "predecessor": "N/A",
+        "original_name": "N/A",
+        "corporation_year": 0,
+        "board": [],
+        "owners": [],
+        "director": "N. Martin Eriksson",
+        "managing_director": "N/A",
+        "sales_manager": "Fritiof Nilsson",
+        "brands": [],
+        "manager": "N/A",
+        "reference": "N/A",
+        "coordinates": {
+            "Latitude": 59.80067500000001,
+            "Longitude": 12.2267272
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Aga Baltic AB.,",
+        "location": "Stockholm—Lidingö",
+        "business": "Electrical Manufacturing",
+        "products": "Radio equipment, sound film equipment, transmitting stations, military radio material, fine mechanical and optical equipment",
+        "contact": {
+            "office": "Lidingö-Skärsätra, Stockholm—Lidingö",
+            "phone": [
+                "Stockholm, »Aga»"
+            ],
+            "postgiro": "50770",
+            "head_office": "N/A",
+            "sales_offices": [],
+            "telegraph": "Aga-baltic, Stockholm",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "total": 600,
+                "management": 0,
+                "administration": 0,
+                "production": 600
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "9,000,000 kr"
+        },
+        "foundation_year": 1923,
+        "current_name_year": 1941,
+        "predecessor": "Baltic Radio AB.",
+        "original_name": "Baltic Radio AB.",
+        "corporation_year": 0,
+        "board": [],
+        "owners": [],
+        "director": "N/A",
+        "managing_director": "Gunnar Dalén",
+        "sales_manager": "•A. Holtzberg",
+        "brands": [
+            "Aga-Baltic"
+        ],
+        "manager": "N/A",
+        "reference": "N/A",
+        "coordinates": {
+            "Latitude": 59.36295999999999,
+            "Longitude": 18.1468
+        },
+        "cluster": 6
+    }
+}

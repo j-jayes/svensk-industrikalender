@@ -1,0 +1,386 @@
+{
+    "1": {
+        "name": "Vännland",
+        "location": "Ulvsunda 1, Stockholm",
+        "contact": {
+            "office": "Ulvsunda 1, Stockholm",
+            "phone": [
+                "Stockholm 282510"
+            ],
+            "postgiro": "1719",
+            "head_office": "Stockholm",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "xxx"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "xxx"
+                },
+                {
+                    "location": "Karlstad",
+                    "phone": "xxx"
+                },
+                {
+                    "location": "Karlskoga",
+                    "phone": "xxx"
+                },
+                {
+                    "location": "Östersund",
+                    "phone": "xxx"
+                },
+                {
+                    "location": "Örebro",
+                    "phone": "xxx"
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": "xxx"
+                }
+            ],
+            "telegraph": "Galor, Stockholm",
+            "factory_office": "xxx",
+            "factory_phone": "xxx"
+        },
+        "financials": {
+            "capital": "1,125,000 kr",
+            "employees": {
+                "industrial": 350
+            },
+            "annual_turnover": "xxx",
+            "annual_production_value": "4,300,000 kr"
+        },
+        "foundation_year": 1902,
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "Ordförande"
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "Fil. Lic."
+            },
+            {
+                "name": "Hjalmar Degerstedt",
+                "role": "Direktör"
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "Direktör"
+            },
+            {
+                "name": "Gustaf Osvald",
+                "role": "Direktör"
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "Direktör"
+            }
+        ],
+        "director": "C. L. Rydh",
+        "managing_director": "C. L. Rydh",
+        "sales_manager": "Edvard Ryd",
+        "coordinates": {
+            "Latitude": 59.33688530000001,
+            "Longitude": 17.9638876
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "AB. Wermlandsbryggerier",
+        "location": "Karlstad",
+        "products": "xxx",
+        "contact": {
+            "office": "Karlsta",
+            "phone": [
+                "11883"
+            ],
+            "postgiro": "xxx",
+            "head_office": "xxx",
+            "sales_offices": [],
+            "telegraph": "xxx",
+            "factory_office": "xxx",
+            "factory_phone": "xxx"
+        },
+        "financials": {
+            "capital": "1,500,000 kr"
+        },
+        "foundation_year": 1939,
+        "board": [
+            {
+                "name": "Nils G. Arvedson",
+                "role": "Ordförande"
+            },
+            {
+                "name": "Stig Allsing",
+                "role": "Torgm."
+            },
+            {
+                "name": "Arved Arvedson",
+                "role": "Ing."
+            },
+            {
+                "name": "Amon Bäcklund",
+                "role": "Direktör"
+            },
+            {
+                "name": "Sven Jansson",
+                "role": "Disp."
+            },
+            {
+                "name": "John Löfgren",
+                "role": "Disp."
+            }
+        ],
+        "director": "Sven Jansson",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "AB. Värmlandshus",
+        "location": "Skattkärr",
+        "products": "Monteringsfärdiga trähus",
+        "contact": {
+            "office": "Skattkärr",
+            "phone": [
+                "90",
+                "91"
+            ],
+            "postgiro": "81091",
+            "head_office": "xxx",
+            "sales_offices": [
+                {
+                    "location": "Oullspång",
+                    "phone": "xxx"
+                }
+            ],
+            "telegraph": "xxx",
+            "factory_office": "Skattkärr",
+            "factory_phone": "xxx"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industrial": 40
+            },
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1942,
+        "director": "Göte Wästlund",
+        "coordinates": {
+            "Latitude": 59.41224800000001,
+            "Longitude": 13.6709545
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "AB. Värmlands Trikåfabrik",
+        "location": "Karlstad",
+        "products": "Trikåvaror av ull, bomull och silke",
+        "contact": {
+            "office": "Karlstad",
+            "phone": [
+                "11160",
+                "12610"
+            ],
+            "postgiro": "72545",
+            "head_office": "xxx",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "331356"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "24755"
+                }
+            ],
+            "telegraph": "Trikå, Karlstad",
+            "factory_office": "Tidafors, Molkom",
+            "factory_phone": "xxx"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industrial": 150
+            }
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "Otto Ågren",
+                "role": "Jur. Kand."
+            },
+            {
+                "name": "S. Felländer",
+                "role": "Direktör"
+            },
+            {
+                "name": "Harry Nyman",
+                "role": "Kamrer"
+            },
+            {
+                "name": "S. Warholm",
+                "role": "Direktör"
+            },
+            {
+                "name": "Gustaf Widén",
+                "role": "Direktör"
+            }
+        ],
+        "director": "S. Warholm",
+        "sales_manager": "John Lundqvist",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "Värmlands Träindustri AB.",
+        "location": "Göteborg",
+        "products": "Sågade och hyvlade trävaror samt lådbräder",
+        "contact": {
+            "office": "Lilla Bommenstorg 2, Göteborg",
+            "phone": [
+                "134386"
+            ],
+            "postgiro": "42617",
+            "head_office": "xxx",
+            "sales_offices": [],
+            "telegraph": "Wejba, Göteborg",
+            "factory_office": "Sävenäs, Göteborg",
+            "factory_phone": "xxx"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industrial": 50
+            },
+            "annual_production_value": "4,000 stds trävaror"
+        },
+        "foundation_year": 1925,
+        "board": [
+            {
+                "name": "Ivan Andersson",
+                "role": "Verkst. Dir."
+            }
+        ],
+        "director": "Ivan Andersson",
+        "manager": "Eric Anderson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "AB. Värnamo Bryggeri",
+        "location": "Värnamo",
+        "products": "Malt- och läskedrycker",
+        "contact": {
+            "phone": [
+                "9",
+                "753"
+            ],
+            "postgiro": "74567"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industrial": 15
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "J. Ramberg",
+                "role": "Adv."
+            },
+            {
+                "name": "Henrik Andersson",
+                "role": "Köpm."
+            },
+            {
+                "name": "Eva André",
+                "role": "Frv"
+            }
+        ],
+        "director": "Eva André",
+        "sales_manager": "Erik Boustedt",
+        "manager": "Gösta Harksen",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Värnamo Byggnadssnickeri, Cust. Lindberg",
+        "location": "Värnamo",
+        "products": "Fönster, dörrar, trappor och inredningar",
+        "contact": {
+            "office": "Cust. Lindberg, Värnamo",
+            "phone": [
+                "10164",
+                "11011"
+            ],
+            "postgiro": "130851"
+        },
+        "financials": {
+            "employees": {
+                "industrial": 10
+            },
+            "annual_production_value": "140,000 kr"
+        },
+        "foundation_year": 1925,
+        "manager": "Gustaf Lindberg",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "AB. Värnamo Cummifabrik",
+        "location": "Värnamo",
+        "products": "Cykeldäck, cykelslangar, gummistövlar, tennis- och gymnastikskor, tekniska artiklar m. m.",
+        "contact": {
+            "phone": [
+                "9",
+                "753"
+            ],
+            "postgiro": "74567"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industrial": 500
+            },
+            "annual_production_value": "9,000,000 kr"
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "Tage Warborn",
+                "role": "Disp."
+            }
+        ],
+        "director": "Gösta ödmann",
+        "managing_director": "B. Sigfr. Nilsson",
+        "sales_manager": "Herlof Larsson",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 1
+    }
+}

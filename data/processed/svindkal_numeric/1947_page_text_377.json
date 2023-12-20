@@ -1,0 +1,237 @@
+{
+    "1": {
+        "name": "Häftstiftsfabrikenr—H äggådalen",
+        "location": "Örebro",
+        "business": "Häftstiftsproduktion",
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": 1358000
+        },
+        "foundation_year": 1682,
+        "corporation_year": 1899,
+        "board": [
+            {
+                "name": "kammarherre Fredrik v. Mecklenburg",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. W. Schull-ström",
+                "role": "v. ordf."
+            },
+            {
+                "name": "disp. Em. Ljungström",
+                "role": "disp."
+            }
+        ],
+        "director": "Em. Ljungström",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Hägglund & Söner",
+        "location": "Örnsköldsvik",
+        "business": "Karosseri- och mekanisk tillverkning",
+        "products": "Omnibusskarosserier, spårvagnar, rälsbussar, elektriska svetsmaskiner, skolbänkar, bastuaggregat, lamellskidor",
+        "contact": {
+            "phone": [
+                "1440"
+            ],
+            "postgiro": "28950"
+        },
+        "financials": {
+            "capital": 693000,
+            "employees": {
+                "industriarb": 800
+            },
+            "annual_turnover": 12000000
+        },
+        "foundation_year": 1899,
+        "corporation_year": 1922,
+        "board": [
+            {
+                "name": "dir. Per Evert Hägglund",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Gösta E. Hägglund",
+                "role": "v. ordf."
+            },
+            {
+                "name": "fabr. Gustaf Hägglund",
+                "role": "fabr."
+            }
+        ],
+        "director": "P. E. Hägglund",
+        "sales_manager": "Georg Skogsberg",
+        "manager": "John Lundblad",
+        "coordinates": {
+            "Latitude": 63.29004740000001,
+            "Longitude": 18.7166166
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Joh. Hägglund",
+        "location": "Örnsköldsvik",
+        "business": "Sko- och handsktillverkning samt hud- och skinnexport",
+        "products": "Sportskodon, norrlandspjäxor, arbetshandskar, raggsockor",
+        "contact": {
+            "telegraph": "Hägglundarna",
+            "phone": "2402",
+            "postgiro": "28943"
+        },
+        "financials": {
+            "capital": 208000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": 1450000
+        },
+        "corporation_year": 1920,
+        "board": [
+            {
+                "name": "dir. John Hägglund",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Hjalmar Hägglund",
+                "role": "dir."
+            },
+            {
+                "name": "fabr. Karl H. Hägglund",
+                "role": "fabr."
+            }
+        ],
+        "director": "Hjalmar Hägglund",
+        "coordinates": {
+            "Latitude": 63.29004740000001,
+            "Longitude": 18.7166166
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Fritz Haeggström AB.",
+        "location": "Stockholm",
+        "business": "Fiskkonservfabrik och engroshandel i kolonialvaror",
+        "products": "Ansjovis, sill- och kaviarinläggningar",
+        "contact": {
+            "office": "Malmgårdsvägen 63",
+            "telegraph": "Merchants",
+            "phone": "440500",
+            "postgiro": "3937"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 1000000
+        },
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "Verkst. dir. Fritz Haeggström",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Ivar Haeggströms Boktryckeri & Bokförlags AB.",
+        "location": "Stockholm",
+        "business": "Boktryckeri, ståltryckeri och litografisk anstalt",
+        "contact": {
+            "office": "G:la Brog. 26",
+            "phone": "Ivar Haeggströms",
+            "postgiro": "3430"
+        },
+        "financials": {
+            "capital": 800000,
+            "employees": {
+                "industriarb": 129
+            }
+        },
+        "corporation_year": 1899,
+        "board": [
+            {
+                "name": "disp. H. Engstrand",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Göran Z. Haeggström",
+                "role": "dir."
+            }
+        ],
+        "director": "Göran Z. Haeggström",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "AB. Torsten Häggström",
+        "location": "Borås",
+        "business": "Trikåfabrik",
+        "products": "Jumpers, koftor, stickade barnkläder, babyartiklar, herrvästar, slipovers",
+        "contact": {
+            "office": "Wiskabergs Fabriker",
+            "phone": "13428",
+            "postgiro": "71601"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 32,
+                "hemarbetare": 150
+            },
+            "annual_turnover": 900000
+        },
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "dir. Erik Häggström",
+                "role": "dir."
+            }
+        ],
+        "director": "Torsten Häggström",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "7": {
+        "name": "Häggådalens Mek. Linneväfveriers AB.",
+        "location": "Kinna",
+        "business": "Linneväveri, blekeri och appreteringsverk",
+        "products": "Duktyger, servietter, handdukar i damast, jacquard, dräll",
+        "contact": {
+            "telegraph": "Linne",
+            "phone": "10027 o. 10207",
+            "postgiro": "7998"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": {
+                "industriarb": 211
+            },
+            "annual_turnover": 6000000
+        },
+        "coordinates": {
+            "Latitude": 57.50984,
+            "Longitude": 12.6941321
+        },
+        "cluster": 3
+    }
+}

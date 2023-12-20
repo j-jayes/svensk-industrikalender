@@ -1,0 +1,157 @@
+{
+    "1": {
+        "name": "Eskilstuna Knivfabriks AB",
+        "location": "Eskilstuna",
+        "business": "Smidesverkstad och stålvarufabrik",
+        "products": "Tillverkar fickknivar och hopfällbara yrkesknivar samt maskinknivar för tobaksindustrien; utför förnickling och metalletsning. Varumärke: EKA",
+        "contact": {
+            "office": "Telefon: 30074 o. 30184",
+            "postgiro": "27775"
+        },
+        "financials": {
+            "capital": "73,000 kr",
+            "employees": {
+                "industriarb": 33
+            },
+            "annual_turnover": "220,000 kr",
+            "annual_production_value": "220,000 kr"
+        },
+        "foundation_year": 1882,
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Eskilstuna-Kurirens Tryckeri AB",
+        "location": "Eskilstuna",
+        "business": "Tidningstryckeri",
+        "contact": {
+            "office": "Telefon: Kuriren, Eskilstuna",
+            "postgiro": "27788"
+        },
+        "financials": {
+            "capital": "31,740 kr",
+            "employees": {
+                "industriarb": 22
+            }
+        },
+        "foundation_year": 1890,
+        "current_name_year": 1894,
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Eskilstuna Låsfabrik, Östmark & Co.",
+        "location": "Eskilstuna",
+        "business": "Tillverkar patentlås (märke: »Elö»), deuxbattantlås, lås för kylskåp och grindar m. m. samt kassaskåpslås",
+        "contact": {
+            "office": "Telefon: 31455",
+            "postgiro": "33863"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1917,
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Eskilstuna Mesost- & Margarinfabrik AB",
+        "location": "Eskilstuna",
+        "business": "Tillverkar mesost och messmör",
+        "products": "Varumärken: »Gyllen-ost», »Rut-ost», »Gullans messmör» o. »Stintans messmör»",
+        "contact": {
+            "office": "Telefon: 30290",
+            "postgiro": "10699"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 33
+            }
+        },
+        "foundation_year": 1887,
+        "corporation_year": 1939,
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Eskilstuna Metall- och Vagnslyktfabrik AB",
+        "location": "Eskilstuna",
+        "business": "Metall varufabrik",
+        "products": "Tillverkar köksinredningar såsom diskbänkar, hyllor nu m. i rostfritt stål samt kokkärl och övriga husgeråd i aluminium, rostfritt och koppar",
+        "contact": {
+            "office": "Telefon: 31288",
+            "postgiro": "10706"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1907,
+        "corporation_year": 1943,
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Eskilstuna Metallindustri, Bröd. Malmgren & Poréus",
+        "location": "Eskilstuna",
+        "business": "Tillverkar nysilverartiklar såsom brickor, brödkorgar, grädd- och kaffeserviser, kandelabrar och ljusstakar, fat m. m., tennvaror samt elektr. kok- och värmeapparater",
+        "contact": {
+            "office": "Telefon: 31619",
+            "postgiro": "26838"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1920,
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Eskilstunasteel",
+        "location": "Torshälla",
+        "business": "Smidesfabrik",
+        "products": "Tillverkar putshyvlar av järn, hyveljärn, huggjärn, skruv- och huggmejslar, yrkesknivar såsom skomakarknivar, tillskärarknivar, gummiknivar, läder- och linoleumknivar samt verktygsskaft, snickarklubbor m. m.",
+        "contact": {
+            "office": "Telefon: Eskilstuna 55316",
+            "postgiro": "97897"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "375,000 kr"
+        },
+        "foundation_year": 1936,
+        "coordinates": {
+            "Latitude": 59.42129649999999,
+            "Longitude": 16.4769698
+        },
+        "cluster": 6
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "1": {
+        "name": "Hellefors",
+        "location": "Hällefors",
+        "business": "Ståltillverkning och distribuering av elektrisk energi",
+        "products": "Stålprodukter, sågade och hyvlade trävaror, lådor och lådämnen samt byggnadssnickerier",
+        "contact": {
+            "office": "Hällefors",
+            "telegraph": "Trävaror o. cellulosa: Hellefors-wood; stållinor: Lina, i övrigt: Hellefors, Filipstad",
+            "postgiro": "80675",
+            "sales_offices": [
+                {
+                    "location": "Sikfors",
+                    "phone": ""
+                },
+                {
+                    "location": "Fredriksberg",
+                    "phone": ""
+                },
+                {
+                    "location": "Bångbro",
+                    "phone": ""
+                },
+                {
+                    "location": "Kristinehamn",
+                    "phone": ""
+                }
+            ]
+        },
+        "financials": {
+            "capital": "10,000,000 kr",
+            "employees": {
+                "industriarbetare": 2000
+            },
+            "annual_turnover": "40,000 ton järn och stål samt produkter därav, 10,000 stds sågade och hyvlade trävaror, 5,000 stds lådämnen och lådor, 14,000 ton sulfitmassa, 10,000 ton sulfatmassa och 12,000 ton kraftpapp"
+        },
+        "foundation_year": 1639,
+        "corporation_year": 1864,
+        "board": [
+            {
+                "name": "Gustaf Söderlund",
+                "role": "ordförande"
+            },
+            {
+                "name": "P. Brundell",
+                "role": "bankdirektör"
+            },
+            {
+                "name": "Ernst C:son Herslow",
+                "role": "bankdirektör"
+            },
+            {
+                "name": "Alf Lindahl",
+                "role": "advokat"
+            },
+            {
+                "name": "Ernst Wehtje",
+                "role": "direktör"
+            },
+            {
+                "name": "P. O. Westerberg",
+                "role": "direktör"
+            },
+            {
+                "name": "Th. Wigelius",
+                "role": "disp."
+            }
+        ],
+        "owners": [],
+        "director": "Thorsten Wigelius",
+        "managing_director": "Sven L. Wahlström",
+        "sales_manager": "Johan Paues",
+        "manager": "Ed v. Jarnulf",
+        "coordinates": {
+            "Latitude": 59.783688,
+            "Longitude": 14.5225692
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Sikfors Bruk o. gruvavd.",
+        "location": "Sikfors",
+        "business": "Masugn, anriknings- och sintringsverk samt kolkning",
+        "products": "Järnmalmsgruvor, kalksten och kolprodukter",
+        "contact": {},
+        "financials": {},
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 65.5295328,
+            "Longitude": 21.1946713
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Bängbroverken",
+        "location": "Bångbro",
+        "business": "Tillverkning av kallvalsat bandjärn och bandstål",
+        "products": "Bland annat ur- och grammofonfjäderstål, stål för trä- och metallbandsågar, bågfilstål, mått-bandstål, rakbladstål",
+        "contact": {},
+        "financials": {},
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 59.8613369,
+            "Longitude": 15.0421587
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Stållinefabriken",
+        "location": "Kristinehamn",
+        "business": "Tillverkning av ståltrådslinor och dragen ståltråd samt svetsningstråd",
+        "products": "",
+        "contact": {},
+        "financials": {},
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 59.3100677,
+            "Longitude": 14.1089192
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Fredriksbergsverken",
+        "location": "Fredriksberg",
+        "business": "Tillverkning av sulfit-, sulfat- och pappmassa",
+        "products": "Sulfit- och sulfatcellulosa samt sulfatpapp",
+        "contact": {},
+        "financials": {},
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 60.1409773,
+            "Longitude": 14.3732764
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Hellman & Co. AB.",
+        "location": "Stockholm",
+        "business": "Färg- och fernissfabrik",
+        "products": "Industrilackfärger, skeppsfärger, fernissor, dekorationsfärger, specialoljor samt kem. tekniska artiklar",
+        "contact": {
+            "office": "Lövholmsvägen 49, Stockholm 9",
+            "telegraph": "Cresta, Stockholm",
+            "postgiro": "848",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "164393"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "33880"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 24
+            }
+        },
+        "foundation_year": 1878,
+        "corporation_year": 1919,
+        "director": "ing. Sven Fagerberg",
+        "sales_manager": "Arne Sörensen-Ringi",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    }
+}

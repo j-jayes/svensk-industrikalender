@@ -1,0 +1,314 @@
+{
+    "1": {
+        "name": "AB. Stockholms Nya Järnsängsfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar sängar",
+        "contact": {
+            "office": "Regeringsg. 52",
+            "phone": [
+                "113477",
+                "209449"
+            ],
+            "postgiro": "3126",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": " Ej tillgänglig",
+            "employees": {
+                "Industriarb": 0
+            },
+            "annual_turnover": "Ej tillgänglig",
+            "annual_production_value": 500000
+        },
+        "foundation_year": 1923,
+        "director": "Thure Block",
+        "manager": "Fritz W. Johnsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Stockholms Pappersindustri",
+        "location": "Stockholm",
+        "business": "Pappersförädling",
+        "products": "Tårt- och fatpapper, knäck- och bakelsekapslar, kartonger, anilintryck m. m.",
+        "contact": {
+            "office": "Lindhagensg. 124—126",
+            "phone": [
+                "532622",
+                "532680"
+            ],
+            "postgiro": "51442",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "Industriarb": 35
+            },
+            "annual_turnover": "Ej tillgänglig",
+            "annual_production_value": 600000
+        },
+        "foundation_year": 1929,
+        "director": "Axel G. Karlsson",
+        "manager": "Martin Olsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Stockholms Pälsvarufabriks AB",
+        "location": "Stockholm",
+        "business": "Tillverkar pälsvaror",
+        "contact": {
+            "office": "Hamng. 36",
+            "phone": [
+                "109361",
+                "105411"
+            ],
+            "postgiro": "154134",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "Industriarb": 20
+            },
+            "annual_turnover": "Ej tillgänglig",
+            "annual_production_value": 800000
+        },
+        "foundation_year": 1911,
+        "current_name_year": 1938,
+        "board": [
+            {
+                "name": "Anton Pettersson",
+                "role": "ordf."
+            },
+            {
+                "name": "Alf Norlander",
+                "role": "bankkamrer"
+            },
+            {
+                "name": "G. Wöhrne",
+                "role": "dir."
+            }
+        ],
+        "director": "G. Wöhrne",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "AB. Stockholms Ris- &amp; Valskvarn",
+        "location": "Stockholm",
+        "business": "Tillverkar risgryn, korngryn, rismjöl, kornmjöl",
+        "contact": {
+            "office": "Kvarnholmen",
+            "phone": [
+                "433050",
+                "51"
+            ],
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_turnover": "Ej tillgänglig",
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1934,
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "fil. lic."
+            },
+            {
+                "name": "Hjalmar Degerstedt",
+                "role": "dir."
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "dir."
+            },
+            {
+                "name": "G. Osvald",
+                "role": "dir."
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "dir."
+            }
+        ],
+        "director": "Albin Johansson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Stockholms Siporexfabrik AB",
+        "location": "Stockholm",
+        "business": "Betongvarufabriker, tillverkar armerad och oarmerad lättbetong, isoleringstegel",
+        "contact": {
+            "office": "Norrlandsg. 7",
+            "phone": "234780",
+            "postgiro": "154687",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "Antal industriarb": 250
+            },
+            "annual_turnover": "Ej tillgänglig",
+            "annual_production_value": "Ej tillgänglig"
+        },
+        "foundation_year": 1935,
+        "current_name_year": 1938,
+        "board": [
+            {
+                "name": "Ernst Wehtje",
+                "role": "ordf."
+            },
+            {
+                "name": "Bror Sjögren",
+                "role": "dir."
+            },
+            {
+                "name": "H. Seb. Tham",
+                "role": "disp."
+            }
+        ],
+        "director": "Bror Sjögren",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "AB. Stockholms Skofabrik",
+        "location": "Stockholm",
+        "business": "Sko- och gasmaskfabrik, skoreparation",
+        "products": "Skodon med märkena: »Salamander», »Garanti», »Sana», skyddsgasmasker med märke: »Garanti»",
+        "contact": {
+            "office": "Brännkyrkag. 167",
+            "phone": "440240",
+            "postgiro": "2969",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 810000,
+            "employees": {
+                "industriarb": 185
+            },
+            "annual_turnover": "Ej tillgänglig",
+            "annual_production_value": 3000000
+        },
+        "foundation_year": 1890,
+        "board": [
+            {
+                "name": "E. Herin",
+                "role": "major"
+            },
+            {
+                "name": "Georg Karlson",
+                "role": "dir."
+            },
+            {
+                "name": "Victor Wetterström",
+                "role": "grossh."
+            }
+        ],
+        "director": "Georg Karlson",
+        "manager": "Gösta Ressner",
+        "sales_manager": "Fru M. Kreiiger",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "AB. Stockholms Strumpfabrik",
+        "location": "Huddinge",
+        "business": "Strumpfabrik, beställningsfärgeri",
+        "products": "Strumpor",
+        "contact": {
+            "phone": [
+                "571011",
+                "571033"
+            ],
+            "postgiro": "33605",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 700000,
+            "employees": {
+                "Industriarb": 210
+            },
+            "annual_turnover": "Ej tillgänglig",
+            "annual_production_value": 3000000
+        },
+        "foundation_year": 1928,
+        "current_name_year": 1943,
+        "board": [
+            {
+                "name": "Axel Wallenberg",
+                "role": "envoyé"
+            },
+            {
+                "name": "Tore Grönwall",
+                "role": "dir."
+            },
+            {
+                "name": "Algot Jansson",
+                "role": "civiling."
+            },
+            {
+                "name": "Ernst Wahlquist",
+                "role": "kapten"
+            },
+            {
+                "name": "Victor Wallenberg",
+                "role": "ing."
+            }
+        ],
+        "director": "Algot Jansson",
+        "manager": "Malte Braun",
+        "coordinates": {
+            "Latitude": 59.23633,
+            "Longitude": 17.9821561
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "Stockholms Superfosfat Fabriks AB",
+        "location": "Stockholm",
+        "business": "Kemiska och elektrokemiska fabriker",
+        "contact": {
+            "sales_offices": []
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    }
+}

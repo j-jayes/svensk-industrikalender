@@ -1,0 +1,257 @@
+{
+    "1": {
+        "name": "D. Nyqvist, Ljungby Trikåindustri",
+        "location": "Ljungby",
+        "business": "Trikåindustri",
+        "contact": {
+            "office": "Ljungby",
+            "telegraph": "Aena, Nyköping"
+        },
+        "financials": {
+            "capital": 1500000,
+            "employees": {
+                "industriarb": 150
+            }
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "dir. Wilhelm Josephson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gunnar K. H. Andersson",
+                "role": ""
+            },
+            {
+                "name": "adv. C. M. Fallenius",
+                "role": ""
+            },
+            {
+                "name": "bergsing. Carl J. Kjellberg",
+                "role": ""
+            },
+            {
+                "name": "adv. Ivar Philipson",
+                "role": ""
+            }
+        ],
+        "manager": "C. J. Kjellberg",
+        "sales_manager": "Arne Granström",
+        "coordinates": {
+            "Latitude": 56.8338774,
+            "Longitude": 13.9410417
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Nyköpings Bryggeri AB.",
+        "location": "Nyköping",
+        "business": "Bryggeri",
+        "contact": {
+            "telephone": "Bryggeribolaget",
+            "postgiro": "11777"
+        },
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 1400000
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "dir. Otto Lindeberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl Axel Anderson",
+                "role": ""
+            },
+            {
+                "name": "dir. Bure Holmbäck",
+                "role": ""
+            }
+        ],
+        "manager": "Carl Axel Anderson",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Nyköpings Ekmöbelfabrik",
+        "location": "Nyköping",
+        "business": "Ekmöbelfabrik",
+        "contact": {
+            "telephone": "292",
+            "postgiro": "28356"
+        },
+        "financials": {
+            "capital": 52900,
+            "employees": {
+                "industriarb": 22
+            },
+            "annual_production_value": 220000
+        },
+        "foundation_year": 1909,
+        "manager": "Carl Johan Johansson",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Nyköpings Entreprenad AB.",
+        "location": "Nyköping",
+        "business": "Byggnadsentreprenörfirma",
+        "contact": {
+            "telegraph": "Neab, Nyköping",
+            "telephone": "Entreprenadbolaget",
+            "postgiro": "70821"
+        },
+        "financials": {
+            "capital": 75000,
+            "annual_production_value": 3000000
+        },
+        "foundation_year": 1945,
+        "board": [
+            {
+                "name": "adv. Herman Heilborn",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl-Axel Andersson",
+                "role": ""
+            },
+            {
+                "name": "ing. Thage Andersson",
+                "role": ""
+            }
+        ],
+        "manager": "Thage Andersson",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "AB. Nyköpings Culdlistfabrik",
+        "location": "Nyköping",
+        "business": "Tillverkning av fotografiramar",
+        "contact": {
+            "telephone": "1661",
+            "postgiro": "132498",
+            "stockholm_representative": {
+                "company": "Herm. Bornemann AB.",
+                "telephone": "112730"
+            }
+        },
+        "financials": {
+            "capital": 25000,
+            "annual_production_value": 550000
+        },
+        "foundation_year": 1939,
+        "manager": "Hilmer A. Andersson",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "Nyköpings Metallfabriks AB.",
+        "location": "Nyköping",
+        "business": "Tillverkning av metallinredningar",
+        "contact": {
+            "telephone": "114",
+            "postgiro": "26136"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": {
+                "industriarb": 21
+            },
+            "annual_production_value": 120000
+        },
+        "foundation_year": 1921,
+        "manager": "Göte Blomdahl",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "Nyköpings Nya Möblerings AB.",
+        "location": "Nyköping",
+        "business": "Möbelfabrik",
+        "contact": {
+            "telephone": "700"
+        },
+        "financials": {
+            "capital": 15000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": 480000
+        },
+        "foundation_year": 1933,
+        "manager": "John Tapper",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "AB. Nyköpings Storhusqvarn",
+        "location": "Nyköping",
+        "business": "Valskvarn",
+        "contact": {
+            "telegraph": "Storhusqvarn, Nyköping",
+            "telephone": "360",
+            "postgiro": "10287"
+        },
+        "financials": {
+            "capital": 600000,
+            "employees": {
+                "industriarb": 19
+            },
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1888,
+        "board": [
+            {
+                "name": "v. konsul Carl Nilsson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Hj. Carlborn",
+                "role": ""
+            },
+            {
+                "name": "kontorschef Teodor Ceder",
+                "role": ""
+            },
+            {
+                "name": "dir. Sidney Holm",
+                "role": ""
+            },
+            {
+                "name": "civiling. Gunnar Molin",
+                "role": ""
+            }
+        ],
+        "manager": "Hj. Carlborn",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 1
+    }
+}

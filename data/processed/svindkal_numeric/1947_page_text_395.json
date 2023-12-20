@@ -1,0 +1,255 @@
+{
+    "1": {
+        "name": "Jahnkes Paraplyfabrik",
+        "location": "Malmö",
+        "business": "Tillverkar paraplyer",
+        "contact": {
+            "office": "Skeppsbron 5",
+            "phone": [
+                "76788"
+            ],
+            "postgiro": "147790",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "201338"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 700000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 250000,
+            "annual_production_value": 250000
+        },
+        "foundation_year": 1934,
+        "director": "Arne Janson",
+        "owners": [
+            "fröken Annagreta Jahnke"
+        ],
+        "board": [
+            {
+                "name": "dir. David Sanden",
+                "role": "ordf."
+            },
+            {
+                "name": "köpman Axel Sanden",
+                "role": "member"
+            },
+            {
+                "name": "köpman Ragnar Sanden",
+                "role": "member"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Jahrls Mek. Verkstad",
+        "location": "Örebro",
+        "business": "Tillverkar instrument, precisionsapparater, maskindelar samt verktyg för mekaniska industrien. Varumärke: »Jal».",
+        "contact": {
+            "telegraph": "Jal, Örebro",
+            "phone": "13077",
+            "postgiro": "99264"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": 1200000
+        },
+        "foundation_year": 1915,
+        "director": "fabr. Erik Jahrl",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Jakobsbergs Snickerifabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar byggnadssnickerier och inredningar m. m. vid fabrik i Jakobsberg (Sthlms l.)",
+        "contact": {
+            "office": "Stockholm, Kungsg. 50",
+            "phone": "115474",
+            "postgiro": "79454"
+        },
+        "financials": {
+            "capital": 42500,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 200000
+        },
+        "foundation_year": 1929,
+        "corporation_year": 1936,
+        "director": "trävaruhandl. Viktor Kri-ström",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "’Jakobsbergs Träindustri AB.",
+        "location": "Jakobsberg",
+        "business": "Tillverkar byggnadssnickerier, köks-och butiksinredningar, bänkfönster m. m. i Jakobsberg (Sthlms l.)",
+        "contact": {
+            "phone": "99",
+            "postgiro": "99297"
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_turnover": 100000
+        },
+        "foundation_year": 1936,
+        "director": "Wiktor Björklund",
+        "coordinates": {
+            "Latitude": 59.42257099999999,
+            "Longitude": 17.833131
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "AB. Jakobsdals Kamgarnsspinneri",
+        "location": "Göteborg",
+        "business": "Kamgarnsspinneri i örgryte, Göteborg. Tillverkar oblekta och färgade kamgarner. Varumärke: »Ekorren».",
+        "contact": {
+            "head_office": "Göteborg",
+            "phone": "170810",
+            "postgiro": "25565",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "111498"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "24758"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": 3500000
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "Linus Höglund",
+                "role": "Verkst. direktör"
+            },
+            {
+                "name": "J. W. Kinde",
+                "role": "Verkst. direktör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "’Jakobsdals Textilindustri AB.",
+        "location": "Katrineholm",
+        "business": "Tillverkar barn- och flickkläder samt sportartiklar. Varumärke: »Fin-nett».",
+        "contact": {
+            "phone": "1358",
+            "postgiro": "12262"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": 600000
+        },
+        "foundation_year": 1933,
+        "director": "Eric T. Nilsson",
+        "coordinates": {
+            "Latitude": 58.99555109999999,
+            "Longitude": 16.2054756
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Jacobsson & Anderssons Eftr. Handskfabrik",
+        "location": "Malmö",
+        "business": "Tillverkar handskar",
+        "contact": {
+            "office": "S. Förstadsg. 13",
+            "telegraph": "Jacand, Malmö",
+            "phone": "25123"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": 800000
+        },
+        "foundation_year": 1867,
+        "owners": [
+            "fabr. K. A. Nordenfeldt"
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "AB. Jakobssons Industrier",
+        "location": "Säffle",
+        "business": "Möbelfabrik, sågverk och exporthyvleri i Säffle (Värml. l.). Tillverkar bonade och lackerade möbler samt sågade och hyvlade trävaror",
+        "contact": {
+            "telegraph": "Jakobssons, Säffle",
+            "phone": [
+                "125",
+                "225"
+            ],
+            "postgiro": "7894"
+        },
+        "financials": {
+            "capital": 155000,
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": 2000000
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "kassör Anders Jakobsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. John Jakobsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "ing. Petrus Jakobsson",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "John Jakobsson",
+        "coordinates": {
+            "Latitude": 59.132661,
+            "Longitude": 12.930107
+        },
+        "cluster": 7
+    }
+}

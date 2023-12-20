@@ -1,0 +1,181 @@
+{
+    "1": {
+        "name": "Hörmun—I dun",
+        "location": "Lysekil",
+        "business": "Konservfabrik",
+        "products": "Tillverkar sillkonserver och ansjovis. Varumärken för ansjovis: »Nornan», »Delfin» o. »Fenix».",
+        "contact": {
+            "office": "Not available",
+            "phone": [
+                "73"
+            ],
+            "postgiro": "22198"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "Arb.-antal": 11
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1897,
+        "current_name_year": "Not available",
+        "director": "Allan Forsström",
+        "coordinates": {
+            "Latitude": 58.27557299999999,
+            "Longitude": 11.435558
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB. Idealmöbler",
+        "location": "Nässjö",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "994"
+            ],
+            "postgiro": "134431"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "Antal industriarb.": 15
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1937,
+        "current_name_year": "Not available",
+        "board": [
+            {
+                "name": "Bertil Edfeldt",
+                "role": "disp."
+            },
+            {
+                "name": "Anders Edfeldt",
+                "role": "fabr."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Ideas Motorfabrik",
+        "location": "Göteborg",
+        "business": "Motorfabrik och fartygsslip",
+        "products": "Tillverkar stationära och marina råoljemotorer (märke: »Ideal») samt utför reparationer av motorer och fartyg.",
+        "contact": {
+            "office": "Not available",
+            "phone": [
+                "144956",
+                "144792"
+            ],
+            "postgiro": "40385"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "Antal industriarb.": 30
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "225,000 kr"
+        },
+        "foundation_year": 1926,
+        "current_name_year": "Not available",
+        "director": "Knut Jonsson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Idkerbergets Gruf AB.",
+        "location": "Idkerberget",
+        "business": "Järnmalmsgruvor",
+        "products": "Bryter järnmalm.",
+        "contact": {
+            "phone": [
+                "Borlänge 39041"
+            ],
+            "postgiro": "94350"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "Antal industriarb.": 280
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1921,
+        "current_name_year": "Not available",
+        "owners": [
+            "Ställbergs Grufve AB"
+        ],
+        "board": [
+            {
+                "name": "G. A. Klingspor",
+                "role": "hovstallmäst."
+            },
+            {
+                "name": "Robert v. Horn",
+                "role": "kabinettskammarh."
+            },
+            {
+                "name": "J. Kempe",
+                "role": "disp."
+            },
+            {
+                "name": "B. Klingspor",
+                "role": "kammarh."
+            },
+            {
+                "name": "W. Klingspor",
+                "role": "hovjägmäst."
+            },
+            {
+                "name": "Hugo Stenbeck",
+                "role": "adv."
+            }
+        ],
+        "director": "disp. B. Stein",
+        "manager": "G. Norrbohm",
+        "coordinates": {
+            "Latitude": 60.3804351,
+            "Longitude": 15.2277302
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Iduns Tryckeri",
+        "location": "Stockholm",
+        "business": "Utför bok-, offset- och djuptryck",
+        "products": "Kemigrafiska arbeten samt tillverkar såsom specialitet kort- och vertikalsystem.",
+        "contact": {
+            "office": "Vasag. 16—18",
+            "telegraph": "Iduntryckeriet, Stockholm",
+            "phone": "Not available",
+            "postgiro": "3014"
+        },
+        "foundation_year": 1892,
+        "current_name_year": "Not available",
+        "board": [
+            {
+                "name": "Gösta Smith",
+                "role": "disp."
+            }
+        ],
+        "manager": "faktor Fritz Ek",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    }
+}

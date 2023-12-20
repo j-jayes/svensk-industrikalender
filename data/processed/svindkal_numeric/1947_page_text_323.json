@@ -1,0 +1,204 @@
+{
+    "1": {
+        "name": "Gransholms AB.",
+        "location": "Gemla",
+        "business": "Finpappersbruk och pappersförädlings-fabriker",
+        "products": "Tillverkar finare tryck-, broschyr-, post-, skriv-, skrivmaskins- och duplice-ringspapper, läsk- och filtrerpapper, pa-peterier, kasetter, postblock, kuvert, mynt-, prov- och korsbandspåsar, pappersvaror för skolbruk m. m.",
+        "contact": {
+            "office": "Gransholms Bruk, Gemla",
+            "phone": [
+                "Växjö, »Gransholms Bruk»"
+            ],
+            "postgiro": "8343",
+            "head_office": "Gransholms Bruk, Gemla",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "104044"
+                }
+            ],
+            "telegraph": "Gransholm, Växjö",
+            "factory_office": "Gransholms Bruk, Gemla",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": 687500,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "1,500 ton finpapper"
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "Arvid W. Myhrman",
+                "role": "ordf."
+            },
+            {
+                "name": "Magnus Myhrman",
+                "role": "Not available"
+            },
+            {
+                "name": "fru M. Myhrman",
+                "role": "Not available"
+            },
+            {
+                "name": "kapten L. F. Wiik",
+                "role": "Not available"
+            },
+            {
+                "name": "överste-löjtn. Filip Wijkström",
+                "role": "Not available"
+            }
+        ],
+        "current_name_year": "Not available",
+        "coordinates": {
+            "Latitude": 56.8672585,
+            "Longitude": 14.6436202
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Granstrand & Co.",
+        "location": "Gnosjö",
+        "business": "Not available",
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Granstrands Möbelfabrik",
+        "location": "Skillingaryd",
+        "business": "Tillverkar möbler, speciellt stoppstommar och fåtöljstommar",
+        "coordinates": {
+            "Latitude": 57.43058180000001,
+            "Longitude": 14.0938696
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Grantorpets Fabriks AB.",
+        "location": "Västervik",
+        "business": "Karosserifabrik",
+        "products": "Tillverkar karosserier för lastbilar, skåpvagnar, möbel transportvagnar, brandbilar och ambulanser m. m.",
+        "contact": {
+            "office": "Not available",
+            "phone": [
+                "1340",
+                "1040"
+            ],
+            "postgiro": "141291",
+            "head_office": "Not available",
+            "sales_offices": [],
+            "telegraph": "Gefa, Västervik",
+            "factory_office": "Not available",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": 160000,
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": 1500000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "hamnkamrer Hans Norberg",
+                "role": "Not available"
+            },
+            {
+                "name": "disp. Eric Paues",
+                "role": "Not available"
+            },
+            {
+                "name": "dir. Edvin Söderlind",
+                "role": "Not available"
+            }
+        ],
+        "current_name_year": "Not available",
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Cravarnes Konservfabrik, Bröderna Sanne & Co.",
+        "location": "Gravarne",
+        "business": "Tillverkar sillkonserver och kaviar",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Rudolph Grave AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar laboratorieapparater för tekn. och vetenskapliga ändamål",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Grawensteinerfabriken AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar alkoholsvaga lättviner, safter samt likörextrakter",
+        "contact": {
+            "office": "Grevg. 14",
+            "phone": [
+                "622526"
+            ],
+            "postgiro": "4571",
+            "head_office": "Not available",
+            "sales_offices": [],
+            "telegraph": "Not available",
+            "factory_office": "Not available",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": 35000,
+            "employees": {
+                "industriarb": 9
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": 180000
+        },
+        "foundation_year": 1940,
+        "board": [],
+        "current_name_year": "Not available",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "Greflunda Tegelbruk",
+        "location": "Skarhult",
+        "business": "Tillverkar tegel och tegelrör",
+        "coordinates": {
+            "Latitude": 55.8048912,
+            "Longitude": 13.3726949
+        },
+        "cluster": 0
+    },
+    "9": {
+        "name": "AB. Gren & Anderssons Bleckkärlsfabrik",
+        "location": "Sävsjö",
+        "business": "Bleckkärlsfabrik",
+        "products": "Tillverkar bleckkärl och husgerådsartiklar såsom transportflaskor, fotogenkannor, dunkar och cisterner, krönta målkärl och oljemått, trädgårdskannor, hus-.",
+        "coordinates": {
+            "Latitude": 57.39899579999999,
+            "Longitude": 14.6658136
+        },
+        "cluster": 6
+    }
+}

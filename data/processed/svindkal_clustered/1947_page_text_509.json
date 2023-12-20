@@ -1,0 +1,245 @@
+{
+    "1": {
+        "name": "F. M. Mattsson",
+        "location": "Mora",
+        "business": "Metallfabrik",
+        "products": "Tillverkar vattenledningsarmatur, spec. sanitetsarmatur samt tälj- och slidknivar.",
+        "contact": {
+            "office": "Metallfabriken, Mora",
+            "phone": [
+                "Mora 10"
+            ],
+            "postgiro": "9497",
+            "telegraph": "Metall, Mora"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 95
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1865,
+        "manager": "F. And. Mattsson",
+        "coordinates": {
+            "Latitude": 61.004878,
+            "Longitude": 14.537003
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Karl O. Mattson",
+        "location": "Göteborg",
+        "business": "Stenhuggeri",
+        "products": "Tillverkar gatsten, kantsten och råblock. Firman driver även handel med sprängämnen.",
+        "contact": {
+            "office": "Bögatan 41 C, Göteborg",
+            "phone": [
+                "162348"
+            ],
+            "postgiro": "46477"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "175,000 kr",
+            "annual_production_value": "175,000 kr"
+        },
+        "foundation_year": 1903,
+        "owner": "Leif Markenberg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "M. Mattssons Möbelfabrik",
+        "location": "Bjärnum",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar lackerade sovrumsmöbler m. m.",
+        "contact": {
+            "office": "Mattssons, Bjärnum",
+            "phone": [
+                "100"
+            ],
+            "postgiro": "135237",
+            "telegraph": "Mattssons, Bjärnum"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 16
+            },
+            "annual_turnover": "170,000 kr",
+            "annual_production_value": "170,000 kr"
+        },
+        "foundation_year": 1937,
+        "manager": "Martin Mattsson",
+        "coordinates": {
+            "Latitude": 56.2914154,
+            "Longitude": 13.7097126
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Robert Matsson",
+        "location": "Malung",
+        "business": "Tillverkning av herrhandskar",
+        "products": "Tillverkar herrhandskar",
+        "contact": {
+            "phone": [
+                "29"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1914,
+        "owner": "Robert Matsson",
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Medico, Kemisk-Teknisk Fabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar farmaceutiska och kemisk-tekn. preparat",
+        "products": "Varunamn: »Contessa», »Demonen», »Mediform», »Parasitol» o. »Degå» m. fl.",
+        "contact": {
+            "office": "Gårda",
+            "phone": [
+                "150987—88"
+            ],
+            "postgiro": "12050",
+            "telegraph": "Medico, Göteborg"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1911,
+        "manager": "Nils Lindahl",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. J. B. Meijel",
+        "location": "Halmstad",
+        "business": "Boktryckeri och bokbinderi",
+        "products": "Utför trycksaker. Firman driver även bok- och pappershandel.",
+        "contact": {
+            "phone": [
+                "Meijels"
+            ],
+            "postgiro": "14836"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 44
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "foundation_year": 1892,
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "Eric Meijel",
+                "role": "verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 5
+    },
+    "7": {
+        "name": "Mek. Bandväveriet, Käliberg & Co.",
+        "location": "Skillingaryd",
+        "business": "Bandtillverkning",
+        "products": "Tillverkar band av bomull, cellull och konstsilke",
+        "contact": {
+            "phone": [
+                "108"
+            ],
+            "postgiro": "72905"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "70,000 kr"
+        },
+        "foundation_year": 1925,
+        "manager": "John Käliberg",
+        "coordinates": {
+            "Latitude": 57.43058180000001,
+            "Longitude": 14.0938696
+        },
+        "cluster": 3
+    },
+    "8": {
+        "name": "Mek. Verkstaden Alp AB.",
+        "location": "Skillingaryd",
+        "business": "Tillverkning av mutter- och nitbrickor, pressade beslag samt hushållsmanglar",
+        "products": "Utför massartiklar av maskinarbeten, pressning, elektr. och gassvetsning.",
+        "contact": {
+            "phone": [
+                "198"
+            ],
+            "postgiro": "144782"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "120,000 kr"
+        },
+        "foundation_year": 1939,
+        "corporation_year": 1941,
+        "manager": "Einar Samuelsson",
+        "coordinates": {
+            "Latitude": 57.43058180000001,
+            "Longitude": 14.0938696
+        },
+        "cluster": 6
+    },
+    "9": {
+        "name": "Mek. Verkstaden Record AB.",
+        "location": "Stockholm",
+        "business": "Mek. verkstad och förnicklingsfabrik",
+        "products": "Utför massartiklar av maskinarbeten, pressning, elektr. och gassvetsning. Varumärke: »Reco».",
+        "contact": {
+            "office": "Norrbaekaviadukten, Stockholm",
+            "phone": [
+                "234215"
+            ],
+            "postgiro": "52690",
+            "telegraph": "Recordnickel, Stockholm"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1922,
+        "corporation_year": 1929,
+        "manager": "ing. Knut Westman",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    }
+}

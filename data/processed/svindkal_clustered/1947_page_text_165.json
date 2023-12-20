@@ -1,0 +1,241 @@
+{
+    "1": {
+        "name": "Arnbergs Fabriks AB.",
+        "location": "Höganäs",
+        "business": "Damkonfektionsfabrik och konstsilke-väveri",
+        "products": "Tillverkar korsetter, bysthållare m. m.",
+        "contact": {
+            "office": "Höganäs",
+            "phone": [
+                "2",
+                "250"
+            ],
+            "postgiro": "8597"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "annual_turnover": "3,500,000 kr"
+        },
+        "foundation_year": 1894,
+        "corporation_year": 1941,
+        "director": "konsul Olof Arnberg",
+        "managing_director": "Max O. Arnberg",
+        "coordinates": {
+            "Latitude": 56.2006388,
+            "Longitude": 12.5553288
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Arno, Malmö",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar maskiner för garverier, lädervarufabriker och päls-skinnsberederier samt olika slags specialmaskiner",
+        "contact": {
+            "office": "Carlsg. 5",
+            "telegraph": "Arno, Malmö",
+            "phone": "72220",
+            "postgiro": "148734"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1942,
+        "director": "ing. Gösta Mårtensson",
+        "cluster": 6
+    },
+    "3": {
+        "name": "Aronsdals Färgeri, H. Crauers",
+        "location": "Partille",
+        "business": "Färgar och bleker bomull, ylle, silke, jute, lin och hampa",
+        "contact": {
+            "office": "Partille",
+            "phone": [
+                "174083",
+                "26"
+            ],
+            "postgiro": "30129"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "750,000 kr"
+        },
+        "foundation_year": 1869,
+        "director": "disp. Bertil Crauers",
+        "coordinates": {
+            "Latitude": 57.7366497,
+            "Longitude": 12.1251968
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "A. K. Aronzons Bokbinderi",
+        "location": "Stockholm",
+        "business": "Utför bokbinderiarbeten samt tillverkar kartonger",
+        "contact": {
+            "office": "Bryggarg. 17",
+            "phone": "110453-54",
+            "postgiro": "151052"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 73
+            },
+            "annual_turnover": "716,000 kr"
+        },
+        "foundation_year": 1888,
+        "owner": "fabr. Henrik Ljunggren",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "AB. Arosverken",
+        "location": "Västerås",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar verktygsmaskiner och utför maskinrenoveringar",
+        "contact": {
+            "phone": "34226",
+            "postgiro": "177449"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "corporation_year": 1940,
+        "director": "fabr. E. Edvin Eriksson",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Arvika Bryggeri AB.",
+        "location": "Arvika",
+        "business": "Tillverkar malt- och läskedrycker samt mineralvatten",
+        "contact": {
+            "phone": [
+                "5",
+                "1075"
+            ],
+            "postgiro": "31823"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 21
+            },
+            "annual_turnover": "140,000 kr"
+        },
+        "corporation_year": 1906,
+        "board": [
+            {
+                "name": "disp. E. G. Riilcker",
+                "role": "ordf."
+            },
+            {
+                "name": "revisor Yngve Holmgren",
+                "role": "revisor"
+            },
+            {
+                "name": "kamrer Artur Riilcker",
+                "role": "kamrer"
+            }
+        ],
+        "director": "disp. E. G. Riilcker",
+        "manager": "Ivar Lydén",
+        "coordinates": {
+            "Latitude": 59.6548534,
+            "Longitude": 12.592136
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Arvika Metallfabrik",
+        "location": "Arvika",
+        "business": "Tillverkar metallgjutgods och armatur samt utför värmelednings- och sanitetstekniska anläggningar",
+        "contact": {
+            "telegraph": "Metallfabriken, Arvika",
+            "phone": "218",
+            "postgiro": "262831"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 28
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1910,
+        "director": "ing. Harry Nilsson",
+        "coordinates": {
+            "Latitude": 59.6548534,
+            "Longitude": 12.592136
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Arvika Redskapsfabrik",
+        "location": "Eskilstuna",
+        "business": "Stål- och järnmanufakturverk",
+        "products": "Tillverkar handredskap",
+        "contact": {
+            "office": "Eskilstuna",
+            "telegraph": "Spade, Eskilstuna",
+            "phone": "37440",
+            "postgiro": "83183",
+            "factory_office": "Arvika",
+            "factory_phone": "270"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "corporation_year": 1923,
+        "board": [
+            {
+                "name": "kapten Peter A. Schollin-Borg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Eric Benson",
+                "role": "direktör"
+            },
+            {
+                "name": "löjtn. Alexis Gyllenberg",
+                "role": "löjtnant"
+            },
+            {
+                "name": "disp. Arvid H. Nilsson",
+                "role": "disp."
+            },
+            {
+                "name": "med. lic. I. Ryott-Iohnson",
+                "role": "medicinsk licentiat"
+            },
+            {
+                "name": "bergsing. Allan Schollin-Borg",
+                "role": "bergsingenjör"
+            },
+            {
+                "name": "civiling. Gunnar",
+                "role": "civilingenjör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    }
+}

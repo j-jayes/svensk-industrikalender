@@ -1,0 +1,204 @@
+{
+    "1": {
+        "name": "Wezäta-Göteborgsiitografen AB.",
+        "location": "Göteborg",
+        "business": "Litografiskt tryckeri, boktryckeri, stål-tryckeri, bokbinderi, kliché- och retusch-anstalt, reklam- och katalogredaktion",
+        "products": "Reklamtryck, massupplagor i litografi, offset- och boktryck, broschyrer, industrikataloger, etiketter och omslag, tidskriftstryck, blankettryck, brevpapper i alla utföranden, fakturor, värdepapperstryck, klichéer och retuscher",
+        "contact": {
+            "office": "Göteborg, Lasarettsg. 4—6",
+            "phone": [
+                "209698",
+                "104972",
+                "118022"
+            ],
+            "postgiro": "41206",
+            "head_office": "Göteborg, Lasarettsg. 4—6",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "209698, 104972, 118022"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "26493"
+                }
+            ],
+            "telegraph": "Wezäta, Göteborg"
+        },
+        "financials": {
+            "capital": "50.500 kr",
+            "employees": {
+                "total": 10
+            }
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "Nils J. Åhlund",
+                "role": "ordf."
+            },
+            {
+                "name": "Sam Widenfelt",
+                "role": "disp."
+            },
+            {
+                "name": "Bruno Zach-risson",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Thure B. Wiberg AB.",
+        "location": "Malmö",
+        "business": "Konfektionsfabrik",
+        "products": "Damulsterar, damdräkter och kappor",
+        "contact": {
+            "office": "Celsiusg. 31",
+            "phone": "71875",
+            "postgiro": "38087"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "total": 250
+            }
+        },
+        "foundation_year": 1933,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. C. M. Wibergs Vagn- &amp; Redskapsfabrik",
+        "location": "Ransta",
+        "business": "Mek. verkstad",
+        "products": "Harvredskap, benkrossar m. m. samt telefon- och kraftledningssmiden såsom reglar för telefonlinjer, bär- och spännreglar för högspänningsledningar",
+        "contact": {
+            "phone": "3",
+            "postgiro": "83900"
+        },
+        "financials": {
+            "capital": "156,200 kr",
+            "employees": {
+                "total": 40
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "Aug. Kjellén",
+                "role": "ordf."
+            },
+            {
+                "name": "H. Brynge",
+                "role": "dir."
+            },
+            {
+                "name": "Birger Wlkerg",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.80998169999999,
+            "Longitude": 16.6394127
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "E. A. Wibergs Industrier",
+        "location": "Halmstad",
+        "business": "Mek. verkstad och stålmöbelfabrik",
+        "products": "Stålmöbler, hydrauliska frisörstolar, rostfria inredningar för charkuterier, mjölkpallar samt stålfönster och -dörrar",
+        "contact": {
+            "phone": "1252, 4352",
+            "postgiro": "28782"
+        },
+        "financials": {
+            "employees": {
+                "total": 45
+            },
+            "annual_production_value": "550,000 kr"
+        },
+        "foundation_year": 1915,
+        "owners": [
+            "Erik A. Wiberg"
+        ],
+        "sales_manager": "Hilding Sandberg",
+        "manager": "Nils Wesström",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Vibohus",
+        "location": "Södra Vi",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Sågade och hyvlade trävaror, järnvägssliprar, lådbräder, dörrar, fönster och inredningar",
+        "contact": {
+            "phone": "100",
+            "postgiro": "24524"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "total": 40
+            },
+            "annual_production_value": "450,000 kr"
+        },
+        "fabrikschef": "disp. Simon Hjerpe",
+        "coordinates": {
+            "Latitude": 57.7403106,
+            "Longitude": 15.79872
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "AB. Vibro-Verken",
+        "location": "Stockholm",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Vibratorer och tillhörande utrustningar för betonggjutningsändamål samt för ett flertal andra industriella användningsområden samt verktygsmaskiner, spec. kipp-hyvlar",
+        "contact": {
+            "office": "Luntmakarg. 29",
+            "phone": "235430",
+            "postgiro": "154690"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "total": 120
+            }
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "Donovan Werner",
+                "role": "övering."
+            },
+            {
+                "name": "Ivar Strömberg",
+                "role": "disp."
+            },
+            {
+                "name": "Stig Giertz-Hedström",
+                "role": "dir."
+            }
+        ],
+        "managing_director": "Stig Giertz-Hedström",
+        "sales_manager": "ing. Bengt E. Wahlberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    }
+}

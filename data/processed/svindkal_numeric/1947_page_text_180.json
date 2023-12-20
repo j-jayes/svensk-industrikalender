@@ -1,0 +1,295 @@
+{
+    "1": {
+        "name": "Bergshamra Ångkvarns, Sågverks & Snickeri-AB",
+        "location": "Utanbro",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Hyvlade och ohyvlade trävaror, byggnadssnickerier, samt kvarnrörelse",
+        "contact": {
+            "office": "Bergshamra",
+            "phone": [
+                "Bergshamra 8"
+            ],
+            "postgiro": "282841",
+            "sales_offices": [],
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 27400,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": 200000
+        },
+        "foundation_year": 1893,
+        "director": "Carl Axel Engström",
+        "coordinates": {
+            "Latitude": 59.6425547,
+            "Longitude": 18.6257988
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Bergsjöverken AB",
+        "location": "Bergsjö",
+        "business": "Snickeri, mek. verkstad, såg och hyvleri, elektr. kraftverk",
+        "products": "Monteringsfärdiga trähus, tröskverk, hö- och halmfläktar, höpressar, rikthyvlar, vedkapar",
+        "contact": {
+            "telegraph": "Reformverk, Bergsjö",
+            "phone": [
+                "Bergsjöverken"
+            ],
+            "postgiro": "265597",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "230380"
+                }
+            ],
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 78000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 400000
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1916,
+        "current_name_year": 1945,
+        "director": "Gunnar Westholm",
+        "coordinates": {
+            "Latitude": 61.9830068,
+            "Longitude": 17.0591837
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Bergslagens Bryggeri AB.",
+        "location": "Västerås",
+        "business": "Tillverkar maltdrycker",
+        "products": "Maltdrycker av kl. I och II",
+        "contact": {
+            "office": "Västerås",
+            "phone": [
+                "30003",
+                "30070"
+            ],
+            "postgiro": "",
+            "head_office": "",
+            "factory_phone": "18"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "Arb.-antal": 5
+            },
+            "annual_turnover": ""
+        },
+        "foundation_year": 1892,
+        "board": [
+            {
+                "name": "Joel Widén",
+                "role": "ordf"
+            },
+            {
+                "name": "Hugo Anderson",
+                "role": "disp"
+            }
+        ],
+        "director": "Curt R. Widén",
+        "kamrer": "Torsten Wahlberg",
+        "sales_manager": "fabr. Nils Ny",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Bergslagens Gemensamma Kraftförvaltning",
+        "location": "Västerås",
+        "business": "Transformatorstationer för Krångede-kraft",
+        "contact": {
+            "office": "Västerås",
+            "phone": [
+                "32003"
+            ],
+            "postgiro": "75462",
+            "head_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 4500000,
+            "employees": {},
+            "annual_turnover": 4000000
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Thorsten Ericson",
+                "role": "dir"
+            },
+            {
+                "name": "Carl G. Granström",
+                "role": "disp"
+            },
+            {
+                "name": "John E. Hedin",
+                "role": "disp"
+            },
+            {
+                "name": "Carl A. Jacobsson",
+                "role": "dir"
+            },
+            {
+                "name": "Mogens Matell",
+                "role": "fil. dr"
+            },
+            {
+                "name": "William Nisser",
+                "role": "disp"
+            },
+            {
+                "name": "Thorsten Wigelius",
+                "role": "bruksdisp"
+            }
+        ],
+        "director": "Mogens Matell",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. Bergslagernas Kättingfabrik",
+        "location": "Smedjebacken",
+        "business": "Tillverkar elektrosvetsad kätting",
+        "products": "Elektrosvetsad kätting",
+        "contact": {
+            "office": "Smedjebacken",
+            "phone": [],
+            "postgiro": "85405",
+            "head_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 15400,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": 100000
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "Rutger Wijkander",
+                "role": "disp"
+            },
+            {
+                "name": "Ragnar Forsberg",
+                "role": "ing. "
+            },
+            {
+                "name": "Eric Westerfors",
+                "role": "försäljn.-chef"
+            }
+        ],
+        "director": "Rutger Wijkander",
+        "coordinates": {
+            "Latitude": 60.1431933,
+            "Longitude": 15.4159915
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Bergslagernas Tegel- & Kalkbruks AB.",
+        "location": "Ludvika",
+        "business": "Kalksandstegelbruk",
+        "products": "Kalksandtegel, ånghärdade koksslaggplattor",
+        "contact": {
+            "office": "Ludvika",
+            "phone": [
+                "6"
+            ],
+            "postgiro": "94088",
+            "head_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 150500,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": ""
+        },
+        "foundation_year": 1903,
+        "board": [
+            {
+                "name": "Sture Axdorph",
+                "role": "ordf"
+            },
+            {
+                "name": "Rune Axdorph",
+                "role": "kapten"
+            },
+            {
+                "name": "Ludv. Ålund",
+                "role": "disp"
+            }
+        ],
+        "director": "Sture Axdorph",
+        "sales_manager": "Ludv. Ålund",
+        "coordinates": {
+            "Latitude": 60.152358,
+            "Longitude": 15.191639
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "AB. B. Bergson & Söner",
+        "location": "Karlstad",
+        "business": "Konfektionsfabrik",
+        "products": "Herrkläder, damkappor, damdräkter",
+        "contact": {
+            "telegraph": "Bergsons, Karlstad",
+            "phone": [
+                "15070"
+            ],
+            "postgiro": "34172",
+            "head_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 377500,
+            "employees": {
+                "industriarb": 230
+            },
+            "annual_turnover": 3000000
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1932,
+        "board": [
+            {
+                "name": "Abel Bergson",
+                "role": "grossh."
+            },
+            {
+                "name": "Isak Bergson",
+                "role": "grossh."
+            },
+            {
+                "name": "Samuel Bergson",
+                "role": "dir."
+            }
+        ],
+        "director": "S. Bergson",
+        "manager": "Harald Munnich",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 9
+    }
+}

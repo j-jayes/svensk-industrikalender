@@ -1,0 +1,251 @@
+{
+    "1": {
+        "name": "Skandinaviska Jute-Spinneri- & Väfveri AB., Oskarström",
+        "location": "Oskarström (Hallands l.)",
+        "business": "Jutespinneri, väveri, blekeri, färgeri, appreturverk och säcksömnadsverkstäder",
+        "products": "Tillverkar jutevaror, såsom säckar, packväv, pressduk etc.",
+        "contact": {
+            "office": "Oskarström",
+            "phone": [
+                "220",
+                "765"
+            ],
+            "postgiro": "15500",
+            "head_office": "Oskarström",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "110433 o. 200475"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "26129"
+                }
+            ],
+            "telegraph": "Jutespinneriet, Öskarström",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "4,500,000 kr",
+            "employees": {
+                "industriarb": 675
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "Carl August Wicander",
+                "role": "ordf."
+            },
+            {
+                "name": "Kjell Hägglöf",
+                "role": "v. ordf."
+            },
+            {
+                "name": "Gösta Blum",
+                "role": "civiling."
+            },
+            {
+                "name": "Eric Lindelöf",
+                "role": "dir."
+            },
+            {
+                "name": "Th. Nordström",
+                "role": "stadsfogde"
+            },
+            {
+                "name": "Isak R. Wallberg",
+                "role": "disp."
+            }
+        ],
+        "director": "Wilhelm Österman",
+        "managing_director": "Gösta Blum",
+        "sales_manager": "kamrer Helge Johansson",
+        "coordinates": {
+            "Latitude": 56.8025533,
+            "Longitude": 12.969062
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "AB. Skandinaviska Korsettfabriken, Oskarshamn",
+        "location": "Oskarshamn",
+        "business": "Tillverkar korsetter, bysthållare och dithörande artiklar",
+        "products": "Varumärke: »Fröja»",
+        "contact": {
+            "office": "Oskarshamn",
+            "phone": [
+                "645",
+                "945"
+            ],
+            "postgiro": "12793",
+            "head_office": "Oskarshamn",
+            "sales_offices": [],
+            "telegraph": "Fröja, Oskarshamn",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1923,
+        "director": "Gert Sederholm",
+        "managing_director": "Gert Sederholm",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.26569929999999,
+            "Longitude": 16.4473984
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. Skandinaviska Pelsvarufabriken, ivan Levy, Stockholm",
+        "location": "Stockholm",
+        "business": "Tillverkar dampälsar, dräktgarneringar, pälsgarnityrer, kragar, muffar, dam- och herrpälsmössor m. m.",
+        "products": "",
+        "contact": {
+            "office": "Norrlandsg. 15 A",
+            "phone": [
+                "231400"
+            ],
+            "postgiro": "3081",
+            "head_office": "Stockholm",
+            "sales_offices": [],
+            "telegraph": "Pelsfabriken, Stockholm",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "800,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "860,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1889,
+        "director": "Rolf Levy",
+        "managing_director": "Rolf Levy",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Skandinaviska Pipfabriken AB., Uddevalla",
+        "location": "Uddevalla",
+        "business": "Tillverkar rökpipor",
+        "products": "Varunamn: »Skapi»",
+        "contact": {
+            "office": "Uddevalla",
+            "phone": [
+                "14320"
+            ],
+            "postgiro": "97680",
+            "head_office": "Uddevalla",
+            "sales_offices": [],
+            "telegraph": "Skapi, Uddevalla",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1936,
+        "director": "",
+        "managing_director": "Max D. Schwab",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 58.3498003,
+            "Longitude": 11.935649
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. Skandinaviska Remfabriken, Göteborg",
+        "location": "Göteborg",
+        "business": "Tillverkar transport- och drivremmar av balata",
+        "products": "",
+        "contact": {
+            "office": "Krokslätt, Göteborg",
+            "phone": [
+                "171860",
+                "271535"
+            ],
+            "postgiro": "41787",
+            "head_office": "Göteborg",
+            "sales_offices": [],
+            "telegraph": "Skandrem, Göteborg",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1906,
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Skandinaviska Skorstensbyggnads AB., Stockholm",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprénörf irma för skorstensbyggnader och ångpanneinmurningar samt murningar av industriugnar och sopförbränningsanläggningar",
+        "products": "",
+        "contact": {
+            "office": "Hamngatan 16",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "Stockholm 7",
+            "sales_offices": [],
+            "telegraph": "Cementgjute-",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": null,
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    }
+}

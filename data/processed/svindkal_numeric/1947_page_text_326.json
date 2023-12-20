@@ -1,0 +1,228 @@
+{
+    "1": {
+        "name": "Grycksbo Pappersbruk AB.",
+        "location": "Grycksbo",
+        "business": "Pappersbruk med cellulosafabriker",
+        "products": "skrivpapper, tryckpapper, kraftpapper, rit-papper, filtrerpapper, kartonger",
+        "contact": {
+            "office": "Munktell, Grycksbo",
+            "phone": [
+                "Grycksbo Pappersbruk, Falun"
+            ],
+            "postgiro": "72424"
+        },
+        "financials": {
+            "capital": 4500000,
+            "employees": {
+                "industriarb.": 800
+            },
+            "annual_turnover": "18,000 ton papper"
+        },
+        "foundation_year": 1740,
+        "current_name_year": 1939,
+        "board": [
+            {
+                "name": "disp. H. Hanngren",
+                "role": ""
+            },
+            {
+                "name": "ing. A. M. Munktell",
+                "role": ""
+            },
+            {
+                "name": "prof. Henrik Munktell",
+                "role": ""
+            },
+            {
+                "name": "kapten William Nisser",
+                "role": ""
+            }
+        ],
+        "director": "William Nisser",
+        "managing_director": "E. Mide",
+        "sales_manager": "A. Goliath",
+        "coordinates": {
+            "Latitude": 60.6881289,
+            "Longitude": 15.4843016
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "AB. Gryts Bruk",
+        "location": "Hjortkvarn",
+        "business": "Tråddrageri och galvaniseringsverk",
+        "products": "blank, för-kopprad, galvaniserad och glödgad järntråd, trådspik",
+        "contact": {
+            "office": "Björnhammar, Hjortkvarn",
+            "phone": [
+                "Hjortkvarn 16"
+            ],
+            "postgiro": "80656"
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": 2500000
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "generalkonsul Ragnar Söderberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Gust. Kihlgren",
+                "role": ""
+            },
+            {
+                "name": "generalkonsul Torsten O. Söderberg",
+                "role": ""
+            }
+        ],
+        "director": "Gust. Kihlgren",
+        "manager": "Nils Larsson",
+        "coordinates": {
+            "Latitude": 58.89815,
+            "Longitude": 15.43822
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Grytgöls Bruks AB.",
+        "location": "Grytgöl",
+        "business": "Tråddrageri-, spik- och stängselnät-fabrik",
+        "products": "blank, förkopprad, glödgad, förzinkad och förtent järntråd, häfttråd, stängselnät, trådspik, krampor, stålmöbler, järnmanufakturvaror",
+        "contact": {
+            "office": "Grytgöl, Grytgöl",
+            "phone": [
+                "Grytgöl # 36—41"
+            ],
+            "postgiro": "6617"
+        },
+        "financials": {
+            "capital": 325000,
+            "employees": {
+                "industriarb.": 130
+            },
+            "annual_turnover": 2300000
+        },
+        "board": [
+            {
+                "name": "kapten Arv. Buren",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. C. D. Buren",
+                "role": ""
+            },
+            {
+                "name": "överstelöjtn. Torsten Hagstedt",
+                "role": ""
+            }
+        ],
+        "director": "Arv. Buren",
+        "manager": "Ivar Ringdahl",
+        "coordinates": {
+            "Latitude": 58.80286950000001,
+            "Longitude": 15.5558198
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Crythytte Skifferverk",
+        "location": "Grythyttan",
+        "business": "Skifferverk",
+        "products": "takskiffer, skifferhällar, skifferplattor för elektriska och byggnadsändamål, möbelplattor",
+        "contact": {
+            "office": "Skifferverket, Grythyttan",
+            "phone": [
+                "1",
+                "69"
+            ],
+            "postgiro": "33470"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": 500000
+        },
+        "board": [
+            {
+                "name": "bruksäg. Carl E. Carlsson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. P. Eg. Gummeson",
+                "role": ""
+            },
+            {
+                "name": "civiling. Vincent Spak",
+                "role": ""
+            }
+        ],
+        "director": "",
+        "managing_director": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.7054717,
+            "Longitude": 14.5355955
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Grängesbergs Bryggeri",
+        "location": "Grängesberg",
+        "business": "Bryggeri",
+        "products": "maltdrycker",
+        "contact": {
+            "phone": [
+                "33"
+            ],
+            "postgiro": ""
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 12
+            },
+            "annual_turnover": 300000
+        },
+        "foundation_year": 1898,
+        "owners": [
+            "bryggm. Louis Spendrup"
+        ],
+        "director": "",
+        "manager": "Edvin Jakobsson",
+        "coordinates": {
+            "Latitude": 60.0785553,
+            "Longitude": 15.0110618
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Gränsfors Bruks A B.",
+        "location": "Bergsjö",
+        "business": "Manufaktursmedja",
+        "products": "yxor, bilor och barkspadar, svartsmiden såsom flåhackor, jord-hackor, timmerredskap, hakgångjärn",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": ""
+        },
+        "financials": {
+            "employees": {},
+            "annual_turnover": ""
+        },
+        "board": [],
+        "director": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 61.9830068,
+            "Longitude": 17.0591837
+        },
+        "cluster": 7
+    }
+}

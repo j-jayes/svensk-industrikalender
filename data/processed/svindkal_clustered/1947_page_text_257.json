@@ -1,0 +1,250 @@
+{
+    "1": {
+        "name": "Ekparkett—Ekström",
+        "location": "Stockholm, Dalag. 56 B",
+        "business": "Parkettfabrik",
+        "contact": {
+            "office": "Stockholm, Dalag. 56 B",
+            "phone": [
+                "335631",
+                "323807"
+            ],
+            "postgiro": "53258",
+            "head_office": "Ekolsund"
+        },
+        "financials": {
+            "capital": "105,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1913,
+        "owners": [
+            "Oscar Johansson",
+            "Axel Johansson"
+        ],
+        "coordinates": {
+            "Latitude": 59.34248889999999,
+            "Longitude": 18.0450243
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Ekparkett, Falkenberg",
+        "location": "Falkenberg",
+        "business": "Parkettfabrik",
+        "products": "Tillverkar ek-, bok- och furuparkett. Specialitet: ekparkett.",
+        "contact": {
+            "office": "Falkenberg",
+            "phone": [
+                "1213",
+                "14"
+            ],
+            "postgiro": "96191"
+        },
+        "financials": {
+            "capital": "105,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1933,
+        "original_name": "Burseryds Parkett AB",
+        "corporation_year": 1943,
+        "owners": [
+            "AB. Olof Hermelin",
+            "Bröderna Randen"
+        ],
+        "coordinates": {
+            "Latitude": 56.90273329999999,
+            "Longitude": 12.4888013
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "Eksjö Fabriks Bolag, Skillingaryd",
+        "location": "Skillingaryd",
+        "business": "Vadd- och sängklädestillverkning",
+        "contact": {
+            "office": "Skillingaryd",
+            "phone": "157",
+            "postgiro": "34232"
+        },
+        "financials": {
+            "capital": "165,000 kr",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1926,
+        "owners": [
+            "ing. Gust. E. Sönne"
+        ],
+        "coordinates": {
+            "Latitude": 57.43058180000001,
+            "Longitude": 14.0938696
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Eksjö Industri AB., Eksjö",
+        "location": "Eksjö",
+        "business": "Trähus- och snickerifabrik",
+        "products": "Tillverkar inonteringsfärdiga trähus samt byggnads-snickerier. Varunamn: »Svea-hus»",
+        "contact": {
+            "office": "Eksjö",
+            "phone": [
+                "1074",
+                "75"
+            ],
+            "postgiro": "174290"
+        },
+        "financials": {
+            "capital": "165,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1941,
+        "owner": "Gösta Ewerman",
+        "coordinates": {
+            "Latitude": 57.6172,
+            "Longitude": 15.22155
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "AB. Eksjö Mek. Verkstad, Eksjö",
+        "location": "Eksjö",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar värmepannor, gjutgods, gjuteri- och shapingmaskiner samt nitade och svetsade plåtarbeten",
+        "contact": {
+            "office": "Eksjö",
+            "phone": [
+                "160",
+                "991"
+            ],
+            "postgiro": "81822"
+        },
+        "financials": {
+            "capital": "240,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1905,
+        "owners": [
+            "ing. Alf Ståhlbrand",
+            "adv. H. Månsson",
+            "dir. M. Rind"
+        ],
+        "coordinates": {
+            "Latitude": 57.6172,
+            "Longitude": 15.22155
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Eksjö Möbelfabrik, Eksjö",
+        "location": "Eksjö",
+        "business": "Möbeltillverkning",
+        "contact": {
+            "office": "Eksjö",
+            "phone": "737",
+            "postgiro": "91025"
+        },
+        "financials": {
+            "capital": "67,200 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "375,000 kr"
+        },
+        "foundation_year": 1931,
+        "owner": "Axel L. Bäck",
+        "coordinates": {
+            "Latitude": 57.6172,
+            "Longitude": 15.22155
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "Ekskogens Träförädlingsfabrik, Stockholm",
+        "location": "Ekskogen (Sthlms L)",
+        "business": "Monteringsfärdiga villor och sportstugor tillverkning",
+        "products": "Tillverkar monteringsfärdiga villor och sportstugor samt byggnadssnickerier m. m. vid fabrik i Ekskogen (Sthlms L). Firman bedriver jämväl byggnadsverksamhet i samband med materialleveranser",
+        "contact": {
+            "office": "Norrtullsg. 29",
+            "phone": [
+                "300898",
+                "310482"
+            ],
+            "postgiro": "2618"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1905,
+        "owners": [
+            "ing. Bertil Knutson",
+            "fru Wiva Gezelius"
+        ],
+        "coordinates": {
+            "Latitude": 59.64100000000001,
+            "Longitude": 18.2264415
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "Ekstrands Snickares Ekonomiska Förening, u. p. a., Stockholm",
+        "location": "Midsommarkransen",
+        "business": "Snickeritillverkning",
+        "products": "Tillverkar div. snickerier, spec. gym-nastikmateriel",
+        "contact": {
+            "office": "Midsommarkransen",
+            "phone": "452655",
+            "postgiro": "5575"
+        },
+        "financials": {
+            "capital": "130,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1921,
+        "owners": [
+            "fabr. E. G. Ekstrand"
+        ],
+        "coordinates": {
+            "Latitude": 59.3,
+            "Longitude": 18
+        },
+        "cluster": 7
+    },
+    "9": {
+        "name": "Ekström & Blohm AB., Falköping",
+        "location": "Falköping",
+        "business": "Guldvarufabrik",
+        "products": "Tillverkar guld- och silverbijouterier. Specialiteter: Ringar och manschettknappar.",
+        "financials": {
+            "employees": {
+                "industriarb": 0
+            }
+        },
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 6
+    }
+}

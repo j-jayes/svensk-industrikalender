@@ -1,0 +1,272 @@
+{
+    "1": {
+        "name": "Forss Mek. Verkstads AB",
+        "location": "Vikingstad",
+        "business": "Tillverkning av klöverfrönötare, spannmålsfläktar, spannmålselevatorer, ärtrens-ningsmaskiner samt utemjölkningsvagnar",
+        "contact": {
+            "office": "Vikingstad (Östergötl. l.)",
+            "phone": [
+                "38"
+            ],
+            "postgiro": "172245",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 80500,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": 150000,
+            "annual_production_value": 150000
+        },
+        "foundation_year": 1897,
+        "coordinates": {
+            "Latitude": 58.3816095,
+            "Longitude": 15.4364379
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Forss & Son AB",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "office": "Riddarg. 46",
+            "phone": [
+                "610075"
+            ],
+            "postgiro": "150568",
+            "telegraph": "",
+            "head_office": ""
+        },
+        "financials": {
+            "capital": 205200
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1946,
+        "board": [
+            {
+                "name": "John Bergström",
+                "role": "bankdir."
+            },
+            {
+                "name": "Eric Forss",
+                "role": "ing."
+            },
+            {
+                "name": "Maggie Forss",
+                "role": "fru"
+            }
+        ],
+        "director": "Eric Forss",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "J. A* Forss’ AB",
+        "location": "Falköping",
+        "business": "Tillverkar herrhattar av ull och hår (märke: »Forss»-hatten) samt halvfabrikat (stumpar) för damhattar.",
+        "contact": {
+            "office": "Falköping",
+            "phone": [
+                "37",
+                "112"
+            ],
+            "postgiro": "22079",
+            "telegraph": "Forss",
+            "head_office": ""
+        },
+        "financials": {
+            "capital": 666000,
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "foundation_year": 1876,
+        "board": [
+            {
+                "name": "Primus A. Forss",
+                "role": "disp."
+            },
+            {
+                "name": "E. Forss",
+                "role": "fru"
+            },
+            {
+                "name": "James A. P:son Forss",
+                "role": "disp."
+            },
+            {
+                "name": "Victor Kock",
+                "role": "med. dr"
+            },
+            {
+                "name": "B. T. Rupert",
+                "role": "kapten"
+            }
+        ],
+        "director": "P. A. Fors3",
+        "sales_manager": "J. A. P:son Forss",
+        "manager": "B. T. Rupert",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "AB. Forssa Läderfabrik",
+        "location": "Madängsholm",
+        "business": "Tillverkar skofoderskinn m. m.",
+        "contact": {
+            "office": "Madängsholm",
+            "phone": [
+                "Tidaholm 59"
+            ],
+            "postgiro": "94202",
+            "telegraph": "",
+            "head_office": ""
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1880,
+        "corporation_year": 1934,
+        "director": "Ernst G. A. Brodin",
+        "coordinates": {
+            "Latitude": 58.1493476,
+            "Longitude": 13.9178435
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Forssa Tegelbruk",
+        "location": "Borås",
+        "business": "Tillverkar murtegel, poröst tegel, porösa mellanväggsplattor, reveterings-tegel samt dräneringsrör.",
+        "contact": {
+            "office": "Borås",
+            "phone": [
+                "10077"
+            ],
+            "postgiro": "99112",
+            "telegraph": "",
+            "head_office": ""
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_production_value": "4 milj. st. tegelvaror"
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "Oscar Ohlson",
+                "role": "bvggm."
+            },
+            {
+                "name": "Knut A. Evers",
+                "role": "v. konsul"
+            },
+            {
+                "name": "Nils Fridén",
+                "role": "disp."
+            }
+        ],
+        "director": "O. Ohlson",
+        "sales_manager": "Wilhelm Ohlin",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "Forssjö Bruk",
+        "location": "Forssjöbruk",
+        "business": "Sågverk, hyvleri, virkesimpregnerings-verk, murbruksfabrik, cementrörfabrik och elektricitetsverk",
+        "products": "Tillverkar sågade och hyvlade trävaror, impregnerade stolpar, slip rar och annat virke samt cementrör, kalk och murbruk; distribuerar elektr. energi",
+        "contact": {
+            "office": "Forssjö, Katrineholm",
+            "phone": [
+                "Forssjö 27",
+                "Katrineholm 1011"
+            ],
+            "postgiro": "75005",
+            "telegraph": "Forssjöbruk",
+            "head_office": ""
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "2,000 stds trävaror och 10,000 ton kalk"
+        },
+        "owner": "frih. Carl J. C:son Bonde",
+        "manager": "Axel Ekstrand",
+        "sales_manager": "Julius Larsson",
+        "director": "Carl Cedergren",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Forssjö Nya Trävaru AB",
+        "location": "Katrineholm",
+        "business": "Sågverk, hyvleri och lådfabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror, låd-ämnen samt monteringsfärdiga trähus",
+        "contact": {
+            "office": "Katrineholm",
+            "phone": [
+                "Träförädlingen"
+            ],
+            "postgiro": "87975",
+            "telegraph": "Forssjö",
+            "head_office": ""
+        },
+        "financials": {
+            "capital": 320000,
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "A. Dahlander",
+                "role": "dir."
+            },
+            {
+                "name": "G. Dahlander",
+                "role": "fru"
+            },
+            {
+                "name": "Olarence Malmnäs",
+                "role": "med. lic."
+            },
+            {
+                "name": "V. Malmnäs",
+                "role": "arkitekt"
+            }
+        ],
+        "director": "A. Dahlander",
+        "coordinates": {
+            "Latitude": 58.99555109999999,
+            "Longitude": 16.2054756
+        },
+        "cluster": 7
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "1": {
+        "name": "AB. Strå Kalkbruk",
+        "location": "Stockholm",
+        "business": "Bryter kalksten och dolomit samt tillverkar bränd kalk för industri-, byggnads- och jordbruksändamål ävensom bränd dolomit för martinugnar. Bolaget idkar jämväl jordbruk.",
+        "products": "Kalksten, dolomit, bränd kalk, bränd dolomit",
+        "contact": {
+            "office": "Jakobsbergsg. 2, Stockholm",
+            "phone": [
+                "Strå Kalkbruk"
+            ],
+            "postgiro": "22200",
+            "telegraph": "Stråkalk, Stockholm"
+        },
+        "financials": {
+            "capital": 2000000,
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1929,
+        "board": [
+            {
+                "name": "Vilhelm Björkman",
+                "role": "Ordinary Director"
+            },
+            {
+                "name": "Josef Gendt",
+                "role": "Director"
+            },
+            {
+                "name": "G. Raabe",
+                "role": "Director"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "Strängnäs Bryggeri AB.",
+        "location": "Strängnäs",
+        "business": "Tillverkar maltdrycker och kolsyrade drycker.",
+        "contact": {
+            "phone": "44",
+            "postgiro": "143131"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": {
+                "industriarb": 19
+            },
+            "annual_turnover": 450000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "Gösta Sverdrup",
+                "role": "Chairman"
+            },
+            {
+                "name": "Hugo Carlberg",
+                "role": "Director"
+            },
+            {
+                "name": "Alvar Törnell",
+                "role": "Director"
+            }
+        ],
+        "manager": "Gösta Sverdrup",
+        "coordinates": {
+            "Latitude": 59.37745229999999,
+            "Longitude": 17.0321193
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Strängnäs Elektr. Valskvarn",
+        "location": "Strängnäs",
+        "business": "Tillverkar mjöl, korngryn, kli och gröpe.",
+        "products": "Mjöl, korngryn, kli, gröpe",
+        "contact": {
+            "phone": [
+                "502",
+                "506"
+            ],
+            "postgiro": "31973"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_production_value": 700000
+        },
+        "foundation_year": 1914,
+        "owner": "Gustav Svenson",
+        "coordinates": {
+            "Latitude": 59.37745229999999,
+            "Longitude": 17.0321193
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "C. C. Ströms AB.",
+        "location": "Kumla",
+        "business": "Tillverkar skodon vid fabrik i Kumla (Örebro l.).",
+        "products": "Skodon",
+        "contact": {
+            "phone": "Örebro 70920",
+            "postgiro": "6469"
+        },
+        "financials": {
+            "capital": 800000,
+            "employees": {
+                "industriarb": 145
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": 2500000
+        },
+        "foundation_year": 1888,
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "Arvid Lindfelt",
+                "role": "Director"
+            },
+            {
+                "name": "Carl Einar Ström",
+                "role": "Manager"
+            },
+            {
+                "name": "Simon Ström",
+                "role": "Director"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Gust. Ström & Co.",
+        "location": "Vansbro",
+        "business": "Tillverkar byggnadssnickerier, inredningar och trappor vid fabrik i Vansbro (Kopparb. l.).",
+        "products": "Byggnadssnickerier, inredningar, trappor",
+        "contact": {
+            "phone": "105",
+            "postgiro": "163717"
+        },
+        "financials": {
+            "capital": 120200,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": 200000
+        },
+        "foundation_year": 1925,
+        "corporation_year": 1943,
+        "owner": "Gustav Ström",
+        "coordinates": {
+            "Latitude": 60.5099434,
+            "Longitude": 14.2253417
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Ströms Bruks AB.",
+        "location": "Strömsbruk",
+        "business": "Tillverkar sulfitcellulosa, sulfitsprit och sågade trävaror. Bolaget idkar jämväl skogshantering och jordbruk.",
+        "products": "Sulfitcellulosa, sulfitsprit, sågade trävaror",
+        "contact": {
+            "office": "Strömsbruk",
+            "phone": "Strömsbruk 7",
+            "postgiro": "26800",
+            "sales_offices": [
+                {
+                    "location": "Stocka",
+                    "phone": "Not available"
+                },
+                {
+                    "location": "Ljusne",
+                    "phone": "Not available"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 12000000,
+            "employees": {
+                "industriarb": 450
+            },
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1873,
+        "board": [
+            {
+                "name": "Fabian Tamm",
+                "role": "Chairman"
+            },
+            {
+                "name": "Fabian Lundquist",
+                "role": "Director"
+            },
+            {
+                "name": "C. J. Robbert",
+                "role": "Director"
+            },
+            {
+                "name": "C. G. Rothelius",
+                "role": "Director"
+            }
+        ],
+        "director": "Fabian Lundquist",
+        "sales_manager": "Einar Oléhn",
+        "coordinates": {
+            "Latitude": 61.87011909999999,
+            "Longitude": 17.3165175
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Strömbacka Bruk",
+        "location": "Strömbacka",
+        "business": "Se AB. Iggesunds Bruk, Iggesund.",
+        "coordinates": {
+            "Latitude": 61.9573308,
+            "Longitude": 16.714294
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "AB. H. Strömberg",
+        "location": "Virserum",
+        "business": "Tillverkar stoppade möbler vid fabrik i Virserum (Kalmar l.).",
+        "products": "Stoppade möbler",
+        "contact": {
+            "phone": [
+                "75",
+                "200"
+            ],
+            "postgiro": "92400"
+        },
+        "financials": {
+            "capital": 88000,
+            "annual_production_value": 550000
+        },
+        "foundation_year": 1909,
+        "corporation_year": 1938,
+        "director": "Harry Strömberg",
+        "coordinates": {
+            "Latitude": 57.3199949,
+            "Longitude": 15.5812344
+        },
+        "cluster": 8
+    }
+}

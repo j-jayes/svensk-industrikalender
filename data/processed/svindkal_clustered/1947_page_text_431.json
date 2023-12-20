@@ -1,0 +1,165 @@
+{
+    "1": {
+        "name": "Klosterbryggeriet—Knutsson",
+        "location": "Ystad",
+        "business": "Tillverkar malt, maltdrycker och läskedrycker.",
+        "contact": {
+            "telegraph": "Klosterbryggeriet, Ystad",
+            "phone": [
+                "11",
+                "444"
+            ],
+            "postgiro": "92318"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "497,000 kr",
+            "annual_production_value": "497,000 kr"
+        },
+        "foundation_year": 1844,
+        "coordinates": {
+            "Latitude": 55.4295051,
+            "Longitude": 13.8200308
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Kläderfabriken, Nässjö",
+        "location": "Nässjö",
+        "business": "Konfektionsfabrik. Tillverkar herrkläder. Varumärke: Rang.",
+        "contact": {
+            "telegraph": "Kläderfabriken, Nässjö",
+            "phone": "Kläderfabriken, Nässjö",
+            "postgiro": "85777"
+        },
+        "financials": {
+            "capital": "900,000 kr",
+            "employees": {
+                "industriarb": 420
+            },
+            "annual_turnover": "5,500,000 kr",
+            "annual_production_value": "5,500,000 kr"
+        },
+        "foundation_year": 1909,
+        "corporation_year": 1920,
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Kläderfabriken Stockholm",
+        "location": "Stockholm",
+        "business": "Tillverkar högtidskläder, herrkostymer, paletåer, ulstrar och trenchcoats samt damdräkter, kappor och ulstrar. Varumärke: Nordmandia.",
+        "contact": {
+            "office": "Norra Smedjeg. 28",
+            "phone": "114487",
+            "postgiro": "1733"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 22
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "current_name_year": 1933,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Knislinge Skofabriks AB.",
+        "location": "Knislinge",
+        "business": "Tillverkar skodon vid fabrik i Knislinge. Varunamn: Lejonskor.",
+        "contact": {
+            "telegraph": "Skofabriken, Knislinge",
+            "phone": [
+                "31",
+                "92"
+            ],
+            "postgiro": "23787"
+        },
+        "financials": {
+            "capital": "1,250,000 kr",
+            "employees": {
+                "industriarb": 175
+            },
+            "annual_turnover": "2,500,000 kr"
+        },
+        "foundation_year": 1898,
+        "coordinates": {
+            "Latitude": 56.1934814,
+            "Longitude": 14.0854131
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Knislinge Strumpfabrik",
+        "location": "Knislinge",
+        "business": "Tillverkar damstrumpor vid fabrik i Knislinge (Kristianst. l.).",
+        "contact": {
+            "phone": "125",
+            "postgiro": "70272"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "foundation_year": 1930,
+        "coordinates": {
+            "Latitude": 56.1934814,
+            "Longitude": 14.0854131
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "Knutsilplåtar, N M. Malm",
+        "location": "Grästorp",
+        "business": "Tillverkar knutsilar, knutsilcylindrar, knutsilplåtar för såväl plana som roterande silar, siebrar, presscylindrar samt metallgjutgods vid mek. verkstad i Grästorp (Skarab. l.).",
+        "contact": {
+            "phone": "106",
+            "postgiro": "94633"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 8
+            },
+            "annual_production_value": "75,000 kr"
+        },
+        "foundation_year": 1924,
+        "coordinates": {
+            "Latitude": 58.3340403,
+            "Longitude": 12.6802177
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Knutsson & Berggren",
+        "location": "Jönköping",
+        "business": "Byggnadsentreprenörfirma.",
+        "contact": {
+            "phone": "925",
+            "postgiro": "76403"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1907,
+        "corporation_year": 1945,
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 0
+    }
+}

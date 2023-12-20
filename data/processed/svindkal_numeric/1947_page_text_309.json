@@ -1,0 +1,170 @@
+{
+    "1": {
+        "name": "Förenade arb.",
+        "business": "driver jämväl engroshandel med kaffe",
+        "board": [
+            {
+                "name": "Herman Lindquist",
+                "role": "dir."
+            },
+            {
+                "name": "Tor E. J:son Broström",
+                "role": "konsul"
+            },
+            {
+                "name": "Axel Jonsson",
+                "role": "generalkonsul"
+            }
+        ],
+        "director": "Herman Lindquist",
+        "vice_managing_director": "L. Hill-Lindquist",
+        "contact": {
+            "office": "Falköping"
+        },
+        "foundation_year": 1903,
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Förenade Möbelfabrikerna",
+        "products": "Tillverkar möbler. Bolaget driver jämväl sågverksrörelse och skogshantering",
+        "contact": {
+            "office": "Linköping",
+            "phone": [
+                "20857"
+            ],
+            "postgiro": "29418",
+            "head_office": "Stockholm: ing. Simon Ericson, Scheeleg. 12, telefon: 516489"
+        },
+        "financials": {
+            "capital": 475000,
+            "employees": {
+                "industriarb.": 75
+            },
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "J. A. Mörk",
+                "role": "disp."
+            },
+            {
+                "name": "E. Simon Ericson",
+                "role": "ing."
+            },
+            {
+                "name": "Folke Isaksson",
+                "role": "med. lic."
+            },
+            {
+                "name": "Folke Sandqvist",
+                "role": "tandläkare"
+            },
+            {
+                "name": "Sven Walberg",
+                "role": "kamrer"
+            }
+        ],
+        "director": "J. A. Mörk",
+        "manager": "Sven Walberg",
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Förenade Piano- & Orgelfabriker",
+        "products": "tillverkar flyglar, pianon och orglar",
+        "contact": {
+            "office": "Arvika",
+            "phone": [
+                "752"
+            ],
+            "postgiro": "5045"
+        },
+        "financials": {
+            "capital": 2000000,
+            "employees": {
+                "industriarb.": 167
+            }
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "adv. Fred. Holmgren",
+                "role": "ordf."
+            },
+            {
+                "name": "EL S. Bruu",
+                "role": "dir."
+            },
+            {
+                "name": "Karl Högberg",
+                "role": "dir."
+            },
+            {
+                "name": "T. P. Lunden",
+                "role": "med. dr"
+            },
+            {
+                "name": "Arne Sande",
+                "role": "dir."
+            },
+            {
+                "name": "J. E. Sande J:or",
+                "role": "konsul"
+            }
+        ],
+        "director": "Karl Högberg",
+        "sales_manager": "S. H. Lundén-Welden",
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Förenade Superfosfatfabriker",
+        "products": "Tillverkar superfosfat",
+        "contact": {
+            "office": "Hälsingborg",
+            "phone": [
+                "14880"
+            ],
+            "postgiro": "170786"
+        },
+        "financials": {
+            "capital": 18336000,
+            "employees": {
+                "sammanlagt för samtliga fabriker": 740
+            },
+            "annual_production_value": 39000000
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "bankdir. Helmer Stén",
+                "role": "ordf."
+            },
+            {
+                "name": "Einar Sjögren",
+                "role": "v. ordf."
+            },
+            {
+                "name": "Gunnar Forsman",
+                "role": "dir."
+            },
+            {
+                "name": "Sven E. Lundberg",
+                "role": "dir."
+            },
+            {
+                "name": "Hans Rydin",
+                "role": "dir."
+            },
+            {
+                "name": "Harry Tranchell",
+                "role": "dir."
+            },
+            {
+                "name": "Jan Wingårdh",
+                "role": "dir."
+            }
+        ],
+        "director": "Sven E. Lundberg",
+        "cluster": 1
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "1": {
+        "name": "Karosseriverkstäderna",
+        "location": "Karlstad",
+        "business": "Vagn- och sadelmakeri, måleri och mek. verkstad samt plåtslageri.",
+        "contact": {
+            "office": "Stråfilt, Karlstad",
+            "phone": [
+                "10375",
+                "10689"
+            ],
+            "postgiro": "27951",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Regeringsg. 56",
+                    "phone": "110821"
+                },
+                {
+                    "location": "Göteborg, Knngsg. 50",
+                    "phone": "133440"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 78
+            },
+            "annual_turnover": "300,000 kr",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1901,
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "byggm. O. Wästlund",
+                "role": "ordf."
+            },
+            {
+                "name": "fröken H. Adler",
+                "role": " "
+            },
+            {
+                "name": "fru S. Linderholm",
+                "role": ""
+            },
+            {
+                "name": "disp. A. Wallentinson",
+                "role": ""
+            },
+            {
+                "name": "apot. A. Öländer",
+                "role": ""
+            }
+        ],
+        "director": "O. Wästlund",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Karlstads Syrgasfabrik",
+        "location": "Karlstad",
+        "business": "Tillverkar syrgas",
+        "contact": {
+            "office": "",
+            "phone": [
+                "15435"
+            ],
+            "postgiro": "36146"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "arb": 6
+            },
+            "annual_turnover": "",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1922,
+        "board": [
+            {
+                "name": "byggm. O. Wästlund",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gunnar Dalén",
+                "role": ""
+            },
+            {
+                "name": "ing. R. Ströberg",
+                "role": ""
+            }
+        ],
+        "director": "Erik Wästlund",
+        "manager": "Folke Nilson",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Karlstads Tagelspinneri, Adolf Nyhlén AB.",
+        "location": "Karlstad",
+        "business": "Tillverkar spunnet tagel, kuddar och dynor av s. k. gummitagel (»Hairlok»), tagel för stoppningsändamål, tagel för borstbinderi-, pensel- och textilindustri.",
+        "contact": {
+            "office": "Tagelspinn, Karlstad",
+            "phone": [
+                "10562",
+                "13562"
+            ],
+            "postgiro": "8952"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_turnover": "720,000 kr",
+            "annual_production_value": "720,000 kr"
+        },
+        "foundation_year": 1904,
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "dir. Gunnar Nyhlén",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Bertil Nyhlén",
+                "role": ""
+            },
+            {
+                "name": "fröken Brita Nyhlén",
+                "role": ""
+            }
+        ],
+        "director": "Gunnar Nyhlén",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Karlstads Varv",
+        "location": "Karlstad",
+        "business": "Mek. verkstad, grovplåtslageri och fartygsslip för upp till 500 ton d. w.",
+        "contact": {
+            "office": "Slipen, Karlstad",
+            "phone": [
+                "15200",
+                "11599 (varvet)"
+            ]
+        },
+        "financials": {
+            "capital": "415,250 kr",
+            "employees": {
+                "industriarb.": 50
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "dir. Hjalmar Nerman",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gustaf Hemmingson",
+                "role": ""
+            },
+            {
+                "name": "dir. Bror Pettersson",
+                "role": ""
+            }
+        ],
+        "manager": "Bror Pettersson",
+        "sales_manager": "skeppsbyggm. Wilhelm Andersson",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Karmansbo Bruks AB.",
+        "location": "Karmansbo (Västmanl. l.)",
+        "business": "Järnbruk med lancashireverk, grov-, medium- och universalvalsverk i Karmansbo (Västmanl. l.).",
+        "contact": {
+            "office": "",
+            "phone": "Skinnskatteberg 3011",
+            "postgiro": "3718"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_turnover": "540,000 kr"
+        },
+        "corporation_year": 1922,
+        "board": [
+            {
+                "name": "dir. Carl Fr. Löwenhielm",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Erik Dahlberg",
+                "role": ""
+            },
+            {
+                "name": "disp. L. Press",
+                "role": ""
+            }
+        ],
+        "director": "Verkst. dir. o. disp.: L. Press (Sthlm)",
+        "manager": "M. Broström",
+        "coordinates": {
+            "Latitude": 59.6932521,
+            "Longitude": 15.7528306
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Karosseri AB. Norrmalm",
+        "location": "Stockholm",
+        "business": "Tillverkar karosserier samt utför automobilreparationer.",
+        "contact": {
+            "office": "Norrbackag. 33",
+            "phone": "233185",
+            "postgiro": "4812"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_turnover": "",
+            "annual_production_value": "250,000 kr"
+        },
+        "corporation_year": 1925,
+        "board": [
+            {
+                "name": "dir. Arvid Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "verkm. Gunnar Espelund",
+                "role": ""
+            },
+            {
+                "name": "kamrer Lars Torsmark",
+                "role": ""
+            }
+        ],
+        "director": "Arvid Johansson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    }
+}

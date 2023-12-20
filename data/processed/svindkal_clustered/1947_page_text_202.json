@@ -1,0 +1,239 @@
+{
+    "1": {
+        "name": "AB. Borås Snickerifabrik",
+        "location": "Borås",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror, listverk, byggnadssnickerier, rums- och butiksinredningar; utför träsvarvning m. m. Bolaget driver även försäljning av tegel, parkettstav och fiberplattor.",
+        "contact": {
+            "phone": [
+                "12364",
+                "10564"
+            ],
+            "postgiro": "85400"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 26
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1900,
+        "board": [
+            {
+                "name": "fabr. Oscar E. Lund",
+                "role": "Verkst. dir."
+            }
+        ],
+        "sales_manager": "Sven Pettersson",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Borås Spetsfabrik",
+        "location": "Fristad",
+        "business": "Spetsfabrik i Fristad",
+        "products": "Tillverkar spetsar och band av linne, silke och bomull. Varunamn: »Fristad spetsar».",
+        "contact": {
+            "phone": "Borås 60250",
+            "postgiro": "14428"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 64
+            },
+            "annual_turnover": "825,000 kr"
+        },
+        "foundation_year": 1891,
+        "board": [
+            {
+                "name": "fru Astrid Rydin",
+                "role": "Styrelse"
+            },
+            {
+                "name": "jur. kand. Bo Rydin",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Dag Rydin",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Martin Werner",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.824945,
+            "Longitude": 13.007778
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "AB. Borås Strumpfabrik",
+        "location": "Borås",
+        "business": "Tillverkar damstrumpor i natur- och konstsilke",
+        "contact": {
+            "phone": "48055",
+            "postgiro": "134209"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Fritz O. Högman",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Borås Tapetfabriks AB.",
+        "location": "Borås",
+        "business": "Tillverkar tapeter och bårder",
+        "contact": {
+            "phone": "10543",
+            "postgiro": "15185"
+        },
+        "financials": {
+            "capital": "235,170 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "1,260,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "grossh. J. Stenlund",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. W. Andrén",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "AB. Borås Tryckeri & Kartongfabrik",
+        "location": "Borås",
+        "business": "Litografiskt tryckeri, boktryckeri och kartongfabrik",
+        "products": "Tillverkar etiketter, kartonnage och papprullar samt utför affärstryck.",
+        "contact": {
+            "phone": [
+                "10044",
+                "12974"
+            ],
+            "postgiro": "5239"
+        },
+        "foundation_year": 1918,
+        "owner": "Essel-tes Göteborgsindustrier AB., Göteborg",
+        "board": [
+            {
+                "name": "disp. Nils J. Åhlund",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Elis Gustafson",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "Borås Wäfveri AB.",
+        "location": "Borås",
+        "business": "Bomullsspinneri, väveri, tryckeri och appreturverk",
+        "products": "Tillverkar bomullsgarn, kulörta, tryckta, blekta och oblekta vävnader.",
+        "contact": {
+            "phone": "Wäfveribolaget, Borås",
+            "postgiro": "10437",
+            "representative": "G. Albanus, Kungsbropl. 3; telefon: 520045"
+        },
+        "financials": {
+            "capital": "11,860,000 kr",
+            "employees": {
+                "industriarb": 2800
+            },
+            "annual_turnover": "35,000,000 kr"
+        },
+        "foundation_year": 1870,
+        "board": [
+            {
+                "name": "bankdir. Helmer Stén",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Nils Hörstadius",
+        "managing_director": "Nils Hörstadius",
+        "manager": "Nils Hörstadius",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "7": {
+        "name": "Borås Yllefabriks AB.",
+        "location": "Borås",
+        "business": "Ullspinneri i Svenljunga samt väveri, färgeri och beredningsverk i Borås",
+        "products": "Tillverkar hel- och halvyllevävnader.",
+        "contact": {
+            "phone": "»Yllekoncernen», Borås",
+            "postgiro": "8633"
+        },
+        "financials": {
+            "capital": "1,162,500 kr",
+            "employees": {
+                "Borås": 223,
+                "Svenljunga": 48
+            },
+            "annual_turnover": "6,500,000 kr"
+        },
+        "foundation_year": 1913,
+        "owner": "Svenska Yllekoncernen, AB",
+        "board": [
+            {
+                "name": "disp. C. G. Lundberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Gösta Åhlén",
+                "role": "Direktor"
+            }
+        ],
+        "director": "C. G. Lundberg",
+        "manager": "C. G. Lundberg",
+        "sales_manager": "Gunnar Lagnell",
+        "description": "Fabrikschef",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "1": {
+        "name": "Jonsson, Sternhagen & Co. AB.",
+        "location": "Göteborg",
+        "business": "Trävarufirma",
+        "products": "Exporterar laths. Bolaget driver även speditions- och skeppskla-reringsrörelse, försäkringsagentur samt agenturverksamhet i byggnadsbranschen.",
+        "contact": {
+            "office": "Broströmia, Packhusplatsen 6",
+            "phone": [
+                "134390"
+            ],
+            "postgiro": "40337",
+            "telegraph": "Sternhagen, Göteborg"
+        },
+        "financials": {
+            "capital": 250000,
+            "foundation_year": 1872,
+            "corporation_year": 1939
+        },
+        "board": [
+            {
+                "name": "kammarh. G. A. Bratt",
+                "role": "(ordf.)"
+            },
+            {
+                "name": "generalkonsul Folke Jonsson",
+                "role": ""
+            },
+            {
+                "name": "dir. Gunnar Rodin",
+                "role": ""
+            }
+        ],
+        "director": "Folke Jonsson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Johnssons Korkfabrik",
+        "location": "Malmö",
+        "business": "Tillverkar butelj kork, kapsyler och korksmul",
+        "products": "Bolaget driver även försäljning av korkisolering och korkparkett.",
+        "contact": {
+            "office": "Rönneholmsvägen",
+            "phone": [
+                "23272",
+                "28047"
+            ],
+            "postgiro": "14135"
+        },
+        "financials": {
+            "capital": 140000,
+            "employees": {
+                "industriarb.": 20
+            },
+            "annual_turnover": 300000,
+            "annual_production_value": 300000
+        },
+        "corporation_year": 1936,
+        "director": "Bengt Malmström",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Johnson Metall",
+        "location": "Örebro",
+        "business": "Metallgjuteri, mek. verkstad och modellverkstad",
+        "products": "Utför gjutningar av tung-och lättmetaller. Specialitet: färdigbearbetade bussningar.",
+        "contact": {
+            "telegraph": "Johnsonmetall, Örebro",
+            "phone": "19750"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": {
+                "industriarb.": 106
+            }
+        },
+        "corporation_year": 1944,
+        "director": "K. Åke Johnson",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Johnsons Pappersindustri AB.",
+        "location": "Hälsingborg",
+        "business": "Boktryckeri, litografisk anstalt och bokbinderi samt pås- och kartongfabrik",
+        "products": "Tillverkar påsar, kartonger för emballage, kuvert- och kontorsböcker samt utför bok-, offset- och litografiskt tryck.",
+        "contact": {
+            "telegraph": "Pappersindustri, Hälsingborg",
+            "phone": "»Johnsons Pappersindustri»",
+            "postgiro": "6274"
+        },
+        "corporation_year": 1897,
+        "director": "disp. Hj. Magnuson",
+        "manager": "fröken T. Larsson",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "A. Johnson &amp; Co., Oljeraffinaderiet",
+        "location": "Nynäshamn",
+        "business": "Petroleumraffinaderi i Nynäshamn (Sthlms l.)",
+        "products": "Tillverkar bil- och flygbensin, fotogen, white spirit, solarolja, dieseloljor, transformatorolja, smörjoljor, pannbrännoljor, asfalt samt organiska kemikalier.",
+        "contact": {
+            "telegraph": "Raffinaderiet, Nynäshamn",
+            "phone": "Nynäshamn 2510",
+            "sales_offices": [
+                {
+                    "location": "A. Johnson &amp; Co., Stureplan 3, Stockholm",
+                    "phone": "»Johnsons»"
+                },
+                {
+                    "location": "AB. Nynäs-Petroleum, Jakobs-bergsg. 2, Stockholm",
+                    "phone": "235440"
+                }
+            ],
+            "financials": {
+                "employees": {
+                    "industriarb.": 350
+                }
+            },
+            "corporation_year": 1928,
+            "manager": "disp. Per H. W. Ågren"
+        },
+        "5": {
+            "name": "Alfr. Jonsson Fabriks AB.",
+            "location": "Lidköping",
+            "business": "Mek. verkstad och sågbladsfabrik",
+            "products": "Tillverkar bågfils- och maskinsågblad för metall (märken: »Solo» o. »Solo-Wol-fram»), bandsågblad för trä samt slip-och polermaskiner.",
+            "contact": {
+                "phone": "20224",
+                "postgiro": "88464"
+            },
+            "financials": {
+                "capital": 40500,
+                "employees": {
+                    "industriarb.": 15
+                },
+                "annual_production_value": 260000
+            },
+            "corporation_year": 1941,
+            "board": [
+                {
+                    "name": "fabr. Arvid Jonsson",
+                    "role": ""
+                },
+                {
+                    "name": "fabr. Einar Jonsson",
+                    "role": ""
+                },
+                {
+                    "name": "fabr. Emil Jonsson",
+                    "role": ""
+                }
+            ],
+            "director": "Arvid Jonsson"
+        },
+        "6": {
+            "name": "Axel Jonssons Svarveri",
+            "location": "Vetlanda",
+            "business": "Tillverkar pelarbord och barnstolar",
+            "contact": {
+                "phone": "307",
+                "postgiro": "144494"
+            },
+            "financials": {
+                "employees": {
+                    "industriarb.": 25
+                }
+            },
+            "corporation_year": 1914,
+            "owners": [
+                "fabr. Axel Jonsson",
+                "fabr. Folke Jonsson"
+            ]
+        },
+        "7": {
+            "name": "C. A. Jonssons Skofabrik AB.",
+            "location": "Kumla",
+            "business": "Skofabrik i Kumla (Örebro l.)",
+            "products": "Tillverkar randsydda, durksydda, pliggade och sandalsydda skodon. Varumärken: »Ex-cellent», »S:t Moritz», »Grandezza» o. »Gulliver».",
+            "contact": {
+                "phone": "70910",
+                "postgiro": "28309"
+            },
+            "financials": {
+                "capital": 500000,
+                "employees": {
+                    "industriarb.": 130
+                },
+                "annual_production_value": 2500000
+            },
+            "corporation_year": 1934,
+            "board": [
+                {
+                    "name": "fabr. Carl A. Jonsson",
+                    "role": ""
+                },
+                {
+                    "name": "disp. C. Lennart Jonsson",
+                    "role": ""
+                },
+                {
+                    "name": "fru Hulda Jonsson",
+                    "role": ""
+                }
+            ],
+            "director": "Carl A. Jonsson"
+        },
+        "coordinates": {
+            "Latitude": 58.90292600000001,
+            "Longitude": 17.9465289
+        },
+        "cluster": 2
+    }
+}

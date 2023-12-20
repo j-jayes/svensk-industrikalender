@@ -1,0 +1,239 @@
+{
+    "1": {
+        "name": "AB. Pålsjö Tegelbruk",
+        "location": "Lund",
+        "business": "Tillverkar gult maskinslaget fasadtegel, murtegel, brunntegel och dräneringsrör",
+        "contact": {
+            "phone": [
+                "10104"
+            ],
+            "postgiro": "none",
+            "head_office": "none",
+            "sales_offices": [],
+            "factory_office": "none",
+            "factory_phone": "none"
+        },
+        "financials": {
+            "capital": 90200,
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": "2 milj. st. tegelvaror",
+            "annual_production_value": "none"
+        },
+        "foundation_year": 1926,
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "AB. A. Påhlssons Bageri",
+        "location": "Malmö",
+        "business": "Kvarn och bageri. Tillverkar bröd och konditorivaror",
+        "contact": {
+            "phone": [
+                "Påhlssons bröd"
+            ],
+            "postgiro": "14197",
+            "head_office": "Bergsg. 12",
+            "sales_offices": [],
+            "factory_office": "none",
+            "factory_phone": "none"
+        },
+        "financials": {
+            "capital": 866800,
+            "employees": {
+                "industriarb": 269
+            },
+            "annual_turnover": 5490000,
+            "annual_production_value": "none"
+        },
+        "foundation_year": 1911,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Bernh. Pålssons Båtvarv",
+        "location": "Råå",
+        "business": "Tillverkar liv-, lots-, fiske- och segelbåtar vid båtvarv i Råå (Malmö)",
+        "contact": {
+            "phone": [
+                "Hälsingborg 90010"
+            ],
+            "postgiro": "266757",
+            "head_office": "none",
+            "sales_offices": [],
+            "factory_office": "none",
+            "factory_phone": "none"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 200000,
+            "annual_production_value": "none"
+        },
+        "foundation_year": 1936,
+        "coordinates": {
+            "Latitude": 55.9993601,
+            "Longitude": 12.7401366
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Carl P. Påhlssons Choklad- & Konfektfabrik",
+        "location": "Malmö",
+        "business": "Tillverkar choklad, kakao, konfekt, karameller, marmelad och dragéer. Varumärke: Påhls",
+        "contact": {
+            "phone": [
+                "Påhls choklad"
+            ],
+            "postgiro": "14033",
+            "head_office": "Grynbodg. 3",
+            "sales_offices": [],
+            "factory_office": "none",
+            "factory_phone": "none"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 111
+            },
+            "annual_turnover": "none",
+            "annual_production_value": "none"
+        },
+        "foundation_year": 1917,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Päls AB. Panter",
+        "location": "Sömmen",
+        "business": "Tillverkar pälsvaror vid fabrik i Sömmen (Jönköp. l.). Varumärke: Panter",
+        "contact": {
+            "phone": [
+                "Baardsfabriker"
+            ],
+            "postgiro": "292957",
+            "head_office": "none",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "211304"
+                }
+            ],
+            "factory_office": "none",
+            "factory_phone": "none"
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "none",
+            "annual_production_value": "none"
+        },
+        "foundation_year": 1945,
+        "coordinates": {
+            "Latitude": 58.1388201,
+            "Longitude": 14.9675701
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Pälsvaror, C. Hellqwist & Co.",
+        "location": "Tranås",
+        "business": "Tillverkar pälsvaror. Specialitet: pälskappor",
+        "contact": {
+            "phone": [
+                "2768"
+            ],
+            "postgiro": "130643",
+            "head_office": "none",
+            "sales_offices": [],
+            "factory_office": "none",
+            "factory_phone": "none"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 900000,
+            "annual_production_value": "none"
+        },
+        "foundation_year": 1937,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "AB. Qvarnshammars Jernbruk",
+        "location": "Degerön",
+        "business": "Järnbruk med grov- och finvalsverk samt manufaktur smedja vid De Geersfors, Degerön (Östergötl. l.). Tillverkar armerings- och byggnadsjärn samt byggnads-smiden",
+        "contact": {
+            "phone": [
+                "Degerön 8"
+            ],
+            "postgiro": "22117",
+            "head_office": "none",
+            "sales_offices": [],
+            "factory_office": "none",
+            "factory_phone": "none"
+        },
+        "financials": {
+            "capital": 51000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": "none"
+        },
+        "foundation_year": 1920,
+        "coordinates": {
+            "Latitude": 58.70009630000001,
+            "Longitude": 15.15074
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "Otto Qvarnströms Maskin- o. Verktygsfabrik",
+        "location": "Eskilstuna",
+        "business": "Tillverkar handskruvpressar, pressverktyg, lövsågar och lövsågblad samt ventilkedjor vid fabrik i Eskilstuna (Södermanl. l.)",
+        "contact": {
+            "phone": [
+                "31436"
+            ],
+            "postgiro": "263007",
+            "head_office": "none",
+            "sales_offices": [],
+            "factory_office": "none",
+            "factory_phone": "none"
+        },
+        "financials": {
+            "capital": "none",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 150000,
+            "annual_production_value": "none"
+        },
+        "foundation_year": 1888,
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    }
+}

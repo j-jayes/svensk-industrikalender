@@ -1,0 +1,272 @@
+{
+    "1": {
+        "name": "E. W. T —Fabriken",
+        "location": "Emmaboda",
+        "business": "Glasfabrik",
+        "products": "Tillverkar plana och kupiga fotografi-glas, urglas, belysningsarmatur, sand-blästrat och lackerat glas samt utför slipningar av planglas.",
+        "contact": {
+            "office": "Okänt",
+            "phone": [
+                "238"
+            ],
+            "postgiro": "293491"
+        },
+        "financials": {
+            "capital": 15000,
+            "employees": {
+                "industriarb.": 15
+            },
+            "annual_turnover": 150000,
+            "annual_production_value": 150000
+        },
+        "foundation_year": 1946,
+        "board": [
+            {
+                "name": "bankdir. Rich. Julin",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Alb. M. Elfström",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Börje Gabrielsson",
+                "role": "dir."
+            }
+        ],
+        "manager": "Wictor Weide",
+        "coordinates": {
+            "Latitude": 56.63068550000001,
+            "Longitude": 15.540006
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Exoverken AB.",
+        "location": "Kalmar",
+        "business": "Mekanisk verkstad",
+        "products": "Tillverkar värmeledningspannor, varmvattenberedare, pumpar, bryggeriapparater samt plåtbockningsmaskiner.",
+        "contact": {
+            "phone": [
+                "485"
+            ]
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb.": 40
+            },
+            "annual_turnover": 1000000,
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1939,
+        "board": [
+            {
+                "name": "ing. Harry Hill",
+                "role": "styrelse"
+            }
+        ],
+        "manager": "ing. Harry Hill",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Exportlist",
+        "location": "Nyköping",
+        "business": "Guldlistfabrik",
+        "products": "Tillverkar ram- och tapetlister samt speglar, fotografiramar, gardinbrädor m. m.",
+        "contact": {
+            "telegraph": "Exportlist, Nyköping",
+            "phone": [
+                "1400",
+                "109",
+                "453"
+            ],
+            "postgiro": "23223"
+        },
+        "financials": {
+            "capital": 72000,
+            "employees": {
+                "industriarb.": 100
+            },
+            "annual_turnover": 1300000,
+            "annual_production_value": 1300000
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "bankdir. P. I. Widebeck",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Knut Irving",
+                "role": "disp."
+            },
+            {
+                "name": "fru S. Irving",
+                "role": "styrelse"
+            }
+        ],
+        "manager": "Knut Irving",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "AB. Express-Dynamit",
+        "location": "Grängesberg",
+        "business": "Sprängämnes-teknisk fabrik",
+        "products": "Tillverkar dynamit och andra nitroglycerinhaltiga sprängämnen.",
+        "contact": {
+            "telegraph": "Förvaltningen",
+            "phone": [
+                "84"
+            ]
+        },
+        "financials": {
+            "capital": 1500000,
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": 2500000,
+            "annual_production_value": 2500000
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "dir. Martin Waldenström",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl G. Granström",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Hugo Gårde",
+                "role": "dir."
+            }
+        ],
+        "manager": "Carl G. Granström",
+        "coordinates": {
+            "Latitude": 60.0785553,
+            "Longitude": 15.0110618
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Extractionsverken AB.",
+        "location": "Agnesberg",
+        "business": "Kraftfoderfabrik och extraktionsverk",
+        "products": "Tillverkar fiskmjöl, sillmjöl, svin- och hönsfoder, extraherad fiskolja, torskleverolja, sillolja, lim, fisk- och sillguano m. m.",
+        "contact": {
+            "telegraph": "Extractor, Göteborg",
+            "phone": [
+                "Göteborg 174064"
+            ],
+            "postgiro": "22124"
+        },
+        "financials": {
+            "capital": 51000,
+            "employees": {
+                "industriarb.": 15
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": 500000
+        },
+        "foundation_year": 1924,
+        "board": [
+            {
+                "name": "fil. dr Philip Lindstedt",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. G. Hanse",
+                "role": "styrelse"
+            }
+        ],
+        "manager": "Philip Lindstedt",
+        "coordinates": {
+            "Latitude": 57.7896435,
+            "Longitude": 12.0153179
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Fabriken Carl",
+        "location": "Malmö",
+        "business": "Kem-teknisk fabrik",
+        "products": "Tillverkar tvål, parfymer, puderkräm, kem-teknisk preparat m. m.",
+        "contact": {
+            "office": "Nobelvägen 129",
+            "telegraph": "Abecatvål, Malmö",
+            "phone": [
+                "20445"
+            ],
+            "postgiro": "39280",
+            "nederlag": {
+                "Stockholm": "Närkesgatan 1, telefon: 410083",
+                "Göteborg": "Mellang. 2 A, telefon: 111943"
+            }
+        },
+        "financials": {
+            "capital": 10000,
+            "employees": {
+                "industriarb.": 15
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1904,
+        "board": [
+            {
+                "name": "konsul Gustaf Wingårdh",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Anders Ohristofferson",
+                "role": "styrelse"
+            }
+        ],
+        "manager": "Anders Christofferson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Fabriken Hammare AB.",
+        "location": "Eskilstuna",
+        "business": "Manufaktursmidesfabrik",
+        "products": "Tillverkar hammare, hovslageriverktyg m. m.",
+        "contact": {
+            "office": "Okänt"
+        },
+        "financials": {
+            "capital": "Okänt",
+            "employees": {
+                "industriarb.": "Okänt"
+            },
+            "annual_turnover": "Okänt",
+            "annual_production_value": "Okänt"
+        },
+        "foundation_year": "Okänt",
+        "board": [
+            {
+                "name": "Okänt",
+                "role": "Okänt"
+            }
+        ],
+        "manager": "Okänt",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    }
+}

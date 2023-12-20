@@ -1,0 +1,314 @@
+{
+    "1": {
+        "name": "AB. Wahlén—V al b o",
+        "location": "Stockholm",
+        "business": "Oljeraffinaderi och kem.-tekn. fabrik",
+        "products": "Tillverkar smörjmedel såsom automobiloljor, maskin- och specialoljor, konsistensfett m. m., transformatoroljor samt puts- och slipmedel. Bolaget driver såsom huvudrörelse engroshandel med smörjoljor, transformatoroljor och maskinförnödenheter.",
+        "contact": {
+            "office": "Stora Ny g. 7",
+            "telegraph": "Wabo, Stockholm",
+            "phone": [
+                "‘Wahlén & Block’"
+            ],
+            "postgiro": "859",
+            "sales_offices": [
+                {
+                    "location": "Malmö",
+                    "phone": "16958, 28358"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "153432-33"
+                },
+                {
+                    "location": "Kalmar",
+                    "phone": "53"
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": "56809"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "NotAvailable",
+            "annual_production_value": "NotAvailable"
+        },
+        "foundation_year": 1886,
+        "corporation_year": 1903,
+        "board": [
+            {
+                "name": "K. Heinecke",
+                "role": "ordf."
+            },
+            {
+                "name": "Emil Edman",
+                "role": "dir."
+            },
+            {
+                "name": "Helmer Lindh",
+                "role": "bankdir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. K. F. Wahlgren",
+        "location": "Borås",
+        "business": "Skofabrik",
+        "products": "Tillverkar skodon",
+        "contact": {
+            "phone": [
+                "17650"
+            ]
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1946,
+        "board": [
+            {
+                "name": "fru Ellen Ljungberg",
+                "role": "ordf."
+            },
+            {
+                "name": "med. lic. Gunnar Wihman",
+                "role": "NotAvailable"
+            },
+            {
+                "name": "disp. Tore Wihman",
+                "role": "NotAvailable"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Erik Wahlqvist AB.",
+        "location": "Skebokvarn",
+        "business": "Snickerifabrik",
+        "products": "Tillverkar byggnadssnickerier och inredningar samt bowlingbanor",
+        "contact": {
+            "phone": [
+                "46"
+            ],
+            "postgiro": "97114"
+        },
+        "financials": {
+            "capital": "16,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "NotAvailable",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1914,
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "Erik Wahlqvist",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.06165319999999,
+            "Longitude": 16.7109753
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Wahlqvistska Klädesfabriken C. A.Svahn",
+        "location": "Svängsta",
+        "business": "Klädesfabrik",
+        "products": "Tillverkar uniformskläde och andra yllevävnader, filtar m. m. Firman äger jämväl kraftstation vid Mör-rums ström och distribuerar elektr. energi",
+        "contact": {
+            "telegraph": "Klädesfabriken, Svängsta",
+            "phone": [
+                "Karlshamn 3"
+            ],
+            "postgiro": "22437"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "NotAvailable"
+        },
+        "foundation_year": 1824,
+        "board": [
+            {
+                "name": "kammarh. Nils Swartling",
+                "role": "ägare o. chef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.2619903,
+            "Longitude": 14.76907
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "L. E. Wahlström",
+        "location": "Earlstad",
+        "business": "Tillverkar begravningsartiklar, konstgjorda blommor, kransstommar",
+        "products": "Märke: »Ideal», blomstergödning (märke: »Flower-Food»)",
+        "contact": {
+            "office": "NotAvailable"
+        },
+        "financials": {
+            "capital": "135,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "NotAvailable",
+            "annual_production_value": "550,000 kr"
+        },
+        "foundation_year": 1904,
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "Knut Wahlström",
+                "role": "Verkst. dir. o. disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Waidele",
+        "location": "Göteborg",
+        "business": "Musikinstrumentfabrik",
+        "products": "Tillverkar lu-tor, gitarrer och andra stränginstrument. Bolaget driver även engros- och detaljhandel inom musikinstrument-, radio- och cykelbranschen",
+        "contact": {
+            "factory_office": "NotAvailable",
+            "factory_phone": "NotAvailable"
+        },
+        "financials": {
+            "capital": "180,000 kr",
+            "employees": {
+                "industriarb": 39
+            },
+            "annual_turnover": "NotAvailable",
+            "annual_production_value": "NotAvailable"
+        },
+        "foundation_year": 1880,
+        "corporation_year": 1924,
+        "board": [
+            {
+                "name": "Heimer Waidele",
+                "role": "ordf."
+            },
+            {
+                "name": "Arne Waidele",
+                "role": "dir."
+            },
+            {
+                "name": "änkefru A. Waidele",
+                "role": "NotAvailable"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Waksala Nya Tegelbruk, Lundqvist & Johansson",
+        "location": "Stockholm",
+        "business": "Tegelbruk",
+        "products": "Tillverkar mur-och taktegel, radialtegel samt dräneringsrör",
+        "contact": {
+            "office": "Dalag. 56 B",
+            "telegraph": "NotAvailable",
+            "phone": [
+                "323807, 335631"
+            ],
+            "postgiro": "53360",
+            "sales_offices": [
+                {
+                    "location": "Uppsala",
+                    "phone": "30179"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "NotAvailable",
+            "annual_production_value": "2.3 milj. tegel var or."
+        },
+        "foundation_year": 1912,
+        "board": [
+            {
+                "name": "Oscar Johansson",
+                "role": "ing."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "Valbo Verkstads AB.",
+        "location": "Norra Valbo",
+        "business": "Karosseriverkstäder",
+        "products": "Tillverkar skåp- och lastvagnskarosser, begravningskarosser",
+        "contact": {
+            "phone": [
+                "Valbo 87, 245"
+            ],
+            "postgiro": "36912"
+        },
+        "financials": {
+            "capital": "38,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "NotAvailable",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "Allert Holmgren",
+                "role": "kamrer"
+            },
+            {
+                "name": "G. Ålenius",
+                "role": "NotAvailable"
+            },
+            {
+                "name": "Maja Ålenius",
+                "role": "fru"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.66595729999999,
+            "Longitude": 17.0018608
+        },
+        "cluster": 6
+    }
+}

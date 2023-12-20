@@ -1,0 +1,143 @@
+{
+    "1": {
+        "name": "Jönköpings Vaddfabrik, C. Rydman & Co.",
+        "location": "Jönköping",
+        "business": "Tillverkning av täckvadd, limvadd, fönstervadd, förbandsvadd, tapetserarevadd, axelvadd, frisérbomull, tätningslist samt tillverkning av täcken, madrasser och kuddar, flock och inläggssulor för skodon.",
+        "products": "Produkter: täckvadd, limvadd, fönstervadd, förbandsvadd, tapetserarevadd, axelvadd, frisérbomull, tätningslist, täcken, madrasser och kuddar, flock, inläggssulor för skodon.",
+        "contact": {
+            "office": "Jönköping",
+            "phone": [
+                "226",
+                "227"
+            ],
+            "postgiro": "10661",
+            "head_office": "Jönköping",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "550,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1899,
+        "owners": [
+            "fru I. Lindström",
+            "fru I. Lindstam"
+        ],
+        "director": "",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Jönköpings och Vuicans Tändsticksfabriks AB.",
+        "location": "Jönköping",
+        "business": "Tillverkning av tändstickor, tomaskar och tändstickssplint.",
+        "products": "Produkter: tändstickor, tomaskar, tändstickssplint.",
+        "contact": {
+            "office": "Jönköping",
+            "phone": [],
+            "postgiro": "91399",
+            "head_office": "Jönköping",
+            "sales_offices": [
+                {
+                    "location": "Sverige",
+                    "phone": "Svenska Tändsticksbolagets Försäljnings-AB., Stockholm, V. Trädgårdsg. 15"
+                }
+            ],
+            "telegraph": "Matches",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "7,054,000 kr",
+            "employees": {
+                "industriarb": 1750
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "corporation_year": 1903,
+        "owners": [
+            "Svenska Tändsticks AB."
+        ],
+        "board": [
+            {
+                "name": "S. Ourman",
+                "role": "ordf."
+            },
+            {
+                "name": "Axel Brandin",
+                "role": "dir."
+            },
+            {
+                "name": "Torsten Jung",
+                "role": "dir."
+            },
+            {
+                "name": "F. G. Liljenroth",
+                "role": "civiling."
+            },
+            {
+                "name": "Vald. Lindahl",
+                "role": "disp."
+            }
+        ],
+        "director": "Torsten Jung",
+        "managing_director": "",
+        "sales_manager": "",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Jönköpings Vågfabriks AB.",
+        "location": "Jönköping",
+        "business": "Tillverkning av decimalvågar, taffel- och balansvågar, skjutviktsvågar, barnvågar, personvågar, paketvågar, gods- och bagagevågar, kranvågar, mejeri vågar, kreatursvågar, kör- och spårvågar m. fl.",
+        "contact": {
+            "office": "Jönköping",
+            "phone": [
+                "1789"
+            ],
+            "postgiro": "11594",
+            "head_office": "Jönköping",
+            "telegraph": "Vågar",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Simon Larsson",
+                "role": "disp."
+            },
+            {
+                "name": "fru Margit Larsson",
+                "role": "ordf."
+            }
+        ],
+        "director": "Simon Larsson",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 6
+    }
+}

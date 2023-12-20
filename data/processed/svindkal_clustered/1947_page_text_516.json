@@ -1,0 +1,181 @@
+{
+    "1": {
+        "name": "AB. Modelia",
+        "location": "Stockholm",
+        "business": "Damkonfektionsfabrik",
+        "contact": {
+            "office": "Stora Nygatan 58",
+            "phone": [
+                "16415"
+            ],
+            "postgiro": "149086"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 88
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1944,
+        "board": [
+            {
+                "name": "disp. Bengt Påhlsson",
+                "role": "verkst. dir."
+            }
+        ],
+        "director": "disp. Bengt Påhlsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. Modellkonfektion",
+        "location": "Stockholm",
+        "business": "Tillverkar klänningar.",
+        "contact": {
+            "office": "Norra Stationsg. 79—81",
+            "phone": [
+                "337880"
+            ],
+            "postgiro": "194443"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 17
+            },
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "dir. Sven Salén",
+                "role": "verkst. dir."
+            }
+        ],
+        "director": "disp. Bengt Påhlsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. Paul Modig",
+        "location": "Härnösand",
+        "business": "Täck- och madrassfabrik",
+        "contact": {
+            "office": "Härnösand",
+            "telegraph": "Paulmodig, Härnösand",
+            "phone": [
+                "3400",
+                "3440"
+            ],
+            "postgiro": "7649",
+            "factory_office": "Skellefteå",
+            "factory_phone": "11360"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 35
+            }
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "grossh. Paul Modig",
+                "role": "ordf."
+            }
+        ],
+        "director": "Gösta Modig",
+        "coordinates": {
+            "Latitude": 62.6322698,
+            "Longitude": 17.9408714
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Mofors Bruk",
+        "location": "Anderstorp",
+        "business": "Gjuteri och mek. verkstad",
+        "contact": {
+            "phone": [
+                "3",
+                "103"
+            ],
+            "postgiro": "82321"
+        },
+        "financials": {
+            "capital": "51,100 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1932,
+        "board": [],
+        "director": "Emil Lindén",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. Moheda Skofabrik",
+        "location": "Moheda",
+        "business": "Tillverkar randsydda och sandalsydda skodon",
+        "contact": {
+            "phone": [
+                "24"
+            ],
+            "postgiro": "22516"
+        },
+        "financials": {
+            "capital": "92,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_production_value": "825,000 kr"
+        },
+        "foundation_year": 1933,
+        "board": [],
+        "director": "Johan E. Kallin",
+        "coordinates": {
+            "Latitude": 57.0027566,
+            "Longitude": 14.5732973
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Mohögs Mekaniska Verkstad",
+        "location": "Skönsmon",
+        "business": "Mek. verkstad, gjuteri, grovplåtslageri och fartygsslip",
+        "contact": {
+            "telegraph": "Mohög, Sundsvall",
+            "phone": [
+                "Sundsvall 1807",
+                "3115"
+            ],
+            "postgiro": "178757"
+        },
+        "financials": {
+            "capital": "275,300 kr",
+            "employees": {
+                "industriarb": 85
+            }
+        },
+        "foundation_year": 1911,
+        "board": [],
+        "director": "Yngve Carlström",
+        "coordinates": {
+            "Latitude": 62.37888899999999,
+            "Longitude": 17.340556
+        },
+        "cluster": 6
+    }
+}

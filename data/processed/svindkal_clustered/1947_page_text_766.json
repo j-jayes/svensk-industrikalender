@@ -1,0 +1,289 @@
+{
+    "1": {
+        "name": "Vollsjö Toffelfabrik AB",
+        "location": "Vollsjö",
+        "business": "Tillverkning av toffelbottnar",
+        "contact": {
+            "office": "Vollsjö",
+            "phone": [
+                "21"
+            ],
+            "postgiro": "71815"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "130,000 kr",
+            "annual_production_value": "130,000 kr"
+        },
+        "foundation_year": 1922,
+        "director": "handl. Bonde Andersson",
+        "coordinates": {
+            "Latitude": 55.7040599,
+            "Longitude": 13.7872463
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. Volvo",
+        "location": "Göteborg",
+        "business": "Tillverkning av person- och lastautomobiler, bussar, traktorer, bilmotorer, inombordsmotorer, stationära motorer",
+        "contact": {
+            "office": "Göteborg",
+            "phone": [
+                "222000"
+            ],
+            "head_office": "Göteborg",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "222000"
+                },
+                {
+                    "location": "Skövde",
+                    "phone": "N/A"
+                }
+            ],
+            "telegraph": "Volvo,- Göteborg",
+            "postgiro": "42880"
+        },
+        "financials": {
+            "capital": "37,500,000 kr",
+            "employees": {
+                "industriarb": 2,
+                "Göteborg": 800,
+                "Skövde": 1,
+                "total": 2300
+            },
+            "corporation_year": 1915
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "landshövd. Bror Hasselrot",
+                "role": "ordförande"
+            },
+            {
+                "name": "dir. Assar Gabrielsson",
+                "role": "verkställande direktör"
+            },
+            {
+                "name": "dir. Hadar H:son Hallström",
+                "role": "direktör"
+            },
+            {
+                "name": "dir. Gustaf Larson",
+                "role": "direktör"
+            },
+            {
+                "name": "ing. Erik Magnus",
+                "role": "ingenjör"
+            },
+            {
+                "name": "dr Hilding Törnebohm",
+                "role": "direktör"
+            },
+            {
+                "name": "dr Sven Wingquist",
+                "role": "direktör"
+            }
+        ],
+        "owner": "AB. Volvo",
+        "director": "Assar Gabrielsson",
+        "managing_director": "Gustaf Larson",
+        "sales_manager": "Åke Högman",
+        "manager": "Åke Reifors",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Ernst Wranne, Byggnads AB",
+        "location": "Kalmar",
+        "business": "Entreprenadfirma för husbyggnader",
+        "contact": {
+            "phone": [
+                "834",
+                "2906"
+            ],
+            "postgiro": "171403"
+        },
+        "financials": {
+            "capital": "175,000 kr"
+        },
+        "foundation_year": 1913,
+        "current_name_year": 1945,
+        "director": "byggnadsing. Ernst Wranne",
+        "sales_manager": "ing. Börje Nordmark",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Woxna Järnverk",
+        "location": "Voxna",
+        "description": "Se Ljusne-Woxna AB., Ljusne.",
+        "coordinates": {
+            "Latitude": 61.3388953,
+            "Longitude": 15.5692408
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "Ernst Wranne, Byggnads AB.",
+        "location": "Kalmar",
+        "business": "Entreprenadfirma för husbyggnader",
+        "contact": {
+            "phone": [
+                "834",
+                "2906"
+            ],
+            "postgiro": "171403"
+        },
+        "financials": {
+            "capital": "175,000 kr"
+        },
+        "foundation_year": 1913,
+        "current_name_year": 1945,
+        "director": "byggnadsing. Ernst Wranne",
+        "sales_manager": "ing. Börje Nordmark",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "Vrena Sågverk o. Tegelbruk",
+        "location": "Vrena",
+        "description": "Se Backa-Hosjö AB., Sparreholm.",
+        "coordinates": {
+            "Latitude": 58.8605867,
+            "Longitude": 16.6988805
+        },
+        "cluster": 4
+    },
+    "7": {
+        "name": "Wretmans Boktryckeri AB",
+        "location": "Uppsala",
+        "business": "Utför bok-, affärs- och tidskriftstryck",
+        "contact": {
+            "phone": [
+                "30191",
+                "301919"
+            ],
+            "postgiro": "13062"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1889,
+        "current_name_year": 1925,
+        "director": "boktr. Emil Sjögren",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 5
+    },
+    "8": {
+        "name": "AB. Vretstorps Tröskmaskiner",
+        "location": "Vretstorp",
+        "business": "Tillverkning av tröskverk, bossfläktar och halm-fläktar",
+        "contact": {
+            "phone": "70",
+            "postgiro": "13991"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 73
+            }
+        },
+        "foundation_year": 1923,
+        "director": "Nils Westberg (Karlstad)",
+        "sales_manager": "Karl Neider",
+        "coordinates": {
+            "Latitude": 59.02375439999999,
+            "Longitude": 14.8685106
+        },
+        "cluster": 1
+    },
+    "9": {
+        "name": "Vrigstads Skofabrik",
+        "location": "Vrigstad",
+        "business": "Tillverkning av sandalsydda skodon",
+        "contact": {
+            "phone": "45"
+        },
+        "foundation_year": 1928,
+        "owners": [
+            "Mandli Svenssons sterbhus"
+        ],
+        "coordinates": {
+            "Latitude": 57.3554934,
+            "Longitude": 14.4756316
+        },
+        "cluster": 9
+    },
+    "10": {
+        "name": "AB. WST-hus",
+        "location": "Forserum",
+        "business": "Trähusfabrik, hyvleri och snickerifabrik",
+        "contact": {
+            "head_office": "Jönköping",
+            "phone": [
+                "5461",
+                "7190-91"
+            ],
+            "postgiro": "81728",
+            "sales_offices": [
+                {
+                    "location": "Forserum",
+                    "phone": "WST-hus, Forserum"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1922,
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "dir. Werner Svensson",
+                "role": "ordförande"
+            },
+            {
+                "name": "kamrer Bengt Werneskog",
+                "role": "kamrer"
+            },
+            {
+                "name": "inköpschef Folke Werneskog",
+                "role": "inköpschef"
+            }
+        ],
+        "director": "fabr. Werner Svensson",
+        "sales_manager": "Bernt Werneskog",
+        "manager": "Folke Werneskog",
+        "coordinates": {
+            "Latitude": 57.69932780000001,
+            "Longitude": 14.475408
+        },
+        "cluster": 7
+    }
+}

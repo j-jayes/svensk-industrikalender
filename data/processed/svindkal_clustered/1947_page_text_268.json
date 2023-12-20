@@ -1,0 +1,144 @@
+{
+    "1": {
+        "name": "R. Engströms Mek. Verkstad",
+        "location": "Katrineholm",
+        "business": "Tillverkar automobil- och motordetaljer, bussningar, pressade och svetsade plåtkonstruktioner, specialmaskiner och verktyg m. m. samt utför finmekaniska arbeten.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "1413",
+                "1414"
+            ],
+            "postgiro": "72901"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1926,
+        "owners": [
+            "ing. Rudolf Engström"
+        ],
+        "coordinates": {
+            "Latitude": 58.99555109999999,
+            "Longitude": 16.2054756
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Ening & Wentzel AB.",
+        "location": "Mjölby",
+        "business": "Karamell- och kolafabrik. Tillverkar kola, dragéer och tabletter. Varumärke: »Mejod»-tabletten.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "701",
+                "722"
+            ],
+            "postgiro": "134493"
+        },
+        "financials": {
+            "capital": "31,200 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "fabr. Tore H. Wentzel",
+                "role": "Styrelse o. verTcst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Enköpings Mössfabrik",
+        "location": "Enköping",
+        "business": "Tillverkar herr-, dam- och barnmössor samt pälsmössor och pälsbaretter. Varumärke: »Ena». Firman driver även en-grosförsäljning av herrhattar och pälsskinn.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "33"
+            ],
+            "postgiro": "86450",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "103656"
+                }
+            ]
+        },
+        "financials": {
+            "capital": null,
+            "employees": null,
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1864,
+        "owners": [
+            "jur. kand. Olof Barkfeldt"
+        ],
+        "coordinates": {
+            "Latitude": 59.63569090000001,
+            "Longitude": 17.0778228
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "AB. Enköpings Verkstäder",
+        "location": "Enköping",
+        "business": "Verktygsverkstäder med hejarsmedja, fläktverkstäder och gjuteri i Enköping samt installationsverkstäder i Stockholm och Hälsingborg.",
+        "products": "Verktygsverkstäderna tillverka under varumärket »BAHCO»: skift- och skruvnycklar, hylsnycklar, skruvmejslar, skruv-tvingar, rörtänger, röravskärare, bultsaxar, bil- och cykelverktyg, trädgårdsverktyg m. m.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Enköping 33040"
+            ]
+        },
+        "financials": {
+            "capital": "2,100,000 kr",
+            "employees": {
+                "industriarb": 550
+            },
+            "annual_turnover": "10,000,000 kr"
+        },
+        "foundation_year": 1886,
+        "board": [
+            {
+                "name": "generalkonsul Hugo Duhs",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Arnold Hjorth",
+                "role": "v. ordf."
+            },
+            {
+                "name": "civiling. Hannes Brynge",
+                "role": null
+            },
+            {
+                "name": "notarie Tore Duhs",
+                "role": null
+            },
+            {
+                "name": "dir. A. Uggla",
+                "role": null
+            }
+        ],
+        "owner": "AB. B. A. Hjorth & Co.",
+        "coordinates": {
+            "Latitude": 59.63569090000001,
+            "Longitude": 17.0778228
+        },
+        "cluster": 6
+    }
+}

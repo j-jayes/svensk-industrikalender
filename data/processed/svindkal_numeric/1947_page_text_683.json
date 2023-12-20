@@ -1,0 +1,170 @@
+{
+    "1": {
+        "name": "Svenska Möbelfabrikerna",
+        "location": "Bodafors",
+        "business": "Möbelfabrik",
+        "contact": {
+            "office": "Bodafors",
+            "phone": [
+                "Svenska Möbelfabrikerna",
+                "Vasag. 52, Stockholm, telefon: 207130"
+            ],
+            "postgiro": "6463",
+            "head_office": "Bodafors",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "207130"
+                }
+            ],
+            "telegraph": "Möbelfabrikerna, Bodafors",
+            "factory_office": "Mölndal",
+            "factory_phone": "272000"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industriarb.": 390
+            },
+            "annual_turnover": 4100000,
+            "annual_production_value": 20000000
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "ing. Gust. ödqvist",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Einar Egnell",
+                "role": "member"
+            },
+            {
+                "name": "ing. S. Stridsberg",
+                "role": "member"
+            },
+            {
+                "name": "dir. Victor Strömberg",
+                "role": "member"
+            }
+        ],
+        "director": "Gunnar Lindeberg",
+        "coordinates": {
+            "Latitude": 57.50394780000001,
+            "Longitude": 14.7079586
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Svenska Oljeslageri",
+        "location": "Göteborg",
+        "business": "Tillverkar vegetabiliska oljor, oljefernissor, ftalsyreanhydrid, maleinsyrean-hydrid, lackkonsthartser, mjukgörings-medel, sickativer, textilhjälpmedel samt foderkakor",
+        "contact": {
+            "office": "Mölndal",
+            "phone": [
+                "AB. Svenska Oljeslageri",
+                "Göteborg 5, telefon: 272000"
+            ],
+            "postgiro": "46490",
+            "head_office": "Mölndal",
+            "sales_offices": [
+                {
+                    "location": "Henriksborg",
+                    "phone": "437071"
+                }
+            ],
+            "telegraph": "Delbanco, Göteborg",
+            "factory_office": "Henriksborg",
+            "factory_phone": "437071"
+        },
+        "financials": {
+            "capital": 3600000,
+            "employees": {
+                "industriarb.": 220
+            },
+            "annual_turnover": 20000000
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "konsul Oscar Gullander",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Ernst Persson",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. Gunnar Engberg",
+                "role": "member"
+            },
+            {
+                "name": "dir. H. E. Helmerson",
+                "role": "member"
+            },
+            {
+                "name": "dir. Emanuel Högberg",
+                "role": "member"
+            },
+            {
+                "name": "konsul S. H. Sörensen",
+                "role": "member"
+            }
+        ],
+        "director": "H. E. Helmerson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Svenska Pianofabriken",
+        "location": "Stockholm",
+        "business": "Tillverkar pianon",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Svenska Precisionsverktyg",
+        "location": "Nacka",
+        "business": "Mek. verkstad",
+        "contact": {
+            "office": "Nacka",
+            "phone": [
+                "Espeve, Stockholm",
+                "Stockholm 162860 o. 162172"
+            ],
+            "postgiro": "58952",
+            "representative_office": "Stockholm, Malmskillnadsg. 46",
+            "representative_phone": "232425"
+        },
+        "coordinates": {
+            "Latitude": 59.30531999999999,
+            "Longitude": 18.2475
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. Svenska Naxos",
+        "location": "Västervik",
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "AB. Svenska AB. Philips",
+        "location": "Stockholm",
+        "business": "Försäljningsbolag för svenska elektrotekniska produkter",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    }
+}

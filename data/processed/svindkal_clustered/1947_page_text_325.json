@@ -1,0 +1,229 @@
+{
+    "1": {
+        "name": "AB. Grumme & Son",
+        "location": "Stockholm",
+        "business": "Kem.-teknisk fabrik",
+        "products": "Tillverkar tvål, såpa, tvätt-, skur-, puts- och polermedel, parfymer, kosmetiska och antiseptiska artiklar, V. Rosendahls Filipstads-Bläck, klister, tusch m.m.",
+        "contact": {
+            "office": "östgötag. 52",
+            "phone": [
+                "440260"
+            ],
+            "postgiro": "2421",
+            "telegraph": "Grumme, Stockholm"
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1882,
+        "corporation_year": 1911,
+        "board": [
+            {
+                "name": "ing. O. Ed. Grumme",
+                "role": "ordf."
+            },
+            {
+                "name": "kontorschef Curt Aspegrén",
+                "role": "ing."
+            },
+            {
+                "name": "ing. Ferdinand Grumme",
+                "role": ""
+            }
+        ],
+        "director": "O. Ed. Grumme",
+        "sales_manager": "Curt Aspegrén",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Grundbergs Mek. Verkstads AB.",
+        "location": "Trollhättan",
+        "business": "Tillverkar hydrauliska presspumpar samt skostift (tacks)",
+        "contact": {
+            "phone": [
+                "12560"
+            ],
+            "postgiro": "33888"
+        },
+        "financials": {
+            "capital": "210,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1906,
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "kanalinsp. Simon Lindqvist",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Arthur Bergström",
+                "role": ""
+            },
+            {
+                "name": "lokförare C. Arvid Pettersson",
+                "role": ""
+            }
+        ],
+        "director": "Arthur Bergström",
+        "coordinates": {
+            "Latitude": 58.28348939999999,
+            "Longitude": 12.2858206
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Grundéns Regnklädersfabriks AB.",
+        "location": "Grundsund",
+        "business": "Tillverkar regnkläder vid fabrik i Grundsund (Göteb. o. Bohus l.)",
+        "products": "Varumärke: »Skeppet»",
+        "contact": {
+            "phone": [
+                "Regnklädersfabriken"
+            ],
+            "postgiro": "33479"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1927,
+        "corporation_year": 1944,
+        "director": "Carl Grunden",
+        "managing_director": "Olof Grundén",
+        "sales_manager": "Åke Grundén",
+        "coordinates": {
+            "Latitude": 58.214729,
+            "Longitude": 11.4178031
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Gruf AB. Dafarne",
+        "location": "Fäun",
+        "business": "Järnmalmsgruvor med anriknings- och sintringsverk vid Rämshyttan samt järnmalmsgruvor vid Gonäs (båda i Kopparb. 1.)",
+        "contact": {
+            "telegraph": "Bergslaget, Falun"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "disp. Ejnar Rodling",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gösta Frisell",
+                "role": ""
+            },
+            {
+                "name": "dir. Karl Rutberg",
+                "role": ""
+            }
+        ],
+        "director": "Ejnar Rodling",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Gruf AB. Lekomberg",
+        "location": "Sörvik",
+        "business": "Järnmalmsgruvor i Lekombergs-, Kall-botten- och Sörviksfälten samt anrikningsverk i Lekomberg (Kopparb. l.)",
+        "contact": {
+            "telegraph": "Lekom-berggruvan, Ludvika",
+            "phone": [
+                "Ludvika 5 o. 14"
+            ],
+            "postgiro": "167507"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 220
+            },
+            "annual_production_value": "3,035,000 kr"
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "dir. H. Hennemann",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Nils Högberg",
+                "role": ""
+            }
+        ],
+        "director": "H. Hennemann",
+        "coordinates": {
+            "Latitude": 60.18451349999999,
+            "Longitude": 15.1515572
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Grufve AB. Långban",
+        "location": "Långlan",
+        "business": "Gruvor och anrikningsverk vid Långban (Värml. l.)",
+        "products": "Bryter och anrikar järn-och manganmalm samt dolomit, som även finmales",
+        "contact": {
+            "phone": [
+                "Filipstad 167"
+            ],
+            "postgiro": "89940"
+        },
+        "financials": {
+            "capital": "345,000 kr",
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1885,
+        "board": [
+            {
+                "name": "disp. Nils Danielsen",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Thorsten Wigelius",
+                "role": "v. ordf."
+            },
+            {
+                "name": "disp. J. G. H. Weslien",
+                "role": ""
+            }
+        ],
+        "director": "J. G. H. Weslien",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 6
+    }
+}

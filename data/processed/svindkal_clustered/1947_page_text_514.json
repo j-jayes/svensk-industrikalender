@@ -1,0 +1,220 @@
+{
+    "1": {
+        "name": "AB. Mixin",
+        "location": "Göteborg",
+        "business": "Kemisk teknisk fabrik",
+        "products": "Tillverkar ef-terrättspulver, pudding-, sås- och krämpulver samt konserveringsmedel. Varumärke: »Mixin».",
+        "contact": {
+            "office": "S. Hamng. 25",
+            "phone": [
+                "134971"
+            ],
+            "postgiro": "46934"
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "Information saknas"
+        },
+        "foundation_year": 1941,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "MJ-hattar AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar barn- och damhattar samt mössor",
+        "contact": {
+            "office": "Högbergsg. 59",
+            "phone": [
+                "409931"
+            ],
+            "postgiro": "156479"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "Information saknas"
+        },
+        "foundation_year": 1934,
+        "corporation_year": 1942,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB Mjöbäcks Träindustri",
+        "location": "Mjöbäck",
+        "business": "Tillverkar monteringsfärdiga bostadshus och sportstugor, byggnadssnickerier, köks- och butiksinredningar",
+        "contact": {
+            "phone": "36",
+            "postgiro": "84699"
+        },
+        "financials": {
+            "capital": "50,300 kr",
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1933,
+        "corporation_year": 1943,
+        "coordinates": {
+            "Latitude": 57.3134435,
+            "Longitude": 12.876799
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Mjölby Bryggeri",
+        "location": "Mjölby",
+        "predecessor": "AB. Nya Centralbryggeriet, Linköping",
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "Mjölby Cjuteri & Mek. Verkstads AB.",
+        "location": "Mjölby",
+        "business": "Järn- och metallgjuteri, maskin-, smi-des-, reparations- och modellverkstad",
+        "products": "Tillverkar byggnads- och maskingjutgods, verktygsmaskiner, plansvarvar, transmissioner, kilrepskivor, fasta och friktionsremskivor, fasta och friktionskopplingar, stå- och hänglager m. m. samt maskiner för kvarnindustrien; utför slipning och räffling av kvarnvalsar.",
+        "contact": {
+            "telegraph": "Primoverken, Mjölby",
+            "phone": [
+                "83",
+                "583"
+            ],
+            "postgiro": "8673"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1896,
+        "corporation_year": 1918,
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Mjölby Golvindustri",
+        "location": "Mjölby",
+        "business": "Parkettfabrik",
+        "products": "Tillverkar ekparkett",
+        "contact": {
+            "telegraph": "Golvindustri, Mjölby",
+            "phone": [
+                "788",
+                "789"
+            ],
+            "postgiro": "280371"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "1,300,000 kr"
+        },
+        "foundation_year": 1944,
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "AB. Mjölby intarsia",
+        "location": "Mjölby",
+        "business": "Finsnickeriverkstäder och arkitektkontor",
+        "products": "Tillverkning av intarsiadekorationer",
+        "contact": {
+            "telegraph": "Mjölbyintarsia",
+            "postgiro": "34122"
+        },
+        "financials": {
+            "capital": "42,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "650,000 kr"
+        },
+        "foundation_year": 1909,
+        "corporation_year": 1937,
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "AB. Mjölby Karamellfabrik",
+        "location": "Mjölby",
+        "business": "Tillverkar karameller, konfekt, kola och tabletter",
+        "products": "Varumärke för kola: »MK».",
+        "contact": {
+            "phone": "245",
+            "postgiro": "11740"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "750,000 kr"
+        },
+        "foundation_year": 1921,
+        "corporation_year": 1944,
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 2
+    },
+    "9": {
+        "name": "AB. Mjölby Mössfabrik",
+        "location": "Mjölby",
+        "business": "Tillverkar herr-, dam- och barnmössor",
+        "products": "Specialitet: Uniformsmössor. Bolaget driver även handel med herrhattar av utländsk tillverkning.",
+        "contact": {
+            "phone": "654",
+            "postgiro": "76738"
+        },
+        "financials": {
+            "capital": "60,300 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "Information saknas",
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1934,
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 9
+    }
+}

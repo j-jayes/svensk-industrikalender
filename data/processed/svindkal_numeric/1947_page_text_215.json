@@ -1,0 +1,299 @@
+{
+    "1": {
+        "name": "Bröderna Lagerström AB",
+        "location": "Stockholm",
+        "business": "Boktryckeri, litografisk anstalt, bok-binderi och bokförlag.",
+        "products": "Utför bok- och affärstryck, litografi, offset och notstick.",
+        "contact": {
+            "office": "Flemingg. 16",
+            "phone": [
+                "520185"
+            ],
+            "postgiro": "2323"
+        },
+        "financials": {
+            "capital": 267000,
+            "employees": {
+                "industriarb": 83
+            },
+            "annual_turnover": 1550000,
+            "annual_production_value": 1550000
+        },
+        "foundation_year": 1903,
+        "corporation_year": 1906,
+        "board": [
+            {
+                "name": "Hugo Lagerström",
+                "role": "ordf."
+            },
+            {
+                "name": "Emil Oarelius",
+                "role": "musikhandl."
+            },
+            {
+                "name": "Arthur Lagerström",
+                "role": "dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Bröderna Larsson, Kristinehamn",
+        "location": "Kristinehamn",
+        "business": "Varv och mek. verkstad.",
+        "products": "Tillverkar mindre fartyg, motor- och segelbåtar pamt marinmotorer, grovplåtsarbeten och järnkonstruktioner.",
+        "contact": {
+            "phone": [
+                "10319",
+                "10625"
+            ],
+            "postgiro": "25252"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 350000,
+            "annual_production_value": 350000
+        },
+        "foundation_year": 1904,
+        "owner": "fabr. G. Hugo Larsson",
+        "coordinates": {
+            "Latitude": 59.3100677,
+            "Longitude": 14.1089192
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Bröderna Larsson, Borås",
+        "location": "Borås",
+        "business": "Konfektionsfabrik.",
+        "products": "Tillverkar arbetskläder (märke: »B. L.»).",
+        "contact": {
+            "telegraph": "Arbetskläder, Borås",
+            "phone": [
+                "17555"
+            ],
+            "postgiro": "10564"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": 2000000
+        },
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "Axel G. Larsson",
+                "role": "köpm."
+            },
+            {
+                "name": "Karl O. Larsson",
+                "role": "grossh."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Bröderna Larsson, Mek. Verkstad, Arentorp",
+        "location": "Arentorp",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar tröskverk, kvarnar och halmfläktar samt gödselspridare för naturlig gödsel.",
+        "contact": {
+            "phone": [
+                "4"
+            ],
+            "postgiro": "31452"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 32
+            },
+            "annual_turnover": 330000
+        },
+        "foundation_year": 1914,
+        "owner": "fabr. Nils A. Larsson",
+        "coordinates": {
+            "Latitude": 58.2435416,
+            "Longitude": 12.8741956
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Bröderna Larssons Fabriks AB., Örbyhus",
+        "location": "Örbyhus",
+        "business": "Träförädlingsfabrik",
+        "products": "Tillverkar skidor och skidstavar, sparkstöttingar, styrbara kälkar, vilstolar, trädgårdsmöbler m. m.",
+        "contact": {
+            "phone": [
+                "19"
+            ],
+            "postgiro": "30633"
+        },
+        "financials": {
+            "capital": 151500,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 400000
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "Joh. Larsson",
+                "role": "f. d. riksdagsm."
+            },
+            {
+                "name": "Astrid Larsson",
+                "role": "fil. mag."
+            },
+            {
+                "name": "Bertil Larsson",
+                "role": "ing."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.22448389999999,
+            "Longitude": 17.7015559
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "AB. Bröderna Liljenberg, Stockholm",
+        "location": "Stockholm",
+        "business": "Gummifabrik",
+        "products": "Tillverkar formgjorda gummidetaljer för industriella ändamål.",
+        "contact": {
+            "office": "Vretensborgsv. 16",
+            "phone": [
+                "458455",
+                "56"
+            ],
+            "postgiro": "51358"
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "arb": 25
+            },
+            "annual_turnover": 250000
+        },
+        "corporation_year": 1942,
+        "manager": "Eric Liljenberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Bröderna Lindbergs Mek. Verkstad, Storsjö",
+        "location": "Storsjö",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar verktyg och pumpar samt utför bearbetning av beställningsgods.",
+        "contact": {
+            "telegraph": "Uknadalen 57",
+            "phone": [
+                "86252"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 100000
+        },
+        "corporation_year": 1939,
+        "owners": [
+            "ing. Rudolf Lindberg",
+            "fabr. Thor-Ivar Lindberg"
+        ],
+        "coordinates": {
+            "Latitude": 62.8021837,
+            "Longitude": 13.0580181
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB« Bröderna Lindéns Choklad-fabrik, Vellinge",
+        "location": "Vellinge",
+        "business": "Choklad- och skumproduktion",
+        "products": "Tillverkar choklad och skumsaker.",
+        "contact": {
+            "phone": [
+                "284",
+                "317"
+            ],
+            "postgiro": "268724"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 400000
+        },
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "Carl Linden",
+                "role": "dir."
+            },
+            {
+                "name": "Olle Andersson",
+                "role": "försäljn.-chef"
+            },
+            {
+                "name": "Hans Lindén",
+                "role": "disp."
+            }
+        ],
+        "manager": "Carl Lindén",
+        "sales_manager": "Olle Andersson",
+        "director": "Hans Lindén",
+        "coordinates": {
+            "Latitude": 55.47089279999999,
+            "Longitude": 13.0199899
+        },
+        "cluster": 2
+    },
+    "9": {
+        "name": "Bröderna Lindmarks Snickerifabrik, Jokkmokk",
+        "location": "Jokkmokk",
+        "business": "Snickerifabrik",
+        "products": "Tillverkar byggnadssnickerier, köks- och butiksinredningar.",
+        "contact": {
+            "phone": [
+                "144"
+            ],
+            "postgiro": "67767"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": 130000
+        },
+        "foundation_year": 1938,
+        "owners": [
+            "fabr. Signar Lindmark",
+            "fabr. Halvard Lindmark"
+        ],
+        "coordinates": {
+            "Latitude": 66.60696089999999,
+            "Longitude": 19.8229206
+        },
+        "cluster": 7
+    }
+}

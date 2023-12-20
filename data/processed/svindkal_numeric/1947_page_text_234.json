@@ -1,0 +1,232 @@
+{
+    "1": {
+        "name": "Cehå",
+        "location": "Stampgatan 24, Göteborg",
+        "business": "Tillverkar kolvpumpar, djupbrunns-pumpar samt hydroforaggregat vid mek. verkstad i Töreboda (Skarab. l.)",
+        "contact": {
+            "office": "Stampgatan 24",
+            "phone": [
+                "152795"
+            ],
+            "postgiro": "40095",
+            "head_office": "Stampgatan 24, Göteborg"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 250000
+        },
+        "foundation_year": 1899,
+        "corporation_year": 1920,
+        "board": [
+            {
+                "name": "fru Anna Cedervall",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "fabr. Carl Eric Cedervall",
+                "role": "Styrelsemedlem"
+            }
+        ],
+        "director": "C. E. Cedervall",
+        "coordinates": {
+            "Latitude": 57.70773879999999,
+            "Longitude": 11.9822288
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Cehå",
+        "location": "Borlänge",
+        "business": "Tillverkar kolvpumpar, djupbrunns-pumpar samt hydroforaggregat vid mek. verkstad i Töreboda (Skarab. l.)",
+        "contact": {
+            "office": "Borlänge",
+            "phone": [
+                "10154"
+            ],
+            "postgiro": "84371"
+        },
+        "financials": {
+            "capital": 41000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 275000
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "fabr. Carl H. Swahn",
+                "role": "Verkställande direktör"
+            }
+        ],
+        "director": "fabr. Carl H. Swahn",
+        "coordinates": {
+            "Latitude": 60.484304,
+            "Longitude": 15.433969
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Cellufix AB.",
+        "location": "Stockholm",
+        "business": "Se Svartviks AB., Sundsvall.",
+        "financials": {
+            "capital": 2236000,
+            "employees": {
+                "industriarb": 400
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "dir. Albin Johansson",
+                "role": "Ordförande"
+            },
+            {
+                "name": "disp. Chr. v. Sydow",
+                "role": "Vice ordförande"
+            },
+            {
+                "name": "civiling. Gunnar Berg",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "dir. Hugo Edstam",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "dir. Nils Engberg",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "dir. Ernst Persson",
+                "role": "Styrelsemedlem"
+            }
+        ],
+        "director": "C. Lindquist (Norrköp.)",
+        "manager": "C. Lindquist (Norrköp.)",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "CeMuloidindustri, Svensk",
+        "location": "Gislaved",
+        "business": "Se Svensk Celluloidindustri AB., Gislaved.",
+        "coordinates": {
+            "Latitude": 57.2985,
+            "Longitude": 13.54326
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Cementa, Svenska Cementförsäljnings AB.",
+        "location": "Malmö",
+        "business": "Försäljningsorganisation för cement från Skånska Cement AB., Malmö, med fabriker i Limhamn, Hällekis och Köping, Ölands Cement AB., Degerhamn, Slite Cement och Kalk AB., SI i te, och Hidinge Kalkverk AB., Lannabruk.",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "Cementol, Isolerings AB.",
+        "location": "Göteborg",
+        "business": "Se Isolerings AB. Cementol, Göteborg.",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "AB. Cementrör",
+        "location": "Tärnsjö",
+        "business": "Tillverkar betongrör, kulvertar, brunnsringar, betonghålsten med och utan isoleringsplattor, cementtegel m. m. vid fabrik i Tärnsjö (Västmanl. l.)",
+        "contact": {
+            "office": "Tärnsjö",
+            "phone": [
+                "3"
+            ],
+            "postgiro": "33461"
+        },
+        "financials": {
+            "capital": 45000,
+            "employees": {
+                "industriarb": 9
+            },
+            "annual_turnover": 70000
+        },
+        "foundation_year": 1916,
+        "director": "grossh. Karl J. Norén",
+        "coordinates": {
+            "Latitude": 60.1554628,
+            "Longitude": 16.9308825
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "Center Sport",
+        "location": "Stockholm",
+        "business": "Tillverkar badmintonbollar.",
+        "contact": {
+            "office": "Beridarbansg. 21, Stockholm",
+            "phone": [
+                "209828",
+                "110912"
+            ],
+            "postgiro": "151366"
+        },
+        "employees": 20,
+        "manager": "dir. Oscar C:son Swahn",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "9": {
+        "name": "AB. Centrala Kartongfabriken",
+        "location": "Stockholm",
+        "business": "Fabrik i Ulvsunda, Stockholm, för förpackningar av papp, aromtät livsmedelsförpackning, kartong och papper samt offsettryckeri. Förpackningsservice.",
+        "contact": {
+            "office": "Ekbacksvägen 32—34, Ulvsunda",
+            "phone": [
+                "252690"
+            ],
+            "postgiro": "52696"
+        },
+        "financials": {
+            "capital": 80400,
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": 1700000
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "konsul Axel Christensson",
+                "role": "Ordförande"
+            },
+            {
+                "name": "dir. Alf Christensson",
+                "role": "Styrelsemedlem"
+            }
+        ],
+        "director": "Alf Christensson",
+        "manager": "Alf Christensson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    }
+}

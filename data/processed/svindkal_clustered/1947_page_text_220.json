@@ -1,0 +1,296 @@
+{
+    "1": {
+        "name": "Bröderna Wahl AB.",
+        "location": "Falköping",
+        "business": "Snickerifabrik",
+        "products": "Tillverkar likkistor.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "148",
+                "1148"
+            ],
+            "postgiro": "26146"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb.": 70
+            },
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1878,
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "Ernst Grahn",
+                "role": "disp."
+            },
+            {
+                "name": "Fridolf Karlsson",
+                "role": "dir."
+            },
+            {
+                "name": "Sofia Karlsson",
+                "role": "fru"
+            }
+        ],
+        "director": "Gustaf Tysklind",
+        "original_name": null,
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Bröderna Walfridson",
+        "location": "Nässjö",
+        "business": "Metallvarufabrik",
+        "products": "Tillverkar sanitets-armatur m. m.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "84"
+            ],
+            "postgiro": "23188"
+        },
+        "financials": {
+            "employees": {
+                "antal": 12
+            },
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1899,
+        "corporation_year": null,
+        "owners": [
+            "Henry Walfridson",
+            "Sven Walfridson"
+        ],
+        "original_name": null,
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Bröderna Wallins Konservfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar fisk- och grönsakskonserver",
+        "products": "Specialiteter: fiskbullar, fiskpudding, kaviar, sardiner, makrill och ärter. Varumärke: »Bohus Konserver».",
+        "contact": {
+            "office": "Skärgårdsg. 1",
+            "phone": [
+                "143401",
+                "129058",
+                "144075"
+            ],
+            "postgiro": "40988",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "534530"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarb.": 75
+            }
+        },
+        "foundation_year": 1924,
+        "corporation_year": 1936,
+        "director": "David Wallin",
+        "original_name": null,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Bröderna Wallins Mek. Stenhuggeri",
+        "location": "Älmhult",
+        "business": "Tillverkar gravvårdar och granitråblock",
+        "contact": {
+            "office": null,
+            "phone": [
+                "36",
+                "215"
+            ],
+            "postgiro": "88508"
+        },
+        "financials": {
+            "employees": {
+                "antal": 80
+            },
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1904,
+        "corporation_year": null,
+        "owners": [
+            "Sture Wallin",
+            "Sven Wallin",
+            "Amanda Wallin"
+        ],
+        "original_name": null,
+        "coordinates": {
+            "Latitude": 56.5524461,
+            "Longitude": 14.1374047
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Bröderna Westin, Karamell- & Konfektfabrik AB.",
+        "location": "Gävle",
+        "business": "Tillverkar karameller och tabletter",
+        "products": "Specialitet: Menthol Eucalyptuspastiller.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "2564"
+            ],
+            "postgiro": "9620"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb.": 20
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1917,
+        "corporation_year": 1937,
+        "owners": [
+            "Albert Westin",
+            "Gunnar Westin"
+        ],
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Bröderna Wibell",
+        "location": "Eskilstuna",
+        "business": "Smidesverkstad",
+        "products": "Tillverkar skruvtvingar och limknektar, bågfilställ, grindlås, lövsågbågar m. m.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "32142"
+            ],
+            "postgiro": "80858"
+        },
+        "financials": {
+            "employees": {
+                "antal": 20
+            },
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1924,
+        "corporation_year": null,
+        "owners": [
+            "Harry Wibell"
+        ],
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Bröderna Wigells Stolfabrik",
+        "location": "Malmbäck",
+        "business": "Tillverkar pinnstolar, möbelstolar, radiobord m. m.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "8"
+            ],
+            "postgiro": "27882"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1865,
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "Gustav Svensson",
+                "role": "disp."
+            },
+            {
+                "name": "Bertil Gustavsson",
+                "role": "målarmäst."
+            },
+            {
+                "name": "Ebbe Wigell",
+                "role": "snickare"
+            }
+        ],
+        "director": null,
+        "original_name": null,
+        "coordinates": {
+            "Latitude": 57.5781694,
+            "Longitude": 14.4641901
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "Bröderna Wiggmans Möbelfabrik",
+        "location": "Krylbo",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "office": null,
+            "phone": [
+                "1358"
+            ],
+            "postgiro": "132200"
+        },
+        "financials": {
+            "employees": {
+                "antal": 26
+            },
+            "annual_production_value": "260,000 kr"
+        },
+        "foundation_year": 1908,
+        "corporation_year": null,
+        "owners": [
+            "A. Paul Wiggman",
+            "Aron Wiggman"
+        ],
+        "coordinates": {
+            "Latitude": 60.1309558,
+            "Longitude": 16.2159445
+        },
+        "cluster": 8
+    },
+    "9": {
+        "name": "Bröderna Wiklunds Byggnads AB.",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma",
+        "products": "för bostadshus, industribyggnader, broar och vattenbyggnader m. m..",
+        "contact": {
+            "office": null,
+            "phone": null,
+            "postgiro": null
+        },
+        "financials": null,
+        "foundation_year": null,
+        "corporation_year": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "1": {
+        "name": "AB. K. J. Pompeius",
+        "location": "Falköping",
+        "business": "Skofabrik",
+        "products": "Tillverkar herr- och damskodon",
+        "contact": {
+            "office": "Falköping",
+            "phone": [
+                "256"
+            ],
+            "postgiro": "73704",
+            "head_office": "Falköping",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "157690"
+                }
+            ],
+            "telegraph": "Pornpeius, Falköping"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "550,000 kr",
+            "annual_production_value": "550,000 kr"
+        },
+        "foundation_year": 1909,
+        "director": "disp. Josef Pompeius",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Poppens Buljong AB.",
+        "location": "Mjölby",
+        "business": "Tillverkar buljongextrakt och buljongtärningar",
+        "products": "Varumärke: »Poppens»",
+        "contact": {
+            "phone": [
+                "881"
+            ],
+            "postgiro": "73423"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1942,
+        "director": "Disp. Aage Borup-Jörgensen",
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Porla Brunns AB.",
+        "location": "Porla",
+        "business": "Tillverkar kolsyrat mineralvatten",
+        "products": "Varumärke: »Porla Bordsvatten»",
+        "contact": {
+            "office": "Porla",
+            "phone": [
+                "Laxå 4",
+                "104"
+            ],
+            "postgiro": "36220"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 12
+            }
+        },
+        "foundation_year": 1874,
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "disp. W. Risberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Nils G. Arvedson",
+                "role": ""
+            },
+            {
+                "name": "dir. Harald Engström",
+                "role": ""
+            },
+            {
+                "name": "disp. Erik Malmquist",
+                "role": ""
+            },
+            {
+                "name": "civiling. Erik Olson",
+                "role": ""
+            },
+            {
+                "name": "dir. Birger Paulson",
+                "role": ""
+            },
+            {
+                "name": "dir. Sven Schwartz",
+                "role": ""
+            }
+        ],
+        "director": "kamrer Bertil Heine",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Porter bryggeri AB. D. Carnegle & Co.",
+        "location": "Göteborg",
+        "business": "Tillverkar porter",
+        "contact": {
+            "phone": [
+                "147060-63"
+            ],
+            "postgiro": "12077"
+        },
+        "financials": {
+            "capital": "5,000,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "5,700,000 kr"
+        },
+        "foundation_year": 1803,
+        "corporation_year": 1860,
+        "board": [
+            {
+                "name": "disp. Vilhelm Månsson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Franz Hartmann",
+                "role": ""
+            },
+            {
+                "name": "civiling. Erik Olson",
+                "role": ""
+            },
+            {
+                "name": "disp. Gunnar Risholm",
+                "role": ""
+            },
+            {
+                "name": "kamrer Sw. E. Thorstenson",
+                "role": ""
+            }
+        ],
+        "director": "Gunnar Risholm",
+        "manager": "Kurt Gren",
+        "sales_manager": "Sven Söderström",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "A. Portström",
+        "location": "Gävle",
+        "business": "Smides- och redskapsfabrik",
+        "products": "Tillverkar handredskap för trädgårdsskötsel, jord-och skogsbruk ävensom cykelställ, iskrossar m. m.",
+        "contact": {
+            "phone": [
+                "717",
+                "737"
+            ],
+            "postgiro": "71040"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1918,
+        "manager": "smidesmäst. Arvid Portström",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Prestoverken i Motala AB.",
+        "location": "Motala",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar värmeledningspannor, varmvattenberedare och varmluftsbatterier",
+        "contact": {
+            "office": "Motala",
+            "phone": [
+                "471",
+                "923"
+            ],
+            "postgiro": "270128",
+            "telegraph": "Woco, Motala"
+        },
+        "financials": {
+            "capital": "115,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1926,
+        "corporation_year": 1931,
+        "original_name": "Holmsbruks Gjuteri AB",
+        "current_name_year": 1942,
+        "director": "Erik Werner",
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        },
+        "cluster": 6
+    }
+}

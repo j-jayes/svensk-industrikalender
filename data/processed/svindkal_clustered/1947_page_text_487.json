@@ -1,0 +1,219 @@
+{
+    "1": {
+        "name": "Lund—Luossavaara",
+        "location": "Brunkebergstorg 9",
+        "contact": {
+            "telegraph": "Standshelf, Stockholm",
+            "phone": [
+                "100353",
+                "54",
+                "208642"
+            ],
+            "postgiro": "154626"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "720,000 kr"
+        },
+        "foundation_year": 1937,
+        "manager": "fabr. Harald Lundqvist",
+        "coordinates": {
+            "Latitude": 59.3313007,
+            "Longitude": 18.0655429
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Lunds Bryggeri AB., Lund",
+        "products": "maltdrycker",
+        "contact": {
+            "phone": "17080",
+            "postgiro": "141640"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_production_value": "650,000 kr"
+        },
+        "foundation_year": 1870,
+        "board": [
+            {
+                "name": "dir. L. W. Malmquist",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. C. E. Borgenstierna",
+                "role": null
+            },
+            {
+                "name": "dir. E. Malmquist",
+                "role": null
+            },
+            {
+                "name": "magistratssekr. N. G. Melander",
+                "role": null
+            },
+            {
+                "name": "disp.: O. E. Borgenstierna",
+                "role": null
+            }
+        ],
+        "director": "O. E. Borgenstierna",
+        "managing_director": "Malte Ericsson",
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Lunds Mek. Verkstad, Lund",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "maskiner för fil-, cement- och sockerfabriker samt för renhållningsverk, apparater för kemiska industrier, ångpannor, transportanordningar för mäss- och styckegods, fackverksarbeten, centrifugal-pumpar, kolvpumpar, luftkompressorer, betong- och murbruksblandare, plåtarbeten samt kondensvattenåterledare, varjämte bolaget utför installationer av åter-ledningssystem vid ånganläggningar",
+        "contact": {
+            "telegraph": "Lundsverkstad, Lund",
+            "phone": [
+                "10061",
+                "10990"
+            ],
+            "postgiro": "71735"
+        },
+        "financials": {
+            "capital": "306,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "konsul Edw. H. Thomée",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Erik Halbert",
+                "role": null
+            },
+            {
+                "name": "disp. Malte Neuendorff",
+                "role": null
+            },
+            {
+                "name": "bankdir. J. Aug. Nilsson",
+                "role": null
+            }
+        ],
+        "director": "Malte Neuendorff",
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Lunds Skofabrik, Lund",
+        "business": "Tillverkar rand-, vänd- och genomsydda skodon",
+        "products": "Varumärken: »Philip» (herr- o. damskor) o. »Frosta» (sportkängor)",
+        "contact": {
+            "telegraph": "Skofabriken, Lund",
+            "phone": "10453",
+            "postgiro": "6830"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 62
+            },
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1880,
+        "director": "Philip Andersson",
+        "cluster": 9
+    },
+    "5": {
+        "name": "Carl Lunds Fabriks AB., Malmö",
+        "business": "Stålpressnings-, emaljerings-, förtennings-, galvaniserings- och lackeringsverk",
+        "products": "Tillverkar hushållskärl av rostfri plåt och av emaljerad eller lackerad stålplåt, emaljerade reklamskyltar, galvaniserade och för-tenta spannar, tunnplåtsemballage och andra pressade, svetsade, falsade och nitade tunnplåtsarbeten samt vägmärken",
+        "contact": {
+            "telegraph": "Lundsfabriker, Malmö",
+            "phone": "Carl Lunds Fabriker",
+            "postgiro": "38000"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 240
+            },
+            "annual_production_value": "4,000,000 kr"
+        },
+        "foundation_year": 1879,
+        "disp": "Frank G. Nelson",
+        "kamrer": "Gösta Jönsson",
+        "sales_manager": "Einar Olsson",
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Baltzar Lundström, Stockholm",
+        "business": "Byggnadsentreprenörfirma",
+        "products": "Utför bo-stads- och industribyggnader samt stadsplaneprojektering",
+        "contact": {
+            "location": "östermalmsg. 40",
+            "phone": "234740",
+            "postgiro": "155972"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "annual_turnover": "15,000,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "ing. Baltzar Lundström",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Gösta Ekelund",
+                "role": null
+            },
+            {
+                "name": "dir. Anders Malmström",
+                "role": null
+            }
+        ],
+        "director": "Baltzar Lundström",
+        "manager": "Anders Malmström",
+        "sales_manager": "Lars Henschen",
+        "cluster": 0
+    },
+    "7": {
+        "name": "E. W. Lundströms Mek. Verkstad AB., Limhamn",
+        "business": "Tillverkar motorlok vid mek. verkstad i Limhamn. Bolaget driver även serviceverksamhet för AB. Vibro-Verken, Stockholm, samt för byggnads-maskiner",
+        "contact": {
+            "phone": "Malmö 50298",
+            "postgiro": "30591"
+        },
+        "financials": {
+            "capital": "42,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1894,
+        "director": "ing. Albert Lundström",
+        "cluster": 6
+    },
+    "8": {
+        "name": "Luossavaara—Kiirunavaara AB., Stockholm",
+        "business": "Gruvor vid Gällivare, Kiirunavaara o. Luossavaara malmfält, anrikningsverk i Malmberget (samtl. i Norrb. l.). Bryter och anrikar järnmalm",
+        "contact": {
+            "location": "Gustav Adolfs torg 18",
+            "telegraph": "Luossavaara, Stockholm",
+            "phone": "»Grängesbergsbolaget»"
+        },
+        "financials": {
+            "capital": "unspecified",
+            "employees": {
+                "industriarb": "unspecified"
+            }
+        },
+        "foundation_year": "unspecified",
+        "cluster": 6
+    }
+}

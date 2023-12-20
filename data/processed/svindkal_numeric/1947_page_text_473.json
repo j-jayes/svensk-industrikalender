@@ -1,0 +1,268 @@
+{
+    "1": {
+        "name": "Lindström—Linghed",
+        "location": "Linghed (Kopparb. l.)",
+        "foundation_year": 1893,
+        "financials": {
+            "capital": 70000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 450000
+        },
+        "contact": {
+            "telegraph": "Skruvfabriken, Strängnäs",
+            "phone": [
+                "87",
+                "187"
+            ],
+            "postgiro": "10115"
+        },
+        "board": [
+            {
+                "name": "fru Sonja Wallin",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "description": "Precisionstillverkning av skruvar och muttrar, koniska pinnar, facondelar av alla slag samt detaljer för radio- och elektr. industri.",
+        "coordinates": {
+            "Latitude": 60.78111,
+            "Longitude": 15.85569
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "John Lindström Skruvfabrik",
+        "location": "Strängnäs",
+        "foundation_year": 1908,
+        "financials": {
+            "capital": "Information not available",
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_turnover": 200000
+        },
+        "contact": {
+            "telegraph": "Skruvfabriken, Strängnäs",
+            "phone": [
+                "87",
+                "187"
+            ],
+            "postgiro": "10115"
+        },
+        "owner": "ing. John Lindström",
+        "description": "Precisionstillverkning av skruvar och muttrar, koniska pinnar, facondelar av alla slag samt detaljer för radio- och elektr. industri.",
+        "coordinates": {
+            "Latitude": 59.37745229999999,
+            "Longitude": 17.0321193
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "Waldemar Lindström AB.",
+        "location": "Stockholm",
+        "foundation_year": 1941,
+        "current_name_year": 1946,
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 62
+            }
+        },
+        "contact": {
+            "office": "Sannadalsvägen 7—9, Gröndal, Stockholm",
+            "telegraph": "Beredfaerg, Stockholm",
+            "phone": "452595",
+            "postgiro": "190171"
+        },
+        "board": [
+            {
+                "name": "konsul Gustav Algård",
+                "role": "ordf."
+            },
+            {
+                "name": "herr Gösta Algård",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Wald. Lindström",
+                "role": "Styrelse"
+            }
+        ],
+        "description": "Pälsberederi och färgeri i Gröndal, Stockholm. Bereder och färgar pälsskinn.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Emil Lindvall",
+        "location": "Nybro",
+        "foundation_year": 1920,
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "Arb.-antal": 60
+            }
+        },
+        "contact": {
+            "office": "Information not available",
+            "telegraph": "Bobiner, Nybro",
+            "phone": [
+                "31",
+                "313"
+            ],
+            "postgiro": "20544"
+        },
+        "board": [
+            {
+                "name": "fru Vivi Fylke",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. G. Göransson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fabr. Arthur Thor",
+                "role": "Styrelse"
+            }
+        ],
+        "owner": "ing. John Lindström",
+        "description": "Svarveri och möbelfabrik. Tillverkar kompletteringsmöbler, svarvade massartiklar av trä, gardinstänger och -ringar samt rullgardiner.",
+        "coordinates": {
+            "Latitude": 56.745012,
+            "Longitude": 15.907874
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "O. A. Lindvalls Repslagen",
+        "location": "Jättendal (Gävleb. l.)",
+        "foundation_year": 1894,
+        "financials": {
+            "capital": "Information not available",
+            "employees": {
+                "Arb.-antal": "Information not available"
+            }
+        },
+        "contact": {
+            "telegraph": "Linpackning, Jättendal",
+            "phone": "14",
+            "postgiro": "84550"
+        },
+        "owner": "fabr. O. A. Lindvall",
+        "description": "Tillverkar handspunnet tågvirke samt linpackningar vid repslageri i Jättendal (Gävleb. l.)",
+        "coordinates": {
+            "Latitude": 61.9737942,
+            "Longitude": 17.2555079
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "Lindås Gjuteri & Formfabriks AB.",
+        "location": "Lindas (Kalmar l.)",
+        "foundation_year": "Information not available",
+        "financials": {
+            "capital": 160000,
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_turnover": 2000000
+        },
+        "contact": {
+            "telegraph": "Stenbergs, Lindås",
+            "phone": [
+                "Emmaboda 5",
+                "51"
+            ],
+            "postgiro": "22494"
+        },
+        "board": [
+            {
+                "name": "disp. Tage Stenberg",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Agne Stenberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "ing. Erik Stenberg",
+                "role": "Styrelse"
+            }
+        ],
+        "description": "Mek. verkstad och gjuteri vid Lindås (Kalmar l.). Tillverkar bensin-, fotogen-och dieselmotorer för båtar och stationär drift, värmeledningspumpar, centrifugal-pumpar, formar och maskiner för sten-och glasindustrien.",
+        "coordinates": {
+            "Latitude": 56.6244346,
+            "Longitude": 15.5687076
+        },
+        "cluster": 4
+    },
+    "7": {
+        "name": "AB. Lingbo Verkstäder",
+        "location": "Lingbo (Gävleb. l.)",
+        "foundation_year": "Information not available",
+        "financials": {
+            "capital": 48600,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 550000
+        },
+        "contact": {
+            "phone": "4",
+            "postgiro": "34055"
+        },
+        "board": [
+            {
+                "name": "fabr. P. J. Wikholm",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Karl Andersson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "bokhandl. J. E. Bergman",
+                "role": "Styrelse"
+            },
+            {
+                "name": "verkm. Bertil Källberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kamrer Th. Rosenius",
+                "role": "Styrelse"
+            }
+        ],
+        "description": "Mek. verkstad och gjuteri i Lingbo (Gävleb. l.). Tillverkar maskiner för sågverk och cellulosaindustrien, grövre plåtslageriarbeten, järnkonstruktioner, transportapparater, transportörkedjor, rundmaskiner, kuggväxlar, lager och lagerbockar, remskivor m. m. samt gjutgods i upp till 10,000 kg. styckevikt.",
+        "coordinates": {
+            "Latitude": 61.0459523,
+            "Longitude": 16.6846282
+        },
+        "cluster": 4
+    },
+    "8": {
+        "name": "Lingheds Sågverks AB",
+        "location": "Linghed (Kopparb. l.)",
+        "foundation_year": "Information not available",
+        "financials": {
+            "capital": 19500,
+            "employees": {
+                "industriarb": 70
+            }
+        },
+        "contact": {
+            "phone": "18",
+            "postgiro": "10407"
+        },
+        "description": "Sågverk, hyvleri, trähus- ocli snickerifabrik i Linghed (Kopparb. l.). Tillverkar sågade och hyvlade trävaror, monte-ringsfärdiga trähus samt byggnadssnickerier.",
+        "coordinates": {
+            "Latitude": 60.78111,
+            "Longitude": 15.85569
+        },
+        "cluster": 4
+    }
+}

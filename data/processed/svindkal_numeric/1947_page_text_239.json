@@ -1,0 +1,235 @@
+{
+    "1": {
+        "name": "Contractor—Cryptoteknik",
+        "location": "Stockholm",
+        "business": "Finmek. verkstad",
+        "products": "chiffreringsmaskiner (»Cryptografer», system Hagelin&gt;)",
+        "contact": {
+            "office": "Nordenflychtsvägen 62",
+            "phone": [
+                "520390"
+            ],
+            "postgiro": "154072"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industrial": 65
+            },
+            "annual_turnover": 1000000,
+            "foundation_year": 1938
+        },
+        "board": [
+            {
+                "name": "Anders Ekdal",
+                "role": "ordf."
+            },
+            {
+                "name": "Henrik W. Bechshöft",
+                "role": "dir."
+            },
+            {
+                "name": "Boris Hagelin",
+                "role": "civiling."
+            },
+            {
+                "name": "Wilhelm’ Qvarnström",
+                "role": "civiling."
+            },
+            {
+                "name": "S. T. Åberg",
+                "role": "civiling."
+            }
+        ],
+        "manager": "W. Qvarnström",
+        "sales_manager": "H. W. Bechshöft",
+        "description": "Akt.-kap.: 400,000 kr. Antal industriarb.: 65. Tillv.-värde pr år: 1,000,000 kr. — Bolaget grundat 1938.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Corda",
+        "location": "Trollhättan",
+        "business": "Mek. verkstad",
+        "products": "gasreglerings- o. frikopplingshandtag, luft-och tändningsreglage, backspeglar, baklyktor, signalhorn m. m. samt specialmaskiner och pressverktyg",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "10691"
+            ],
+            "postgiro": "131462"
+        },
+        "financials": {
+            "capital": 13300,
+            "employees": {
+                "industrial": 25
+            },
+            "annual_turnover": 200000,
+            "foundation_year": 1938
+        },
+        "manager": "Folke Johnsson",
+        "contact_description": "Akt.-kap.: 13,300 kr. Antal industriarb.: 25. Tillv.-värde pr år: 200,000 kr. — Bolaget grundat 1938.",
+        "coordinates": {
+            "Latitude": 58.28348939999999,
+            "Longitude": 12.2858206
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Cornérs Konservfabrik",
+        "location": "Lysekil",
+        "business": "Tillverkar ansjovis och sillkonserver",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "106"
+            ],
+            "postgiro": "84582"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industrial": 40
+            },
+            "incorporation_year": 1933
+        },
+        "manager": "Helge Cornér",
+        "contact_description": "Akt.-kap.: 50,000 kr. Antal industriarb.: 40. — Firman etabl. 1895, bolag 1933.",
+        "coordinates": {
+            "Latitude": 58.27557299999999,
+            "Longitude": 11.435558
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Corona Belysningskultur",
+        "location": "O. Gronwin, Stockholm",
+        "business": "Armaturfabrik",
+        "products": "belysningsarmatur och lampskärmar",
+        "contact": {
+            "office": "Artillerig. 51",
+            "phone": [
+                "604114"
+            ],
+            "postgiro": "50881"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": {
+                "industrial": 28
+            },
+            "incorporation_year": 1943
+        },
+        "manager": "Gunnar Cronwin",
+        "sales_manager": "ing. Harry Borg",
+        "contact_description": "Akt.-kap.: 30,000 kr. Antal industriarb.: 28. — Firman etabl. 1927, bolag 1943.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Coronaverken AB",
+        "location": "Göteborg",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "kokapparater, kokvagnar, kokskåp, värme-skåp, torkapparater, diskmaskiner, desinfektionsapparater, steriliseringsapparater för sjukhus, tvättmaskiner, centrifuger, ångmanglar, värmeledningsmateriel, tränsmi sionsgjutgods, axelkopplingar, remskivor, fläktar och tempers (varumärke: »VE VE»), maskingjutgods etc.",
+        "contact": {
+            "office": "Hisingen",
+            "phone": [
+                "222240"
+            ],
+            "postgiro": "41516"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industrial": 65
+            },
+            "contact_description": "Bolaget, grundat 1918, äger AB. Vulcanverken, Göteborg, samt driver dess verksamhet och försäljning."
+        },
+        "board": [
+            {
+                "name": "Sigurd Larsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Franz Hartmann",
+                "role": "disp."
+            },
+            {
+                "name": "Reinh. Hjorth",
+                "role": "ing."
+            }
+        ],
+        "manager": "Reinh. Hjorth",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Corsettindustri",
+        "location": "Borås",
+        "business": "Tillverkar strumphållare, höfthållare, korsetter och korseletter samt bysthållare",
+        "products": "Varumärke: »Abc»",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "81318"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industrial": 150
+            },
+            "foundation_year": 1932
+        },
+        "manager": "Joel Åkerlund",
+        "contact_description": "Akt.-kap.: 200,000 kr. Antal industriarb.: 150. — Firman etabl. 1932.",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Cottonstrumpor",
+        "location": "Göteborg",
+        "business": "Tillverkar damstrumpor",
+        "contact": {
+            "office": "ö. Spannmålsg. 6",
+            "phone": [
+                "113103"
+            ],
+            "postgiro": "42940"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industrial": 150
+            },
+            "annual_turnover": 1500000,
+            "foundation_year": 1931
+        },
+        "board": [
+            {
+                "name": "Eric O. Magnuson",
+                "role": "ordf."
+            }
+        ],
+        "manager": "Eric O. Magnuson",
+        "contact_description": "Akt.-kap.: 100,000 kr. Antal industriarb.: 150. Tillv.-värde pr år: 1,500,000 kr. — Bolaget grundat 1931.",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    }
+}

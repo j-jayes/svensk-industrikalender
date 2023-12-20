@@ -1,0 +1,209 @@
+{
+    "1": {
+        "name": "AB. Bolinders Fabriks AB",
+        "location": "Kallhäll",
+        "business": "Mekanisk verkstad och gjuteri",
+        "products": "Spisar, gasartiklar, köttkvarnar, elektr. kaffekvarnar, hushållsartiklar och diskmaskiner, restaurant-köksartiklar, handelsgjutgods, sanitets-gjutgods, byggnadsgjutgods och legogjut-gods",
+        "contact": {
+            "office": "Kallhäll",
+            "phone": [
+                "(8)50180",
+                "Staket: \"Bolinders Fabriksbolag\""
+            ],
+            "postgiro": "1270",
+            "head_office": "Kallhäll",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "\"Bolinders Fabriksbolag\""
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "170830"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "15818"
+                }
+            ],
+            "telegraph": "Bofa, Stockholm"
+        },
+        "financials": {
+            "capital": 3600000,
+            "employees": {
+                "industriarb": 500
+            }
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "Josef Anér",
+                "role": "ordf."
+            },
+            {
+                "name": "Birger Dahlerus",
+                "role": "civiling."
+            },
+            {
+                "name": "Edvard Dahlerus",
+                "role": "överstelöjtn."
+            },
+            {
+                "name": "Martin Hammar",
+                "role": "rådman"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.45244,
+            "Longitude": 17.8096203
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "A. E. Bolling",
+        "location": "Gränna",
+        "business": "Metallvarufabrik",
+        "products": "Belysningsarmatur i antika stilar",
+        "contact": {
+            "phone": "48",
+            "postgiro": "138703"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 7
+            },
+            "annual_production_value": 56000
+        },
+        "foundation_year": 1895,
+        "coordinates": {
+            "Latitude": 58.02502339999999,
+            "Longitude": 14.4700948
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Bollnäs Nya Bryggeri AB.",
+        "location": "Bollnäs",
+        "products": "Maltdrycker, läskedrycker och mineralvatten",
+        "contact": {
+            "telegraph": "Bryggeriet, Bollnäs",
+            "phone": "11100",
+            "postgiro": "90880"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": 700000
+        },
+        "foundation_year": 1882,
+        "board": [
+            {
+                "name": "Sven E. Hellsten",
+                "role": "major"
+            },
+            {
+                "name": "A. E. Dahm",
+                "role": "disp."
+            },
+            {
+                "name": "P. F. Isberg",
+                "role": "landsfiskal"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 61.34837950000001,
+            "Longitude": 16.3942685
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Bollnäs Trävaru AB.",
+        "location": "Bollnäs",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Sågade och hyvlade trävaror samt byggnadssnickerier",
+        "contact": {
+            "telegraph": "Trävarubolaget, Bollnäs",
+            "phone": "11115—16",
+            "postgiro": "80216"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "3,500 stds trävaror"
+        },
+        "foundation_year": 1917,
+        "coordinates": {
+            "Latitude": 61.34837950000001,
+            "Longitude": 16.3942685
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Bongs Fabriker AB.",
+        "location": "Kristianstad",
+        "business": "Tillverkning av kontorsböcker, kuvert, kartonger m.m.",
+        "contact": {
+            "telegraph": "Bong, Kristianstad",
+            "phone": "10222 o. 10226",
+            "postgiro": "30640",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "211584"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "155562"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1737,
+        "board": [
+            {
+                "name": "Harry Bong",
+                "role": "kommendörkapten"
+            },
+            {
+                "name": "Gunnar Bong",
+                "role": "dipl.-ing."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.0293936,
+            "Longitude": 14.1566778
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "Gustaf Bong AB.",
+        "location": "Ystad",
+        "business": "Konservfabrik",
+        "products": "Grönsaks- och fraktkonserver, sillkonserver, safter, marmelader, geléer m.m.",
+        "contact": {
+            "phone": "N/A",
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": "N/A"
+            }
+        },
+        "foundation_year": "N/A",
+        "coordinates": {
+            "Latitude": 55.4295051,
+            "Longitude": 13.8200308
+        },
+        "cluster": 2
+    }
+}

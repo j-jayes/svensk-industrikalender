@@ -1,0 +1,179 @@
+{
+    "1": {
+        "name": "AB. Betong och Järn",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för väg-och vattenbyggnadsarbeten, industribyggnader m. m.",
+        "contact": {
+            "office": "Norrlandsg. 16",
+            "telegraph": "Betojär, Stockholm",
+            "phone": [
+                "105028",
+                "201958"
+            ]
+        },
+        "financials": {
+            "capital": "22,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "civiling. Harald Linde",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "director": "civiling. Harald Linde",
+        "managing_director": "ing. Axel Rosenblom",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "AB. Betongklinker",
+        "location": "Stockholm",
+        "business": "Tillverkar skogsinstrument såsom tillväxtborrar, tumklovar m. m., torvborrar samt biljettkontrolltänger för järnvägar m. m.",
+        "phone": "32",
+        "postgiro": "28578",
+        "financials": {
+            "capital": "15,000 kr",
+            "annual_production_value": "80,000 kr"
+        },
+        "foundation_year": 1895,
+        "corporation_year": 1938,
+        "director": "ing. Johannes Mattson-Djos",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "AB. Béve & C:nis Kappfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar damkappor och damdräkter.",
+        "contact": {
+            "office": "N:a Stationsg. 79—81",
+            "telegraph": "Bevecompani, Stockholm",
+            "phone": "234020",
+            "postgiro": "152534"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "Antal industriarb.": 300
+            },
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1855,
+        "corporation_year": 1901,
+        "board": [
+            {
+                "name": "bankdir. Ando Wikström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Erik öhman",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Bertil Falk",
+                "role": "V. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Beyronds AB.",
+        "location": "Malmö",
+        "business": "Partibokbinderi och boktryckeri. Tillverkar amatöralbum, skrivunderlägg, portföljer, bok-, telegram- och adresspärmar, dag- och gästböcker, spelschatull, Tädergalanterivaror, reklamartiklar m. m.",
+        "contact": {
+            "office": "Nya Vattenverksvägen 1",
+            "telegraph": "Bokbeyrond, Malmö",
+            "phone": "72170",
+            "postgiro": "37592"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1929,
+        "director": "Gösta Beyrond",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "Biideve i Munkaljungby AB.",
+        "location": "Munkaljungby",
+        "business": "Mek. verkstad i Munkaljungby (Kristianst. l.). Tillverkar hydrauliska lyftredskap och verktyg för bilservice, industri och andra ändamål.",
+        "phone": [
+            "49",
+            "209"
+        ],
+        "postgiro": "167394",
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 37
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "corporation_year": 1943,
+        "director": "Nils Viebke",
+        "coordinates": {
+            "Latitude": 56.2573385,
+            "Longitude": 12.9704446
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Bilindustri",
+        "location": "Blidsberg",
+        "business": "Tillverkar hydrauliska tippanordningar för lastbilar, bilflak, släpvagnar och andra lastbilsbyggnationer vid mek. verkstad i Blidsberg (Älvsb. l.).",
+        "phone": "19",
+        "postgiro": "145516",
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "Antal industriarb.": 50
+            },
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1938,
+        "owners": [
+            "fabr. Gustaf L. Andersson",
+            "fabr. A. Verner Andersson",
+            "fabr. Alrik J. Nyström"
+        ],
+        "coordinates": {
+            "Latitude": 57.9310626,
+            "Longitude": 13.4945915
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Billeruds AB.",
+        "location": "Säffle",
+        "business": "Sulfitfabriker, sulfatfabrik, pappersbruk, papperssäckfabrik, sågverk, sulfitspritfabriker, torr blekt sulfitcellulosa, ädelcellulosa, papper, trävaror, skogshantering, jordbruk, rederirörelse, elektriska vattenkraftstationer.",
+        "contact": {
+            "office": "Säffle"
+        },
+        "financials": {
+            "annual_turnover": "not disclosed"
+        },
+        "coordinates": {
+            "Latitude": 59.132661,
+            "Longitude": 12.930107
+        },
+        "cluster": 7
+    }
+}

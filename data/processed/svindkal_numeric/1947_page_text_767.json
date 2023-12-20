@@ -1,0 +1,193 @@
+{
+    "1": {
+        "name": "Wulcan",
+        "location": "Anderstorp",
+        "business": "Nitfabrik",
+        "contact": {
+            "telegraph": "Wulcan, Anderstorp",
+            "office": "Nitfabriken, Ture Emilsson & Co., Anderstorp",
+            "postgiro": "Not available",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "311550"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 270000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "10 milj. st."
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "Gunnar Wulf",
+                "role": "ordförande"
+            },
+            {
+                "name": "Ivar Wulf",
+                "role": "ingenjör"
+            },
+            {
+                "name": "Kurt Wulf",
+                "role": "direktör"
+            }
+        ],
+        "manager": "Gunnar Wulf",
+        "sales_manager": "Not available",
+        "director": "Not available",
+        "managing_director": "Kurt Wulf",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Vulcanus",
+        "location": "Blötberget",
+        "business": "Bergverksbolag",
+        "original_name": "Bergverks AB. Vulcanus",
+        "predecessor": "Not available",
+        "coordinates": {
+            "Latitude": 60.12464079999999,
+            "Longitude": 15.061261
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Vulcanverken",
+        "location": "Göteborg",
+        "business": "Not available",
+        "original_name": "Coronaverken AB.",
+        "predecessor": "Not available",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Wulf & Co. AB.",
+        "location": "Vänersborg",
+        "business": "Tegelbruk arrendator och mekanisk verkstad",
+        "contact": {
+            "telegraph": "Wulf, Vänersborg",
+            "office": "Tegelbruk vid Tenggrenstorp (Älvsb. l.) och äger mek. verkstad i Vänersborg",
+            "phone": [
+                "1251"
+            ],
+            "postgiro": "84706",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "311550"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 270000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "10 milj. st."
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "Gunnar Wulf",
+                "role": "ordförande"
+            },
+            {
+                "name": "Ivar Wulf",
+                "role": "ingenjör"
+            },
+            {
+                "name": "Kurt Wulf",
+                "role": "direktör"
+            }
+        ],
+        "manager": "Gunnar Wulf",
+        "sales_manager": "Not available",
+        "director": "Not available",
+        "managing_director": "Kurt Wulf",
+        "coordinates": {
+            "Latitude": 58.3797283,
+            "Longitude": 12.3248032
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Yålgårda Armaturfabrik",
+        "location": "Vårgårda",
+        "business": "Armaturfabrik",
+        "contact": {
+            "telegraph": "Not available",
+            "office": "Armaturfabrik i Vårgårda^ (Älvsb. l.)",
+            "phone": [
+                "10",
+                "124",
+                "310"
+            ],
+            "postgiro": "83760"
+        },
+        "financials": {
+            "capital": 225000,
+            "employees": {
+                "industriarb": 160
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "John Bengtson",
+                "role": "verkställande direktör"
+            }
+        ],
+        "manager": "Not available",
+        "sales_manager": "Not available",
+        "director": "Not available",
+        "managing_director": "Not available",
+        "coordinates": {
+            "Latitude": 58.0323039,
+            "Longitude": 12.8089764
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "Vägförbättringar",
+        "location": "Stockholm",
+        "business": "Utför väg-, vatten- och brobyggnader",
+        "contact": {
+            "telegraph": "Vägförbättring, Stockholm",
+            "office": "Not available",
+            "postgiro": "Not available"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "Not available": "Not available"
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": "Not available",
+        "board": "Not available",
+        "manager": "Not available",
+        "sales_manager": "Not available",
+        "director": "Not available",
+        "managing_director": "Not available",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "1": {
+        "name": "Stol fabrik—Stora kakmjöl",
+        "location": "Göteborg, Odinsg. 6",
+        "contact": {
+            "telegraph": "Stokkebye, Göteborg",
+            "phone": [
+                "Axa kvarn"
+            ],
+            "postgiro": "12300"
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": 8000000,
+            "annual_production_value": 8000000
+        },
+        "foundation_year": 1901,
+        "board": [
+            {
+                "name": "rådm. Sten Lindquist",
+                "role": "dir."
+            },
+            {
+                "name": "Rolf Stokkebye",
+                "role": "dir."
+            }
+        ],
+        "director": "Gösta Cederryd",
+        "managing_director": "Rolf Stokkebye",
+        "coordinates": {
+            "Latitude": 57.7089215,
+            "Longitude": 11.9793219
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Stolfabriks AB., Smålandsstenar",
+        "location": "Smålandsstenar (Jönköp. l.)",
+        "contact": {
+            "telegraph": "Stolfabriken, Smålandsstenar",
+            "phone": "14",
+            "postgiro": "22594"
+        },
+        "financials": {
+            "capital": 110500,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 425000,
+            "annual_production_value": 425000
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "f. riksdagsm. Malkolm Petterson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Oscar André",
+                "role": "disp."
+            },
+            {
+                "name": "kamrer Carl Odin",
+                "role": "kamrer"
+            }
+        ],
+        "director": "Oscar André",
+        "coordinates": {
+            "Latitude": 57.1597167,
+            "Longitude": 13.403521
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "AB. Stol I bergs Crufvor o. Anrikningsverk, Håksberg",
+        "location": "Håksberg",
+        "contact": {
+            "telegraph": "Silf-hvttan, Ludvika",
+            "phone": "Ludvika 818",
+            "postgiro": "167348"
+        },
+        "financials": {
+            "capital": 1030000,
+            "employees": {
+                "industriarb": 135
+            }
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "dir. H. Hennemann",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. John A. Hedlund",
+                "role": "disp."
+            },
+            {
+                "name": "adv. Nils Högberg",
+                "role": "adv."
+            }
+        ],
+        "director": "H. Hennemann",
+        "managing_director": "H. Hennemann",
+        "coordinates": {
+            "Latitude": 60.1839348,
+            "Longitude": 15.2077846
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Stora Borgs Tegelbruk, Lilla Edet",
+        "location": "Stora Borg, Lilla Edet (Göteb. o. Bohus l.)",
+        "contact": {
+            "phone": "Lilla Edet 24"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "2,500,000 st. tegelvaror"
+        },
+        "foundation_year": 1907,
+        "director": "Fredrik Anderson",
+        "coordinates": {
+            "Latitude": 58.132158,
+            "Longitude": 12.1241336
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "AB. Stora Kopparbergs Bergslags AB., Falun",
+        "location": "Falun",
+        "contact": {
+            "telegraph": "Bergslaget",
+            "phone": "Bergslaget",
+            "postgiro": "75"
+        },
+        "financials": {
+            "capital": 90000000,
+            "employees": {
+                "industriarb": 6,
+                "unit": "600"
+            }
+        },
+        "foundation_year": "1200-talet",
+        "current_name_year": 1888,
+        "board": [
+            {
+                "name": "grossh. Robert Ljunglöf",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Ejnar Rodling",
+                "role": "disp."
+            },
+            {
+                "name": "överste E. R. Salwén",
+                "role": "överste"
+            },
+            {
+                "name": "dir. Claes Wahlund",
+                "role": "dir."
+            },
+            {
+                "name": "bankdir. Jacob Wallenberg",
+                "role": "bankdir."
+            },
+            {
+                "name": "bankdir. Marcus Wallenberg",
+                "role": "bankdir."
+            }
+        ],
+        "director": "Ejnar Rodling",
+        "managing_director": "Ejnar Rodling",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "Stora Långviks Gruf AB., Hedemora",
+        "location": "Hedemora (Kopparb. l.)",
+        "coordinates": {
+            "Latitude": 60.2775453,
+            "Longitude": 15.985892
+        },
+        "cluster": 4
+    }
+}

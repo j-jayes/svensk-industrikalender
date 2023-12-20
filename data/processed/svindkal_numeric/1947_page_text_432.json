@@ -1,0 +1,199 @@
+{
+    "1": {
+        "name": "Knutsons Marmeladfabriks AB.",
+        "location": "Varberg",
+        "business": "Tillverkar marmelader, safter, sylter samt konfityrer",
+        "contact": {
+            "phone": [
+                "456"
+            ],
+            "postgiro": "14843"
+        },
+        "financials": {
+            "capital": 120000,
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1892,
+        "corporation_year": 1910,
+        "board": [
+            {
+                "name": "fröken H. Håkansson",
+                "role": "köpm."
+            },
+            {
+                "name": "J. Håkansson",
+                "role": ""
+            },
+            {
+                "name": "fröken S. Peterson",
+                "role": ""
+            }
+        ],
+        "director": "Anders Knutsson",
+        "managing_director": "Anders Knutsson",
+        "sales_manager": "Ola Knutsson",
+        "coordinates": {
+            "Latitude": 57.107118,
+            "Longitude": 12.2520907
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Kocks Snickerifabriker AB.",
+        "location": "Malmö",
+        "business": "Möbelfabrik i Trelleborg. Tillverkar restaurantmöbler, inredningar för teatrar och biografer, skolmöbler samt rumsmöbler. Specialitet: möbler av böjt trä.",
+        "contact": {
+            "office": "Celsiusg. 41",
+            "phone": [
+                "Ljungs Industrier"
+            ]
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": 500000
+        },
+        "foundation_year": 1917,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "fabr. A. Efraim Ljung",
+                "role": ""
+            },
+            {
+                "name": "disp. A. Eric Ljung",
+                "role": ""
+            },
+            {
+                "name": "disp. S. Löfgren",
+                "role": ""
+            }
+        ],
+        "director": "vakant",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "Kockums Jernverks AB.",
+        "location": "Kallinge",
+        "business": "Järnverk med martinugnar, elektr. ugnar, valsverk, galvaniserings- och emal-jeringsverk, gjuteri och mek. verkstad",
+        "products": "Tillverkar i Kallinge: martingöt, elek-trostålgöt, stålgjutgods, svart och galvaniserad järnplåt, dynamoplåt och träns formatorplåt, svart och emaljerat hushålls- och sanitetsgjutgods, maskinmang-lar. lyktstolpar, spiraltrappor, värmeledningspannor (märke: »Rego»), gasspisar, elektriska spisar, vedspisar (vanliga spisar, V-KOCK-spisar), restaurangspisar m. m. samt utför förnickling, förkrom-ning och plåtpressning.",
+        "contact": {
+            "office": "Malmö, Regementsg. 12",
+            "phone": [
+                "21240"
+            ],
+            "sales_offices": [
+                {
+                    "location": "Kallinge",
+                    "phone": "»Jernverket»"
+                },
+                {
+                    "location": "Ronneby",
+                    "phone": "13"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "520360"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "131789"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "25524"
+                }
+            ],
+            "telegraph": "Jernverket, Kallinge"
+        },
+        "financials": {
+            "capital": 4000000,
+            "employees": {
+                "industriarb": 1,
+                "'700": 19,
+                "'000,000 kr": 1,
+                "'900,000": 1
+            }
+        },
+        "foundation_year": 1875,
+        "board": [
+            {
+                "name": "bankdir. Åke Belfrage",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Erik Kockum",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir.^ Frans Kockum",
+                "role": ""
+            },
+            {
+                "name": "ing. Gunnar Kockum",
+                "role": ""
+            },
+            {
+                "name": "disp. Uno O. Larson",
+                "role": ""
+            },
+            {
+                "name": "kapten J. H. Zethraeus",
+                "role": ""
+            }
+        ],
+        "director": "Erik Kockum",
+        "managing_director": "Erik Kockum",
+        "coordinates": {
+            "Latitude": 56.2427292,
+            "Longitude": 15.291613
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Kockums Mekaniska Verkstads AB.",
+        "location": "Malmö",
+        "business": "Skeppsvarv, mekanisk verkstad, gjuteri, manufaktursmedja och vaggonfabrik",
+        "products": "Tillverkar krigsfartyg av alla slag, handelsfartyg upp till 25,000 ton, dieselmotorer enligt Kockum-M. A. !N-.system resp. Kockum—Frichssystem, järnvägsvagnar, motorlokomotiv, motorvagnar, broar, lyftkranar, ångpannor och ångmaskiner hejar- och ånghammarsmiden samt »Tyfon»-signalapparater m. m.",
+        "contact": {
+            "office": "Stora Varvsg., Västra Hamnsidan",
+            "phone": "Kockumsverkstad, Malmö",
+            "postgiro": "38200"
+        },
+        "financials": {
+            "capital": 7500000,
+            "employees": {
+                "industriarb": 3,
+                "'500": 60,
+                "'000,000 kr": 60,
+                "'000,000": 1
+            }
+        },
+        "foundation_year": 1840,
+        "corporation_year": 1866,
+        "board": [
+            {
+                "name": "bankdir. Ernst ö:son Herslow",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Erik Kockum",
+                "role": "v. ordf."
+            }
+        ],
+        "director": "Erik Kockum",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    }
+}

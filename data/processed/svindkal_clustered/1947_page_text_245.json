@@ -1,0 +1,140 @@
+{
+    "1": {
+        "name": "Degerhamn—D elihon",
+        "location": "Degerfors",
+        "business": "Järnverk",
+        "contact": {
+            "telegraph": "Järnverket, Degerfors",
+            "postgiro": "72400"
+        },
+        "financials": {
+            "capital": "9,000,000 kr",
+            "employees": {
+                "industriarb": 2000
+            },
+            "annual_turnover": "28,000,000 kr",
+            "annual_production_value": "28,000,000 kr"
+        },
+        "foundation_year": 1870,
+        "current_name_year": 1939,
+        "predecessor": "Degerfors AB",
+        "corporation_year": 1886,
+        "board": [
+            {
+                "name": "Tage Cervin",
+                "role": "bankir (ordf.)"
+            },
+            {
+                "name": "Ragnar Blomqvist",
+                "role": "dir."
+            },
+            {
+                "name": "Bengt Carleson",
+                "role": "disp."
+            },
+            {
+                "name": "Mauritz Carlson",
+                "role": "dir."
+            },
+            {
+                "name": "Nils Danielsen",
+                "role": "disp."
+            },
+            {
+                "name": "Erland Geijer",
+                "role": "bankdir."
+            }
+        ],
+        "owners": [
+            "Uddeholms AB"
+        ],
+        "director": "Bengt Carleson",
+        "managing_director": "Erik Hermanson",
+        "sales_manager": "John H. Hallström",
+        "manager": "Tor W. Jansson",
+        "coordinates": {
+            "Latitude": 59.2391027,
+            "Longitude": 14.4339179
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. de Lavals Angturbin",
+        "location": "Stockholm",
+        "business": "Mek. verkstad och gjuteri",
+        "contact": {
+            "head_office": "Saltsjö-Järla",
+            "postgiro": "51548",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "AB. Zander & Ingeström, Fredsg. 4"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "4,800,000 kr",
+            "employees": {
+                "industriarb": 450
+            },
+            "annual_turnover": "5,000,000 kr",
+            "corporation_year": 1893
+        },
+        "board": [
+            {
+                "name": "Erik J. Bengtson",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "Robert Ljunglöf",
+                "role": "grossh. (v. ordf.)"
+            },
+            {
+                "name": "Gunnar Dalen",
+                "role": "dir."
+            },
+            {
+                "name": "Louis de Geer",
+                "role": "frih."
+            },
+            {
+                "name": "Vilhelm Nordström",
+                "role": "ing."
+            },
+            {
+                "name": "Hugo Stenbeck",
+                "role": "adv."
+            }
+        ],
+        "director": "Vilhelm Nordström",
+        "manager": "Axel Järbin",
+        "sales_manager": "Gunnar Kry",
+        "factory_office": "Smålands Anneberg (Jönköp. l.)",
+        "factory_phone": "50",
+        "owners": [
+            "Oscar Delavaux"
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Delikon",
+        "location": "Norrköping",
+        "business": "Konservfabrik",
+        "products": "Konserverade frukter, bär, svamp, rödbetor, senap, soja, sylter, fruktmos, marmelad, saft",
+        "contact": {
+            "postgiro": "N/A"
+        },
+        "description": "Varumärken: Tre F, Träff, Lukullus",
+        "factory_office": "N/A",
+        "factory_phone": "N/A",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 2
+    }
+}

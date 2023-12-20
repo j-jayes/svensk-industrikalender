@@ -1,0 +1,164 @@
+{
+    "1": {
+        "name": "Linham",
+        "location": "Linköping",
+        "business": "Tillverkar specialmaskiner för sköindustrien, smörjkoppar m. m.",
+        "contact": {
+            "office": "Huvudstavägen 49",
+            "telegraph": "Linhamcup, Stockholm",
+            "phone": [
+                "520300"
+            ],
+            "postgiro": "2728"
+        },
+        "financials": {
+            "capital": 32000,
+            "employees": {
+                "industriarb": 155
+            },
+            "annual_turnover": 1200000
+        },
+        "foundation_year": 1917,
+        "current_name_year": 1942,
+        "director": "Carl Halvars",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Linköpings Armatur- och Metallfabriks AB.",
+        "location": "Linköping",
+        "business": "Försäljning av armatur av egna konstruktioner för vatten och ånga, syrafast armatur, mejeriarmatur, hydrauliska anläggningar och armatur för cellulosaindustrien, knutsilar och silplåtar, metall- och lättmetallgjutgods samt varmpressat och pressgjutet metall- och lättmetall-gods.",
+        "contact": {
+            "telegraph": "Armatur, Linköping"
+        },
+        "financials": {
+            "capital": 600000
+        },
+        "foundation_year": 1915,
+        "disp": "E. Stoije",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Linköpings Linnefabriks AB.",
+        "location": "Linköping",
+        "business": "Tillverkar kragar, manschetter, skjortor, pyjamas och damblusar",
+        "contact": {
+            "telegraph": "Linnefabriken, Linköping",
+            "phone": [
+                "29905"
+            ],
+            "postgiro": "6290"
+        },
+        "financials": {
+            "capital": 379500,
+            "employees": {
+                "industriarb": 177
+            },
+            "annual_turnover": 1750000
+        },
+        "foundation_year": 1910,
+        "director": "Fredrik Béen",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Linköpings Litografiska AB",
+        "location": "Linköping",
+        "business": "Utför affärs- och reklamtryck i boktryck, litografiskt tryck, offset och ståltryck; tillverkar kontorsböcker, kuvert, pappers- och kartongemballage",
+        "contact": {
+            "phone": [
+                "20003"
+            ],
+            "postgiro": "5290"
+        },
+        "foundation_year": 1884,
+        "description": "Är anslutet till AB. Sveriges Litografiska Tryckerier, Stockholm",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "Linköpings Möbelindustri AB",
+        "location": "Linköping",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "20419"
+            ],
+            "postgiro": "74668"
+        },
+        "financials": {
+            "capital": 60700,
+            "annual_turnover": 350000
+        },
+        "foundation_year": 1920,
+        "disp": "Theodor Fridén",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "AB. Linköpings Strumpfabrik",
+        "location": "Linköping",
+        "business": "Tillverkar dam- och barnstrumpor, sportstrumpor m. m.",
+        "contact": {
+            "phone": [
+                "20292"
+            ]
+        },
+        "financials": {
+            "capital": 225000,
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": 800000
+        },
+        "foundation_year": 1927,
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Linköpings Strå- & Filthattfabrik AB",
+        "location": "Linköping",
+        "business": "Tillverkar spec. damhattar och modevaror",
+        "contact": {
+            "telegraph": "Hattfabriken, Linköping",
+            "phone": [
+                "Linköpings Strå- o. Filthattfabrik"
+            ],
+            "postgiro": "84040"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": 1250000
+        },
+        "foundation_year": 1919,
+        "director": "fröken Ida Israelsson",
+        "kamrer": "Eric Träff",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 9
+    }
+}

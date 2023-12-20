@@ -1,0 +1,180 @@
+{
+    "1": {
+        "name": "Avos—Badkläder",
+        "location": "Örebro",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "671867"
+            ],
+            "postgiro": "150922",
+            "head_office": "Örebro"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "total": 20
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1941,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Axonit AB.",
+        "location": "Stockholm",
+        "business": "Bryter och förädlar kiselgur",
+        "products": "Filtrerings-, värmeisolerings- och absorptions-ändamål",
+        "contact": {
+            "office": "Stockholm, Grevtureg. 14",
+            "phone": [
+                "671867"
+            ],
+            "postgiro": "150922"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "total": 20
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1941,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Axvalls Ångbryggeri",
+        "location": "Axvall",
+        "business": "Tillverkar malt, maltdrycker och läskedrycker",
+        "products": "Malt, maltdrycker, läskedrycker",
+        "contact": {
+            "phone": [
+                "8",
+                "9"
+            ],
+            "head_office": "Axvall"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "total": 20
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1880,
+        "predecessor": "Not available",
+        "corporation_year": 1933,
+        "coordinates": {
+            "Latitude": 58.3889151,
+            "Longitude": 13.57335
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Backa-Hosjö AB.",
+        "location": "Sparreholm",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Trävaror, tak- och murtegel, tegelrör, dörrar, jord- och skogsbruk",
+        "contact": {
+            "office": "Sparreholm",
+            "phone": [
+                "Sparreholm 4"
+            ],
+            "postgiro": "29224",
+            "telegraph": "Bac-kahosjö, Flen"
+        },
+        "financials": {
+            "capital": "2,925,000 kr",
+            "employees": {
+                "total": 170
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1897,
+        "coordinates": {
+            "Latitude": 59.0704435,
+            "Longitude": 16.8303335
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "AB. Backe Trävaruindustrier",
+        "location": "Stockholm",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Trävaror, byggnadssnickerier, formplattor, lådämnen",
+        "contact": {
+            "office": "Stockholm, Norrmalmstorg 2 A",
+            "phone": [
+                "118181",
+                "207781"
+            ],
+            "postgiro": "56413"
+        },
+        "financials": {
+            "capital": "70,000 kr",
+            "employees": {
+                "total": 25
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1930,
+        "corporation_year": 1946,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Backa Såg- och Tegelverks AB.",
+        "location": "Korsnäs",
+        "business": "Sågverk, hyvleri och tegelbruk",
+        "products": "Trävaror, murtegel, skogs-och jordbruk",
+        "contact": {
+            "office": "Korsnäs",
+            "phone": [
+                "Falun 1522"
+            ],
+            "postgiro": "26421"
+        },
+        "financials": {
+            "capital": "101,100 kr",
+            "employees": {
+                "total": 105
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1919,
+        "coordinates": {
+            "Latitude": 60.58931879999999,
+            "Longitude": 15.7114734
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "AB. Badkläders Industri",
+        "location": "Malmö",
+        "business": "Konfektionsfabrik",
+        "products": "Badkappor, baddräkter, badbyxor, badmössor, stranddräkter, sportbyxor",
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "total": "Not available"
+            },
+            "annual_turnover": "Not available"
+        },
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "1": {
+        "name": "Oxelösunds Järnverks AB.",
+        "location": "Oxelösund",
+        "business": "Järnverk med sintringsverk och koksmasugn, koksverk med biproduktsverk samt fönsterglasverk i Oxelösund (Södermanl. l.)",
+        "products": "Tillverkar sinter, kokstackjärn alla slag, koks samt tjära, ammoniumsulfat, bensol, solventnafta, toluol, xylol m. fl. destillationsprodukter ävensom maskindraget fönsterglas. Varumärke: »OJA».",
+        "contact": {
+            "office": "Järnverket, Oxelösund",
+            "phone": [
+                "Telefonnummer 1"
+            ],
+            "postgiro": "71560",
+            "head_office": "Head office address",
+            "sales_offices": [
+                {
+                    "location": "Sales office 1",
+                    "phone": "Phone number 1"
+                },
+                {
+                    "location": "Sales office 2",
+                    "phone": "Phone number 2"
+                }
+            ],
+            "telegraph": "Telegraph address",
+            "factory_office": "Factory office address",
+            "factory_phone": "Factory phone number"
+        },
+        "financials": {
+            "capital": 6170000,
+            "employees": {
+                "industriarb.": 550
+            },
+            "annual_turnover": "Annual turnover value",
+            "annual_production_value": "Annual production value"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "Gustaf Söderlund",
+                "role": "ordf."
+            },
+            {
+                "name": "Petrus Brundell",
+                "role": "dir."
+            },
+            {
+                "name": "Gunnar Jacobsson",
+                "role": "dir."
+            },
+            {
+                "name": "Ivar Kull",
+                "role": "dir."
+            },
+            {
+                "name": "Hildor Medin",
+                "role": "dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.6754851,
+            "Longitude": 17.0749546
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Oxelösunds Träindustri AB.",
+        "location": "Oxelösund",
+        "business": "Tillverkar gardinbräder och gardinkor-nischer i trä vid fabrik i Oxelösund (Södermanl. l.)",
+        "products": "Varumärke: »Ota».",
+        "contact": {
+            "office": "Nyköping",
+            "phone": [
+                "109"
+            ]
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb.": 25
+            },
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1938,
+        "coordinates": {
+            "Latitude": 58.6754851,
+            "Longitude": 17.0749546
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Oxygenol, Stockholm",
+        "business": "Kem.-tekn. fabrik. Tillverkar kosmetiska och antiseptiska medel, syrgasbad samt farmaceutiska preparater.",
+        "products": "Varunamn: »Oxygenol», »Amarant», »Trans-pirol», »Cremsol», »Handolén», »Lavi-fleur» o. »Aqua Vera».",
+        "contact": {
+            "office": "Lindhagensg. 122",
+            "phone": [
+                "520235"
+            ],
+            "postgiro": "1370"
+        },
+        "financials": {
+            "capital": 604200,
+            "employees": {
+                "industriarb.": 40
+            }
+        },
+        "foundation_year": 1908,
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Packningsindustri, Råa",
+        "business": "Maskinpackningsfabrik i Råå (Malmöh. 1.)",
+        "products": "Tillverkar boxpackningar av asbest, bomull, lingarn, hampa, jute och läder samt bromsband och lamellbelägg. Varumärken: »Pi», »Pal-pi», »Hecopi», »Tor-pi», »Dragon», »Aspi» o. »Ze-pi».",
+        "contact": {
+            "office": "Pi, Hälsingborg",
+            "phone": [
+                "90190",
+                "91"
+            ],
+            "postgiro": "34372"
+        },
+        "financials": {
+            "capital": 108000,
+            "employees": {
+                "industriarb.": 35
+            }
+        },
+        "foundation_year": 1918,
+        "cluster": 9
+    },
+    "5": {
+        "name": "Pahnes Textil, Halmstad",
+        "business": "Strumpfabrik",
+        "products": "Tillverkar sport- och herrstrumpor",
+        "contact": {
+            "phone": [
+                "4750"
+            ],
+            "postgiro": "178213"
+        },
+        "financials": {
+            "annual_production_value": 250000
+        },
+        "foundation_year": 1940,
+        "cluster": 9
+    },
+    "6": {
+        "name": "Palms Konfektionsfabrik, Tomelilla",
+        "business": "Tillverkar herr- och gosskläder vid fabrik i Tomelilla (Kristianst. l.)",
+        "contact": {
+            "phone": "»Palms fabriker»",
+            "postgiro": "11148"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 90
+            }
+        },
+        "current_name_year": 1946,
+        "predecessor": "Tomelilla Konfektion",
+        "cluster": 9
+    },
+    "7": {
+        "name": "Palms Mössfabrik, Tomelilla",
+        "business": "Mössfabrik i Tomelilla (Kristianst. l.). Tillverkar sportmössor, skol- och klädes- 432*.",
+        "financials": {
+            "annual_production_value": 250000
+        },
+        "current_name_year": 1946,
+        "predecessor": "Tomelilla Konfektion",
+        "cluster": 9
+    }
+}

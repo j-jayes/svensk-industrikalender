@@ -1,0 +1,162 @@
+{
+    "1": {
+        "name": "Åmåls Nya Bryggeri AB.",
+        "location": "Åmål",
+        "business": "Tillverkar malt och maltdrycker, mineralvatten och läskedrycker",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                "34"
+            ],
+            "postgiro": "13086",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": 900000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1934,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "disp. Oscar Dahlgren",
+                "role": null
+            }
+        ],
+        "owners": [
+            "AB. Sveabryggerier, Filipstad"
+        ],
+        "director": null,
+        "managing_director": "disp. Oscar Dahlgren",
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.05111699999999,
+            "Longitude": 12.6977323
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB. Åmåls Sportindustri",
+        "location": "Åmål",
+        "business": "Väskfabrik. Tillverkar väskor av tyg, läder och plastic",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                "625",
+                "733"
+            ],
+            "postgiro": "280344",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 36
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1943,
+        "current_name_year": null,
+        "predecessor": "Äger Åmåls Värv",
+        "original_name": null,
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": null,
+        "managing_director": "Verkst. dir.: Gösta Nordström",
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.05111699999999,
+            "Longitude": 12.6977323
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Åmåls Sågverks AB.",
+        "location": "Åmål",
+        "business": "Trähusfabrik och sågverk. Tillverkar monteringsfärdiga hus.",
+        "products": "Varumärke: »Åsa»",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Åsabolaget, Åmål"
+            ],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "105398 o. 104695"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "112495"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "71600"
+                }
+            ],
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": 5000000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1924,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "godsäg. Karl Nordström",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Greta Nordström",
+                "role": null
+            },
+            {
+                "name": "disp. Ivar Nordström",
+                "role": null
+            }
+        ],
+        "owners": [],
+        "director": null,
+        "managing_director": "Verkst. dir. o. disp.: Ivar Nordström",
+        "sales_manager": null,
+        "manager": "Kamrer: Bror Larvall",
+        "coordinates": {
+            "Latitude": 59.05111699999999,
+            "Longitude": 12.6977323
+        },
+        "cluster": 7
+    }
+}

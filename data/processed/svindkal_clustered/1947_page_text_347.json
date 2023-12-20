@@ -1,0 +1,191 @@
+{
+    "1": {
+        "name": "Hallstahammars Bruk",
+        "location": "Hallstahammar",
+        "business": "Tillverkar stålaxlar samt kalldraget järn, stål och automatjärn.",
+        "contact": {
+            "office": "Hallstahammar",
+            "phone": [
+                "Hall-stahammars Bruk"
+            ],
+            "postgiro": "13379"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "6,000,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1872,
+        "board": [
+            {
+                "name": "Ivar O. Larson",
+                "role": "ordf."
+            },
+            {
+                "name": "Hilding Agrell",
+                "role": "disp."
+            },
+            {
+                "name": "Per Gr. Ekman",
+                "role": "disp."
+            },
+            {
+                "name": "Uno O. Larson",
+                "role": "disp."
+            }
+        ],
+        "director": "Hilding Agrell",
+        "kamrer": "John Carlsson",
+        "sales_manager": "H. Bosson",
+        "coordinates": {
+            "Latitude": 59.6132041,
+            "Longitude": 16.2294755
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Hallströms Kassaskåps & Mek. Verkstads AB.",
+        "location": "Ulvsunda",
+        "business": "Tillverkar kassaskåp, arkiv- och dokumentskåp, kassavalvsdörrar samt isolerade branddörrar samt vattenvärmare (märke: Gurus)",
+        "contact": {
+            "office": "Johannesfredsvägen 14, Ulvsunda",
+            "phone": [
+                "Stockholm 257363",
+                "258216"
+            ],
+            "postgiro": "54060"
+        },
+        "financials": {
+            "capital": "14,200 kr",
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1937,
+        "manager": "John Hallström",
+        "coordinates": {
+            "Latitude": 59.33688530000001,
+            "Longitude": 17.9638876
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Halmstad-Falkenbergs Kvarn AB.",
+        "location": "Halmstad",
+        "business": "Tillverkar mjöl av vete och råg samt fodermjöl och kli",
+        "contact": {
+            "head_office": "Malmö",
+            "sales_offices": [
+                {
+                    "location": "Halmstad",
+                    "phone": "1402"
+                },
+                {
+                    "location": "Falkenberg",
+                    "phone": "271"
+                }
+            ],
+            "postgiro": "15001"
+        },
+        "financials": {
+            "capital": "1,001,800 kr",
+            "employees": {
+                "Halmstad": 38,
+                "Falkenberg": 25
+            },
+            "annual_production_value": "7,250,000 kr"
+        },
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "Mauritz Carlson",
+                "role": "ordf."
+            },
+            {
+                "name": "Sven Malmberg",
+                "role": "dir."
+            },
+            {
+                "name": "Edvin Åberg",
+                "role": "dir."
+            }
+        ],
+        "managing_director": "S. Malmberg",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Halmstads Järnverks AB.",
+        "location": "Halmstad",
+        "business": "Tillverkar martinjärn i form av göten, billets, stång- och fasonjärn, bandjärn samt valstråd.",
+        "contact": {
+            "office": "Halmstad",
+            "phone": "1333",
+            "postgiro": "30537"
+        },
+        "financials": {
+            "capital": "1,080,000 kr",
+            "employees": 230,
+            "annual_production_value": "7,300,000 kr"
+        },
+        "corporation_year": 1921,
+        "board": [
+            {
+                "name": "Allan Boo",
+                "role": "disp."
+            },
+            {
+                "name": "Bengt Carleson",
+                "role": "disp."
+            },
+            {
+                "name": "Hans v. Kantzow",
+                "role": "disp."
+            },
+            {
+                "name": "W. Klingspor",
+                "role": "frih."
+            },
+            {
+                "name": "Hugo Stenbeck",
+                "role": "adv."
+            }
+        ],
+        "managing_director": "Allan Boo",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Halmstads Nya Verkstads AB.",
+        "location": "Halmstad",
+        "business": "Mek. verkstad, gjuteri och plåtslageri. Tillverkar lyftverktyg och kranard",
+        "contact": {
+            "office": "Halmstad",
+            "phone": "Malcus",
+            "postgiro": null
+        },
+        "financials": {
+            "capital": "525,000 kr",
+            "employees": 120,
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1875,
+        "director": null,
+        "manager": "AB. Malcus Holmquist",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 6
+    }
+}

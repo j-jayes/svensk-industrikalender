@@ -1,0 +1,240 @@
+{
+    "1": {
+        "name": "Örgryteverken AB.",
+        "location": "Göteborg",
+        "business": "Plåtslageri och mek. verkstad",
+        "products": "Tillverkar fläktar för ventilations- och industriella ändamål, lamellbatterier, oljeavskil-jare, textilmaskiner och torvkolnings-ugnar (system: »Pilo»); utför svetsade plåtarbeten och järnkonstruktioner.",
+        "contact": {
+            "office": "Elisedal 7",
+            "telegraph": "Tox-verk, Göteborg",
+            "phone": [
+                "183345"
+            ]
+        },
+        "financials": {
+            "capital": 135000,
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "foundation_year": 1940,
+        "current_name_year": 1944,
+        "director": "ing. Tom O. Biéth",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Örnäs Produkter AB.",
+        "location": "Kungsängen",
+        "business": "Konservfabrik",
+        "products": "Tillverkar sylt, syltade frukter, marmelader, safter och fruktkonserver.",
+        "contact": {
+            "office": "Kungsängen",
+            "phone": [
+                "70"
+            ],
+            "postgiro": "293853",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "200778"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 17
+            }
+        },
+        "foundation_year": 1935,
+        "director": "Richard Bodén",
+        "coordinates": {
+            "Latitude": 59.47772,
+            "Longitude": 17.750921
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Örnen, Nya Skofabriks AB.",
+        "location": "Örebro",
+        "predecessor": "Nya Skofabriks AB. örnen",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Örnmaskiner",
+        "location": "Storebro",
+        "business": "Tillverkar snabbsvarvar och med-bringare vid mek. verkstad",
+        "contact": {
+            "phone": "22 o. 23",
+            "postgiro": "95420"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": 1200000
+        },
+        "foundation_year": 1933,
+        "corporation_year": 1945,
+        "director": "disp. Ivar Gustafsson",
+        "coordinates": {
+            "Latitude": 57.5864655,
+            "Longitude": 15.8397223
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Östansjö Skoindustri",
+        "location": "Östansjö",
+        "business": "Tillverkar herr- och damskodon",
+        "contact": {
+            "phone": "21",
+            "postgiro": "167915"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": 600000
+        },
+        "foundation_year": 1930,
+        "owners": [
+            "fabr. John Knutsson",
+            "fabr. Einar Andersson"
+        ],
+        "coordinates": {
+            "Latitude": 59.0441733,
+            "Longitude": 14.9808154
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "Östanå Fabriks AB",
+        "location": "Glimminge",
+        "business": "Sågverk och elektr. kraftverk",
+        "products": "Tillverkar sågade trävaror samt distribuerar elektr. energi",
+        "contact": {
+            "phone": "östanåbruk 3 o. Osby 4",
+            "postgiro": "23789"
+        },
+        "financials": {
+            "capital": 215000,
+            "employees": {
+                "Arb.-antal": 10
+            }
+        },
+        "foundation_year": 1885,
+        "board": [
+            {
+                "name": "bergsing",
+                "role": "Gustaf Ekman"
+            },
+            {
+                "name": "disp. Johan Ekman",
+                "role": "godsäg. Folke Sederholm"
+            }
+        ],
+        "director": "Johan Ekman",
+        "coordinates": {
+            "Latitude": 55.49792799999999,
+            "Longitude": 14.2317
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "AB. Östanå Pappersbruk",
+        "location": "Lund",
+        "business": "Tillverkar finpapper såsom post-, skriv-, tryck- och offsetpapper m. m. vid pappersbruk",
+        "contact": {
+            "office": "Lund",
+            "telegraph": "östanå-papper, Lund",
+            "phone": "Åkerlund & Rau-sing",
+            "postgiro": "270256"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "4,000 ton papper"
+        },
+        "board": [
+            {
+                "name": "dir. Ruben Rausing",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Holger Crafoord",
+                "role": "bankdir. Göte Eng-fors"
+            }
+        ],
+        "director": "Holger Crafoord",
+        "sales_manager": "Ebbe Nihlberg",
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        },
+        "cluster": 5
+    },
+    "8": {
+        "name": "Östanåsågen, Nya AB.",
+        "location": "Ovanåker",
+        "coordinates": {
+            "Latitude": 61.36662239999999,
+            "Longitude": 15.8965623
+        },
+        "cluster": 4
+    },
+    "9": {
+        "name": "Östblads Skridskofabrik",
+        "location": "Järna",
+        "business": "Tillverkar rör skridskor samt skålslip-ningsmaskiner för skridskor",
+        "coordinates": {
+            "Latitude": 59.0940774,
+            "Longitude": 17.5585733
+        },
+        "cluster": 1
+    },
+    "10": {
+        "name": "AB. Aug. österberg",
+        "location": "Örebro",
+        "business": "Kartong- och emballagefabrik",
+        "products": "Tillverkar kartonger, burkar helt av papp eller med lock och botten av plåt samt impregnerade pappaskar",
+        "contact": {
+            "phone": "10111 o. 11111",
+            "postgiro": "20788"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": 900000
+        },
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 5
+    },
+    "11": {
+        "name": "Österby Jernverks AB.",
+        "location": "Österbybruk",
+        "business": "Masugnar",
+        "products": "Masugnar, martin-och elektrostålugnar, stålsmedja, valsverk, maskinknivverkstad, wallonsmedja, stålgjuteri och mek. verkstad",
+        "coordinates": {
+            "Latitude": 60.1960972,
+            "Longitude": 17.8961822
+        },
+        "cluster": 6
+    }
+}

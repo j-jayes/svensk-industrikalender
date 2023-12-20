@@ -1,0 +1,145 @@
+{
+    "1": {
+        "name": "AB. Nordiska Hattfabriken",
+        "location": "Malmö",
+        "business": "Tillverkar barnhattar",
+        "contact": {
+            "office": "ö. Promenaden 23",
+            "phone": [
+                "75330",
+                "24938"
+            ],
+            "postgiro": "37617"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "foundation_year": 1928
+        },
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. Nordiska Kompaniet",
+        "location": "Stockholm",
+        "business": "Konfektions- och tapetserareverkstäder, textilkammare, tryckeri samt varuhus i Stockholm, snickerifabrik, sågverk, metallverkstad och tapetserareverkstad i Nyköping.",
+        "contact": {
+            "office": "Hamng. 18 o. 20",
+            "postgiro": "481"
+        },
+        "financials": {
+            "capital": "26,200,000 kr",
+            "employees": {
+                "industriarb": 505
+            },
+            "annual_production_value": "9,000,000 kr",
+            "foundation_year": 1902
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Nordiska Latexfabriken",
+        "location": "Torekov",
+        "business": "Tillverkar dinappar, fingertutor, gummihandskar, gummiproppar och packningar.",
+        "contact": {
+            "phone": "34",
+            "postgiro": "145422"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "400,000 kr",
+            "foundation_year": 1938
+        },
+        "owners": [
+            "fabr. Sven Boström",
+            "fabr. Bernh. Jorlén"
+        ],
+        "coordinates": {
+            "Latitude": 56.423635,
+            "Longitude": 12.6273003
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Nordiska Linnefabriken i Göteborg AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar skjortor, pyjamas samt kragar.",
+        "contact": {
+            "office": "3:dje Långg. 38—40",
+            "phone": "146411",
+            "postgiro": "11551"
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "annual_production_value": "450,000 kr",
+            "foundation_year": 1915
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Nordiska Läderfabriken",
+        "location": "Simrishamn",
+        "business": "Garveri i Veberöd. Framställer läder för handsk- och beklädnadsändamål, jackor, tröjor, västar, mössor samt handskar och foderskinn.",
+        "contact": {
+            "postgiro": "175571"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "2,000,000 kr",
+            "foundation_year": 1929
+        },
+        "owners": [
+            "dir. Gösta Ehrnberg",
+            "bankdir. Alvar Ehrnberg",
+            "fröken A.-L. Ehrnberg"
+        ],
+        "coordinates": {
+            "Latitude": 55.5573959,
+            "Longitude": 14.3489651
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Nordiska Margarinfabriken",
+        "location": "Stockholm",
+        "business": "Tillverkar margarin, cocosfett och matolja.",
+        "contact": {
+            "office": "Sickla",
+            "postgiro": "56704"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": 25,
+            "foundation_year": 1933
+        },
+        "owners": [
+            "dir. Malte Göransson",
+            "fru K. Melin-Göransson"
+        ],
+        "manager": "M. Göransson",
+        "kamrer": "Alvar Sundberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "1": {
+        "name": "AB. Billingsfors—Långed",
+        "location": "Billingsfors",
+        "products": "M. G.-kraftpapper, tidningspapper, tapetpapper, trähaltigt papper, broschyr- och tryckpapper, tunntryckpapper, kuvertpapper, oceanpapper, kräpppapper, burkar, hylsor och tuber, råterpentin och flytande harts samt sulfatr och sulfitcellulosa och mek. trämassa för eget behov och till avsalu",
+        "contact": {
+            "office": "Huvudkontor: Billingsfors",
+            "phone": [
+                "Bengtsfors 170",
+                "Dals Långed 2"
+            ],
+            "postgiro": "70521",
+            "head_office": "Huvudkontor: Billingsfors",
+            "telegraph": "Bi fors. Vänersborg",
+            "factory_office": "Fabrikskontor: Långed",
+            "factory_phone": "Dals Långed 2"
+        },
+        "financials": {
+            "capital": 4000000,
+            "employees": {
+                "industriarb": 555
+            },
+            "annual_turnover": "16,000 ton M. G.-kraftpapper, 9,000 ton tryckpapper o. dyl., 3,000 ton (torrtänkta) sulfatmassa, 5,000 ton (torr) sulfitmassa och 12,000 ton slipmassa",
+            "annual_production_value": "16,000 ton M. G.-kraftpapper, 9,000 ton tryckpapper o. dyl., 3,000 ton (torrtänkta) sulfatmassa, 5,000 ton (torr) sulfitmassa och 12,000 ton slipmassa"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "disp. Gösta Ryding",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Erik Collin",
+                "role": ""
+            },
+            {
+                "name": "dir. William P. Nisser",
+                "role": ""
+            },
+            {
+                "name": "disp. M. Rosendahl",
+                "role": ""
+            },
+            {
+                "name": "dir. Arne C. Waern",
+                "role": ""
+            }
+        ],
+        "director": "M. Rosendahl",
+        "sales_manager": "V. Blakstad",
+        "manager": "V. Blakstad",
+        "coordinates": {
+            "Latitude": 58.98480769999999,
+            "Longitude": 12.2502881
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Stig K. M. Billman",
+        "location": "Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "AB. Bilradiator",
+        "location": "Norrköping",
+        "business": "Mek. verkstad",
+        "products": "Centralvärmeanläggningar för bilar och bussar",
+        "contact": {
+            "phone": [
+                "25209"
+            ],
+            "postgiro": "92636"
+        },
+        "financials": {
+            "capital": 80000,
+            "employees": 15,
+            "annual_turnover": 150000
+        },
+        "foundation_year": 1932,
+        "corporation_year": 1935,
+        "director": "Karl A. Ulrikson",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Svenska Bindgarnsfabriken",
+        "location": "Malmö",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "Biredskapsfabriken",
+        "location": "Töreboda",
+        "business": "Tillverkar biodlingsredskap omfattande trä-, järn-, plåt- och metallarbeten",
+        "coordinates": {
+            "Latitude": 58.70550919999999,
+            "Longitude": 14.1261468
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Birka AB., Glödlampfabriken",
+        "location": "Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    },
+    "7": {
+        "name": "Birka Regulator",
+        "location": "Stockholm",
+        "business": "Elektromek. verkstad",
+        "products": "Elektr. regleringsanordningar (»Birkaregulatorer»), termostater, reläer och strömbrytare i vakuum m. m.",
+        "contact": {
+            "office": "Kontor: Surbrunnsg. 53",
+            "phone": [
+                "300839"
+            ],
+            "postgiro": "52470"
+        },
+        "financials": {
+            "employees": 13,
+            "annual_turnover": 200000
+        },
+        "foundation_year": 1921,
+        "director": "civiling. Carl Appelberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Bispbergs",
+        "location": "Bispberg",
+        "coordinates": {
+            "Latitude": 60.3543013,
+            "Longitude": 15.7816103
+        },
+        "cluster": 4
+    },
+    "9": {
+        "name": "A. J. C. Bissmarck &amp; Co., AB.",
+        "location": "Göteborg",
+        "business": "Metall varufabrik och installationsfirma för gas, vatten och värme",
+        "products": "Tillverkar armatur för gas, vatten och ånga",
+        "contact": {
+            "office": "Kontor: 3:dje Långg. 13",
+            "phone": [
+                "170025"
+            ],
+            "postgiro": "42550"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": 32,
+            "annual_turnover": 1000000
+        },
+        "foundation_year": 1870,
+        "corporation_year": 1916,
+        "board": [
+            {
+                "name": "ing. C. G. Laurenius",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. B. G. Laurenius",
+                "role": ""
+            },
+            {
+                "name": "ing. Erik Levan",
+                "role": ""
+            }
+        ],
+        "director": "Erik Levan",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    }
+}

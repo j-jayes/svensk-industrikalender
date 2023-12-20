@@ -1,0 +1,158 @@
+{
+    "1": {
+        "name": "A. Fahlins Verkstads AB.",
+        "location": "Bollnäs",
+        "business": "Tillverkar foder- och höpressar, halmfläktar, gödselspridare, vedkapnings- och klyvmaskiner, vedelevatorer samt takspånhyvlar vid mek. verkstad i Bollnäs (Gävleb. l.). Varunamn: ”Stablan”, ”Hälsing” o. ”Sväng”.",
+        "contact": {
+            "office": "Bollnäs",
+            "phone": [
+                "10198"
+            ],
+            "postgiro": "281238",
+            "factory_office": "Bollnäs",
+            "factory_phone": "10198"
+        },
+        "financials": {
+            "capital": "50.500 kr",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "100,000 kr",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1913,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "verkm. Anders Fahlin",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 61.34837950000001,
+            "Longitude": 16.3942685
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Erik Fahlstrand",
+        "location": "Djurmo",
+        "business": "Tillverkar herrstrumpor vid fabrik i Djurmo (Kopparb. l.).",
+        "contact": {
+            "office": "Djurmo",
+            "phone": [
+                "Djurås 49"
+            ],
+            "postgiro": "95025"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "fabr. Erik Fahlstrand",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.5495902,
+            "Longitude": 15.1810152
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. Fajans Tegelbruk",
+        "location": "Falkenberg",
+        "business": "Tillverkar mur- och taktegel, håltegel, dräneringsrör samt såsom specialtillverkning håltegelbjälklag enligt system: »Sperle».",
+        "contact": {
+            "telegraph": "Fajans, Falkenberg",
+            "phone": [
+                "117",
+                "277"
+            ],
+            "postgiro": "11433"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "annual_production_value": "10 milj. st. tegelvaror"
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Rudolf Stahl",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.90273329999999,
+            "Longitude": 12.4888013
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "AB. Falbygdens Textilindustri",
+        "location": "Falköping",
+        "business": "Tillverkar dam- och herrunderkläder vid charmeuseväveri och konfektionsfabrik i Falköping (Skarab. l.).",
+        "contact": {
+            "phone": "1224",
+            "postgiro": "179917",
+            "representative": "Gustaf Anderson, Drottningg. 49, telefon: 490338"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 21
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "Oscar Svarén",
+                "role": "Verkst. direktör"
+            },
+            {
+                "name": "Arvid Svarén",
+                "role": "Verkst. direktör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Falkenbergs Metallförädling AB.",
+        "location": "Falkenberg",
+        "business": "Tillverkar belysningsarmatur, utför oxidering, förkromning, förnickling, försilvring, förkoppring samt kadmiering.",
+        "contact": {
+            "phone": "613",
+            "postgiro": "132386"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "490,000 kr"
+        },
+        "foundation_year": 1931,
+        "corporation_year": 1940,
+        "board": [
+            {
+                "name": "fabr. Holger Eklund",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.90273329999999,
+            "Longitude": 12.4888013
+        },
+        "cluster": 6
+    }
+}

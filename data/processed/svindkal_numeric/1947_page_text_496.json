@@ -1,0 +1,312 @@
+{
+    "1": {
+        "name": "Malmskogen",
+        "location": "Malmö",
+        "business": "Träindustri",
+        "contact": {
+            "office": "Kungsg. 4",
+            "sales_offices": [
+                {
+                    "location": "Göteborg, Arkaden",
+                    "phone": "unknown"
+                },
+                {
+                    "location": "Malmö, österg. 11",
+                    "phone": "unknown"
+                },
+                {
+                    "location": "Norrköping",
+                    "phone": "unknown"
+                },
+                {
+                    "location": "Gävle",
+                    "phone": "unknown"
+                },
+                {
+                    "location": "Örebro",
+                    "phone": "unknown"
+                },
+                {
+                    "location": "Linköping",
+                    "phone": "unknown"
+                }
+            ],
+            "postgiro": "34116",
+            "telegraph": "unknown"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "Antal industriarb.": 50
+            },
+            "annual_turnover": "unknown",
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1843,
+        "corporation_year": 1906,
+        "board": [
+            {
+                "name": "disp. Alexis Anderson",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. l£arl Högberg",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. J. Sande J:or",
+                "role": "unknown"
+            }
+        ],
+        "owners": [
+            "AB. Förenade Piano- & Örgelfabriker, Arvika"
+        ],
+        "director": "Alexis Anderson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Malmskogens Träindustri",
+        "location": "Linköping",
+        "business": "Tillverkar monteringsfärdiga trähus",
+        "contact": {
+            "phone": [
+                "97074"
+            ],
+            "postgiro": "34116"
+        },
+        "financials": {
+            "capital": 52000,
+            "employees": {
+                "Antal industriarb.": 50
+            },
+            "annual_turnover": "unknown",
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1933,
+        "current_name_year": 1942,
+        "board": [
+            {
+                "name": "dir. David A. Larsson (ordf.)",
+                "role": "unknown"
+            },
+            {
+                "name": "byggm. Elof O. Carlsson",
+                "role": "unknown"
+            },
+            {
+                "name": "disp. A. J. Larsson",
+                "role": "unknown"
+            }
+        ],
+        "managing_director": "David A. Larsson",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Lars Malmstedt",
+        "location": "Stockholm",
+        "business": "Mek. verkstad",
+        "contact": {
+            "office": "Råggatan 9",
+            "phone": [
+                "422329"
+            ],
+            "postgiro": "193048"
+        },
+        "financials": {
+            "capital": 5000,
+            "employees": {
+                "Antal industriarb.": 9
+            },
+            "annual_turnover": "unknown",
+            "annual_production_value": 100000
+        },
+        "foundation_year": 1943,
+        "corporation_year": 1945,
+        "director": "fabr. Lars Malmstedt",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Malmö Armaturfabrik",
+        "location": "Lomma",
+        "business": "Armatur- och metallfabrik samt metallgjuteri, förkromnings- och fömicklings-anstalt",
+        "contact": {
+            "office": "Lomma",
+            "phone": "Malmö 462520",
+            "postgiro": "38813"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "Antal industriarb.": 55
+            },
+            "corporation_year": 1907
+        },
+        "board": [
+            {
+                "name": "kontorschef Carl Kristensson",
+                "role": "unknown"
+            },
+            {
+                "name": "avd.-chef Gunnar Paulsson",
+                "role": "unknown"
+            },
+            {
+                "name": "ing. Olof Winkler",
+                "role": "unknown"
+            }
+        ],
+        "director": "Sture Wretborg",
+        "coordinates": {
+            "Latitude": 55.6731375,
+            "Longitude": 13.0674055
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Malmö Chokolad- & Konfektfabriks. AB.",
+        "location": "Malmö",
+        "business": "Tillverkar \"Mazetti\" choklad och cacao, marmelad, lakrits, karameller, dragéer, konfityrer och bageriartiklar samt glykos",
+        "contact": {
+            "office": "Malmö, Skolg. 24",
+            "phone": [
+                "\"Mazetti\" o. 70610"
+            ]
+        },
+        "financials": {
+            "capital": 1600000,
+            "employees": {
+                "Antal industriarb.": 420
+            },
+            "corporation_year": 1888
+        },
+        "board": [
+            {
+                "name": "bankdir. Algot Riider (ordf.)",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. Gunnar Mazetti-Nissen",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. Gösta Mazetti-Nissen",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. Hilding Ståhlbrandt",
+                "role": "unknown"
+            }
+        ],
+        "managing_director": "Gösta Mazetti-Nissen",
+        "sales_manager": "Gunnar Mazetti-Nissen",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Malmö Förenade Bryggerier",
+        "location": "Malmö",
+        "business": "Äger Malmquists Bryggeri, Richters Bryggeri och Richters Mälteri. Tillverkar malt och maltdrycker",
+        "contact": {
+            "office": "Ystadsvägen",
+            "phone": [
+                "25350"
+            ],
+            "postgiro": "unknown"
+        },
+        "financials": {
+            "capital": 5200000,
+            "employees": {
+                "Antal industriarb.": 105
+            },
+            "annual_turnover": 4000000
+        },
+        "corporation_year": 1912,
+        "board": [
+            {
+                "name": "dir. L. W. Malmquist (ordf.)",
+                "role": "unknown"
+            },
+            {
+                "name": "disp. C. E. Borgenstierna",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. Rich. Hain",
+                "role": "unknown"
+            },
+            {
+                "name": "disp. Fredrik Jungbeck",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. Erik Malmquist",
+                "role": "unknown"
+            }
+        ],
+        "director": "Erik Malmquist",
+        "vice_director": "Gunnar Malmquist",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Malmö Grafiska Anstalt",
+        "location": "Malmö",
+        "business": "Utför klichéer, foto- och autolitografi samt teckningar och maskinretusch",
+        "contact": {
+            "office": "Kalendeg. 10",
+            "phone": [
+                "24544",
+                "28280"
+            ],
+            "postgiro": "38099",
+            "telegraph": "unknown"
+        },
+        "financials": {
+            "capital": 35000,
+            "employees": {
+                "Antal industriarb.": 24
+            },
+            "annual_production_value": 250000
+        },
+        "corporation_year": 1912,
+        "board": [
+            {
+                "name": "hovint. John Kroon (ordf.)",
+                "role": "unknown"
+            },
+            {
+                "name": "kamrer Gösta Gustafsson",
+                "role": "unknown"
+            },
+            {
+                "name": "fru Ingrid Kroon",
+                "role": "unknown"
+            }
+        ],
+        "director": "John Kroon",
+        "kamrer": "Gösta Gustafsson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    }
+}

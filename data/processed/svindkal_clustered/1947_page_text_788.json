@@ -1,0 +1,211 @@
+{
+    "1": {
+        "name": "Kraft AB",
+        "location": "Örebro",
+        "business": "Distribution av elektr. kraft",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "19035"
+            ],
+            "postgiro": "271035"
+        },
+        "financials": {
+            "capital": "4,500,000 kr",
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1898,
+        "owners": [
+            "Kraft AB. Gullspång-Munkfors",
+            "Mariestad"
+        ],
+        "board": [
+            {
+                "name": "John Hedin",
+                "role": "ordf."
+            },
+            {
+                "name": "Gunnar Björkman",
+                "role": "disp."
+            },
+            {
+                "name": "Tore Hedin",
+                "role": "disp."
+            },
+            {
+                "name": "Claes Sandels",
+                "role": "kapten"
+            },
+            {
+                "name": "H. Seb. Tham",
+                "role": "disp."
+            },
+            {
+                "name": "Gottfrid Thermaenius",
+                "role": "dir."
+            }
+        ],
+        "director": "Tore Hedin",
+        "managing_director": "Konrad Schinkler",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Örebro Kexfabrik",
+        "location": "Örebro",
+        "business": "Tillverkar kex, wafers, karameller och dragéer",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "10431"
+            ],
+            "postgiro": "7832",
+            "telegraph": "Kexfabriken, Örebro",
+            "factory_phone": "10431"
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "annual_production_value": "5,300,000 kr"
+        },
+        "foundation_year": 1896,
+        "owners": [
+            "grossh. E. Melin, Tunnelg. 20"
+        ],
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Örebro Kvarn",
+        "location": "Örebro",
+        "business": "Tillverkar mjöl och kli",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "örebrokvarn"
+            ]
+        },
+        "financials": {
+            "capital": "950,000 kr"
+        },
+        "foundation_year": 1858,
+        "board": [
+            {
+                "name": "W. Risberg",
+                "role": "disp."
+            },
+            {
+                "name": "Gunnar Forsman",
+                "role": "dir."
+            },
+            {
+                "name": "Knut Lindström",
+                "role": "dir."
+            }
+        ],
+        "director": "Sven Svenson",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Örebro Nya Möbelfabrik",
+        "location": "Örebro",
+        "business": "Tillverkar affärsinredningar och möbler",
+        "contact": {
+            "phone": [
+                "11867"
+            ],
+            "postgiro": "30332"
+        },
+        "financials": {
+            "capital": "72,000 kr",
+            "annual_production_value": "215,000 kr"
+        },
+        "foundation_year": 1914,
+        "owners": [
+            "Skofabriks AB. Oscaria, Örebro"
+        ],
+        "director": "Sven Åqvist",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Örebro Pappersbruks AB.",
+        "location": "Örebro",
+        "business": "Pappersbruk och pappfabrik samt träsliperi",
+        "contact": {
+            "phone": [
+                "10766",
+                "12766",
+                "20800",
+                "12817"
+            ],
+            "postgiro": "8575"
+        },
+        "financials": {
+            "capital": "4,693,000 kr",
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1901,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "AB. Örebro Radiatorfabrik",
+        "location": "Örebro",
+        "business": "Mek. verkstad. Tillverkar plåtradiatorer",
+        "contact": {
+            "phone": [
+                "15123"
+            ],
+            "postgiro": "133304"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "annual_production_value": "550,000 kr"
+        },
+        "foundation_year": 1937,
+        "director": "Per A. Duberg",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Örebro Skjortfabrik",
+        "location": "Örebro",
+        "business": "Tillverkar herr- och gosskjortor, frack-och smokingskjortor, pyjamas och nattskjortor, kragar och kravatter",
+        "contact": {
+            "phone": [
+                "13093",
+                "17380"
+            ],
+            "postgiro": "91285"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1932,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    }
+}

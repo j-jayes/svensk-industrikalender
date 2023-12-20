@@ -1,0 +1,191 @@
+{
+    "1": {
+        "name": "Ortvikens Sulfitfabrik",
+        "location": "Sundsvall",
+        "business": "Sågverk och hyvleri",
+        "products": "Sågade och hyvlade trävaror, björkplywood och trävaror",
+        "contact": {
+            "office": "Pusterviksgatan 9",
+            "phone": [
+                "133767",
+                "111896"
+            ],
+            "postgiro": "12185",
+            "head_office": "Gust. Ad. torg 45, Malmö",
+            "sales_offices": [
+                {
+                    "location": "Osby",
+                    "phone": "234 o. 235"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 99000,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": 390000
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "R. Orstadius",
+                "role": "Ordförande"
+            },
+            {
+                "name": "D. Kanter",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "D. Kanter",
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Osby Sågverks AB.",
+        "location": "Osby",
+        "business": "Tillverkning av träbearbetnings-maskiner, tunnbinderimaskiner samt kullagertransmissioner",
+        "products": "Träbearbetnings-maskiner, tunnbinderimaskiner samt kullagertransmissioner",
+        "contact": {
+            "office": "Kristianst. l.",
+            "phone": [
+                "234",
+                "235"
+            ],
+            "postgiro": "37444"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_production_value": 390000
+        },
+        "foundation_year": 1922,
+        "director": "Tord Heime",
+        "coordinates": {
+            "Latitude": 56.3815355,
+            "Longitude": 13.9929413
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Oscaria Skofabrik",
+        "location": "Örebro",
+        "business": "Tillverkning av skor",
+        "contact": {
+            "office": "Göteborg 8",
+            "phone": [
+                "222342—43"
+            ],
+            "postgiro": "42517"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": "Ingen information",
+        "director": "Ingen information",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "AB. Oscarsdals Fabriker",
+        "location": "Lödöse",
+        "business": "Tillverkning av tätningsmedel för cement, betong och kalkbruk samt träimpregne-ringsmedel och färger",
+        "products": "Tätningsmedel för cement, betong och kalkbruk, träimpregne-ringsmedel och färger",
+        "contact": {
+            "office": "Kvilleg., Göteborg",
+            "phone": [
+                "222342—43"
+            ],
+            "postgiro": "42517"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1924,
+        "director": "Henry Lindström",
+        "coordinates": {
+            "Latitude": 58.03274090000001,
+            "Longitude": 12.1562058
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "AB. Oskarshamns Varv",
+        "location": "Oskarshamn",
+        "business": "Skeppsvarv med mekanisk verkstad och gjuteri",
+        "contact": {
+            "head_office": "Riddarg. 17, Stockholm",
+            "telegraph": "Mfe, Stockholm",
+            "phone": "Jungnerbolaget",
+            "postgiro": "1547",
+            "factory_office": "Oskarshamn",
+            "factory_phone": [
+                "24",
+                "724"
+            ]
+        },
+        "financials": {
+            "capital": 2760000,
+            "employees": {
+                "industriarb": 857
+            }
+        },
+        "foundation_year": 1863,
+        "corporation_year": 1932,
+        "board": [
+            {
+                "name": "civiling. Robert Amelia",
+                "role": "Ordförande"
+            },
+            {
+                "name": "bankdir. Allan Alexanderson",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Robert Ameln",
+        "manager": "Ingen information",
+        "coordinates": {
+            "Latitude": 57.26569929999999,
+            "Longitude": 16.4473984
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Oskarström Sulphite Mills AB.",
+        "location": "Oskarström",
+        "business": "Tillverkning av lättblekbar sulfitcellulosa",
+        "contact": {
+            "telegraph": "Sulfitfabriken, Oskarström",
+            "phone": "Oskarström 11, 29, 155 o. Halmstad 28",
+            "postgiro": "32408"
+        },
+        "financials": {
+            "capital": 3000000,
+            "employees": {
+                "industriarb": 140
+            },
+            "annual_production_value": "15,000 ton sulfitcellulosa"
+        },
+        "foundation_year": 1915,
+        "coordinates": {
+            "Latitude": 56.8025533,
+            "Longitude": 12.969062
+        },
+        "cluster": 2
+    }
+}

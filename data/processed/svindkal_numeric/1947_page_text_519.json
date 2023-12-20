@@ -1,0 +1,230 @@
+{
+    "1": {
+        "name": "Motala Täckfabriks AB.",
+        "location": "Motala",
+        "business": "Tillverkar täcken, madrasser och kuddar. Varumärke: \"Engel\"",
+        "contact": {
+            "phone": [
+                "\"Engel-Fabrikerna\""
+            ],
+            "postgiro": "163343"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 1750000,
+            "annual_production_value": 1750000
+        },
+        "foundation_year": 1939,
+        "owners": [
+            "Engelkoncernen, Motala"
+        ],
+        "board": [
+            {
+                "name": "dir. Gösta Engel",
+                "role": "Ordförande"
+            },
+            {
+                "name": "bankdir. G. Gyllensvärd",
+                "role": ""
+            },
+            {
+                "name": "bankdir. Sigurd Hellgrén",
+                "role": ""
+            }
+        ],
+        "director": "Gösta Engel",
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Motala Vaddfabrik",
+        "location": "Motala",
+        "business": "Tillverkar vadd, flock och madrasser. Varumärke: \"Mova\"",
+        "contact": {
+            "phone": [
+                "905"
+            ],
+            "postgiro": "33025"
+        },
+        "employees": 6,
+        "foundation_year": 1925,
+        "owner": "fru Ester Karlsson",
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Motala Verkstad",
+        "location": "Motala verkstad",
+        "business": "Mek. verkstad med grovplåtslageri och plåtpressverk samt järnverk med martinugnar, valsverk, smedjor och stålgjuteri. Tillverkar lokomotiv, ångpannor, ånggeneratorer, gasgeneratorer, broar och fackverk, maskiner och apparater för kemiska industrier, hydrauliska pressar, boardfabriksmaskiner, tillverkningsmaskiner för konstull och konstsilke, pressade tunnplåtsarbeten såsom köksinredningar o. d., smiden, stålgjutgods och valsjärn m. m.",
+        "contact": {
+            "telegraph": "Verkstaden, Motala",
+            "phone": "\"Motala Verkstad\", Motala",
+            "postgiro": "73751"
+        },
+        "financials": {
+            "capital": 4000000,
+            "employees": {
+                "industriarb": 1,
+                "Tillv.-värde pr år": 30000000
+            }
+        },
+        "foundation_year": 1822,
+        "board": [
+            {
+                "name": "ing. Axel Nyländer",
+                "role": "Ordförande"
+            },
+            {
+                "name": "apot. Gustaf Bernström",
+                "role": ""
+            },
+            {
+                "name": "dir. Wilhelm Björkman",
+                "role": ""
+            }
+        ],
+        "director": "Olof Sahlin",
+        "managing_director": "Olof Sahlin",
+        "coordinates": {
+            "Latitude": 58.55,
+            "Longitude": 15.066667
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Motor AB. Pythagoras",
+        "location": "Norrtälje",
+        "business": "Mek. verkstad och motorfabrik. Tillverkar råoljemotorer. Varumärke: \"Drott\"",
+        "contact": {
+            "telegraph": "Pythagoras, Norrtälje",
+            "phone": "50",
+            "postgiro": "84425"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 15
+            },
+            "foundation_year": 1933
+        },
+        "board": [
+            {
+                "name": "ing. Edvin Jönsson",
+                "role": "Ordförande"
+            }
+        ],
+        "director": "ing. Edvin Jönsson",
+        "coordinates": {
+            "Latitude": 59.7595841,
+            "Longitude": 18.7013584
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Motorfabriken, Stig Bramell",
+        "location": "Höör",
+        "business": "Mek. verkstad i Höör. Tillverkar elektr. motorpumpar (märke: \"Svea-pumpen\"), cylindriska kugghjul samt snäckväxlar.",
+        "contact": {
+            "phone": "54",
+            "postgiro": "269866"
+        },
+        "employees": 15,
+        "foundation_year": 1917,
+        "owner": "Stig Bramell",
+        "coordinates": {
+            "Latitude": 55.9348588,
+            "Longitude": 13.5395904
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Motorslip",
+        "location": "Malmö",
+        "business": "Mek. verkstad. Tillverkar bil-, motor-och kompressordetaljer, bergborrmaskiner, bil- och motorcykelreservdelar, verktyg, kugghjul, växellådor, verktygsmaskiner och specialmaskiner inom motorrenoveringsbranschen samt utför motorrenovering, cylinderborrning, vevaxelslipning och lagergjutning.",
+        "contact": {
+            "office": "Malmgatan 4",
+            "telegraph": "Motorslip, Malmö",
+            "phone": "72430",
+            "postgiro": "38787"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": 1300000
+        },
+        "board": [
+            {
+                "name": "landssekr. Hjalmar Kjäll",
+                "role": "Ordförande"
+            },
+            {
+                "name": "disp. John O. Andersson",
+                "role": ""
+            },
+            {
+                "name": "övering. Claes Andrén",
+                "role": ""
+            }
+        ],
+        "director": "Axel Löfström",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Mox",
+        "location": "Göteborg",
+        "business": "Kem.-teknisk fabrik och mek. verkstad i Tidaholm. Tillverkar värmebriketter (\"Mox-briketter\"), lödkolvar och lödapparater samt slaglod.",
+        "contact": {
+            "office": "Gullbergs Strandg. 13",
+            "telegraph": "Moxbrikett, Göteborg",
+            "phone": "154844",
+            "postgiro": "43268"
+        },
+        "financials": {
+            "capital": 40000,
+            "employees": 7,
+            "annual_turnover": 100000
+        },
+        "board": [
+            {
+                "name": "Olof Mellgren",
+                "role": "Verkställande direktör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Moälvens Träsliperi",
+        "location": "Örnsköldsvik",
+        "contact": {
+            "telegraph": "Moalv, Örnsköldsvik",
+            "phone": [
+                "1460",
+                "\"Mo och Domsjö\""
+            ]
+        },
+        "coordinates": {
+            "Latitude": 63.29004740000001,
+            "Longitude": 18.7166166
+        },
+        "cluster": 4
+    }
+}

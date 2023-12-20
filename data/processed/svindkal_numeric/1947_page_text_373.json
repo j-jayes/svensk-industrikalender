@@ -1,0 +1,250 @@
+{
+    "1": {
+        "name": "AB. Husinrede",
+        "location": "Ulricehamn",
+        "business": "Snickerifabrik",
+        "products": "Tillverkar fönster, dörrar, skåp och trappor",
+        "contact": {
+            "office": "Husinrede, Ulricehamn",
+            "phone": [
+                "574"
+            ],
+            "postgiro": "73178"
+        },
+        "financials": {
+            "capital": 10000,
+            "employees": {
+                "Arb.-antal": 9
+            },
+            "annual_turnover": 140000,
+            "annual_production_value": 140000
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "disp. J. F. Helge",
+                "role": "ordf."
+            },
+            {
+                "name": "verkm. Anders Helge",
+                "role": ""
+            },
+            {
+                "name": "stenarb. Svante Mattsson",
+                "role": ""
+            }
+        ],
+        "director": "J. F. Helge",
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Husqvarna Borstfabrik",
+        "location": "Huskvarna",
+        "business": "Tillverkar borstar och penslar",
+        "products": "Alla slag (speciellt för industriella behov), polér-skivor, gevärsputskäppar m.m.",
+        "contact": {
+            "telegraph": "Huskvarna borstfabrik",
+            "postgiro": "5419",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "205110 o. 205116"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 156750,
+            "employees": {
+                "Antal industriarb.": 275
+            },
+            "annual_turnover": 4000000,
+            "annual_production_value": 4000000
+        },
+        "foundation_year": 1896,
+        "corporation_year": 1911,
+        "board": [
+            {
+                "name": "dir. G. Emil Nilsson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Ragnar N:son Corenius",
+                "role": ""
+            },
+            {
+                "name": "herr G. A. Oxelqvist",
+                "role": ""
+            }
+        ],
+        "director": "G. Emil Nilsson",
+        "sales_manager": "Ragnar N:son Corenius",
+        "manager": "G. A. Oxelqvist",
+        "managing_director": "G. Emil Nilsson",
+        "coordinates": {
+            "Latitude": 57.7904141,
+            "Longitude": 14.2755781
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Husqvarna Vapenfabriks AB.",
+        "location": "Huskvarna",
+        "business": "Gevärsfaktori, symaskins-^ och cykelfabrik, gjuteri med emaljerings- och förtenningsverk, mek. verkstad m. m.",
+        "products": "Gjutgodsti 11 verkningen omfattar bl. a. byggnads- och handelsgjutgods, ved-, gas- och elspisar, kaminer, värmeledningspannor, värmeledningsradiatorer, sanitetsgods, förnicklade, förtenta och emaljerade hushållsartiklar samt el-artiklar",
+        "contact": {
+            "telegraph": "Vapenfabriken, Huskvarna",
+            "phone": "Huskvarna o. Jönköping: »Vapenfabriken»",
+            "postgiro": "8474"
+        },
+        "financials": {
+            "capital": 15000000,
+            "employees": {
+                "Antal industriarb. i Huskvarna": 671
+            },
+            "annual_turnover": 45000000
+        },
+        "foundation_year": 1689,
+        "corporation_year": 1867,
+        "board": [
+            {
+                "name": "dir. Gustaf Tham",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Sten S:son Ankarcrona",
+                "role": ""
+            },
+            {
+                "name": "f. d. hovrättsrådet Johan Nordenfalk",
+                "role": ""
+            },
+            {
+                "name": "bankdir. Gustaf Söderlund",
+                "role": ""
+            },
+            {
+                "name": "jägmäst. Gustaf H:son Tamm",
+                "role": ""
+            },
+            {
+                "name": "civiling. Stig Tham",
+                "role": ""
+            },
+            {
+                "name": "dir. Thure Öberg",
+                "role": ""
+            }
+        ],
+        "director": "Thure Öberg",
+        "managing_director": "Thure Öberg",
+        "coordinates": {
+            "Latitude": 57.7904141,
+            "Longitude": 14.2755781
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Husums Sulfatfabrik",
+        "location": "Husum",
+        "coordinates": {
+            "Latitude": 63.3369882,
+            "Longitude": 19.167396
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "Hvens Tegelbruks AB.",
+        "location": "S:t Ibb",
+        "business": "Tillverkar byggnadstegel",
+        "contact": {
+            "office": "S:t Ibb",
+            "phone": [
+                "Hven 2"
+            ],
+            "postgiro": "92590"
+        },
+        "financials": {
+            "capital": 600000,
+            "employees": {
+                "Antal industriarb.": 60
+            },
+            "annual_production_value": "6 milj. st. tegel"
+        },
+        "foundation_year": 1884,
+        "board": [
+            {
+                "name": "adv. Gunnar Wihlborg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. H. W. Boserup",
+                "role": ""
+            },
+            {
+                "name": "kamrer Chr. Aug. Lassen",
+                "role": ""
+            }
+        ],
+        "director": "H. W. Boserup",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "Hvetlanda Mek. Verkstad",
+        "location": "Vetlanda",
+        "business": "Tillverkar träbearbetningsmaskiner",
+        "contact": {
+            "office": "Verkstaden, Vetlanda",
+            "phone": [
+                "40 o. 400"
+            ],
+            "postgiro": "89988"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 15,
+                " 25 milj. st. tegel": null
+            },
+            "annual_production_value": 150000
+        },
+        "foundation_year": 1904,
+        "director": "ing. Oscar Sollin",
+        "coordinates": {
+            "Latitude": 57.42746,
+            "Longitude": 15.08533
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "AB. Hvetlanda Saft- & Syltfabrik",
+        "location": "Vetlanda",
+        "business": "Tillverkar fruktsafter, sylter och marmelad",
+        "products": "Varumärke: »Blå Bäret»",
+        "contact": {
+            "telegraph": "Saftfabriken, Vetlanda",
+            "phone": "240",
+            "postgiro": "15442"
+        },
+        "financials": {
+            "capital": 30050,
+            "employees": {
+                "Antal industriarb.": 16
+            },
+            "annual_production_value": 213000
+        },
+        "foundation_year": 1919,
+        "director": "disp. Arvid Ahlinder",
+        "coordinates": {
+            "Latitude": 57.42746,
+            "Longitude": 15.08533
+        },
+        "cluster": 2
+    }
+}

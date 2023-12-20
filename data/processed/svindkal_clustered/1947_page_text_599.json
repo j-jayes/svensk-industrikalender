@@ -1,0 +1,272 @@
+{
+    "1": {
+        "name": "Ryds Glasbruk, Wiking & Johansson",
+        "location": "Ryd",
+        "business": "Glasbruk",
+        "products": "Tillverkar medicinglas och tekniskt glas samt oslipat och slipat hushållsglas",
+        "contact": {
+            "office": "Ej angiven",
+            "phone": [
+                "77"
+            ],
+            "postgiro": "22517"
+        },
+        "financials": {
+            "capital": "Ej angiven",
+            "employees": {
+                "industriarb": 44
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "Ej angiven"
+        },
+        "foundation_year": 1923,
+        "owners": [
+            "August Wiking",
+            "Rigot Johansson"
+        ],
+        "director": "Ej angiven",
+        "coordinates": {
+            "Latitude": 58.4082716,
+            "Longitude": 15.5645529
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Rydahls Manufaktur AB",
+        "location": "Rydal",
+        "business": "Bomullsspinneri",
+        "products": "Tillverkar bomullsgarn. Specialitet: effektgarner",
+        "contact": {
+            "office": "Ej angiven",
+            "phone": [
+                "Kinna 4311"
+            ],
+            "postgiro": "37135"
+        },
+        "financials": {
+            "capital": "1,251,000 kr",
+            "employees": {
+                "industriarb": 314
+            },
+            "annual_turnover": "5,600,000 kr",
+            "annual_production_value": "Ej angiven"
+        },
+        "foundation_year": 1853,
+        "board": [
+            {
+                "name": "Clas Erikson",
+                "role": "ordf."
+            },
+            {
+                "name": "Torsten Ek",
+                "role": "ing."
+            },
+            {
+                "name": "John, O, Erikson",
+                "role": "dir."
+            },
+            {
+                "name": "Edvin Leffler",
+                "role": "dir."
+            }
+        ],
+        "owner": "Ej angiven",
+        "manager": "Ej angiven",
+        "coordinates": {
+            "Latitude": 57.55653520000001,
+            "Longitude": 12.6918137
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "AB. Ernst Hj. Rydahl",
+        "location": "Karlstad",
+        "business": "Bromsband-fabrik",
+        "products": "Tillverkar bromsband, bromsbelägg, lamellbelägg och konbelägg",
+        "contact": {
+            "office": "Ej angiven",
+            "phone": [
+                "10620"
+            ],
+            "postgiro": "85353"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "Ej angiven"
+        },
+        "foundation_year": 1914,
+        "director": "fabr. Knut Rydahl",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Rydaholms Tråd & Järnförädling",
+        "location": "Smålands Rydaholm",
+        "business": "Tillverkar emballagetråd alla slag, spiktråd samt förkopprad och blankdragen järntråd",
+        "contact": {
+            "office": "Ej angiven",
+            "phone": [
+                "70"
+            ],
+            "postgiro": "Ej angiven"
+        },
+        "financials": {
+            "capital": "Ej angiven",
+            "employees": {
+                "industriarb": 7
+            },
+            "annual_turnover": "Ej angiven",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1934,
+        "owner": "fabr. Axel Carlsson, fabr. Erik Carlsson, fabr. John Lindbladh",
+        "manager": "Axel Carlsson",
+        "coordinates": {
+            "Latitude": 56.9861429,
+            "Longitude": 14.3061766
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Sven Rydberg, Möbelfabrik",
+        "location": "Tibro",
+        "business": "Tillverkar matsals- och kompletteringsmöbler",
+        "contact": {
+            "office": "Ej angiven",
+            "phone": [
+                "280"
+            ],
+            "postgiro": "174967"
+        },
+        "financials": {
+            "capital": "Ej angiven",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "175,000 kr",
+            "annual_production_value": "Ej angiven"
+        },
+        "foundation_year": 1935,
+        "owner": "fabr. Sven Rydberg",
+        "manager": "Ej angiven",
+        "coordinates": {
+            "Latitude": 58.424323,
+            "Longitude": 14.1616418
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "Rydboholms AB.",
+        "location": "Rydboholm",
+        "business": "Väveri och spinneri",
+        "products": "Tillverkar blekta, färgade och tryckta bomulls- och konstsilkevavnader samt bomullsgarn",
+        "contact": {
+            "office": "Ej angiven",
+            "phone": [
+                "Ej angiven"
+            ],
+            "postgiro": "7714"
+        },
+        "financials": {
+            "capital": "4,500,000 kr",
+            "employees": {
+                "industriarb": 850
+            },
+            "annual_turnover": "15,000,000 kr",
+            "annual_production_value": "Ej angiven"
+        },
+        "foundation_year": 1834,
+        "board": [
+            {
+                "name": "Hugo Stenbéck",
+                "role": "ordf."
+            },
+            {
+                "name": "Clas Erikson",
+                "role": "v. ordf."
+            },
+            {
+                "name": "Torsten Ek",
+                "role": "ing."
+            },
+            {
+                "name": "Edvin Leffler",
+                "role": "dir."
+            },
+            {
+                "name": "T. Odqvist",
+                "role": "major"
+            }
+        ],
+        "manager": "Ej angiven",
+        "coordinates": {
+            "Latitude": 57.65492760000001,
+            "Longitude": 12.8842624
+        },
+        "cluster": 3
+    },
+    "7": {
+        "name": "Rydefors Glasbruk",
+        "location": "Rydefors",
+        "business": "Glasbruk",
+        "products": "Tillverkar tekniskt glas, parfym- och medicinglas",
+        "contact": {
+            "office": "Ej angiven",
+            "phone": [
+                "Hohultslätt 25"
+            ],
+            "postgiro": "32200"
+        },
+        "financials": {
+            "capital": "Ej angiven",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "830,000 kr",
+            "annual_production_value": "Ej angiven"
+        },
+        "owner": "Meijer & Co",
+        "director": "Emil Meijer",
+        "coordinates": {
+            "Latitude": 56.98333299999999,
+            "Longitude": 15.683333
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "AB. A. W. Rydén",
+        "location": "Nybro",
+        "business": "Träförädlingsfabrik",
+        "products": "Tillverkar likkistor och sarkofager, klädhängare m.m",
+        "contact": {
+            "office": "Ej angiven",
+            "phone": [
+                "58",
+                "84"
+            ],
+            "postgiro": "30071"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "Ej angiven",
+            "annual_production_value": "Ej angiven"
+        },
+        "foundation_year": 1904,
+        "manager": "A. W. Rydén",
+        "coordinates": {
+            "Latitude": 56.745012,
+            "Longitude": 15.907874
+        },
+        "cluster": 7
+    }
+}

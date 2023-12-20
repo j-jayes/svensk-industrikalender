@@ -1,0 +1,306 @@
+{
+    "1": {
+        "name": "Marieholm—Mark",
+        "location": "International, Göteborg",
+        "contact": {
+            "telegraph": "International, Göteborg",
+            "phone": [
+                "171090"
+            ],
+            "postgiro": "43368",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Blasieholmsg. 3",
+                    "phone": "112875"
+                },
+                {
+                    "location": "Malmö, St. Varvsg. 2",
+                    "phone": "26735"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1932,
+        "owners": [
+            "Färg AB"
+        ],
+        "board": [
+            {
+                "name": "generalkonsul Gunnar Carlsson",
+                "role": "ordf"
+            },
+            {
+                "name": "dir. K. R. Bökman",
+                "role": null
+            },
+            {
+                "name": "grossh. Victor Janson",
+                "role": null
+            }
+        ],
+        "director": "Rob. Johansson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Marieholms Tegelbruks AB",
+        "location": "Marieholm",
+        "contact": {
+            "phone": [
+                "1"
+            ],
+            "postgiro": "43368"
+        },
+        "financials": {
+            "capital": "50,200 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "900,000 st. tegelvaror"
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "civiling. Bonde Bondeson",
+                "role": "ordf"
+            },
+            {
+                "name": "disp. Egon Persson",
+                "role": "v. ordf."
+            },
+            {
+                "name": "lantbr. Eric Bondeson",
+                "role": null
+            },
+            {
+                "name": "köpm. Helge Persson",
+                "role": null
+            },
+            {
+                "name": "kamrer Sture Silve",
+                "role": null
+            }
+        ],
+        "director": "Rob. Johansson",
+        "coordinates": {
+            "Latitude": 55.8630742,
+            "Longitude": 13.150014
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "Marieholms Yllefabriks AB",
+        "location": "Marieholm",
+        "contact": {
+            "telegraph": "Marifa, Marieholm",
+            "phone": [
+                "Marifa, Marieholm"
+            ],
+            "postgiro": "8709",
+            "sales_offices": [
+                {
+                    "location": "Borås",
+                    "phone": "R. Uhlins Textilagentur, telefon: 11512"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "800,000 kr",
+            "employees": {
+                "industriarb": 275
+            },
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "dir. Thure Hallmark",
+                "role": "ordf"
+            },
+            {
+                "name": "dir.-assist. Hans Hallmark",
+                "role": null
+            },
+            {
+                "name": "adv. Sigfrid Lindström",
+                "role": null
+            },
+            {
+                "name": "adv. Gösta Wennerholm",
+                "role": null
+            }
+        ],
+        "director": "Thure Hallmark",
+        "coordinates": {
+            "Latitude": 55.8630742,
+            "Longitude": 13.150014
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "Mariestads Bryggeri AB",
+        "location": "Mariestad",
+        "contact": {
+            "telegraph": "Bryggeribolaget, Mariestad",
+            "phone": [
+                "47"
+            ],
+            "postgiro": "27311"
+        },
+        "financials": {
+            "capital": "420,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "880,000 kr"
+        },
+        "foundation_year": 1866,
+        "board": [
+            {
+                "name": "f. kapten C. G. Bendz",
+                "role": "ordf"
+            },
+            {
+                "name": "fru N. Collin",
+                "role": null
+            },
+            {
+                "name": "kamrer W. Falk",
+                "role": null
+            }
+        ],
+        "director": "C. G. Bendz",
+        "coordinates": {
+            "Latitude": 58.7101119,
+            "Longitude": 13.8213327
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "Mariestads Möbelfabrik",
+        "location": "Mariestad",
+        "contact": {
+            "phone": [
+                "363"
+            ],
+            "postgiro": "36898"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_production_value": "125,000 kr"
+        },
+        "foundation_year": 1916,
+        "coordinates": {
+            "Latitude": 58.7101119,
+            "Longitude": 13.8213327
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "AB. Mariestads Trikåfabrik",
+        "location": "Mariestad",
+        "contact": {
+            "phone": [
+                "169"
+            ],
+            "postgiro": "23774"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1932,
+        "coordinates": {
+            "Latitude": 58.7101119,
+            "Longitude": 13.8213327
+        },
+        "cluster": 4
+    },
+    "7": {
+        "name": "Marieströms Fabrik",
+        "location": "Gnosjö",
+        "contact": {
+            "phone": [
+                "16"
+            ],
+            "postgiro": "28327"
+        },
+        "financials": {
+            "employees": {
+                "antal": 10
+            }
+        },
+        "foundation_year": 1928,
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 4
+    },
+    "8": {
+        "name": "AB. Marks Jacquardväveri",
+        "location": "Björketorp",
+        "contact": {
+            "phone": [
+                "Kinna 60008"
+            ],
+            "postgiro": "22655",
+            "sales_offices": [
+                {
+                    "location": "Varberg",
+                    "phone": "1121"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "220,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "dir. Artur Persson",
+                "role": "ordf"
+            },
+            {
+                "name": "dir. Anders Ekelund",
+                "role": null
+            },
+            {
+                "name": "dir. Rob. Svedman",
+                "role": null
+            }
+        ],
+        "director": "Rob. Svedman",
+        "coordinates": {
+            "Latitude": 57.42690609999999,
+            "Longitude": 12.5240279
+        },
+        "cluster": 4
+    },
+    "9": {
+        "name": "Marks Linnemanufaktur AB",
+        "location": "Kungälv",
+        "coordinates": {
+            "Latitude": 57.86975400000001,
+            "Longitude": 11.9740317
+        },
+        "cluster": 4
+    }
+}

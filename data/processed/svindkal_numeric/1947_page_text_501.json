@@ -1,0 +1,251 @@
+{
+    "1": {
+        "name": "Marabou—Margarin",
+        "location": "Norrköping",
+        "business": "särskild tillverkning gängmaskiner och verktyg",
+        "contact": {
+            "telegraph": "Manus",
+            "phone": [
+                "Telefon: Manus"
+            ],
+            "postgiro": "26492"
+        },
+        "financials": {
+            "capital": 311500,
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": 3000000
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "adv. Axel Hemmar",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Alb. Änder",
+                "role": null
+            },
+            {
+                "name": "lantbrukare Bertil Änder",
+                "role": null
+            },
+            {
+                "name": "disp. Elis Ellison",
+                "role": null
+            },
+            {
+                "name": "apot. Lennart Ellison",
+                "role": null
+            }
+        ],
+        "director": "Elis Ellison",
+        "managing_director": "Lennart Ellison",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Marbodals Snickerifabrik AB.",
+        "location": "Tidaholm",
+        "business": "Tillverkar köksinredningar",
+        "contact": {
+            "phone": [
+                "Telefon: 410",
+                "Telefon: 710"
+            ],
+            "postgiro": null
+        },
+        "financials": {
+            "capital": 40000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 800000
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "disp. John Holmvik",
+                "role": null
+            },
+            {
+                "name": "verkm. Bror Holmvik",
+                "role": null
+            },
+            {
+                "name": "verkm. Ernst Holmvik",
+                "role": null
+            },
+            {
+                "name": "kamrer Ivar Holmvik",
+                "role": null
+            },
+            {
+                "name": "maskin-förm. Gunnar Holmvik",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.1817692,
+            "Longitude": 13.9594737
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "Marbäcks Fabriks AB.",
+        "location": "Marbäck",
+        "business": "Pappfabrik med träsliperi",
+        "contact": {
+            "telegraph": "Leatherboard, Halmstad",
+            "phone": [
+                "Telefon: Halmstad 420",
+                "Telefon: 320"
+            ],
+            "postgiro": "34776"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "2,000 ton papp"
+        },
+        "foundation_year": 1911,
+        "board": [
+            {
+                "name": "disp. Håkan Böhn",
+                "role": null
+            },
+            {
+                "name": "övering. Nils Enock Nilsson",
+                "role": null
+            }
+        ],
+        "director": "N. E. Nilsson",
+        "manager": "Erik H. Eriksson",
+        "coordinates": {
+            "Latitude": 57.7401023,
+            "Longitude": 13.4196967
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Isaac Marcus’ Boktryckeri AB.",
+        "location": "Stockholm",
+        "business": "Utför boktryck och bokbinderiarbeten",
+        "contact": {
+            "office": "Tryckerigatan 2"
+        },
+        "foundation_year": 1849,
+        "corporation_year": 1873,
+        "director": "fd. hovrättsrådet J. Nordenfalk",
+        "manager": "Napoleon Holm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "S. Marcussons Transportvagnfabrik",
+        "location": "Ängelholm",
+        "business": "Mek. verkstad. Tillverkar transportanordningar",
+        "contact": {
+            "telegraph": "Marco, Ängelholm",
+            "phone": [
+                "Telefon: Marco"
+            ],
+            "postgiro": "82715"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1936,
+        "owners": [
+            "fabr. Sven Marcusson"
+        ],
+        "sales_manager": "Eric Franck",
+        "coordinates": {
+            "Latitude": 56.245748,
+            "Longitude": 12.863881
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Margarin AB. Svea",
+        "location": "Kalmar",
+        "business": "Oljefabrik, raffinaderi och margarin-fabrik",
+        "contact": {
+            "phone": [
+                "Telefon: \"Margarinbolaget\""
+            ],
+            "postgiro": "6094"
+        },
+        "financials": {
+            "capital": 2000000,
+            "employees": {
+                "industriarb": 135
+            },
+            "annual_turnover": 20000000
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "adv. Dick Bergman",
+                "role": "ordf."
+            },
+            {
+                "name": "konsul Gösta J eansson",
+                "role": null
+            },
+            {
+                "name": "dir. Ragnar Jeansson",
+                "role": null
+            },
+            {
+                "name": "dir. René de Vries",
+                "role": null
+            }
+        ],
+        "director": "Ragnar Jeansson",
+        "manager": "Gösta Jeansson",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Margarin AB. Zenith",
+        "location": "Malmö",
+        "business": "Margarinfabrik",
+        "contact": {
+            "office": "Sallerupsvägen",
+            "telegraph": "Zenith, Malmö",
+            "phone": [
+                "Telefon: \"Margarinbolaget\""
+            ],
+            "postgiro": "38075"
+        },
+        "financials": {
+            "capital": 4000000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 7000000
+        },
+        "foundation_year": 1898,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    }
+}

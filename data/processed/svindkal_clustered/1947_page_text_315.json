@@ -1,0 +1,228 @@
+{
+    "1": {
+        "name": "Gemla Fabrikers AB",
+        "location": "Diö",
+        "business": "Snickeri- och möbelfabrik",
+        "products": "Kompletteringsmöbler, biograf- och teaterstolar, stoppmöbler, lasaretts- och sjukhusmöbler, kontorsstolar, rullstolar, tennisrackets, svarvgods m. m.",
+        "contact": {
+            "office": "Diö",
+            "phone": [
+                "Gemlabolaget"
+            ],
+            "postgiro": "8400",
+            "head_office": "Diö",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "626722 o. 675522"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "222920"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "528,000 kr",
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": "1,800,000 kr"
+        },
+        "foundation_year": 1870,
+        "board": [
+            {
+                "name": "disp. Olof Biesért",
+                "role": ""
+            },
+            {
+                "name": "assessor Robert Broms",
+                "role": ""
+            },
+            {
+                "name": "ing. Andr. H. Holden",
+                "role": ""
+            },
+            {
+                "name": "kamrer Finn Holden",
+                "role": ""
+            },
+            {
+                "name": "fru Siri Hölden",
+                "role": ""
+            }
+        ],
+        "manager": "Andr. H. Holden",
+        "coordinates": {
+            "Latitude": 56.641232,
+            "Longitude": 14.222439
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Gemla Leksaksfabrik",
+        "location": "Gemla",
+        "business": "Träförädlingsfabrik",
+        "products": "Massartiklar av trä, barnmöbler, undervisningsmateriel, svarvade träsaker m. m., trä-leksaker",
+        "contact": {
+            "phone": [
+                "Växjö 67104"
+            ],
+            "postgiro": "12791"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1892,
+        "owner": [
+            "Erik Wäsström",
+            "fru Elisabeth Wäsström",
+            "fröken Gertrud Wäsström"
+        ],
+        "manager": "Erik Wäsström",
+        "coordinates": {
+            "Latitude": 56.8672585,
+            "Longitude": 14.6436202
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "General Motors Nordiska AB",
+        "location": "Stockholm",
+        "business": "Automobilfabrik",
+        "products": "Person-och lastautomobiler, spårvagnar, rälsbussar, person-och busskarosserier, förarhytter, lastflak, skåpvagnar, släpvagnar, kylskåp, kylanläggningar, reservdelar, tillbehör för automobiler, oljeeldningsapparater, elektr. pumpar, elektricitetsverk, dammsugare",
+        "contact": {
+            "office": "Hammarbyvägen 13—25",
+            "postgiro": "2131"
+        },
+        "financials": {
+            "capital": "9,600,000 kr",
+            "employees": {
+                "industriarb": 510
+            }
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "dir. G. K. Howard",
+                "role": ""
+            },
+            {
+                "name": "kamrer G. Ragnar Möller",
+                "role": ""
+            },
+            {
+                "name": "dir. R. W. Seeley",
+                "role": ""
+            },
+            {
+                "name": "dir. C. O. Skriver",
+                "role": ""
+            },
+            {
+                "name": "ing. Bengt Welin",
+                "role": ""
+            },
+            {
+                "name": "ing. Albert Vennerholm",
+                "role": ""
+            }
+        ],
+        "director": "R. W. Seeley",
+        "manager": "C. O. Skriver",
+        "sales_manager": "S. V. Pedersen",
+        "fabrihschef": "B. Welin",
+        "disp.": "Viking Wennerholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Cense",
+        "location": "Eskilstuna",
+        "business": "Tillverkar kuvert- och hushållsartiklar samt restaurantartiklar i försilvrad al-pacca och rostfritt stål. Varunamn: »Gense».",
+        "contact": {
+            "telegraph": "Gense, Eskilstuna",
+            "phone": [
+                "Gense metall"
+            ],
+            "postgiro": "10703"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 425
+            },
+            "annual_turnover": "6,000,000 kr"
+        },
+        "foundation_year": 1898,
+        "original_name": "AB. Gustaf Erikssons Metallfabrik",
+        "corporation_year": 1946,
+        "owner": [
+            "fru I. Hedlund",
+            "fru Greta Broms",
+            "disp. Lars Hedlund"
+        ],
+        "manager": "Lars Hedlund",
+        "kontorschef": "Abel östlund",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "AB. Gentele & Co.",
+        "location": "Stockholm",
+        "business": "Färg- och fernissfabrik",
+        "products": "Kopal-, cellulosa- och spritfernissor, lack-, emulsions- och oljefärger, glasyrer, bonvax, varumärken: »Sjulack», »Minutlack», »Diamantlack», »Tellus», »Domus», »Long-John», »Momentfärg», »Gobeläng» o. »City»",
+        "contact": {
+            "office": "Midsommarkransen",
+            "postgiro": "117"
+        },
+        "financials": {
+            "capital": "550,000 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "kapten Raguel Essen",
+                "role": ""
+            },
+            {
+                "name": "dir. Herman W. Gentele",
+                "role": ""
+            },
+            {
+                "name": "fröken Käthy Gentele",
+                "role": ""
+            },
+            {
+                "name": "v. konsul Adolf Heljestrand",
+                "role": ""
+            },
+            {
+                "name": "fröken Tatjana Heljestrand",
+                "role": ""
+            }
+        ],
+        "managing_director": "Herman W. Gentele",
+        "manager": "Adolf Heljestrand",
+        "fabrihschef": "Josef W. Gentele",
+        "kamrer": "Orvar Borg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    }
+}

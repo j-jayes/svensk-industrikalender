@@ -1,0 +1,263 @@
+{
+    "1": {
+        "name": "Latexfabriken—Leidesdorffska",
+        "location": "Nordiska, Torekov",
+        "business": "Gummi- och latexprodukter",
+        "contact": {
+            "office": "Se Nordiska Latexfabriken, Torekov",
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "N/A"
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "disp. Lars Amundsen",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Petrus Hellman",
+                "role": "N/A"
+            },
+            {
+                "name": "adv. Wilhelm Moberg",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. C. A. Sikström",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.423635,
+            "Longitude": 12.6273003
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Lauxein-Casco",
+        "location": "Stockholm",
+        "business": "Kemisk-teknisk fabrik",
+        "products": "Tillverkar kallim, konsthartslim, färg, bonvax, betningsmedel m.m. Varumärken: »Casco», »Lauxein», »Lustra» o. »Panogen» m. fl.",
+        "contact": {
+            "office": "Kem. tekn. fabrik i Sickla, Stockholm",
+            "phone": [
+                "440800"
+            ],
+            "postgiro": "52544",
+            "telegraph": "Cascobolag, Stockholm"
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "6,000,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1929,
+        "current_name_year": 1930,
+        "board": [
+            {
+                "name": "disp. Lars Amundsen",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Petrus Hellman",
+                "role": "N/A"
+            },
+            {
+                "name": "adv. Wilhelm Moberg",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. C. A. Sikström",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Lavoné-fabriken, AB. Magnus Jernberg",
+        "location": "Karlstad",
+        "business": "Kemisk-teknisk fabrik",
+        "products": "Tillverkar tekniska och kosmetiska artiklar, fria läkemedel, bakpulver, malpreparat, tvätt- och skurmedel m.m. Varumärke: »Lavoné»",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "83985"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "Sven Hellman",
+                "role": "Disp."
+            }
+        ],
+        "manager": "Ragnar Nordquist",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Laxå Bruks AB., Laxå",
+        "location": "Laxå",
+        "business": "Järnbruk",
+        "products": "Tillverkar lancashiretackjärn, gjuteri-tackjärn, smältstycken, stålsand, barends, slaggull, sågade och hyvlade trävaror, byggnadssnickerier m.m.",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "'Laxåbruk'"
+            ],
+            "postgiro": "77827"
+        },
+        "financials": {
+            "capital": "2,000,000 kr",
+            "employees": {
+                "industriarb": 210
+            }
+        },
+        "foundation_year": 1872,
+        "board": [
+            {
+                "name": "dir. Axel Emilson",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Carl Emilson",
+                "role": "N/A"
+            },
+            {
+                "name": "ing. Solve Emilson",
+                "role": "N/A"
+            }
+        ],
+        "sales_manager": "Sture Olsson",
+        "manager": "Henry Blomqvist",
+        "coordinates": {
+            "Latitude": 58.98269,
+            "Longitude": 14.62289
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Laxå Pappersbruk, Örebro",
+        "location": "Örebro",
+        "business": "Pappersbruk",
+        "products": "Tillverkar oblekt och blekt M. G.-sul-fitpapper, blekt M. G.-kraftpapper, omslags- och påspapper, butelj- och toalettpapper samt paraffinerat och mönster-tryckt papper",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "'Johnsonhill, Örebro'"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "110,000 kr",
+            "employees": {
+                "industriarb": 80
+            }
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "disp. Olof Johnson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Erland Johnson",
+                "role": "N/A"
+            }
+        ],
+        "manager": "Olof Johnson",
+        "sales_manager": "Sigge Rudengren",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "AB. Lee Bruk, Ed",
+        "location": "Ed",
+        "business": "Sågverk och hyvleri",
+        "products": "Tillverkar sågade och hyvlade trävaror",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "Ed 28"
+            ],
+            "postgiro": "70723"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1910,
+        "manager": "Ole Anker Rasch (Halden, Norge)",
+        "managing_director": "Otto Sinclair",
+        "coordinates": {
+            "Latitude": 58.9122731,
+            "Longitude": 11.9327196
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "AB. Leidesdorffska Fiskredskaps-fabriken, Stockholm",
+        "location": "Stockholm",
+        "business": "Tillverkar fiskredskap",
+        "products": "Tillverkar fiskdrag av metall, handslagna och flätade revar, linor och snören, metspön, håvar och andra fiskredskap, monterar fisknät och skotar m.m.",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "102226"
+            ],
+            "postgiro": "1765",
+            "telegraph": "Leidesdorff, Stockholm"
+        },
+        "financials": {
+            "capital": "125,000 kr"
+        },
+        "foundation_year": 1861,
+        "board": [
+            {
+                "name": "civiling. Alb. Höekenström",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. Lars Dahlberg",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. Carl Edw. Leidesdorff",
+                "role": "N/A"
+            }
+        ],
+        "manager": "C. Edw. Leidesdorff",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    }
+}

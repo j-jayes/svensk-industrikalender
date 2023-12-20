@@ -1,0 +1,243 @@
+{
+    "1": {
+        "name": "Elsvets—Enmiab oda AB",
+        "location": "Göteborg",
+        "business": "Tillverkar apparater och tillbehör för såväl gas- som elektr. svetsning, elektroder för elektr. ljusbågssvetsning och metallarmatur för svetsning samt framställer syrgas.",
+        "contact": {
+            "office": "Frigången",
+            "telegraph": "El-gasvets, Göteborg",
+            "phone": [
+                "Elgasvets"
+            ],
+            "postgiro": "44915",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "328275"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "79345"
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": "58100"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "Carl Alfredson",
+                "role": "ordf."
+            },
+            {
+                "name": "H. Benjaminson",
+                "role": "kamrer"
+            },
+            {
+                "name": "Rolf Olsson",
+                "role": "avd.-chef"
+            },
+            {
+                "name": "Yngve Åsberg",
+                "role": "verkm."
+            }
+        ],
+        "director": "Carl Alfredson",
+        "manager": "Carl Alfredson",
+        "sales_manager": "B.-H. Berndtsson",
+        "managing_director": "Carl Alfredson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Eltron",
+        "location": "Stockholm",
+        "business": "Elektromek. verkstad. Tillverkar elektr. motstånd, potentiometrar, mätinstrument, elektr. materiel samt bakelitdetaljer. Bolaget driver även engroshandel med radiomateriel.",
+        "contact": {
+            "head_office": "Stockholm, Kronobergsg. 19",
+            "telegraph": "Eltron, Stockholm",
+            "phone": [
+                "507993—94"
+            ],
+            "postgiro": "57325",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "186718"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "250,000 kr",
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1934,
+        "director": "Paul Richter",
+        "manager": "Paul Richter",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Elvärme AB.",
+        "location": "Stockholm",
+        "business": "Elektromek. verkstad. Tillverkar elektr. värmeapparater såsom spisar, kokplattor, kokhällar, kaminer, termostater och strykjärn samt värmeskåp.",
+        "contact": {
+            "office": "Ulvsunda",
+            "phone": [
+                "Bröderna Engströms Elektr. AB., Stockholm, Tunnelg. 28 B"
+            ],
+            "postgiro": "57325"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1938,
+        "director": "Ernst Engström",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Emaljskyltfabriken Svea",
+        "location": "Fritsla",
+        "business": "Tillverkar emaljerade plåtskyltar och emaljerade kopparbokstäver vid fabrik i Fritsla (Älvsb. l.)",
+        "contact": {
+            "phone": [
+                "Kinna 70059"
+            ],
+            "postgiro": "30390"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "industriarb": 10
+            }
+        },
+        "coordinates": {
+            "Latitude": 57.5577891,
+            "Longitude": 12.7855095
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Eminentverktyg",
+        "location": "Brandstad & Mon-teen, Torshälla",
+        "business": "Järn- och metallmanufakturfabrik. Tillverkar verktyg samt hushållsartiklar",
+        "contact": {
+            "phone": [
+                "55111",
+                "55211"
+            ],
+            "postgiro": "84626"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 96
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 59.42129649999999,
+            "Longitude": 16.4769698
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Emmaboda Clasverk",
+        "location": "Emmaboda",
+        "business": "Fönsterglasverk i Emmaboda (Kalmar 1.). Tillverkar maskindraget fönsterglas",
+        "contact": {
+            "telegraph": "Glasverket, Emmaboda",
+            "phone": [
+                "40",
+                "200"
+            ],
+            "postgiro": "87345"
+        },
+        "financials": {
+            "capital": "315,000 kr",
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": "6,000,000 kr"
+        },
+        "foundation_year": 1933,
+        "coordinates": {
+            "Latitude": 56.63068550000001,
+            "Longitude": 15.540006
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "AB. Emmaboda Husinrede",
+        "location": "Emmaboda",
+        "business": "Tillverkar byggnadssnickerier och inredningar vid snickerifabrik i Emmaboda (Kalmar l.)",
+        "contact": {
+            "phone": [
+                "230"
+            ],
+            "postgiro": "172830"
+        },
+        "financials": {
+            "capital": "87,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "foundation_year": 1940,
+        "manager": "Arthur Tarre",
+        "coordinates": {
+            "Latitude": 56.63068550000001,
+            "Longitude": 15.540006
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "Emmaboda Möbelfabrik, Carlsson, Svensson & Co.",
+        "location": "Emmaboda",
+        "business": "Tillverkar möbler samt inredningar. Specialiteter: höj- och utdragbara bord samt sängkammarmöbler.",
+        "contact": {
+            "phone": [
+                "35"
+            ],
+            "postgiro": "22492"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 37
+            },
+            "annual_turnover": "330,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 56.63068550000001,
+            "Longitude": 15.540006
+        },
+        "cluster": 8
+    }
+}

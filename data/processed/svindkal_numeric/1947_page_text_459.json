@@ -1,0 +1,275 @@
+{
+    "1": {
+        "name": "L. E. Larsson & Co.",
+        "location": "Malung",
+        "business": "Tillverkar skinnbeklädnadsartiklar såsom skinntröjor, -jackor och -rockar, pälsar, handskar m. m.",
+        "contact": {
+            "telegraph": "Lelaco, Malung",
+            "phone": [
+                "114"
+            ],
+            "postgiro": "15146",
+            "factory_office": "Malung (Kopparb. l.)",
+            "factory_phone": "10"
+        },
+        "financials": {
+            "capital": 1500000,
+            "employees": {
+                "industriarb.": 12
+            },
+            "annual_turnover": 140000
+        },
+        "foundation_year": 1924,
+        "owners": [
+            "fru Anna Larsson",
+            "P. Albert Olsson"
+        ],
+        "director": "Herman Josén",
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. L. E. Larsson & Co.",
+        "location": "Uppsala",
+        "business": "Skofabrik. Tillverkar alla slags läderskodon",
+        "contact": {
+            "telegraph": "Hästen, Uppsala",
+            "phone": [
+                "Larsson & Compani"
+            ],
+            "postgiro": "23391"
+        },
+        "financials": {
+            "capital": 1500000,
+            "employees": {
+                "industriarb.": 250
+            },
+            "annual_turnover": 3500000
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "disp. Arne Larshammar",
+                "role": "ordf."
+            },
+            {
+                "name": "dr Elon Jonsson",
+                "role": ""
+            },
+            {
+                "name": "fru Edla Larsson",
+                "role": ""
+            }
+        ],
+        "director": "Arne Larshämmar",
+        "sales_manager": "Frans Johansson",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. Mats Larsson",
+        "location": "Malung",
+        "business": "Skinnklädersfabrik",
+        "contact": {
+            "phone": [
+                "10"
+            ],
+            "postgiro": "163377"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb.": 40
+            }
+        },
+        "foundation_year": 1941,
+        "director": "Erland Lissdaniels",
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Mauritz Larsson Byggnads AB.",
+        "location": "Eskilstuna",
+        "business": "Byggnadsentreprenörfirma för industribyggnader, bostads- och affärshus m. m.",
+        "contact": {
+            "phone": [
+                "30712",
+                "33712"
+            ],
+            "postgiro": "80053"
+        },
+        "financials": {
+            "capital": 100000,
+            "annual_turnover": 3000000
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "byggnadsing. Mauritz Larsson",
+                "role": "ordf."
+            },
+            {
+                "name": "byggnadsing. Gunnar Larsson",
+                "role": ""
+            }
+        ],
+        "director": "Mauritz Larsson",
+        "sales_manager": "Filip Ericsson",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "AB. O. Larsson & Co.",
+        "location": "Gävle",
+        "business": "Sågverk, hyvleri, listfabrik, snickeri-och skopliggfabrik. Tillverkar sågade och hyvlade trävaror, listverk, byggnadssnickerier, transportabla utställningshallar, inredningar, grövre möbler samt sko-pligg och pliggband m. m.",
+        "contact": {
+            "telegraph": "Larco, Gävle",
+            "phone": [
+                "8090"
+            ],
+            "postgiro": "70221"
+        },
+        "financials": {
+            "capital": 140000,
+            "employees": {
+                "industriarb.": 60
+            }
+        },
+        "foundation_year": 1872,
+        "corporation_year": 1908,
+        "board": [
+            {
+                "name": "ingenjör B. J. Wesström",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Curt Ekdahl",
+                "role": ""
+            },
+            {
+                "name": "dir. Harald Sjöström",
+                "role": ""
+            }
+        ],
+        "director": "Harald Sjöström",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Oskar Larsons Smidesverkstad AB.",
+        "location": "Stockholm",
+        "business": "Smidesverkstad och grovplåtslageri. Tillverkar hydroforer, vattenreningsfil-ter, värmepannor, byggnad^smiden och rörsmiden.",
+        "contact": {
+            "office": "Gasverksvägen, Hjorthagen",
+            "phone": [
+                "118428"
+            ],
+            "postgiro": "56136"
+        },
+        "financials": {
+            "capital": 80000,
+            "employees": {
+                "industriarb.": 35
+            },
+            "annual_turnover": 500000
+        },
+        "foundation_year": 1921,
+        "director": "fabr. Oskar Larson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. P. A. Larssons Gjuteri & Aduceringsverk",
+        "location": "Eskilstuna",
+        "business": "Tillverkar Ewarts- och stålbultskedjor, kättinghjul, elevatorskopor samt vanligt och aducerat gjutgods.",
+        "contact": {
+            "telegraph": "Aducerverk, Eskilstuna",
+            "phone": [
+                "30038"
+            ],
+            "postgiro": "10707"
+        },
+        "financials": {
+            "capital": 232000,
+            "employees": {
+                "industriarb.": 225
+            },
+            "annual_turnover": 3000000
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1907,
+        "board": [
+            {
+                "name": "dir. Per Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Karin Johansson",
+                "role": ""
+            },
+            {
+                "name": "grossh. Elis Karlson",
+                "role": ""
+            }
+        ],
+        "director": "Per Johansson",
+        "manager": "D. Ufer",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "Ragnar Larson & Co. AB.",
+        "location": "Sundsvall",
+        "business": "Ingenjörsfirman",
+        "description": "Se Ingeniörsfirman Ragnar Larson & Co. AB., Sundsvall.",
+        "foundation_year": 0,
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        },
+        "cluster": 1
+    },
+    "9": {
+        "name": "Ö. Ernst Larsson",
+        "location": "Malung",
+        "business": "Skinnvarufabrik i Malung (Kopparb. 1.). Tillverkar handskar och skinnkläder.",
+        "contact": {
+            "office": "Hilding Larsson"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb.": 20
+            },
+            "annual_turnover": 350000
+        },
+        "foundation_year": 1923,
+        "owner": "fabr. ö. Ernst Larsson",
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "1": {
+        "name": "Cullspångs Elektrokemiska AB",
+        "location": "Gullspång",
+        "business": "Elektriskt smältverk",
+        "products": "Tillverkar kiseljärn (ferro-silieium), ferromolybden, ferrowolfram samt elektrodmassa",
+        "contact": {
+            "office": "Elektriskt smältverk vid Gullspång (Skarab. l.)",
+            "phone": [
+                "14",
+                "136"
+            ],
+            "postgiro": "177917",
+            "telegraph": "Kiseljärn, Gullspång",
+            "factory_phone": "Factory phone number."
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "Annual turnover of the firm.",
+            "annual_production_value": "Annual production value."
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "disp. John Hedin",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl v. Delwig",
+                "role": ""
+            },
+            {
+                "name": "disp. Tore Hedin",
+                "role": ""
+            },
+            {
+                "name": "disp. Mårten Hedlund",
+                "role": ""
+            },
+            {
+                "name": "disp. Richard Hedlund",
+                "role": ""
+            },
+            {
+                "name": "kapten Claes Sandels",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.985467,
+            "Longitude": 14.096623
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Cummerat Papper",
+        "location": "Stockholm",
+        "business": "Tillverkar gummerade förseglingsremsor med eller utan firma- och reklamtryck",
+        "products": "Bolaget driver även försäljning av fuktapparater för pappersremsor.",
+        "contact": {
+            "office": "Agneg. 20",
+            "phone": [
+                "510043-44"
+            ],
+            "postgiro": "59566",
+            "telegraph": "Gum-pap, Stockholm"
+        },
+        "financials": {
+            "capital": "16,200 kr",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "fabr. Gunnar Holmgren",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Harald Mörck",
+                "role": ""
+            },
+            {
+                "name": "försäljn.-chef Lars-Ake Mörck",
+                "role": ""
+            },
+            {
+                "name": "löjtn. Sven-Gunnar Mörck",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Cummessons Boktryckeri AB",
+        "location": "Stockholm",
+        "business": "Utför boktryck för handel, industri och reklam",
+        "contact": {
+            "office": "Regeringsg. 28 A",
+            "phone": [
+                "104822",
+                "104832"
+            ],
+            "postgiro": "3841"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_production_value": "475,000 kr"
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "disp. Stig Franzén",
+                "role": ""
+            },
+            {
+                "name": "dir. Sven Löfberg",
+                "role": ""
+            },
+            {
+                "name": "disp. Josef Lönn",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "Gumpel & Bengtson AB",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m",
+        "contact": {
+            "office": "Birger Jarlsg. 31",
+            "phone": [
+                "232670"
+            ],
+            "postgiro": "151525",
+            "telegraph": "Gumpel, Stockholm"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1911,
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "ing. Max Gumpel",
+                "role": "ordf."
+            },
+            {
+                "name": "herr Bengt Gumpel",
+                "role": ""
+            }
+        ],
+        "managing_director": "Max Gumpel",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    }
+}

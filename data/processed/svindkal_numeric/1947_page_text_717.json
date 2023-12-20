@@ -1,0 +1,240 @@
+{
+    "1": {
+        "name": "Tidan—Timmergata",
+        "location": "Mariestad",
+        "business": "Tillverkning av kugghjul, fabrikvagnar, olika typer av lådor, spinnkannor, packningar och friktionsskivor av vulkanfiber.",
+        "products": "Varumärke: »Unica».",
+        "contact": {
+            "office": "Unica, Mariestad",
+            "phone": [
+                "Telefon: 30636"
+            ],
+            "postgiro": "30636",
+            "head_office": "Unica, Mariestad",
+            "telegraph": "Unica, Mariestad",
+            "factory_office": "Unica, Mariestad",
+            "factory_phone": "Unica, Mariestad"
+        },
+        "financials": {
+            "capital": 600000,
+            "employees": {
+                "industriarb": 350
+            },
+            "annual_turnover": 5000000,
+            "annual_production_value": 5000000
+        },
+        "foundation_year": 1898,
+        "owners": [
+            "Katrinefors AB"
+        ],
+        "board": [
+            {
+                "name": "Axel Brandin",
+                "role": "ordf."
+            },
+            {
+                "name": "Richard Hedlund",
+                "role": "dir."
+            },
+            {
+                "name": "Sten Sundgren",
+                "role": "dir."
+            }
+        ],
+        "director": "Richard Hedlund",
+        "managing_director": "Richard Hedlund",
+        "coordinates": {
+            "Latitude": 58.7101119,
+            "Longitude": 13.8213327
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Tidans Ullspinneri, F. o. S. Kämpe",
+        "location": "Uttervad",
+        "business": "Tillverkning av ullgarner, filtar samt flock och vadd vid ullspinneri och väveri.",
+        "contact": {
+            "phone": [
+                "Telefon: 6"
+            ],
+            "postgiro": "70914"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 350000,
+            "annual_production_value": 350000
+        },
+        "foundation_year": 1891,
+        "owners": [
+            "Folke Kämpe",
+            "Stig Kämpe"
+        ],
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "J. H. Tidbeck AB., Stockholm",
+        "business": "Tillverkning av metallduksväv och metalltrådvaror som vävda och flätade tråddukar, rabitz och monjérduk, skyddsgaller för hissar, stängselnät, pressade trådgaller, perforerade plåtar, transportband samt andra metalltrådsarbeten.",
+        "contact": {
+            "office": "Malmgårdsv. 32, Stockholm",
+            "phone": [
+                "Telefon: 433238",
+                "Telefon: 433251",
+                "Telefon: 437223"
+            ],
+            "postgiro": "3174"
+        },
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 950000
+        },
+        "corporation_year": 1940,
+        "board": [
+            {
+                "name": "Herman Tidbeck",
+                "role": "ordf."
+            },
+            {
+                "name": "Gösta Tidbeck",
+                "role": "dir.-assist."
+            },
+            {
+                "name": "Sture Tidbeck",
+                "role": "disp."
+            }
+        ],
+        "director": "Herman Tidbeck",
+        "cluster": 3
+    },
+    "4": {
+        "name": "B. Tielman, Linköping",
+        "business": "Tillverkning av pappersbägare, tallrikar, fat, kartonger, pappersformar, tårt- och fatpapper, tårtbrickor, serviettväskor samt filtrerpapper.",
+        "contact": {
+            "office": "Betielman, Linköping",
+            "phone": [
+                "Telefon: 29730"
+            ],
+            "postgiro": "72702"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 700000
+        },
+        "foundation_year": 1931,
+        "director": "Bertil Tielman",
+        "cluster": 5
+    },
+    "5": {
+        "name": "AB. Tika, Stockholm",
+        "business": "Tillverkning av farmaceutiska preparat vid fabrik i Hässleholm (Kristianst. l.).",
+        "products": "Varumärken: »Tika» o. »Rila».",
+        "contact": {
+            "office": "Flemingg. 75, Stockholm",
+            "phone": [
+                "Telefon: 520330"
+            ],
+            "postgiro": "25309"
+        },
+        "financials": {
+            "capital": 233000
+        },
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "Tore Grönwall",
+                "role": "ordf."
+            },
+            {
+                "name": "Gösta Lagergren",
+                "role": "dir."
+            },
+            {
+                "name": "Wilhelm Moberg",
+                "role": "adv."
+            }
+        ],
+        "director": "Gösta Lagergren",
+        "cluster": 2
+    },
+    "6": {
+        "name": "Tillberga Gjuter i, Johansson & Co.",
+        "location": "Västerås",
+        "business": "Tackjärnsgjuteri i Tillberga (Västmanl. l.). Tillverkar maskingjutgods. Specialitet: grövre handformat gods.",
+        "contact": {
+            "office": "Tillberga, Västerås",
+            "phone": [
+                "Telefon: 30225"
+            ],
+            "postgiro": "75384"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "1,500 ton gjutgods"
+        },
+        "director": "David Sjölander",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Timander, Bröderna, Lastad",
+        "cluster": 4
+    },
+    "8": {
+        "name": "Timber Trading Co. AB., Göteborg",
+        "business": "Sågverk och hyvleri. Tillverkar sågade och hyvlade trävaror. Bolaget driver även handel med byggnadsmateriel.",
+        "contact": {
+            "office": "Linnég. 72—74, Göteborg",
+            "phone": [
+                "Telefon: 174665"
+            ],
+            "postgiro": "41811"
+        },
+        "financials": {
+            "capital": 225000,
+            "employees": {
+                "industriarb": 27
+            }
+        },
+        "corporation_year": 1926,
+        "board": [
+            {
+                "name": "Ernst Falksten",
+                "role": "ordf."
+            },
+            {
+                "name": "Alfred Olsson",
+                "role": "dir."
+            }
+        ],
+        "director": "E. Falksten",
+        "manager": "John H. Raftell",
+        "cluster": 7
+    },
+    "9": {
+        "name": "Timmergata Tegelbruk, Norrköping",
+        "business": "Tillverkning av murtegel vid tegelbruk i Timmergata, Krokek (Östergötl. l.).",
+        "contact": {
+            "office": "AB. P. Janson & Co., Norrköping",
+            "phone": [
+                "Telefon: »P. Jansons»"
+            ],
+            "postgiro": "28334"
+        },
+        "cluster": 0
+    }
+}

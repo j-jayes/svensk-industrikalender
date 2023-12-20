@@ -1,0 +1,184 @@
+{
+    "1": {
+        "name": "Fritsla Konfektionsfabrik, Fritsla",
+        "location": "Fritsla (Älvsb. L)",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar herr- och gosskläder samt dam-och flickkappor. Varumärke: »Atlas».",
+        "contact": {
+            "phone": [
+                "70058"
+            ],
+            "postgiro": "10207"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 97
+            },
+            "annual_turnover": "1,025,000 kr"
+        },
+        "foundation_year": 1905,
+        "current_name_year": 1943,
+        "coordinates": {
+            "Latitude": 57.5577891,
+            "Longitude": 12.7855095
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. Fritsla Linneväveri, Fritsla",
+        "location": "Fritsla (Älvsb. l.)",
+        "business": "Tillverkar gardiner, skj orttyger, linnevaror m. in. vid väveri",
+        "contact": {
+            "phone": [
+                "70104"
+            ],
+            "postgiro": "87420"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "corporation_year": 1931,
+        "coordinates": {
+            "Latitude": 57.5577891,
+            "Longitude": 12.7855095
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "Fritsla Trikåstickeri, Johanson & Co., Fritsla",
+        "location": "Fritsla (Älvsb. l.)",
+        "business": "Tillverkar herr- och gossunderkläder i lahmansstickning vid fabrik",
+        "products": "Varumärke: »Åve».",
+        "contact": {
+            "phone": "Kinna 70121",
+            "postgiro": "81984"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "250,000 kr"
+        },
+        "owners": [
+            "fabr. Åke Johanson",
+            "fabr. Wilh. Johansson"
+        ],
+        "foundation_year": 1931,
+        "coordinates": {
+            "Latitude": 57.5577891,
+            "Longitude": 12.7855095
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Erik Frosts Knivfabrik, Mora",
+        "location": "Mora (Kopparb. l.)",
+        "business": "Smidesfabrik",
+        "products": "Tillverkar tälj- och slidknivar, hushålls-, sport- och yrkesknivar.",
+        "contact": {
+            "phone": [
+                "88",
+                "388",
+                "788"
+            ],
+            "postgiro": "6341"
+        },
+        "financials": {
+            "employees": 50,
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1891,
+        "coordinates": {
+            "Latitude": 61.004878,
+            "Longitude": 14.537003
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Fruetus Fabriker, Ulvsunda",
+        "location": "Ulvsunda, Stockholm",
+        "business": "Fabrik för närings- och aromatiska produkter",
+        "products": "Tillverkar saftkoncentrat, fruktextrakter och essenser för läskedrycksfabriker (märke: »Pommac» m. fl.) och för saft- och karamellindustrien samt torkade nypon.",
+        "contact": {
+            "office": "Ulvsundavägen 108",
+            "telegraph": "Fructarom, Stockholm",
+            "phone": "252630",
+            "postgiro": "1441"
+        },
+        "financials": {
+            "capital": "410,000 kr",
+            "employees": 25
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1930,
+        "coordinates": {
+            "Latitude": 59.33688530000001,
+            "Longitude": 17.9638876
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Dan. Frändberg, Göteborg",
+        "location": "Göteborg",
+        "business": "Byggnadsentreprenörfirma",
+        "products": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "office": "Kyrkog. 4",
+            "phone": [
+                "113980",
+                "138751",
+                "134033"
+            ],
+            "postgiro": "41006"
+        },
+        "financials": {
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1916,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "Erik I. Frändbergs Snickeri- & Karosseriverkstad, Västerås",
+        "location": "Västerås",
+        "business": "Tillverkar karosserier till butikvagns-, skåpvagns- och ambulansbilar, lastflak för automobiler samt transportabla fisk- torgståndsvagnar.",
+        "contact": {
+            "phone": "31238",
+            "postgiro": "33916"
+        },
+        "financials": {
+            "employees": 5,
+            "annual_production_value": "80,000 kr"
+        },
+        "foundation_year": 1922,
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Fränkel & Elsner, Göteborg",
+        "location": "Göteborg",
+        "business": "Madrass- och resårfabrik",
+        "products": "Tillverkar madrasser, plymåer samt resårer. Varumärke: »Eisa». Bolaget driver såsom huvudrörelse engroshandel med möbeltyger, mattor och stoppningsmaterialier.",
+        "contact": {
+            "office": "Andra Långg. 9",
+            "telegraph": "Eisner, Göteborg",
+            "phone": "170545",
+            "postgiro": "40599"
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 8
+    }
+}

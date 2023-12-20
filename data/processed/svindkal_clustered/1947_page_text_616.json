@@ -1,0 +1,155 @@
+{
+    "1": {
+        "name": "F. Sjöström, Snickerifabrik",
+        "location": "Gällivare",
+        "business": "Tillverkning av inredningar för butiker, frisersalonger och kök, byggnadssnickerier",
+        "products": "Inredningar, dörrar, fönster, trappor, träfiberplattor, kryssfanér",
+        "contact": {
+            "office": "Gällivare",
+            "phone": [
+                "177"
+            ],
+            "postgiro": "61233",
+            "factory_office": "Gällivare",
+            "factory_phone": "177",
+            "telegraph": "Gällivare",
+            "head_office": "Gällivare"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "150,000 kr",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1928,
+        "owner": "Fabr. Johan F. Sjöström",
+        "coordinates": {
+            "Latitude": 67.1379,
+            "Longitude": 20.6593618
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Sjötofta Tråddrageri",
+        "location": "Sjötofta",
+        "business": "Tillverkning av järntråd, taggtråd, bandtråd, trådmanufaktur",
+        "contact": {
+            "phone": [
+                "Svenljunga 63013"
+            ],
+            "postgiro": "87380",
+            "telegraph": "Tråddrageriet, Sjötofta"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "1,700,000 kr",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1913,
+        "owner": "Not available",
+        "coordinates": {
+            "Latitude": 57.35809870000001,
+            "Longitude": 13.2891576
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Sjötorps Sågverk",
+        "location": "Sjötorp",
+        "business": "Not available",
+        "financials": {
+            "capital": "Not available",
+            "employees": "Not available",
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": "Not available",
+        "owner": "Sixten Groths Eftr.",
+        "coordinates": {
+            "Latitude": 58.8365715,
+            "Longitude": 13.9804666
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Sjöös Fabriks AB.",
+        "location": "Hagalund",
+        "business": "Tillverkning av rostfria arbeten för sjukhus, hushåll och restauranger, smidesverkstad",
+        "products": "Värmebord, värmeskåp, grillar, diskbänkar, tvättrännor, bardiskar, mattransportvagnar",
+        "contact": {
+            "office": "Hagalund",
+            "phone": [
+                "Stockholm 274310—11"
+            ],
+            "postgiro": "53916"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1927,
+        "corporation_year": 1937,
+        "owner": "Not available",
+        "coordinates": {
+            "Latitude": 59.3638177,
+            "Longitude": 18.0157976
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Skagersviks Nya Träindustri AB.",
+        "location": "Skagersvik",
+        "business": "Tillverkning av sågade och hyvlade trävaror, monteringsfärdiga trähus, träkol",
+        "products": "Sågade och hyvlade trävaror, trähus, träkol",
+        "contact": {
+            "telegraph": "Skagersåg, # Gullspång",
+            "phone": [
+                "Gullspång »Skagerviksbolagen»"
+            ],
+            "postgiro": "146033"
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "3,500 stds sågade o. hyvlade trävaror, 500,000 kbft trähus o. 2,000 kbm träkol"
+        },
+        "foundation_year": 1925,
+        "corporation_year": 1938,
+        "owner": "Not available",
+        "coordinates": {
+            "Latitude": 58.9672922,
+            "Longitude": 14.1052112
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Skandia, Elektriska AB.",
+        "location": "Stockholm",
+        "business": "Not available",
+        "financials": {
+            "capital": "Not available",
+            "employees": "Not available",
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": "Not available",
+        "owner": "Not available",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    }
+}

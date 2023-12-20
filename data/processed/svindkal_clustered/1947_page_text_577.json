@@ -1,0 +1,233 @@
+{
+    "1": {
+        "name": "K. Petrelius Smides- o. Mek. Verkstad",
+        "location": "Stockholm",
+        "business": "Tillverkar byggnads-, konst- och ornamentsmiden samt vändkors och spärr-grindar",
+        "contact": {
+            "office": "Hantverkarg. 38",
+            "phone": [
+                "533252"
+            ],
+            "postgiro": "2658"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "Arbetsantal": 12
+            },
+            "annual_turnover": "150,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1911,
+        "owner": "fabr. Knut Petrelius",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "Peterson & Co.",
+        "location": "Ulricehamn",
+        "business": "Konfektionsfabrik. Tillverkar herr- och gosskonfektion samt sport- och arbetskläder",
+        "contact": {
+            "phone": [
+                "326"
+            ],
+            "postgiro": "22005"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": "N/A",
+            "annual_turnover": "1,350,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1921,
+        "owner": "grossh. Peter Tellow",
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Pettersson, Engström & Co.",
+        "location": "Norrköping",
+        "business": "Mek. verkstad med smedja, grovplåtslageri och maskinverkstad. Tillverkar cisterner, järnkonstruktioner, grovplåts-arbeten och grovsmiden; utför fartygsreparationer, maskinarbeten samt gas- o. elektrisk svetsning",
+        "contact": {
+            "telegraph": "Peco, Norrköping",
+            "phone": "21976",
+            "postgiro": "90310"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "Antal industriarb": 25
+            },
+            "annual_turnover": "225,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1909,
+        "owner": "fabr. Henning S. Pers",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Pettersson & Perssons Möbelfabriks AB.",
+        "location": "Bjärnum",
+        "business": "Tillverkar lackerade möbler, spec. sängkammarmöbler vid fabrik i Bjärnum (Kristianst. l.)",
+        "contact": {
+            "phone": "11",
+            "postgiro": "72081"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "Antal industriarb": 45
+            },
+            "annual_turnover": "350,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1895,
+        "corporation_year": 1928,
+        "owner": "Hartvig Persson",
+        "coordinates": {
+            "Latitude": 56.2914154,
+            "Longitude": 13.7097126
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "AB. Pettersson & Tisell",
+        "location": "Kinnahult",
+        "business": "Jacquardväveri och trikåfabrik i Eke-bo, Kinnahult (Älvsb. l.). Tillverkar krag-skyddare, schalar och huvuddukar i ylle, bomull och siden samt jumpers, koftor, mössor och herrvästar i trikå",
+        "contact": {
+            "phone": "Kinna 10012 o. 10062",
+            "postgiro": "84600"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "Antal industriarb": 75
+            },
+            "annual_turnover": "1,500,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1885,
+        "corporation_year": 1928,
+        "board": [
+            {
+                "name": "med. dr F. Tisell",
+                "role": "ordf."
+            },
+            {
+                "name": "övering. V. Christiansen",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. Asbjörn Jonassen",
+                "role": "N/A"
+            }
+        ],
+        "director": "Asbjörn Jonassen",
+        "coordinates": {
+            "Latitude": 57.5270879,
+            "Longitude": 12.7293925
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Arvid Petersson",
+        "location": "Stockaryd",
+        "business": "Tillverkar sågade och hyvlade trävaror, läkt och ribb, hyvlade takstickor samt sågad takspån vid sågverk och hyvleri i Stockaryd (Jönköp. l.)",
+        "contact": {
+            "phone": "30"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "Arb.-antal": 12
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1920,
+        "owner": "trävaruhandl. Arvid Petersson",
+        "coordinates": {
+            "Latitude": 57.3196489,
+            "Longitude": 14.5937415
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "AB. C. A. Petterson",
+        "location": "Norrköping",
+        "business": "Herrkonfektionsfabrik. Tillverkar herrkläder",
+        "contact": {
+            "office": "N. Kungsg. 9",
+            "phone": [
+                "21761"
+            ],
+            "postgiro": "6319"
+        },
+        "financials": {
+            "capital": "139,025 kr",
+            "employees": {
+                "Antal industriarb": 150
+            },
+            "annual_turnover": "1,300,000 kr",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "dir. Gunnar W. Anderson",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Ernst P:son Caap",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. Carl P:son Cahp",
+                "role": "N/A"
+            }
+        ],
+        "director": "Carl P:son Cahp",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "AB. C. E. Petterssons Träförädlings-fabrik",
+        "location": "Valdemarsvik",
+        "business": "Sågverk, hyvleri och kolugnar vid Grännäset invid Valdemarsvik samt sågverk vid Fåfalla och Skedshult (båda i Kalmar l.). Tillverkar sågade och hyvlade trävaror samt pappersved och träkol. Bolaget idkar jämväl skogsbruk samt handel med trävaror, träfiberplattor och plywood",
+        "contact": {
+            "phone": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "predecessor": "N/A",
+        "foundation_year": "N/A",
+        "corporation_year": "N/A",
+        "owners": "N/A",
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 58.20245139999999,
+            "Longitude": 16.6013626
+        },
+        "cluster": 7
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "1": {
+        "name": "Dockans Fabriks AB",
+        "location": "Söderköping",
+        "business": "Mekanisk verkstad, förnicklings- och snickerifabrik",
+        "contact": {
+            "office": "Söderköping",
+            "phone": "435",
+            "postgiro": "131783"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "Erik Wäström",
+                "role": "Verkställande direktör (Norrköping)"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.4759013,
+            "Longitude": 16.3234307
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Domkraft AB",
+        "location": "Nike, Eskilstuna",
+        "business": "Mekanisk verkstad och aduceringsgjuteri",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": "32439, 34469, 35669, 30811",
+            "postgiro": "85282",
+            "telegraph": "Nikedomkraft, Eskilstuna"
+        },
+        "financials": {
+            "capital": 550000,
+            "employees": {
+                "industriarb": 105
+            }
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "Ordförande"
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "Filosofie licentiat"
+            },
+            {
+                "name": "Hj. Degerstedt",
+                "role": "Direktör"
+            },
+            {
+                "name": "Hugo Eclstam",
+                "role": "Direktör"
+            },
+            {
+                "name": "G. Osvalcl",
+                "role": "Direktör"
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "Direktör"
+            }
+        ],
+        "director": "Herbert Landin",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Domnarfvets Jernverk",
+        "location": "Domnarvet",
+        "business": "Järn- och stålverk",
+        "contact": {
+            "office": "Borlänge",
+            "phone": "Domnarfvets Jernverk, Borlänge",
+            "telegraph": "Jernverket, Domnarvet"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 2700
+            },
+            "annual_production_value": "200,000 ton järnvaror"
+        },
+        "board": [
+            {
+                "name": "Sixten Wohlfahrt",
+                "role": "Verkschef"
+            },
+            {
+                "name": "Sven v. Hofsten",
+                "role": "Övering. (överingenjör)"
+            },
+            {
+                "name": "Bror Hanson",
+                "role": "Försäljningschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.5002563,
+            "Longitude": 15.4551433
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Domsands Verkstads AB",
+        "location": "Bankeryd",
+        "business": "Tillverkning av pressade massartiklar för radio- o. elarmatur, penselringar m. m.",
+        "contact": {
+            "office": "Bankeryd",
+            "phone": "194",
+            "postgiro": "173799"
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": 425000
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "Eskil H. Bengtson",
+                "role": "Verkställande direktör"
+            },
+            {
+                "name": "Peter Räf",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.8574137,
+            "Longitude": 14.1312259
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Dorclt, Bäcksin & Co:s AB.",
+        "location": "Göteborg",
+        "business": "Färg-, ferniss- och kem.-tekn. fabrik vid Agnesberg (Älvsb. l.)",
+        "contact": {
+            "office": "Göteborg",
+            "phone": "N. Hamng. 24",
+            "postgiro": "44000",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Brunkebergsg. 3, 102456"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "Hermansg. 7, 18770"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 1250000,
+            "employees": {
+                "industriarb": 125
+            }
+        },
+        "foundation_year": 1889,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    }
+}

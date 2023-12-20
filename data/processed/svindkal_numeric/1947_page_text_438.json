@@ -1,0 +1,251 @@
+{
+    "1": {
+        "name": "Konfektions AB. Viking",
+        "location": "Trollhättan",
+        "business": "Tillverkning av herrkostymer, ytterplagg, damkappor, dräkter och gabardinrockar.",
+        "products": "Varumärke: »Viking»",
+        "contact": {
+            "office": "Vikingkläder, Trollhättan",
+            "phone": [
+                "Vikingbolaget"
+            ],
+            "postgiro": "33290"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 230
+            },
+            "annual_turnover": "45,000 plagg",
+            "annual_production_value": "Firman etabl. 1917 under namn Sigge O. Bråthén, nuv. namn 1935, bolag 1941"
+        },
+        "foundation_year": 1917,
+        "current_name_year": 1935,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "dir. Sigge O. Bråthén",
+                "role": "verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.28348939999999,
+            "Longitude": 12.2858206
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Konfektions AB. Wånéx",
+        "location": "Tranås",
+        "business": "Tillverkning av dam-, flick- och barnkappor samt dräkter.",
+        "products": "Varumärke: »Wånéx»",
+        "contact": {
+            "office": "Wånex, Tranås",
+            "phone": [
+                "2871",
+                "2971"
+            ],
+            "postgiro": "143162"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "Louis Wångmark",
+                "role": "verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Konfektions AB. Zober",
+        "location": "Tranås",
+        "business": "Tillverkning av herr- och damkläder, med specialitet på sportkläder.",
+        "products": "Varumärke: »Zober»",
+        "contact": {
+            "phone": "Konfektionsab Zober",
+            "postgiro": "97404",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "108398"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "161099"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 140
+            },
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1936,
+        "original_name": "Kristdala Konfektions AB.",
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "fru A. Olivia Blomqvist",
+                "role": "disp."
+            },
+            {
+                "name": "Thorsten Claezon",
+                "role": "disp."
+            }
+        ],
+        "director": "Thorsten Claezon",
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Konfektions AB. Algen",
+        "location": "Sjuntorp",
+        "business": "Tillverkning av hängslen, ärm- och strumphållare samt bälten.",
+        "contact": {
+            "phone": "Trollhättan 40205",
+            "postgiro": "22192"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": 500000
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "disp. Ingvar Mark",
+                "role": "verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.19767539999999,
+            "Longitude": 12.2346597
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Konfektionsdetaljer",
+        "location": "Katrineholm",
+        "business": "Tillverkning av detaljer för konfektionsindustrin såsom axelvaddar, ärminlägg, vingar och ärmstöd för blusar och klänningar.",
+        "contact": {
+            "phone": "1177",
+            "postgiro": "139250"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1938,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Nils J. Jonsson",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "Harry Pelenius",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.99555109999999,
+            "Longitude": 16.2054756
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Konfektions Kompaniet AB.",
+        "location": "Skånes Fagerhult",
+        "business": "Tillverkning av herrkostymer.",
+        "contact": {
+            "phone": "Junex, Skånes Fagerhult"
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "industriarb": 250
+            }
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "konsul John Hjelme-Lundberg",
+                "role": "ordf."
+            },
+            {
+                "name": "nämndeman Werner Danielsson",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Ivan Lindbladh",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Eric Löfström",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Ragnar Nordh",
+                "role": "dir."
+            },
+            {
+                "name": "John Hjelme-Lundberg",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "Ivan Lindbladh",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.3715665,
+            "Longitude": 13.4654359
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Konfektions-Metall",
+        "location": "Linköping",
+        "business": "Metallvarufabrik. Tillverkning av overallknappar, knappformar, pappersklämmare, påsnitar, skyddskapslar, spännen, emblemnålar, flaggnålar samt massartiklar av plåt och tråd; utför förnickling och galvanisering samt brännlackering och blankglödgning av massartiklar.",
+        "contact": {
+            "phone": "25700",
+            "postgiro": "140985",
+            "sales_offices": [
+                {
+                    "location": "Borås",
+                    "phone": "AB. Skoglund & Hultner"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "Firma Knappformar"
+                }
+            ]
+        },
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 6
+    }
+}

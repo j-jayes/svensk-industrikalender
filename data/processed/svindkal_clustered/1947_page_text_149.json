@@ -1,0 +1,225 @@
+{
+    "1": {
+        "name": "Almedahl—Dalsjöfors AB.",
+        "location": "Göteborg",
+        "business": "Linen and cotton weaving, dyeing, and printing",
+        "products": "Linen and cotton fabrics, linens, and women's and girl's clothing",
+        "contact": {
+            "office": "Göteborg, postadr.: Göteborg 5",
+            "phone": [
+                "187180"
+            ],
+            "postgiro": "12120",
+            "head_office": "Göteborg, postadr.: Göteborg 5",
+            "sales_offices": [
+                {
+                    "location": "Dalsjöfors",
+                    "phone": "Borås 70150"
+                },
+                {
+                    "location": "Stockholm, Drottningg. 31",
+                    "phone": "108579"
+                }
+            ],
+            "telegraph": "Almedahls, Göteborg",
+            "factory_office": "Dalsjöfors, postadr.: Dalsjöfors",
+            "factory_phone": "Borås 70150"
+        },
+        "financials": {
+            "capital": "8,124,000 kr",
+            "employees": {
+                "industrial_workers": 850
+            },
+            "annual_turnover": "12,000,000 kr",
+            "annual_production_value": "70,000 kr"
+        },
+        "foundation_year": 1920,
+        "predecessor": "Marks Linnemanufaktur AB., Kungsäter",
+        "corporation_year": 1856,
+        "board": [
+            {
+                "name": "A. Lem an",
+                "role": "Chairman"
+            },
+            {
+                "name": "Erik Kullgren",
+                "role": "Director"
+            },
+            {
+                "name": "Gunnar Sundblad",
+                "role": "Technical Director"
+            },
+            {
+                "name": "Stig ödmark",
+                "role": "Bank Director"
+            }
+        ],
+        "brands": [
+            "Almedahls",
+            "Dalsjöfors"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Almgrens Konfektions AB.",
+        "location": "Stockholm",
+        "business": "Manufacturing of dresses and blouses",
+        "contact": {
+            "office": "Kornhamnstorg 6",
+            "phone": [
+                "235035"
+            ],
+            "postgiro": "199860"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industrial_workers": 35
+            }
+        },
+        "foundation_year": 1945,
+        "director": "Hans Bratt-berg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Almgrens Kravattfabrik",
+        "location": "Stockholm",
+        "business": "Manufacturing of ties and collars",
+        "contact": {
+            "office": "Kornhamnstorg 6",
+            "phone": [
+                "235035"
+            ],
+            "postgiro": "199855"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industrial_workers": 21
+            }
+        },
+        "foundation_year": 1945,
+        "director": "Henrik Brattberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "C. B. Almquists AB.",
+        "location": "Göteborg",
+        "business": "Gilding, glassworks, glass grinding, and frame and sign factory",
+        "products": "Mirrors, lead windows, valve glass for ships, frames, and signs",
+        "contact": {
+            "office": "Drottningg. 15",
+            "phone": [
+                "130485",
+                "131928"
+            ],
+            "postgiro": "42475"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industrial_workers": 8
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1822,
+        "corporation_year": 1898,
+        "director": "Ernst F. Larson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Almquist & Cöster",
+        "location": "Hälsingborg",
+        "business": "Postcard and cliché factory",
+        "products": "Photographic postcards and clichés",
+        "contact": {
+            "phone": "20895"
+        },
+        "financials": {
+            "capital": "130,000 kr",
+            "employees": {
+                "industrial_workers": 68
+            },
+            "annual_turnover": "1,270,000 kr"
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "Salfon Almquist",
+                "role": "Director"
+            },
+            {
+                "name": "Yngve Almquist",
+                "role": "Deputy Director"
+            },
+            {
+                "name": "Rudolf Cöster",
+                "role": "Director"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "AB. Almqvist & Johanson",
+        "location": "Örebro",
+        "business": "Shoe factory",
+        "products": "Welted men's shoes (brand: Regent)",
+        "contact": {
+            "phone": "11L074",
+            "postgiro": "20800"
+        },
+        "financials": {
+            "capital": "450,000 kr",
+            "employees": {
+                "industrial_workers": 65
+            },
+            "annual_turnover": "1,400,000 kr"
+        },
+        "foundation_year": 1899,
+        "corporation_year": 1913,
+        "board": [
+            {
+                "name": "Jacob Johanson",
+                "role": "Chairman"
+            },
+            {
+                "name": "John Ignell",
+                "role": "District Attorney"
+            },
+            {
+                "name": "Erik Johanson",
+                "role": "Property Owner"
+            },
+            {
+                "name": "Herman Lindberg",
+                "role": "Treasurer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    }
+}

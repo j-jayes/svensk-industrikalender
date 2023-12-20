@@ -1,0 +1,293 @@
+{
+    "1": {
+        "name": "Skandinaviska Sängresår-fabriken",
+        "location": "Skattkärr",
+        "business": "Sängresår- och snickerifabriker",
+        "products": "Tillverkar resårmadrasser (märke: »Spring-madr assen»), bil-, buss- och spårvagnsdynor samt sängar, duchateller, soffor, sängjärn, vinkeljärnsramar m. m.",
+        "contact": {
+            "office": "Skattkärr",
+            "phone": [
+                "133"
+            ],
+            "postgiro": "34022",
+            "head_office": "Skattkärr",
+            "sales_offices": [
+                {
+                    "location": "Karlstad",
+                    "phone": "10344"
+                },
+                {
+                    "location": "Stockholm, Drottningg. 73 C",
+                    "phone": "235775"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 125000,
+            "employees": {
+                "industriarb": 106
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "ing. Lennart Ullberg",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Gerda Petersson",
+                "role": ""
+            },
+            {
+                "name": "fru Eva Ullberg",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.41224800000001,
+            "Longitude": 13.6709545
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Skandinaviska Träimport AB.",
+        "location": "Stockholm",
+        "business": "Trä- och fanérlager, sågverk och ångtorkar",
+        "products": "Not available",
+        "contact": {
+            "office": "Stockholm, Värtahamnen",
+            "phone": "670410",
+            "postgiro": "Not available",
+            "sales_offices": [
+                {
+                    "location": "Norrköping",
+                    "phone": "23707 o. 23784"
+                },
+                {
+                    "location": "Malmö, S. Nep-tunig. 6",
+                    "phone": "20137 o. 28127"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 1200000,
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1901,
+        "corporation_year": "Not available",
+        "board": [
+            {
+                "name": "dir. Hans Th. Holm",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Frithiof Ahrén",
+                "role": ""
+            },
+            {
+                "name": "dir. Hans Bruu",
+                "role": ""
+            },
+            {
+                "name": "adv. Knut Littorin",
+                "role": ""
+            },
+            {
+                "name": "försäljn.-chef Ragnar Winberg",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Skandinaviska Verktygsfabriks AB.",
+        "location": "Tyringe",
+        "business": "Verktygsfabrik",
+        "products": "Tillverkar gängverktyg, fräsar, brotschar m. m. samt chuckar och backskivor. Varumärke: S.V.A.",
+        "contact": {
+            "office": "Tyringe (Kristianst. l.)",
+            "phone": "Not available",
+            "postgiro": "7736",
+            "head_office": "Tyringe",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industriarb": 425
+            },
+            "annual_turnover": 5000000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1896,
+        "corporation_year": "Not available",
+        "board": [
+            {
+                "name": "dir. Carl Björk",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Gunnar Anderson",
+                "role": ""
+            },
+            {
+                "name": "disp. Harry E. Anderson",
+                "role": ""
+            },
+            {
+                "name": "rektor Emil Johansson",
+                "role": ""
+            },
+            {
+                "name": "ing. G. Strandqvist",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.1594501,
+            "Longitude": 13.6032438
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Skara Bryggeri AB.",
+        "location": "Skara",
+        "business": "Tillverkar maltdrycker och läskedrycker.",
+        "products": "Not available",
+        "contact": {
+            "office": "Skara",
+            "phone": [
+                "105",
+                "200"
+            ],
+            "postgiro": "74445",
+            "head_office": "Skara",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": 200000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1901,
+        "corporation_year": "Not available",
+        "board": [
+            {
+                "name": "disp. Erik Petré",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Oskar Ahlström",
+                "role": ""
+            },
+            {
+                "name": "ing. Henry Andersson",
+                "role": ""
+            },
+            {
+                "name": "hovrättsassessor Bo Nilsson-Dag",
+                "role": ""
+            },
+            {
+                "name": "disp. Wilhelm Nilsson-Dag",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.3860128,
+            "Longitude": 13.4393282
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Skara Karosserifabrik",
+        "location": "Skara",
+        "business": "Tillverkar förarhytter och lastflak, brandbils-, likvagns- och skåpvagnskarosserier m. m.",
+        "products": "Not available",
+        "contact": {
+            "office": "Skara",
+            "phone": [
+                "92987"
+            ],
+            "postgiro": "Not available",
+            "head_office": "Skara",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 54000,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1929,
+        "corporation_year": "Not available",
+        "board": [
+            {
+                "name": "Not available",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.3860128,
+            "Longitude": 13.4393282
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Skara Snickeri & Trävaruaffär",
+        "location": "Skara",
+        "business": "Tillverkar dörrar och fönster samt butiksinredningar. Firman driver även handel med trävaror.",
+        "products": "Not available",
+        "contact": {
+            "office": "Skara",
+            "phone": [
+                "121"
+            ],
+            "postgiro": "164106",
+            "head_office": "Skara",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "arb": 7
+            },
+            "annual_turnover": 100000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1910,
+        "corporation_year": "Not available",
+        "board": [
+            {
+                "name": "Not available",
+                "role": ""
+            }
+        ],
+        "owners": [
+            "trävaruhandl. Nils Sahiström",
+            "trävaruhandl. Olof Sahiström",
+            "fabr. Johan L. Andersson"
+        ],
+        "coordinates": {
+            "Latitude": 58.3860128,
+            "Longitude": 13.4393282
+        },
+        "cluster": 8
+    }
+}

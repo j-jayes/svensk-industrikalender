@@ -1,0 +1,192 @@
+{
+    "1": {
+        "name": "AB. Radius",
+        "location": "Stockholm",
+        "business": "Metallmanufaktur",
+        "contact": {
+            "office": "Stockholm 32",
+            "phone": [
+                "452510"
+            ],
+            "postgiro": "828",
+            "head_office": "Stockholm",
+            "telegraph": "Radius, Stockholm"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "4,000,000 kr"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "John T. Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "I. Hedlund",
+                "role": "Fru"
+            },
+            {
+                "name": "Georg A. Jitelius",
+                "role": "avd.-chef"
+            },
+            {
+                "name": "Nils Jitelius",
+                "role": "dir.-assist."
+            },
+            {
+                "name": "Ax. T. Nilsson",
+                "role": "adv."
+            }
+        ],
+        "manager": "J. T. Johansson",
+        "director": "J. T. Johansson",
+        "sales_manager": "Nils Jitelius",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Raintex AB.",
+        "location": "Stockholm",
+        "business": "Regnkläder",
+        "contact": {
+            "office": "Hornsgat. 76",
+            "phone": [
+                "420424"
+            ],
+            "postgiro": "56498"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "foundation_year": 1943,
+        "manager": "Erich Zons",
+        "director": "Erich Zons",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Rakbladsfabriken Sollex",
+        "location": "Jönköping",
+        "business": "Rakblad och rakhyvlar",
+        "contact": {
+            "telegraph": "Sollex, Jönköping",
+            "phone": "4900—4915",
+            "postgiro": "130730"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1933,
+        "manager": "Herman Falk",
+        "director": "Herman Falk",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Ralsta Tegelbruk",
+        "location": "Hallstahammar",
+        "business": "Tegelbruk",
+        "contact": {
+            "phone": "Kanthal, Hallstahammar",
+            "postgiro": "73633"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "3 milj. tegelvaror"
+        },
+        "manager": "Hans v. Kantzow",
+        "overing": "Gösta Rehnquist",
+        "sales_manager": "Åke Lindblad",
+        "tegelmäst": "J. N. Wikner",
+        "coordinates": {
+            "Latitude": 59.6132041,
+            "Longitude": 16.2294755
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Rambergs Snickerifabrik",
+        "location": "Stockholm",
+        "business": "Snickeri",
+        "contact": {
+            "office": "Tomtebogatan 11",
+            "phone": [
+                "325130"
+            ],
+            "postgiro": "53789"
+        },
+        "employees": 7,
+        "foundation_year": 1885,
+        "owner": "fabr. Th. Ramberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Ramlist",
+        "location": "Tranås",
+        "business": "Snickerifabrik",
+        "contact": {
+            "phone": "2116",
+            "postgiro": "96322"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_production_value": "225,000 kr"
+        },
+        "foundation_year": 1920,
+        "owner": [
+            "fabr. Johan Th. Krafth",
+            "disp. Einar Tell"
+        ],
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Ram- & Lyxfabriken \"Haga\"",
+        "location": "Mjölby",
+        "business": "Tillverkning av antikramar, serveringabric-kor, nackspeglar, pipställ, tobaksburkar m. m.",
+        "contact": {
+            "phone": "260",
+            "postgiro": "31311"
+        },
+        "financials": {
+            "annual_production_value": "17,000 kr"
+        },
+        "foundation_year": 1917,
+        "owner": "fabr. Otto Carlsson",
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 8
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "1": {
+        "name": "Hernö",
+        "location": "Sundbyberg",
+        "business": "Sprit- och läskedrycksfabrik",
+        "contact": {
+            "office": "Sundbyberg",
+            "phone": [
+                "283351"
+            ]
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "2,800,000 kr"
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "Oskar Hofverberg",
+                "role": "disp."
+            },
+            {
+                "name": "Egon Liden",
+                "role": "driftsing."
+            },
+            {
+                "name": "S. I. Marcus",
+                "role": "kontorschef"
+            }
+        ],
+        "director": "O. Hofverberg",
+        "managing_director": "O. Hofverberg",
+        "sales_manager": "S. I. Marcus",
+        "coordinates": {
+            "Latitude": 59.369325,
+            "Longitude": 17.9609133
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Hernö Bryggeri AB.",
+        "location": "Härnösand",
+        "business": "Malt- och läskedrycksfabrik",
+        "contact": {
+            "office": "Härnösand",
+            "phone": "55",
+            "postgiro": "28837"
+        },
+        "financials": {
+            "capital": "445,500 kr",
+            "employees": {
+                "industriarb": 26
+            },
+            "annual_turnover": "950,000 kr"
+        },
+        "foundation_year": 1888,
+        "board": [
+            {
+                "name": "Erik Lundquist",
+                "role": "grossh."
+            },
+            {
+                "name": "Herman Ramström",
+                "role": "konsul"
+            },
+            {
+                "name": "L. Valentin",
+                "role": "disp."
+            }
+        ],
+        "director": "L. Valentin",
+        "coordinates": {
+            "Latitude": 62.6322698,
+            "Longitude": 17.9408714
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Herrijunga Möbelfabrik",
+        "location": "Herrljunga",
+        "business": "Möbelfabrik",
+        "contact": {
+            "office": "Herrljunga",
+            "phone": [
+                "81",
+                "481"
+            ],
+            "postgiro": "72950"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "550,000 kr"
+        },
+        "foundation_year": 1910,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "Harald Johanson",
+                "role": "dir."
+            },
+            {
+                "name": "Sven A. Pettersson",
+                "role": "fabr."
+            },
+            {
+                "name": "Eric Stjerna",
+                "role": "fabr."
+            }
+        ],
+        "director": "Harald Johanson",
+        "coordinates": {
+            "Latitude": 58.0780287,
+            "Longitude": 13.0188387
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Herrängs Cruf AB.",
+        "location": "Herräng",
+        "business": "Järnmalmsgruvor och järnverk",
+        "contact": {
+            "telegraph": "Pigiron, Norrtälje",
+            "phone": "1",
+            "postgiro": "75522"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 275
+            },
+            "annual_turnover": "4,000,000 kr"
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "Wiking Johnsson",
+                "role": "bruksdisp."
+            },
+            {
+                "name": "N. Arvid Ericsson",
+                "role": "bruksdisp."
+            },
+            {
+                "name": "E. Hedendahl",
+                "role": "bruksdisp."
+            },
+            {
+                "name": "Henrik Skoog",
+                "role": "bankdir."
+            }
+        ],
+        "director": "E. Hedendahl",
+        "coordinates": {
+            "Latitude": 60.1294246,
+            "Longitude": 18.6466281
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "John L. Hertzman",
+        "location": "Stockholm",
+        "business": "Lädervarufabrik",
+        "contact": {
+            "office": "Gävleg. 12 B",
+            "phone": [
+                "332640"
+            ],
+            "postgiro": "81305"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1887,
+        "owners": [
+            "John L. Hertzmans sterbhus"
+        ],
+        "sales_manager": "fru Karin Hertzman",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. P. Herzog & Söner",
+        "location": "Stockholm",
+        "business": "Bokbinderi och kontorsbokfabrik",
+        "contact": {
+            "office": "Vasag. 16",
+            "phone": [
+                "»Herzogs»"
+            ],
+            "postgiro": "465"
+        },
+        "foundation_year": 1862,
+        "board": [
+            {
+                "name": "Gustaf Dahlbäck"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "7": {
+        "name": "Hesselman Motor Corporation AB.",
+        "location": "Stockholm",
+        "business": "Mek. verkstäder",
+        "contact": {
+            "office": "Henriksdal",
+            "postgiro": "77571",
+            "phone": [
+                "440760",
+                "440310"
+            ]
+        },
+        "financials": {
+            "capital": "2,250,000 kr",
+            "employees": {
+                "industriarb": 500
+            }
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "civiling. Birger Dahlerus",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. J. Anér"
+            },
+            {
+                "name": "överstelöjtn. Edvard Dahlerus"
+            },
+            {
+                "name": "rådman M. Hammar"
+            },
+            {
+                "name": "civiling. Martin Johansson"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "Hestra Industri AB.",
+        "location": "Hestra",
+        "business": "Konfektionsfabrik",
+        "contact": {
+            "office": "Hestra",
+            "phone": [
+                "12"
+            ],
+            "postgiro": "22768"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1925,
+        "director": "fabr. Algot Eberstål",
+        "managing_director": "fabr. Algot Eberstål",
+        "coordinates": {
+            "Latitude": 57.4431502,
+            "Longitude": 13.5960313
+        },
+        "cluster": 9
+    }
+}

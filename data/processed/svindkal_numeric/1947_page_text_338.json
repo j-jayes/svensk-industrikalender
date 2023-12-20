@@ -1,0 +1,208 @@
+{
+    "1": {
+        "name": "Göteborgs Emballagefabrik, Martin Folkjern",
+        "location": "Göteborg",
+        "business": "Låd- och snickerifabrik. Tillverkar låd-ämnen och lådor, byggnadssnickerier och inredningar.",
+        "contact": {
+            "office": "S:t Erikstorg 1",
+            "phone": [
+                "118072",
+                "130815"
+            ],
+            "postgiro": "42941",
+            "telegraph": "Götabox, Göteborg"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_production_value": 600000
+        },
+        "foundation_year": 1931,
+        "owners": [
+            "ing. Martin Folkjerns sterbhus"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Göteborgs Färg- & Fernissfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar lack-, olje-, cellulosa- och syntetiska färger, fernissor, cellulosa-polerlack, rostskydds-, maskin- och redskapsfärger, spackelfärger, kitt m. m.",
+        "contact": {
+            "office": "Hisingsbacka",
+            "postgiro": "42911",
+            "telegraph": "Färgfabriken, Göteborg"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1900,
+        "owners": [
+            "disp. Ragnar Lind"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Göteborgs Galvaniserings-fabrik",
+        "location": "Göteborg",
+        "business": "Galvaniseringsfabrik i Stillestorp, Lundby (Göteb. o. Bohus l.). Tillverkar såsom specialitet plåtkärl samt galvani-serade, svetsade plåtarbeten; utför galva-nisering av järneffekter på varm väg.",
+        "contact": {
+            "office": "Göteborg, Herkulesg. 1",
+            "postgiro": "42911",
+            "telegraph": "Galvan, Göteborg"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1911,
+        "corporation_year": 1925,
+        "owners": [
+            "Stockholms Galvaniseringsfabrik AB., Liljeholmen"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Göteborgs Gamla Trätoffelfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar trätofflor och träbotten-kängor.",
+        "contact": {
+            "office": "Brog. 3",
+            "postgiro": "25588"
+        },
+        "financials": {
+            "capital": 10000,
+            "annual_turnover": 70000
+        },
+        "foundation_year": 1887,
+        "corporation_year": 1943,
+        "owners": [
+            "Magnus Wiberg"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Göteborgs Culdlistfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar ram- och tapetlister samt speglar vid fabrik i Göteborg, ävensom trälister vid listhyvleri i Gustafs (Kopparb. l.). Bolaget idkar jämväl handel med papp, spegelglas, geringsmaskiner och sågar.",
+        "contact": {
+            "office": "Göteborg",
+            "postgiro": "40791",
+            "additional_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "623695"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1897,
+        "corporation_year": 1905,
+        "owners": [
+            "Hans Colberg"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "AB. Göteborgs Hartsoljefärg-Fabrik",
+        "location": "Göteborg",
+        "business": "Kem.-tekn. fabrik och färgfabrik. Tillverkar oljefärger, slamfärerer, fernissor, vagnssmörja, läderfett, insektsmedel, kitt, specialoljor för bilar såsom ovansmörj-ning, rostolja, bromsvätska, polish, kaross-beck, chassilack m. m.",
+        "contact": {
+            "office": "Underåsbro, Sofierovägen",
+            "postgiro": "40696"
+        },
+        "financials": {
+            "capital": 140000,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1888,
+        "corporation_year": 1908,
+        "owners": [
+            "ing. B. Werner"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Göteborgs Hattfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar damhattar och mössor.",
+        "contact": {
+            "office": "Friggag. 6 o. 8",
+            "postgiro": "42522"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 24
+            },
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1918,
+        "owners": [
+            "fabr. David Johansson"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "Göteborgs Kamgarnsspinnerl AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar strump-, stick- och väv-garner.",
+        "contact": {
+            "office": "Gårda",
+            "telegraph": "Carlströms, Göteborg",
+            "postgiro": "40484"
+        },
+        "financials": {
+            "capital": 2700000,
+            "employees": {
+                "industriarb": 280
+            },
+            "annual_production_value": 7000000
+        },
+        "foundation_year": 1896,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    }
+}

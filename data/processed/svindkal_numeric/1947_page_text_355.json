@@ -1,0 +1,346 @@
+{
+    "1": {
+        "name": "Hedesunda—Hegert bruk",
+        "location": "Hedesunda",
+        "business": "träsliperier, kemiska fabriker, kol-ningsanläggningar, gruvindustri m. m. samt plåtradiatorer (värmeelement)",
+        "contact": {
+            "office": "Verkstad, Hedemora",
+            "phone": [
+                "Hedemora verkstäder"
+            ],
+            "postgiro": "27757",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Nordiska Rör AB., Kungsg. 18",
+                    "phone": "Nordiska Rörbolaget"
+                },
+                {
+                    "location": "AB. övergård & Co., Hovslagarg. 3",
+                    "phone": "105919—20"
+                }
+            ],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 900000,
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": 7000000,
+            "annual_production_value": 7000000
+        },
+        "foundation_year": 1903,
+        "current_name_year": 1924,
+        "corporation_year": "",
+        "board": [
+            {
+                "name": "Gustav Raabe",
+                "role": "ordf."
+            },
+            {
+                "name": "Vilhelm Björkman",
+                "role": "dir."
+            },
+            {
+                "name": "K. Isidor Persson",
+                "role": "f. rådman"
+            },
+            {
+                "name": "Ruben Persson",
+                "role": "disp."
+            }
+        ],
+        "director": "Ruben Persson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 60.3939638,
+            "Longitude": 17.0067862
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Hedesunda Industri AB",
+        "location": "Hedesunda",
+        "business": "Sågverk och snickerifabrik",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Hedemora verkstäder"
+            ],
+            "postgiro": "13985",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 350000,
+            "annual_production_value": 350000
+        },
+        "foundation_year": 1908,
+        "current_name_year": "",
+        "corporation_year": "",
+        "board": [
+            {
+                "name": "E. Lund",
+                "role": "fabr."
+            },
+            {
+                "name": "And. Eriksson",
+                "role": "fabr."
+            },
+            {
+                "name": "Per Gustafsson",
+                "role": "fabr."
+            }
+        ],
+        "director": "And. Eriksson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 60.3939638,
+            "Longitude": 17.0067862
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "AB. Karl Hedin",
+        "location": "Västanfors",
+        "business": "Sågverk, hyvleri och lådfabrik",
+        "contact": {
+            "office": "Karl, Västanfors",
+            "phone": [
+                "Fagersta 40301"
+            ],
+            "postgiro": "98888",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 150300,
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": 1500000,
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1917,
+        "current_name_year": "",
+        "corporation_year": 1935,
+        "board": [],
+        "director": "disp. Karl Hedin",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.9929333,
+            "Longitude": 15.826962
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Hedlunds Trävara AB",
+        "location": "Furudal",
+        "business": "Sågverk och hyvleri",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Hedlunds bolag"
+            ],
+            "postgiro": "168396",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1934,
+        "current_name_year": "",
+        "corporation_year": "",
+        "board": [],
+        "director": "Erik R. Hedlund",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 61.1713931,
+            "Longitude": 15.1383573
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "E. Hedman AB",
+        "location": "Stockholm",
+        "business": "Sportartikelfabrik",
+        "contact": {
+            "office": "Hornsg. 69",
+            "phone": [
+                "440010"
+            ],
+            "postgiro": "192627",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 10000,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1942,
+        "current_name_year": "",
+        "corporation_year": "",
+        "board": [],
+        "director": "Eric Hedman",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB; I. Hedström Kravattfabrik",
+        "location": "Göteborg",
+        "business": "Tillverkar herrhalsdukar",
+        "contact": {
+            "office": "Drottningg. 17—19",
+            "phone": [
+                "110471",
+                "131417"
+            ],
+            "postgiro": "42999",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 700000,
+            "annual_production_value": 700000
+        },
+        "foundation_year": 1894,
+        "current_name_year": "",
+        "corporation_year": 1937,
+        "board": [],
+        "director": "Ingemar Hedström",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "N. F. Hedvall & C:o",
+        "location": "Boden",
+        "business": "Skofabrik",
+        "contact": {
+            "office": "Skofabriken, Boden",
+            "phone": [
+                "2212"
+            ],
+            "postgiro": "60329",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 22
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": 500000
+        },
+        "foundation_year": 1892,
+        "current_name_year": "",
+        "corporation_year": "",
+        "board": [],
+        "director": "fabr. Walfrid Hedvall o. fabr. Rudolf Hedvall",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 65.8251188,
+            "Longitude": 21.6887028
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "Oscar Hegert",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "office": "Birger Jarlsg. 36",
+            "phone": [
+                "107742",
+                "210109",
+                "204321"
+            ],
+            "postgiro": "50357",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": "",
+            "annual_turnover": 2500000,
+            "annual_production_value": 2500000
+        },
+        "foundation_year": 1906,
+        "current_name_year": "",
+        "corporation_year": "",
+        "board": [],
+        "director": "ing. Oscar Hegert",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "ing. Lennart Hegert o. ing. Åke Persson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    }
+}

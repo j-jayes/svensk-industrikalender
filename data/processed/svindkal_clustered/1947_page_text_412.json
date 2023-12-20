@@ -1,0 +1,229 @@
+{
+    "1": {
+        "name": "AB Kalmar Nya Tapetfabrik",
+        "location": "Kalmar",
+        "business": "Tillverkar tapeter och bårder",
+        "contact": {
+            "phone": [
+                "109",
+                "1498"
+            ],
+            "postgiro": "13262"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1882,
+        "current_name_year": 1902,
+        "board": [
+            {
+                "name": "konsul Ernst H. Lindh",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. H. Hofverberg",
+                "role": null
+            },
+            {
+                "name": "fru E. Lindh",
+                "role": null
+            }
+        ],
+        "director": "Ernst H. Lindh",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Kalmar Tändsticksfabrik",
+        "location": "Kalmar",
+        "business": "See Jönköpings and Yulcans Tändsticksfabriks AB., Jönköping",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Kalmar Varv",
+        "location": "Kalmar",
+        "business": "Utför nybyggnader och reparationer av fartyg",
+        "contact": {
+            "phone": [
+                "39",
+                "239",
+                "3939",
+                "3940"
+            ],
+            "postgiro": "140842"
+        },
+        "financials": {
+            "capital": "750,000 kr",
+            "employees": {
+                "industriarb": 175
+            },
+            "annual_turnover": "Unknown",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "board": [
+            {
+                "name": "v. konsul John Jeansson",
+                "role": "ordf."
+            },
+            {
+                "name": "ryttm. Birger Jeaiisson",
+                "role": null
+            },
+            {
+                "name": "dir. Ebbe Jeansson",
+                "role": null
+            }
+        ],
+        "director": "Birger Jeansson",
+        "sales_manager": null,
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Kalmar Verkstads AB",
+        "location": "Kalmar",
+        "business": "Tillverkar järnvägsvagnar, spårvagnar, lokomotiv m. m. samt utför reparationer av rullande material",
+        "contact": {
+            "phone": "»Verkstadsbolaget»",
+            "postgiro": "140960"
+        },
+        "financials": {
+            "capital": "860,000 kr",
+            "employees": {
+                "industriarb": 350
+            },
+            "annual_turnover": "Unknown",
+            "annual_production_value": "4,000,000 kr"
+        },
+        "board": [
+            {
+                "name": "verkstadsdir. T. R. Norinder",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gustaf L. Johnsson",
+                "role": null
+            },
+            {
+                "name": "verk-stadsövering. Sixten Niklasson",
+                "role": null
+            },
+            {
+                "name": "övering. Thure Ringqvist",
+                "role": null
+            },
+            {
+                "name": "bankdir. O. H. Trolle",
+                "role": null
+            }
+        ],
+        "director": "Sven Södervall",
+        "manager": "Ernst Eriksson",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Kalmar Ängkvarns Kommanditbolag",
+        "location": "Kalmar",
+        "business": "Tillverkar vete-, råg-, ris- och havremjöl, fodermjöl, vete- och rågkli, havre-och risgryn",
+        "contact": {
+            "phone": "2",
+            "postgiro": "8426"
+        },
+        "financials": {
+            "capital": "2,410,000 kr",
+            "employees": {
+                "industriarb": 165
+            },
+            "annual_production_value": "14,000,000 kr"
+        },
+        "foundation_year": 1847,
+        "current_name_year": 1922,
+        "owners": [
+            "v. konsul John",
+            "Jeansson",
+            "ryttm. Birger Jeansson",
+            "dir. Ebbe Jeansson"
+        ],
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Kalu Choklad & Konfektfabrik AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar choklad, kola och konfekt",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "AB Kamgarn",
+        "location": "Borås",
+        "business": "Kamgarnsspinneri. Tillverkar kamgarn och ullgarner",
+        "contact": {
+            "phone": "10023",
+            "postgiro": "91570"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 160
+            },
+            "annual_production_value": "5,000,000 kr"
+        },
+        "current_name_year": 1909,
+        "board": [
+            {
+                "name": "dir. Gustaf Werner",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Frans H. Nilsson",
+                "role": null
+            },
+            {
+                "name": "dir. C. O. Smedmark",
+                "role": null
+            }
+        ],
+        "director": "Frans H. Nilsson (Göteborg)",
+        "sales_manager": "Sture Skoglund",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "8": {
+        "name": "Kampenhofs AB.",
+        "location": "Uddevalla",
+        "business": "Bomullsspinneri och -väveri, blekeri, färgeri, vaddfabrik, och konfektionsfabrik (Kamko AB.). Tillverkar garner, oblekta, blekta, färgade och kulörta vävnader av bomull och cellull, täckvadd och bomullskonfektion",
+        "coordinates": {
+            "Latitude": 58.3498003,
+            "Longitude": 11.935649
+        },
+        "cluster": 3
+    }
+}

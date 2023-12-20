@@ -1,0 +1,250 @@
+{
+    "1": {
+        "name": "Nya Fabriken Zig-Zag",
+        "location": "Malmköping",
+        "business": "Träförädlingsfabrik",
+        "products": "Massartiklar i trä, Specialitet: bygglådan »Zig-Zag»",
+        "contact": {
+            "office": "Malmköping",
+            "phone": [
+                "133"
+            ],
+            "postgiro": "163260",
+            "telegraph": "Zigzag, Malmköping"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 250000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1910,
+        "current_name_year": 1939,
+        "director": "Carl-Olof Fogelberg",
+        "owners": [
+            "Ragnar Nordqvist"
+        ],
+        "coordinates": {
+            "Latitude": 59.132406,
+            "Longitude": 16.729194
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Nya Fajansfabriken",
+        "location": "Förlösa",
+        "business": "Förlag för tillverkning av blomkrukor",
+        "products": "Blomkrukor",
+        "contact": {
+            "phone": "15",
+            "postgiro": "82742"
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_turnover": 800000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1908,
+        "corporation_year": 1936,
+        "director": "Gust. Josefsson",
+        "coordinates": {
+            "Latitude": 56.7471915,
+            "Longitude": 16.2512704
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "AB. Nya Fermia",
+        "location": "Hälsingborg",
+        "business": "Glykos- och kulörfabrik",
+        "products": "Glykos, druvsocker, maltos, invertsocker, konsthonung, sockerpreparat (»Fermilin»), kapselkork (»Idealkork»), sackarin",
+        "contact": {
+            "office": "Hälsingborg",
+            "telegraph": "Fermia, Hälsingborg",
+            "phone": [
+                "10441",
+                "10600",
+                "17737"
+            ],
+            "postgiro": "13908"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "O. Löfwall",
+                "role": "ordf."
+            },
+            {
+                "name": "Ernst Iacobi",
+                "role": "dir."
+            },
+            {
+                "name": "Edward Schön",
+                "role": "övering."
+            }
+        ],
+        "director": "Ernst Iacobi",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Nya Fougstedts Pälsvarufabrik",
+        "location": "Malmö",
+        "business": "Pälsvarufabrik",
+        "products": "Pälsvaror, pälsskinn",
+        "contact": {
+            "office": "S. Förstadsg. 23 A, Malmö 4",
+            "telegraph": "Pelsfougstedts, Malmö",
+            "phone": "71620",
+            "postgiro": "38222"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": 700000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1896,
+        "director": "Rolf Winroth",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Nya AB. Gotlandsmarmor",
+        "location": "Visby",
+        "business": "Gotlandsmarmorbrytning och -förädling",
+        "products": "Byggnadsmarmor, byggnadskalksten",
+        "contact": {
+            "phone": "1213",
+            "postgiro": "189023"
+        },
+        "financials": {
+            "capital": 15000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 180000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1934,
+        "director": "ing. Bror Fritz",
+        "coordinates": {
+            "Latitude": 57.6348,
+            "Longitude": 18.29484
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "Nya Kartong AB.",
+        "location": "Stockholm",
+        "business": "Tillverkning av kartonger",
+        "products": "Kartonger för bagerier, konfektfabriker, manufaktur- och konfektiousaffärer, industrier m.m.",
+        "contact": {
+            "office": "Industriområdet, Hagalund, Solna",
+            "phone": "272650",
+            "postgiro": "1402"
+        },
+        "financials": {
+            "capital": 80000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 490000,
+            "annual_production_value": "Not available"
+        },
+        "original_name": "Stockholm 6",
+        "corporation_year": 1934,
+        "director": "Nils E. Erlandsson (Kvidinge)",
+        "manager": "C. Oscar Johansson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "7": {
+        "name": "AB. Nya Kolbäcks Cementgjuteri",
+        "location": "Kolbäck",
+        "business": "Betongvarufabrik",
+        "products": "Massartiklar av betong",
+        "contact": {
+            "phone": "88",
+            "postgiro": "81751"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": "Not available"
+        },
+        "corporation_year": 1923,
+        "board": [
+            {
+                "name": "Edv. Karlsson",
+                "role": "byggm."
+            },
+            {
+                "name": "Oscar Andersson",
+                "role": "banm."
+            },
+            {
+                "name": "Harald Wallin",
+                "role": "godsäg."
+            }
+        ],
+        "director": "Torsten Edvardsson",
+        "coordinates": {
+            "Latitude": 59.5635636,
+            "Longitude": 16.2303593
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "AB. Nya Konfektionsfabriken",
+        "location": "Uddevalla",
+        "business": "Tillverkning av herr- och damkonfektion",
+        "products": "Kostymer, överrockar, damdräkter, kappor, Varumärke: »Roy»",
+        "contact": {
+            "phone": "10866",
+            "postgiro": "134740"
+        },
+        "financials": {
+            "capital": 160000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 700000,
+            "annual_production_value": "Not available"
+        },
+        "corporation_year": 1945,
+        "director": "Abr. Warkol",
+        "coordinates": {
+            "Latitude": 58.3498003,
+            "Longitude": 11.935649
+        },
+        "cluster": 9
+    }
+}

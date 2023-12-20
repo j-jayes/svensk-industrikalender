@@ -1,0 +1,216 @@
+{
+    "1": {
+        "name": "Barnängens Tekniska Fabrikers AB.",
+        "location": "Stockholm",
+        "business": "Manufacturing",
+        "products": "Mouthwash, toothpaste, shaving soap, hair tonic, perfumes, eau de Cologne, pharmaceutical and cosmetic products, ink, rubber, toilet and laundry soap, cleaning products",
+        "contact": {
+            "office": "Alvik, Stockholm",
+            "telegraph": "Kemabolagen, Stockholm",
+            "phone": [
+                "Stockholm 12"
+            ]
+        },
+        "financials": {
+            "capital": 2000000,
+            "employees": {
+                "industriarb": 21
+            },
+            "annual_turnover": 310000
+        },
+        "foundation_year": 1868,
+        "board": [
+            {
+                "name": "grossh. Robert Ljunglöf",
+                "role": "Chairman"
+            },
+            {
+                "name": "disp. Sverre Bröholdt",
+                "role": "Director"
+            },
+            {
+                "name": "fil. dr Harald Nordenson",
+                "role": "Director"
+            },
+            {
+                "name": "disp. Nils Westerdahl",
+                "role": "Director"
+            }
+        ],
+        "director": "Åke Wiberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Barrsätra Järnmanufakturverk",
+        "location": "Hovslätt",
+        "business": "Manufacturing",
+        "products": "Garden tools, lawn mowers, shovels, betning machines, steering sleds, snow shovels, and more",
+        "contact": {
+            "office": "Hovslätt (Jönköp. l.)",
+            "phone": [
+                "61"
+            ],
+            "postgiro": "29127"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 21
+            },
+            "annual_turnover": 310000
+        },
+        "foundation_year": 1908,
+        "manager": "ing. Hilding Lindskog",
+        "coordinates": {
+            "Latitude": 57.73202599999999,
+            "Longitude": 14.1202423
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Cust. Barthels AB.",
+        "location": "Göteborg",
+        "business": "Manufacturing",
+        "products": "Shoelace for furniture, decoration, lighting, upholstery, hat, fur products manufacturing, clothing, carton production, as well as curtains and more",
+        "contact": {
+            "office": "Rosenlundsg. 4",
+            "phone": [
+                "110884"
+            ],
+            "postgiro": "40119"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 200000
+        },
+        "foundation_year": 1894,
+        "board": [
+            {
+                "name": "E. Moldén",
+                "role": "Director"
+            }
+        ],
+        "director": "E. Moldén",
+        "manager": "löjtn. Alf Moldén",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Bastkärns Cruf AB.",
+        "location": "Stockholm",
+        "business": "Mining",
+        "products": "Manganese-rich black ore",
+        "contact": {
+            "office": "Stockholm, Virvelvindsv. 52",
+            "phone": [
+                "254097"
+            ],
+            "gruvkontor": "Bastkärn, Hörken 50 o. 51"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industriarb": 52
+            },
+            "annual_turnover": 800000
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "disp. Axel Alarik",
+                "role": "Chairman"
+            },
+            {
+                "name": "disp. F. A. Cassel",
+                "role": "Director"
+            },
+            {
+                "name": "dir. Erik G. Pehrsson",
+                "role": "Director"
+            }
+        ],
+        "director": "Axel Alarik",
+        "sales_manager": "bergsing. Rolf Erikson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Bates Paper Sack AB.",
+        "location": "Örebro",
+        "business": "Paper Manufacturing",
+        "products": "Sewn and glued bags made of kraft paper, self-closing valve paper bags",
+        "contact": {
+            "telegraph": "Valvsax, Örebro",
+            "phone": [
+                "14130"
+            ],
+            "postgiro": "30350"
+        },
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": 4000000
+        },
+        "foundation_year": 1925,
+        "director": "Klas Johnsson",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "J. O. Baumgardts Pianofabrik",
+        "location": "Linköping",
+        "business": "Manufacturing",
+        "products": "Pianos and grand pianos",
+        "contact": {
+            "telegraph": "Baumgardt, Linköping",
+            "phone": [
+                "20124"
+            ],
+            "postgiro": "29429"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 240000
+        },
+        "foundation_year": 1857,
+        "director": "J. E. Baumgardt",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "AB. Wilh. Becker",
+        "location": "Stockholm",
+        "business": "Chemical and Technical",
+        "products": "Paints, varnishes, artist supplies, bandages, cosmetic and pharmaceutical products, textile aids, plant protection products, and other chemical-technical products",
+        "contact": {
+            "telegraph": "Lövholmen, Stockholm"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    }
+}

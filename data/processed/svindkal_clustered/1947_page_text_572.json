@@ -1,0 +1,242 @@
+{
+    "1": {
+        "name": "Paragon—Pellén",
+        "location": "Stockholm",
+        "business": "Kappfabrik",
+        "products": "Tillverkar damkappor och dräkter.",
+        "contact": {
+            "office": "Hornsg. 54",
+            "phone": [
+                "432877",
+                "432875"
+            ],
+            "postgiro": "4855"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "H. Andersson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Paragon AB.",
+        "location": "Stockholm",
+        "business": "Tryckeri för tillverkning av genomskriftsblanketter och genomskriftssystem.",
+        "products": "Genomskriftsblanketter, genomskriftssystem, paragonnotor, följesedlar, fakturor, ändlösa blanketter, hollerith- och powersblanketter, biljetter, motböcker.",
+        "contact": {
+            "office": "Vasag. 14",
+            "telegraph": "Centraltryck, Stockholm",
+            "phone": [
+                "'Esselte' o.",
+                "112719"
+            ],
+            "postgiro": "2831"
+        },
+        "foundation_year": 1895,
+        "board": [
+            {
+                "name": "Knut Östberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Gösta Smith",
+                "role": "Disp."
+            },
+            {
+                "name": "Åke G. Wickman",
+                "role": "ryttm."
+            },
+            {
+                "name": "Anders Hedenström",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "AB. Parajett",
+        "location": "Landskrona",
+        "business": "Bok- och biljettryckeri, bokbinderi och kartongfabrik.",
+        "products": "Formulär i ändlös bana, järnvägs-, omnibus- och spårvägsbiljetter, fraktsedlar m.m.",
+        "contact": {
+            "office": "Parajett, Landskrona",
+            "phone": "Parajett",
+            "postgiro": "13886"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 130
+            }
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "Gustaf A. Lindblom",
+                "role": "boktr."
+            },
+            {
+                "name": "S. Bernstone",
+                "role": "Disp."
+            },
+            {
+                "name": "Sture Ohlsson",
+                "role": "dir."
+            },
+            {
+                "name": "G. Wihlborg",
+                "role": "adv."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "Paulis Fabriks AB.",
+        "location": "Stockholm",
+        "business": "Kem. teknisk fabrik",
+        "products": "Tvål, parfymer, eau de Cologne, 'Azymol'-preparater, hudkräm, puder m.m.",
+        "contact": {
+            "office": "Huvudstavägen 65",
+            "telegraph": "'1841', Stockholm",
+            "phone": [
+                "507040",
+                "534030",
+                "537005"
+            ],
+            "postgiro": "2425"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1841,
+        "board": [
+            {
+                "name": "Åke Pauli",
+                "role": "ryttm."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Pauliströms Bruk",
+        "location": "Järnforsen",
+        "business": "Pappersbruk med träsliperi samt sågverk och snickerifabrik.",
+        "products": "Sulfitpapper, havannapapper, cellstoff, tvättbräden.",
+        "contact": {
+            "office": "Pauliström, Järnforsen",
+            "phone": [
+                "Hässlehult 11",
+                "Hässlehult 41"
+            ],
+            "postgiro": "169698"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "foundation_year": 1899,
+        "owners": [
+            "Hugo Drangel"
+        ],
+        "board": [
+            {
+                "name": "David Hedmar",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.41540999999999,
+            "Longitude": 15.62295
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Jon Paulssons Fiskredskapsfabrik",
+        "location": "Delsbo",
+        "business": "Tillverkar fiskredskap, spec. fisknät.",
+        "contact": {
+            "office": "Paulsson, Delsbo",
+            "phone": "37",
+            "postgiro": "30121"
+        },
+        "employees": {
+            "industriarb": 25
+        },
+        "foundation_year": 1895,
+        "owners": [
+            "fru S. Paulsson"
+        ],
+        "board": [
+            {
+                "name": "Arvid Paulsson",
+                "role": "Fabrikschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 61.7991324,
+            "Longitude": 16.5533824
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Sigfr. N. & O. Paulson AB.",
+        "location": "Lund",
+        "business": "Möbel- och snickerifabrik",
+        "products": "Möbler och inredningar.",
+        "contact": {
+            "phone": "10071"
+        },
+        "financials": {
+            "capital": "23,000 kr",
+            "employees": {
+                "arb.-antal": 10
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1893,
+        "board": [
+            {
+                "name": "Sigfr. N. Paulson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Olgard Andersson",
+                "role": "möbelarkitekt"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        },
+        "cluster": 8
+    }
+}

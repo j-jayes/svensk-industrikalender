@@ -1,0 +1,91 @@
+{
+    "1": {
+        "name": "Bröderna Erikssons Metallfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar belysningsarmatur och lampskärmsställningar samt utför metalltryckning och pressningar",
+        "contact": {
+            "office": "Tuleg. 19",
+            "phone": [
+                "814011",
+                "314024"
+            ],
+            "postgiro": "56206",
+            "head_office": "Stockholm",
+            "contact_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Unknown"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "Unknown",
+            "employees": {
+                "Unknown": 34
+            },
+            "annual_turnover": 470000,
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1919,
+        "owner_and_manager": "fabr. J. Ejnar Eriksson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Bröderna Eriksons Metallgjuteri AB",
+        "location": "Borlänge",
+        "business": "Metallgjuteri och metallfabrik. Tillverkar armatur och förgasare till motorer, båtbeslag, rörceller för automobilvärmare, kolvämnen av lättmetall m. m. samt utför metallgjutgods upp till 500 kg styckevikt",
+        "contact": {
+            "phone": "10501",
+            "postgiro": "26259"
+        },
+        "financials": {
+            "capital": 48500,
+            "employees": {
+                "Unknown": 15
+            },
+            "annual_turnover": 100000,
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1944,
+        "owner_and_manager": "ing. Bertil Erikson",
+        "coordinates": {
+            "Latitude": 60.484304,
+            "Longitude": 15.433969
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Bröderna Falk & Co.",
+        "location": "Motala",
+        "business": "Manufakturverk. Tillverkar rörskopor, spadar och skyfflar",
+        "contact": {
+            "phone": "157",
+            "postgiro": "26548",
+            "representatives": [
+                "AB. Emil Sjögren, Stockholm",
+                "Halmstads Järnvaru AB., Halmstad",
+                "G. V. Rundström & Co. AB., Norrköping"
+            ]
+        },
+        "financials": {
+            "capital": "Unknown",
+            "employees": {
+                "Unknown": 14
+            },
+            "annual_turnover": "Unknown",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": "Anlagt 1684",
+        "owner_and_manager": "fabr. Pontus Falk o. fabr. Oscar Falk",
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        },
+        "cluster": 6
+    }
+}

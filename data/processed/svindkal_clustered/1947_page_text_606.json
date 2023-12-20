@@ -1,0 +1,125 @@
+{
+    "1": {
+        "name": "Sandvikens Jernverks AB.",
+        "location": "Sandviken (Gävleb. l.)",
+        "business": "Järnverk med masugnar, bessemer-, martin- och elektrostålverk, varm- och kallvalsverk, smedjor, tråddrageri, sågbladsfabrik m. m.",
+        "products": "Specialstål, konstruktionsstål för automobiler och flygmaskiner, verktygsstål, kallvalsat bandstål, ohärdat och profilerat, sömlösa rör enligt svensk standard SMS, ångpannetuber, värmeledningstuber, gängade rör för gas, vatten och ånga, rör för specialändamål, silverstål, drivfjädrar, dragen tråd, hårdmetall och hårdmetallverktyg, sågar och sågblad, maskinknivar och maskinhyvelstål, sten- och smidesredskap, stålbandstransportörer m.m.",
+        "contact": {
+            "office": "Jernverket, Sandviken",
+            "phone": [
+                "Sandvikens Järnverk"
+            ],
+            "postgiro": "6714",
+            "head_office": "(head office address)",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "520080"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "172610"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "72330"
+                },
+                {
+                    "location": "Jönköping",
+                    "phone": "6520"
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": "55410"
+                },
+                {
+                    "location": "Eskilstuna",
+                    "phone": "31900"
+                }
+            ],
+            "telegraph": "Jernverket, Sandviken",
+            "factory_office": "(factory office address)",
+            "factory_phone": "(factory phone number)"
+        },
+        "financials": {
+            "capital": "35,000,000 kr",
+            "employees": {
+                "industriarb": 4700
+            },
+            "foundation_year": 1862,
+            "corporation_year": 1868
+        },
+        "board": [
+            {
+                "name": "K. F. Göransson",
+                "role": "bruksdisp."
+            },
+            {
+                "name": "Erik W. Forsberg",
+                "role": "disp."
+            },
+            {
+                "name": "Gunnar Magnuson",
+                "role": "dir."
+            },
+            {
+                "name": "Viktor Magnusson",
+                "role": "dir."
+            },
+            {
+                "name": "Erik G. Pehrsson",
+                "role": "dir."
+            },
+            {
+                "name": "Gustaf Söderlund",
+                "role": "bankdir."
+            },
+            {
+                "name": "Tage Wärn",
+                "role": "fd. statssekr."
+            }
+        ],
+        "director": "K. F. Göransson",
+        "managing_director": "K. F. Göransson",
+        "sales_manager": "Viktor Magnusson",
+        "coordinates": {
+            "Latitude": 60.6717302,
+            "Longitude": 16.7782707
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Sandvikens Metallvarufabrik",
+        "location": "Sandviken (Gävleb. l.)",
+        "products": "Spinnspön, inredningsdetaljer för butiksmontrar, hushållsartiklar av rostfritt stål, instrument och utensilier för tandläkare, snöskrapor (märke: »Bennie»)",
+        "contact": {
+            "office": "Box 1713, Sandviken",
+            "phone": [
+                "3574"
+            ],
+            "postgiro": "174680"
+        },
+        "financials": {
+            "employees": 7,
+            "annual_production_value": "12,000 kr",
+            "foundation_year": 1941
+        },
+        "owners": [
+            "William Lööf"
+        ],
+        "coordinates": {
+            "Latitude": 60.6717302,
+            "Longitude": 16.7782707
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "S:t Erik, Konfektions AB.",
+        "location": "Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    }
+}

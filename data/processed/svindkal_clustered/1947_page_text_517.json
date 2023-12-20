@@ -1,0 +1,326 @@
+{
+    "1": {
+        "name": "Monsun AB.",
+        "location": "Landskrona",
+        "business": "Fläktfabrik",
+        "products": "Tillverkar fläktar, värmebatterier, torkapparater och ventilationsradiatorer. Specialiteter: fläkthjul, utblåsningsgaller och plåtkåpor.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Monsunbolaget, Landskrona"
+            ],
+            "postgiro": "249930",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 43
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1939,
+        "current_name_year": 1944,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": "ing. Arne v. Snei-dern",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Lars Montén",
+        "location": "Stockholm",
+        "business": "Kem.-tekn. fabrik",
+        "products": "Tillverkar såpa.",
+        "contact": {
+            "office": "Alvik, Stockholm",
+            "phone": [
+                "Kemabolagen, Stockholm"
+            ],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1929,
+        "current_name_year": null,
+        "corporation_year": null,
+        "board": {
+            "name": "grossh. Robert Ljunglöf",
+            "role": "ordf."
+        },
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Hugo Montgomery AB.",
+        "location": "Stockholm",
+        "business": "Konstruerar och låter vid olika verkstäder tillverka lyftkranar och andra transportanordningar samt elektr. ljusbågsugnar; utför servisarbeten vid egen verkstad. Varumärke: »Huge». Bolaget driver såsom huvudrörelse handel med telfrar, truckar, gjuterimaskiner och förnödenheter.",
+        "products": null,
+        "contact": {
+            "office": "Nybrog. 42",
+            "phone": [
+                "679050"
+            ],
+            "postgiro": "52493",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "De-inater, Stockholm",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1918,
+        "current_name_year": 1943,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": "civiling. Hugo Montgomery",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": "civiling. Hugo Montgomery",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Mora Armaturfabrik AB.",
+        "location": "Mora",
+        "business": "Gjuteri och metallverkstad",
+        "products": "Tillverkar sanitetsarmatur",
+        "contact": {
+            "office": null,
+            "phone": [
+                "320",
+                "620"
+            ],
+            "postgiro": "99874",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Moraarmatur, Mora",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "1,300,000 kr",
+            "annual_production_value": "1,300,000 kr"
+        },
+        "foundation_year": 1927,
+        "current_name_year": 1938,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 61.004878,
+            "Longitude": 14.537003
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Mora Bryggeri AB.",
+        "location": "Mora",
+        "business": "Bryggerier",
+        "products": "Tillverkar maltdrycker, läskedrycker och kolsyrade mineralvatten.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Bryggeriet"
+            ],
+            "postgiro": "85475",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Bryggeribolaget, Mora",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_turnover": "1,900,000 kr",
+            "annual_production_value": "1,900,000 kr"
+        },
+        "foundation_year": 1872,
+        "current_name_year": null,
+        "corporation_year": null,
+        "board": {
+            "name": "dir. Nils G. Arvedson",
+            "role": "ordf."
+        },
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 61.004878,
+            "Longitude": 14.537003
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Moraindustri",
+        "location": "Mora",
+        "business": "Armaturfabrik",
+        "products": "Tillverkar sanitetsarmatur.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "332"
+            ],
+            "postgiro": "144714",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 46
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1936,
+        "current_name_year": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 61.004878,
+            "Longitude": 14.537003
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "AB. Moresco",
+        "location": "Malmö",
+        "business": "Kapp- och pälsvarufabrik",
+        "products": "Tillverkar dam- och barnkappor samt pälsvaror.",
+        "contact": {
+            "office": "Gustaf Adolfs Torg 12 A",
+            "phone": [
+                "71010"
+            ],
+            "postgiro": "38456",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Moresco, Malmö",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": "750,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1892,
+        "current_name_year": null,
+        "corporation_year": null,
+        "board": {
+            "name": "bankdir. William Lindahl",
+            "role": "ordf."
+        },
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "Morgårdshammars Mek. Verkstads AB.",
+        "location": "Morgärdshammar",
+        "business": "Mek. verkstad och elektr. vattenkraftstation",
+        "products": "Tillverkar maskiner för gruvor, järn-och stålverk m. m. Bolaget idkar jämväl jordbruk samt sågverks- och kvarnrörelse.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Morgärdshammar, Smedjebacken"
+            ],
+            "postgiro": "72287",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": null,
+        "current_name_year": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 60.14757729999999,
+            "Longitude": 15.3750885
+        },
+        "cluster": 6
+    }
+}

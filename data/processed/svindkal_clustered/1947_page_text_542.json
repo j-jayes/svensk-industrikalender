@@ -1,0 +1,165 @@
+{
+    "1": {
+        "name": "AB. Norrborns Tegelbruk",
+        "location": "Bollnäs",
+        "business": "Tegelbruk i Bollnäs (Norrbornsbruket) , och i Söräng (Sör ängsbruket) (båda i Gävleb. l.). Tillverkar mur- och taktegel, mellanväggsplattor samt dräneringsrör.",
+        "contact": {
+            "office": "Bollnäs",
+            "phone": "10870",
+            "postgiro": "142844"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "annual_turnover": "2 milj. 1 st. ’tegelvaror"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "tegelm. Oskar Gustafsson",
+                "role": "styrelse"
+            },
+            {
+                "name": "dir. David Sköld",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "kamrer Gustaf Sköld",
+                "role": "styrelse"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 61.34837950000001,
+            "Longitude": 16.3942685
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "AB. Norrbottens Cementgjuteri",
+        "location": "Öjehyn",
+        "business": "Betongvarufabrik och entreprenörfirma i öjebyn (Norrb. l.). Tillverkar avloppsrör, kulvertar, vibroblock, grundtegel, trottoarplattor samt betong och murbruk.",
+        "contact": {
+            "office": "öjebyn",
+            "phone": "Piteå 60041",
+            "postgiro": "67913"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb.": 40
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1945,
+        "director": "ing. Ivan Hedlund",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Norrbottens Järnverk AB.",
+        "location": "Luleå",
+        "business": "Elektriskt tackjärnsverk och elektriskt stålverk. Tillverkar martintackjärn, hematittaekjärn och gjuteri tackjärn samt elektrostålgöt.",
+        "contact": {
+            "office": "Luleå",
+            "phone": "Norrbottens Järnverk, Luleå",
+            "postgiro": "65311"
+        },
+        "financials": {
+            "capital": "26,500,000 kr",
+            "employees": {
+                "industriarb.": 225
+            },
+            "annual_turnover": "12,000,000 kr"
+        },
+        "corporation_year": 1940,
+        "board": [
+            {
+                "name": "dir. Sverre R:son Sohlman",
+                "role": "styrelse"
+            },
+            {
+                "name": "riksdagsm. Oscar Lövgren",
+                "role": "styrelse"
+            },
+            {
+                "name": "frih. Gerard De Geer",
+                "role": "styrelse"
+            },
+            {
+                "name": "bruksäg. R. v. Seth",
+                "role": "styrelse"
+            },
+            {
+                "name": "sekr. Gust. Vahlberg",
+                "role": "styrelse"
+            },
+            {
+                "name": "förbundsordf. Oscar Westerlund",
+                "role": "styrelse"
+            }
+        ],
+        "director": "Bertil Åström",
+        "managing_director": "Bertil Åström",
+        "coordinates": {
+            "Latitude": 65.584819,
+            "Longitude": 22.1567026
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Norrbottens Träförädlings AB.",
+        "location": "Luleå",
+        "business": "Sågverk, hyyleri, trähusfabrik och trä-mjölsfabrik. Tillverkar sågade och hyvlade trävaror, monteringsfärdiga trähus samt trämjöl för linoleum- och bakelitindustrierna m.fl. tekniska ändamål.",
+        "contact": {
+            "office": "Luleå",
+            "phone": "3630, 3631 o. 3632",
+            "postgiro": "65092"
+        },
+        "financials": {
+            "capital": "330,000 kr",
+            "employees": {
+                "industriarb.": 50
+            },
+            "annual_production_value": "1,300,000 kr"
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "Fritz Forsberg",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "Tage Forsberg",
+                "role": "inköpschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 65.584819,
+            "Longitude": 22.1567026
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Norrfors Snickerifabrik",
+        "location": "Norrfors",
+        "business": "Se AB, Norrlandsmöbler, Umeå.",
+        "coordinates": {
+            "Latitude": 63.77533,
+            "Longitude": 18.99881
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Norrhults Cjuteri",
+        "location": "Norrhult",
+        "business": "Gjuteri och mek. verkstad i Norrhult (Kronob. l.). Tillverkar byggnadsgjutprods, kokspisar, vattenvärmare, värmeledningspannor samt slussventiler.",
+        "coordinates": {
+            "Latitude": 57.1240064,
+            "Longitude": 15.1687493
+        },
+        "cluster": 6
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "1": {
+        "name": "Josef Anderson & Co-",
+        "location": "Kumla",
+        "business": "Manufacturing of randsydda, ago, and sandal-sydda dam- and barnskodon",
+        "contact": {
+            "office": "Kumla",
+            "phone": [
+                "70114"
+            ],
+            "postgiro": "84883"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 200000
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "fabr. Josef A. Anderson",
+                "role": "owner"
+            },
+            {
+                "name": "fabr. Carl James",
+                "role": "owner"
+            }
+        ],
+        "director": "Herbert Andersson",
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Joh. D. Andersson AB.",
+        "location": "Malmö",
+        "business": "Manufacturing of soap, detergents, eau de cologne, perfumes, cosmetic products, polishing agents, varnish, etc.",
+        "contact": {
+            "office": "Rönneholmsvägen 43 A, Malmö",
+            "phone": "21570",
+            "postgiro": "14049",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "533223"
+                }
+            ],
+            "telegraph": "Joda, Malmö"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 600000
+        },
+        "foundation_year": 1859,
+        "board": [
+            {
+                "name": "fru E. Andersson",
+                "role": "chairman"
+            },
+            {
+                "name": "adv. S. Malmquist",
+                "role": "board member"
+            },
+            {
+                "name": "ing. E. G. Warnholtz",
+                "role": "board member"
+            },
+            {
+                "name": "kapten H, Warnholtz",
+                "role": "board member"
+            }
+        ],
+        "director": "E. G. Warnholtz",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Jörgen Anderssons Snickeri & Möbelverkstad",
+        "location": "Djursholm",
+        "business": "Manufacturing of furniture and interior furnishings",
+        "contact": {
+            "office": "Djursholm",
+            "phone": "Stockholm 551743",
+            "postgiro": "28558"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_turnover": 60000
+        },
+        "foundation_year": 1923,
+        "owner": "snickaremäst. N. Jörgen Andersson",
+        "coordinates": {
+            "Latitude": 59.39707249999999,
+            "Longitude": 18.0903005
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "J. R. Andersson & Co. AB. (Rostfria Andersson)",
+        "location": "Sundbyberg",
+        "business": "Manufacturing of stainless steel sinks, containers, storage tanks, metal doors, window fixtures, elevator fronts, archive shelving, drafting cabinets, workbenches, tool cabinets, etc.",
+        "contact": {
+            "office": "Sundbyberg",
+            "phone": "Rostfria Andersson, Stockholm",
+            "postgiro": "52313"
+        },
+        "financials": {
+            "capital": 700000,
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": 2900000
+        },
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "G. Raabe",
+                "role": "chairman"
+            },
+            {
+                "name": "Vilhelm Björkman",
+                "role": "board member"
+            },
+            {
+                "name": "S. Rydberg",
+                "role": "board member"
+            }
+        ],
+        "director": "S. Rydberg",
+        "coordinates": {
+            "Latitude": 59.369325,
+            "Longitude": 17.9609133
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Karl Andersson, Möbelfabrik",
+        "location": "Örebro",
+        "business": "Manufacturing of supplementary furniture",
+        "contact": {
+            "office": "Örebro",
+            "phone": "11182",
+            "postgiro": "161501"
+        },
+        "financials": {
+            "employees": {
+                "antal": 5
+            },
+            "annual_turnover": 30000
+        },
+        "foundation_year": 1909,
+        "owner": "fabr. Roland Anderson",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "AB. Karl Andersson & Söner Möbelfabrik",
+        "location": "Huskvarna",
+        "business": "Manufacturing of pine furniture for holiday cottages and radio furniture",
+        "contact": {
+            "office": "Huskvarna",
+            "phone": "1330—31",
+            "postgiro": "77665"
+        },
+        "financials": {
+            "capital": 64000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 800000
+        },
+        "foundation_year": 1898,
+        "corporation_year": 1944,
+        "predecessor": "Oskar Hjalmarsson, Möbelfabrik, Siringe",
+        "board": [
+            {
+                "name": "fabr. Yngve Malmvall",
+                "role": "chairman"
+            },
+            {
+                "name": "verkm. Börje Malmvall",
+                "role": "board member"
+            },
+            {
+                "name": "verkm. Göran Malmvall",
+                "role": "board member"
+            },
+            {
+                "name": "fabr. Lennart Malmvall",
+                "role": "board member"
+            }
+        ],
+        "director": "Yngve Malmvall",
+        "coordinates": {
+            "Latitude": 57.7904141,
+            "Longitude": 14.2755781
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "Konrad Andersson AB.",
+        "location": "Kumla",
+        "business": "Manufacturing of vändsydda and ago-made women's shoes",
+        "contact": {
+            "office": "Kumla",
+            "phone": "70120",
+            "postgiro": "30348"
+        },
+        "financials": {
+            "capital": 31000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 300000
+        },
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "fabr. Gösta Andersson",
+                "role": "board member"
+            },
+            {
+                "name": "fabr. John Andersson",
+                "role": "board member"
+            },
+            {
+                "name": "fabr. Rudolf Andersson",
+                "role": "board member"
+            }
+        ],
+        "director": "John Andersson",
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "AB. Ludvig Anderson",
+        "location": "Kinna",
+        "business": "Spinning, weaving, and dyeing (Kasthalls Mattfabrik)",
+        "contact": {
+            "office": "Kinna",
+            "phone": "",
+            "postgiro": ""
+        },
+        "products": "Customized wool and jute rugs, hallway rugs in wool, cotton, and jute, horse blankets, and cow hair yarn",
+        "foundation_year": "",
+        "description": "The firm's information is incomplete",
+        "board": [],
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.50984,
+            "Longitude": 12.6941321
+        },
+        "cluster": 3
+    }
+}

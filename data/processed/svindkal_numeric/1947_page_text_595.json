@@ -1,0 +1,218 @@
+{
+    "1": {
+        "name": "N. R. Rosenbergs Verkstäder",
+        "location": "Hässleholm",
+        "business": "Byggnadssmiden, plåt- och balkkonstruktioner samt smides- och hovbeslag",
+        "contact": {
+            "office": "Hässleholm (Kristianst. l.)",
+            "phone": [
+                "148"
+            ],
+            "postgiro": "131293"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 11
+            },
+            "capital": "N/A",
+            "annual_turnover": 186000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1940,
+        "owners": [
+            "riksdagsman N. R. Rosenberg"
+        ],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 56.15891449999999,
+            "Longitude": 13.7667655
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "AB. Rosenblads Patenter",
+        "location": "Stockholm",
+        "business": "Ingenjörsfirma med mek. verkstad",
+        "products": "Värmeväxlare (»Spiralförvärmaren») samt apparatur för värmeåtervinningsanläggningar, kondenseringsanläggningar, indunstnings- och torkanläggningar, ångboxar och kondensatsystem.",
+        "contact": {
+            "office": "Ulvsunda (Stockholm)",
+            "phone": [
+                "670670"
+            ],
+            "postgiro": "85299"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "capital": 84000,
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "marining. Carl Asker",
+                "role": "ordf."
+            },
+            {
+                "name": "frih. Carl Rosenblad",
+                "role": "N/A"
+            },
+            {
+                "name": "civiling. Curt Rosenblad",
+                "role": "N/A"
+            }
+        ],
+        "director": "Curt Rosenblad",
+        "managing_director": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Rosendahls Fabriker AB.",
+        "location": "Filipstad",
+        "business": "Kem.-tekn. fabrik",
+        "products": "Carbon-papper, kalkérpapper, färgband, stenciler, skrivbläck, tekniska och andra kontors-artiklar m. m.",
+        "contact": {
+            "office": "Rosenfors (Kalmar l.)",
+            "phone": [
+                "Filipstad",
+                "Rosendahls Fabriker"
+            ],
+            "postgiro": "23838"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 75
+            },
+            "capital": 350000,
+            "annual_turnover": 2500000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1922,
+        "board": [
+            {
+                "name": "dir. Per Wenander",
+                "role": "ordf."
+            },
+            {
+                "name": "kamrer Bertil Bremberg",
+                "role": "N/A"
+            },
+            {
+                "name": "kamrer Yngve Wenander",
+                "role": "N/A"
+            }
+        ],
+        "director": "Per Wenander",
+        "managing_director": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 59.7139973,
+            "Longitude": 14.1698445
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "AB. Rosenfors Bruk",
+        "location": "Rosenfors",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Verktygsmaskiner såsom fräsmaskiner, snabbsvarvar och borrmaskiner jämte tillbehör. Bolaget har eget vattenkraftverk och driver jämväl jordbruk.",
+        "contact": {
+            "office": "Rosenfors (Kalmar l.)",
+            "phone": [
+                "Målilla 171",
+                "172",
+                "173"
+            ],
+            "postgiro": "8992"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 175
+            },
+            "capital": 100000,
+            "annual_turnover": 2100000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1802,
+        "board": [
+            {
+                "name": "bankdir. E. Beskow",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. G. Gyllensvärd",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Jonas Hult",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Hj. Svenfelt",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. L. Torstenson",
+                "role": "N/A"
+            }
+        ],
+        "director": "L. Torstenson",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 57.36628419999999,
+            "Longitude": 15.8381097
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Rosenforsmöbler",
+        "location": "Rosenfors",
+        "business": "Tillverkar matsalsmöbler i björk",
+        "contact": {
+            "office": "Rosenfors (Kalmar l.)",
+            "phone": [
+                "9"
+            ],
+            "postgiro": "99371"
+        },
+        "financials": {
+            "capital": 20700,
+            "employees": {
+                "antal": 10
+            },
+            "annual_turnover": 80000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1934,
+        "board": [],
+        "director": "N/A",
+        "managing_director": "Walter Carlberg",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 57.36628419999999,
+            "Longitude": 15.8381097
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "F. A. Rosengrens Kassaskåpsfabriks AB.",
+        "location": "Göteborg",
+        "business": "Mek. verkstad och specialfabrik för stålinredningar, stålmöbler och byggnadsartiklar",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    }
+}

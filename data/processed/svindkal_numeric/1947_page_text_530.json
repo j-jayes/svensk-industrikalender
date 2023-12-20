@@ -1,0 +1,293 @@
+{
+    "1": {
+        "name": "Gottfrid Nilsson",
+        "location": "Malmö",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m. samt snickerifabrik",
+        "contact": {
+            "office": "Agnesg. 6",
+            "phone": [
+                "71285"
+            ],
+            "postgiro": "148957"
+        },
+        "financials": {
+            "capital": "Not applicable",
+            "employees": {
+                "entreprenöravd": 20
+            },
+            "annual_turnover": 3500000,
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": 1927,
+        "director": "Gottfrid Nilsson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "AB. Gotthard Nilsson",
+        "location": "Älmhult",
+        "business": "Sorteringsanstalt för råmaterial till textil- och pappersindustrien, konstull-fabrik, metallsmältverk, tagel- och hårberedning i Älmhult (Kronob. l.)",
+        "contact": {
+            "telegraph": "Gotthard, Älmhult",
+            "phone": "Not applicable",
+            "postgiro": "30260",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "335711 o. 331752"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 655000,
+            "employees": {
+                "industriarb": 275
+            },
+            "annual_turnover": "Not applicable",
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": 1862,
+        "corporation_year": 1915,
+        "board": [
+            {
+                "name": "Gotthard Nilsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Gösta Ehrnst",
+                "role": "Not applicable"
+            },
+            {
+                "name": "Allan Gott-hardson",
+                "role": "Not applicable"
+            }
+        ],
+        "owners": [
+            "Not applicable"
+        ],
+        "director": "Gotthard Nilsson",
+        "coordinates": {
+            "Latitude": 56.5524461,
+            "Longitude": 14.1374047
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "AB. Gunnar Nilsson",
+        "location": "Karlskrona",
+        "business": "Snörmakeri och bandfabrik i Karlskrona, likkistfabrik och syfabrik i Häst-veda (Kristianst. l.)",
+        "contact": {
+            "office": "Karlskrona",
+            "phone": [
+                "1014",
+                "4156"
+            ],
+            "postgiro": "6095"
+        },
+        "financials": {
+            "capital": 165000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "Not applicable",
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": 1915,
+        "director": "Gunnar Nilsson",
+        "manager": "Sven Carlsson",
+        "coordinates": {
+            "Latitude": 56.161224,
+            "Longitude": 15.5869
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "G. H. Nilssons Trikåfabrik",
+        "location": "Borås",
+        "business": "Tillverkar herr- och damunderkläder i bomull och konstsilke",
+        "contact": {
+            "phone": [
+                "13291"
+            ],
+            "postgiro": "5381"
+        },
+        "financials": {
+            "capital": "Not applicable",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 250000,
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": 1932,
+        "director": "G. Herman Nilsson",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "J. W. Nilsson, Vagn- & Karossfabrik",
+        "location": "Uppsala",
+        "business": "Tillverkar omnibussar, olika slag av karosserier samt sportartiklar såsom bandy- och ishockeyklubbor (märke: »Siri-us»)",
+        "contact": {
+            "phone": "32330",
+            "postgiro": "176255"
+        },
+        "financials": {
+            "capital": "Not applicable",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 200000,
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": 1890,
+        "director": "fabr. Sven Nilsson",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "K. Nilssons Snickeri- & Kaross-fabrik",
+        "location": "Uppsala",
+        "business": "Tillverkar omnibuskarosserier, hytter och flak för bilar samt inredningssnic",
+        "contact": {
+            "phone": "35001",
+            "postgiro": "279385"
+        },
+        "financials": {
+            "capital": "Not applicable",
+            "employees": {
+                "Not applicable": 16
+            },
+            "annual_turnover": 200000,
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": 1924,
+        "director": "fabr. Karl Nilsson",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Nils Nilssons Gjuteri",
+        "location": "Falköping",
+        "business": "Gjuteri och mek. verkstad. Tillverkar som specialitet glasformsgjutgods samt tackjärnsgjutgods, gjuterimaskiner och torkugnseldstäder",
+        "contact": {
+            "phone": "260",
+            "postgiro": "80991"
+        },
+        "financials": {
+            "capital": "Not applicable",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 100000,
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": 1912,
+        "director": "fabr. Nils Nilsson",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Oscar Nilssons Metallfabrik",
+        "location": "Eskilstuna",
+        "business": "Tillverkar pressade arbeten av plåt i aluminium, mässing, koppar och järn",
+        "contact": {
+            "phone": [
+                "33312",
+                "3029(2)"
+            ],
+            "postgiro": "24313"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": {
+                "industriarb": 37
+            },
+            "annual_turnover": 480000,
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": 1898,
+        "corporation_year": 1940,
+        "board": [
+            {
+                "name": "fru Anna Nilsson",
+                "role": "Not applicable"
+            },
+            {
+                "name": "fabr. Georg Nilsson",
+                "role": "Not applicable"
+            },
+            {
+                "name": "fabr. Rudolf Nilsson",
+                "role": "Not applicable"
+            }
+        ],
+        "director": "Georg Nilsson",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "9": {
+        "name": "Wilh. Nilssons Snickerifabrik",
+        "location": "Oärsnäs",
+        "business": "Tillverkar fönster och dörrar samt inredningar vid fabrik i Gärsnäs (Kristianst. l.)",
+        "contact": {
+            "phone": "102"
+        },
+        "financials": {
+            "capital": "Not applicable",
+            "employees": {
+                "Not applicable": 2
+            },
+            "annual_turnover": 20000,
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": 1926,
+        "director": "fabr. Wilhelm Nilsson",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 8
+    },
+    "10": {
+        "name": "Åke Nilsson",
+        "location": "Malmö",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "phone": "Not applicable"
+        },
+        "financials": {
+            "capital": "Not applicable",
+            "employees": {
+                "Not applicable": "Not applicable"
+            },
+            "annual_turnover": "Not applicable",
+            "annual_production_value": "Not applicable"
+        },
+        "foundation_year": "Not applicable",
+        "director": "Åke Nilsson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    }
+}

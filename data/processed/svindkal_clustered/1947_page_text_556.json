@@ -1,0 +1,198 @@
+{
+    "1": {
+        "name": "Ny gcirde—Nykvarn",
+        "location": "Nykvarn",
+        "products": "Pappersbruk och kartongfabrik i Nykvarn (Sthlms l.). Tillverkar tryck-, skriv- och omslagspapper, tapetpapper, kartong m. m.",
+        "contact": {
+            "telegraph": "Nykvarn, Södertälje",
+            "phone": [
+                "Turinge 1",
+                "2",
+                "20"
+            ],
+            "postgiro": "15284",
+            "head_office": "Stockholm, Tegnérg. 15",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "231420"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "800,000 kr",
+            "employees": {
+                "industriarb": 200
+            }
+        },
+        "foundation_year": 1924,
+        "board": [
+            {
+                "name": "godsäg. Anders Bergengren",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gösta Du Rietz",
+                "role": null
+            },
+            {
+                "name": "civiling. G. Eckerbom",
+                "role": null
+            },
+            {
+                "name": "civiling. S. Lindahl",
+                "role": null
+            },
+            {
+                "name": "bank-ombudsm. Eric Paulson",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.178177,
+            "Longitude": 17.427816
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Nyhammars Bruk",
+        "location": "Nyhammar",
+        "products": "Järnverk med mekanisk verkstad och gjuteri, manufaktursmedje, elektromek. verkstad, sågverk och snickeriverkstad vid Nyhammar (Kopparb. l.). Tillverkar maskiner för gruvor och anrikningsverk, plåtarbeten, fackverkskonstruktioner, gjutgods, elektriska trefasmotorer samt sågade och hyvlade trävaror.",
+        "contact": {
+            "telegraph": "Nyhammarsbruk, Ludvika",
+            "phone": [
+                "Grangärde 1",
+                "35"
+            ],
+            "postgiro": "24621"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "disp. J. Kempe",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Atle Lundström",
+                "role": null
+            },
+            {
+                "name": "disp. Anton P. Ohlson",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.28775270000001,
+            "Longitude": 14.9674176
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Nyhammars Träullsfabriks AB",
+        "location": "Tuna Hästberg",
+        "products": "Tillverkar träull vid fabrik i Nyhammar (Kopparb. l.)",
+        "contact": {
+            "phone": "4",
+            "postgiro": "177875"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 14
+            }
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "Disp. Helmer Hellander",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.33227409999999,
+            "Longitude": 15.1783249
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Nyhamns AB.",
+        "location": "Sundsvall",
+        "products": "Sulfitfabrik och sulfitspritfabrik vid Nyhamn, Essvik (Västernorrl. l.). Driftem f. n. nedlagd.",
+        "contact": {
+            "head_office": "Sundsvall",
+            "phone": null
+        },
+        "financials": {
+            "capital": "2,502,500 kr"
+        },
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "dir. Torsten Hérnod",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gust. Göranson",
+                "role": null
+            },
+            {
+                "name": "dir. Gust. J. Sahlin",
+                "role": null
+            },
+            {
+                "name": "bankdir. P. F. Wåhlin",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Ny hems Mek. Verkstad",
+        "location": "Halmstad",
+        "products": "Tillverkar velocipeddetaljer såsom kedjeskydd, styrstänger och styrstammar, sadelstolpar, packningshållare, barnsadlar m. m.; utför förnickling och förtkromning.",
+        "contact": {
+            "telegraph": "Erex, Halmstad",
+            "phone": [
+                "1270—71",
+                "1063"
+            ],
+            "postgiro": "30534"
+        },
+        "financials": {
+            "capital": "53,000 kr",
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "fru A. Rex",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "Stig Rex",
+                "role": "disp."
+            },
+            {
+                "name": "Sam Thurén",
+                "role": "driftsing."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 1
+    }
+}

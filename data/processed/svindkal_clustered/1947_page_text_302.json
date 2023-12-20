@@ -1,0 +1,205 @@
+{
+    "1": {
+        "name": "AB. J. C. Fredlund & C:o",
+        "location": "Alunda (Uppsala l.)",
+        "business": "Snickerifabrik",
+        "products": "Tillverkar byggnadssnickerier; specialitet: W-trälamelldörrar. Driver även försäljning av plywood och träfiberplattor.",
+        "contact": {
+            "office": "Alunda",
+            "phone": [
+                "136"
+            ],
+            "postgiro": "94933",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "318821"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "320130"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "105,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "450,000 kr",
+            "annual_production_value": "450,000 kr"
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "Åke Nyberg",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Gunnar Arnbrink",
+                "role": "Styrelse"
+            },
+            {
+                "name": "David Berg",
+                "role": "disp."
+            },
+            {
+                "name": "N. Lindoff",
+                "role": "herr"
+            },
+            {
+                "name": "Sten Tiberg",
+                "role": "civiling."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.0638925,
+            "Longitude": 18.0802923
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. B. Fredriksons Snickeri",
+        "location": "Stockholm",
+        "business": "Snickeriarbeten",
+        "products": "Utför snickeriarbeten, företrädesvis furuarbeten och reparationer",
+        "contact": {
+            "office": "Gamla Brogatan 36",
+            "phone": [
+                "116699",
+                "119868"
+            ],
+            "postgiro": "52608"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "arb-antal": 10
+            },
+            "corporation_year": 1939
+        },
+        "foundation_year": 1918,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "AB. Freese & Bruno",
+        "location": "Åby (Östergötl. l.)",
+        "business": "Ullspinneri, väveri, färgeri och appreturverk",
+        "products": "Tillverkar finare kamgarner, yllevävnader för herr- och damkläder, kulört boj, svensk-ulls-tweed och »stormcord» samt möbel-och draperityg av cellull",
+        "contact": {
+            "telegraph": "Ylleåby, Åby",
+            "phone": "Norrköping 50274",
+            "postgiro": "11107"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "corporation_year": 1908
+        },
+        "foundation_year": 1899,
+        "coordinates": {
+            "Latitude": 58.66449960000001,
+            "Longitude": 16.181169
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Freiberger & Andrae",
+        "location": "Stockholm",
+        "business": "Instrumentfabrik",
+        "products": "Tillverkar termometrar, areometrar samt glasinstrument och apparater för industri- och laboratoriebruk",
+        "specialities": "Specialiteter: Termometrar o. kvicksilverströmbrytare",
+        "contact": {
+            "office": "Flemingg. 9",
+            "telegraph": "Glasterm, Stockholm",
+            "phone": [
+                "535402",
+                "510310"
+            ],
+            "postgiro": "55378"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1932,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Harald Friberg",
+        "location": "Töreboda (Skarab. l.)",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar turistsängar, soffor, schäslonger och ottomaner med vävda ståltrådsbottnar samt barnkammarmöbler, kontors- och köksinredningar",
+        "contact": {
+            "phone": "330",
+            "postgiro": "71905"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1910,
+        "corporation_year": 1932,
+        "coordinates": {
+            "Latitude": 58.70550919999999,
+            "Longitude": 14.1261468
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "AB. Fribärande Träkonstruktioner",
+        "location": "Töreboda (Skarab. l.)",
+        "business": "Snickerifabrik, hyvleri och monteringshall",
+        "products": "Tillverkar fribärande träkonstruktioner till tak och broar enligt system: »Töreboda» och »Kreiiger», spannmålssilo av trä samt glastak",
+        "contact": {
+            "telegraph": "Träkonstruktioner, Töreboda",
+            "phone": "102",
+            "postgiro": "172400",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "611760-61"
+                }
+            ]
+        },
+        "board": [
+            {
+                "name": "Verkst. dir.: Gottfrid Fredlund",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fabr. Gottfrid Fredlund",
+                "role": "ordf."
+            },
+            {
+                "name": "ver km. *Ebbe Fredlund",
+                "role": "Styrelse"
+            },
+            {
+                "name": "ing. Martin Lindell",
+                "role": "Styrelse"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.70550919999999,
+            "Longitude": 14.1261468
+        },
+        "cluster": 7
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "1": {
+        "name": "Stidsvigs & Hälsingborgs Limfabriker AB",
+        "location": "Hälsingborg",
+        "business": "Lim- och benmjölsfabrik",
+        "products": "Tillverkar hudlim och Ibenlim, foder- och gödselbenmjöl, hornmjöl, benfett m. m.",
+        "contact": {
+            "office": "Hälsingborg",
+            "phone": [
+                "20010"
+            ],
+            "postgiro": "14471",
+            "telegraph": "Limfabrikerna, Hälsingborg"
+        },
+        "financials": {
+            "capital": 950000,
+            "employees": {
+                "total": 110
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1895,
+        "board": [
+            {
+                "name": "Anders Bergengren",
+                "role": "ordf."
+            },
+            {
+                "name": "Gösta Du Rietz",
+                "role": "dir."
+            },
+            {
+                "name": "Gustaf JEckerbom",
+                "role": "dir."
+            },
+            {
+                "name": "G. Guggenheimer",
+                "role": "dir."
+            },
+            {
+                "name": "Sune Lindahl",
+                "role": "ing."
+            },
+            {
+                "name": "Eric Paulson",
+                "role": "bankombudsm."
+            },
+            {
+                "name": "G. Guggenheimer",
+                "role": "verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB Stiftet",
+        "location": "Åstorp",
+        "business": "Fabrik för tillverkning av blyerts- och kopiepennor",
+        "products": "N/A",
+        "contact": {
+            "office": "Åstorp",
+            "phone": [
+                "273"
+            ],
+            "postgiro": "250254"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "total": 60
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1943,
+        "board": [
+            {
+                "name": "major K. Aschan",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.134262,
+            "Longitude": 12.945908
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Stigens AB",
+        "location": "Stigen",
+        "business": "Ullspinneri, ylleväveri, färgeri och beredningsverk",
+        "products": "Tillverkar ullgarn, hel- och halvyllevävnader, filtar m. m.",
+        "contact": {
+            "office": "Stigen",
+            "phone": [
+                "F är g e-landa 4"
+            ],
+            "postgiro": "72000",
+            "telegraph": "Ylle-koncernen, Uddevalla"
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "total": 331
+            },
+            "annual_turnover": 2500000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1897,
+        "owners": [
+            "Svenska Yllekoncernen AB., Tidan"
+        ],
+        "board": [
+            {
+                "name": "bankdir. E. Löwenhard",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. C. G. Lundberg",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.566961,
+            "Longitude": 12.0641997
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "AB Alf Stigens Färgeri",
+        "location": "Sandared",
+        "business": "Färgeri, appreteringsyerk och konstläderfabrik",
+        "products": "Utför färgning, beredning, prägling, ruggning och skärning m. m. Specialiteter: förädling av sidenvävnader, konstläder, konst-gummering å vävnader och trikå samt bokbinderi- och rullgardinsväv.",
+        "contact": {
+            "office": "Sandared",
+            "phone": [
+                "Borås 55170"
+            ],
+            "postgiro": "92310"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "total": 200
+            },
+            "annual_turnover": 4000000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "dir. Alf Stigen",
+                "role": "ordf."
+            },
+            {
+                "name": "fru H. Stigen",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.7099364,
+            "Longitude": 12.7924104
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "AB Stilkorsetter",
+        "location": "Borås",
+        "business": "Tillverkar korsetter och korseletter, höfthållare samt strump- och bysthållare",
+        "contact": {
+            "phone": [
+                "15350"
+            ],
+            "postgiro": "132101"
+        },
+        "financials": {
+            "capital": 52000,
+            "employees": {
+                "total": 20
+            },
+            "annual_turnover": 350000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "Folke Berntson",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB Stille-Werner",
+        "location": "Stockholm",
+        "business": "Instrumentfabrik och mek. verkstad, förbands- och bandagefabrik",
+        "products": "Tillverkar kirurgiska instrument, sjukhus- och operationsmöbler samt förbandsartiklar; utför hejarsmide.",
+        "contact": {
+            "office": "Bondeg. 21",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "3494"
+        },
+        "financials": {
+            "capital": 700000,
+            "employees": {
+                "total": 200
+            },
+            "annual_turnover": 2000000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1841,
+        "board": [
+            {
+                "name": "disp, Nils Westerdahl",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Olof Lindström",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. Gunnar K. H. Andersson",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. Gösta Died-richs",
+                "role": "N/A"
+            },
+            {
+                "name": "med. lic. Harald Nilsonne",
+                "role": "N/A"
+            },
+            {
+                "name": "med. dr Einar Perman",
+                "role": "N/A"
+            },
+            {
+                "name": "med. dr Georg öhngren",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB Stilmöbler",
+        "location": "Linköping",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "telegraph": "Stilmöbler, Linköping",
+            "phone": [
+                "20823"
+            ],
+            "postgiro": "98700"
+        },
+        "financials": {
+            "capital": 61600,
+            "employees": {
+                "total": 35
+            },
+            "annual_turnover": 350000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "fabr. Carl Johansson",
+                "role": "chef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "AB Stjernfors-Ställdalen",
+        "location": "Ställdalen",
+        "business": "Masugnar jämte anriknings- och sinteringsverk",
+        "products": "Bolaget bryter järnmalm samt tillverkar tackjärn, sågade och hyvlade trävaror",
+        "contact": {
+            "office": "Ställdalen",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "N/A"
+        },
+        "foundation_year": "N/A",
+        "board": [],
+        "coordinates": {
+            "Latitude": 59.93729020000001,
+            "Longitude": 14.9403352
+        },
+        "cluster": 6
+    }
+}

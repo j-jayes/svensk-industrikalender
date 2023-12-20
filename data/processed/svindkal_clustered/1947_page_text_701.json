@@ -1,0 +1,234 @@
+{
+    "1": {
+        "name": "Sågmyra—Säng fabriken",
+        "location": "Sågmyra",
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "1,100,000 kr",
+            "annual_production_value": "1,100,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "Einar Wibell",
+                "role": "disp."
+            },
+            {
+                "name": "K. R. Hulin",
+                "role": "ing."
+            },
+            {
+                "name": "Ester Wibell",
+                "role": "fru"
+            }
+        ],
+        "director": "Einar Wibell",
+        "managing_director": "Einar Wibell",
+        "contact": {
+            "phone": [
+                "65",
+                "565"
+            ],
+            "postgiro": "8619"
+        },
+        "coordinates": {
+            "Latitude": 60.71109209999999,
+            "Longitude": 15.3122982
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "AB. Säffle Gjuteri & Mek.",
+        "location": "Säffle",
+        "products": "Grovplåtslageri, gjuteri och mek. verkstad",
+        "financials": {
+            "capital": "220,000 kr",
+            "employees": {
+                "industriarb": 86
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "Chr. Storjohann",
+                "role": "disp."
+            },
+            {
+                "name": "C. Börjeson",
+                "role": "grossh."
+            },
+            {
+                "name": "K. Gunnar Larsson",
+                "role": "disp."
+            },
+            {
+                "name": "Gösta Larsson",
+                "role": "kamrer"
+            },
+            {
+                "name": "B. Pedersen",
+                "role": "övering."
+            }
+        ],
+        "director": "K. Gunnar Lärsson",
+        "contact": {
+            "phone": [
+                "31",
+                "431"
+            ],
+            "postgiro": "81589"
+        },
+        "coordinates": {
+            "Latitude": 59.132661,
+            "Longitude": 12.930107
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Seffle Motorverkstad, Bröderna Bruce",
+        "location": "Säffle",
+        "products": "Motorfabrik",
+        "financials": {
+            "capital": "650,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "1,475,000 kr",
+            "annual_production_value": "1,475,000 kr"
+        },
+        "foundation_year": 1908,
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "Carl L. Bruce",
+                "role": "fabr."
+            },
+            {
+                "name": "J. Bernhard Bruce",
+                "role": "fabr."
+            }
+        ],
+        "director": "Carl L. Bruce",
+        "contact": {
+            "phone": "110",
+            "postgiro": "25733"
+        },
+        "coordinates": {
+            "Latitude": 59.132661,
+            "Longitude": 12.930107
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Seffle Möbelfabrik",
+        "location": "Säffle",
+        "products": "Tillverkar möbler",
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "750,000 kr",
+            "annual_production_value": "750,000 kr"
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Einar Andersson",
+                "role": "maskinsnickare"
+            },
+            {
+                "name": "Erik Jansson",
+                "role": "polerare"
+            },
+            {
+                "name": "Otto Karlsson",
+                "role": "disp."
+            }
+        ],
+        "director": "Otto Karlsson",
+        "contact": {
+            "phone": [
+                "127",
+                "407"
+            ],
+            "postgiro": "131900"
+        },
+        "coordinates": {
+            "Latitude": 59.132661,
+            "Longitude": 12.930107
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "AB. Sängfabriken, Stockholm",
+        "location": "örbyhus",
+        "business": "Järnsängsfabrik, snickerifabrik och tapetserareverkstad",
+        "products": "Tillverkar trä- och järnsängar, stål-rörsmöbler och sängkläder",
+        "financials": {
+            "capital": "325,000 kr",
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "2,360,000 kr"
+        },
+        "foundation_year": 1899,
+        "corporation_year": 1926,
+        "current_name_year": 1934,
+        "board": [
+            {
+                "name": "Clas Östberg",
+                "role": "adv."
+            },
+            {
+                "name": "Eric Ericsson",
+                "role": "dir."
+            },
+            {
+                "name": "Tore Ericsson",
+                "role": "dir."
+            }
+        ],
+        "director": "Tore Ericsson",
+        "contact": {
+            "phone": "101295",
+            "postgiro": "1651"
+        },
+        "coordinates": {
+            "Latitude": 60.22448389999999,
+            "Longitude": 17.7015559
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Sängfabriken Princess, Stockholm",
+        "location": "Bernshammar",
+        "business": "Järnsängsfabrik",
+        "products": "Tillverkar järnsängar, stålotto-maner, hopfällbara järnsängar",
+        "financials": {
+            "capital": "not available",
+            "employees": {
+                "industriarb": 150
+            }
+        },
+        "foundation_year": 1908,
+        "board": [],
+        "contact": {
+            "phone": [
+                "209317",
+                "18"
+            ],
+            "postgiro": "130252"
+        },
+        "coordinates": {
+            "Latitude": 59.6674983,
+            "Longitude": 15.7703286
+        },
+        "cluster": 6
+    }
+}

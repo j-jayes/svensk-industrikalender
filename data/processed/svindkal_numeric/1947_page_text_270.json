@@ -1,0 +1,234 @@
+{
+    "1": {
+        "name": "Eriksson & Co., Möbelfabriken Standard",
+        "location": "Norrköping",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar möbler",
+        "contact": {
+            "office": "Standard, Norrköping",
+            "postgiro": "30700",
+            "sales_offices": [
+                {
+                    "location": "Norrköping",
+                    "phone": "XXXXXXX"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": 1200000,
+            "annual_production_value": 1200000
+        },
+        "foundation_year": 1939,
+        "board": [
+            {
+                "name": "Ragnar Flygt",
+                "role": "direktör (ordförande)"
+            },
+            {
+                "name": "Gustaf Lindqvist",
+                "role": "disponent"
+            },
+            {
+                "name": "R. Strand",
+                "role": "direktör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Erikson & Larson",
+        "location": "Borås",
+        "business": "Herrkonfektionsfabrik",
+        "products": "Tillverkar arbetskläder och trikåvaror",
+        "contact": {
+            "office": "Borås",
+            "postgiro": "30700"
+        },
+        "financials": {
+            "capital": 3037000,
+            "employees": {
+                "industriarb": 420
+            },
+            "annual_turnover": "Unknown",
+            "annual_production_value": "Unknown"
+        },
+        "foundation_year": 1892,
+        "board": [
+            {
+                "name": "Knut N. Jansson",
+                "role": "direktör (ordförande)"
+            },
+            {
+                "name": "fru A. Erikson",
+                "role": "Unknown"
+            },
+            {
+                "name": "G. Hedelin",
+                "role": "kamrer"
+            },
+            {
+                "name": "fru Siri Larson",
+                "role": "Unknown"
+            },
+            {
+                "name": "Edvard Nordström",
+                "role": "disponent"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Eriksson & Larssons Felbhattfabrik",
+        "location": "Eskilstuna",
+        "business": "Felbhatttillverkning",
+        "products": "Tillverkar felbhattar",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": "32294",
+            "postgiro": "76334"
+        },
+        "financials": {
+            "annual_production_value": 80000
+        },
+        "foundation_year": 1925,
+        "owners": [
+            "hattmakare David Eriksson",
+            "hattmakare Martin Larsson"
+        ],
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "AB. Eriksson & Starks Mek. Verkstad",
+        "location": "Ulvsunda",
+        "business": "Mekanisk verkstad",
+        "products": "Tillverkar genomskriftapparater, märkningsmaskiner, oljereningsapparater",
+        "contact": {
+            "office": "Ulvsunda, Stockholm",
+            "phone": [
+                "256133",
+                "259466"
+            ],
+            "postgiro": "13429"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_turnover": 345000
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "fabr. Tyko Stark",
+                "role": "verkställande direktör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.33688530000001,
+            "Longitude": 17.9638876
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Axel Erikssons Instrumentfirma",
+        "location": "Göteborg",
+        "business": "Instrumenttillverkning",
+        "products": "Tillverkar instrument",
+        "contact": {
+            "office": "Göteborg"
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Axel Eriksson & Co. Snickeri AB",
+        "location": "Dala-Floda",
+        "business": "Snickeri",
+        "products": "Tillverkar byggnadssnickerier, köksinredningar, möbler",
+        "contact": {
+            "office": "Dala-Floda",
+            "phone": "120"
+        },
+        "financials": {
+            "capital": 5000,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": 100000
+        },
+        "foundation_year": 1945,
+        "coordinates": {
+            "Latitude": 60.5079552,
+            "Longitude": 14.7926914
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "A. Erik Eriksson, Byggnadsfirman",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenör",
+        "products": "Bygger bostads- och affärshus, industribyggnader",
+        "contact": {
+            "office": "Stockholm",
+            "phone": [
+                "112679",
+                "112697"
+            ],
+            "postgiro": "193860"
+        },
+        "owner": "ing. A. Erik Eriksson",
+        "foundation_year": 1943,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "AB. A. K. Eriksson",
+        "location": "Mariannelund",
+        "business": "Mekanisk verkstad och snickerifabrik",
+        "products": "Tillverkar maskiner för klingsågindustrin, lyftanordningar",
+        "contact": {
+            "office": "Mariannelund",
+            "phone": [
+                "40",
+                "140"
+            ],
+            "postgiro": "91030"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": 900000
+        },
+        "foundation_year": 1917,
+        "coordinates": {
+            "Latitude": 57.6165963,
+            "Longitude": 15.5735249
+        },
+        "cluster": 6
+    }
+}

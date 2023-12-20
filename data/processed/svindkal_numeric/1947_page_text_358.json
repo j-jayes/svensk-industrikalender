@@ -1,0 +1,204 @@
+{
+    "1": {
+        "name": "Hellmans Gjuteri & Mek. Verkstad AB",
+        "location": "Norberg",
+        "business": "Tillverkar transportanordningar, järnkonstruktioner och gjutgods samt utför maskin-, plåt- och svetsningsarbeten vid verkstad i Norberg (Västmanlands län).",
+        "contact": {
+            "office": "Telefon: 132 o. 199",
+            "postgiro": "133019"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1928,
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "Alvar Hellman",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.06504200000001,
+            "Longitude": 15.923796
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Max Hellmann",
+        "location": "Norrköping",
+        "business": "Ylleväveri. Tillverkar finare kamgarns-tyger, cheviot och paletå.",
+        "contact": {
+            "telegraph": "Maxmann. Norrköping",
+            "phone": [
+                "20002",
+                "25001",
+                "25012"
+            ],
+            "postgiro": "92500"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industriarb.": 120
+            },
+            "annual_turnover": 3800000,
+            "annual_production_value": 3800000
+        },
+        "foundation_year": 1894,
+        "corporation_year": 1919,
+        "board": [
+            {
+                "name": "konsul Carl Fr. Hellmann",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Gösta W. Hellmann",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Martin Petterson",
+                "role": "Kontorschef"
+            }
+        ],
+        "director": "Carl Fr. Hellmann o. Gösta W. Hellmann",
+        "manager": "Martin Petterson",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "AB. A. Heltqvist",
+        "location": "Göteborg",
+        "business": "Påsfabrik i Alingsås. Tillverkar papperspåsar, vaxpapper, tryckt omslagspapper, toalettpapper, hyllpapper samt goffrerat papper.",
+        "contact": {
+            "office": "Huvudkontor: Göteborg, Mellbyg.",
+            "phone": "157001—04",
+            "postgiro": "43438",
+            "factory_office": "Fabrikskontor: Alingsås",
+            "factory_phone": "135"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_turnover": 750000,
+            "annual_production_value": 750000
+        },
+        "corporation_year": 1920,
+        "manager": "John Magnusson (Göteborg)",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "AB. Wilh. Hellströms Trikåindustri",
+        "location": "Göteborg",
+        "business": "Charmeuseväveri och damkonfektionsfabrik. Tillverkar dam- och herrunderkläder i charmeuse, huvudsakligen damartiklar såsom linnen, benkläder, nattlinnen m. m.",
+        "contact": {
+            "office": "Kontor: Byfogdeg. 13",
+            "phone": "158116",
+            "postgiro": "45776"
+        },
+        "financials": {
+            "capital": 40000,
+            "employees": {
+                "industriarb.": 18
+            },
+            "annual_turnover": 350000,
+            "annual_production_value": 350000
+        },
+        "foundation_year": 1938,
+        "manager": "Erik L. Pedersen (Borås)",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Helmar AB.",
+        "location": "Göteborg",
+        "business": "Kemisk-teknisk fabrik. Tillverkar oljereningsfilter m. m.",
+        "contact": {
+            "office": "Kontor: Kvilleg. 9 c",
+            "telegraph": "La-tem, Göteborg",
+            "phone": [
+                "118500",
+                "225236"
+            ],
+            "postgiro": "48610"
+        },
+        "financials": {
+            "capital": 18000,
+            "employees": {
+                "industriarb.": 5
+            }
+        },
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "J. H. Vesterlund",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Henjo AB.",
+        "location": "Malung",
+        "business": "Tillverkar tröjor, kavajer, rockar och västar av skinn samt dam- och herrhandskar, sport- och arbetshandskar vid fabrik i Malung (Kopparbergs län).",
+        "contact": {
+            "phone": "37",
+            "postgiro": "11644"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": 500000
+        },
+        "corporation_year": 1937,
+        "director": "Henrik Johnsson",
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "AB. Hugo Hennig",
+        "location": "Borås",
+        "business": "Handel med textilmaskiner och fabriksförnödenheter samt Svenska Stålsolfabriken, Borås, som tillverkar stålsolv, kompletta skaftramar jämte tillbehör, jacquardvikter m. m.",
+        "contact": {
+            "telegraph": "Hennig. Borås",
+            "phone": [
+                "10698",
+                "11768",
+                "11440"
+            ],
+            "postgiro": "6777"
+        },
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 6
+    }
+}

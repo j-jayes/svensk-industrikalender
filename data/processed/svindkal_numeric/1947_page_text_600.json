@@ -1,0 +1,248 @@
+{
+    "1": {
+        "name": "Rydéns Metallindustri",
+        "location": "Gnosjö",
+        "business": "Metallvarufabrik",
+        "products": "Tillverkar handdukshängare, skohorn, skyltmateriel m.m., samt utför förnickling, förkromning och kadmiering",
+        "contact": {
+            "office": "Gnosjö (Jönköp. l.)",
+            "phone": [
+                "81"
+            ],
+            "postgiro": "76257",
+            "factory_phone": "81"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": 150000,
+            "annual_production_value": 150000
+        },
+        "foundation_year": 1928,
+        "owners": [
+            "Adolf Rydén"
+        ],
+        "manager": "Adolf Rydén",
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Littorin Rydén Boktryckeri",
+        "location": "Örebro",
+        "business": "Boktryckeri",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "19160"
+            ],
+            "postgiro": "31077"
+        },
+        "financials": {
+            "capital": 77000,
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1906,
+        "corporation_year": 1915,
+        "board": [
+            {
+                "name": "Bror Lewander",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "AB. Rymans Bryggeri",
+        "location": "Varberg",
+        "business": "Svagdricksbryggeri",
+        "products": "Tillverkar färsk svagdricka",
+        "contact": {
+            "office": "Varberg",
+            "phone": [
+                "234"
+            ],
+            "postgiro": "73308"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "arb-antal": 10
+            },
+            "annual_turnover": 200000
+        },
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "Erland Skantze",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Knut Olow",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Olof Skantze",
+                "role": "Bryggm."
+            }
+        ],
+        "director": "Erland Skantze",
+        "manager": "Erland Skantze",
+        "sales_manager": "Georg Ström",
+        "coordinates": {
+            "Latitude": 57.107118,
+            "Longitude": 12.2520907
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Georg Rymans Snickeriverkstäder",
+        "location": "Stockholm",
+        "business": "Möbeltillverkare",
+        "products": "Tillverkar möbler, inredningar för butiker och fartyg samt byggnadssnickerier",
+        "contact": {
+            "office": "Skrubba, Stockholm",
+            "phone": [
+                "282194",
+                "Älta 5"
+            ],
+            "postgiro": "57189"
+        },
+        "financials": {
+            "employees": {
+                "arb-antal": 10
+            },
+            "annual_turnover": 90000
+        },
+        "foundation_year": 1872,
+        "owners": [
+            "Georg Ryman"
+        ],
+        "manager": "Georg Ryman",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Rågsvedens Snickeri, P. O. Olsson & C:o",
+        "location": "Rågsveden",
+        "business": "Snickeriverkstad",
+        "products": "Tillverkar köksinredningar",
+        "contact": {
+            "office": "Rågsveden (Kopparb. l.)",
+            "phone": [
+                "51",
+                "58"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_turnover": 130000
+        },
+        "foundation_year": 1936,
+        "manager": "Per Olof Olsson",
+        "coordinates": {
+            "Latitude": 60.4739713,
+            "Longitude": 14.0863525
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "Rånäs Bruks AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar zinkvitt",
+        "products": "Tillverkar zinkvitt",
+        "contact": {
+            "office": "Rånäs (Sthlms l.)",
+            "phone": [
+                "674788"
+            ],
+            "postgiro": "197172"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "corporation_year": 1940,
+        "board": [
+            {
+                "name": "Herman Huldt",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Bo Huldt",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Andreas Johansson",
+                "role": "Övering."
+            },
+            {
+                "name": "T. Thoresen",
+                "role": "Konsul"
+            },
+            {
+                "name": "Nils Wågberg",
+                "role": "Dir."
+            }
+        ],
+        "director": "Herman Huldt",
+        "manager": "Herman Huldt",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "C. C. Råström, Silver- och Nysilver-fabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar silver- och nysilvervaror",
+        "products": "Specialitet: restaurantförsilvring",
+        "contact": {
+            "office": "Tunnelg. 11",
+            "phone": [
+                "212462"
+            ],
+            "postgiro": "195321"
+        },
+        "financials": {
+            "capital": "Not specified"
+        },
+        "foundation_year": 1915,
+        "owners": [
+            "Carl G. Råström"
+        ],
+        "manager": "Carl G. Råström",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Rättviks Spisbrödsfabrik",
+        "location": "Rättvik (Kopparb. L)",
+        "business": "Tillverkar spisbröd",
+        "coordinates": {
+            "Latitude": 60.889025,
+            "Longitude": 15.123373
+        },
+        "cluster": 1
+    }
+}

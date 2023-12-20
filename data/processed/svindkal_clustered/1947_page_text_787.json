@@ -1,0 +1,244 @@
+{
+    "1": {
+        "name": "Ölands Maltfabrik, AB",
+        "location": "Borgholm",
+        "business": "Tillverkar malt. Bolaget driver även handel med spannmål, fodervaror, gödningsämnen och utsäde.",
+        "contact": {
+            "telegraph": "Maltfabriken, Borgholm",
+            "phone": [
+                "31",
+                "78"
+            ],
+            "postgiro": "73895"
+        },
+        "financials": {
+            "capital": "65,900 kr",
+            "employees": {
+                "total": 8
+            },
+            "annual_turnover": "180,000 kr",
+            "annual_production_value": "180,000 kr"
+        },
+        "foundation_year": 1927,
+        "director": "Rudolf Ohlsson",
+        "manager": "Sven Ohlsson",
+        "coordinates": {
+            "Latitude": 56.88022969999999,
+            "Longitude": 16.6562355
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Ölands-Sandviks Bruks AB",
+        "location": "Persnäs",
+        "business": "Kalkstensbrott och stenhuggeri i Persnäs (Kalmar l.). Tillverkar arbeten i byggnadskalksten, råskivor, trädgårdskalksten m. m.",
+        "contact": {
+            "head_office": "Holmquist k Co. AB., Stockholm, Kungsg. 14",
+            "phone": "233830",
+            "postgiro": "58913",
+            "sales_offices": [
+                {
+                    "location": "Persnäs",
+                    "phone": "12 o. 112"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "total": 100
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1910,
+        "director": "Axel Holmquist",
+        "manager": "disp. Erik Persson",
+        "coordinates": {
+            "Latitude": 57.0662375,
+            "Longitude": 16.9323099
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "AB. Önos Fruktindustri",
+        "location": "Tollarp",
+        "business": "Tillverkar fruktkonserver, marmelad, sylt, gelé, äpplemos, saft, fruktextrakter, essenser och bageriartiklar vid fabrik i Tollarp (Kristianst. l.)",
+        "contact": {
+            "telegraph": "»önos»",
+            "postgiro": "15027"
+        },
+        "financials": {
+            "capital": "76,600 kr",
+            "employees": {
+                "total": 70
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1903,
+        "board": [
+            {
+                "name": "adv. J. Listander",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Hj. Svensson",
+                "role": ""
+            },
+            {
+                "name": "kapten Dettmar Wollin",
+                "role": ""
+            },
+            {
+                "name": "fru Olga Wollin",
+                "role": ""
+            },
+            {
+                "name": "fru Sonja Wollin",
+                "role": ""
+            }
+        ],
+        "director": "fru Olga Wollin",
+        "manager": "Dettmar Wollin",
+        "coordinates": {
+            "Latitude": 55.9344942,
+            "Longitude": 13.9744406
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Örbyhus Lantbruksmaskiner",
+        "location": "Stockholm",
+        "business": "Tillverkar tröskverk, gödselspridare, potatiskrossare, höpressar m. m. vid fabrik i örbyhus (Uppsala l.)",
+        "contact": {
+            "office": "AB. Slöörs Maskin- k Redskapsaffär, Nybrogatan 23",
+            "phone": "679240",
+            "postgiro": "282678"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "total": 30
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1944,
+        "director": "Gösta Törnblom",
+        "manager": "Yngve Erhardt",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Örbyhus Syfabrik",
+        "location": "Örbyhus",
+        "business": "Tillverkar herr- och gosskläder, damkappor och dräkter samt skid-dräkter",
+        "contact": {
+            "telegraph": "Syfabriken, örbyhus",
+            "phone": [
+                "45",
+                "145"
+            ],
+            "postgiro": "8662"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "total": 155
+            },
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1920,
+        "director": "fabr. G. E. Tunelius",
+        "manager": "And. Dahl",
+        "coordinates": {
+            "Latitude": 60.22448389999999,
+            "Longitude": 17.7015559
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Örebro Bleckemballagefabrik",
+        "location": "Örebro",
+        "business": "Tillverkar blankt och dekorerat bleckemballage såsom helpressade askar, burkar, patentburkar för färger, läcker, fernissor o. d., buteljlackburkar, helpressade torrspritburkar, oljekanistrar, skrin för kaffe och kakor, reklamskyltar m. m.",
+        "contact": {
+            "telegraph": "Karla, Örebro",
+            "phone": [
+                "10451",
+                "12451"
+            ],
+            "postgiro": "14352"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "total": 128
+            },
+            "annual_turnover": "2,100,000 kr",
+            "annual_production_value": "2,100,000 kr"
+        },
+        "foundation_year": 1942,
+        "director": "Bertil Palmgren",
+        "manager": "Bertil Palmgren",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Örebro Bryggeri AB",
+        "location": "Örebro",
+        "business": "Tillverkar malt, maltdrycker samt kolsyrade vatten och läskedrycker",
+        "contact": {
+            "telegraph": "Bryggeribolaget, Örebro",
+            "phone": [
+                "10138",
+                "13058",
+                "12058"
+            ],
+            "postgiro": "91630"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "total": 30
+            },
+            "annual_turnover": "900,000 kr",
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1902,
+        "director": "Erland Skantze",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "Örebro Elektriska AB",
+        "location": "Örebro",
+        "business": "Elektr. vattenkraftstationer vid Brattforsen och Skråmforsen inom Karlskoga.",
+        "contact": {
+            "telegraph": "N/A",
+            "phone": "N/A",
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": "N/A",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 1
+    }
+}

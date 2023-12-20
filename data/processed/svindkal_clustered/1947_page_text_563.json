@@ -1,0 +1,218 @@
+{
+    "1": {
+        "name": "Oljeraffinaderi AB",
+        "location": "Malmö",
+        "business": "Tillverkar färger, kitt, tjära samt kem. tekniska preparat. Driver även engroshandel med smörjoljor, smörjfett, torra färger, tran m. m.",
+        "contact": {
+            "office": "Industrihamnen",
+            "phone": [
+                "71800"
+            ],
+            "postgiro": "38179",
+            "telegraph": "Zonen, Malmö"
+        },
+        "financials": {
+            "capital": "260,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "A. J:son Ekholm",
+                "role": "ordf."
+            },
+            {
+                "name": "Einar Eriksson",
+                "role": "prokurist"
+            },
+            {
+                "name": "Olof Larsson",
+                "role": "bygg-mäst"
+            }
+        ],
+        "director": "A. J:son Ekholm",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Olléns Tröskmaskinfabrik",
+        "location": "Flen",
+        "business": "Mek. verkstad som tillverkar självrensande tröskverk, klöverfrönötare och sädesharpor.",
+        "contact": {
+            "office": "Flen (Södermanl. l.)",
+            "phone": [
+                "Olléns"
+            ],
+            "postgiro": "143600",
+            "telegraph": "Tröskollén, Flen"
+        },
+        "financials": {
+            "capital": "260,000 kr",
+            "employees": {
+                "industriarb": 82
+            },
+            "annual_turnover": "1,450,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1924,
+        "board": [
+            {
+                "name": "Erik Gillberg",
+                "role": "ordf."
+            },
+            {
+                "name": "Gottfrid Asplund",
+                "role": "dir."
+            },
+            {
+                "name": "Sven Wallenborg",
+                "role": "disp."
+            }
+        ],
+        "director": "Sven Wallenborg",
+        "coordinates": {
+            "Latitude": 59.0579376,
+            "Longitude": 16.5879122
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Eric M. Olofsson, Möbelfabrik",
+        "location": "Kungsbacka",
+        "business": "Tillverkar kompletteringsmöbler.",
+        "contact": {
+            "phone": [
+                "91"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 6
+            }
+        },
+        "foundation_year": 1922,
+        "director": "Eric M. Olofsson",
+        "coordinates": {
+            "Latitude": 57.48749189999999,
+            "Longitude": 12.0761927
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "AB. Olo-verken",
+        "location": "Hallsberg",
+        "business": "Mek. verkstad som tillverkar värmepannor.",
+        "contact": {
+            "phone": [
+                "283"
+            ],
+            "postgiro": "175033"
+        },
+        "financials": {
+            "capital": "105,500 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "Oscar Ohlsson",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Bertil Ohlsson",
+                "role": "Driftsing."
+            },
+            {
+                "name": "Bertil Hallberg",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.0665316,
+            "Longitude": 15.10229
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Julius Oiséns Litografiska Anstalt",
+        "location": "Stockholm",
+        "business": "Utför litografiskt tryck.",
+        "contact": {
+            "office": "Upplandsg. 17",
+            "phone": [
+                "300872",
+                "300379",
+                "300879"
+            ],
+            "postgiro": "2914"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1918,
+        "director": "Julius Olsén",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "T. Oisens Fabriks AB.",
+        "location": "Stockholm",
+        "business": "Kem.-teknisk fabrik som tillverkar oljor och fettsmörjor för impregnering av läder och skodon, skokräm, textilkräm för putsning av tygskor samt bonvax, metallputs-medel och smörjoljor.",
+        "contact": {
+            "office": "Norrmalmstorg 4",
+            "phone": [
+                "208633"
+            ],
+            "postgiro": "tekn. avd.: 2447; oljeavd.: 156491"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "arb.-antal": 10
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1880,
+        "corporation_year": 1912,
+        "director": "Wolmar Sjögren",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "AB. Olssons Mössfabrik",
+        "location": "Boras",
+        "business": "Möss- och pälsvarufabrik som tillverkar herr-, dam- och barnmössor, pressade filt-och strådamhattar, baskermössor samt dampälsar, pälsmössor och pälsbaretter.",
+        "contact": {
+            "phone": null
+        },
+        "director": null,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    }
+}

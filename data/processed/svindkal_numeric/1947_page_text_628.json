@@ -1,0 +1,170 @@
+{
+    "1": {
+        "name": "Skyddskläder, Fristad",
+        "location": "Sjönie",
+        "contact": {
+            "telegraph": "Skyddskläder, Fristad",
+            "phone": [
+                "Borås 60016",
+                "60126",
+                "60055"
+            ],
+            "postgiro": "720"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1925,
+        "board": [
+            {
+                "name": "John Magnuson",
+                "role": "ordf."
+            },
+            {
+                "name": "T. Bertoldy",
+                "role": "adv."
+            }
+        ],
+        "director": "J. Magnuson",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Skyllberg",
+        "location": "Sjönie",
+        "contact": {
+            "telegraph": "Skyllberg, Askersund",
+            "phone": "»Bruket», Skyllberg",
+            "postgiro": "25870"
+        },
+        "financials": {
+            "capital": 3000000,
+            "employees": {
+                "total": 800,
+                "industriarb": 350
+            },
+            "annual_turnover": 8000000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1876,
+        "board": [
+            {
+                "name": "Ivan Svensson",
+                "role": "ordf."
+            },
+            {
+                "name": "Wilhelm Graf",
+                "role": "v. ordf."
+            },
+            {
+                "name": "Valborg Hjelt",
+                "role": "fru"
+            },
+            {
+                "name": "Sten Sandgren",
+                "role": "major"
+            }
+        ],
+        "director": "Ivan Svensson",
+        "managing_director": "B. Wirsén",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "Skyttorps Snickerifabrik",
+        "location": "Shyttorp",
+        "contact": {
+            "phone": "14",
+            "postgiro": "166420"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1927,
+        "owner": "Gottfrid Lindgren",
+        "director": "Sven Jansson",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Skånebryggerier",
+        "location": "Hälsingborg",
+        "contact": {
+            "telegraph": "Skånebryggerier, Hälsingborg",
+            "phone": "20740",
+            "postgiro": "14260"
+        },
+        "financials": {
+            "capital": 5200000,
+            "employees": {
+                "total": 214,
+                "Hälsingborg": 59,
+                "Eslöv": 22,
+                "Kristianstad": 39,
+                "Klippan": 41,
+                "Landskrona": 21,
+                "Sölvesborg": 10,
+                "Ängelholm": 22
+            },
+            "annual_turnover": 3000000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Johan Nilsson",
+                "role": "förre landshövding"
+            },
+            {
+                "name": "O. Löfwall",
+                "role": "v. konsul"
+            },
+            {
+                "name": "Arvid Jönsson",
+                "role": "disp."
+            },
+            {
+                "name": "Anders Krön-lein",
+                "role": "dir."
+            },
+            {
+                "name": "K.-E. Löfwall",
+                "role": "dir."
+            },
+            {
+                "name": "Nils Rosander",
+                "role": "disp."
+            },
+            {
+                "name": "Ivar Sandberg",
+                "role": "dir."
+            }
+        ],
+        "director": "K.-E. Löfwall",
+        "vice_director": "Arvid Jönsson",
+        "treasurer": "Kjell Stewénius",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 4
+    }
+}

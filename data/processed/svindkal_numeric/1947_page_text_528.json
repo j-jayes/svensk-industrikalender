@@ -1,0 +1,234 @@
+{
+    "1": {
+        "name": "Nensjö—Nihlmark",
+        "foundation_year": 1893,
+        "current_name_year": 1941,
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 300000,
+            "annual_production_value": 300000
+        },
+        "board": [
+            {
+                "name": "civiling. Paul Vestergren",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. J. Järpe",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Yngve Pehrs-son",
+                "role": "dir."
+            },
+            {
+                "name": "civiling. Bengt Plym",
+                "role": "civiling."
+            },
+            {
+                "name": "civiling. Gustaf Plym",
+                "role": "civiling."
+            },
+            {
+                "name": "civiling. Oscar Plym",
+                "role": "civiling."
+            }
+        ],
+        "manager": "Bengt Plym",
+        "cluster": 4
+    },
+    "2": {
+        "name": "Nermans Stämplar",
+        "location": "Åke Nerman, Karlstad",
+        "products": "Tillverkar alla slags stämplar av gummi och metall samt stämpelfärger. Specialitet: stämplar för märkning av emballage och trävaror.",
+        "contact": {
+            "phone": [
+                "10012",
+                "13032"
+            ],
+            "postgiro": "96711",
+            "sales_offices": [
+                {
+                    "location": "Åke Nerman, Karlstad",
+                    "phone": "10012"
+                }
+            ],
+            "telegraph": "Åkenerman, Karlstad"
+        },
+        "owners": [
+            "konsul Åke Nerman"
+        ],
+        "sales_manager": "Manne Christiansen",
+        "director": "Åke Nerman",
+        "manager": "Gunnar Sundström",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Nermans Trycksaker",
+        "location": "Åke Nerman, Karlstad",
+        "products": "Utför bok- och affärstryck. Specialiteter: reklam- och katalogtryck.",
+        "contact": {
+            "phone": "15610",
+            "postgiro": "96712"
+        },
+        "owners": [
+            "konsul Åke Nerman"
+        ],
+        "director": "Åke Nerman",
+        "managing_director": "Carl O. Persson",
+        "manager": "Ingvar Janson",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "Nils Nessen AB.",
+        "location": "Byggnadsfirman, Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "phone": "520500",
+            "postgiro": "2517"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": {
+                "industriarb": 0
+            },
+            "annual_turnover": 5000000,
+            "annual_production_value": 5000000
+        },
+        "board": [
+            {
+                "name": "ing. Nils Nessen",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "ing. Axel Hallmans",
+                "role": "arbetschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.3289759,
+            "Longitude": 18.0651149
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Aug. Netz, Byggnads AB.",
+        "location": "Linköping",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "phone": [
+                "23585",
+                "19735",
+                "23957"
+            ],
+            "postgiro": "38936"
+        },
+        "financials": {
+            "capital": 120000,
+            "employees": {
+                "industriarb": 0
+            },
+            "annual_turnover": 3000000,
+            "annual_production_value": 3000000
+        },
+        "board": [
+            {
+                "name": "byggm. Anders Nevsten",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "ing. Gunnar Karyd",
+                "role": "arbetschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "Nickelfabriks AB. Gottfrid Carlsson",
+        "location": "Eskilstuna",
+        "business": "Metallvarufabrik och förnicklingsan-stalt. Tillverkar husgerådsartiklar av mässing, koppar och nysilver, kokkärl av aluminium samt pressade, tryckta och svarvade metalldelar efter ritningar och modeller. Varumärke: »Svea».",
+        "contact": {
+            "phone": "30280",
+            "postgiro": "8636"
+        },
+        "financials": {
+            "capital": 225000,
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": 1200000
+        },
+        "board": [
+            {
+                "name": "dir. Abel Bergström",
+                "role": "ordf."
+            },
+            {
+                "name": "kassör Ruth Carlsson",
+                "role": "kassör"
+            },
+            {
+                "name": "stationsinsp. O. W. Strutz",
+                "role": "stationsinsp."
+            }
+        ],
+        "manager": "A. Bergström",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Nickel- & Metallindustri",
+        "location": "Karlshamn",
+        "business": "Tillverkar lås och beslag för reseffek-ter, beslag för glasindustrin, smörjkannor m. m.",
+        "contact": {
+            "phone": [
+                "1750",
+                "1751"
+            ],
+            "postgiro": "263916"
+        },
+        "financials": {
+            "capital": 20000,
+            "employees": {
+                "industriarb": 70
+            }
+        },
+        "board": [
+            {
+                "name": "Hugo Lindeberg",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "Valter Hellberg",
+                "role": "driftschef"
+            },
+            {
+                "name": "Arne Löfgren",
+                "role": "kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.170303,
+            "Longitude": 14.863073
+        },
+        "cluster": 6
+    }
+}

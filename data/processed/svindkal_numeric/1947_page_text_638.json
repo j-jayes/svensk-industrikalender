@@ -1,0 +1,225 @@
+{
+    "1": {
+        "name": "Sömmens Möbelfabrik, Levi Magnuson",
+        "location": "Sömmen (Jönköp. l.)",
+        "business": "Tillverkar möbler i björk, alm, ek och mahogny",
+        "contact": {
+            "phone": [
+                "7",
+                "67"
+            ],
+            "postgiro": "25078"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": 250000,
+            "annual_production_value": 250000
+        },
+        "foundation_year": 1901,
+        "owners": [
+            "Levi Magnuson"
+        ],
+        "director": "Levi Magnuson",
+        "coordinates": {
+            "Latitude": 58.1388201,
+            "Longitude": 14.9675701
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Sömmens Mössfabrik, AB.",
+        "location": "Sömmen (Jönköp. l.)",
+        "business": "Tillverkar mössor",
+        "contact": {
+            "phone": "Baards Fabriker",
+            "postgiro": "11312",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "106437"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1921,
+        "owners": [
+            "Elias Baard",
+            "Axel Baard",
+            "fru M. Baard"
+        ],
+        "director": "Elias Baard",
+        "coordinates": {
+            "Latitude": 58.1388201,
+            "Longitude": 14.9675701
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Sömmens Trämjölskvarn",
+        "location": "Sömmen (Jönköp. l.)",
+        "business": "Tillverkar trämjöl",
+        "contact": {
+            "telegraph": "Trämjölskvarnen, Sömmen",
+            "phone": "24",
+            "postgiro": "265386"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1939,
+        "owners": [
+            "disp. Nils Åman",
+            "för-säljn.-chef Allan Ankler",
+            "fru Julia Åman"
+        ],
+        "director": "Nils Åman",
+        "coordinates": {
+            "Latitude": 58.1388201,
+            "Longitude": 14.9675701
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Sonny, Aina Lundin",
+        "location": "Stockholm",
+        "business": "Konfektionsfabrik",
+        "contact": {
+            "phone": [
+                "210569",
+                "105975"
+            ],
+            "postgiro": "58939"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 22
+            },
+            "annual_turnover": 450000,
+            "annual_production_value": 450000
+        },
+        "foundation_year": 1935,
+        "owners": [
+            "fru Aina Lundin"
+        ],
+        "director": "fru Aina Lundin",
+        "sales_manager": "Albert Lindholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Sonora",
+        "location": "Stockholm",
+        "business": "Inspelning, matristillverkning och pressning av grammofonskivor samt tillverkning av grammofoner",
+        "contact": {
+            "phone": "234145",
+            "postgiro": "54991",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "113837"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "17958"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": "N/A",
+            "annual_turnover": "N/A",
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1932,
+        "owners": [
+            "generalkonsul Erik Ljungberg"
+        ],
+        "director": "generalkonsul Erik Ljungberg",
+        "sales_manager": "Helge Roundquist",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "Spadfabriken Karlstad, Bröderna Wästlund & Co.",
+        "location": "Earlstad",
+        "business": "Tillverkar spadar, skyfflar, grepar och högafflar, lövräfsor m. m.",
+        "contact": {
+            "phone": "15435",
+            "postgiro": "36151"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1923,
+        "owners": [
+            "byggm. Olof Wästlund",
+            "kontorschef Folke Nilson",
+            "J ohan Wästlunds sterbhus",
+            "Nils Englunds sterbhus"
+        ],
+        "manager": "Folke Nilson",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Sparman-Fabriken AB.",
+        "location": "Vretstorp (Örebro l.)",
+        "business": "Tillverkar transportabla cirkelsågverk och transportörer",
+        "contact": {
+            "phone": "130",
+            "postgiro": "269693"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1942,
+        "board": [
+            {
+                "name": "dir. David P. Andersson",
+                "role": "N/A"
+            },
+            {
+                "name": "fabr. John R. Eriksson",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.02375439999999,
+            "Longitude": 14.8685106
+        },
+        "cluster": 7
+    }
+}

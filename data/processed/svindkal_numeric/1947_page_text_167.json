@@ -1,0 +1,242 @@
+{
+    "1": {
+        "name": "Askersundsverken AB.",
+        "location": "Askersund",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar värmeledningspannor, shuntventiler och plåtfat",
+        "contact": {
+            "office": "Avaverken, Askersund",
+            "phone": [
+                "60",
+                "212"
+            ],
+            "postgiro": "33715"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": 700000
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "John Franzén",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Gustav Franzén",
+                "role": "fabr."
+            },
+            {
+                "name": "Harry Franzén",
+                "role": "fabr."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.88942679999999,
+            "Longitude": 14.9109867
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Asklunds Yllefabrik",
+        "location": "Norrköping",
+        "business": "Yllefabrik samt ångtvättinrättning (»Gamla Ångtvätten»)",
+        "products": "Tillverkar ylletyger och filtar samt utför vittvätt",
+        "contact": {
+            "phone": "20546",
+            "postgiro": "10915"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "N/A"
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "ing. Hj. Asklund",
+                "role": "Styrelse"
+            },
+            {
+                "name": "ad v. Erik Halidén",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Carl Johan Ohlsson",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "Olof Asklunds Ångbageri AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar mjukt bröd, spis- och knäckebröd samt konditorivaror",
+        "contact": {
+            "office": "övra Husarg. 13",
+            "phone": [
+                "»Olof Asklunds Bröd»"
+            ],
+            "postgiro": "40622"
+        },
+        "financials": {
+            "capital": 200000,
+            "annual_turnover": "N/A"
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "David Asklund",
+                "role": "dir."
+            },
+            {
+                "name": "Knut Asklund",
+                "role": "disp."
+            },
+            {
+                "name": "Olof Asklund",
+                "role": "bagarm."
+            }
+        ],
+        "director": "D. Asklund",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Asmundtorps Borstfabriks AB.",
+        "location": "Asmundtorp",
+        "business": "Tillverkar borstar och penslar",
+        "products": "Specialitet: borstar för mejerier och industrier",
+        "contact": {
+            "phone": "16",
+            "postgiro": "23231"
+        },
+        "financials": {
+            "capital": 10500,
+            "employees": {
+                "industriarb": 24
+            },
+            "annual_turnover": 100000
+        },
+        "foundation_year": 1902,
+        "board": [
+            {
+                "name": "Bror Bengtsson",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.8857824,
+            "Longitude": 12.9450145
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "A. E. Asplunds Snickerifabrik",
+        "location": "Malmberget",
+        "business": "Tillverkar dörrar, fönster, trappor, ledstänger, köksinredningar och butiksinredningar samt kompletteringsmöbler",
+        "products": "Firman driver även glasmästeri",
+        "contact": {
+            "phone": "233",
+            "postgiro": "61165"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 11
+            },
+            "annual_turnover": 89000
+        },
+        "foundation_year": 1924,
+        "manager": "A. Edvin Asplund",
+        "coordinates": {
+            "Latitude": 67.1736529,
+            "Longitude": 20.6545165
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "S. 0. Asplunds Byggnads AB.",
+        "location": "Örebro",
+        "business": "Byggnadsentreprenörfirma för väg- och vattenbyggnadsarbeten, industribyggnader m. m.",
+        "contact": {
+            "phone": "13737",
+            "postgiro": "141943"
+        },
+        "financials": {
+            "capital": 20000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 600000
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "tekn. dr Sven Olof Asplund",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru A. E. Asplund",
+                "role": "N/A"
+            }
+        ],
+        "manager": "S. O. Asplund",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "AB. Astra, Apotekarnes Kem. Fabriker",
+        "location": "Södertälje",
+        "business": "Farmaceutisk-kemisk fabrik",
+        "products": "Tillverkar farmaceutiska preparat och förbandsartiklar",
+        "contact": {
+            "phone": "Astra, Södertälje",
+            "postgiro": "9297"
+        },
+        "financials": {
+            "capital": 3000000,
+            "employees": {
+                "industriarb": 425
+            },
+            "annual_turnover": "N/A"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "bankdir. Rich. Julin",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Alb. M. Elfström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Börje Gabrielsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "grossh. E. Kistner",
+                "role": "N/A"
+            }
+        ],
+        "director": "B. Gabrielsson",
+        "coordinates": {
+            "Latitude": 59.197762,
+            "Longitude": 17.6201942
+        },
+        "cluster": 2
+    }
+}

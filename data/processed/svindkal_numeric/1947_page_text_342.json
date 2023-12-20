@@ -1,0 +1,249 @@
+{
+    "1": {
+        "name": "Göteborgs Syrgasfabrik",
+        "location": "Göteborg",
+        "contact": {
+            "office": "Åvägen 5",
+            "phone": [
+                "151354—55"
+            ],
+            "telegraph": "Tapetfabriken, Göteborg",
+            "postgiro": "5485"
+        },
+        "financials": {
+            "capital": 400800,
+            "employees": {
+                "industriarb": 66
+            },
+            "foundation_year": 1881,
+            "corporation_year": 1931
+        },
+        "board": [
+            {
+                "name": "arkitekt Sigurd Lewerentz",
+                "role": "ordf."
+            },
+            {
+                "name": "fru D. Boldt-Christmas",
+                "role": ""
+            }
+        ],
+        "director": "Per F. Lewerentz",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "AB. Göteborgs Torskmjölsfabrik",
+        "location": "Göteborg",
+        "contact": {
+            "office": "Fiskhamnen",
+            "phone": "141997",
+            "telegraph": "Vitamin, Göteborg",
+            "postgiro": "42681"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 100
+            },
+            "foundation_year": 1931
+        },
+        "board": [
+            {
+                "name": "dir. C. A. Berglund",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Lambert Häller",
+                "role": ""
+            },
+            {
+                "name": "disp. Hjalmar Möller",
+                "role": ""
+            },
+            {
+                "name": "dir. John Olsson",
+                "role": ""
+            },
+            {
+                "name": "sjökapt. Ch. Stranne",
+                "role": ""
+            }
+        ],
+        "managing_director": "dir. Lambert Häller",
+        "sales_manager": "disp. Hjalmar Möller",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "Göteborgs Tryckvalsfabrik",
+        "location": "Göteborg",
+        "contact": {
+            "office": "Postg. 26",
+            "phone": [
+                "138056"
+            ],
+            "postgiro": "43508"
+        },
+        "financials": {
+            "annual_production_value": 90000,
+            "foundation_year": 1929
+        },
+        "manager": "fabr. Heinz Bethge",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Göteborgs Tågvirkesfabrik",
+        "location": "Göteborg",
+        "contact": {
+            "office": "Björlandavägen",
+            "phone": [
+                "224363",
+                "224721"
+            ],
+            "postgiro": "40114"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 31
+            },
+            "annual_production_value": 400000,
+            "foundation_year": 1914
+        },
+        "board": [
+            {
+                "name": "dir. Leif Ekman",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. P. P. Krafft",
+                "role": ""
+            }
+        ],
+        "director": "Leif Ekman",
+        "manager": "Gustaf Thorson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "Göteborgs Wellpappfabriks AB",
+        "location": "Göteborg",
+        "contact": {
+            "office": "Mölndalsv.",
+            "phone": [
+                "162400",
+                "163541",
+                "184051"
+            ]
+        },
+        "financials": {
+            "foundation_year": 1929
+        },
+        "director": "major C. G. Åhlund",
+        "manager": "Orvar Gerle",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "AB. Götene Träindustri",
+        "location": "Götene",
+        "contact": {
+            "telegraph": "Industriträ, Götene",
+            "phone": "Götene träindustri",
+            "postgiro": "95088"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 135
+            },
+            "annual_production_value": 5000000,
+            "foundation_year": 1904,
+            "corporation_year": 1923
+        },
+        "board": [
+            {
+                "name": "dir. Arthur Storck",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Eric Storck",
+                "role": ""
+            },
+            {
+                "name": "disp. Martin Storck",
+                "role": ""
+            }
+        ],
+        "director": "Arthur Storck",
+        "manager": "Assar Lindholm",
+        "coordinates": {
+            "Latitude": 58.528002,
+            "Longitude": 13.491428
+        },
+        "cluster": 4
+    },
+    "7": {
+        "name": "AB. Göteneds Mek. Verkstad",
+        "location": "Götene",
+        "contact": {
+            "telegraph": "Götagjuteriet, Götene",
+            "phone": "37",
+            "postgiro": "30383"
+        },
+        "financials": {
+            "capital": 180000,
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": 800000,
+            "foundation_year": 1907
+        },
+        "board": [
+            {
+                "name": "disp. Nils Danielsen",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Verner Andersson",
+                "role": ""
+            },
+            {
+                "name": "disp. Erik Danielsson",
+                "role": ""
+            }
+        ],
+        "managing_director": "Sven-Ragnar Andersson",
+        "coordinates": {
+            "Latitude": 58.528002,
+            "Longitude": 13.491428
+        },
+        "cluster": 4
+    },
+    "8": {
+        "name": "Götersfors Ullspinneri",
+        "location": "Falerum",
+        "coordinates": {
+            "Latitude": 58.14236329999999,
+            "Longitude": 16.2092808
+        },
+        "cluster": 4
+    }
+}

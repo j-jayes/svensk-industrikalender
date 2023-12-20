@@ -1,0 +1,97 @@
+{
+    "1": {
+        "name": "AB. Enköpings Ångbryggeri",
+        "location": "Enköping",
+        "business": "Tillverkar malt- och läskedrycker",
+        "products": "Malt- och läskedrycker",
+        "contact": {
+            "phone": [
+                "713"
+            ],
+            "postgiro": "90175"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 16
+            },
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1887,
+        "current_name_year": 1906,
+        "board": [
+            {
+                "name": "dir. Harald Engström",
+                "role": "ordf."
+            },
+            {
+                "name": "sparbanksdir. K. Arosenius",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.63569090000001,
+            "Longitude": 17.0778228
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB. Eresco",
+        "location": "Stockholm",
+        "business": "Kemisk-teknisk fabrik",
+        "products": "Kosmetiska preparat, industriördenheter",
+        "contact": {
+            "phone": [
+                "117871",
+                "117873"
+            ],
+            "postgiro": "54794"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 16
+            },
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "Arnold Ström",
+                "role": "verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Erikslunds Ångsåg, Erikslund",
+        "location": "Erikslund (Västernorrl. l.)",
+        "business": "Sågverk och hyvleri samt trähusfabrik",
+        "products": "Sågade och hyvlade trävaror, trähus, sportstugor, baracker, stallar",
+        "contact": {
+            "phone": [
+                "1",
+                "77"
+            ],
+            "postgiro": "95308"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": "N/A"
+            },
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": "N/A",
+        "board": [],
+        "coordinates": {
+            "Latitude": 62.5272434,
+            "Longitude": 15.9086243
+        },
+        "cluster": 7
+    }
+}

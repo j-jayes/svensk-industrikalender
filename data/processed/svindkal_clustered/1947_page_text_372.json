@@ -1,0 +1,229 @@
+{
+    "1": {
+        "name": "Hultsfreds Gjuter i AB.",
+        "location": "Hultsfred",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "tackjärnsgjut-gods, spec. maskingods upp till 1,5 ton",
+        "contact": {
+            "phone": [
+                "6"
+            ],
+            "postgiro": "22837"
+        },
+        "financials": {
+            "capital": "33,000 kr",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": "130,000 kr"
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1933,
+        "director": "Albin Wred-berg",
+        "coordinates": {
+            "Latitude": 57.49484,
+            "Longitude": 15.8416513
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Hultsfreds Mek. Verkstad",
+        "location": "Hultsfred",
+        "business": "Tillverkar fräs- och arborrverk, gängmaskiner, gänghuvuden och gängbackar samt snabbsågmaskiner för metallkapning",
+        "contact": {
+            "phone": "53",
+            "postgiro": "135226"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_production_value": "550,000 kr"
+        },
+        "foundation_year": 1918,
+        "current_name_year": 1923,
+        "manager": "B. Wilhelm Ohlcén",
+        "coordinates": {
+            "Latitude": 57.49484,
+            "Longitude": 15.8416513
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Hultsfreds Skogsprodukter",
+        "location": "Hultsfred",
+        "business": "Tillverkar dörrar och fönster, inredningar samt sågade och hyvlade trävaror",
+        "contact": {
+            "phone": "69",
+            "postgiro": "163478"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1936,
+        "director": "Emil Nilsson",
+        "coordinates": {
+            "Latitude": 57.49484,
+            "Longitude": 15.8416513
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Hultsfreds Träförädlings AB.",
+        "location": "Hultsfred",
+        "business": "Snickerifabrik, sågverk och hyvleri",
+        "products": "byggnadssnickerier, sågade och hyvlade trävaror, laths, lådbräder samt träkol",
+        "contact": {
+            "phone": "54",
+            "postgiro": "14391"
+        },
+        "financials": {
+            "capital": "625,000 kr",
+            "employees": {
+                "industraib": 350
+            },
+            "annual_turnover": "2,500,000 kr"
+        },
+        "foundation_year": 1930,
+        "owners": [
+            "AB. Standardhus, Hultsfred"
+        ],
+        "board": [
+            {
+                "name": "godsäg. Hadar Hedborg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gösta Edström",
+                "role": null
+            },
+            {
+                "name": "ryttm. Björn Hyltén-Cavallius",
+                "role": null
+            },
+            {
+                "name": "landstingsm. David Johansson",
+                "role": null
+            },
+            {
+                "name": "godsäg. Arvid Nilsson",
+                "role": null
+            }
+        ],
+        "director": "Gösta Edström",
+        "manager": "Torsten Wahlquist",
+        "coordinates": {
+            "Latitude": 57.49484,
+            "Longitude": 15.8416513
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "AB. Huluhammars Bruk",
+        "location": "Smålands Taberg",
+        "business": null,
+        "products": "borr- och gängmaskiner, gängverktyg, pressar, filmaskiner samt skruvstycken",
+        "contact": {
+            "phone": "7",
+            "postgiro": "7739"
+        },
+        "financials": {
+            "capital": "24,000 kr",
+            "annual_production_value": "110,000 kr"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "ing. Ernst Göranson",
+                "role": "ordf."
+            },
+            {
+                "name": "fru I. Göranson",
+                "role": null
+            }
+        ],
+        "director": "Ernst Göranson",
+        "coordinates": {
+            "Latitude": 57.68333329999999,
+            "Longitude": 14.0833333
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "Humlabergs Grufvebolag",
+        "location": "Gyttorp",
+        "business": "Järnmalmsgruvor",
+        "contact": {
+            "phone": "Nora 24 a"
+        },
+        "financials": {
+            "employees": {
+                "industraib": 20
+            },
+            "annual_production_value": "130,000 kr"
+        },
+        "foundation_year": 1855,
+        "board": [
+            {
+                "name": "bergsing. Rickard Lundgren",
+                "role": "ordf."
+            }
+        ],
+        "director": "Carl E. Carlsson",
+        "coordinates": {
+            "Latitude": 59.50878719999999,
+            "Longitude": 14.9651045
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "AB. A. Huse & Co.",
+        "location": "Earlstad",
+        "business": "Byggnadsentreprenörfirma",
+        "products": "bostads-och affärshus, industribyggnader m. m. samt för väg- och vattenbyggnadsarbeten",
+        "contact": {
+            "phone": "15135",
+            "postgiro": "29246"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1923,
+        "board": [
+            {
+                "name": "landssekr. Elias Stenius",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. Alfred Hanes",
+                "role": null
+            },
+            {
+                "name": "kamrer Gunnar Hansson",
+                "role": null
+            },
+            {
+                "name": "dir. Bror Håkansson",
+                "role": null
+            }
+        ],
+        "director": "Bror Håkansson",
+        "managers": [
+            "civiling. Sven Österman",
+            "ing. Albert Magnusson",
+            "civiling. Erik Lindh"
+        ],
+        "kamrer": "Stig Håkansson",
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 0
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "1": {
+        "name": "Fabriks AB. Isacsönerna",
+        "location": "Malmbäck",
+        "business": "Tillverkar möbler, speciellt barnsängar och sängkammarmöbler",
+        "contact": {
+            "office": "Malmbäck (Jönköp. l.)",
+            "phone": [
+                "19",
+                "119"
+            ],
+            "postgiro": "34837"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industri-arb": 26
+            },
+            "annual_turnover": "475,000 kr"
+        },
+        "foundation_year": 1927,
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "Carl II. Isacson",
+                "role": "Disp."
+            }
+        ],
+        "director": "Carl II. Isacson",
+        "coordinates": {
+            "Latitude": 57.5781694,
+            "Longitude": 14.4641901
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Fabriks AB. Kronsilver",
+        "location": "Lidingö",
+        "business": "Nysilverfabrik och kem.-tekn. fabrik samt elektro-galvanisk verksamhet",
+        "products": "Tillverkar kuvertnysilver, fat, smärgel-, slip- och po-lérvaxer för aluminium, mässing, nickel, nysilver och rostfritt; utför hårdförkrom-ning av verktyg och maskindelar, vanlig förkromning, förnickling, anodoxidering och kadmiering samt regenerering av fara.",
+        "contact": {
+            "office": "Gåshaga, Lidingö",
+            "phone": [
+                "656900",
+                "656902-03"
+            ],
+            "postgiro": "52121"
+        },
+        "financials": {
+            "capital": "850,000 kr",
+            "employees": {
+                "industri-arb": 45
+            }
+        },
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "Olof Drakenberg",
+                "role": "civiling."
+            },
+            {
+                "name": "Ivar H. Arnfelt",
+                "role": "dir."
+            }
+        ],
+        "director": "Ivar H. Arnfelt",
+        "coordinates": {
+            "Latitude": 59.36295999999999,
+            "Longitude": 18.1468
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Fabriks AB. P. O. Lundgren",
+        "location": "Borås",
+        "business": "Trikåfabrik",
+        "products": "Tillverkar herr- och damstrumpor samt stickade yllevaror",
+        "contact": {
+            "phone": [
+                "18544"
+            ],
+            "postgiro": "263040"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 38
+            },
+            "annual_turnover": "1,200,000 kr"
+        },
+        "corporation_year": 1942,
+        "board": [
+            {
+                "name": "Josef Lundgren",
+                "role": "köpm."
+            },
+            {
+                "name": "Per-Olov Lundgren",
+                "role": "fabr."
+            }
+        ],
+        "director": "Per-Olov Lundgren",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Fabriks AB. Osmund",
+        "location": "Uppsala",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar ugnar för industriändamål (även elektr.), oljebrännare, högtrycksfläktar, temperaturregulatorer, evakueringsventiler, transportrullar samt tegelsågar m. m.",
+        "contact": {
+            "telegraph": "Osmund, Uppsala",
+            "phone": [
+                "39555"
+            ],
+            "postgiro": "26688"
+        },
+        "financials": {
+            "capital": "257,500 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "corporation_year": 1912,
+        "board": [
+            {
+                "name": "Walter Hesselman",
+                "role": "ing."
+            },
+            {
+                "name": "Karl Einar Lundberg",
+                "role": "ing."
+            },
+            {
+                "name": "J. F. Thorslund",
+                "role": "kamrer"
+            }
+        ],
+        "director": "K. E. Lundberg",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Fabriks AB. Rudberg & Co.",
+        "location": "Falköping",
+        "business": "Damkonfektionsfabrik",
+        "products": "Tillverkar charmeuseunderkläder samt blusar i siden och ylle",
+        "contact": {
+            "phone": [
+                "48"
+            ],
+            "postgiro": "160063"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "corporation_year": 1939,
+        "director": "Nils Rudberg",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Fabriks AB. Säpo",
+        "location": "Hälsingborg",
+        "business": "Kem. tekn. fabrik",
+        "products": "Tillverkar tvättmedel såsom såpa, tvålflingor, tvättpulver samt kristallsoda",
+        "contact": {
+            "telegraph": "Säpo, Hälsingborg",
+            "phone": "11222",
+            "postgiro": "14396"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "arb-antal": 7
+            }
+        },
+        "foundation_year": 1909,
+        "director": "fru O. Christell",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Fabriks AB. Skandinavien",
+        "location": "Malmö",
+        "business": "Band- och spetsfabrik med färgeri samt knappfabrik",
+        "products": "Tillverkar band, käng- och skosnören, spetsar, tyg- och metallknappar m. m.",
+        "contact": {
+            "office": "Barkg. 5",
+            "phone": [
+                "20780",
+                "22780"
+            ],
+            "postgiro": "14113"
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "industriarb": 170
+            }
+        },
+        "corporation_year": 1894,
+        "board": [
+            {
+                "name": "C. Steenhoff Eriksen",
+                "role": "dir."
+            },
+            {
+                "name": "H. Laage-Petersen",
+                "role": "grossh."
+            },
+            {
+                "name": "Sven-Aage Rydgaard",
+                "role": "dir."
+            }
+        ],
+        "director": "S.-A. Rydgaard",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 3
+    },
+    "8": {
+        "name": "Fabriks AB. Swebe",
+        "location": "Borås",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar damklännningar, kjolar och blusar",
+        "contact": {
+            "phone": [
+                "12928"
+            ],
+            "postgiro": "36281"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "corporation_year": 1935,
+        "board": [
+            {
+                "name": "Edvin Johansson",
+                "role": "dir."
+            },
+            {
+                "name": "Arvid Claesson",
+                "role": "dir."
+            }
+        ],
+        "director": "Edvin Johansson",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    }
+}

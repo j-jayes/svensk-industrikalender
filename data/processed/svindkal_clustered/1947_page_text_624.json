@@ -1,0 +1,136 @@
+{
+    "1": {
+        "name": "Sko fabriken Standard",
+        "location": "Lund",
+        "business": "Tillverkar damskodon",
+        "products": "Varumärke: »Stiletto»",
+        "contact": {
+            "phone": [
+                "11916",
+                "11856"
+            ],
+            "postgiro": "37003"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1922,
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Sko fabriken Victoria",
+        "location": "Örebro",
+        "business": "Tillverkar skodon",
+        "products": "Varumärken: »Victoria» o. »Abisko»",
+        "contact": {
+            "telegraph": "Skovictoria, Örebro",
+            "phone": "10647",
+            "postgiro": "141247"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "2,100,000 kr"
+        },
+        "foundation_year": 1908,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Skofabriken Wändia, C. Ståhlberg & Co.",
+        "location": "Kumla",
+        "business": "Tillverkar dam- och flickskodon",
+        "products": "Varumärke: »Elly»",
+        "contact": {
+            "phone": "70461"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "205,000 kr"
+        },
+        "foundation_year": 1934,
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Skofabriks AB. Kronan",
+        "location": "Örebro",
+        "business": "Tillverkar randsydda och becksömsydda skodon",
+        "products": "Specialiteter: herrlågskorna »Master», »Masterhand» o. »Master-cord»",
+        "contact": {
+            "phone": "19455",
+            "postgiro": "20793"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 120
+            }
+        },
+        "foundation_year": 1913,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Skofabriks AB. Oscaria",
+        "location": "Örebro",
+        "business": "Tillverkar och försäljer skodon",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "Skofabriks AB. Tärnan",
+        "location": "Örebro",
+        "business": "Tillverkar dam- och barnskodon",
+        "products": "Varumärken: »Tärnsko» o. »Stjärnsko»",
+        "contact": {
+            "phone": "10961"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1945,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Skofabriks AB. Örnen",
+        "location": "Örebro",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 4
+    }
+}

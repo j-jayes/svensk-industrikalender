@@ -1,0 +1,252 @@
+{
+    "1": {
+        "name": "AB. John A. Gahm, Göteborg",
+        "location": "Göteborg",
+        "business": "Reseffekt- och lädervarufabrik",
+        "products": "Tillverkar koffertar, kappsäckar, res- och damväskor, portföljer, portmonnäer, plånböcker m. m.",
+        "contact": {
+            "office": "Lindholmen",
+            "phone": [
+                "221425"
+            ],
+            "postgiro": "41871",
+            "head_office": "Göteborg 9",
+            "telegraph": "Citybags, Göteborg"
+        },
+        "financials": {
+            "capital": 1200000,
+            "employees": {
+                "industriarb": 166
+            },
+            "annual_turnover": 3000000,
+            "annual_production_value": 3000000
+        },
+        "foundation_year": 1874,
+        "corporation_year": 1907,
+        "board": [
+            {
+                "name": "dir. Arthur Gahm",
+                "role": "ordf."
+            },
+            {
+                "name": "köpm. Carl Olof Anderzon",
+                "role": ""
+            },
+            {
+                "name": "adv. Edvin Gidén",
+                "role": ""
+            },
+            {
+                "name": "dir. Carl Johnsson",
+                "role": ""
+            }
+        ],
+        "owners": [
+            "Arthur Gahm"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Henrik Gahns AB., Uppsala",
+        "location": "Uppsala",
+        "business": "Kem.-tekn. fabrik",
+        "products": "Tillverkar tvål, såpa, kosmetiska medel, hårvatten, eau de Cologne, parfymer, munvatten, bläck m. m.",
+        "contact": {
+            "office": "Uppsala",
+            "phone": [
+                "Gahns, Uppsala",
+                "231260"
+            ],
+            "postgiro": "12642",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "231260"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "192690"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "27449 o. 75690"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industriarb": 169
+            },
+            "annual_turnover": 9800000,
+            "annual_production_value": 9800000
+        },
+        "foundation_year": 1867,
+        "corporation_year": 1872,
+        "board": [
+            {
+                "name": "arkitekt Wolter Gahn",
+                "role": "ordf."
+            },
+            {
+                "name": "revisor John H. Arnberg",
+                "role": ""
+            },
+            {
+                "name": "dir. Ragnar Fredrikson",
+                "role": ""
+            },
+            {
+                "name": "disp. P. Gahn",
+                "role": ""
+            },
+            {
+                "name": "kapten E. G. Wersäll",
+                "role": ""
+            }
+        ],
+        "owners": [
+            "Ragnar Fredrikson"
+        ],
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Galco, Stockholm",
+        "location": "Stockholm",
+        "business": "Specialfabrik för plåtpressning",
+        "products": "Tillverkar under märket »Agrippa» brevpärmar och överflyttningspärmar, kortpärmar (»Iduns yiscard-Agrippa»), hålslag m. m., smörjkoppar (»Conus») för flytande smörjmedel, låsmuttrar (»Ve-lock»), elektriska lödkolvar samt massartiklar i plåtpressning.",
+        "contact": {
+            "office": "Gävleg. 12 A",
+            "phone": [
+                "230365"
+            ],
+            "postgiro": "871"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": 1200000,
+            "annual_production_value": 1200000
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1923,
+        "board": [
+            {
+                "name": "adv. Harald Dahlin",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gustaf Larson",
+                "role": ""
+            },
+            {
+                "name": "dir. Gust. Winqvist",
+                "role": ""
+            }
+        ],
+        "owners": [
+            "Gust. Winqvist"
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Camla Wellpappfabriken AB., Stockholm",
+        "location": "Stockholm",
+        "business": "Tillverkar wellpapp i rullar och arky wellpappkartonger och wellpappemballage.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "Gamlabro AB., Norrköping",
+        "location": "Norrköping",
+        "business": "Ullspinneri och väveri",
+        "products": "Tillverkar klädesvaror såsom kamgarnstyger, kostymtyger, dofflar, ulstertyger m. m.",
+        "contact": {
+            "telegraph": "Gamlabro, Norrköping",
+            "phone": [
+                "20061"
+            ],
+            "postgiro": "92420"
+        },
+        "financials": {
+            "capital": 850000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": 1300000,
+            "annual_production_value": 1300000
+        },
+        "corporation_year": 1864,
+        "board": [
+            {
+                "name": "fabr. John Lind",
+                "role": "ordf."
+            },
+            {
+                "name": "assessor Anders Lind",
+                "role": ""
+            }
+        ],
+        "owners": [
+            "John Lind"
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Gamleby Mek. Verkstad AB., Gamleby",
+        "location": "Gamleby",
+        "business": "Tillverkar plåtslagerimaskiner, utför bil- och maskinreparationer samt installationer för värme, vatten, sanitet och elektricitet vid verkstad i Gamleby (Kalmar l.)",
+        "contact": {
+            "phone": [
+                "70",
+                "370"
+            ],
+            "postgiro": "14417"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 450000
+        },
+        "foundation_year": 1942,
+        "coordinates": {
+            "Latitude": 57.89316029999999,
+            "Longitude": 16.4060887
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Gamleby Trävaru AB., Gamleby",
+        "location": "Gamleby",
+        "business": "Sågverk och hyvleri i Gamleby (Kalmar l.)",
+        "products": "Tillverkar sågade och hyvlade trävaror samt lådor.",
+        "coordinates": {
+            "Latitude": 57.89316029999999,
+            "Longitude": 16.4060887
+        },
+        "cluster": 7
+    }
+}

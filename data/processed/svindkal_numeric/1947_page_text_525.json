@@ -1,0 +1,224 @@
+{
+    "1": {
+        "name": "AB. Möbelindustrikompaniet",
+        "location": "Tranås",
+        "business": "Tillverkar möbler för kontor, bostäder, lunchrum, konditorier och restauranger.",
+        "products": "Möbler för olika ändamål.",
+        "contact": {
+            "office": "Tranås",
+            "phone": [
+                "191",
+                "577"
+            ],
+            "postgiro": "29436"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": 1800000
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "Elis Kågén",
+                "role": "ordf."
+            },
+            {
+                "name": "Ester Kågén",
+                "role": "disp."
+            },
+            {
+                "name": "Alfr. Rydén",
+                "role": "disp."
+            }
+        ],
+        "owners": [
+            "grossh. Georg Åberg"
+        ],
+        "director": "Elis Kågén",
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Möbelkompaniet Rex",
+        "location": "Yaggeryd",
+        "business": "Tillverkar möbler vid fabrik i Vagger yd (Jönköp. l.).",
+        "contact": {
+            "office": "Yaggeryd",
+            "phone": "5",
+            "postgiro": "163410"
+        },
+        "financials": {
+            "capital": 120000,
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "Viktor Olson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "owners": [
+            "dir. Carl Sewring",
+            "dir. Hilding Andersson"
+        ],
+        "coordinates": {
+            "Latitude": 57.4989621,
+            "Longitude": 14.1486297
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Möbellås",
+        "location": "Eskilstuna",
+        "business": "Tillverkar alla slags möbellås, garage-och kammarlås, deuxbattantlås, fartygs-och postfackslås, nycklar samt pressade massartiklar i järn och metall.",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": "37505",
+            "postgiro": "6690"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": 835000
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "fru Sigrid Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Gunnar Johansson",
+                "role": "disp."
+            }
+        ],
+        "director": "fru Sigrid Johansson",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Möbelverkstäderna Falun AB.",
+        "location": "Falun",
+        "business": "Tillverkar möbler samt kontors- och affärsinredningar. Specialitet: inredningar.",
+        "contact": {
+            "office": "Falun",
+            "phone": "1196",
+            "postgiro": "28658"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_turnover": 80000
+        },
+        "foundation_year": 1942,
+        "board": [
+            {
+                "name": "fabr. Emil Karlsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Emil Lindberg",
+                "role": "affärsförest."
+            }
+        ],
+        "director": "Emil Karlsson",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Möbler & Träslöjd AB.",
+        "location": "Äng",
+        "business": "Tillverkar möbler, kanoter och slöjdvaror vid fabrik i Äng (Jönköp. l.).",
+        "contact": {
+            "office": "Äng",
+            "phone": [
+                "18",
+                "60"
+            ],
+            "postgiro": "277270"
+        },
+        "financials": {
+            "capital": 30500,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 325000
+        },
+        "foundation_year": 1945,
+        "director": "Ingemar Uhr",
+        "coordinates": {
+            "Latitude": 57.6947153,
+            "Longitude": 14.5671844
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "Möllefors Fabriks AB.",
+        "location": "Anderstorp",
+        "business": "Mek. verkstad och snickerifabrik i Anderstorp (Jönköp. l.). Tillverkar resår-bottensängar och ottomaner i trä och järn.",
+        "contact": {
+            "office": "Anderstorp",
+            "phone": "8",
+            "postgiro": "71008"
+        },
+        "financials": {
+            "capital": 135000,
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "fröken Anna Andersson",
+                "role": "ordf."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "Henning Möllers Mek. Verkstad",
+        "location": "Jönköping",
+        "business": "Utför järnkonstruktioner till husbyggnader, grovplåtsarbeten såsom cisterner, kokare och mindre ångpannor samt tillverkar såsom specialitet uppvärmningsaggregat för snickerier såsom limspisar, limhallar, värmebord och limkokare.",
+        "contact": {
+            "office": "Jönköping",
+            "phone": "2174"
+        },
+        "financials": {
+            "employees": {
+                "antal": 10
+            },
+            "annual_turnover": "ö5,000 kr"
+        },
+        "foundation_year": 1919,
+        "director": "fabr. Georg Möller",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 6
+    }
+}

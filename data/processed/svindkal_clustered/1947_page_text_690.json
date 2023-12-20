@@ -1,0 +1,173 @@
+{
+    "1": {
+        "name": "AB. Svenska Tandborstfabriken",
+        "location": "Tyringe",
+        "business": "Tillverkar tandborstar och nagelborstar vid fabrik i Tyringe (Kristianst. l.)",
+        "products": "Specialitet: nagelborstar av celluloid. Varumärke: »Rix».",
+        "contact": {
+            "office": "Tyringe",
+            "phone": [
+                "380"
+            ],
+            "postgiro": "24188",
+            "telegraph": "Tandborste, Tyringe"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb.": 34
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1934,
+        "coordinates": {
+            "Latitude": 56.1594501,
+            "Longitude": 13.6032438
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Svenska Textilindustri AB. Stiab",
+        "location": "Ulricehamn",
+        "business": "Damkonfektionsfabrik",
+        "products": "Tillverkar klänningar, blusar och kjolar",
+        "contact": {
+            "phone": [
+                "450"
+            ],
+            "postgiro": "135975"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb.": 21
+            }
+        },
+        "foundation_year": 1936,
+        "corporation_year": 1939,
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. Svenska Textilverken",
+        "location": "Genevad",
+        "business": "Cottoniseringsverk och spinneri i Genevad (Hallands l.)",
+        "products": "Tillverkar garner för industri och hemslöjd såsom cottoniserat lin, cottolin och splendolingarner. Varumärken: »Cottolin» o. »Splendolin»",
+        "contact": {
+            "office": "Genevad",
+            "phone": [
+                "1",
+                "19"
+            ],
+            "postgiro": "146391",
+            "telegraph": "Textilverken, Genevad"
+        },
+        "financials": {
+            "capital": "550,000 kr",
+            "employees": {
+                "industriarb.": 150
+            }
+        },
+        "foundation_year": 1937,
+        "coordinates": {
+            "Latitude": 56.5689666,
+            "Longitude": 13.0289524
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "AB, Svenska Tobaksmonopolet",
+        "location": "Stockholm",
+        "products": "Tobaksmonopolet, grundat 1914, utövar svenska statens monopol å tillverkning och import av tobaksvaror samt äger tobaksfabriker i Stockholm, Göteborg, Malmö, Södertälje, Arvika, Gävle och Härnösand. Tillverkningen omfattar cigarrer, cigarrcigarretter, cigarretter, röktobak, tuggtobak samt snus.",
+        "contact": {
+            "head_office": "Stockholm",
+            "phone": [
+                "Maria Bang. 6"
+            ],
+            "postgiro": "47",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Maria Bang. 2B"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": ""
+                },
+                {
+                    "location": "Malmö",
+                    "phone": ""
+                },
+                {
+                    "location": "Karlskrona",
+                    "phone": ""
+                },
+                {
+                    "location": "Jönköping",
+                    "phone": ""
+                },
+                {
+                    "location": "Norrköping",
+                    "phone": ""
+                },
+                {
+                    "location": "Örebro",
+                    "phone": ""
+                },
+                {
+                    "location": "Gävle",
+                    "phone": ""
+                },
+                {
+                    "location": "Härnösand",
+                    "phone": ""
+                },
+                {
+                    "location": "Östersund",
+                    "phone": ""
+                },
+                {
+                    "location": "Luleå",
+                    "phone": ""
+                }
+            ],
+            "financials": {
+                "capital": "30,000,000 kr",
+                "annual_turnover": "344,000,000 kr"
+            },
+            "foundation_year": 1914
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Svenska Traktor AB.",
+        "location": "Stockholm",
+        "business": "Service- och reparationsverkstad för traktorer och vägmaskiner samt för därtill hörande jordbruks- och industriredskap. Bolaget driver såsoni huvudrörelse handel med jordbruksmaskiner och redskap av utländskt fabrikat",
+        "contact": {
+            "office": "Mariehäll",
+            "phone": [
+                "Stockholm 282750"
+            ],
+            "postgiro": "159783"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb.": 15
+            }
+        },
+        "foundation_year": 1935,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    }
+}

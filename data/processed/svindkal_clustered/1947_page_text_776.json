@@ -1,0 +1,250 @@
+{
+    "1": {
+        "name": "Z andelin—Zuckerman",
+        "location": "Malmö",
+        "business": "Tryckeri, bokbinderi och kartongfabrik",
+        "contact": {
+            "office": "Stora Ny g. 35, Malmö",
+            "phone": [
+                "20657",
+                "24200"
+            ],
+            "postgiro": "38218",
+            "head_office": "Stora Ny g. 35, Malmö",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "673656"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1865,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "Harry Sandnes",
+                "role": "disp."
+            },
+            {
+                "name": "Axel Svanberg",
+                "role": "dir."
+            },
+            {
+                "name": "Karl-Gustav Svanberg",
+                "role": "apot."
+            }
+        ],
+        "director": "Axel Svanberg",
+        "managing_director": "Axel Svanberg",
+        "sales_manager": "John Byström",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Zandelins Tryckeri AB.",
+        "location": "Malmö",
+        "business": "Tryckeri, bokbinderi och kartongfabrik",
+        "contact": {
+            "office": "Hjulhamnsg. 3, Malmö",
+            "phone": [
+                "27852",
+                "27868"
+            ],
+            "postgiro": "24522"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "Torsten Flintberg",
+                "role": "Tryckerichef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Zenks Bryggeri AB.",
+        "location": "Örebro",
+        "business": "Tillverkar maltdrycker, läskedrycker och mineralvatten",
+        "contact": {
+            "phone": "Zenksbryggeri",
+            "postgiro": "11268"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1860,
+        "corporation_year": 1919,
+        "board": [
+            {
+                "name": "Tobias Åkesson",
+                "role": "bryggeriing."
+            },
+            {
+                "name": "Torsten Malm",
+                "role": "adv."
+            },
+            {
+                "name": "Sven Rassback",
+                "role": "bankdir."
+            }
+        ],
+        "director": "Tobias Åkesson",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Zetterberg AB.",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "office": "Stockholm, Artillerig. 28",
+            "phone": [
+                "620833",
+                "610402"
+            ],
+            "postgiro": "53188",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "ö. Hamng. 30—34"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "500,000 kr"
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "Carl Zetterberg",
+                "role": "byggnadsing."
+            },
+            {
+                "name": "Gunnar Zetterberg",
+                "role": "civiling."
+            },
+            {
+                "name": "Mander Zetterberg",
+                "role": "arkitekt"
+            }
+        ],
+        "director": "Carl Zetterberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Zetterlund & Thelanders Boktryckeri AB.",
+        "location": "Stockholm",
+        "business": "Utför bok-, tidskrifts-, biljett- och accidenstryck",
+        "contact": {
+            "office": "Skeppsbron 40",
+            "phone": "231180",
+            "postgiro": "3959"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "850,000 kr"
+        },
+        "foundation_year": 1903,
+        "corporation_year": 1907,
+        "director": "Otto Virgin",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "AB. Zinkgruvor",
+        "location": "Falun",
+        "business": "Gruvor i Svärdsjöfältet, Nya Kalv-bäcksgruvan, Lövåsfältet, Ryllshyttefältet och Saxbergsfältet (samtl. i Kopparb. l.); anrikningsverk i Kalvbäcken, Ryllshyttan, Rävvåla och Lövås (samtl. i Kopparb. 1.). Bryter och anrikar zink-, bly- och kopparmalm samt järnmalm och svavelkis",
+        "contact": {
+            "office": "Falun",
+            "phone": "3801"
+        },
+        "financials": {
+            "capital": "4,000,000 kr",
+            "employees": {
+                "industriarb": 300
+            }
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "Martin Waldenström",
+                "role": "dir."
+            },
+            {
+                "name": "Oscar Falkman",
+                "role": "dir."
+            },
+            {
+                "name": "Sven Schwartz",
+                "role": "dir."
+            },
+            {
+                "name": "Gustaf Söderlund",
+                "role": "bankdir."
+            },
+            {
+                "name": "Sven Thorné",
+                "role": "bergsing."
+            },
+            {
+                "name": "Axel Åström",
+                "role": "bankombudsm."
+            }
+        ],
+        "director": "Sven Thorné",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Zuckerman & Jonasson Metallfabrik AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar fotografiramar i metall vid fabrik i Aspudden, Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    }
+}

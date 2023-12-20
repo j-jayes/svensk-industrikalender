@@ -1,0 +1,176 @@
+{
+    "1": {
+        "name": "AB. Svartviks Glycos",
+        "location": "Alingsås",
+        "business": "Glykosfabrik",
+        "products": "Tillverkar glykos, flytande druvsocker och invertsocker",
+        "contact": {
+            "phone": [
+                "878"
+            ],
+            "postgiro": "265895"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 5
+            }
+        },
+        "foundation_year": 1909,
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB. Svartviks Grufvor",
+        "location": "Silverhöjden",
+        "business": "Järnmalmsgruvor",
+        "description": "Järnmalmsgruvor vid Svartvik, Ställdalen m. fl. platser i Örebro och Kopparbergs län samt elektrisk kraftstation. Gruvbrytningen f. n. nedlagd",
+        "contact": {
+            "telegraph": "Stockholm, Virvel-vindsv. 52, Höglandstorget",
+            "sales_offices": [
+                {
+                    "location": "Silverhöjden",
+                    "phone": "Hörken 50 o. 51"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 150000
+        },
+        "foundation_year": 1887,
+        "board": [
+            {
+                "name": "Fredrik Cassel",
+                "role": "disp."
+            },
+            {
+                "name": "Axel L:son Alarik",
+                "role": "disp."
+            },
+            {
+                "name": "Erik G. Pehrsson",
+                "role": "dir."
+            }
+        ],
+        "director": "Axel L:son Alarik",
+        "managing_director": "Clarence Brockman",
+        "coordinates": {
+            "Latitude": 60.03765569999999,
+            "Longitude": 14.9681983
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Svea Band & Pappers AB.",
+        "location": "Linköping",
+        "business": "Tillverkar reklamband, etiketter och märklappar",
+        "contact": {
+            "phone": [
+                "25620"
+            ],
+            "postgiro": "15171"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": 630000
+        },
+        "foundation_year": 1926,
+        "director": "Kurt Bendt",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "AB. Sveabryggerier",
+        "location": "Filipstad",
+        "business": "Bryggerier",
+        "products": "Tillverkar malt och maltdrycker, kolsyrade mineralvatten och läskedrycker",
+        "contact": {
+            "telegraph": "»Svea», Filipstad",
+            "phone": [
+                "Svea",
+                "Filip-stad"
+            ],
+            "postgiro": "8509"
+        },
+        "financials": {
+            "capital": 2472000,
+            "employees": {
+                "industriarb": 123
+            }
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "Nils G. Arvedson",
+                "role": "disp."
+            },
+            {
+                "name": "Stig Allsing",
+                "role": "borgm."
+            },
+            {
+                "name": "Richard Arvedson",
+                "role": "disp."
+            },
+            {
+                "name": "A. Backlund",
+                "role": "dir."
+            },
+            {
+                "name": "Sven Jansson",
+                "role": "disp."
+            },
+            {
+                "name": "John Löfgren",
+                "role": "disp."
+            },
+            {
+                "name": "C. Gunnar Nilsson",
+                "role": "disp."
+            }
+        ],
+        "director": "John Löfgren",
+        "sales_manager": "Åke Walden",
+        "coordinates": {
+            "Latitude": 59.7139973,
+            "Longitude": 14.1698445
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "AB. Svea Choklad",
+        "location": "Norrköping",
+        "business": "Choklad-, kakao- och konfityrfabrik",
+        "products": "Tillverkar choklad, kakao, dragéer, karameller, kola, konfekt, lakrits, marmelad, pastiller, tabletter, tuggummi, vanillin-socker m. m.",
+        "contact": {
+            "phone": [
+                "20253",
+                "20451",
+                "23170"
+            ],
+            "postgiro": "28260"
+        },
+        "financials": {
+            "capital": 1200000,
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "foundation_year": 1887,
+        "director": "B. Billsten",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 2
+    }
+}

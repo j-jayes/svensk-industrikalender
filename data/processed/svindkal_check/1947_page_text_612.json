@@ -1,177 +1,175 @@
 {
     "1": {
-        "1": {
-            "name": "Sievert—Silfa",
-            "location": "Manilla, Kalmar",
-            "contact": {
-                "telegraph": "Manilla, Kalmar",
-                "phone": [
-                    "7",
-                    "215",
-                    "1515",
-                    "1819"
-                ],
-                "postgiro": "6409"
-            },
-            "financials": {
-                "capital": "600,000 kr",
-                "employees": {
-                    "industriarb": 175
-                },
-                "annual_turnover": "2,000,000 kr",
-                "annual_production_value": "2,000,000 kr"
-            },
-            "foundation_year": 1877,
-            "board": [
-                {
-                    "name": "Gunnar Ekström",
-                    "role": "dir"
-                }
+        "name": "Sievert—Silfa",
+        "location": "Manilla, Kalmar",
+        "contact": {
+            "telegraph": "Manilla, Kalmar",
+            "phone": [
+                "7",
+                "215",
+                "1515",
+                "1819"
             ],
-            "manager": "Hilding Linde"
+            "postgiro": "6409"
         },
-        "2": {
-            "name": "AB. Max Sievert",
-            "location": "Sundbyberg",
-            "contact": {
-                "office": "Sundbyberg",
-                "phone": "Stockholm 282530",
-                "postgiro": "626",
-                "sales_offices": [
-                    {
-                        "location": "Ulvsunda",
-                        "phone": "Stockholm 252600"
-                    }
-                ]
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 175
             },
-            "financials": {
-                "capital": "1,200,000 kr",
-                "employees": {
-                    "industriarb": 200
-                }
-            },
-            "foundation_year": 1882,
-            "corporation_year": 1906,
-            "board": [
-                {
-                    "name": "Hans Georg Sievert",
-                    "role": "ordf"
-                },
-                {
-                    "name": "fru Signe Sievert"
-                },
-                {
-                    "name": "kapten R. G:son Sjöberg"
-                }
-            ],
-            "manager": "H. G. Sievert"
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "2,000,000 kr"
         },
-        "3": {
-            "name": "Max Sieverts Fabriks AB.",
-            "location": "Sundbyberg",
-            "contact": {
-                "office": "Sundbyberg",
-                "phone": "Stockholm »Sieverts Kabelverk»",
-                "postgiro": "24000"
-            },
-            "financials": {
-                "capital": "7,500,000 kr",
-                "employees": {
-                    "industriarb": 1,
-                    "additionalProperties": 200
-                }
-            },
-            "corporation_year": 1888,
-            "owners": [
-                "Telefon AB. L. M. Ericsson"
-            ],
-            "board": [
+        "foundation_year": 1877,
+        "board": [
+            {
+                "name": "Gunnar Ekström",
+                "role": "dir"
+            }
+        ],
+        "manager": "Hilding Linde"
+    },
+    "2": {
+        "name": "AB. Max Sievert",
+        "location": "Sundbyberg",
+        "contact": {
+            "office": "Sundbyberg",
+            "phone": "Stockholm 282530",
+            "postgiro": "626",
+            "sales_offices": [
                 {
-                    "name": "bankdir. Marcus Wallenberg",
-                    "role": "ordf"
-                },
-                {
-                    "name": "dir. Hemming Johansson"
-                },
-                {
-                    "name": "dir. Gösta Klemming"
-                }
-            ],
-            "manager": "Georg Olsson"
-        },
-        "4": {
-            "name": "AB. Sigtuna Såg",
-            "location": "Sigtuna",
-            "contact": {
-                "phone": "34",
-                "postgiro": "26751",
-                "sales_offices": [
-                    {
-                        "location": "Stockholm",
-                        "phone": "AB. Lundquist & Lindroth, Götg. 93, telefon: 406070"
-                    }
-                ]
-            },
-            "financials": {
-                "capital": "150,000 kr",
-                "employees": {
-                    "industriarb": 25
-                },
-                "annual_production_value": "900 stds trävaror"
-            },
-            "foundation_year": 1918,
-            "corporation_year": 1935,
-            "manager": "Börje Nordström",
-            "platschef": "K. Walter Larsson"
-        },
-        "5": {
-            "name": "AB. Si-Ko",
-            "location": "Stockholm",
-            "contact": {
-                "office": "Sickla",
-                "phone": "Stockholm 11",
-                "postgiro": "51800",
-                "sales_offices": [
-                    {
-                        "location": "Göteborg",
-                        "phone": "Odinsg. 6—8"
-                    },
-                    {
-                        "location": "Malmö",
-                        "phone": "Jacob Baggesg. 6"
-                    },
-                    {
-                        "location": "Jönköping"
-                    }
-                ]
-            },
-            "financials": {
-                "capital": "285,000 kr",
-                "employees": {
-                    "industriarb": 12
-                }
-            },
-            "foundation_year": 1929,
-            "board": [
-                {
-                    "name": "disp. Georg Palm",
-                    "role": "verkst"
-                },
-                {
-                    "name": "Ragnar F. Stange",
-                    "role": "reklamchef"
+                    "location": "Ulvsunda",
+                    "phone": "Stockholm 252600"
                 }
             ]
         },
-        "6": {
-            "name": "Silfa Fabriks AB.",
-            "location": "Alingsås",
-            "contact": {
-                "telegraph": "Alingsås",
-                "phone": "Alingsås",
-                "postgiro": "143941"
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb": 200
+            }
+        },
+        "foundation_year": 1882,
+        "corporation_year": 1906,
+        "board": [
+            {
+                "name": "Hans Georg Sievert",
+                "role": "ordf"
             },
-            "foundation_year": 1877
-        }
+            {
+                "name": "fru Signe Sievert"
+            },
+            {
+                "name": "kapten R. G:son Sjöberg"
+            }
+        ],
+        "manager": "H. G. Sievert"
+    },
+    "3": {
+        "name": "Max Sieverts Fabriks AB.",
+        "location": "Sundbyberg",
+        "contact": {
+            "office": "Sundbyberg",
+            "phone": "Stockholm »Sieverts Kabelverk»",
+            "postgiro": "24000"
+        },
+        "financials": {
+            "capital": "7,500,000 kr",
+            "employees": {
+                "industriarb": 1,
+                "additionalProperties": 200
+            }
+        },
+        "corporation_year": 1888,
+        "owners": [
+            "Telefon AB. L. M. Ericsson"
+        ],
+        "board": [
+            {
+                "name": "bankdir. Marcus Wallenberg",
+                "role": "ordf"
+            },
+            {
+                "name": "dir. Hemming Johansson"
+            },
+            {
+                "name": "dir. Gösta Klemming"
+            }
+        ],
+        "manager": "Georg Olsson"
+    },
+    "4": {
+        "name": "AB. Sigtuna Såg",
+        "location": "Sigtuna",
+        "contact": {
+            "phone": "34",
+            "postgiro": "26751",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "AB. Lundquist & Lindroth, Götg. 93, telefon: 406070"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": "900 stds trävaror"
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1935,
+        "manager": "Börje Nordström",
+        "platschef": "K. Walter Larsson"
+    },
+    "5": {
+        "name": "AB. Si-Ko",
+        "location": "Stockholm",
+        "contact": {
+            "office": "Sickla",
+            "phone": "Stockholm 11",
+            "postgiro": "51800",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "Odinsg. 6—8"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "Jacob Baggesg. 6"
+                },
+                {
+                    "location": "Jönköping"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "285,000 kr",
+            "employees": {
+                "industriarb": 12
+            }
+        },
+        "foundation_year": 1929,
+        "board": [
+            {
+                "name": "disp. Georg Palm",
+                "role": "verkst"
+            },
+            {
+                "name": "Ragnar F. Stange",
+                "role": "reklamchef"
+            }
+        ]
+    },
+    "6": {
+        "name": "Silfa Fabriks AB.",
+        "location": "Alingsås",
+        "contact": {
+            "telegraph": "Alingsås",
+            "phone": "Alingsås",
+            "postgiro": "143941"
+        },
+        "foundation_year": 1877
     }
 }

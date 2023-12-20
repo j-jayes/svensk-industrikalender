@@ -1,0 +1,308 @@
+{
+    "1": {
+        "name": "Kungsskogens Sågverk",
+        "location": "Ölme",
+        "business": "Tillverkar sågade och hyvlade trävaror",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": null,
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": 3000000
+        },
+        "foundation_year": 1943,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "disp. George Andersson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Elis V. Ericsson",
+                "role": null
+            },
+            {
+                "name": "sågverks-äg. David Israelsson",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.362303,
+            "Longitude": 14.0069605
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Kungsörs Bleckkärlsfabrik",
+        "location": "Kungsör",
+        "business": "Tillverkar hushållskärl av aluminium- och bleckplåt",
+        "products": "in-kokningsapparater, lackerade artiklar, gasmätare och stormlyktor samt utför på beställning alla slags arbeten i tunnplåt, pressade, svetsade och lackerade.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Bleckkärl, Kungsör"
+            ],
+            "postgiro": "9231",
+            "head_office": null,
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "674167"
+                }
+            ],
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": 250,
+            "annual_turnover": null,
+            "annual_production_value": 3000000
+        },
+        "foundation_year": 1897,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "civiling. Arvid Hamrin",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Anton Hamrin",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.422397,
+            "Longitude": 16.097786
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Kungsörs Sågverks AB.",
+        "location": "Kungsör",
+        "business": "Tillverkar sågade och hyvlade trävaror vid sågverk med hyvleri",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                "Sågbolaget"
+            ],
+            "postgiro": "266765",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 70000,
+            "employees": 21,
+            "annual_turnover": null,
+            "annual_production_value": "1,200 stds trävaror"
+        },
+        "foundation_year": 1943,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "disp. George Andersson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Elis V. Ericsson",
+                "role": null
+            },
+            {
+                "name": "sågverks-äg. David Israelsson",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.422397,
+            "Longitude": 16.097786
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Kungsörs Träförädling",
+        "location": "Kungsör",
+        "business": "Tillverkar dörrar och fönster samt köksinredningar",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                "182"
+            ],
+            "postgiro": "73468",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 12000,
+            "employees": 7,
+            "annual_turnover": null,
+            "annual_production_value": 90000
+        },
+        "foundation_year": 1926,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "fabr. Karl A. Lundgren",
+                "role": "ordf."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.422397,
+            "Longitude": 16.097786
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Kungälvs Sko- & Sportindustri",
+        "location": "Kungälv",
+        "business": "Tillverkar skodon",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                "284"
+            ],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "138466"
+                }
+            ],
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": 28,
+            "annual_turnover": null,
+            "annual_production_value": 350000
+        },
+        "foundation_year": 1937,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "dir. Herbert Sterner",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Max Löwengart",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": "Herbert Sterner",
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.86975400000001,
+            "Longitude": 11.9740317
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "Kvarn AB. J. C. S.",
+        "location": "Norrköping",
+        "business": "Tillverkar mjöl, gryn, kli och gröpe vid elektr. kvarn",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                "«J. G. Swartz»"
+            ],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 2400000,
+            "employees": 65,
+            "annual_turnover": null,
+            "annual_production_value": 10000000
+        },
+        "foundation_year": 1914,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "greve G. Falkenberg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Daniel Arfwidsson",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 2
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "1": {
+        "name": "Axel d. Hj. Frid, Möbelverkstad",
+        "location": "Stockholm",
+        "products": "Tillverkar möbler.",
+        "contact": {
+            "office": "Högbergsg. 48",
+            "phone": [
+                "405909"
+            ],
+            "description": "Kontor: Högbergsg. 48. Telefon: 405909. Arb.-antal: 2.",
+            "head_office": "Stockholm",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "foundation_year": 1916,
+        "owner": "Axel J. Hj. Frid",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Fridafors Fabriks AB.",
+        "location": "Fridafors",
+        "products": "Tillverkar papp samt för eget behov mek. trämassa. Bolaget idkar jämväl skogshanterin",
+        "contact": {
+            "telegraph": "Fridaforsbolag, Karlshamn",
+            "phone": [
+                "Ryd 9",
+                "Fridafors 40"
+            ],
+            "postgiro": "178100",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "116996"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "116500"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "Björckander & Co."
+                },
+                {
+                    "location": "Stockholm 15",
+                    "phone": "440035"
+                },
+                {
+                    "location": "Sundbyberg",
+                    "phone": "Stockholm 283636"
+                }
+            ],
+            "description": "Telegr.-adr.: Fridaf orsbolag, Karlshamn. Telefon: Ryd 9 o. Fridafors 40. Postgiro: 178100."
+        },
+        "financials": {
+            "capital": "1,737,500 kr.",
+            "employees": {
+                "industriarb.": 220
+            },
+            "annual_turnover": "10,000 ton ask- och kartongpapp",
+            "annual_production_value": "Bolaget grundat 1892"
+        },
+        "board": [
+            {
+                "name": "adv. Rolf Nordenstedt",
+                "role": "ordf."
+            },
+            {
+                "name": "överste Otto Broman",
+                "role": null
+            },
+            {
+                "name": "ryttm. Eugéne Flygare",
+                "role": null
+            },
+            {
+                "name": "dir. Einar Hansen",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": "Einar Hansen",
+        "sales_manager": null,
+        "manager": null,
+        "foundation_year": null,
+        "corporation_year": 1892,
+        "coordinates": {
+            "Latitude": 56.4085964,
+            "Longitude": 14.6601712
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Fridkulla Fabrikers AB.",
+        "location": "Göteborg",
+        "products": "Tillverkar herr-, dam- och barnstrumpor av silke, ylle, bomull, ylle-flor m. m.",
+        "contact": {
+            "telegraph": "Strumpfabriken, Göteborg",
+            "phone": [
+                "164110-11"
+            ],
+            "postgiro": "43121",
+            "description": "Telegr.-adr.: Strumpfabriken, Göteborg. Telefon: 164110-11. Postgiro: 43121."
+        },
+        "financials": {
+            "capital": "750,000 kr.",
+            "employees": {
+                "industriarb.": 230
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "board": [
+            {
+                "name": "dir. Gustaf Werner",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Frans H. Nilsson",
+                "role": null
+            },
+            {
+                "name": "dir. Sven Pettersson",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": "F. H. Nilsson",
+        "sales_manager": null,
+        "manager": null,
+        "foundation_year": 1932,
+        "corporation_year": null,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Friseils Maskiner",
+        "location": "Nacka",
+        "products": "Tillverkar snabbsvarvar vid fabrik i Nacka (Stockholms l.).",
+        "contact": {
+            "phone": [
+                "410425"
+            ],
+            "postgiro": "97483",
+            "description": "Telefon: 410425. Postgiro: 97483."
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 25
+            }
+        },
+        "owner": "ing. Hjalmar F. Friseli",
+        "coordinates": {
+            "Latitude": 59.30531999999999,
+            "Longitude": 18.2475
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Fristads Snickerifabriks AB.",
+        "location": "Fristad",
+        "products": "Tillverkar byggnadssnickerier och inredningar m. m. samt utför beställningssnickerier vid fabrik i Fristad (Älvsb. l.).",
+        "contact": {
+            "phone": [
+                "Borås 60017"
+            ],
+            "postgiro": "266538",
+            "description": "Telefon: Borås 60017. Postgiro: 266538."
+        },
+        "financials": {
+            "capital": "62,000 kr.",
+            "employees": {
+                "industriarb.": 12
+            },
+            "annual_turnover": "250,000 kr."
+        },
+        "board": [
+            {
+                "name": "Albin Andersson",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "foundation_year": 1905,
+        "corporation_year": null,
+        "coordinates": {
+            "Latitude": 57.824945,
+            "Longitude": 13.007778
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Fritsla Cardinfabrik",
+        "location": "Fritsla",
+        "products": "Tillverkar allmoge- och marquisettegardiner samt draperityger m. m.",
+        "contact": {
+            "telegraph": "Garfab, Fritsla",
+            "phone": [
+                "Kinna 70123"
+            ],
+            "postgiro": "93977",
+            "description": "Telegr.-adr.: Garfab, Fritsla. Telefon: Kinna 70123. Postgiro: 93977."
+        },
+        "financials": {
+            "capital": "100,000 kr.",
+            "employees": {
+                "industriarb.": 35
+            }
+        },
+        "owner": "Ejnar Hedin",
+        "coordinates": {
+            "Latitude": 57.5577891,
+            "Longitude": 12.7855095
+        },
+        "cluster": 1
+    }
+}

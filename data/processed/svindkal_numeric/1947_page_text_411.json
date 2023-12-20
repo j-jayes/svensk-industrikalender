@@ -1,0 +1,245 @@
+{
+    "1": {
+        "name": "Kalhindustrie r",
+        "location": "Kalmar",
+        "business": "Kalkindustri",
+        "contact": {
+            "office": "Stockholm, Riddarg. 9",
+            "telegraph": "Kalkbränneribol., Stockholm",
+            "phone": [
+                "600622",
+                "600607"
+            ],
+            "postgiro": "3913"
+        },
+        "financials": {
+            "capital": 205000,
+            "employees": {
+                "industri-rarb.": 45
+            },
+            "annual_turnover": "not available",
+            "annual_production_value": "not available"
+        },
+        "foundation_year": 1927,
+        "directors": {
+            "board": [
+                {
+                    "name": "Aug. Jenning",
+                    "role": "ordf."
+                },
+                {
+                    "name": "Bo Carlsson",
+                    "role": "ing."
+                },
+                {
+                    "name": "Ester Carlsson",
+                    "role": "fru"
+                },
+                {
+                    "name": "Mune Carlsson",
+                    "role": "dir."
+                },
+                {
+                    "name": "Sten Carlsson",
+                    "role": "disp."
+                },
+                {
+                    "name": "Rune Carlsson",
+                    "role": "verkst. dir."
+                }
+            ],
+            "director": "Rune Carlsson"
+        },
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Kallenbergs AB., Uppsala",
+        "location": "Uppsala",
+        "business": "Sågverk och hyvleri",
+        "contact": {
+            "phone": [
+                "Kallenbergs AB."
+            ],
+            "postgiro": "4045"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb.": 55
+            },
+            "annual_turnover": "not available",
+            "annual_production_value": "not available"
+        },
+        "foundation_year": 1940,
+        "owners": [],
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Kallnar Bobbin C:o AB., Kalmar",
+        "location": "Kalmar",
+        "business": "Bobbin- och lackeringsfabrik",
+        "contact": {
+            "office": "Kalmar",
+            "telegraph": "Bobbin-fabrik, Kalmar",
+            "phone": [
+                "2770",
+                "2233"
+            ],
+            "postgiro": "71718"
+        },
+        "financials": {
+            "capital": 228000,
+            "employees": {
+                "industriarb.": 135
+            },
+            "annual_turnover": "not available",
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1922,
+        "directors": {
+            "board": [
+                {
+                    "name": "Ivar Anderson",
+                    "role": "fil. dr (ordf.)"
+                },
+                {
+                    "name": "Frits Elfverson",
+                    "role": "disp."
+                },
+                {
+                    "name": "E. E. Gullbrandsson",
+                    "role": "disp."
+                }
+            ],
+            "director": "Frits Elfverson"
+        },
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Kalmar Bryggeri AB., Kalmar",
+        "location": "Kalmar",
+        "business": "Tillverkar maltdrycker, mineralvatten och läskedrycker",
+        "contact": {
+            "phone": [
+                "Bryggeribolaget"
+            ],
+            "postgiro": "277898"
+        },
+        "financials": {
+            "capital": 645000,
+            "employees": {
+                "industriarb.": 50
+            },
+            "annual_turnover": 1500000,
+            "annual_production_value": "not available"
+        },
+        "foundation_year": 1935,
+        "owners": [
+            "AB. Stockholms Bryggerier"
+        ],
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "AB. Kalmar Chokladfabrik",
+        "location": "Kalmar",
+        "business": "Tillverkar choklad, konfityrer och karameller",
+        "contact": {
+            "telegraph": "Choklad, Kalmar",
+            "phone": [
+                "2550—55"
+            ],
+            "postgiro": "11504"
+        },
+        "financials": {
+            "capital": 240000,
+            "employees": {
+                "industriarb.": 150
+            },
+            "annual_turnover": "not available",
+            "annual_production_value": "not available"
+        },
+        "foundation_year": 1926,
+        "owners": [],
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Kalmar Konservfabrik, Mörrum",
+        "location": "Mörrum",
+        "business": "Konservfabriker",
+        "contact": {
+            "telegraph": "Kalmarkonserv, Mörrum",
+            "phone": [
+                "160—62"
+            ],
+            "postgiro": "73069"
+        },
+        "financials": {
+            "capital": 78100,
+            "employees": {
+                "industriarb.": 50
+            },
+            "annual_turnover": 1000000,
+            "annual_production_value": "not available"
+        },
+        "foundation_year": 1930,
+        "owners": [],
+        "coordinates": {
+            "Latitude": 56.1938314,
+            "Longitude": 14.748156
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "AB. Kalmar Lådfabrik, Kalmar",
+        "location": "Kalmar",
+        "business": "Tillverkar lådämnen",
+        "contact": {
+            "telegraph": "Brynolf, Kalmar",
+            "phone": [
+                "857",
+                "2758"
+            ],
+            "postgiro": "160862"
+        },
+        "financials": {
+            "capital": "not available",
+            "employees": {
+                "not available": "not available"
+            },
+            "annual_turnover": "not available",
+            "annual_production_value": "not available"
+        },
+        "foundation_year": "not available",
+        "owners": [
+            "not available"
+        ],
+        "directors": {
+            "names": "not available"
+        },
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 1
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "1": {
+        "name": "Kapsylfabriken",
+        "location": "Hässleholm",
+        "business": "Tillverkning av kapsyler",
+        "contact": {
+            "telegraph": "Kapsylfabriken, Hässleholm",
+            "phone": [
+                "98"
+            ],
+            "postgiro": "162396"
+        },
+        "financials": {
+            "capital": 53500,
+            "foundation_year": 1914
+        },
+        "board": [
+            {
+                "name": "fru A. Rehfeld",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "fröken A.-L. Waldau",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "disp. Carl Rehfeld",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "fru A. Rehfeld",
+        "coordinates": {
+            "Latitude": 56.15891449999999,
+            "Longitude": 13.7667655
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Hässleholms Tegelbruk",
+        "location": "Malmö",
+        "business": "Tegeltillverkning",
+        "products": "Röd fasadtegel, flamtegel och lättegel",
+        "contact": {
+            "office": "Baltzarsg. 25, Malmö",
+            "phone": [
+                "25234"
+            ],
+            "postgiro": "147634"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "1,500,000 st. tegelvaror",
+            "foundation_year": 1939
+        },
+        "board": [
+            {
+                "name": "disp. Sam Nilsson",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "AB. Hässleholms Verkstäder",
+        "location": "Hässleholm",
+        "business": "Mekanisk verkstad och gjuteri",
+        "products": "Järnkonstruktioner, plåtarbeten, gjutgods, järnvägsmaterial, järnvägsvagnar, transportanordningar",
+        "contact": {
+            "office": "Verkstäderna, Hässleholm",
+            "phone": [
+                "15",
+                "16",
+                "23"
+            ],
+            "postgiro": "23142"
+        },
+        "financials": {
+            "capital": 203200,
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_production_value": 2300000,
+            "foundation_year": 1889,
+            "corporation_year": 1915
+        },
+        "board": [
+            {
+                "name": "adv. J. Listander",
+                "role": "Ordförande"
+            },
+            {
+                "name": "ing. Nils Weibull",
+                "role": "Vice ordförande"
+            },
+            {
+                "name": "byggm. Olof Persson",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Nils Weibull",
+        "sales_manager": "disp. Oscar Hedblad",
+        "coordinates": {
+            "Latitude": 56.15891449999999,
+            "Longitude": 13.7667655
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Hästbo Tegelbruk",
+        "location": "Hästbo",
+        "business": "Sågverk, hyvleri och tegeltillverkning",
+        "products": "Sågade och hyvlade trävaror, taktegel samt dräneringsrör",
+        "contact": {
+            "phone": [
+                "6"
+            ],
+            "postgiro": "37419"
+        },
+        "financials": {
+            "capital": 180500,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "1,500,000 st. tegelvaror, 500 stds trävaror",
+            "foundation_year": 1929
+        },
+        "board": [
+            {
+                "name": "v. konsul Robert Carrick",
+                "role": "Ordförande"
+            },
+            {
+                "name": "hemmansäg. Axel Jönsson",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "köpm. P. J. Norbäck",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Verkställande styrelseledamot: Robert Carrick",
+        "manager": "Kamrer: Torsten Stålberg",
+        "coordinates": {
+            "Latitude": 60.5623826,
+            "Longitude": 17.1261447
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "AB. Hästholmsvarvet",
+        "location": "Lidingö",
+        "business": "Båtvarv",
+        "products": "Ny- och ombyggnader, vinterförvaring och utrustning av motor- och segelbåtar",
+        "contact": {
+            "office": "Gåshaga, Lidingö",
+            "phone": [
+                "Stockholm 656043"
+            ],
+            "postgiro": 300000
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "arb-antal": 20
+            },
+            "foundation_year": 1906
+        },
+        "board": [
+            {
+                "name": "adv. Anders Lind",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "ing. Knud H. Reimers",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Verkställande direktör: kapten Stig Wilton",
+        "coordinates": {
+            "Latitude": 59.36295999999999,
+            "Longitude": 18.1468
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Höganäsarbeten",
+        "location": "Stockholm",
+        "business": "Entreprenörfirma",
+        "products": "Syrafasta och eldfasta murningar, plattsättning och akustikförbättring",
+        "contact": {
+            "office": "Malmtorgsgatan 6, Stockholm",
+            "phone": [
+                "232100"
+            ],
+            "postgiro": "159170"
+        },
+        "financials": {
+            "capital": 90000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 900000,
+            "current_name_year": 1942
+        },
+        "board": [
+            {
+                "name": "dir. P. Eg. Gummeson",
+                "role": "Ordförande"
+            },
+            {
+                "name": "dir. Mårten Schwartz",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Verkställande direktör: V. Terling",
+        "sales_manager": "Arbetschef: civiling. Malcolm Broddner",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "AB. Höganäs-Billesholms AB.",
+        "location": "Höganäs",
+        "business": "Tillverkning av gruvprodukter och keramiska produkter",
+        "products": "Eldfast tegel, järnsvamp, golvklinker, glaserade väggplattor, glaserade lerrör, murtegel, syrafast stengods, lerkärl, kemiska produkter ur stenkolstjära samt kiselkarbid och elektrokorund",
+        "contact": {
+            "office": "Höganäs",
+            "phone": [
+                "Höganäsbolaget, Höganäs"
+            ],
+            "postgiro": "8565"
+        },
+        "financials": {
+            "capital": 30000000,
+            "employees": {
+                "arb-antal": 3,
+                "ärstprod": {
+                    "gruvprodukter": "669,500 ton",
+                    "keramiska produkter": "166,000 ton",
+                    "metallurgiska produkter": "22,000 ton",
+                    "kemiska produkter": "2,050 ton",
+                    "el. energi": "9,3 mill. kWh"
+                }
+            },
+            "foundation_year": 1903
+        },
+        "board": [
+            {
+                "name": "dir. Carl Johan Malmros",
+                "role": "Ordförande"
+            },
+            {
+                "name": "bankdir. Allan Alexanderson",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Verkställande direktör: P. Eg. Gummeson",
+        "coordinates": {
+            "Latitude": 56.2006388,
+            "Longitude": 12.5553288
+        },
+        "cluster": 0
+    }
+}

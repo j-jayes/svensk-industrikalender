@@ -1,0 +1,246 @@
+{
+    "1": {
+        "name": "AB. Hvetlanda Stol- & Möbelfabrik",
+        "location": "Vetlanda",
+        "business": "Tillverkar radiolådor och -skåp",
+        "contact": {
+            "telegraph": "Möbelfabriken, Vetlanda",
+            "phone": [
+                "20"
+            ],
+            "postgiro": "26001"
+        },
+        "financials": {
+            "capital": 35000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1897,
+        "corporation_year": 1936,
+        "board": [
+            {
+                "name": "Eric Johanson",
+                "role": "dir."
+            },
+            {
+                "name": "Ruth Johanson",
+                "role": "fröken"
+            },
+            {
+                "name": "Silas Johanson",
+                "role": "dir."
+            }
+        ],
+        "managing_director": "Eric Johanson",
+        "sales_manager": "Silas Johanson",
+        "coordinates": {
+            "Latitude": 57.42746,
+            "Longitude": 15.08533
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Hvilans Mek. Verkstads AB.",
+        "location": "Kristianstad",
+        "business": "Mek. verkstad, gjuteri och plåtslageri. Tillverkar kranar och lyftanordningar, hissar, svetsade och nitade plåtarbeten samt järnkonstruktioner, ångpannor, maskiner för sprit- och stärkelsefabriker ävensom transportvagnar, granskningsmaskiner för tyger m. m. för ylleindustri.",
+        "contact": {
+            "office": "Hvilan, Kristianstad",
+            "telegraph": "II vi lans Gjuteri, Kristianstad",
+            "phone": [
+                "10029",
+                "10429",
+                "10939"
+            ],
+            "postgiro": "24066"
+        },
+        "financials": {
+            "capital": 394500,
+            "employees": {
+                "industriarb": 115
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": 1700000
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "P. Hroar de la Oour",
+                "role": "disp."
+            },
+            {
+                "name": "Lennart de la Cour",
+                "role": "jur. kand."
+            },
+            {
+                "name": "Nils Jönsson",
+                "role": "landstingsm."
+            },
+            {
+                "name": "Alb. Larsson",
+                "role": "dir."
+            },
+            {
+                "name": "Joh. Persson",
+                "role": "dir."
+            }
+        ],
+        "director": "Alb. Larsson",
+        "manager": "C. Malmqvist",
+        "coordinates": {
+            "Latitude": 56.0293936,
+            "Longitude": 14.1566778
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Hydrauliska Industri AB.",
+        "location": "Hudiksvall",
+        "business": "Mek. verkstad. Tillverkar hydrauliska maskiner och verktyg såsom pressar, garage- och pelardomkrafter, bil- och släpvagnstippar, lastkranar för automo-biler, bockningsapparater, hjulavdragare m. m.",
+        "contact": {
+            "phone": [
+                "1500"
+            ],
+            "postgiro": "277680"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": 600000
+        },
+        "foundation_year": 1944,
+        "director": "Carl Johan Börjesson",
+        "sales_manager": "Gunnar Lundeli",
+        "coordinates": {
+            "Latitude": 61.7273909,
+            "Longitude": 17.107401
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Hylin & Co. Fabriks AB.",
+        "location": "Stockholm",
+        "business": "Kem.-tekn. fabrik. Tillverkar tvål, såpa, tvätt- och skurmedel, parfymer, kosmetiska och antiseptiska artiklar m. m.",
+        "contact": {
+            "office": "östgötag. 52",
+            "telegraph": "Hy-lins, Stockholm",
+            "phone": [
+                "440260"
+            ],
+            "postgiro": "2664"
+        },
+        "financials": {
+            "capital": 750000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1857,
+        "corporation_year": 1891,
+        "board": [
+            {
+                "name": "ing. C. Ed. Grumme",
+                "role": "ordf."
+            },
+            {
+                "name": "Curt Aspegrén",
+                "role": "kontorschef"
+            },
+            {
+                "name": "Ferdinand Grumme",
+                "role": "ing."
+            }
+        ],
+        "director": "C. Ed. Grumme",
+        "manager": "Curt Aspegrén",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Hylte Bruks AB",
+        "location": "Hyltebruk",
+        "business": "Pappersbruk med sulfitfabrik vid Hyl-tebruk (Jönköp. l.). Tillverkar sulfitcellulosa för eget behov, sulfitsprit, omslagspapper samt pås- och smörpapper.",
+        "contact": {
+            "telegraph": "Hylte, Halmstad",
+            "phone": [
+                "Hyltebruk 22"
+            ]
+        },
+        "financials": {
+            "capital": 5000000,
+            "employees": {
+                "industriarb": 425
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1908,
+        "board": [
+            {
+                "name": "bankdir. Rich. Julin",
+                "role": "ordf."
+            },
+            {
+                "name": "Ivar Bjerström",
+                "role": "disp."
+            },
+            {
+                "name": "Sigbjörn Holgersson",
+                "role": "disp."
+            },
+            {
+                "name": "Sten E. Holgersson",
+                "role": "disp."
+            },
+            {
+                "name": "John Lindström",
+                "role": "dir."
+            }
+        ],
+        "director": "Sten E. Holgersson",
+        "sales_manager": "Sigir. Lindsjö",
+        "coordinates": {
+            "Latitude": 57.0017639,
+            "Longitude": 13.2420994
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "J. E. Hylténs Metallvarufabrik",
+        "location": "Gnosjö",
+        "business": "Metallvarufabrik i Gnosjö (Jönköp. l.). Tillverkar rörledningsarmatur, brandarmatur, båtbeslag m. m.",
+        "contact": {
+            "telegraph": "Hyltén, Gnosjö",
+            "phone": [
+                "7"
+            ],
+            "postgiro": "266382"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": 336000
+        },
+        "foundation_year": 1874,
+        "owner": "J. E. Hylténs sterbhus",
+        "director": "John Hyltén",
+        "manager": "Paul Hyltén",
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 6
+    }
+}

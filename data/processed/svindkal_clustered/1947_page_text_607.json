@@ -1,0 +1,195 @@
+{
+    "1": {
+        "name": "S:t Eriks Lervarufabriker AB",
+        "location": "Uppsala",
+        "business": "Tegelbruk med betongvarufabrik",
+        "products": "Tillverkar mur-, fasad-, golv-, fasadbeklädnads- och håltegel (även högporöst), taktegel (falsat och ofalsat), kabeltegel, dräneringsrör, mellanväggsplattor, öppna spisar, byggnadskeramik såsom omfattningstegel, reliefer m. m.; betongrör, brunnsringar, kulvertar, trottoarplattor, trappsteg, hålsten, vattenbassänger, stag-skivor m. m. Bolaget driver även försäljning av byggnadsmateriel.",
+        "contact": {
+            "phone": [
+                "30210",
+                "32810",
+                "32820"
+            ],
+            "postgiro": "34153"
+        },
+        "financials": {
+            "capital": "337,500 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "800,000 kr",
+            "annual_production_value": "800,000 kr"
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "arkitekt Sven Wallander",
+                "role": "ordf."
+            },
+            {
+                "name": "hantverkare Curt Dalhagen",
+                "role": null
+            },
+            {
+                "name": "herr David Frisell",
+                "role": null
+            },
+            {
+                "name": "ombudsm. Erik Persson",
+                "role": null
+            },
+            {
+                "name": "affärschef Hj. Wedholm",
+                "role": null
+            }
+        ],
+        "director": "Erik Persson",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "K. D. Santesson AB",
+        "location": "Eslöv",
+        "business": "Skofabrik",
+        "products": "Tillverkar som specialitet handgjorda skodon",
+        "contact": {
+            "phone": [
+                "414",
+                "355"
+            ],
+            "postgiro": "79406"
+        },
+        "financials": {
+            "capital": "170,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1904,
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "fabr. Kristian D. Santesson",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. P. I. Hedener",
+                "role": null
+            },
+            {
+                "name": "adv. Wilh. Penser",
+                "role": null
+            },
+            {
+                "name": "disp. Arvid Santesson",
+                "role": null
+            },
+            {
+                "name": "disp. Gustaf D. Santesson",
+                "role": null
+            }
+        ],
+        "director": "Arvid Santesson",
+        "managing_director": "Arvid Santesson",
+        "coordinates": {
+            "Latitude": 55.8391198,
+            "Longitude": 13.3033914
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Santorin-Verken AB",
+        "location": "Stockholm",
+        "business": "Tillverkar mellanväggsplattor av slaggbetong och träullsplattor",
+        "products": "Varumärken: »TBG»-slaggplattor och »ABT»-trä-ullsplattor. Bolaget driver även försäljning av elektr. lödkolvar (»Vici»).",
+        "contact": {
+            "phone": [
+                "112242",
+                "102242",
+                "102281"
+            ],
+            "postgiro": "155372"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1935,
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "civiling. Georg Ehrenborg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. P.-C. af Buren",
+                "role": null
+            },
+            {
+                "name": "dir. Alfred Nordlund",
+                "role": null
+            }
+        ],
+        "director": "Alfred Nordlund",
+        "managing_director": "Alfred Nordlund",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "S-B Bygge AB",
+        "location": "Växjö",
+        "business": "Sågverk, hyvleri-, snickeri- och lådfabrik",
+        "products": "Tillverkar monteringsfärdiga trähus, lådor samt sågade och hyvlade trävaror. Varumärke: »SB bygge».",
+        "contact": {
+            "phone": [
+                "2557",
+                "2558",
+                "2758"
+            ],
+            "postgiro": null
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "1,700,000 kr",
+            "annual_production_value": "1,700,000 kr"
+        },
+        "foundation_year": 1932,
+        "corporation_year": 1943,
+        "board": [
+            {
+                "name": "ing. Conrad Persson",
+                "role": "ordf."
+            },
+            {
+                "name": "kamrer Magnus Norberg",
+                "role": null
+            },
+            {
+                "name": "inköpschef Gustav Svensson",
+                "role": null
+            }
+        ],
+        "director": null,
+        "managing_director": "Magnus Norberg",
+        "sales_manager": "Conrad Persson",
+        "manager": "Gustav Svensson",
+        "coordinates": {
+            "Latitude": 56.8790044,
+            "Longitude": 14.8058522
+        },
+        "cluster": 7
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "1": {
+        "name": "Falu Spisbrödsfabrik",
+        "location": "Falu, Falun",
+        "business": "Tillverkar spisbröd. Varunamn: »Falu Rutbröd»",
+        "contact": {
+            "phone": [
+                "750"
+            ],
+            "postgiro": "160013"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 300000
+        },
+        "foundation_year": 1939,
+        "owner": "Vald. Johansson",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Falu Tegelverks AB",
+        "location": "Falun",
+        "business": "Tegelbruk samt sågverk (Gethällens såg). Tillverkar murtegel och täckdikes-rör samt sågade trävaror",
+        "contact": {
+            "phone": [
+                "228",
+                "224"
+            ],
+            "postgiro": "31188"
+        },
+        "financials": {
+            "capital": 212500,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "1,000 stds trävaror, o. 1,8 milj. st. tegelvaror"
+        },
+        "board": [
+            {
+                "name": "Carl Hellberg",
+                "role": "Verkst. dir."
+            }
+        ],
+        "foundation_year": 1899,
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Falu Yllefabriks AB",
+        "location": "Sågmyra",
+        "business": "Ullspinneri och ylleväveri, stamp- och beredningsverk, färgeri, schoddyfabrik, vaddfabrik och kemisk tvättänstalt",
+        "contact": {
+            "phone": "Falun 138",
+            "postgiro": "8468"
+        },
+        "financials": {
+            "capital": 2250000,
+            "employees": {
+                "industriarb": 650
+            },
+            "annual_turnover": 8000000
+        },
+        "foundation_year": 1896,
+        "current_name_year": 1916,
+        "board": [
+            {
+                "name": "Axel L. Tidstrand",
+                "role": "Ordf."
+            },
+            {
+                "name": "Ragnar Tidstrand",
+                "role": "Dir."
+            },
+            {
+                "name": "Sven Tidstrand",
+                "role": "Disp."
+            }
+        ],
+        "owner": "fabr. Axel L. Tidstrand",
+        "coordinates": {
+            "Latitude": 60.71109209999999,
+            "Longitude": 15.3122982
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "AB. Falu Ångbryggeri",
+        "location": "Falun",
+        "business": "Tillverkar malt- och läskedrycker samt mineralvatten",
+        "contact": {
+            "phone": "Ångbryggeriet, Falun",
+            "postgiro": "23925"
+        },
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 26
+            },
+            "annual_turnover": 800000
+        },
+        "foundation_year": 1910,
+        "predecessor": "Bryggeriet anlagt 1869",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "AB. Fanérfabriken i Forserum",
+        "location": "Forserum",
+        "business": "Tillverkar enkelskuret fanér för möbeltillverkning vid fabrik i Forserum",
+        "contact": {
+            "phone": "61",
+            "postgiro": "98777"
+        },
+        "financials": {
+            "capital": 10000,
+            "employees": {
+                "arbetare": 8
+            },
+            "annual_turnover": 125000
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "Eric Lagerquist",
+                "role": "Ordf."
+            },
+            {
+                "name": "Georg Lagerquist",
+                "role": "Verkm."
+            },
+            {
+                "name": "Hilding Lagerquist",
+                "role": "Trävaruhandl."
+            },
+            {
+                "name": "Idalia Lagerquist",
+                "role": "Fru"
+            },
+            {
+                "name": "Sigrid Lagerquist",
+                "role": "Fru"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.69932780000001,
+            "Longitude": 14.475408
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "AB. Fargo",
+        "location": "Malmö",
+        "business": "Mek. verkstad. Tillverkar lastvagnar å gummihjul, hydrauliska tippapparater samt ogrässprutor",
+        "contact": {
+            "phone": "12576",
+            "postgiro": "39648"
+        },
+        "financials": {
+            "capital": 20000,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": 200000
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "Herman Twede",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Fasilko",
+        "location": "Göteborg",
+        "business": "Sidenväveri, trikåväveri och damkonfektionsfabrik",
+        "contact": {
+            "phone": "170640",
+            "postgiro": "40033"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 160
+            }
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "J. Henning Wenander",
+                "role": "Ordf."
+            },
+            {
+                "name": "Sven Nielsen",
+                "role": "Disp."
+            },
+            {
+                "name": "Nils Wenander",
+                "role": "Ing."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "8": {
+        "name": "Fabriks AB. Stålformar",
+        "location": "Limhamn",
+        "business": "Mek. verkstad. Tillverkar press- och stansverktyg samt pneumatiska maskin- och bänkskruvstycken",
+        "contact": {
+            "phone": "Malmö 50630 o. 50730"
+        },
+        "financials": {
+            "capital": 20000,
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": 200000
+        },
+        "board": [
+            {
+                "name": "Olof Edman",
+                "role": "Verkst. dir."
+            }
+        ],
+        "corporation_year": 1944,
+        "coordinates": {
+            "Latitude": 55.5724415,
+            "Longitude": 12.9147749
+        },
+        "cluster": 6
+    },
+    "9": {
+        "name": "G. C. Faxe AB.",
+        "location": "Malmö",
+        "business": "Ackumulatorfabrik (Nordiska Ackumulator Fabriken) samt syrgasfabrik (Syrgasfabriken Flytande Luft). Tillverkar blyackumulatorer (märke: 'Noack') fÖB",
+        "contact": {
+            "phone": "",
+            "postgiro": ""
+        },
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    }
+}

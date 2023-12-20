@@ -1,0 +1,211 @@
+{
+    "1": {
+        "name": "AB. Princeps",
+        "location": "Göteborg",
+        "business": "Tillverkar helautomatiska accidenstryckpressen »Lagerman Press»",
+        "contact": {
+            "office": "Fabriksg. 22",
+            "phone": [
+                "151935"
+            ],
+            "postgiro": "40479"
+        },
+        "financials": {
+            "capital": 86000,
+            "employees": {
+                "industriarb": 16
+            }
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "dir. Ernst Jakobsson",
+                "role": null
+            },
+            {
+                "name": "tekniker Wald. Larsson",
+                "role": null
+            }
+        ],
+        "director": "Ernst Jakobsson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Prinsfors Vaddfabrik",
+        "location": "Bankeryd",
+        "business": "Tillverkare av täck- och möbelvadd, flock, madrasser samt utför löngodsarbeten vid fabrik i Bankeryd (Jönköp. l.)",
+        "contact": {
+            "phone": [
+                "25"
+            ],
+            "postgiro": "83330"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 8
+            }
+        },
+        "foundation_year": 1926,
+        "owners": [
+            "fru E. Lindén"
+        ],
+        "director": null,
+        "coordinates": {
+            "Latitude": 57.8574137,
+            "Longitude": 14.1312259
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Pripp & Lyckholm",
+        "location": "Göteborg",
+        "business": "Tillverkar maltdrycker vid Pripps, Lyckholms och Eriksbergs Bryggerier samtliga i Göteborg samt malt- och läskedrycker vid Vänersborgs Bryggeri, Vänersborg, Krönleins Bryggeri, Trollhättan, Utsiktens Bryggeri, Uddevalla, Strömstads Bryggeri, Strömstad, och Lilla Edets Ångbryggeri, Göta",
+        "contact": {
+            "office": "Stampgatan 18",
+            "phone": [
+                "153814"
+            ],
+            "postgiro": "43730"
+        },
+        "financials": {
+            "capital": 18000000,
+            "employees": {
+                "industriarb": 450
+            }
+        },
+        "corporation_year": 1926,
+        "board": [
+            {
+                "name": "disp. Vilhelm Månsson",
+                "role": "ordf."
+            },
+            {
+                "name": "överstelöjtn. Gotthard Dieden",
+                "role": null
+            },
+            {
+                "name": "dir. Joel Larsson",
+                "role": null
+            },
+            {
+                "name": "godsäg. Gösta Liedberg",
+                "role": null
+            },
+            {
+                "name": "dir. Martin Månsson",
+                "role": null
+            },
+            {
+                "name": "civiling. Erik Olson",
+                "role": null
+            },
+            {
+                "name": "banktjänsteman N. Salander",
+                "role": null
+            }
+        ],
+        "managing_director": "Erik Olson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Eduard Profeld",
+        "location": "Linköping",
+        "business": "Tillverkar trikåunderkläder och strumpor",
+        "contact": {
+            "office": null,
+            "phone": [
+                "20622"
+            ],
+            "postgiro": "86001"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "fabr. Eduard Profeld",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Ernest Profeld",
+                "role": null
+            },
+            {
+                "name": "fröken S. Profeld",
+                "role": null
+            }
+        ],
+        "managing_director": "Ernest Profeld",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Protesindustri, Simonsson & Co. Kommanditbolag",
+        "location": "Stockholm",
+        "business": "Tillverkar halvfabrikat till benproteser",
+        "contact": {
+            "office": "Kaptensg. 3",
+            "phone": [
+                "625653"
+            ],
+            "postgiro": "59347"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "byrådir. Artur Bergström",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Helge Een",
+                "role": null
+            },
+            {
+                "name": "notarie Karl Holmgren",
+                "role": null
+            },
+            {
+                "name": "dir. Hj. Simonsson",
+                "role": null
+            }
+        ],
+        "managing_director": "Hj. Simonsson",
+        "manager": "Gunhild Larsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "Pukebergs Glasbruk",
+        "location": "Nybro",
+        "original_name": "AB. Arvid Böhlmarks Lampfabrik",
+        "foundation_year": 0,
+        "coordinates": {
+            "Latitude": 56.745012,
+            "Longitude": 15.907874
+        },
+        "cluster": 4
+    }
+}

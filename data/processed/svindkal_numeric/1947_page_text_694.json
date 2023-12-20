@@ -1,0 +1,284 @@
+{
+    "1": {
+        "name": "AB. Svenskt Mjölksocker",
+        "location": "Mjölby",
+        "business": "Tillverkar tekniskt och farmaceutiskt rent mjölksocker",
+        "contact": {
+            "office": "Fabrik i Mjölby (östergötland)",
+            "phone": [
+                "831"
+            ],
+            "postgiro": "75250"
+        },
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "industriarb.": 15
+            },
+            "annual_turnover": 750000,
+            "annual_production_value": 750000
+        },
+        "foundation_year": 1944,
+        "board": [
+            {
+                "name": "Einar Sjögren",
+                "role": "Ordförande"
+            },
+            {
+                "name": "Aage Borup-Jörgensen",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "Carl Utterström",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Ej tillgängligt",
+        "managing_director": "A. Borup-Jörgensen",
+        "coordinates": {
+            "Latitude": 58.3226908,
+            "Longitude": 15.1335348
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Svenskt Tenn AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar möbler och textilier, nytto-och prydnadsföremål av tenn, mässing, silver m. m.",
+        "contact": {
+            "office": "Strandvägen 5 A",
+            "phone": [
+                "600672"
+            ],
+            "postgiro": "51906"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb.": 15
+            }
+        },
+        "foundation_year": 1924,
+        "current_name_year": 1933,
+        "board": [
+            {
+                "name": "fru Estrid Ericson",
+                "role": "Styrelseledamot och verkställande direktör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Svenson & Hagberg",
+        "location": "Borås",
+        "business": "Syfabrik. Tillverkar arbetskläder, skjortor och pyjamas, herr- och damrockar",
+        "contact": {
+            "telegraph": "Rolf, Borås",
+            "phone": [
+                "10929",
+                "11108"
+            ],
+            "postgiro": "14946",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Skuru 210"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb.": 49
+            }
+        },
+        "foundation_year": 1877,
+        "corporation_year": 1925,
+        "board": [
+            {
+                "name": "disp. Henning Hägglund",
+                "role": "Disponent"
+            },
+            {
+                "name": "dir. Rolf Svenson",
+                "role": "Styrelseledamot och verkställande direktör"
+            }
+        ],
+        "manager": "Holger Hedelin",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Svenssons Portföljfabrik",
+        "location": "Gnosjö",
+        "business": "Tillverkar portmonnäer och plånböcker samt reklamartiklar m. m. i skinn vid fabrik i Gnosjö (Jönköping län)",
+        "contact": {
+            "office": "Fabrik i Gnosjö (Jönköping län)",
+            "phone": [
+                "57"
+            ],
+            "postgiro": "72023"
+        },
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "industriarb.": 25
+            },
+            "annual_production_value": 200000
+        },
+        "foundation_year": 1910,
+        "owners": [
+            "fabr. Einar Svensson"
+        ],
+        "manager": "fabr. Einar Svensson",
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Svensson & Skoglund",
+        "location": "Kinna",
+        "business": "Tillverkar damunderkläder i silke och bomull vid fabrik i Örby, Kinna (Älvsborgs län)",
+        "contact": {
+            "office": "Fabrik i Örby, Kinna (Älvsborgs län)",
+            "phone": [
+                "48053"
+            ],
+            "postgiro": "94040"
+        },
+        "financials": {
+            "capital": 125000,
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1940,
+        "manager": "Anders Skoglund",
+        "coordinates": {
+            "Latitude": 57.50984,
+            "Longitude": 12.6941321
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Svenssons Stenhuggeri, AB. Bröderna",
+        "location": "Emmaboda",
+        "business": "Se AB. Bröderna Svenssons Stenhuggeri, Emmaboda",
+        "description": "Se AB. Bröderna Svenssons Stenhuggeri, Emmaboda",
+        "coordinates": {
+            "Latitude": 56.63068550000001,
+            "Longitude": 15.540006
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Svensson, Tengblad & Co.",
+        "location": "Göteborg",
+        "business": "Förädlingsindustri för papper och aluminiumfolio. Tillverkar vaxpapper och fruktomslag med och utan tryck, hyll- oeh spispapper, dekorationspapper samt vaxduksimitation",
+        "contact": {
+            "office": "Tingstad",
+            "phone": [
+                "220811",
+                "221063"
+            ],
+            "postgiro": "12304"
+        },
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "industriarb.": 40
+            },
+            "annual_turnover": 1300000
+        },
+        "foundation_year": 1921,
+        "owners": [
+            "dir. Carl Svensson",
+            "fabr. Hugo Svensson"
+        ],
+        "sales_manager": "C. Å. Willman",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 5
+    },
+    "8": {
+        "name": "Svenssons Träförädling",
+        "location": "Skara",
+        "business": "Tillverkar W.C.-sitsar av trä och bakelit",
+        "contact": {
+            "office": "Ej tillgängligt",
+            "phone": [
+                "10463"
+            ],
+            "postgiro": "174870"
+        },
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "industriarb.": 25
+            },
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1930,
+        "manager": "dir. E. K. Järnåker",
+        "sales_manager": "Roy Mossbrant",
+        "coordinates": {
+            "Latitude": 58.3860128,
+            "Longitude": 13.4393282
+        },
+        "cluster": 8
+    },
+    "9": {
+        "name": "AB. A. Svensson & Co.",
+        "location": "Malmö",
+        "business": "Tillverkar snörmakerier för möbler, gardiner och dekorationer av alla slag, silkesupphängningar för elektrisk armatur, tätningslister av ullgarn för tätning av fönster och dörrar, konfektionssnör-makerier för hatt-, möss-, kapp- och pälsfabrikationen samt sadelgjordar och markislinor m. m.",
+        "contact": {
+            "office": "Husarg. 3",
+            "phone": [
+                "20556"
+            ],
+            "postgiro": "38107"
+        },
+        "financials": {
+            "capital": 338200,
+            "employees": {
+                "industriarb.": 75
+            }
+        },
+        "foundation_year": 1884,
+        "corporation_year": 1932,
+        "board": [
+            {
+                "name": "fröken E. Hallberg",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "disp. J. F. Hallén",
+                "role": "Disponent"
+            },
+            {
+                "name": "grossh. Ch. Hjelm-Bang",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Ej tillgängligt",
+        "sales_manager": "J. F. Hallén",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 3
+    }
+}

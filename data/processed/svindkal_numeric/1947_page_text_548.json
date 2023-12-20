@@ -1,0 +1,190 @@
+{
+    "1": {
+        "name": "Nya Asfalt- & Gementgjuteriet",
+        "location": "Linköping",
+        "business": "Tillverkar betongvaror såsom betongrör till brunnar och avloppsledningar, trappsteg, planstenar, betonghålsten m. m. samt utför betongarbeteri, asfaltbeläggningar, isoleringar, massabeläggningar, mosaikarbeten m. m.",
+        "contact": {
+            "phone": [
+                "22174",
+                "28178"
+            ],
+            "postgiro": "77007"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1920,
+        "manager": "Axel Karlsson",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "Nya AB. Björkshults Glasbruk",
+        "location": "Björkedal",
+        "business": "Tillverkar hushållsglas, lamp- och lyktglas, preparatrör, kaffekulor samt hård-härdat glas vid glasbruk i Björkedal (Kalmar l.)",
+        "contact": {
+            "phone": "Grönskåra 5",
+            "postgiro": "137766"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_production_value": 650000
+        },
+        "foundation_year": 1935,
+        "director": "Chr. Björkander",
+        "coordinates": {
+            "Latitude": 56.1574262,
+            "Longitude": 13.6774309
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Nya Bryggeriet i Borås",
+        "location": "Borås",
+        "business": "Tillverkar malt- och läskedrycker",
+        "contact": {
+            "telegraph": "Nya Bryggeriet, Borås",
+            "postgiro": "72009"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1898,
+        "director": "Sven Sandwall",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Nya Bryggeri- och Mälteri AB. i Västerås",
+        "location": "Västerås",
+        "business": "Tillverkar malt och maltdrycker samt mineralvatten och läskedrycker (Mineralvattenfabriken Källan)",
+        "contact": {
+            "phone": [
+                "30039",
+                "30182",
+                "31624"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": 900000
+        },
+        "foundation_year": 1931,
+        "director": "Hugo Anderson",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "AB. Nya Centralbryggeriet",
+        "location": "Linköping",
+        "business": "Tillverkar malt-* och läskedrycker, kolsyrat vatten samt malt",
+        "contact": {
+            "phone": [
+                "22849",
+                "25504"
+            ],
+            "telegraph": "Centralbryggeriet, Linköping",
+            "postgiro": "90380"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_production_value": 2500000
+        },
+        "foundation_year": 1918,
+        "director": "Birger Paulson",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Nya AB. Chokladfabriken Coody",
+        "location": "Malmö",
+        "business": "Tillverkar choklad, karameller, kola, drageer och skumartiklar",
+        "contact": {
+            "office": "Geijersg. 13",
+            "phone": [
+                "51305",
+                "51313"
+            ],
+            "postgiro": "148172"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": 450000
+        },
+        "foundation_year": 1940,
+        "director": "R. Dahlquist",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Nya AB. Ekmöbler",
+        "location": "Virserum",
+        "business": "Tillverkar möbler vid fabrik i Virserum (Kalmar l.)",
+        "contact": {
+            "phone": "79",
+            "postgiro": "132810"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": 270000
+        },
+        "foundation_year": 1927,
+        "director": "Josef Petersson",
+        "coordinates": {
+            "Latitude": 57.3199949,
+            "Longitude": 15.5812344
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "AB. Nya AB. Eos",
+        "location": "Nässjö",
+        "business": "Metallvarufabrik, mek. verkstad, gjuteri, galvaniserings- och förnicklingsan-stalt. Tillverkar elektr. armatur, metallmanufaktur och metallgjutgods; utför metalltryckning, metallpressning m. m.",
+        "contact": {
+            "phone": "250",
+            "postgiro": "30212"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": 133000
+        },
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        },
+        "cluster": 6
+    }
+}

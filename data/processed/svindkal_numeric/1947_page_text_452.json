@@ -1,0 +1,161 @@
+{
+    "1": {
+        "name": "Kylhammars Nysilverfabrik",
+        "location": "Nacka",
+        "business": "Metallvarufabrik",
+        "products": "Tillverkar bordsbestick i nysilver och rostfritt stål",
+        "contact": {
+            "office": "Nacka",
+            "phone": [
+                "421098",
+                "424411"
+            ],
+            "postgiro": "3035",
+            "head_office": "Nacka",
+            "industrial_office": "Sthlms l.",
+            "factory_phone": 500000
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": 500000
+        },
+        "foundation_year": 1925,
+        "coordinates": {
+            "Latitude": 59.30531999999999,
+            "Longitude": 18.2475
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Kåbergs Tapetfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar tapeter och bårder",
+        "products": "Specialitet: oljefärgstapeten »Sanatin»",
+        "contact": {
+            "office": "Handen",
+            "phone": "Stockholm, Malmskillnadsg. 30; telefon: 100436",
+            "postgiro": "3710",
+            "head_office": "Handen",
+            "industrial_office": "Sthlms l."
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 500000
+        },
+        "foundation_year": 1856,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "AB. E. Kågström & Co.",
+        "location": "Skellefteå",
+        "business": "Garveri och skofabrik",
+        "products": "Tillverkar pjäxläder, pjäxor och sportskodon samt arbetshandskar. Driver engroshandel med läder, skodon, galoscher och andra ytterskor av gummi",
+        "contact": {
+            "office": "Skellefteå",
+            "phone": "10086",
+            "postgiro": "10509"
+        },
+        "financials": {
+            "capital": 110000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 365000
+        },
+        "foundation_year": 1881,
+        "coordinates": {
+            "Latitude": 64.750244,
+            "Longitude": 20.950917
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Kåällmöbler AB.",
+        "location": "Anneberg",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": "»Kåällmöbler»",
+            "postgiro": "145719"
+        },
+        "financials": {
+            "capital": 15000,
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1918,
+        "coordinates": {
+            "Latitude": 57.5389838,
+            "Longitude": 12.1116246
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "AB. Gustaf Kähr",
+        "location": "Nybro",
+        "business": "Träförädlingsfabrik",
+        "products": "Tillverkar lamelldörrar, lamellgolv, däcksplank, lamellträ för fartyg, möbler och leksaker",
+        "contact": {
+            "phone": "»Kährs fabriker»",
+            "postgiro": "13090"
+        },
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 225
+            }
+        },
+        "foundation_year": 1857,
+        "coordinates": {
+            "Latitude": 56.745012,
+            "Longitude": 15.907874
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Källbergs Industri AB.",
+        "location": "Töreboda",
+        "business": "Livsmedels- och kem. tekn. fabrik",
+        "products": "Tillverkar mjölkkonserver och kemikalier",
+        "contact": {
+            "phone": "370",
+            "postgiro": "97719"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 2000000
+        },
+        "foundation_year": 1945,
+        "coordinates": {
+            "Latitude": 58.70550919999999,
+            "Longitude": 14.1261468
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "AB. Källdalens Industrier",
+        "location": "Fridhemsberg",
+        "business": "Trävaru- och metallindustri samt galvaniseringsanstalt",
+        "products": "Tillverkar byggnadssnickerier (spec. dörrar och inredningar) samt metallister. Driver även handel med trävaror och byggmaterial",
+        "foundation_year": 1945,
+        "coordinates": {
+            "Latitude": 57.16446149999999,
+            "Longitude": 12.7469571
+        },
+        "cluster": 7
+    }
+}

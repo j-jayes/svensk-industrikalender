@@ -1,0 +1,266 @@
+{
+    "1": {
+        "name": "Breven—Brofjorden",
+        "location": "Kilsmo",
+        "business": "Mek. verkstad, gjuteri",
+        "products": "vattenturbiner, turbin-regulatorer, maskiner för gruv-, sten-, betong-, såg-, trämasse- och cellulosaindustrier, gjutgods, sågade och hyvlade trävaror, kvarnrörelse, jordbruk o. skogshantering",
+        "contact": {
+            "office": "Brunkebergsg. 4",
+            "phone": [
+                "230330"
+            ],
+            "postgiro": "3127",
+            "head_office": "Brevens bruk, Örebro",
+            "telegraph": "Brevensbruk, Örebro",
+            "factory_office": "Kilsmo",
+            "factory_phone": "5"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": "2,500 stds"
+        },
+        "foundation_year": 1912,
+        "board": [
+            {
+                "name": "grossh. John F. Åkerblom",
+                "role": "ordf."
+            },
+            {
+                "name": "assessor Knut Ljungberg",
+                "role": null
+            },
+            {
+                "name": "grossh. David Niklason",
+                "role": null
+            }
+        ],
+        "director": "David Niklason",
+        "managing_director": "John F. Åkerblom",
+        "coordinates": {
+            "Latitude": 59.06685880000001,
+            "Longitude": 15.5407933
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Brevens Bruk",
+        "location": "Carl Cripenstedt, Kilsmo",
+        "business": "Mek. verkstad, gjuteri, manufaktursmedja, plåtslageriverkstad",
+        "products": "vattenturbiner, turbin-regulatorer, maskiner för gruv-, sten-, betong-, såg-, trämasse- och cellulosaindustrier, gjutgods, sågade och hyvlade trävaror",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Kilsmo 5"
+            ],
+            "postgiro": "23363",
+            "telegraph": "Brevensbruk, Örebro"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": 2000000,
+            "annual_production_value": null
+        },
+        "foundation_year": "1600-talet",
+        "owners": [
+            "frih. Carl Gripenstedt"
+        ],
+        "manager": "frih. Carl Gripenstedt",
+        "managerial_roles": {
+            "kassör": "Carl Hellström",
+            "verkstadsing.": "Viktor Sundström",
+            "sdgverhsinsp.": "Hugo Carlsson",
+            "shogsförvalt.": "Gustaf Norstedt"
+        },
+        "coordinates": {
+            "Latitude": 59.06685880000001,
+            "Longitude": 15.5407933
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Brio-Konfektion AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar hängslen, strumpeband och ärmhållare samt badrockar och frackvästar i piké och siden",
+        "products": null,
+        "contact": {
+            "office": "3:e Långg. 38—40",
+            "phone": [
+                "145011"
+            ],
+            "postgiro": "42232",
+            "telegraph": "Merkur, Göteborg"
+        },
+        "financials": {
+            "capital": 5000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1931,
+        "director": "disp. Folke Ellioth",
+        "manager": "Gösta Johnson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Britanniafabriks AB-",
+        "location": "Stenkullen",
+        "business": "Metallgjuteri och stansverk",
+        "products": "bordbestick, husgerådsartiklar av britanniametall, aluminium och rostfritt stål, nysilver, gjutna galanterivaror i svenskt tenn samt armatur",
+        "contact": {
+            "phone": [
+                "Stenkullen 75"
+            ],
+            "telegraph": "Britannia, Göteborg"
+        },
+        "financials": {
+            "capital": 90000,
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1891,
+        "director": "Carl CJolsman",
+        "coordinates": {
+            "Latitude": 57.79513839999999,
+            "Longitude": 12.3180158
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Bro Ångsågs AB.",
+        "location": "Vansbro",
+        "business": "Sågverk, hyvleri och kolugnar",
+        "products": "sågade och hyvlade trävaror, lådbräder och laths, träkol, träsprit, trätjära och rå-terpentin",
+        "contact": {
+            "phone": [
+                "87"
+            ],
+            "postgiro": "75200",
+            "telegraph": "Brosågen, Vansbro"
+        },
+        "financials": {
+            "capital": 330000,
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_production_value": "3,000 stds trävaror, 9,000 läster träkol, 400 ton trätjära och 50 ton träsprit"
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "disp. Filip Sjöberg",
+                "role": null
+            },
+            {
+                "name": "kassör Olof Sjöberg",
+                "role": null
+            },
+            {
+                "name": "ing. Åke Sjöberg",
+                "role": null
+            }
+        ],
+        "director": "Filip Sjöberg",
+        "coordinates": {
+            "Latitude": 60.5099434,
+            "Longitude": 14.2253417
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Broby Mek. Verkstads AB",
+        "location": "Broby",
+        "business": "Tillverkar hästskor och vagnsaxlar",
+        "products": null,
+        "contact": {
+            "phone": [
+                "37"
+            ],
+            "telegraph": "Verkstaden, Broby"
+        },
+        "financials": {
+            "capital": 20500,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": 250000
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "fru Hulda Holmberg",
+                "role": null
+            },
+            {
+                "name": "dir. Swante H. Holmberg",
+                "role": null
+            },
+            {
+                "name": "fru Gunvor Widell",
+                "role": null
+            }
+        ],
+        "director": "S. H. Holmberg",
+        "coordinates": {
+            "Latitude": 56.2543556,
+            "Longitude": 14.0718204
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Nestor Brodin",
+        "location": "Flöda",
+        "business": "Garveri",
+        "products": "beklädnadsskinn, handskskinn, skoskinn, foderskinn, bokbinderiskinn och reseffektskinn",
+        "contact": {
+            "phone": [
+                "Flöda 4"
+            ],
+            "postgiro": "166820",
+            "telegraph": "Brodin, Flöda"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1898,
+        "director": "disp. Lars Brodin",
+        "coordinates": {
+            "Latitude": 57.80154100000001,
+            "Longitude": 12.3655998
+        },
+        "cluster": 3
+    },
+    "8": {
+        "name": "AB. Brofjordens Konservfabrik",
+        "location": "Göteborg, Fisktorget 3",
+        "business": "Tillverkar ansjovis, sillkonserver, kaviar samt konserver av skaldjur, svamp, frukt och grönsaker",
+        "products": null,
+        "contact": {
+            "phone": [
+                "114909"
+            ],
+            "postgiro": "43427",
+            "telegraph": "Brofjorden, Göteborg"
+        },
+        "coordinates": {
+            "Latitude": 57.7009791,
+            "Longitude": 11.9581288
+        },
+        "cluster": 2
+    }
+}

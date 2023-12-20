@@ -1,0 +1,171 @@
+{
+    "1": {
+        "name": "Axel Kroghs Försilvringsfabrik",
+        "location": "Stockholm",
+        "business": "Tenngjuteri och försilvringsfabrik",
+        "products": "Tillverkar sportstatyetter, nipperskrin, skrivställ m. m. samt utför galvanisk försilvring och förgyllning.",
+        "contact": {
+            "office": "G:la Brog. 34",
+            "phone": [
+                "214119",
+                "111057"
+            ],
+            "postgiro": "50905"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1874,
+        "director": "Sture Bengtsson",
+        "owners": [
+            "Axel T. Krogh"
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Kronans Kemiska Fabrik",
+        "location": "Älvsjö",
+        "business": "Tillverkar kosmetiska artiklar",
+        "products": "Tillverkar kosmetiska artiklar såsom tandkräm, hudkräm m. m. samt hårvatten och eau de Cologne.",
+        "contact": {
+            "office": "Älvsjö 1",
+            "telegraph": "Niback, Stockholm",
+            "phone": "Stockholm 470633—34",
+            "postgiro": "57814"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "arb-antal": 12
+            },
+            "annual_turnover": 220000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1932,
+        "owners": [
+            "Nils Backmans sterbhus"
+        ],
+        "director": "fru Claire Backman",
+        "coordinates": {
+            "Latitude": 59.2744881,
+            "Longitude": 18.0051298
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Kronhus",
+        "location": "Götene",
+        "business": "Tillverkar byggnadssnickerier, monteringsfärdiga bostadshus och sommarstugor",
+        "contact": {
+            "office": "Not available",
+            "phone": "232",
+            "postgiro": "174469"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 800000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1944,
+        "managing_director": "byggm. Sanfrid Kron",
+        "coordinates": {
+            "Latitude": 58.528002,
+            "Longitude": 13.491428
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Hjalmar Kronlund AB.",
+        "location": "Göteborg",
+        "business": "Syfabrik",
+        "products": "Tillverkar damunderkläder. Specialitet: skyddsrockar för damer.",
+        "contact": {
+            "office": "N. Hamng. 8",
+            "phone": "133179",
+            "postgiro": "40316"
+        },
+        "financials": {
+            "capital": 130000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 700000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1896,
+        "owners": [
+            "Erik Ahlberg"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Kronobergs Bryggeri AB.",
+        "location": "Växjö",
+        "business": "Not available",
+        "contact": {
+            "phone": "3465"
+        },
+        "financials": {
+            "capital": 673750
+        },
+        "corporation_year": 1905,
+        "director": "major Georg Agell",
+        "coordinates": {
+            "Latitude": 56.8790044,
+            "Longitude": 14.8058522
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Kronobergs Mek. Verkstad",
+        "location": "Växjö",
+        "business": "Tillverkar torvindustrimaskiner,",
+        "coordinates": {
+            "Latitude": 56.8790044,
+            "Longitude": 14.8058522
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "AB. Kronoströms Nya Spegelfabrik",
+        "location": "Kalmar",
+        "business": "Glassliperi, spegelfabrik, sågverk och hyvleri",
+        "products": "Tillverkar ornamentspeglar, ram- och tamburspeglar, badrumsspeglar och badrumsskåp, möbelglas, fotografiramar, spegel- och serveringsbrickor",
+        "contact": {
+            "office": "Kalmar",
+            "phone": "2573—74",
+            "telegraph": "Kronspegel, Kalmar",
+            "postgiro": "25700"
+        },
+        "financials": {
+            "capital": 90000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1927,
+        "director": "J. C. Fagerqvist",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 8
+    }
+}

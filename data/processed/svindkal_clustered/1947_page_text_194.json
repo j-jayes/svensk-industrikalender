@@ -1,0 +1,201 @@
+{
+    "1": {
+        "name": "AB. Bofors Nobel Krut",
+        "business": "Krutbruk och kem. industri",
+        "products": "Tillverkar nitrocellulosa, nitroglycerinkrut (»Nobelkrut»), nitrocellulosakrut, trotyl, tetryl, pen ty 1, dynamit och säkerhets-sprängämnen, tändmedel och ammunition, lacknitrocellulosa samt kem. och farm. prod. såsom eter, kollodium, klora-min, sackarin, anilin, acetanilid, acetyl-salicylsyra m. m.",
+        "contact": {
+            "telegraph": "Nobelkrut, Bofors",
+            "phone": [
+                "Bofors, Karlskoga"
+            ]
+        },
+        "financials": {
+            "capital": "33,000,000 kr",
+            "employees": {
+                "industriarb": 5800
+            },
+            "annual_turnover": "105,000,000 kr",
+            "annual_production_value": "105,000,000 kr"
+        },
+        "foundation_year": 1873,
+        "current_name_year": 1919,
+        "predecessor": "f. d. AB. Bofors Nobelkrut, grundat 1898",
+        "board": [
+            {
+                "name": "konteramiral Erik Wetter",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Einar Glimstedt",
+                "role": null
+            },
+            {
+                "name": "fil. dr Sigurd Nauckhoff",
+                "role": null
+            },
+            {
+                "name": "dir. Gust. J. Sahlin",
+                "role": "disp."
+            },
+            {
+                "name": "Evert Wijkander",
+                "role": "disp."
+            }
+        ],
+        "owners": [],
+        "director": "Evert Wijkander",
+        "managing_director": "Evert Wijkander",
+        "sales_manager": "Sverre R:son Sohlman",
+        "manager": null,
+        "cluster": 2
+    },
+    "2": {
+        "name": "S. Bogeryds Möbelfabrik",
+        "location": "Tibro",
+        "business": "Tillverkar matsalsmöbler",
+        "coordinates": {
+            "Latitude": 58.424323,
+            "Longitude": 14.1616418
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "Bogesunds Väveri AB",
+        "location": "Ulricehamn",
+        "business": "Tillverkar möbel- och draperityger samt ottomanöver kast",
+        "contact": {
+            "telegraph": "Bogesundväveri, Ulricehamn",
+            "phone": [
+                "9",
+                "929"
+            ]
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1934,
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Alb. Bohlin & C:os AB",
+        "location": "Göteborg",
+        "business": "Mössfabrik",
+        "products": "Tillverkar alla slag av mössor",
+        "contact": {
+            "office": "Stampg. 60",
+            "telegraph": "Bohlinco, Göteborg",
+            "phone": [
+                "151106",
+                "151133"
+            ]
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1894,
+        "corporation_year": 1925,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Einar Bohms Modellfabrik",
+        "location": "Kristinehamn",
+        "business": "Tillverkar gjuterimodeller",
+        "contact": {
+            "phone": [
+                "10776"
+            ],
+            "postgiro": "36167"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "260,000 kr"
+        },
+        "foundation_year": 1918,
+        "coordinates": {
+            "Latitude": 59.3100677,
+            "Longitude": 14.1089192
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Bohmans Fanérfabrik",
+        "location": "Oskarshamn",
+        "business": "Fanérfabrik och sågverk",
+        "products": "Tillverkar faner. Bolaget driver jämväl handel med utländska träslag",
+        "contact": {
+            "telegraph": "Fanérbohman, Oskarshamn",
+            "phone": [
+                "444",
+                "34"
+            ],
+            "postgiro": "133675"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "konsul Axel Bohman",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Beda Bohman",
+                "role": null
+            },
+            {
+                "name": "Oscar Fahlén",
+                "role": "försäljn.-chef"
+            }
+        ],
+        "director": "Axel Bohman",
+        "sales_manager": "Oscar Fahlén",
+        "coordinates": {
+            "Latitude": 57.26569929999999,
+            "Longitude": 16.4473984
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "AB. Bohman & Johansson",
+        "location": "Blomstermåla",
+        "business": "Fanérfabrik och sågverk",
+        "products": "Tillverkar faner, parkettstav och möbelämnen. Firman driver även handel med utländska träslag",
+        "contact": {
+            "telegraph": "Fanérfabriken, Blomster-"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1934,
+        "coordinates": {
+            "Latitude": 56.9814885,
+            "Longitude": 16.3327375
+        },
+        "cluster": 7
+    }
+}

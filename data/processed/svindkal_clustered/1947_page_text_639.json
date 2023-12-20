@@ -1,0 +1,231 @@
+{
+    "1": {
+        "name": "Specialband—Sporrong AB",
+        "location": "Borås",
+        "business": "Syfabrik",
+        "products": "Tillverkar hak- och hyskband för korsettindustrien",
+        "contact": {
+            "phone": [
+                "11042"
+            ],
+            "postgiro": "140680"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "Arb.-antal": 6
+            },
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "Erik M. Uhlin",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Specialindustri",
+        "location": "Hälsingborg",
+        "business": "Snickerifabrik och mek. verkstad",
+        "products": "Tillverkar vertikalfack för ritningar, kopieramar för ljuskopiering samt ställbara ritbord med järnstativ och parallellfö-ring",
+        "contact": {
+            "phone": [
+                "18300"
+            ],
+            "postgiro": "140798"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 3
+            },
+            "annual_production_value": "40,000 kr"
+        },
+        "foundation_year": 1936,
+        "owners": [
+            "fabr. Valter Gustavsson"
+        ],
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Spik AB",
+        "location": "Västervik",
+        "business": "Tråddrageri och spikfabrik",
+        "products": "Tillverkar trådspik, formstift och skostift samt dragen järntråd",
+        "contact": {
+            "phone": [
+                "384"
+            ],
+            "postgiro": "32880"
+        },
+        "financials": {
+            "capital": "135,000 kr",
+            "employees": {
+                "Antal industriarb.": 25
+            }
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "Pehr Carlson",
+                "role": "Styrelse o. disp."
+            },
+            {
+                "name": "John Anderson",
+                "role": "Styrelse o. disp."
+            },
+            {
+                "name": "G. Leijon",
+                "role": "Kamrer"
+            },
+            {
+                "name": "Rudolf Sunström",
+                "role": "Disp."
+            }
+        ],
+        "director": "Pehr Carlson",
+        "managing_director": "Pehr Carlson",
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Spinneri AB. Hermann Kurzel",
+        "location": "Göteborg",
+        "business": "Kardgarns- och vigognespinneri samt väveri och färgeri",
+        "products": "Tillverkar kardgarn, vigognegarn, cellullgarn, effektgarn samt kamgarns- och kardgarnstyger",
+        "contact": {
+            "office": "Åvägen 6",
+            "telegraph": "Kurzel, Göteborg",
+            "phone": "192560",
+            "postgiro": "40802"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "Antal industriarb.": 157
+            }
+        },
+        "foundation_year": 1880,
+        "owners": [
+            "Gårda Fabrikers AB., Göteborg"
+        ],
+        "board": [
+            {
+                "name": "Gustaf Werner",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "Åke Arvidius",
+                "role": "Styrelse o. disp."
+            },
+            {
+                "name": "Frans H. Nilsson",
+                "role": "Styrelse"
+            }
+        ],
+        "managing_director": "Åke Arvidius",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "Splintfabriken AB",
+        "location": "Vara",
+        "business": "Träförädlingsfabrik",
+        "products": "Tillverkar skopligg, pliggband, tandpetare, glaceskedar och -pinnar, karamellpinnar, fruktgafflar, köttpinnar, tungspat-lar, tamponpinnar, trädgårdsetiketter, blomsterpinnar och fönsterblomsterställ, trappledstänger, klädklykor m. m.",
+        "contact": {
+            "office": "Vara",
+            "phone": "73",
+            "postgiro": "10253"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "employees": {
+                "Antal industriarb.": 20
+            },
+            "annual_production_value": "110,000 kr"
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "Carl Mauritz Pehrsson",
+                "role": "Styrelse o. disp."
+            },
+            {
+                "name": "Gustaf Hedin",
+                "role": "Ing."
+            },
+            {
+                "name": "Carl Wilhelm Pehrsson",
+                "role": "Dir.-assist."
+            }
+        ],
+        "director": "C. M. Pehrsson",
+        "coordinates": {
+            "Latitude": 58.261781,
+            "Longitude": 12.960194
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Splitterfritt Clas AB",
+        "location": "Stockholm",
+        "business": "Tillverkar splitterfritt lamellglas",
+        "products": "Varumärke: »Splittex»",
+        "contact": {
+            "office": "Tranebergsvägen 50",
+            "phone": "252093"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "Arb.": 4
+            },
+            "annual_production_value": "50,000 kr"
+        },
+        "foundation_year": 1939,
+        "managing_director": "Ragnar Eriksson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Sporda Yaddfabrik",
+        "location": "Sporda",
+        "business": "Tillverkar täck- och madrassvadd, limvadd samt madrasser",
+        "contact": {
+            "phone": "19",
+            "postgiro": "166892"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 4
+            },
+            "annual_production_value": "30,000 kr"
+        },
+        "foundation_year": 1939,
+        "owner": "fabr. Claes Andersson",
+        "coordinates": {
+            "Latitude": 57.048224,
+            "Longitude": 13.678837
+        },
+        "cluster": 8
+    }
+}

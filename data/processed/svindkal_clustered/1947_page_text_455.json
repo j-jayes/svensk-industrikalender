@@ -1,0 +1,228 @@
+{
+    "1": {
+        "name": "Lagerfors Bruk",
+        "location": "Lagerfors, Lagerforsbruk",
+        "business": "Träsliperi, papp- och kartongfabrik",
+        "products": "Tillverkar vit mek. trämassa, vit trämassepapp, emballagepapp, veckelpapp, skopapp, modellpapp, bokbinderipapp, reseffektpapp, friktionsglättad papp m. m. Firman driver även jordbruk och skogshantering.",
+        "contact": {
+            "office": "Lagerfors, Mariestad",
+            "phone": [
+                "Bällefors 50"
+            ],
+            "postgiro": "77855"
+        },
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "Ej tillgängligt",
+            "annual_production_value": "2,500 ton papp o. kartong"
+        },
+        "foundation_year": 1650,
+        "original_name": "Lagerfors Bruk",
+        "predecessor": "Ej tillgängligt",
+        "corporation_year": 1893,
+        "owners": [
+            "disp. P. Molin"
+        ],
+        "coordinates": {
+            "Latitude": 58.55971609999999,
+            "Longitude": 14.1463171
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. P. H. Lagergren",
+        "location": "Borås",
+        "business": "Herrkonfektionsfabrik",
+        "products": "Tillverkar kostymer, byxor och rockar",
+        "contact": {
+            "phone": [
+                "11996"
+            ],
+            "postgiro": "28732"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb.": 50
+            },
+            "annual_turnover": "400,000 kr",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "foundation_year": 1911,
+        "original_name": "AB. P. H. Lagergren",
+        "owners": [
+            "S. E. Wiede"
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. Lagerholms Färgfabrik",
+        "location": "Stockholm",
+        "business": "Tryckfärgsfabrik",
+        "products": "Tillverkar svarta och kulörta grafiska färger (»Suncro-min»), djuptrycksfärger, gummitrycksfärger (»Alkelin»), stämpelfärger, tidningsfärger, grafiska fernissor, torkpreparat, grafiska hjälpmedel, valsmassa (»Robur XR») och färglacker",
+        "contact": {
+            "office": "Lövholmsvägen 49",
+            "phone": "452725",
+            "postgiro": "1188",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "164393"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "33880"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "301,000 kr",
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_turnover": "Ej tillgängligt",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "foundation_year": 1891,
+        "board": [
+            {
+                "name": "Hugo Fagerberg",
+                "role": "dir."
+            },
+            {
+                "name": "Sven Fagerberg",
+                "role": "ing."
+            },
+            {
+                "name": "Johan Frykman",
+                "role": "bankdir."
+            }
+        ],
+        "director": "E. A. Lindqvist",
+        "managing_director": "Hugo Fagerberg",
+        "sales_manager": "Ingvar Holm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "AB. Lagerwalls Metallaffär AB.",
+        "location": "Stockholm",
+        "business": "Metallgjuterier",
+        "products": "Tillverkar lagermetaller (märken: »Sveametall» o. »Tip Top»), fosforbronser (mirken: »Gloria-brons», »Carobronce», »Tip Top-brons» o. »Regalbrons»), metallgjutgods, rödgods etc., grafiska metaller (märke: »Skandia»), lödtenn, blyplomber m. m.",
+        "contact": {
+            "office": "Sundbyberg",
+            "phone": "282630",
+            "postgiro": "51509"
+        },
+        "financials": {
+            "capital": "98,000 kr",
+            "employees": {
+                "industriarb.": 20
+            },
+            "annual_turnover": "Ej tillgängligt",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "Emil Westermark",
+                "role": "ordf."
+            },
+            {
+                "name": "Nils V. Hedberg",
+                "role": "bankdir."
+            },
+            {
+                "name": "Erik A. Lindqvist",
+                "role": "dir."
+            }
+        ],
+        "director": "E. A. Lindqvist",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Laholms Tegelbruks AB.",
+        "location": "Laholm",
+        "business": "Tillverkar tegel, takpannor och dräneringsrör",
+        "contact": {
+            "phone": "21"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb.": 20
+            },
+            "annual_turnover": "Ej tillgängligt",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Erik Dock",
+                "role ": "disp."
+            },
+            {
+                "name": "Egron Hanson",
+                "role": "apot."
+            },
+            {
+                "name": "Victor Haraldsson",
+                "role": "fabr."
+            }
+        ],
+        "director": "Erik Dock",
+        "coordinates": {
+            "Latitude": 56.50575569999999,
+            "Longitude": 13.0456048
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "O. H. Lammert AB.",
+        "location": "Mölndal",
+        "business": "Kemisk fabrik och mek. verkstad",
+        "products": "Tillverkar kemikalier, apparater och material för galvanotekniska ändamål",
+        "contact": {
+            "office": "Mölndal",
+            "phone": [
+                "Göteborg 271616",
+                "Göteborg 271796"
+            ],
+            "postgiro": "45818",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Stockholm 405053"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "9,000 kr",
+            "employees": {
+                "industriarb.": 20
+            },
+            "annual_turnover": "Ej tillgängligt",
+            "annual_production_value": "325,000 kr"
+        },
+        "foundation_year": 1942,
+        "coordinates": {
+            "Latitude": 57.65,
+            "Longitude": 12.016667
+        },
+        "cluster": 6
+    }
+}

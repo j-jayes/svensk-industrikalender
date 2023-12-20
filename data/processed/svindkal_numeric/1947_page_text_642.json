@@ -1,0 +1,216 @@
+{
+    "1": {
+        "name": "AB. Stathmos",
+        "location": "Grankullaviken pr Boda ■ och pr Byxelkrok på Öland (Kalmar l.)",
+        "business": "sågverk, hyvleri och trädestillations-verk",
+        "products": "sågade och hyvlade trävaror, lådor, träull, monteringsfärdiga trähus, sulfatcellulosa, terpentin, hartsoljeprodukter, såpa, tvål, träkemiska destillationsprodukter, träkol, trätjära, lösningsmedel, metylalkohol, ättiksyreprodukter m.m.",
+        "contact": {
+            "office": "Stockholm, Drottningg. 48",
+            "telegraph": "Forestry, Stockholm",
+            "phone": [
+                "Skogsindustri"
+            ],
+            "postgiro": "179243"
+        },
+        "financials": {
+            "capital": 22000000,
+            "employees": {
+                "industriarb": 2041
+            },
+            "foundation_year": 1941
+        },
+        "board": [
+            {
+                "name": "Bo v. Stocken-ström",
+                "role": "generaldirektör (ordf.)"
+            },
+            {
+                "name": "Rudolf Eklund",
+                "role": "f.d. justitieråd"
+            },
+            {
+                "name": "E. Hedulff",
+                "role": "överdirektör"
+            },
+            {
+                "name": "Knut O. Norlin",
+                "role": "direktör"
+            },
+            {
+                "name": "Carl Sundberg",
+                "role": "bruksdisponent"
+            }
+        ],
+        "director": "Knut O. Norlin",
+        "sales_manager": "Thure A. Nilsson",
+        "coordinates": {
+            "Latitude": 57.3338105,
+            "Longitude": 17.0978319
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Stathmos",
+        "location": "Eskilstuna",
+        "business": "Mek. verkstad",
+        "products": "Vågar av alla slag, såväl i standard- som specialutförande",
+        "contact": {
+            "office": "Eskilstuna",
+            "telegraph": "Stathmos, Eskilstuna",
+            "phone": [
+                "Stathmos"
+            ],
+            "postgiro": "31189"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": 125,
+            "foundation_year": 1940
+        },
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "direktör (ordf.)"
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "fil. lic."
+            },
+            {
+                "name": "Hj. Deger-stedt",
+                "role": "direktör"
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "direktör"
+            },
+            {
+                "name": "Eric Olsson",
+                "role": "direktör"
+            },
+            {
+                "name": "G. Osvald",
+                "role": "direktör"
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "direktör"
+            }
+        ],
+        "director": "Holger Malm",
+        "sales_manager": "civiling. Egon Nordström",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Sem L. Stawe",
+        "location": "Karlstad",
+        "business": "Trikåfabrik",
+        "products": "Stickade varor såsom koftor, jumpers, baddräkter, slipovers, herrvästar, barnkläder, sportartiklar samt äkta kamelhårsartiklar",
+        "contact": {
+            "telegraph": "Stawe, Karlstad",
+            "phone": [
+                "10740",
+                "11840",
+                "13740"
+            ],
+            "postgiro": "13155",
+            "sales_office": [
+                {
+                    "location": "Stockholm",
+                    "phone": "100399"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": 150,
+            "foundation_year": 1933
+        },
+        "board": [
+            {
+                "name": "Tor Stawe",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Stavsborgs AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar betongvaror samt krommönjepigment m.m.",
+        "products": "Murtegel, dräneringsrör",
+        "contact": {
+            "office": "Stockholm, Lövholmsbrinken 2",
+            "postgiro": "57790",
+            "phone": [
+                "459850"
+            ]
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": 50,
+            "annual_production_value": 1000000,
+            "corporation_year": 1930
+        },
+        "board": [
+            {
+                "name": "Ernst Wehtje",
+                "role": "direktör (ordf.)"
+            },
+            {
+                "name": "Malte Ström",
+                "role": "direktör"
+            },
+            {
+                "name": "H. Seb. Tham",
+                "role": "disp."
+            }
+        ],
+        "director": "Ivar Strömberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Stekens Tegelbruk, E. Nymansson",
+        "location": "Agnesberg (Älvsb. l.)",
+        "business": "Tegelbruk",
+        "products": "Murtegel, dräneringsrör",
+        "contact": {
+            "phone": [
+                "Göteborg 174017"
+            ],
+            "postgiro": "42910",
+            "sales_office": [
+                {
+                    "location": "Göteborg",
+                    "phone": "131378"
+                }
+            ]
+        },
+        "financials": {
+            "employees": 35,
+            "annual_production_value": "3,5 milj. st. tegelvaror",
+            "foundation_year": 1898
+        },
+        "owners": [
+            "E. Nymanssons sterbhus"
+        ],
+        "director": "disp. Ragnar Nymansson",
+        "coordinates": {
+            "Latitude": 57.7896435,
+            "Longitude": 12.0153179
+        },
+        "cluster": 0
+    }
+}

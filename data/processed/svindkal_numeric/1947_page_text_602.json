@@ -1,0 +1,242 @@
+{
+    "1": {
+        "name": "Rössberga Kalkbruk, V alt ar p. Be AB",
+        "location": "Västergötlands Förenade Kalk-industrier, Falköping",
+        "business": "Kalkproduktion och tillverkning av färg- och fernissprodukter",
+        "contact": {
+            "office": "Rötmotaverken, Korsnäs (Kopparb. l.)",
+            "phone": [
+                "Rötmotaverken"
+            ],
+            "telegraph": "Rötmota, Korsnäs",
+            "factory_office": "Rötmotaverken, Korsnäs",
+            "factory_phone": "Rötmotaverken"
+        },
+        "financials": {
+            "capital": 22000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1926,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "FransfBernftröpt",
+                "role": "Direktör"
+            },
+            {
+                "name": "Folke Bergegård",
+                "role": "Kamrer"
+            },
+            {
+                "name": "Olof Fern-ström",
+                "role": "Ingenjör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Sahlins Konfektions AB., Eslöv",
+        "location": "Eslöv",
+        "business": "Tillverkning av damkappor, dräkter, kjolar, gpss- och flickkläder",
+        "contact": {
+            "office": "Sahlins. Eslöv",
+            "phone": [
+                "Sahlins Konfektion"
+            ],
+            "postgiro": "84442"
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": 2200000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1858,
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "Bo Sahlin",
+                "role": "Doktor"
+            },
+            {
+                "name": "Kerstin Sahlin",
+                "role": "N/A"
+            }
+        ],
+        "managing_director": "Bo Sahlin",
+        "coordinates": {
+            "Latitude": 55.8391198,
+            "Longitude": 13.3033914
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Sala Maskinfabriks AB., Sala",
+        "location": "Sala",
+        "business": "Tillverkning av maskiner för hus- och vägbyggnader, sågverk, gruvor, anrikningsverk m. m.",
+        "contact": {
+            "office": "Maskinfabriken, Sala",
+            "phone": [
+                "45"
+            ],
+            "postgiro": "6233"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": 3500000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "Walter Hesselman",
+                "role": "Ingenjör"
+            },
+            {
+                "name": "Edv, B. Johanson",
+                "role": "Ingenjör"
+            },
+            {
+                "name": "Gottfrid Mattsson",
+                "role": "N/A"
+            }
+        ],
+        "manager": "Walter Hesselman",
+        "coordinates": {
+            "Latitude": 59.9208594,
+            "Longitude": 16.606328
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Sala Möbelfabriks AB., Stockholm",
+        "location": "Stockholm",
+        "business": "Tillverkning av möbler och inredningar vid möbelfabrik i Sala",
+        "contact": {
+            "office": "Stockholm, Strandvägen 7 0",
+            "phone": [
+                "621008",
+                "09"
+            ],
+            "postgiro": "2825"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 150000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1932,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "David Blomberg",
+                "role": "Arkitekt"
+            },
+            {
+                "name": "Erik Bergman",
+                "role": "Designchef"
+            },
+            {
+                "name": "Curt Blomberg",
+                "role": "Inredningsarkitekt"
+            }
+        ],
+        "managing_director": "David Blomberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Sala Tegelbruks AB., Sala",
+        "location": "Sala",
+        "business": "Tillverkning av högporöst murtegel, lättmurtegel och taktegel m. m.",
+        "contact": {
+            "office": "Salategel, Sala",
+            "phone": [
+                "Salategel"
+            ],
+            "postgiro": "8998"
+        },
+        "financials": {
+            "capital": 144000,
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "10 milj. st. tegel"
+        },
+        "foundation_year": 1882,
+        "board": [
+            {
+                "name": "Major Curt Camitz",
+                "role": "N/A"
+            }
+        ],
+        "manager": "Major Curt Camitz",
+        "coordinates": {
+            "Latitude": 59.9208594,
+            "Longitude": 16.606328
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "Sala Trävaru AB., Sala",
+        "location": "Sala",
+        "business": "Sågverk och hyvleri. Tillverkning av sågade och hyvlade trävaror samt listVerk",
+        "contact": {
+            "phone": [
+                "468"
+            ],
+            "postgiro": "82305"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 700000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1929,
+        "manager": "Erik C. G. Bolinder",
+        "coordinates": {
+            "Latitude": 59.9208594,
+            "Longitude": 16.606328
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Sala Ångbryggeri AB., Sala",
+        "location": "Sala",
+        "business": "Tillverkning av maltdrycker, mineralvatten och läskedrycker",
+        "contact": {
+            "phone": [
+                "Ångbryggeriet"
+            ],
+            "postgiro": "404"
+        },
+        "coordinates": {
+            "Latitude": 59.9208594,
+            "Longitude": 16.606328
+        },
+        "cluster": 2
+    }
+}

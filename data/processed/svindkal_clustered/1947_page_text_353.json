@@ -1,0 +1,219 @@
+{
+    "1": {
+        "name": "Hasselblad—Hauxningar samt plomber",
+        "location": "Stockholm",
+        "business": "Grosshandel med kvarnutensilier",
+        "contact": {
+            "office": "Vasag. 26",
+            "phone": [
+                "101404",
+                "101405"
+            ],
+            "postgiro": "194400",
+            "telegraph": "Harmsen, Stockholm"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1875,
+        "corporation_year": 1911,
+        "board": [
+            {
+                "name": "Erik Wintermark",
+                "role": "Disp."
+            }
+        ],
+        "director": "Erik Wintermark",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. D. Hasselblads Charkuteri",
+        "location": "Göteborg",
+        "business": "Tillverkar charkuterivaror och köttkonserver",
+        "contact": {
+            "office": "L:a Katrinelund, Göteborg",
+            "phone": "161051",
+            "postgiro": "42410"
+        },
+        "financials": {
+            "capital": "75,600 kr",
+            "employees": {
+                "industriarb": 125
+            },
+            "annual_turnover": "2,500,000 kr"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "fru E. Hasselblad",
+                "role": "ordf."
+            },
+            {
+                "name": "C. D. Hasselblad",
+                "role": "disp."
+            },
+            {
+                "name": "O. A. Swedberg",
+                "role": "dir."
+            }
+        ],
+        "director": "fru E. Hasselblad",
+        "managing_director": "fru E. Hasselblad",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. F. W. Hasselblad & Co.",
+        "location": "Göteborg",
+        "business": "Hattfabrik, kravattfabrik och konfektionsfabrik. Tillverkar dam- och barnhattar, halsdukar och kravatter, damunderkläder, skjortor, förkläden, barn-och damkragar",
+        "contact": {
+            "head_office": "ö. Hamng. 3",
+            "phone": "Hasselblads, Göteborg",
+            "postgiro": "40724",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "104323"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "26934"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "5,650,000 kr",
+            "employees": {
+                "industriarb": 110
+            }
+        },
+        "foundation_year": 1841,
+        "corporation_year": 1919,
+        "board": [
+            {
+                "name": "Victor Hasselblad",
+                "role": "ordf."
+            },
+            {
+                "name": "Orvar Hansson",
+                "role": "bankdir."
+            },
+            {
+                "name": "Emil Heijne",
+                "role": "adv."
+            }
+        ],
+        "director": "Gunnar Bergenstråhle",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Hasselfors Bruks AB.",
+        "location": "Hasselfors",
+        "business": "Sågverk, hyvleri, lådfabrik, impregneringsverk och elektr. kraftstation",
+        "contact": {
+            "head_office": "Hasselfors",
+            "phone": "Hasselfors 1, 21—23 o. 32",
+            "postgiro": "92220",
+            "sales_offices": [
+                {
+                    "location": "Svartå"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "4,500,000 kr",
+            "employees": {
+                "industriarb": 170
+            },
+            "annual_turnover": "6,000,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1874,
+        "board": [
+            {
+                "name": "frih. I. Lagerfelt",
+                "role": "ordf."
+            },
+            {
+                "name": "genmalmajoren frih. Axel Lagerfelt"
+            },
+            {
+                "name": "W. Risberg",
+                "role": "disp."
+            },
+            {
+                "name": "greve Shering Wachtmeister"
+            },
+            {
+                "name": "greve Nils Wachtmeister"
+            }
+        ],
+        "director": "W. Risberg",
+        "coordinates": {
+            "Latitude": 59.0850525,
+            "Longitude": 14.6558104
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Hasslaröd Kiselgurfabrik",
+        "location": "Osby",
+        "business": "Tillverkar kalcinerad kiselgur, isoleringsmassa, isoleringsplattor och isoleringstegel (»diatomit»), filtrercylindrar",
+        "contact": {
+            "telegraph": "Kiselgur, Osby",
+            "phone": "71",
+            "postgiro": "30801"
+        },
+        "employees": {
+            "industriarb": 15
+        },
+        "foundation_year": 1911,
+        "director": "ing. G. Smith-Petersen",
+        "coordinates": {
+            "Latitude": 56.3815355,
+            "Longitude": 13.9929413
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Hattfabrikerna, Förenade",
+        "location": "Malmö",
+        "business": "Se AB. Sveriges Förenade Hattfabriker, Malmö",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "C. A. Haux Trikåfabriks Nya AB.",
+        "location": "Ulricehamn",
+        "business": "Tillverkar trikåunderkläder",
+        "contact": {
+            "office": "Ulricehamn",
+            "phone": "145",
+            "postgiro": "73777"
+        },
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        },
+        "cluster": 3
+    }
+}

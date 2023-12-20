@@ -1,0 +1,324 @@
+{
+    "1": {
+        "name": "AB. Dan. Lundgrens Läderfabrik",
+        "location": "Falkenberg",
+        "business": "Tillverkar bottenläder, plattläder, res-effektläder och färgat läder",
+        "contact": {
+            "telegraph": "Läder, Falkenberg",
+            "phone": [
+                "975"
+            ],
+            "postgiro": "25879"
+        },
+        "financials": {
+            "capital": 700000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": 2500000,
+            "annual_production_value": 2500000
+        },
+        "foundation_year": 1835,
+        "corporation_year": 1900,
+        "board": [
+            {
+                "name": "häradshövd. John A. Samuelson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. A. P. Hallqvist",
+                "role": "disp."
+            },
+            {
+                "name": "Åke Hallqvist",
+                "role": "disp."
+            },
+            {
+                "name": "lasarettssysslom. Arvid Manzér",
+                "role": ""
+            },
+            {
+                "name": "dir. Gustaf Nordström",
+                "role": ""
+            }
+        ],
+        "manager": "Gustaf Nordström",
+        "coordinates": {
+            "Latitude": 56.90273329999999,
+            "Longitude": 12.4888013
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "C. Lundgrens Eftr. AB",
+        "location": "Gustafs",
+        "business": "Tillverkar hyvlade trävaror, ramlister, ramar och speglar vid guldlistfabrik i Gustafs (Kopparb. l.)",
+        "contact": {
+            "phone": [
+                "Borlänge 40024"
+            ],
+            "postgiro": "90300"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1915,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "Clas Jakobsson",
+                "role": ""
+            }
+        ],
+        "manager": "Clas Jakobsson",
+        "coordinates": {
+            "Latitude": 60.41140559999999,
+            "Longitude": 15.6110187
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "AB. M. Lundgrens Gjuteri",
+        "location": "Halmstad",
+        "business": "Gjuteri, mek. verkstad och emaljerings-verk. Tillverkar pumpar, ventiler, gjutna rördelar, sanitetsgjutgods, badkar och handelsgjutgods. Varumärke: »ML»",
+        "contact": {
+            "phone": [
+                "418",
+                "449",
+                "470"
+            ],
+            "postgiro": "33299"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 185
+            },
+            "annual_turnover": 3600000,
+            "annual_production_value": 3600000
+        },
+        "foundation_year": 1917,
+        "corporation_year": 1932,
+        "board": [
+            {
+                "name": "ing. Hugo Lundgren",
+                "role": "disp."
+            },
+            {
+                "name": "John Lundgren",
+                "role": "disp."
+            },
+            {
+                "name": "Gunnar Lundgren",
+                "role": "kamrer"
+            }
+        ],
+        "director": "disp. John Lundgren",
+        "managing_director": "ing. Hugo Lundgren",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "N. Lundgren",
+        "location": "Gävle",
+        "business": "Tegelbruk i Uppsala (Uppsala Norra Tegelbruk) och skorstensbyggnadsfirma i Gävle. Tillverkar skorstenstegel; bygger skorstenar för fabriks- och andra ändamål; utför ångpanne-, ugns- och andra industriella inmurningar samt eld- och syrafasta, alkalie-, salt- och oljefasta mureriarbeten",
+        "contact": {
+            "office": "Gävle",
+            "telegraph": "Skorsten, Gävle",
+            "phone": [
+                "151",
+                "152"
+            ],
+            "postgiro": "26178"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 58
+            },
+            "annual_turnover": 850000
+        },
+        "foundation_year": 1869,
+        "owners": [
+            "N. Lundgrens sterbhus"
+        ],
+        "director": "disp. ing. Ernst Ström",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "AB. Lundholms Skomanufaktur",
+        "location": "Kumla",
+        "business": "Tillverkar rand-, vänd- och sandal-sydda skodon",
+        "contact": {
+            "phone": [
+                "70930"
+            ],
+            "postgiro": "20806"
+        },
+        "financials": {
+            "capital": 255000,
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "dir. E. Ax. Lundholm",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. J. Frenander",
+                "role": ""
+            },
+            {
+                "name": "Sven Lundholm",
+                "role": "disp."
+            }
+        ],
+        "manager": "E. Ax. Lundholm",
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "David Lundholm, Byggnads AB.",
+        "location": "Örebro",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m",
+        "contact": {
+            "phone": [
+                "12615",
+                "22195"
+            ],
+            "postgiro": "161012"
+        },
+        "financials": {
+            "capital": 50000,
+            "annual_turnover": 1000000
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "byggnadsing. Gunnar Lundholm",
+                "role": "ordf."
+            },
+            {
+                "name": "byggnadsing. Ewert Björnestad",
+                "role": "v.ordf."
+            },
+            {
+                "name": "fru Maj Björnestad",
+                "role": ""
+            },
+            {
+                "name": "adv. Josef Frenander",
+                "role": ""
+            }
+        ],
+        "manager": "Gunnar Lundholm",
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "Lundin & Co.",
+        "location": "Råneå",
+        "business": "Garveri och skofabrik i Råneå (Norrb. l.). Tillverkar ovanläder och sulläder samt pjäxor, vandrarskor och näbbskor. Firman driver även detaljhandel med skodon",
+        "contact": {
+            "phone": [
+                "163",
+                "99"
+            ],
+            "postgiro": "60016"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 700000,
+            "annual_production_value": 700000
+        },
+        "foundation_year": 1883,
+        "corporation_year": 1915,
+        "owners": [
+            "fabr. Hugo Lundin",
+            "fabr. Ernst Lundin"
+        ],
+        "manager": "fabr. Hugo Lundin",
+        "coordinates": {
+            "Latitude": 65.8567851,
+            "Longitude": 22.2889188
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "AB. Lundin & Johansson",
+        "location": "Berga",
+        "business": "Sågverk och hyvleri i Berga (Kalmar 1.). Tillverkar hyvlade trävaror, paneler och listverk m. m. Varumärke: »L. & J.»",
+        "contact": {
+            "telegraph": "Dörrar, Berga",
+            "phone": [
+                "6"
+            ],
+            "postgiro": "23761"
+        },
+        "financials": {
+            "capital": 50500,
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_turnover": 80000
+        },
+        "foundation_year": 1924,
+        "board": [
+            {
+                "name": "disp. P. Lundin",
+                "role": "ordf."
+            },
+            {
+                "name": "fru C. Lundin",
+                "role": ""
+            },
+            {
+                "name": "fru D. Nyström",
+                "role": ""
+            }
+        ],
+        "manager": "disp. P. Lundin",
+        "sales_manager": "C.-G. Lundin",
+        "coordinates": {
+            "Latitude": 57.218617,
+            "Longitude": 16.0308871
+        },
+        "cluster": 7
+    },
+    "9": {
+        "name": "AB. Lundin & Lindberg",
+        "location": "Eskilstuna",
+        "business": "Metallvarufabrik. Tillverkar kokkärl, tennvaror, askurnor samt pressade, tryckta och svarvade delar i järn och metall",
+        "contact": {
+            "phone": [
+                "***"
+            ],
+            "postgiro": "***"
+        },
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    }
+}

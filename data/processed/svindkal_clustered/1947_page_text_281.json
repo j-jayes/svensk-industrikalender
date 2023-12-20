@@ -1,0 +1,248 @@
+{
+    "1": {
+        "name": "Fabriken Vimi",
+        "location": "Trönninge",
+        "business": "Tillverkar malt och vacuumtorkade grönsaker",
+        "products": "Specialitet: torkade sopprötter",
+        "contact": {
+            "office": "Fabrik i Trönninge (Hallands l.)",
+            "phone": [
+                "15"
+            ],
+            "postgiro": "33498"
+        },
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "industriarbete": 10
+            },
+            "annual_turnover": "100,000 kr",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1897,
+        "owner": "Karl Pehrsson",
+        "coordinates": {
+            "Latitude": 56.6182793,
+            "Longitude": 12.9465533
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Fabriken Zig-Zag",
+        "location": "Malmköping",
+        "business": "Ej tillgängligt",
+        "original_name": "Nya Fabriken Zig-Zag",
+        "financials": {
+            "capital": "Ej tillgängligt",
+            "employees": {
+                "industriarbete": "Ej tillgängligt"
+            },
+            "annual_turnover": "Ej tillgängligt",
+            "annual_production_value": "Ej tillgängligt"
+        },
+        "coordinates": {
+            "Latitude": 59.132406,
+            "Longitude": 16.729194
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Fabriks AB. Blokk",
+        "location": "Eskilstuna",
+        "business": "Smidesfabrik",
+        "products": "Tillverkar fönster och dörrar, portar samt byggnadsbeslag",
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarbete": 15
+            },
+            "annual_turnover": "250,000 kr",
+            "annual_production_value": "250,000 kr"
+        },
+        "corporation_year": 1940,
+        "board": [
+            {
+                "name": "Sigurd Lewerentz",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Fabriks AB. Bröderna Alström",
+        "location": "Borås",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar herr- och gosskjortor samt herr- och gosskläder",
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "industriarbete": 115
+            },
+            "annual_turnover": "1,800,000 kr",
+            "annual_production_value": "1,800,000 kr"
+        },
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "Artur Alström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Eric Alström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Stig Svensson",
+                "role": "Köpm."
+            }
+        ],
+        "director": "Artur Alström",
+        "managing_director": "Eric Alström",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Fabriks AB. Drev & Trassel",
+        "location": "Göteborg",
+        "business": "Tillverkar byggnadsdrev, trassel, täck-vädd, madrasser och täcken",
+        "contact": {
+            "office": "Tuvevägen, Hisingen",
+            "phone": [
+                "223493",
+                "221460"
+            ],
+            "postgiro": "42026",
+            "telegraph": "Fabeha, Göteborg"
+        },
+        "financials": {
+            "capital": "65,000 kr",
+            "employees": {
+                "industriarbete": 20
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1928,
+        "director": "O. Haitkin",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "Fabriks AB. Ekå",
+        "location": "Markaryd",
+        "business": "Tillverkar slipduk och slippapper",
+        "products": "För trävaru-, metall-, läder- och skoindustri etc.",
+        "contact": {
+            "telegraph": "Ekåslip, Markaryd",
+            "phone": "»Ekå»",
+            "postgiro": "20850"
+        },
+        "financials": {
+            "capital": "160,000 kr",
+            "employees": {
+                "industriarbete": 25
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "700,000 kr"
+        },
+        "corporation_year": 1928,
+        "director": "Ernst O. Andersson",
+        "coordinates": {
+            "Latitude": 56.4617744,
+            "Longitude": 13.5962744
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Fabriks AB. Elias",
+        "location": "Stockholm",
+        "business": "Kem. tekn. fabrik",
+        "products": "Tillverkar champoneringspulver, sårsalvor, djursalva med kloramin, örttéer, tabletter m. m.",
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarbete": 35
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "corporation_year": 1922,
+        "director": "Bo Holmberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "Fabriks AB. Forslund & Co.",
+        "location": "Skellefteå",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar hydrauliska tippanordningar för lastautomobiler, garagedomkrafter samt verkstadspressar",
+        "contact": {
+            "office": "Skellefteå (Västerb. l.)",
+            "phone": [
+                "12211"
+            ],
+            "postgiro": "66467"
+        },
+        "financials": {
+            "capital": "102,000 kr",
+            "employees": {
+                "industriarbete": 60
+            },
+            "annual_turnover": "1,100,000 kr",
+            "annual_production_value": "1,100,000 kr"
+        },
+        "corporation_year": 1945,
+        "director": "Johan Forslund",
+        "manager": "Artur Lundgren",
+        "coordinates": {
+            "Latitude": 64.750244,
+            "Longitude": 20.950917
+        },
+        "cluster": 6
+    },
+    "9": {
+        "name": "Fabriks AB. Hageltorns",
+        "location": "Hälsingborg",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar damunderkläder",
+        "contact": {
+            "phone": "20195",
+            "postgiro": "70326"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarbete": "Ej tillgängligt"
+            }
+        },
+        "manager": "Bror Hageltorn",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 9
+    },
+    "10": {
+        "name": "Fabriks AB. Haidataxametern",
+        "location": "Halmstad",
+        "business": "Se Verkstads-AB. Haldex, Halmstad",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 1
+    }
+}

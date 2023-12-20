@@ -1,0 +1,172 @@
+{
+    "1": {
+        "name": "Svenska AB. Bromsregulator",
+        "location": "Malmö",
+        "business": "Konstruerar bromsregulatorer, last-växelanordningar och fjädrande hjul för rälsfordon samt bilbromsar.",
+        "contact": {
+            "office": "Adeler. 5",
+            "phone": [
+                "28066",
+                "28076",
+                "28096",
+                "28689"
+            ],
+            "postgiro": "39039",
+            "telegraph": "Bromsregulator, Malmö"
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "foundation_year": 1916
+        },
+        "board": [
+            {
+                "name": "jur. dr Axel Roos",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. A. Alfelt",
+                "role": "disp."
+            },
+            {
+                "name": "ing. Ernhold Lundström",
+                "role": "ing."
+            },
+            {
+                "name": "civiling. O. A. Nilsson",
+                "role": "civiling."
+            }
+        ],
+        "director": "E. Lundström",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Svenska Carbidkontoret",
+        "location": "Götebon7",
+        "business": "Mek. verkstad. Tillverkar acetylengas-verk för svetsning, skärning, uppvärmning m. m. samt svets- och skärbrännare m. fl. tillbehör för svetsning.",
+        "products": "Varumärken: »Nordsvets» o. »S. C. K.» Bolaget driver även försäljning av karbid för moderbolaget, Stockholms Superfosfat Fabriks AB., Stockholm.",
+        "contact": {
+            "office": "Fabriksg. 38—42",
+            "phone": "Carbidkontoret, Göteborg",
+            "postgiro": "5155",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "108732"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 70
+            },
+            "annual_production_value": "1,500,000 kr",
+            "foundation_year": 1917
+        },
+        "board": [
+            {
+                "name": "fil. dr Harald Nordenson",
+                "role": "ordf."
+            },
+            {
+                "name": "dr Sigurd Nauckhoff",
+                "role": "dr"
+            },
+            {
+                "name": "civiling. Hans Rydin",
+                "role": "civiling."
+            }
+        ],
+        "director": "Sven Wiklund",
+        "manager": "Gunnar Malmborg",
+        "sales_manager": "civiling. Sixten Nordholm",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Svenska Cellbetong AB.",
+        "location": "Falköping",
+        "business": "Fabrik för tillverkning av ånghärdad, högporös lättbetong (varumärke: »Cell-tong»). Utför gjutning av icke ånghärdad cellbetong direkt på de delar i byggnaden, där stora krav ställas på isolering mot temperaturväxlingar; tillverkar beläggningsmassa för tennisbanor (varumärke: »Lawnit»).",
+        "contact": {
+            "office": "Cell-tong, Falköping",
+            "phone": "Cell-tong, Falköping"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb.": 15
+            },
+            "foundation_year": 1938
+        },
+        "board": [
+            {
+                "name": "dir. G. W. Nymberg",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. E. D. Halbert",
+                "role": "adv."
+            }
+        ],
+        "director": "G. W. Nymberg",
+        "manager": "K. G. Ringdahl",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Svenska Cellulosa AB.",
+        "location": "Stockholm",
+        "business": "Bolaget utgör holding company för bl. a. följande företag: AB. Cellulosatransport, Stockholm, Cellufix AB., Sundsvall, Essviks AB., Sundsvall, Holmsunds AB., Holmsund, Kramfors AB., Kramfors, Munksunds AB., Luleå, Nensjö Cellulosa AB., Kramfors, Nyhamns AB., Sundsvall, Skönviks AB., Sundsvall, Strömnäs AB., Kramfors, Sunds AB., Sundsvall, Sundsvalls Perspektivfönster AB., Stockholm, Svartviks AB., Sundsvall, Torpshammars AB., Sundsvall, Ulvviks AB., Kramfors, AB. östrands Sulfatfabrik, Sundsvall.",
+        "contact": {
+            "office": "Stockholm, V. Träd-gårdsg. 15",
+            "phone": "Cellulosabolaget, Stockholm"
+        },
+        "financials": {
+            "capital": "50,000,000 kr",
+            "foundation_year": 1929
+        },
+        "board": [
+            {
+                "name": "f. d. generaldir. Gösta Malm",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. E. Browaldh",
+                "role": "bankdir."
+            },
+            {
+                "name": "dir. Torsten Hérnod",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Gust. J. Sahlin",
+                "role": "dir."
+            },
+            {
+                "name": "civiling. Sten Westerberg",
+                "role": "civiling."
+            },
+            {
+                "name": "bankdir. P. F. Wåhlin",
+                "role": "bankdir."
+            }
+        ],
+        "director": "Torsten Hérnod",
+        "v_verkst_dir": "Gust. Göranson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    }
+}

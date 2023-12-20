@@ -1,0 +1,262 @@
+{
+    "1": {
+        "name": "Luth—Lycksele",
+        "location": "Stockholm",
+        "business": "Företagets huvudsakliga verksamhet är ej specificerad",
+        "financials": {
+            "capital": "110,000,000 kr",
+            "employees": {
+                "industriarb.": 0
+            }
+        },
+        "foundation_year": 1890,
+        "board": [
+            {
+                "name": "f. d. justitierådet R. Eklund",
+                "role": "ordförande"
+            },
+            {
+                "name": "generaldir. W. Borgquist",
+                "role": null
+            },
+            {
+                "name": "f. d. landshövd. Bernhard Eriksson",
+                "role": null
+            },
+            {
+                "name": "fil. dr Erik Kempe",
+                "role": null
+            },
+            {
+                "name": "fil. dr S. Nauckhoff",
+                "role": null
+            },
+            {
+                "name": "dir. Knut Norlin",
+                "role": null
+            },
+            {
+                "name": "överståthållare Torsten Nothin",
+                "role": null
+            },
+            {
+                "name": "dir. Martin Waldenström",
+                "role": null
+            }
+        ],
+        "owners": [
+            "Svenska staten",
+            "Trafik AB",
+            "Grängesberg-Oxelösund"
+        ],
+        "director": "Martin Waldenström",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Luth & Roséns Elektriska AB.",
+        "location": "Eskilstuna",
+        "business": "Tillverkar radiatorer och kamrör samt pressade och svetsade plåtarbeten",
+        "contact": {
+            "telegraph": "Luth, Eskilstuna",
+            "office": null,
+            "phone": [
+                "Luth & Rosén"
+            ],
+            "postgiro": "3111",
+            "head_office": null,
+            "factory_office": null,
+            "factory_phone": null,
+            "sales_offices": null
+        },
+        "financials": {
+            "capital": "2,037,500 kr",
+            "employees": {
+                "industriarb.": 165
+            },
+            "annual_turnover": "3,500,000 kr",
+            "annual_production_value": "3,500,000 kr"
+        },
+        "foundation_year": 1885,
+        "board": [
+            {
+                "name": "dir. J. S. Edström",
+                "role": "ordförande"
+            },
+            {
+                "name": "dir. Thorsten Ericson",
+                "role": null
+            },
+            {
+                "name": "dir. Fritz Lilliecreutz",
+                "role": null
+            },
+            {
+                "name": "dir. Hilding Sandberg",
+                "role": null
+            }
+        ],
+        "owners": [
+            "Allm. Svenska Elektr. AB",
+            "Västerås"
+        ],
+        "director": "Hilding Sandberg",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Lux",
+        "location": "Stockholm",
+        "business": "Se AB. Elektrolux, Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Luxor Radio AB.",
+        "location": "Motala",
+        "business": "Tillverkar elektr. grammofoner, radioapparater, högtalare och ljudförstärkare med tillbehör samt apparater för elektr. stängsel",
+        "contact": {
+            "telegraph": "Luxor, Motala",
+            "phone": [
+                "685",
+                "1242"
+            ],
+            "postgiro": "92670",
+            "office": null,
+            "factory_office": null,
+            "factory_phone": null,
+            "head_office": null,
+            "sales_offices": null
+        },
+        "financials": {
+            "capital": "125,400 kr",
+            "employees": {
+                "industriarb.": 300
+            }
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "verkstadschef Karl Holstensson",
+                "role": null
+            },
+            {
+                "name": "försäljn.-chef Lars Holstenson",
+                "role": null
+            },
+            {
+                "name": "inköpschef Erik Rosenström",
+                "role": null
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Lyckes Söners Konservfabriker",
+        "location": "Fiskebäckskil",
+        "business": "Tillverkar ansjovis och sillkonserver",
+        "coordinates": {
+            "Latitude": 58.24742569999999,
+            "Longitude": 11.4590081
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Lycksele Industri AB.",
+        "location": "Lycksele",
+        "business": "Tillverkar träkol, kolstyhb, retorttjära av björk, tjärolja, motorbränsle, metanol, acetaldehyd, aceton, etylacetat och div. lösningsmedel",
+        "contact": {
+            "telegraph": "Träkemi, Lycksele",
+            "phone": [
+                "12"
+            ],
+            "postgiro": "63843",
+            "office": null,
+            "factory_office": null,
+            "factory_phone": null,
+            "head_office": null,
+            "sales_offices": null
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb.": 110
+            },
+            "annual_turnover": "2,100,000 kr",
+            "annual_production_value": "2,100,000 kr"
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "dir. Albin Johansson",
+                "role": "ordförande"
+            },
+            {
+                "name": "fil. lic. Mauritz Bonow",
+                "role": null
+            },
+            {
+                "name": "dir. Hj. Degerstedt",
+                "role": null
+            },
+            {
+                "name": "dir. Hugo Edstam",
+                "role": null
+            },
+            {
+                "name": "ing. G. Osvald",
+                "role": null
+            },
+            {
+                "name": "dir. Ernst Persson",
+                "role": null
+            }
+        ],
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "director": "civiling. J. P. Trolle",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 64.5958098,
+            "Longitude": 18.676367
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Lycksele Snickerifabrik",
+        "location": "Lycksele",
+        "business": "Snickerifabrik, såg och hyvleri i Lycksele (Västerb. l.). Tillverkar byggnadssnickerier, butiks-och köksinredningar samt sågade och hyvlade trävaror. Firman driver även engroshandel med byggnadsmateriel såsom träfiberplattor, fanér, glas m. m.",
+        "coordinates": {
+            "Latitude": 64.5958098,
+            "Longitude": 18.676367
+        },
+        "cluster": 7
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "1": {
+        "name": "E. A. Bergs Fabriks AB.",
+        "location": "Eskilstuna",
+        "business": "Järn- och stålmanufakturfabrik",
+        "products": "Tillverkar tänger, snickeri verktyg, hushålls-knivar, skomakar- och gummiknivar, slakt- och andra yrkesknivar, trädgårdssaxar, bleck-, plåt- och bultsaxar samt hejarsmide. Varumärke: »Hajen».",
+        "contact": {
+            "office": "Eskilstuna",
+            "phone": [
+                "Bergs bolag"
+            ],
+            "postgiro": "10713",
+            "telegraph": "Bergsbol",
+            "factory_office": "Eskilstuna"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 290
+            },
+            "annual_turnover": "3,000,000 kr"
+        },
+        "foundation_year": 1880,
+        "corporation_year": 1900,
+        "board": [
+            {
+                "name": "fru K. M. Alderin",
+                "role": null
+            },
+            {
+                "name": "civiling. G. Gust. Andersson",
+                "role": null
+            },
+            {
+                "name": "ing. Torkel Berg",
+                "role": null
+            },
+            {
+                "name": "fru E. Berlin",
+                "role": null
+            },
+            {
+                "name": "fru G. E. Carlsson",
+                "role": null
+            },
+            {
+                "name": "fru M. O. Carlsson",
+                "role": null
+            },
+            {
+                "name": "fru I. Olsson",
+                "role": null
+            }
+        ],
+        "director": "C. Gust. Andersson",
+        "sales_manager": "U. Krantz",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Fr. d. Berg, Matematisk Instrumentfabrik, AB.",
+        "location": "Stockholm",
+        "products": "Tillverkar optiska och finmekaniska precisionsarbeten såsom geodetiska instrument samt gruv- och malmletnings-instrument. Bolaget innehar jämväl agentur för geodetiska instrument av utländsk tillverkning.",
+        "contact": {
+            "office": "Stockholm",
+            "phone": [
+                "307660"
+            ],
+            "postgiro": "1968"
+        },
+        "financials": {
+            "capital": "50,000 kr"
+        },
+        "foundation_year": 1850,
+        "corporation_year": 1933,
+        "board": null,
+        "director": "kapten Anders Berg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "K. A. Bergs Redskapsfabrik",
+        "location": "Oemla",
+        "business": null,
+        "products": "Tillverkar redskap och verktyg såsom hammare, släggor, stenverktyg, gruvred-skap, skogs- och trädgårdsredskap, hackor m. m.",
+        "contact": {
+            "phone": [
+                "Växjö 67116"
+            ],
+            "postgiro": "8800"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1868,
+        "director": "fabr. Karl Allan Berg",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Berga Kalkbruk",
+        "location": "Torbjörntorp",
+        "predecessor": "AB. Västergötlands Förenade Kalk-industrier",
+        "original_name": null,
+        "business": null,
+        "products": null,
+        "contact": null,
+        "financials": null,
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 58.2102316,
+            "Longitude": 13.6058656
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "AB. Berga Snickerifabrik",
+        "location": "Berga",
+        "business": "Tillverkar byggnadssnickerier, listverk, lådbräder, laths, träkol m. m. vid fabrik i Berga (Kalmar l.). Specialitet: dörrar för export.",
+        "products": "Tillv.-värde pr år: 450,000 kr.",
+        "contact": {
+            "phone": [
+                "Berga 2"
+            ],
+            "postgiro": "23681"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1896,
+        "corporation_year": 1899,
+        "current_name_year": 1923,
+        "board": null,
+        "director": "Josef Jarelid",
+        "manager": "Robert Forsberg",
+        "coordinates": {
+            "Latitude": 57.218617,
+            "Longitude": 16.0308871
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Berga Stenhuggeri AB.",
+        "location": "Hällabrottet",
+        "business": "Framställer byggnadssten av kalksten och marmor vid stenhuggeri i Hällabrottet (Örebro l.)",
+        "contact": {
+            "phone": [
+                "Örebro 72001"
+            ],
+            "postgiro": "77465"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "600,000 kr"
+        },
+        "foundation_year": 1906,
+        "board": null,
+        "director": "fabr. Carl Th. Eriksson",
+        "coordinates": {
+            "Latitude": 59.1168073,
+            "Longitude": 15.2005486
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "AB. Berga Tegelbruk",
+        "location": "Kalmar",
+        "business": "Tillverkar murtegel, radial-och håltegel samt dräneringsrör; uppför skorstenar.",
+        "products": "Årstillv.: 3,5 milj. st. tegelvaror.",
+        "contact": {
+            "phone": [
+                "Kalmar 452",
+                "Kalmar 1204",
+                "Högsby 27"
+            ],
+            "postgiro": null,
+            "telegraph": "Ny gärde"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 42
+            }
+        },
+        "foundation_year": 1899,
+        "board": null,
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "AB. Berga Träindustri",
+        "location": "Berga",
+        "business": "Tillverkar byggnadssnickerier vid fabrik i Berga (Kalmar l.). Bolaget driver även försäljning av sågade och hyvlade trävaror.",
+        "products": "Tillv.-värde pr år: 400,000 kr",
+        "contact": {
+            "phone": [
+                "34"
+            ],
+            "postgiro": "23682"
+        },
+        "financials": {
+            "capital": "25,500 kr",
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1920,
+        "board": null,
+        "director": "disp. John Gustafsson",
+        "coordinates": {
+            "Latitude": 57.218617,
+            "Longitude": 16.0308871
+        },
+        "cluster": 7
+    },
+    "9": {
+        "name": "Bergbolagen AB.",
+        "location": "Lindesberg",
+        "business": "Mek. verkstad i Lindesberg",
+        "products": null,
+        "contact": null,
+        "financials": null,
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 59.5976983,
+            "Longitude": 15.2229108
+        },
+        "cluster": 1
+    }
+}

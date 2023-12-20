@@ -1,0 +1,200 @@
+{
+    "1": {
+        "name": "Vingåker—Vina gron",
+        "location": "Vingåker",
+        "business": "Tillverkar hel- och halvyllevävnader, bomulls- och konstsilkevävnader samt bomulls-, ull- och vigognegarner. Firman idkar jämväl jordbruk.",
+        "contact": {
+            "telegraph": "Wingqvist, Fritsla",
+            "phone": [
+                "Kinna 70210"
+            ],
+            "postgiro": "80791"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 525
+            },
+            "annual_turnover": 6000000,
+            "annual_production_value": 6000000
+        },
+        "foundation_year": 1860,
+        "owners": [
+            "fabr. Ignar Anden"
+        ],
+        "coordinates": {
+            "Latitude": 59.04337529999999,
+            "Longitude": 15.8709394
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Vingåkers Konfektions AB.",
+        "location": "Vingåker",
+        "business": "Herrkonfektionsfabrik i Vingåker (Södermanl. l.). Tillverkar kostymer och överrockar.",
+        "contact": {
+            "phone": "155",
+            "postgiro": "32577"
+        },
+        "financials": {
+            "capital": 46700,
+            "employees": {
+                "industriarb": 50
+            }
+        },
+        "foundation_year": 1923,
+        "director": "Erik J. Andersson",
+        "coordinates": {
+            "Latitude": 59.04337529999999,
+            "Longitude": 15.8709394
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. Vingåkers Spisbrödsfabrik",
+        "location": "Vingåker",
+        "business": "Spisbrödsfabrik och kvarn i Vingåker (Södermanl. l.). Tillverkar spis- och knäckebröd samt mjöl.",
+        "contact": {
+            "telegraph": "Vingåkersbröd, Vingåker",
+            "phone": [
+                "188",
+                "241"
+            ],
+            "postgiro": "36409"
+        },
+        "financials": {
+            "capital": 170000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": 1000000
+        },
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "kammarh. Fredrik v. Mecklenburg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Georg Andersson",
+                "role": ""
+            },
+            {
+                "name": "gods-^arrend. Ragnar Andersson",
+                "role": ""
+            },
+            {
+                "name": "godsäg. Gunnar Santesson",
+                "role": ""
+            },
+            {
+                "name": "agronom Konstans Schör-ling",
+                "role": ""
+            }
+        ],
+        "director": "Georg Andersson",
+        "sales_manager": "Bengt Bergstrand",
+        "coordinates": {
+            "Latitude": 59.04337529999999,
+            "Longitude": 15.8709394
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Winkelcentrifug",
+        "location": "Stockholm",
+        "business": "Mek. verkstad. Tillverkar för vetenskapliga och industriella laboratorier avledda elektr. vinkelcentrifuger, skakapparater m. m. Firman driver även handel med laboratorieglas.",
+        "contact": {
+            "office": "Norrtullsg. 23",
+            "telegraph": "Wifug, Stockholm",
+            "phone": [
+                "313833",
+                "319307"
+            ],
+            "postgiro": "153978"
+        },
+        "financials": {
+            "capital": 70000,
+            "employees": {
+                "Arb.-antal": 20
+            }
+        },
+        "corporation_year": 1933,
+        "director": "civiling. Gunnar Beckman",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Vin- &amp; Spritcentralen",
+        "location": "Stockholm",
+        "business": "Fabriker och filialer i Eslöv, Göteborg, Karlshamn, Reimersholm (Sthlm), Sundsvall, Södertälje, Åhus, Rödaled (Kristianst. l.) och ödåkra (Malmöh. l.) med distributionslager i Malmö. Framställer, förädlar och bereder sprit, brännvin och andra alkoholhaltiga drycker.",
+        "contact": {
+            "head_office": "Stockholm, S:t Eriksg. 121",
+            "telegraph": "Spritcentralen, Stockholm",
+            "phone": [
+                "Stockholm"
+            ],
+            "postgiro": "86"
+        },
+        "financials": {
+            "capital": 15000000,
+            "employees": {
+                "industriarb": 632
+            }
+        },
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "riksdagsman L. A. Björklund",
+                "role": "ordf."
+            },
+            {
+                "name": "riksdagsman J. B. Johansson",
+                "role": ""
+            },
+            {
+                "name": "riksdagsman Erik Fast",
+                "role": ""
+            },
+            {
+                "name": "expeditionschefen Carl Romberg",
+                "role": "av Kungl. Maj:t utsedda"
+            },
+            {
+                "name": "dir. J. L. Ekman",
+                "role": ""
+            },
+            {
+                "name": "president A. Lindhagen",
+                "role": ""
+            },
+            {
+                "name": "envoyé Stig Sahlin",
+                "role": ""
+            },
+            {
+                "name": "assuransdir. Iwar Sjögren",
+                "role": "av bolagsstämman valda"
+            }
+        ],
+        "director": "Stig Sahlin",
+        "manager": "Gustaf Bergendal",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Vinägron",
+        "location": "Göteborg",
+        "business": "Kem. teknisk fabrik. Tillverkar attik-sprit, senap, soja samt gurkinläggningar.",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    }
+}

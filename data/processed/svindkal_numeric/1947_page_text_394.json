@@ -1,0 +1,310 @@
+{
+    "1": {
+        "name": "Isola Gruvindustri",
+        "location": "Stockholm",
+        "business": "Bryter kvarts och fältspat vid fyndigheter i olika delar av Sverige.",
+        "contact": {
+            "office": "Kaptensg. 6",
+            "telegraph": "Micanite, Stockholm",
+            "phone": [
+                "679200"
+            ]
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1943,
+        "owners": [
+            "dir. Bo Andrén"
+        ],
+        "board": [
+            {
+                "name": "Wolfgang Oettinger",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Isolerings AB. Cementol",
+        "location": "Göteborg",
+        "business": "Tillverkar isoleringsfilt och isoleringsmassor samt utför isoleringsarbeten.",
+        "contact": {
+            "office": "Lindholmsvägen",
+            "telegraph": "Cementol, Göteborg",
+            "phone": [
+                "221191"
+            ],
+            "postgiro": "12277"
+        },
+        "financials": {
+            "capital": 34750,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 600000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1918,
+        "owners": [
+            "Not available"
+        ],
+        "board": [
+            {
+                "name": "Anders Sylvan",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Birger Sylvan",
+                "role": "clisp."
+            },
+            {
+                "name": "Gunnar Sylvan",
+                "role": "ing."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Ivarsson AB., Bröderna",
+        "location": "Osby",
+        "business": "Se Bröderna Ivarsson AB., Osby",
+        "foundation_year": "Not available",
+        "owners": [
+            "Not available"
+        ],
+        "coordinates": {
+            "Latitude": 56.3815355,
+            "Longitude": 13.9929413
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Ivarssons Skofabrik AB.",
+        "location": "Örebro",
+        "business": "Tillverkar finare randsydda herr- och damskodon. Varumärken: »Ivarssons», »Everton» o. »Garmisch».",
+        "contact": {
+            "phone": [
+                "14353"
+            ],
+            "postgiro": "26309"
+        },
+        "financials": {
+            "capital": 177000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1924,
+        "owners": [
+            "Not available"
+        ],
+        "board": [
+            {
+                "name": "And. Ivarsson",
+                "role": "Styrelse o. verkt. dir."
+            },
+            {
+                "name": "Edmund Kjellin",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Ivar Iverson & Co, AB.",
+        "location": "Malmö",
+        "business": "Bokbinderi, kontorsboksoch kartong-fabrik samt linjeringsanstalt. Tillverkar askar och kartonger, kontorsböcker, bok-binderiarbeten m. m.",
+        "contact": {
+            "office": "Gråbrödersg. 8",
+            "phone": [
+                "71835"
+            ],
+            "postgiro": "39605"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": 335000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1900,
+        "owners": [
+            "Not available"
+        ],
+        "board": [
+            {
+                "name": "Oscar Gustafson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "director": "Not available",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "Hjalmar Jackson",
+        "location": "Stockholm",
+        "business": "Snickeriverkstad. Tillverkar möbler och finare inredningsarbeten.",
+        "contact": {
+            "office": "Tuleg. 19",
+            "phone": [
+                "327278"
+            ],
+            "postgiro": "192494"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "antal": 10
+            },
+            "annual_turnover": 150000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1916,
+        "owners": [
+            "Not available"
+        ],
+        "board": [
+            {
+                "name": "Hjalmar Jackson",
+                "role": "Ägare o. chef"
+            }
+        ],
+        "director": "Not available",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "Jac. Jacobsen AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar arbetslampor (»Luxo 1001»), solljuslampor, värmekaminer och skrivmaskinsbord m. m.",
+        "contact": {
+            "office": "Mölndalsvägen 91",
+            "postadr": "Göteborg 5",
+            "telegraph": "Jacjac, Göteborg",
+            "phone": [
+                "181162",
+                "181181"
+            ],
+            "postgiro": "45986"
+        },
+        "financials": {
+            "capital": 5000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1939,
+        "owners": [
+            "Not available"
+        ],
+        "board": [
+            {
+                "name": "Göran Gyllensvärd",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Åke Arvidius",
+                "role": "disp."
+            },
+            {
+                "name": "Åke Fischer",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "AB. G. L. Jacoby",
+        "location": "Stockholm",
+        "business": "Tillverkar kirurgi ska instrument, artiklar för djurvård och djursjukvård samt apparater för frökontroll. Specialitet: veterinärinstrument.",
+        "contact": {
+            "office": "Lästmakarg. 27 B",
+            "phone": [
+                "202702"
+            ],
+            "postgiro": "942"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1860,
+        "owners": [
+            "Not available"
+        ],
+        "board": [
+            {
+                "name": "Gösta Jacobsson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "9": {
+        "name": "AB. Jaeger Konfektyrindustri",
+        "location": "Falköping",
+        "business": "Tillverkar tabletter, dragéer, kola m. m.",
+        "contact": {
+            "phone": [
+                "824"
+            ],
+            "postgiro": "37092"
+        },
+        "financials": {
+            "capital": 90000,
+            "employees": {
+                "antal": 30
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 2
+    }
+}

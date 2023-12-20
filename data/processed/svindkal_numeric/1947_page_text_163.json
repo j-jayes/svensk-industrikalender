@@ -1,0 +1,177 @@
+{
+    "1": {
+        "name": "Arboga Tegelbruk, P. 0. Gustafsson, Arboga",
+        "business": "Manufacturing",
+        "products": "Produces bricks and drainage pipes.",
+        "contact": {
+            "office": "P. 0. Gustafsson, Arboga",
+            "phone": [
+                "60"
+            ],
+            "postgiro": "85145"
+        },
+        "financials": {
+            "capital": 712500,
+            "employees": {
+                "industriarb": 205
+            },
+            "annual_turnover": 3200000
+        },
+        "foundation_year": 1856,
+        "corporation_year": 1888,
+        "board": [
+            {
+                "name": "Gust. Ekman",
+                "role": "Chairman of the Board"
+            },
+            {
+                "name": "Lars Y. Blume",
+                "role": "Director"
+            },
+            {
+                "name": "Per G. Ekman",
+                "role": "Managing Director"
+            },
+            {
+                "name": "Assar Grönwall",
+                "role": "Director"
+            },
+            {
+                "name": "Sven G. Lind",
+                "role": "Director"
+            }
+        ],
+        "owners": [
+            "P. 0. Gustafsson, Arboga"
+        ],
+        "cluster": 0
+    },
+    "2": {
+        "name": "AB. Area Regulatorer, Stockholm",
+        "business": "Manufacturing",
+        "products": "Produces hydraulic and electrical regulators for maintaining constant pressure and temperature.",
+        "contact": {
+            "office": "Kungsg. 7 B, Stockholm",
+            "phone": [
+                "117231",
+                "117232"
+            ],
+            "postgiro": "3611"
+        },
+        "financials": {
+            "capital": 750000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 400000
+        },
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "H. W. Dahlin",
+                "role": "Chairman of the Board"
+            },
+            {
+                "name": "Börje Carlstedt",
+                "role": "Director"
+            },
+            {
+                "name": "Ragnar Carlstedt",
+                "role": "Director"
+            }
+        ],
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Archimedes, Stockholm",
+        "business": "Manufacturing",
+        "products": "Manufactures outboard motors.",
+        "contact": {
+            "office": "Sundbyberg, Stockholm",
+            "phone": [
+                "522000"
+            ],
+            "postgiro": "2521",
+            "factory_office": "Stockholm 282520"
+        },
+        "financials": {
+            "capital": 750000,
+            "employees": {
+                "industriarb": 140
+            }
+        },
+        "corporation_year": 1907,
+        "board": [
+            {
+                "name": "Gust. J. Sahlin",
+                "role": "Chairman of the Board"
+            },
+            {
+                "name": "Axel O. Engberg",
+                "role": "Director"
+            },
+            {
+                "name": "Sten Widell",
+                "role": "Director"
+            }
+        ],
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Arctic, Motala",
+        "predecessor": "AB. Elektrolux, Stockholm",
+        "cluster": 4
+    },
+    "5": {
+        "name": "AB. Cerh. Arehns Mek. Verkstad, Stockholm",
+        "predecessor": "Arenco AB., Stockholm",
+        "cluster": 4
+    },
+    "6": {
+        "name": "Arenco AB., Stockholm",
+        "business": "Manufacturing",
+        "products": "Manufactures various machines for industries.",
+        "contact": {
+            "office": "Alströmerg. 20, Stockholm",
+            "phone": [
+                "520020"
+            ],
+            "postgiro": "1647"
+        },
+        "financials": {
+            "capital": 3600000,
+            "employees": {
+                "industriarb": 700
+            },
+            "annual_turnover": 10000000
+        },
+        "foundation_year": 1880,
+        "corporation_year": 1896,
+        "current_name_year": 1943,
+        "board": [
+            {
+                "name": "Axel Brandin",
+                "role": "Chairman of the Board"
+            },
+            {
+                "name": "Ruben Dahlström",
+                "role": "Director"
+            },
+            {
+                "name": "Gunnar Ekström",
+                "role": "Director"
+            },
+            {
+                "name": "Ernst v. Segebaden",
+                "role": "Director"
+            }
+        ],
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Aristo, Falköping",
+        "business": "Manufacturing",
+        "products": "Produces leather and synthetic leather travel goods and containers.",
+        "cluster": 9
+    }
+}

@@ -1,0 +1,264 @@
+{
+    "1": {
+        "name": "Hallbergs Industri AB.",
+        "location": "Mölndal",
+        "business": "Tillverkar spiralfjädrar för industriella ändamål, möbelresårer, spiralstommar och spiralmadrasser",
+        "products": "Varumärke: »Peerless»",
+        "contact": {
+            "office": "Göteborgsvägen",
+            "phone": [
+                "272220"
+            ],
+            "postgiro": "40927",
+            "sales_offices": [],
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 900000,
+            "annual_production_value": 900000
+        },
+        "foundation_year": 1922,
+        "current_name_year": 1943,
+        "director": "Eric Mattelin",
+        "board": [
+            {
+                "name": "Hjalmar A. Hallberg",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Rolf Hallberg",
+                "role": "Disp."
+            },
+            {
+                "name": "Per Hallberg",
+                "role": "Fabrihschef"
+            },
+            {
+                "name": "Göran Bångstad",
+                "role": "Kamrer"
+            }
+        ],
+        "owners": [
+            "fabr. Eric Mattelin",
+            "fröken Elin Mattelin"
+        ],
+        "coordinates": {
+            "Latitude": 57.65,
+            "Longitude": 12.016667
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "C. C. Hallbergs Guldsmeds AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar juvel-, guld-, silver- och emalj arbeten, kuvert-, bosättnings-, prydnads- och nyttoföremål i silver och nysilver, prydnads- och nyttoföremål i tenn",
+        "products": null,
+        "contact": {
+            "office": "S:t Eriksg. 48",
+            "phone": [
+                "Hof juvelerare Hallberg"
+            ],
+            "postgiro": "2442",
+            "sales_offices": [],
+            "telegraph": "Hallbergs, Stockholm"
+        },
+        "financials": {
+            "capital": 5000000,
+            "employees": {
+                "industriarb": 400
+            },
+            "annual_turnover": 8000000,
+            "annual_production_value": 8000000
+        },
+        "foundation_year": 1860,
+        "corporation_year": 1896,
+        "board": [
+            {
+                "name": "N. Adlerstam",
+                "role": "disp."
+            },
+            {
+                "name": "Otto Decker",
+                "role": "dir."
+            },
+            {
+                "name": "E. Wedelin",
+                "role": "disp."
+            }
+        ],
+        "owners": [],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Halidéns Bleckvarufabrik",
+        "location": "Jönköping",
+        "business": "Tillverkar hylsor och beslag för termosflaskor samt stankproppar och stänkflaskor",
+        "products": null,
+        "contact": {
+            "phone": [
+                "1781"
+            ],
+            "postgiro": "277988",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 140000,
+            "annual_production_value": 140000
+        },
+        "foundation_year": 1909,
+        "corporation_year": 1945,
+        "board": [],
+        "owners": [],
+        "director": "Stig Thorén",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Otto Halidéns Fabriks o. Handels A B.",
+        "location": "Stockholm",
+        "business": "Ateljéer för tillverkning av klänningar, kjolar och blusar m. m.",
+        "products": null,
+        "contact": {
+            "office": "Hornsg. 36",
+            "phone": [
+                "440030"
+            ],
+            "postgiro": "652",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 105
+            },
+            "annual_turnover": 1795000,
+            "annual_production_value": 1795000
+        },
+        "foundation_year": 1898,
+        "board": [],
+        "owners": [],
+        "director": "Ivar Valldor",
+        "manager": "Hans Ohlsson",
+        "managing_director": "Ivar Valldor",
+        "sales_manager": "Hans Ohlsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Hallsbergs Läderindustri AB.",
+        "location": "Hallsberg",
+        "business": "Garveri i Hallsberg (Örebro l.). Tillverkar bottenläder",
+        "products": "Varumärken: »Behrns Ekläder» o. »Gröna oxen»",
+        "contact": {
+            "phone": [
+                "Hallsberg 5"
+            ],
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": 2000000,
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1898,
+        "director": "Johan Behrn",
+        "board": [
+            {
+                "name": "Johan Behrn",
+                "role": "dir."
+            },
+            {
+                "name": "Olga Olsson",
+                "role": "fröken"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.0665316,
+            "Longitude": 15.10229
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Hallsbergs Tegelbruk",
+        "location": "Hallsberg",
+        "business": "Tillverkar mur- och taktegel, dräneringsrör m. m. vid tegelbruk i Hallsberg (Örebro l.)",
+        "products": null,
+        "contact": {
+            "phone": [
+                "113"
+            ],
+            "postgiro": "135587",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": null,
+            "annual_production_value": "3 milj. st. tegelvaror"
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "Alfred Thermaenius",
+                "role": "disp. (ordf.)"
+            },
+            {
+                "name": "Gottfrid Thermaenius",
+                "role": "dir."
+            }
+        ],
+        "owners": [
+            "Eric Sunne"
+        ],
+        "coordinates": {
+            "Latitude": 59.0665316,
+            "Longitude": 15.10229
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "Hallsta Pappersbruk",
+        "location": "Hallstavik",
+        "business": "Se Holmens Bruks & Fabriks AB., Norrköping",
+        "coordinates": {
+            "Latitude": 60.05054750000001,
+            "Longitude": 18.5974883
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "Hallstahammars AB.",
+        "location": "Hallstahammar",
+        "business": "Järnverk med martin- och valsverk, tråddrageri, axelfabrik och elektrisk vattenkraftstation i Hallstahammar (Västmanl. l.). Tillverkar martingöt, valsat järn och stål, maskinriktade axelämnen, blank-rullat stål, svarvade, slipade och komprim",
+        "coordinates": {
+            "Latitude": 59.6132041,
+            "Longitude": 16.2294755
+        },
+        "cluster": 6
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "1": {
+        "name": "Ljugarns Snickerifabrik, Bergman & Co.",
+        "location": "Ljugarn, Gotl. l.",
+        "business": "Tillverkar byggnadssnickerier, trappor, köksinredningar samt furumöbler",
+        "contact": {
+            "phone": "24",
+            "postgiro": "34221"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 10
+            },
+            "annual_production_value": 80000
+        },
+        "foundation_year": 1925,
+        "coordinates": {
+            "Latitude": 57.3299188,
+            "Longitude": 18.7083941
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Ljungs Choklad- & Cacao-Fabrik, AB.",
+        "location": "Malmö",
+        "business": "Tillverkar choklad, cacao, cacaosmör, konfektyrer och karameller",
+        "contact": {
+            "office": "Celsiusg. 41",
+            "phone": "»Ljungs Industrier» o. 73030",
+            "postgiro": "38539"
+        },
+        "financials": {
+            "capital": 350000,
+            "employees": {
+                "antal industriarb.": 135
+            }
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1935,
+        "board": [
+            {
+                "name": "fabr. A. Efraim Ljung",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. G. Delvert",
+                "role": ""
+            },
+            {
+                "name": "dir.-assist. Henry Ljung",
+                "role": ""
+            }
+        ],
+        "director": "A. E. Ljung",
+        "managing_director": "A. E. Ljung",
+        "sales_manager": "Henry Ljung",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Ljungs Tegelbruk",
+        "location": "Linköping",
+        "business": "Tillverkar mur- och taktegel, beklädnadstegel, högporösa mellanväggsplattor samt dräneringsrör",
+        "contact": {
+            "office": "AB. Förenade Tegelbruken, Linköping",
+            "phone": "20201",
+            "postgiro": "97587"
+        },
+        "financials": {
+            "capital": 137000,
+            "employees": {
+                "antal industriarb.": 30
+            },
+            "annual_turnover": "2,5 milj. st. tegelvaror"
+        },
+        "foundation_year": 1910,
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Ljungaskogs AB.",
+        "location": "Mölndal",
+        "business": "Träsliperi i Svenljunga (Älvsb. l.). Tillverkar mek. trämassa",
+        "contact": {
+            "office": "Mölndal",
+            "phone": "Papyrus, Göteborg"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_production_value": "14,000 ton våt, vit trämassa för Papyrus pappersbruk"
+        },
+        "foundation_year": 1910,
+        "coordinates": {
+            "Latitude": 57.65,
+            "Longitude": 12.016667
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "AB. J. C. Ljungbergs Metallfabrik",
+        "location": "Jönköping",
+        "business": "Tillverkar möbel-, byggnads- och båtbeslag",
+        "contact": {
+            "phone": "908",
+            "postgiro": "23119"
+        },
+        "financials": {
+            "capital": 102000,
+            "employees": {
+                "antal industriarb.": 36
+            },
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1917,
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "AB. N. H. Ljungbergs Läderfabrik",
+        "location": "Borås",
+        "business": "Tillverkar bottenläder",
+        "contact": {
+            "phone": "17650",
+            "postgiro": "33786"
+        },
+        "financials": {
+            "capital": 777000,
+            "employees": {
+                "antal industriarb.": 65
+            }
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "fru E. Ljungberg",
+                "role": ""
+            },
+            {
+                "name": "med. lic. G. Wihman",
+                "role": ""
+            },
+            {
+                "name": "disp. Tore Wihman",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 1
+    }
+}

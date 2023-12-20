@@ -1,0 +1,161 @@
+{
+    "1": {
+        "name": "Sundsvalls Bryggeri AB.",
+        "location": "Sundsvall",
+        "products": "Tillverkar malt och maltdrycker, mineralvatten och läskedrycker.",
+        "contact": {
+            "phone": [
+                "\"Sundsvalls Bryggeri\""
+            ],
+            "postgiro": "134386"
+        },
+        "financials": {
+            "capital": 900000,
+            "employees": {
+                "industriarb": 34
+            },
+            "foundation_year": 1858,
+            "current_name_year": 1930
+        },
+        "board": [
+            {
+                "name": "hovrättsrådet B. Thuresson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. B. Nygren",
+                "role": "v. ordf."
+            },
+            {
+                "name": "fru H. Johansson",
+                "role": null
+            },
+            {
+                "name": "fru H. österman",
+                "role": null
+            }
+        ],
+        "managing_director": "B. Nygren",
+        "sales_manager": "Olle Wijkström",
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Sundsvalls Cellulosa AB.",
+        "location": "Sundsvall",
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "AB. Sundsvalls Elektriska Spisbrödsfabrik",
+        "location": "Sundsvall",
+        "products": "Tillverkar mjöl och gryn, fodermedel samt delikatess-, spis- och knäckebröd.",
+        "contact": {
+            "phone": [
+                "2212",
+                "3439"
+            ],
+            "postgiro": "75888"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_turnover": 500000,
+            "foundation_year": 1934
+        },
+        "managing_director": "ing. Gustaf Brattström",
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Sundsvalls Förenade Verkstäder",
+        "location": "Sundsvall",
+        "financials": {
+            "capital": 630000,
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": 2000000,
+            "foundation_year": 1905
+        },
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "Sundsvalls Perspektivfönster AB.",
+        "location": "Stockholm",
+        "products": "Försäljer perspektivfönster, dörrar, panel m. m., tillverkade vid Kubikenborgs Snickerifabrik, Svartviks AB., Sundsvall.",
+        "contact": {
+            "phone": [
+                "Cellulosabolaget"
+            ],
+            "postgiro": "57574"
+        },
+        "financials": {
+            "capital": 100000,
+            "foundation_year": 1941
+        },
+        "board": [
+            {
+                "name": "dir. Gust. Göranson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Rye Engström",
+                "role": null
+            },
+            {
+                "name": "disp. Arne Mörch",
+                "role": null
+            },
+            {
+                "name": "dir. K. Erik Nyberg",
+                "role": null
+            },
+            {
+                "name": "byggm. Eric S. Persson",
+                "role": null
+            }
+        ],
+        "managing_director": "Bengt Falk",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "Sundsviks Bruk AB.",
+        "location": "Sundsvik (Sthlms l.)",
+        "products": "Tillverkar sågade och hyvlade trävaror samt murtegel.",
+        "coordinates": {
+            "Latitude": 59.2316644,
+            "Longitude": 17.429115
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Sundsviks Såg & Hyvleri, Ingvald Övergaard",
+        "location": "Sunne",
+        "products": "Tillverkar sågade och hyvlade trävaror samt lister.",
+        "coordinates": {
+            "Latitude": 59.83655749999999,
+            "Longitude": 13.1440464
+        },
+        "cluster": 7
+    }
+}

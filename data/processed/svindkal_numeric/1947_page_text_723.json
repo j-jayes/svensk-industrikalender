@@ -1,0 +1,229 @@
+{
+    "1": {
+        "name": "Tranås Bryggeri AB",
+        "location": "Tranås",
+        "business": "Tillverkar maltdrycker och läskedrycker",
+        "contact": {
+            "phone": [
+                "4135"
+            ],
+            "postgiro": "22736"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 16
+            },
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1903,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Tranås Culdlistfabrik, Svensson & Hellberg",
+        "location": "Tranås",
+        "business": "Tillverkar ramlister och fotografiramar",
+        "contact": {
+            "telegraph": "Tranåslist, Tranås",
+            "phone": "2053",
+            "postgiro": "70107"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1920,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Tranås Kartongfabrik",
+        "location": "Tranås",
+        "contact": {
+            "telegraph": "Kartongfabriken, Tranås",
+            "phone": [
+                "2196",
+                "2212"
+            ],
+            "postgiro": "83000"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1914,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Tranås Kontorsmöbler",
+        "location": "Tranås",
+        "business": "Tillverkar kontorsmöbler",
+        "contact": {
+            "telegraph": "Kontorsmöbler, Tranås",
+            "phone": [
+                "2003",
+                "2833"
+            ],
+            "postgiro": "11701"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": 700000
+        },
+        "foundation_year": 1908,
+        "corporation_year": 1937,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Tranås Möbelfabriks AB",
+        "location": "Tranås",
+        "business": "Tillverkar bostadsmöbler såsom sovrums- och kompletteringsmöbler",
+        "contact": {
+            "phone": "2023",
+            "postgiro": "29710"
+        },
+        "financials": {
+            "capital": 130000,
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_production_value": 580000
+        },
+        "foundation_year": 1897,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "AB. Tranåspäls, Ringqvist & Co.",
+        "location": "Tranas",
+        "business": "Tillverkar dam- och barnpälsar, jackor, capes, colliers m.m.",
+        "contact": {
+            "phone": "2678",
+            "postgiro": "34741"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1945,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Tranås Pälsvarukompani AB",
+        "location": "Tranås",
+        "business": "Tillverkar pälsvaror och tygkappor för damer",
+        "contact": {
+            "phone": [
+                "2104",
+                "4060"
+            ],
+            "postgiro": "32858"
+        },
+        "financials": {
+            "capital": 36000,
+            "employees": {
+                "industriarb": 49
+            },
+            "annual_production_value": 700000
+        },
+        "foundation_year": 1942,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "AB. Tranås Skinnberederi",
+        "location": "Tranås",
+        "business": "Beredning och färgning av pälsskinn",
+        "contact": {
+            "telegraph": "Berederiet, Tranås",
+            "phone": [
+                "2830",
+                "2230"
+            ],
+            "postgiro": "11666"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1917,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 3
+    },
+    "9": {
+        "name": "Tranås Snickerifabrik AB",
+        "location": "Tranås",
+        "business": "Tillverkar skolmöbler",
+        "contact": {
+            "phone": "2163",
+            "postgiro": "11703"
+        },
+        "financials": {
+            "capital": 62500,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1933,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 8
+    },
+    "10": {
+        "name": "AB. Tranås Vagnfabrik",
+        "location": "Tranås",
+        "business": "Tillverkar omnibus-, skåpvagns- och lastbilskarosserier m.m.",
+        "contact": {
+            "telegraph": "Vagnfabriken, Tranås",
+            "phone": "2089",
+            "postgiro": "29446"
+        },
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 6
+    }
+}

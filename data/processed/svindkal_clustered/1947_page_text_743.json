@@ -1,0 +1,121 @@
+{
+    "1": {
+        "name": "Utansjö Cellulosa AB.",
+        "location": "Utansjö, Veda (Västernorrl. l.)",
+        "business": "Sulfitfabrik",
+        "products": "Tillverkar sulfitcellulosa",
+        "contact": {
+            "office": "Utansjö",
+            "telegraph": "Utansjö, Kramfors",
+            "phone": [
+                "Ramvik 9"
+            ],
+            "sales_offices": [
+                {
+                    "location": "Graningeverkens Försäljningskontor, Stockholm",
+                    "phone": "600312 o. 600344"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "2,400,000 kr",
+            "employees": {
+                "industriarb": 225
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "50,000 ton torr, oblekt, stark sulfitcellulosa"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "Tom Forssner",
+                "role": "adv"
+            },
+            {
+                "name": "G. J. Versteegh",
+                "role": "dir"
+            },
+            {
+                "name": "J. Gotthard Janson",
+                "role": "disp"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 62.773703,
+            "Longitude": 17.9164936
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB. Utländskt Trä",
+        "location": "Göteborg",
+        "business": "Sågverk och fanerfabrik",
+        "products": "Tillverkar sågade trävaror och faner",
+        "contact": {
+            "office": "Trolihätteg. 3",
+            "telegraph": "Utlandsträ, Göteborg",
+            "phone": [
+                "151494"
+            ],
+            "postgiro": "42111"
+        },
+        "financials": {
+            "capital": "183,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1912,
+        "board": [
+            {
+                "name": "Sven J. Larson",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Hjalmar Johansson",
+                "role": "Kontorschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "AB. Utnäs Tegelbruk",
+        "location": "Prästmon",
+        "business": "Tillverkar murtegel och högporöst tegel",
+        "contact": {
+            "phone": "53",
+            "postgiro": "97538"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "Not provided",
+            "annual_production_value": "1 milj. st. tegel"
+        },
+        "foundation_year": 1913,
+        "director": "ing. Ivar J. Dahlén",
+        "coordinates": {
+            "Latitude": 63.0824973,
+            "Longitude": 17.7524903
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Utsiktens Bryggeri",
+        "location": "Uddevalla",
+        "business": "Se AB. Pripp &amp; Lyckholm, Göteborg",
+        "coordinates": {
+            "Latitude": 58.3498003,
+            "Longitude": 11.935649
+        },
+        "cluster": 1
+    }
+}

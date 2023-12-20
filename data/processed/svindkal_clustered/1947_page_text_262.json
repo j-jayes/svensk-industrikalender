@@ -1,0 +1,185 @@
+{
+    "1": {
+        "name": "Elektromagneter—Elf ström transportvagnar",
+        "location": "Stockholm",
+        "business": "Ytbehandlingar",
+        "contact": {
+            "office": "S:t Eriksg. 63, Stockholm",
+            "telegraph": "Elektrolux, Stockholm",
+            "postgiro": "2030"
+        },
+        "financials": {
+            "capital": "45,000,000 kr",
+            "employees": {
+                "industriarb": 2400
+            }
+        },
+        "foundation_year": 1910,
+        "predecessor": "AB Arctic, Motala (grundat 1923), and AB Lux, Stockholm (grundat 1901)",
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "kommerserådet Axel F. En-ström",
+                "role": "ordf."
+            },
+            {
+                "name": "prof. K. M. G. Siegbahn",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. Axel O. Engberg",
+                "role": null
+            },
+            {
+                "name": "dir. Gust. J. Sahlin",
+                "role": null
+            },
+            {
+                "name": "adv. Sven Salmonson",
+                "role": null
+            },
+            {
+                "name": "sir Harold Wernher",
+                "role": null
+            },
+            {
+                "name": "dir. Sten Widell",
+                "role": null
+            }
+        ],
+        "director": "Gust. J. Sahlin",
+        "managing_director": "Gust. J. Sahlin",
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Elektro-Metallisator",
+        "location": "Stockholm",
+        "business": "Sandblästring och sprutmetallisering",
+        "contact": {
+            "office": "Norrlandsg. 12, Stockholm",
+            "telegraph": "Elmetallisator, Stockholm",
+            "phone": [
+                "113517",
+                "212080"
+            ],
+            "postgiro": "159300"
+        },
+        "financials": {
+            "capital": "31,000 kr",
+            "employees": {
+                "industriarb": 8
+            }
+        },
+        "foundation_year": 1940,
+        "director": "Bo Löfgren",
+        "board": [],
+        "owners": [],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Elektr o-Värme",
+        "location": "Borås",
+        "business": "Elektriskt bageriutrustning och elvärme",
+        "contact": {
+            "office": "Almedalsg. 3, Borås",
+            "phone": "29597",
+            "postgiro": "38504",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "17185"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 65
+            }
+        },
+        "foundation_year": 1932,
+        "director": null,
+        "board": [
+            {
+                "name": "fabr. Axel Andersson",
+                "role": "ordf."
+            },
+            {
+                "name": "verkstadschef Karl-Edvard Dahlén",
+                "role": null
+            },
+            {
+                "name": "dir. Allan Holmqvist",
+                "role": null
+            }
+        ],
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Elfsborgs Mek. Verkstad",
+        "location": "Göteborg",
+        "business": "Metallsprutor och plåtarbeten",
+        "contact": {
+            "office": "Kanaltorget 1, Göteborg",
+            "phone": "116519"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1912,
+        "director": "kapten Rudolf Hedberg",
+        "board": [],
+        "owners": [],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Elfströms Tekniska Fabrik",
+        "location": "Gävle",
+        "business": "Tillverkning av tvättvål och ljus",
+        "contact": {
+            "office": "N/A",
+            "telegraph": "Elfströmsfabrik, Gävle",
+            "postgiro": "21414"
+        },
+        "financials": {
+            "capital": "154,200 kr",
+            "employees": {
+                "industriarb": 21
+            }
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1927,
+        "director": "Öarl A. Elfström",
+        "board": [],
+        "owners": [],
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 1
+    }
+}

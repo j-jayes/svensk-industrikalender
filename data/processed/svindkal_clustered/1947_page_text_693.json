@@ -1,0 +1,196 @@
+{
+    "1": {
+        "name": "AB. Svenska Velocipedfabriken",
+        "location": "Stockholm",
+        "business": "Tillverkar velocipeder",
+        "products": "Varumärken: Union, Herkules, Svea, Trygg, Viking och Thor",
+        "contact": {
+            "office": "Bellmansg. 2",
+            "phone": [
+                "437065",
+                "437066"
+            ],
+            "postgiro": "637",
+            "telegraph": "Snabb, Stockholm"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1922,
+        "director": "Rolf Gille",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Svenska Väg AB.",
+        "location": "Stockholm",
+        "business": "Byggnadsentreprenörfirma för industribyggnader, gator, vägar, vatten och avlopp, vattenarbeten såsom kajer, kraftverk m.m. samt asfaltfabrik",
+        "products": "Tillverkar gatu- och vägbeläggningsämnen samt specialitet slungade betongrör. Varumärke for asfaltbeläggning: »Amiesite»",
+        "contact": {
+            "office": "Kaptensg. 6",
+            "phone": "679110",
+            "postgiro": "52333",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "110452"
+                }
+            ],
+            "telegraph": "Viacö, Stockholm"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "annual_production_value": "9,000,000 kr"
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "Tore Grönwall",
+                "role": "ordf."
+            },
+            {
+                "name": "Vilhelm Björkman",
+                "role": ""
+            },
+            {
+                "name": "Sven V. Erikson",
+                "role": "major"
+            },
+            {
+                "name": "Richard Julin",
+                "role": "bankdir."
+            },
+            {
+                "name": "Alexius Kleist",
+                "role": "dir."
+            }
+        ],
+        "director": "Sven V. Erikson",
+        "manager": "civiling. Bertil ^yllenberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Svenska Värme-Elektr. AB.",
+        "location": "Ulvsunda",
+        "business": "Elektromek. verkstad",
+        "products": "Tillverkar vat-tenvärmare, varmbord, värmeskåp, kylskåp och kyldiskar, spec. s. k. självserveringsdiskar för restauranger samt för personallunchrum och sjukhus, rostfria kantiner, behållare, arbetsbord och för-varingstankar. Varumärke: »Svea»",
+        "contact": {
+            "telegraph": "Elektrosvea, Stockholm",
+            "phone": [
+                "281255",
+                "281010"
+            ],
+            "postgiro": "52282"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "Gunnar Blomstrand",
+                "role": "ordf."
+            },
+            {
+                "name": "Gunnar Arnbrink",
+                "role": ""
+            }
+        ],
+        "director": "G. Blomstrand",
+        "sales_manager": "G. Arnbrink",
+        "coordinates": {
+            "Latitude": 59.33688530000001,
+            "Longitude": 17.9638876
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Svenska Yllekoncernen, AB.",
+        "location": "Tidan",
+        "business": "Ullspinneri, ylleväveri, färgeri och beredningsverk",
+        "products": "Tillverkar ullgarner, yllevävnader och filtar m.m.",
+        "contact": {
+            "office": "Borås",
+            "phone": "Yllekoncernen, Borås",
+            "postgiro": "6901",
+            "sales_offices": [
+                {
+                    "location": "Tidan",
+                    "phone": "Tidan 11"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "2,265,800 kr",
+            "employees": {
+                "industriarb": 170
+            },
+            "annual_turnover": "4,500,000 kr"
+        },
+        "foundation_year": 1911,
+        "coordinates": {
+            "Latitude": 58.5739538,
+            "Longitude": 14.0045851
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "AB. Svenskt Konstsilke",
+        "location": "Borås",
+        "business": "Konstsilkefabrik",
+        "contact": {
+            "phone": "Konstsilke, Borås",
+            "postgiro": "14941"
+        },
+        "financials": {
+            "capital": "2,400,000 kr",
+            "employees": {
+                "industriarb": 750
+            },
+            "annual_turnover": "15,000,000 kr"
+        },
+        "foundation_year": 1918,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "AB. Svenskt Kontrollregister",
+        "location": "Stockholm",
+        "business": "Tillverkar kassakontrollapparater",
+        "products": "Varumärke: »Hugin»",
+        "contact": {
+            "office": "Magnus Ladulåsg. 11",
+            "phone": "440230",
+            "postgiro": "250,000 kr"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1937,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    }
+}

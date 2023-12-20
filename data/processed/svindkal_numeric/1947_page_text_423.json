@@ -1,0 +1,269 @@
+{
+    "1": {
+        "name": "AB. Kemifa",
+        "location": "Partille",
+        "business": "Kemisk fabrik",
+        "products": "enzymprodukter, såsom pyrmedel och tvättmedel, sulf.-oljor, fetter för läder-, textil- och pappersindustrierna, klister, appreturmedel för textilindustrien, neutraliserings-och avkalkningsmedel för läderindustrien, degras, garvämnen m. m.",
+        "contact": {
+            "office": "Telefon: 409",
+            "phone": [
+                "409"
+            ],
+            "postgiro": "41277"
+        },
+        "financials": {
+            "capital": 50000,
+            "annual_turnover": 700000
+        },
+        "foundation_year": 1939,
+        "board": [
+            {
+                "name": "kapten Georg Österdahl",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "dr Kurt Schuller",
+                "role": "Kemist"
+            },
+            {
+                "name": "Erik Martinson",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.7366497,
+            "Longitude": 12.1251968
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Kemigrafiska AB",
+        "location": "Malmö",
+        "business": "Kemigrafisk anstalt, gravyranstalt och kautschukstämpelfabrik",
+        "products": "klichéer, teckningar, retusch och metallgravyr, etsade och tryckta maskinskyltar av metall samt tillverkar kautschukstämplar.",
+        "contact": {
+            "office": "Kontor: St. Ny g. 55",
+            "phone": [
+                "21894",
+                "23163"
+            ],
+            "postgiro": "38449"
+        },
+        "financials": {
+            "capital": 23850
+        },
+        "foundation_year": 1909,
+        "board": [
+            {
+                "name": "Anders S. Månsson",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "AB. Kemikalia",
+        "location": "Malmö",
+        "business": "Kemisk teknisk fabrik",
+        "products": "ostlöpe, ost- och smörfärger samt rengöringsmedel för mejerier.",
+        "contact": {
+            "office": "Kontor: Generalsg. 1",
+            "phone": [
+                "25695"
+            ],
+            "postgiro": "38089"
+        },
+        "financials": {
+            "capital": 50000,
+            "annual_turnover": 500000
+        },
+        "foundation_year": 1913,
+        "owners": [
+            "Svenska Mejeriernas Riksförening"
+        ],
+        "board": [
+            {
+                "name": "Albin Fosse",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. för Kemisk och Elektrokemisk Produktion",
+        "location": "Avesta",
+        "business": "Elektrokemisk fabrik",
+        "products": "vit och röd fosfor, fosforsyra, fosformetaller m. m. samt kiselkarbid.",
+        "contact": {
+            "office": "Huvudkontor: Månsbo, Avesta",
+            "phone": [
+                "Trollhättan 295"
+            ],
+            "postgiro": "267784"
+        },
+        "financials": {
+            "capital": 150000,
+            "annual_turnover": 1000000
+        },
+        "foundation_year": 1915,
+        "owners": [
+            "AB. Förenade Svenska Tändsticksfabriker, Jönköping"
+        ],
+        "board": [
+            {
+                "name": "ing. E. Lustig",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Arndt Kristiansson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Sten Sundgren",
+                "role": "Styrelse"
+            },
+            {
+                "name": "E. Lustig",
+                "role": "Verkst. dir."
+            },
+            "director"
+        ],
+        "manager": "Albert Wallin",
+        "coordinates": {
+            "Latitude": 60.14532999999999,
+            "Longitude": 16.1738399
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Kemiska Fabriks AB.",
+        "location": "Malmö",
+        "business": "Tillverkar metallsalter och kemiska preparat",
+        "products": "kromsalter, koppar- och kvicksilversalter, kobolt, nickel- och bly-salter.",
+        "contact": {
+            "office": "Kontor: Kopparbergsg. 23",
+            "phone": [
+                "24795",
+                "24895"
+            ],
+            "postgiro": "148244"
+        },
+        "financials": {
+            "capital": 25000,
+            "annual_turnover": 500000
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "dir. Kjell Knutson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Nils Adolf Knutson",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Kem. Tekn. Fabriken Triangeln AB.",
+        "location": "Malmö",
+        "business": "Tillverkar kosmetiska artiklar",
+        "products": "hårmedel, puder, smink, alunpreparat m. m.",
+        "contact": {
+            "office": "Kontor: Industrig. 14—18",
+            "phone": [
+                "22503",
+                "25935"
+            ],
+            "postgiro": "24513"
+        },
+        "financials": {
+            "capital": 40000,
+            "annual_turnover": 450000
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "ing. Gunnar Mårtenson",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Erik Mårtenson",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "AB. Kem. Tekn. Clasfabriken",
+        "location": "Nybro",
+        "business": "Tillverkar burkar, flaskor samt pressglas",
+        "contact": {
+            "phone": [
+                "757"
+            ],
+            "postgiro": "94986"
+        },
+        "financials": {
+            "capital": 12200,
+            "annual_turnover": 200000
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "disp. Arthur Mell-ström",
+                "role": "Verkst. dir. o. disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.745012,
+            "Longitude": 15.907874
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "Kemiska Fabriken D:r Ernst Harbeck AB.",
+        "location": "Partille",
+        "business": "Kemisk fabrik och mek. verkstad",
+        "products": "galvaniska bad, kemikalier och preparat",
+        "contact": {
+            "phone": [
+                "Göteb. o. Bohus l."
+            ],
+            "postgiro": "Unknown"
+        },
+        "financials": {
+            "capital": "Unknown",
+            "annual_turnover": "Unknown"
+        },
+        "foundation_year": "Unknown",
+        "board": [
+            {
+                "name": "Unknown",
+                "role": "Unknown"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.7366497,
+            "Longitude": 12.1251968
+        },
+        "cluster": 6
+    }
+}

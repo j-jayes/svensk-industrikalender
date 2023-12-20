@@ -1,0 +1,180 @@
+{
+    "1": {
+        "name": "Scandia Plywood AB",
+        "location": "Skattkärr",
+        "business": "Sågverk och plywoodfabrik",
+        "products": "Tillverkar plywood och lamellträ",
+        "contact": {
+            "office": "Skattkärr",
+            "phone": [
+                "43",
+                "47"
+            ],
+            "postgiro": "94374",
+            "factory_phone": "",
+            "sales_offices": [],
+            "telegraph": ""
+        },
+        "financials": {
+            "capital": 360000,
+            "employees": {
+                "industriarb": 84
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "Emil Danielsson",
+                "role": "disp."
+            }
+        ],
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.41224800000001,
+            "Longitude": 13.6709545
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Scania-Vabis",
+        "location": "Södertälje",
+        "business": "Automobil- och motorfabrik",
+        "products": "Tillverkar lastbilar, omnibusar, motorer, stålgjutgods, smiden m. m.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Scania-Vabis"
+            ],
+            "postgiro": "8408",
+            "factory_phone": "",
+            "sales_offices": [],
+            "telegraph": "Scania, Södertälje"
+        },
+        "financials": {
+            "capital": 5200000,
+            "employees": {
+                "industriarb": 1300
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1891,
+        "board": [
+            {
+                "name": "Lars Rabenius",
+                "role": "ordf."
+            }
+        ],
+        "manager": "",
+        "managing_director": "",
+        "coordinates": {
+            "Latitude": 59.197762,
+            "Longitude": 17.6201942
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Scharins Söner",
+        "location": "Klemensnäs",
+        "business": "Träsliperi, sågverk, hyvleri och wall-boardfabrik",
+        "products": "Tillverkar vit, våt och torr mek. trämassa, sågade och hyvlade trävaror samt wall-board (märke: »Ilnite»)",
+        "contact": {
+            "office": "Klemensnäs",
+            "phone": [
+                "Skellefteå 30190"
+            ],
+            "postgiro": "60822",
+            "factory_phone": "",
+            "sales_offices": [],
+            "telegraph": ""
+        },
+        "financials": {
+            "capital": 3000000,
+            "employees": {
+                "industriarb": 550
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1824,
+        "board": [
+            {
+                "name": "Helmer Stén",
+                "role": "ordf."
+            }
+        ],
+        "manager": "",
+        "director": "",
+        "sales_manager": "",
+        "coordinates": {
+            "Latitude": 64.71616019999999,
+            "Longitude": 21.1390514
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "AB. P. J. Scharin",
+        "location": "Landskrona",
+        "business": "Färg- och fernissfabrik",
+        "products": "Tillverkar oljerivna färger, spackelfärg, kitt, lackfärger och kopallacker",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Scharins Färghandel"
+            ],
+            "postgiro": "14550",
+            "factory_phone": "",
+            "sales_offices": [],
+            "telegraph": "Scharin, Landskrona"
+        },
+        "financials": {
+            "capital": 40000,
+            "employees": {
+                "arb": 10
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1897,
+        "board": [],
+        "manager": "Sture .Scharin",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "AB. Schaub & Co.",
+        "location": "Stockholm, Göteborg o. Malmö",
+        "business": "Tarmrenserier och talgsmälterier",
+        "products": "Förädlar tarmar för charkuteriändamål, framställer talg och fett. Varumärke: »Tri-pas». Firman driver även handel med konsttarmar (märke: »Naturin»), charkuteri- och bagerimaskiner samt utensilier",
+        "contact": {
+            "office": "",
+            "phone": [
+                "492630",
+                "150320"
+            ],
+            "postgiro": "",
+            "factory_phone": "",
+            "sales_offices": [],
+            "telegraph": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 0,
+        "board": [],
+        "manager": "",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    }
+}

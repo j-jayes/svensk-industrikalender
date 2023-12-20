@@ -1,0 +1,232 @@
+{
+    "1": {
+        "name": "AB. Sveriges Förenade Filfabriker",
+        "location": "Traryd",
+        "business": "Tillverkar filar och raspar samt utför omhuggning av filar vid fabrik i Traryd (Kronob. l.)",
+        "products": "Varumärke: »SFF».",
+        "contact": {
+            "office": "avd.-kontor: Stockholm, Kungsg. 84",
+            "phone": [
+                "533712"
+            ],
+            "postgiro": "37590",
+            "telegraph": "Filfabrikerna, Traryd"
+        },
+        "financials": {
+            "capital": "251,600 kr",
+            "employees": {
+                "total": 55
+            }
+        },
+        "foundation_year": 1892,
+        "corporation_year": 1920,
+        "board": [
+            {
+                "name": "ing. Ph. Rudd",
+                "role": "Verkställande direktör"
+            },
+            {
+                "name": "fru M. Svensson",
+                "role": "Styrelsemedlem"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.5783672,
+            "Longitude": 13.7477129
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Sveriges Förenade Hattfabriker",
+        "location": "Malmö",
+        "business": "Bolaget utgör holding company för fabriksföretaget AB. Malmö Stråhatt-fabrik i Malmö",
+        "contact": {
+            "office": "Kontor: Malmö, Baltzarsg. 41",
+            "phone": [
+                "71260"
+            ],
+            "telegraph": "Hattfabrikerna, Malmö"
+        },
+        "financials": {
+            "capital": "200,000 kr"
+        },
+        "foundation_year": 1924,
+        "board": [
+            {
+                "name": "bankdir. Ivar Åkerman",
+                "role": "Styrelsens ordförande"
+            },
+            {
+                "name": "dir. Carl Hanström",
+                "role": "Verkställande direktör"
+            },
+            {
+                "name": "dir.-assist. Carl Malmberg",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "disp. C.-E. Åkerman",
+                "role": "Styrelsemedlem"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Sveriges Förenade Konservfabriker",
+        "location": "Göteborg",
+        "business": "Tillverkar konserver av fisk, grönsaker, frukt och kött samt såser vid fabriker i Göteborg, Lysekil, Strömstad, Grebbestad, Gullholmen, Hamburgsund och Kristianstad",
+        "products": "Varunamn: »Fyrtornet», »Fyrmästare-sill», »Grebbestads hummeransjovis», »Kungssardiner», »Kungssill», »Molinders», »Måsen», »Radhes hushållsansjovis», »Stjärnfiléer», »Vikend-Sill» m. fl.",
+        "contact": {
+            "office": "Huvudkontor: Göteborg, St. Nyg. 17",
+            "phone": [
+                "201442",
+                "201443"
+            ],
+            "telegraph": "Fyrtornet, Göteborg",
+            "postgiro": "40347"
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "total": 600
+            }
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "prof. Åke Hassler",
+                "role": "Styrelsens ordförande"
+            },
+            {
+                "name": "dir. Sven Colliander",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "dir. Sven Engdahl",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "disp. Franz Hartmann",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "dir. L. Hill-Lindquist",
+                "role": "Styrelsemedlem"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Sveriges Förenade Linnefabrikers AB.",
+        "location": "Alingsås",
+        "business": "Tillverkar vita och kulörta skjortor, stärkskjortor, herrkragar, pyjamas, blusar, klänningar m. m.",
+        "contact": {
+            "office": "Huvudkontor: Alingsås",
+            "phone": [
+                "113315"
+            ],
+            "telegraph": "Linne, Alingsås",
+            "postgiro": "12012"
+        },
+        "financials": {
+            "capital": "430,000 kr",
+            "employees": {
+                "total": 300
+            },
+            "annual_turnover": "3,000,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "dir. Clas Erikson",
+                "role": "Styrelsens ordförande"
+            },
+            {
+                "name": "ryttm. H. L. v. Bornstedt",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "dir. Hj. Grahl",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "bankdir. Bertil Odelfelt",
+                "role": "Styrelsemedlem"
+            }
+        ],
+        "manager": "Verkställande direktör: Hj. Grahl",
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Sveriges Förenade Trikå-fabriker",
+        "location": "Borås",
+        "business": "Trikåfabriker med spinnerier och färgerier. Tillverkar trikåvaror dels vid tio fabriker i Borås, dels vid fabriker i Malmö, Mölndal, Fritsla, Strömsfors, Uddebo och Vegby (sistnämnda fyra i Älvsb. l.)",
+        "products": "Varumärke: »Eiser».",
+        "contact": {
+            "office": "Huvudkontor: Borås",
+            "phone": [
+                "102686"
+            ],
+            "telegraph": "Eiser, Borås",
+            "postgiro": "9350",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "102686"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "10,100,000 kr",
+            "employees": {
+                "total": 2500
+            },
+            "annual_turnover": "34,000,000 kr"
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "dir. Carl Eiserman",
+                "role": "Styrelsens ordförande"
+            },
+            {
+                "name": "civiling. N. W. Hörstadius",
+                "role": "Vice ordförande"
+            },
+            {
+                "name": "dir. S. Bergengren",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "dir. Petrus Skoglund",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "bankdir. Helmer Stén",
+                "role": "Styrelsemedlem"
+            },
+            {
+                "name": "grossh. S. Vetterlein",
+                "role": "Styrelsemedlem"
+            }
+        ],
+        "manager": "Verkställande direktör: Carl Eiserman",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    }
+}

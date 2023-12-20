@@ -1,0 +1,230 @@
+{
+    "1": {
+        "name": "Svenska Formalin AB",
+        "location": "Stockholm",
+        "business": "Tillverkar formalin och lösningsmedel",
+        "products": "Tillverkar formalin och lösningsmedel vid fabrik i Sickla (Sthlms l.)",
+        "contact": {
+            "office": "Stockholm 11",
+            "phone": [
+                "440800"
+            ],
+            "postgiro": "191869"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "0 kr"
+        },
+        "foundation_year": 1942,
+        "board": [
+            {
+                "name": "dir. Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Lars Amundsen",
+                "role": ""
+            },
+            {
+                "name": "ing. Petrus Hellman",
+                "role": ""
+            },
+            {
+                "name": "disp. Gösta Osvald",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Svenska Fruktföreningen u. p. a.",
+        "location": "Urshult",
+        "business": "Fabrik för konservering av frukt",
+        "products": "Tillverkar äppelmos, marmelad, sylt, saft samt fruktvin",
+        "contact": {
+            "office": "Urshult",
+            "phone": [
+                "23",
+                "24"
+            ],
+            "postgiro": "11436"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "0 kr"
+        },
+        "foundation_year": 1915,
+        "current_name_year": 1920,
+        "board": [
+            {
+                "name": "dir. Harald Engström",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Ivan Nordgren",
+                "role": ""
+            },
+            {
+                "name": "kamrer Erik Stanler",
+                "role": ""
+            },
+            {
+                "name": "överstelöjtn. Knut Stanler",
+                "role": ""
+            },
+            {
+                "name": "ing. H. Tarstad",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.5312804,
+            "Longitude": 14.8146271
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Svenska Färg- & Kritverken",
+        "location": "Kvarnby",
+        "business": "Tillverkar slammad krita",
+        "products": "Tillverkar slammad krita vid slammeri i Lärje vid Göteborg",
+        "contact": {
+            "office": "Kvarnby (Malmöh. l.)",
+            "phone": [
+                "Malmö 490551-52"
+            ],
+            "postgiro": "12108"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 11
+            },
+            "annual_turnover": "0 kr",
+            "annual_production_value": "0 kr"
+        },
+        "corporation_year": 1913,
+        "board": [],
+        "coordinates": {
+            "Latitude": 55.566667,
+            "Longitude": 13.1
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Svenska Förnickfingsfabriken",
+        "location": "Stockholm",
+        "business": "Utför förnickling, förkromning, fosfat",
+        "products": "Utför förnickling, förkromning, fosfa-tering, galvanisering och slipning",
+        "contact": {
+            "office": "Tuleg. 19",
+            "phone": [
+                "235915"
+            ],
+            "postgiro": "52711"
+        },
+        "financials": {
+            "capital": "22,300 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "350,000 kr",
+            "annual_production_value": "0 kr"
+        },
+        "foundation_year": 1931,
+        "corporation_year": 1932,
+        "board": [],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Svenska Cardinfabriken",
+        "location": "Göteborg",
+        "business": "Tillverkar gardiner, stores, täcken",
+        "products": "Tillverkar gardiner, stores, täcken m. m.",
+        "contact": {
+            "office": "Mölndalsvägen 26",
+            "phone": [
+                "160628"
+            ],
+            "postgiro": "9529"
+        },
+        "financials": {
+            "capital": "525,000 kr",
+            "employees": {
+                "industriarb": 58
+            },
+            "annual_turnover": "0 kr",
+            "annual_production_value": "0 kr"
+        },
+        "foundation_year": 1894,
+        "board": [
+            {
+                "name": "adv. Wilhelm Kjellström",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Ilugo Hasselbaleh",
+                "role": ""
+            },
+            {
+                "name": "kammarherre Harry Hedenstierna",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "AB. Svenska AB. Casaccumulator (Aga)",
+        "location": "Stockholm-Lidingö",
+        "business": "Mek. och elektromek. verkstäder",
+        "products": "Bolaget tillverkar acetylene gas, oxygen gas, nitrogen gas, etc.",
+        "contact": {
+            "office": "Skärsätra, Lidingö",
+            "phone": [],
+            "postgiro": ""
+        },
+        "board": [
+            {
+                "name": "dir. Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Lars Amundsen",
+                "role": ""
+            },
+            {
+                "name": "ing. Petrus Hellman",
+                "role": ""
+            },
+            {
+                "name": "disp. Gösta Osvald",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.36295999999999,
+            "Longitude": 18.1468
+        },
+        "cluster": 6
+    }
+}

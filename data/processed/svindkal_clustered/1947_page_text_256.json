@@ -1,0 +1,181 @@
+{
+    "1": {
+        "name": "AB Ekens Fabriker",
+        "location": "Tollarp",
+        "business": "Vadd-, täck- och madrassfabrik samt väveri",
+        "description": "Tillverkar täcken, madrasser och kuddar samt möbeltyger. Bolaget driver även engros-handel med gardiner, mattor och filtar.",
+        "contact": {
+            "office": "Carlsg. 22",
+            "phone": [
+                "327",
+                "328"
+            ],
+            "postgiro": "160003"
+        },
+        "financials": {
+            "capital": "85,400 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1939,
+        "director": "fabr. Sven Bertil Nelson",
+        "contact_person": "Hugo Jeppsson",
+        "coordinates": {
+            "Latitude": 55.9344942,
+            "Longitude": 13.9744406
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "AB Ekensbergs Varv",
+        "location": "Stockholm",
+        "business": "Skeppsvarv och mek. verkstad",
+        "description": "Utför fartygsbyggnader och reparationer, grovplåtsarbeten, cisterner, fackverkskonstruktioner och brobyggnader, smiden, maskin-, rör- och träarbeten samt elektr. svetsade arbeten m. m.",
+        "contact": {
+            "office": "Postadr.: Stockholm 9",
+            "phone": "452745",
+            "telegraph": "Ekenvarv, Stockholm",
+            "postgiro": "151293"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 370
+            }
+        },
+        "foundation_year": 1870,
+        "director": "Åke Tygård",
+        "board": [
+            {
+                "name": "Sven Salén",
+                "role": "skeppsred."
+            },
+            {
+                "name": "Herrman Nachmanson",
+                "role": "bankdir."
+            },
+            {
+                "name": "Helge G. Norlander",
+                "role": "dir."
+            },
+            {
+                "name": "Karl Ohlsson",
+                "role": "maskininsp."
+            },
+            {
+                "name": "Åke Tygård",
+                "role": "civiling."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Ekenäs Glasbruk AB.",
+        "location": "Ekenäs (Jönköp. l.)",
+        "business": "Glasbruk",
+        "description": "Tillverkar kristallglas, hushållsglas, prydnadsglas, konservglas, textade och otextade ståndkärl, glas för kem.-tekn. industri samt medicin- och laboratorieglas.",
+        "contact": {
+            "telegraph": "Glasbruket, Vetlanda",
+            "phone": [
+                "Ekenässjön 18",
+                "46"
+            ],
+            "postgiro": "133300"
+        },
+        "financials": {
+            "capital": "62,400 kr",
+            "employees": {
+                "industriarb": 145
+            }
+        },
+        "coordinates": {
+            "Latitude": 57.49850059999999,
+            "Longitude": 15.0070236
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Joh. Ekhoims Skofabrik",
+        "location": "Uppsala",
+        "business": "Tillverkar arbets- och barnskodon",
+        "description": "",
+        "contact": {
+            "phone": [
+                "31348",
+                "34437"
+            ],
+            "postgiro": "32898"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Eklund & Co. Textil AB.",
+        "location": "Göteborg",
+        "business": "Ullspinneri",
+        "description": "Tillverkar kardgarner samt hemstickade trikåvaror. Varumärke: »Bohusgarn». Bolaget driver även handel med manufakturvaror.",
+        "contact": {
+            "office": "Kungstorget 8",
+            "phone": "136411"
+        },
+        "financials": {
+            "capital": "85,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Helmer Ekman Kartongindustri",
+        "location": "Jönköping",
+        "business": "Kartongfabrik med tryckeri",
+        "description": "Tillverkar konfektionskartonger, industriförpackningar i massupplagor, konditori- och bagerikartonger samt tårtpapper.",
+        "contact": {
+            "telegraph": "Ekartong, Jönköping",
+            "phone": "4271—73",
+            "postgiro": "36878"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 5
+    },
+    "7": {
+        "name": "Ekolsunds Tegelbruk & Sågverk",
+        "location": "Ekolsund (Uppsala l.)",
+        "business": "Tegelbruk, sågverk och hyvleri",
+        "description": "Tillverkar mur-och taktegel, klint- och reveteringstegel, dräneringsrör m.m. samt sågade och hyvlade trävaror.",
+        "coordinates": {
+            "Latitude": 59.61970050000001,
+            "Longitude": 17.3766542
+        },
+        "cluster": 7
+    }
+}

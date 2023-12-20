@@ -1,0 +1,239 @@
+{
+    "1": {
+        "name": "Dalsjöfors Konfektionsfabrik",
+        "location": "Dalsjöfors",
+        "business": "Tillverkar herr- och gosskostymer, byxor, ytterrockar m. m.",
+        "products": "Varumärke: »Da-Ko»",
+        "contact": {
+            "office": "Dalsjöfors",
+            "phone": [
+                "Borås 70206",
+                "Borås 70032"
+            ],
+            "postgiro": "175881",
+            "head_office": "Dalsjöfors"
+        },
+        "financials": {
+            "capital": "62,400 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1917,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "John Svenningson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.7177221,
+            "Longitude": 13.1027254
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Dalskogs Ångsåg & Träförädlings AB.",
+        "location": "Dalskog",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Tillverkar byggnadssnickerier och inredningar.",
+        "contact": {
+            "office": "Dalskog",
+            "phone": [
+                "43",
+                "46"
+            ],
+            "postgiro": "80268",
+            "sales_offices": [
+                {
+                    "location": "Bäckefors",
+                    "phone": "XX"
+                },
+                {
+                    "location": "Mellerud",
+                    "phone": "XX"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "212,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "corporation_year": 1927
+        },
+        "board": [
+            {
+                "name": "J. Niklas Jonasson",
+                "role": "ordf."
+            },
+            {
+                "name": "S. Balder",
+                "role": "kontorschef"
+            },
+            {
+                "name": "Carl O. Jonasson",
+                "role": "disp."
+            }
+        ],
+        "director": "J. Niklas Jonasson",
+        "coordinates": {
+            "Latitude": 58.74829449999999,
+            "Longitude": 12.2883665
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Dalslands Byggnadssnickeri AB.",
+        "location": "Åmål",
+        "business": "Tillverkar fönster, dörrar och köksinredningar",
+        "coordinates": {
+            "Latitude": 59.05111699999999,
+            "Longitude": 12.6977323
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Dama-Verken, AB. Damm- & Spårs-ledningar",
+        "location": "Malmö",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar centrifugal-fläktar, axialfläktar, varmluftsbatterier och varmluftstemprar",
+        "contact": {
+            "office": "Malmö",
+            "phone": [
+                "25924",
+                "22954",
+                "19954"
+            ],
+            "telegraph": "Ventilator, Malmö",
+            "postgiro": "149393"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "industriarb": 60
+            }
+        },
+        "board": [
+            {
+                "name": "civiling. O. Winkler",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. F. Juhlin",
+                "role": "ing. F. Juhlin"
+            },
+            {
+                "name": "avd.-chef A. Norén",
+                "role": "avd.-chef"
+            }
+        ],
+        "director": "O. Winkler",
+        "managing_director": "O. Winkler",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Damkappor",
+        "location": "Kristianstad",
+        "business": "Tillverkar damkappor och damdräkter",
+        "contact": {
+            "office": "Kristianstad",
+            "phone": "11297",
+            "postgiro": "8760"
+        },
+        "financials": {
+            "capital": "1,250,000 kr",
+            "employees": {
+                "industriarb": 280
+            }
+        },
+        "board": [
+            {
+                "name": "disp. David Kristensson",
+                "role": "disp."
+            },
+            {
+                "name": "dir. Bengt Lithander",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Georg Lithander",
+                "role": "dir."
+            }
+        ],
+        "director": "Georg Lithander",
+        "coordinates": {
+            "Latitude": 56.0293936,
+            "Longitude": 14.1566778
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Damklädningar",
+        "location": "Borås",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar dam-och flickklänningar, dräkter och jumpers.",
+        "contact": {
+            "office": "Borås",
+            "phone": "Eiser, Borås"
+        },
+        "financials": {
+            "capital": "5,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "200,000 kr"
+        },
+        "board": [
+            {
+                "name": "Carl Eiser man",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "Axel Lindstedt",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Danhults Tegelbruks AB.",
+        "location": "Hälsingborg",
+        "business": "Tillverkar murtegel och dräneringsrör",
+        "products": "Årstillv.: 2 milj. st. tegelvaror.",
+        "contact": {
+            "office": "Hälsingborg",
+            "phone": "10970",
+            "postgiro": "14468"
+        },
+        "financials": {
+            "capital": "35,300 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "corporation_year": 1890,
+        "board": [
+            {
+                "name": "ing. Thore Lindberg",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 0
+    }
+}

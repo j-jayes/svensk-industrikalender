@@ -1,0 +1,265 @@
+{
+    "1": {
+        "name": "Linköpings Tagelspinneri, Wilh. Malmesten",
+        "location": "Linköping",
+        "business": "Tillverkar tagel för möbler och sängutrustningar m. m.",
+        "contact": {
+            "telegraph": "Tagelspinneriet, Linköping",
+            "phone": [
+                "21595"
+            ],
+            "postgiro": "11366"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1919,
+        "director": "disp. Wilh. Malmesten",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Linköpings Tekniska Industri AB.",
+        "location": "Linköping",
+        "business": "Tillverkar skydds- och svetsarglasögon, arbetarskyddsmateriel samt tillbehör för mösstillverkning såsom mösskärmar, stormremmar m. m. Bolaget driver även handel med sjuk-vårdsmateriel.",
+        "contact": {
+            "telegraph": "Ellti, Linköping",
+            "phone": [
+                "29790"
+            ],
+            "postgiro": "96970",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Gasverksvägen",
+                    "phone": "206411"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "12,200 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1935,
+        "corporation_year": 1939,
+        "director": "Verkst. dir.-. Gustaf Bigfeldt",
+        "board": [
+            {
+                "name": "Gustaf Bigfeldt",
+                "role": "Verkst. dir.-"
+            },
+            {
+                "name": "Lennart Lönn",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Linköpings Trikåfabrik",
+        "location": "Linköping",
+        "business": "Tillverkar trikåvaror i konstsilke och bomull, spec. dam- o. barnunderkläder.",
+        "contact": {
+            "phone": [
+                "23558"
+            ],
+            "postgiro": "75033"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1930,
+        "director": "ing. Rolf Darnolf",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "AB. Linköpings Wellpappfabrik",
+        "location": "Linköping",
+        "business": "Wellpappfabrik vid Malmslätt (Östergötl. l.).",
+        "contact": {
+            "phone": [
+                "20418"
+            ],
+            "postgiro": "25305"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "Erik Ziegler",
+                "role": "Verkst. direktör"
+            },
+            {
+                "name": "Gösta Ziegler",
+                "role": "Fabr."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Linnefabriken Ideal",
+        "location": "Göteborg",
+        "business": "Syfabrik. Tillverkar skjortor, kragar, pyjamas, skyddsrockar och slipsar m. m.",
+        "contact": {
+            "phone": [
+                "180636"
+            ],
+            "postgiro": "41558"
+        },
+        "financials": {
+            "annual_production_value": "175,000 kr"
+        },
+        "foundation_year": 1925,
+        "director": "dir. Hj. Hellsén",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "AB. Linnefabriken Merkur",
+        "location": "Göteborg",
+        "business": "Vitvarufabrik. Tillverkar kragar, skjortor, pyjamas, halsdukar m. m.",
+        "contact": {
+            "phone": [
+                "145002"
+            ],
+            "postgiro": "8884"
+        },
+        "financials": {
+            "capital": "350,000 kr",
+            "employees": {
+                "industriarb": 280
+            },
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "Folke Ellioth",
+                "role": "disp."
+            },
+            {
+                "name": "fru M. Ellioth",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Gösta Johnson",
+                "role": "Kontorschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "AB Linnefabriken Weco",
+        "location": "Ängelholm",
+        "business": "Konfektionsfabrik i Rebbelberga, Ängelholm. Tillverkar städrockar, klänningar, förkläden, gymnastikbyxor, örngott och lakan m. m.",
+        "contact": {
+            "phone": [
+                "444"
+            ],
+            "postgiro": "99333"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "Erik Flyger",
+                "role": "disp."
+            },
+            {
+                "name": "konsul Lars Ringborg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "civiling. Sven Skoglund",
+                "role": "Styrelse"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.245748,
+            "Longitude": 12.863881
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "Linoleum AB. Forshaga",
+        "location": "Göteborg",
+        "business": "Fabrik för tillverkning av linoleum och mattor av filtpapp (de sistnämnda av märket »Götaleum»).",
+        "contact": {
+            "phone": [
+                "162034—36",
+                "165184",
+                "169734"
+            ],
+            "postgiro": "44440",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "230575"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "162034—35"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "4,000,000 kr",
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_production_value": "10,350,000 kr"
+        },
+        "foundation_year": 1896,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 8
+    }
+}

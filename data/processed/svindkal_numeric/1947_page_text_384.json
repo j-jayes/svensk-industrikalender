@@ -1,0 +1,367 @@
+{
+    "1": {
+        "name": "Höglunds Vagnfabrik, H. Höglund A Co.",
+        "location": "Säffle",
+        "business": "Tillverkar omnibuskarosserier för landsvägsbussar",
+        "contact": {
+            "office": "Fabrik i Säffle (Värml. l.)",
+            "phone": [
+                "178",
+                "778"
+            ],
+            "postgiro": "136278"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "Antal industriarb.": 40
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1913,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": [
+            "fabr. K. G. Höglunds sterbhus"
+        ],
+        "director": "fabr. Helge Höglund",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.132661,
+            "Longitude": 12.930107
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Kasper Höglund",
+        "location": "Stockholm",
+        "business": "Byggnad sentreprenörfirma för bostads-och affärshus, industribyggnader samt för väg- och vattenbyggnadsarbeten, tun-nel- och bergrumsanläggningar m. m.",
+        "contact": {
+            "office": "Drottningg. 27",
+            "phone": [
+                "234290"
+            ],
+            "postgiro": "56067",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "116263—64"
+                }
+            ],
+            "telegraph": "Kasplund, Stockholm"
+        },
+        "financials": {
+            "capital": 600000,
+            "employees": null,
+            "annual_turnover": "c:a 7,000,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1889,
+        "current_name_year": 1910,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "bankdir. Gösta Winbergh",
+                "role": "(ordf.)"
+            },
+            {
+                "name": "dir. G. Fredrik Hazén",
+                "role": ""
+            },
+            {
+                "name": "bankdir. Sigurd Melin",
+                "role": ""
+            },
+            {
+                "name": "civiling. Archim Skjöldebrand",
+                "role": ""
+            },
+            {
+                "name": "dir. Bertil Skjöldebrand",
+                "role": ""
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": "B. Skjöldebrand",
+        "sales_manager": null,
+        "manager": "Harald Eliaeson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Högoms Tegelbruk",
+        "location": "Sundsvall",
+        "business": null,
+        "contact": null,
+        "financials": null,
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": "AB. Kolirnporten-Laurents, Sundsvall",
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "Högs Tegelbruk",
+        "location": "Västanhög",
+        "business": "Tillverkar murtegel, lättmurtegel, hög-poröst murtegel, fasadtegel, brunntegel och dräneringsrör vid tegelbruk i Hög, Västanhög (Malmöh. l.)",
+        "contact": {
+            "phone": [
+                "Kävlinge 25"
+            ],
+            "postgiro": "97429"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "Antal industriarb.": 25
+            },
+            "annual_turnover": null,
+            "annual_production_value": "2,5 milj. st. tegelvaror"
+        },
+        "foundation_year": 1923,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": [
+            "ing. John Ahlström"
+        ],
+        "director": "ing. John Ahlström",
+        "managing_director": "Thord Ahlström",
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Högsby Möbelfabriks AB.",
+        "location": "Högsby",
+        "business": "Tillverkar beställningsmöbler",
+        "contact": {
+            "phone": [
+                "32"
+            ],
+            "postgiro": "23756"
+        },
+        "financials": {
+            "capital": 72000,
+            "employees": {
+                "Antal industriarb.": 29
+            },
+            "annual_turnover": 155000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1899,
+        "current_name_year": 1925,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": "Hjalmar Kullberg",
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.17260400000001,
+            "Longitude": 16.020619
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "Högsby Tegelbruk A Lervarufabrik",
+        "location": "Högsby",
+        "business": "Tillverkar taktegel, murtegel och dräneringsrör vid tegelbruk i Högsby (Kalmar l.)",
+        "contact": {
+            "phone": [
+                "111"
+            ],
+            "postgiro": "23084"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "Antal industriarb.": 22
+            },
+            "annual_turnover": null,
+            "annual_production_value": "2 milj. st. tegelvaror"
+        },
+        "foundation_year": 1921,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": "disp. Algot Ullman",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": "Filip Ericson",
+        "coordinates": {
+            "Latitude": 57.17260400000001,
+            "Longitude": 16.020619
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "Högsjö Maskinfiltfabrik",
+        "location": "Högsjö",
+        "business": "Se Schullström & Sjöströms Fabriks AB.",
+        "contact": null,
+        "financials": null,
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.028904,
+            "Longitude": 15.6664749
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "Carl Högström",
+        "location": "Göteborg",
+        "business": "Se Svenska Konfektionsfabriken, Carl Högström AB.",
+        "contact": null,
+        "financials": null,
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "9": {
+        "name": "Einar Höij Cjuteri A Mek. Verkstad",
+        "location": "Nybro",
+        "business": "Tillverkar beställningsgjutgods speciellt smågjutgods för maskin- och byggnadsindustrin",
+        "contact": {
+            "phone": [
+                "223",
+                "523"
+            ],
+            "postgiro": "20579"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "Antal industriarb.": 10
+            },
+            "annual_turnover": 150000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1924,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": "fabr. Einar Höij",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 56.745012,
+            "Longitude": 15.907874
+        },
+        "cluster": 6
+    },
+    "10": {
+        "name": "AB. Hörle Tråd- A Spikfabrik",
+        "location": "Malmö",
+        "business": "Tråddrageri och spikfabrik i Hörle (Jönköp. l.)",
+        "contact": {
+            "office": "kallvalsad plattråd",
+            "phone": [
+                "»Tho-mées järn»"
+            ],
+            "postgiro": "14063",
+            "sales_offices": [
+                {
+                    "location": "Malmö",
+                    "phone": "Engelbrektsg. 11"
+                }
+            ],
+            "telegraph": "Edwin, Malmö"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "Antal industriarb.": 40
+            },
+            "annual_turnover": 1200000,
+            "annual_production_value": null
+        },
+        "foundation_year": null,
+        "current_name_year": 1918,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "konsul Edw. H. Thomée",
+                "role": "(ordf.)"
+            },
+            {
+                "name": "fil. lic. iUlan Bäckman",
+                "role": ""
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": "Allan Bäckman",
+        "sales_manager": null,
+        "manager": "John Persson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    }
+}

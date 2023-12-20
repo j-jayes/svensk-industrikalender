@@ -1,0 +1,288 @@
+{
+    "1": {
+        "name": "Svensk Torvförädling AB",
+        "location": "Sösdala",
+        "business": "Tillverkar torvbriketter vid fabrik i Sösdala (Kristianst. l.)",
+        "contact": {
+            "telegraph": "Kronbrikett, Sösdala",
+            "phone": [
+                "Ljungarum 34"
+            ],
+            "postgiro": "",
+            "office": "",
+            "head_office": "",
+            "sales_offices": [],
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 5000000,
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "foundation_year": 1939,
+        "board": [
+            {
+                "name": "f. d. hovrättsrådet Bernt Lindskog",
+                "role": "ordf."
+            },
+            {
+                "name": "f. d. byråchef Erik Rendahl",
+                "role": "v. ordf."
+            },
+            {
+                "name": "Ture Flyboo",
+                "role": "ombudsm."
+            },
+            {
+                "name": "Erik Höjer",
+                "role": "överjägm."
+            },
+            {
+                "name": "Albin Lind",
+                "role": "red."
+            },
+            {
+                "name": "Lage Malm",
+                "role": "prof."
+            },
+            {
+                "name": "Rudolf Meidner",
+                "role": "sekr."
+            },
+            {
+                "name": "Olle Uddgren",
+                "role": "dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.0405672,
+            "Longitude": 13.678025
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Svenska Ackumulator AB. Jungner",
+        "location": "Stockholm",
+        "business": "Tillverkar NIFE alkaliska ackumulatorer, signalapparater, strålkastare, lyktor, kompletta belysningsinstallationer för fiskebåtar, bog-serbåtar o. d., vind-elverk, förgasare, filter, optiska instrument, linser och prismor.",
+        "contact": {
+            "telegraph": "Nife, Stockholm",
+            "phone": [
+                "Jungnerbolaget"
+            ],
+            "postgiro": "1547",
+            "office": "Riddarg. 17",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Riddarg. 17"
+                },
+                {
+                    "location": "Klarabergsg. 29",
+                    "phone": ""
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": ""
+                },
+                {
+                    "location": "Malmö",
+                    "phone": ""
+                },
+                {
+                    "location": "Karlstad",
+                    "phone": ""
+                },
+                {
+                    "location": "Norrköping",
+                    "phone": ""
+                },
+                {
+                    "location": "Skellefteå",
+                    "phone": ""
+                },
+                {
+                    "location": "Sundsvall",
+                    "phone": ""
+                }
+            ],
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 6298500,
+            "employees": {
+                "industriarb": 1050
+            }
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "generallöjtn. frih. Lars C:son Sparre",
+                "role": "ordf."
+            },
+            {
+                "name": "Carl Ameln",
+                "role": "dir."
+            },
+            {
+                "name": "Robert Ameln",
+                "role": "civiling."
+            },
+            {
+                "name": "Bengt Ingeström",
+                "role": "civiling."
+            },
+            {
+                "name": "Torsten Jung",
+                "role": "civiling."
+            },
+            {
+                "name": "F. G. Liljenroth",
+                "role": "civiling."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Svenska Aeroplan AB.",
+        "location": "Linköping",
+        "business": "Tillverkar flygplan och flygplanstillbehör.",
+        "contact": {
+            "telegraph": "Saab, Linköping",
+            "phone": "»Saab»",
+            "postgiro": "Linköping: 160342; Trollhättan: 136599",
+            "office": "",
+            "head_office": "",
+            "sales_offices": [],
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 21000000,
+            "employees": {
+                "industriarb": 2500
+            }
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "överståthållare Torsten No-thin",
+                "role": "ordf."
+            },
+            {
+                "name": "konsul Oscar Gullander",
+                "role": "dir."
+            },
+            {
+                "name": "Gust. J. Sahlin",
+                "role": "dir."
+            },
+            {
+                "name": "Ragnar Wahrgren",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "Marcus Wallenberg",
+                "role": "bankdir."
+            },
+            {
+                "name": "Evert Wijkander",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Svenska Aloxidverken AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar aluminiumoxid och aluminium vid elektrokemisk fabrik i Kubikenborg, Skönsmon.",
+        "contact": {
+            "telegraph": "Oxidverken, Stockholm",
+            "phone": [
+                "230920"
+            ],
+            "postgiro": "194558",
+            "office": "Kungsg. 28",
+            "head_office": "",
+            "sales_offices": [],
+            "factory_office": "Kubikenborg, Skönsmon",
+            "factory_phone": "Sundsvall 55670"
+        },
+        "financials": {
+            "capital": 3000000,
+            "employees": {
+                "industriarb": 150
+            }
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "kommerserådet Axel F. En-ström",
+                "role": "ordf."
+            },
+            {
+                "name": "Herman Christiansen",
+                "role": "höiesteretsadv."
+            },
+            {
+                "name": "Helge Friis",
+                "role": "konteramiral"
+            },
+            {
+                "name": "Plans J. Krogh",
+                "role": "ing."
+            },
+            {
+                "name": "S. Erik Österberg",
+                "role": "kommerserådet"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Svenska Aluminiumkompaniet",
+        "location": "Stockholm",
+        "business": "Tillverkar aluminium och aluminiumlegeringar i tackor, valsämnen, tråd- och rörämnen m. m. Varumärke: »SAKO».",
+        "contact": {
+            "telegraph": "Svealu-min, Stockholm and Avesta",
+            "phone": [
+                "230920"
+            ],
+            "postgiro": "150606",
+            "office": "Kungsg. 28",
+            "head_office": "",
+            "sales_offices": [],
+            "factory_office": "Månsbo",
+            "factory_phone": "Krylbo 5555"
+        },
+        "financials": {
+            "capital": 3500000,
+            "employees": {
+                "industriarb": 95
+            }
+        },
+        "foundation_year": 1934,
+        "annual_turnover": 3000000,
+        "board": [],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    }
+}

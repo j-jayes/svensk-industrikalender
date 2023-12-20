@@ -1,0 +1,298 @@
+{
+    "1": {
+        "name": "Halmstads Gjuteri AB",
+        "location": "Halmstad",
+        "foundation_year": 1907,
+        "corporation_year": 1907,
+        "board": [
+            {
+                "name": "dir. Edw. Berger",
+                "role": "ordf."
+            },
+            {
+                "name": "v. konsul A. O. Hill",
+                "role": ""
+            },
+            {
+                "name": "ing. Johan Wendt",
+                "role": ""
+            }
+        ],
+        "director": "Edw. Berger",
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Halmstads Snickerifabrik",
+        "business": "Tillverkar byggnadssnickerier och inredningar",
+        "location": "Halmstad",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "946"
+            ],
+            "postgiro": "",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "foundation_year": 1926,
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Halmstads Spik- & Trådverk",
+        "business": "Tillverkar trådspik, glödgad, galvani-serad och blankdragen järntråd",
+        "location": "Halmstad",
+        "products": "bloms-tertråd, säckbindare, öglad tråd, kapad och riktad tråd samt band järn, såväl kallvalsat som galvaniserat",
+        "contact": {
+            "office": "",
+            "phone": [
+                "1507"
+            ],
+            "postgiro": "33102",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Spikfabriken, Halmstad",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "foundation_year": 1921,
+        "financials": {
+            "capital": "350,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": "1,100,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Halmstads Trikåindustri AB",
+        "business": "Tillverkar trikåvaror i charmeuse",
+        "location": "Halmstad",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "4675"
+            ],
+            "postgiro": "264931",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "foundation_year": 1942,
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "Halmstads Valskvarn",
+        "location": "Halmstad",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "foundation_year": 1922,
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "Halmstads Varvs Nya AB",
+        "business": "Utför nybyggnader och reparationer av huvudsakligen träfartyg",
+        "location": "Halmstad",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "632"
+            ],
+            "postgiro": "34134",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "foundation_year": 1922,
+        "financials": {
+            "capital": "55,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": "160,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "H. Halmö AB",
+        "business": "Tält- och presenningfabrik",
+        "location": "Malmö",
+        "products": "Tillverkar tält, segel, presenningar, markiser och flaggor",
+        "contact": {
+            "office": "Djäkneg. 24—26",
+            "phone": [
+                "10151",
+                "77775"
+            ],
+            "postgiro": "37723",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Tälthalmö, Malmö",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "foundation_year": 1922,
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": "200,000 kr"
+        },
+        "owner": "Georg Jaeppelt",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "Hamburger Bryggeriet",
+        "location": "Stockholm",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    },
+    "9": {
+        "name": "Hammars Glasbruks AB",
+        "location": "Hammar",
+        "products": "Tillverkar buteljer",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Hammar 3",
+                "4"
+            ],
+            "postgiro": "83954",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Glasbruket, Askersund",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "foundation_year": 1874,
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": "1,200,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 58.81200819999999,
+            "Longitude": 14.9631045
+        },
+        "cluster": 1
+    },
+    "10": {
+        "name": "AB. Hammars Mek. Verkstad",
+        "location": "Nyland",
+        "products": "Tillverkar metall- och tackjärnsgjutgods, cisterner och tryckluftkärl, transportrullar och transportörer, varpspelsbåtar och motorfärjor samt utför anläggningar för vattenrening och träimpregnering",
+        "contact": {
+            "office": "Verkstaden, Nyland",
+            "phone": [
+                "34"
+            ],
+            "postgiro": "172320",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "foundation_year": 1902,
+        "owner": [
+            "Gustav A. Andersson"
+        ],
+        "coordinates": {
+            "Latitude": 63.00667439999999,
+            "Longitude": 17.7564249
+        },
+        "cluster": 6
+    },
+    "11": {
+        "name": "C. M. Hammars Metallvarufabrik",
+        "location": "Göteborg",
+        "business": "Armaturfabrik, koppar-, bleck- och plåtslageri",
+        "products": "Tillverkar kompasser, lanternor och skeppslampor, armatur, kok-.",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    }
+}

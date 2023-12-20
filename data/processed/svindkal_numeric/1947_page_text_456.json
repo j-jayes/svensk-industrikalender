@@ -1,0 +1,291 @@
+{
+    "1": {
+        "name": "Lana—Landsverk",
+        "location": "Göteborg",
+        "business": "Kamgarnsspinneri i Mölndal",
+        "products": "Tillverkar strump-, stick- och vävgarner",
+        "contact": {
+            "office": "S. Hamng. 63",
+            "phone": [
+                "161936"
+            ],
+            "postgiro": "42350",
+            "head_office": "Göteborg, S. Hamng.",
+            "telegraph": "Lana, Göteborg",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": 1200000,
+            "employees": {
+                "industriarb": 150
+            }
+        },
+        "foundation_year": 1893,
+        "board": [
+            {
+                "name": "Gustaf Werner",
+                "role": "ordf."
+            },
+            {
+                "name": "Bengt Holming",
+                "role": "jur. kand."
+            },
+            {
+                "name": "O. O. Smedmark",
+                "role": "disp."
+            }
+        ],
+        "owners": [],
+        "director": "Otto Heinrich Lammert",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Landhy & Lundgrens Boktryckeri",
+        "location": "Malmö",
+        "business": "Utför trycksaker, speciellt illustrerade kataloger, bokverk, reklam- och färgtryck",
+        "contact": {
+            "office": "Davidshallsg. 4",
+            "phone": [
+                "21208",
+                "23250"
+            ],
+            "postgiro": "37625",
+            "head_office": "N/A",
+            "telegraph": "N/A",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 850000
+        },
+        "foundation_year": 1898,
+        "board": [],
+        "owners": [
+            "boktr. Arvid Clarin"
+        ],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Landsbro Tegelbruks AB.",
+        "location": "Stora Skedvi",
+        "business": "Tillverkar murtegel, lättmurtegel och högporöst tegel",
+        "products": "N/A",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "72"
+            ],
+            "postgiro": "34331",
+            "head_office": "N/A",
+            "telegraph": "N/A",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": "40,000 ikr",
+            "employees": {
+                "industriarb": 10
+            }
+        },
+        "foundation_year": 1940,
+        "board": [],
+        "owners": [
+            "Karl Hedin",
+            "Henning Hedin",
+            "fru Edit Hedin"
+        ],
+        "director": "Karl Hedin",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 60.40686150000001,
+            "Longitude": 15.8030531
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Landskrona Kirurgiska Sliperi & Metallvarufabrik",
+        "location": "Landskrona",
+        "business": "Metallvarufabrik med pressgjuteri",
+        "products": "Tillverkar sanitetsarmatur",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "1200"
+            ],
+            "postgiro": "82151",
+            "head_office": "N/A",
+            "telegraph": "N/A",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 300000
+        },
+        "foundation_year": 1925,
+        "board": [],
+        "owners": [
+            "fabr. Helmer Jönsson",
+            "fabr. Einar Jönsson"
+        ],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Landskrona Margarinfabrik AB.",
+        "location": "Landskrona",
+        "business": "Tillverkar margarin och kokosfett",
+        "products": "N/A",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "1933",
+                "84"
+            ],
+            "postgiro": "72084",
+            "head_office": "N/A",
+            "telegraph": "Palma, Landskrona",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1934,
+        "board": [],
+        "owners": [],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Landskrona Spinneri AB.",
+        "location": "Landskrona",
+        "business": "Ullspinneri, färgeri, trikå- och strumpfabrik",
+        "products": "Tillverkar ullgarn, trikåvaror och strumpor",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "22",
+                "2530"
+            ],
+            "postgiro": "36314",
+            "head_office": "N/A",
+            "telegraph": "Ullgarn, Landskrona",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": 210000,
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": 685000
+        },
+        "foundation_year": 1918,
+        "board": [],
+        "owners": [
+            "dir. Oscar C. Oliwers",
+            "fru Karin Oliwers",
+            "dir.-assist. Lars Oliwers"
+        ],
+        "director": "Oscar C. Oliwers",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 3
+    },
+    "7": {
+        "name": "AB. Landsverk",
+        "location": "Landskrona",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Tillverkar järnvägsvagnar och annan järnvägsmateriel, järnvägs- och landsvägsbroar, kranar och transportanordningar, järnkonstruktioner, cisterner alla slag (spec. större oljecisterner), plåtarbeten, maskiner och apparater för cellulosa- och sockerindustrierna (spec. industningsanläggningar, centrifuger och snitselpressar), cement- och tegelbruksmaskiner, grävmaskiner, sopförbränningsanläggningar, gasklockor och gasverksapparater, centrifugalpumpar, snabbgående ångmaskiner upp till 100 hkr, motorfordon, gjutgods m. m.",
+        "contact": {
+            "office": "N/A",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "23222",
+            "head_office": "N/A",
+            "telegraph": "Landsverk, Landskrona",
+            "factory_office": "N/A",
+            "factory_phone": "N/A"
+        },
+        "financials": {
+            "capital": 2170000,
+            "employees": {
+                "industriarb": 800
+            }
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "A. Riider",
+                "role": "bankdir."
+            },
+            {
+                "name": "Hermann Hennemann",
+                "role": "dir."
+            },
+            {
+                "name": "Arvid 318",
+                "role": "dir."
+            }
+        ],
+        "owners": [],
+        "director": "N/A",
+        "managing_director": "N/A",
+        "sales_manager": "N/A",
+        "manager": "N/A",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 6
+    }
+}

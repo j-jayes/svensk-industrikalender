@@ -1,0 +1,272 @@
+{
+    "1": {
+        "name": "Hest ra Träindustriförening u. p. a.",
+        "location": "Hestra (Jönköp. l.)",
+        "business": "Tillverkar trädgårdsmöbler av ekgrenar samt räfsor, högaffelskaft, fasonerade krattskaft och markiser m. m.",
+        "contact": {
+            "office": "Hestra",
+            "phone": [
+                "35"
+            ],
+            "postgiro": "98731",
+            "factory_office": "Hestra",
+            "factory_phone": "35"
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": 120000,
+            "annual_production_value": 120000
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "fabr. Martin Magnusson",
+                "role": "ordf."
+            },
+            {
+                "name": "fabr. Lage Berndtson"
+            },
+            {
+                "name": "fru Kerstin Berndtson"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.6537911,
+            "Longitude": 13.9992582
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "Hettemarks Konfektions AB.",
+        "location": "Gripenberg (Jönköp. l.)",
+        "business": "Tillverkar damkappor",
+        "products": "Varumärke: »Hettemarks».",
+        "contact": {
+            "office": "Gripenberg",
+            "phone": [
+                "Hettemarks"
+            ],
+            "postgiro": "277000"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 350000
+        },
+        "foundation_year": 1945,
+        "director": "Sven Hettemark",
+        "coordinates": {
+            "Latitude": 57.9938465,
+            "Longitude": 14.8559784
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. A. Heyrnan",
+        "location": "Vårgårda (Älvsb. l.)",
+        "business": "Grynverk och kvarn samt tegelbruk",
+        "products": "Tillverkar ångpreparerade havregryn, rostat ris och vete, havre-, vete- och rågmjöl, korngryn, kornmjöl och kornflingor, kli, fodermjöl, hundmjöl samt murtegel, taktegel och dräneringsrör.",
+        "contact": {
+            "office": "Vårgårda",
+            "phone": [
+                "2",
+                "138"
+            ],
+            "postgiro": "22690"
+        },
+        "financials": {
+            "capital": 600000,
+            "employees": {
+                "industriarb": 70
+            }
+        },
+        "foundation_year": 1900,
+        "board": [
+            {
+                "name": "adv. Fred. Holmgren",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Uffe Gowers-Lund"
+            },
+            {
+                "name": "disp. Ivan Heyrnan"
+            },
+            {
+                "name": "fru S. Heyman"
+            },
+            {
+                "name": "major G. Hjort"
+            }
+        ],
+        "director": "Ivan Heyman",
+        "manager": "Carl Nilsson",
+        "coordinates": {
+            "Latitude": 58.0323039,
+            "Longitude": 12.8089764
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Hidinge Kaikverk AB.",
+        "location": "Hällekis, Lanna, Hidingebro (Örebro l.)",
+        "business": "Cementfabrik",
+        "contact": {
+            "office": "Hällekis",
+            "phone": [
+                "17"
+            ],
+            "sales_offices": [
+                {
+                    "location": "Hidingebro",
+                    "phone": "Örebro 10911 o. Hidingebro 21"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "industriarb": 64
+            },
+            "annual_turnover": 1200000
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "dir. Ernst Wehtje",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Albin Persson"
+            },
+            {
+                "name": "dir. Malte Ström"
+            }
+        ],
+        "director": "bergsing. Henry Rudberg",
+        "manager": "Molle Nilsson",
+        "coordinates": {
+            "Latitude": 59.21816879999999,
+            "Longitude": 14.8994108
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Hidingsta Tegelbruks AB.",
+        "location": "Hidingsta (Örebro l.)",
+        "business": "Tegelbruk",
+        "contact": {
+            "office": "Sköllersta",
+            "phone": [
+                "Sköllersta 11"
+            ],
+            "postgiro": "145990"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 35
+            }
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "godsäg. E. M. Ribbing",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. O. Gunnar Bengtsson"
+            },
+            {
+                "name": "major A. Coyet"
+            }
+        ],
+        "director": "O. G. Bengtsson",
+        "coordinates": {
+            "Latitude": 59.2,
+            "Longitude": 15.333333
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Hildesborgs Tegelbruk",
+        "location": "Hildesborg (Malmöh. l.)",
+        "business": "Tegelbruk",
+        "contact": {
+            "office": "Frans Törn-qvist, Landskrona",
+            "phone": [
+                "85"
+            ],
+            "postgiro": "84328"
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1923,
+        "director": "v. konsul Frans Törn-qvist",
+        "coordinates": {
+            "Latitude": 55.9176723,
+            "Longitude": 12.8105667
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "AB. Hillerstorps Metallverk",
+        "location": "Hillerstorp (Jönköp. l.)",
+        "business": "Tillverkar fönsterbeslag såsom fönsterlås, fönstervred, koppelhakar och storm-haspar, skruvöglor, märlor, stjärnstift samt klädkrokar, cykellås, frisörgarnityr m. m.",
+        "contact": {
+            "office": "Hillerstorp",
+            "phone": [
+                "57"
+            ],
+            "postgiro": "8487"
+        },
+        "financials": {
+            "capital": 121500,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 500000
+        },
+        "foundation_year": 1941,
+        "director": "fabr. Carl Törefors",
+        "coordinates": {
+            "Latitude": 57.3150182,
+            "Longitude": 13.8805966
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "Hillerstorps Stängseldu ksf abri k",
+        "location": "Hillerstorp (Jönköp. l.)",
+        "business": "Tillverkar trådarbeten såsom pappers-, potatis- och grönsakskorgar m. m. samt dörrmattor och stängselnät",
+        "contact": {
+            "office": "Hillerstorp",
+            "phone": [
+                "15"
+            ],
+            "postgiro": "274959"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_production_value": 160000
+        },
+        "foundation_year": 1930,
+        "director": "fabr. Nils Heijel",
+        "coordinates": {
+            "Latitude": 57.3150182,
+            "Longitude": 13.8805966
+        },
+        "cluster": 6
+    }
+}

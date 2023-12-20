@@ -1,0 +1,274 @@
+{
+    "1": {
+        "name": "Pershytte—Persson",
+        "location": "Nora",
+        "business": "Järnmalmsgruvor i Pershyttefältet jämte anrikningsverk i Pershyttan (Örebro l.). Bryter och anrikar järnmalm.",
+        "contact": {
+            "office": "Pershyttan, Nora",
+            "phone": [
+                "Nora 376",
+                "Nora 528"
+            ],
+            "postgiro": "145342"
+        },
+        "financials": {
+            "capital": "141,500 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "generalkonsul Axel Ax:son Johnson",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Vilhelm Björkman",
+                "role": null
+            },
+            {
+                "name": "kamrer Axel R. Johansson",
+                "role": null
+            }
+        ],
+        "director": "Axel Ax:son Johnson",
+        "coordinates": {
+            "Latitude": 59.51920639999999,
+            "Longitude": 15.0378667
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Pershytte Grufvebolag",
+        "location": "Nora",
+        "business": "Järnmalmsgruvor i Pershyttefältet jämte anrikningsverk i Pershyttan (Örebro l.). Bryter och anrikar järnmalm.",
+        "contact": {
+            "office": "Pershyttan, Nora",
+            "phone": [
+                "Nora 376",
+                "Nora 528"
+            ],
+            "postgiro": "145342"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "450,000 kr"
+        },
+        "foundation_year": 1867,
+        "board": [
+            {
+                "name": "disp. Walfrid Eriksson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Axel L:son Alarik",
+                "role": null
+            },
+            {
+                "name": "ing. Erik Frykholm",
+                "role": null
+            },
+            {
+                "name": "bergsing. Axel Ax:son Johnson J:or",
+                "role": null
+            }
+        ],
+        "director": null,
+        "managing_director": null,
+        "coordinates": {
+            "Latitude": 59.51920639999999,
+            "Longitude": 15.0378667
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Alfred Perssons Snickerifabrik",
+        "location": "Malmö",
+        "business": "Tillverkar möbler och affärsinredningar.",
+        "contact": {
+            "office": "Baltzarsg. 16",
+            "phone": [
+                "23991"
+            ],
+            "postgiro": "148914"
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "total": 6
+            },
+            "annual_turnover": "70,000 kr"
+        },
+        "foundation_year": 1908,
+        "owner": "fabr. Alfred Persson",
+        "manager": "Alfred Persson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Anders Perssons Skidfabrik",
+        "location": "Bollnäs",
+        "business": "Tillverkar spec. björk- och hickoryski-dor vid fabrik i Bollnäs (Gävleb. l.).",
+        "contact": {
+            "phone": [
+                "10441",
+                "11391"
+            ],
+            "postgiro": "96300"
+        },
+        "financials": {
+            "employees": {
+                "total": 20
+            }
+        },
+        "foundation_year": 1914,
+        "owner": "Anders Perssons sterbhus",
+        "manager": "Valdemar Persson",
+        "coordinates": {
+            "Latitude": 61.34837950000001,
+            "Longitude": 16.3942685
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. August Perssons Ekmöbelfabrik",
+        "location": "Bjärnum",
+        "business": "Tillverkar matsalsmöbler i ek samt skrivbord vid fabrik i Bjärnum (Kristianst. l.).",
+        "contact": {
+            "phone": [
+                "40"
+            ],
+            "postgiro": "86272"
+        },
+        "financials": {
+            "capital": "11,600 kr",
+            "employees": {
+                "total": 11
+            },
+            "annual_turnover": "100,000 kr"
+        },
+        "foundation_year": 1913,
+        "director": null,
+        "owner": null,
+        "coordinates": {
+            "Latitude": 56.2914154,
+            "Longitude": 13.7097126
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "Bernh. Perssons Cjuteri",
+        "location": "Malmö",
+        "business": "Tillverkar gjutgods, spec. golvbrunnar, golvbrunnsförlängningar, b ak vatten ventiler och vattenlås (märke: »B. P.»).",
+        "contact": {
+            "office": "Västanforsg.",
+            "phone": [
+                "23775"
+            ],
+            "postgiro": "38524"
+        },
+        "financials": {
+            "employees": {
+                "total": 50
+            },
+            "annual_turnover": "450,000 kr"
+        },
+        "foundation_year": 1921,
+        "owner": "fabr. Bernh. Persson",
+        "manager": "Bernh. Persson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Birger Pehrsons Byggnads AB",
+        "location": "Boras",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m. samt snickerifabrik för eget behov.",
+        "contact": {
+            "phone": [
+                "17630"
+            ],
+            "postgiro": "140857"
+        },
+        "financials": {
+            "capital": "150,000 kr"
+        },
+        "foundation_year": 1921,
+        "board": [
+            {
+                "name": "byggm. Birger Pehrson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Axel Hellers",
+                "role": null
+            },
+            {
+                "name": "civiling. Gustaf Hellers",
+                "role": null
+            }
+        ],
+        "manager": "Birger Pehrson",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "B. E. Persson, Skofabrik",
+        "location": "Malung",
+        "business": "Tillverkar handgjorda grövre skodon, orienteringskängor och spikskor (»Malung») samt skidpjäxor (märken: »Lake Placid» o. »Vasaloppspjäxan»).",
+        "contact": {
+            "phone": [
+                "99"
+            ],
+            "postgiro": "73617"
+        },
+        "financials": {
+            "employees": {
+                "total": 35
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1900,
+        "owner": "fabr. B. Erik Persson",
+        "manager": "B. Erik Persson",
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    },
+    "9": {
+        "name": "Carl Persson & Söner AB",
+        "location": "Ystad",
+        "business": "Sorterings- och förädlingsanstalt för alla slags avfallsråvaror såsom textila, järn, metall, gummi, papper etc., konstullfabrik och metallsmälteri, s vinhår sberedning för stoppningsändamål. Tillverkar konstull (shoddy). Firman driver även engroshandel med textilförnödenheter, säckar, byggnadsjärn och räls.",
+        "contact": {
+            "telegraph": "Persöner, Ystad",
+            "phone": null,
+            "postgiro": "75085"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "total": 235
+            }
+        },
+        "foundation_year": 1895,
+        "coordinates": {
+            "Latitude": 55.4295051,
+            "Longitude": 13.8200308
+        },
+        "cluster": 3
+    }
+}

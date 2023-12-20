@@ -1,0 +1,281 @@
+{
+    "1": {
+        "name": "Upperuds Valskvarn",
+        "location": "Upperud",
+        "business": "Tillverkar elektrisk belysningsarmatur, kandelabrar, kronor, lampetter, lampskärmar, ljusstakar samt utför metalltryckning och metallpressning.",
+        "contact": {
+            "office": "Malmgårdsvägen 22",
+            "phone": [
+                "440630"
+            ],
+            "postgiro": "12990",
+            "telegraph": "Elektroarmatur, Stockholm"
+        },
+        "financials": {
+            "capital": "115,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "civiling. Sten Westerberg",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Henrik Lamby",
+                "role": "dir."
+            },
+            {
+                "name": "dir. G. Rosenqvist",
+                "role": "v. ordf."
+            }
+        ],
+        "manager": "G. Rosenqvist",
+        "coordinates": {
+            "Latitude": 58.8086316,
+            "Longitude": 12.4355554
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Uppsala Armaturfabrik AB.",
+        "location": "Stockholm",
+        "business": "Metallvarufabrik",
+        "contact": {
+            "office": "Malmgårdsvägen 22",
+            "phone": [
+                "440630"
+            ],
+            "postgiro": "12990",
+            "telegraph": "Elektroarmatur, Stockholm"
+        },
+        "financials": {
+            "capital": "115,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1915,
+        "board": [
+            {
+                "name": "civiling. Sten Westerberg",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Henrik Lamby",
+                "role": "dir."
+            },
+            {
+                "name": "dir. G. Rosenqvist",
+                "role": "v. ordf."
+            }
+        ],
+        "manager": "G. Rosenqvist",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Upsala Bayerska Bryggeri AB.",
+        "location": "Uppsala",
+        "business": "Tillverkar malt- och läskedrycker",
+        "contact": {
+            "phone": [
+                "Bryggeribolaget"
+            ],
+            "postgiro": "85213"
+        },
+        "financials": {
+            "capital": "1,080,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "3,000,000 kr"
+        },
+        "foundation_year": 1865,
+        "board": [
+            {
+                "name": "överbibliotekarie Anders Grape",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Harald Engström",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Sven Schwartz",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Henrik Svanfeldt",
+                "role": "dir."
+            }
+        ],
+        "manager": "Göte Bergström",
+        "sales_manager": "ing. Sven Hallström",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "AB. Upsala Bröd",
+        "location": "Uppsala",
+        "business": "Tillverkar spis- och knäckebröd",
+        "contact": {
+            "phone": [
+                "35032"
+            ],
+            "postgiro": "21438"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_production_value": "1,200,000 kr"
+        },
+        "foundation_year": 1919,
+        "director": "Ragnar Åkerblom",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Upsala-Ekeby AB.",
+        "location": "Ekebybruk",
+        "business": "Fajans- och väggplattfabriker",
+        "contact": {
+            "office": "Ekebybruk",
+            "phone": [
+                "Ekeby bruk"
+            ],
+            "postgiro": "23032"
+        },
+        "financials": {
+            "capital": "2,449,800 kr",
+            "employees": {
+                "industriarb": 612
+            },
+            "annual_production_value": "10,500,000 kr"
+        },
+        "foundation_year": 1886,
+        "board": [
+            {
+                "name": "f. d. fältläkare E. O. v. Bahr",
+                "role": "ordf."
+            },
+            {
+                "name": "prof. Folke Wetter",
+                "role": "v. ordf."
+            },
+            {
+                "name": "civiling. Carl v. Bahr",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Nils V. Sterner",
+                "role": "dir."
+            },
+            {
+                "name": "dir. H. W. Söderman",
+                "role": "dir."
+            },
+            {
+                "name": "tekn. dr R. Winbladh",
+                "role": "dir."
+            }
+        ],
+        "manager": "C. Monie",
+        "director": "E. Ahlm",
+        "managing_director": "K. Merkelbach",
+        "sales_manager": "I. Kullander",
+        "coordinates": {
+            "Latitude": 59.84999999999999,
+            "Longitude": 17.6
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Upsala Kappfabrik",
+        "location": "Uppsala",
+        "business": "Tillverkar damkappor",
+        "contact": {
+            "phone": [
+                "Uppsala Kappfabrik"
+            ],
+            "postgiro": "91660"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 350
+            },
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "dir. J. Anér",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. G. E. Didner",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Josef W. Larsson",
+                "role": "dir."
+            },
+            {
+                "name": "fru Britta Larsson",
+                "role": "dir."
+            },
+            {
+                "name": "disp. Sven Svensson",
+                "role": "dir."
+            }
+        ],
+        "managing_director": "fru Britta Larsson",
+        "manager": "Lennart Larsson",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Upsala Kartongfabriks AB.",
+        "location": "Uppsala",
+        "business": "Tillverkar kartonger och etuier",
+        "contact": {
+            "phone": [
+                "30985",
+                "35385"
+            ],
+            "postgiro": "97210"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1903,
+        "manager": "Bengt Wenngren",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 1
+    }
+}

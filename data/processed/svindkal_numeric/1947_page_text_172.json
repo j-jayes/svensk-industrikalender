@@ -1,0 +1,235 @@
+{
+    "1": {
+        "name": "AB. Bandagefabriken",
+        "location": "Stockholm",
+        "business": "Manufacturing",
+        "products": "Kängsnören, skoband, tät-ningslister, vävda konstsilkeband, resårband",
+        "contact": {
+            "office": "Stockholm",
+            "phone": [
+                "70820",
+                "70821"
+            ],
+            "postgiro": "144754"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "Ivar Lindmark",
+                "role": "Chairman"
+            },
+            {
+                "name": "Birger Lindmark",
+                "role": "Managing Director"
+            },
+            {
+                "name": "Axel T. Nilsson",
+                "role": "Advisor"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Bara Tegelbruks- & Sågverks AB.",
+        "location": "Klågerup",
+        "business": "Manufacturing",
+        "products": "Murtegel, brunntegel, dräneringsrör, sågade trävaror",
+        "contact": {
+            "office": "Klågerup",
+            "phone": [
+                "22"
+            ],
+            "postgiro": "88180"
+        },
+        "financials": {
+            "capital": 80000,
+            "employees": {
+                "industriarb": 22,
+                "tegelbruket": 20
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "Axel Nyberg",
+                "role": "Director"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.59782329999999,
+            "Longitude": 13.2592414
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Bark & Warburgs AB.",
+        "location": "Göteborg",
+        "business": "Manufacturing",
+        "products": "Sågade/hyvlade trävaror, byggnadssnickerier, lister, lådämnen",
+        "contact": {
+            "office": "Göteborg",
+            "phone": "222190",
+            "postgiro": "42166"
+        },
+        "financials": {
+            "capital": 600000,
+            "employees": {
+                "Not available": 0
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1888,
+        "board": [
+            {
+                "name": "R. Hamberg",
+                "role": "Chairman"
+            },
+            {
+                "name": "I. Hamberg",
+                "role": "Department Manager"
+            },
+            {
+                "name": "Folke Jonsson",
+                "role": "Honorary Consul"
+            }
+        ],
+        "director": "R. Hamberg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Barkens Sågverks AB.",
+        "location": "Vad",
+        "business": "Manufacturing",
+        "products": "Sågade/hyvlade trävaror, trähus, träkol, monteringsfärdiga trähus",
+        "contact": {
+            "office": "Vad",
+            "phone": "Not available",
+            "postgiro": "9678"
+        },
+        "financials": {
+            "capital": 4000000,
+            "employees": {
+                "Not available": 230
+            },
+            "annual_turnover": "Not available"
+        },
+        "foundation_year": 1907,
+        "board": [
+            {
+                "name": "Åke Thorell",
+                "role": "Secretary"
+            },
+            {
+                "name": "Rolf v. Heidenstam",
+                "role": "Assistant Manager"
+            },
+            {
+                "name": "K.-I. Hising",
+                "role": "Director"
+            },
+            {
+                "name": "Axel Wiklund",
+                "role": "Manager"
+            }
+        ],
+        "managing_director": "K.-I. Hising",
+        "coordinates": {
+            "Latitude": 60.028152,
+            "Longitude": 15.6546339
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "AB. S. Barnekows Tekn. Kem. Laboratorium",
+        "location": "Malmö",
+        "business": "Manufacturing",
+        "products": "Mejeri- and näringspreparat",
+        "contact": {
+            "office": "Malmö",
+            "phone": [
+                "20612",
+                "26993",
+                "22574"
+            ],
+            "postgiro": "14048"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "Not available": 5
+            },
+            "annual_turnover": 600000
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "Erik Osberg",
+                "role": "Veterinary Director"
+            },
+            {
+                "name": "G. Fornander",
+                "role": "Member"
+            },
+            {
+                "name": "E. Hallberg",
+                "role": "Member"
+            },
+            {
+                "name": "I. Hallberg",
+                "role": "Member"
+            },
+            {
+                "name": "C. Hornmerberg",
+                "role": "Member"
+            }
+        ],
+        "manager": "Axel Furustam",
+        "director": "E. Hallberg",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Barnstrumpor",
+        "location": "Malmö",
+        "business": "Manufacturing",
+        "products": "Dam-, barn- and herrmössor, pälsvaror",
+        "contact": {
+            "office": "Malmö",
+            "phone": "11513",
+            "postgiro": "37795"
+        },
+        "financials": {
+            "capital": 35000,
+            "employees": {
+                "Not available": 24
+            },
+            "annual_turnover": 350000
+        },
+        "foundation_year": 1935,
+        "manager": "Anders Barning",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    }
+}

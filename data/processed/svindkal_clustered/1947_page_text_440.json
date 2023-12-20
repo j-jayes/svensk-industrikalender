@@ -1,0 +1,258 @@
+{
+    "1": {
+        "name": "Konstgödnings & Svavelsyrefabrikerna",
+        "location": "Svenska, Malmö",
+        "business": "Konstgödning",
+        "contact": {
+            "office": "Not available",
+            "phone": [
+                "Not available"
+            ],
+            "postgiro": "Not available",
+            "head_office": "Not available",
+            "sales_offices": [],
+            "telegraph": "Not available",
+            "factory_office": "Not available",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1921,
+        "owners": [
+            "fabr. Frans Oscar Johansson",
+            "verkm. Carl-Emil Johansson"
+        ],
+        "board": [],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Konst harts",
+        "location": "Trelleborg",
+        "business": "Bakelitpressverk",
+        "contact": {
+            "office": "Not available",
+            "phone": [
+                "1720"
+            ],
+            "postgiro": "281815",
+            "head_office": "Not available",
+            "sales_offices": [],
+            "telegraph": "Not available",
+            "factory_office": "Not available",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1934,
+        "owners": [],
+        "board": [
+            {
+                "name": "fil. dr B. Stein-hoff",
+                "role": "Not available"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.3762427,
+            "Longitude": 13.1574231
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Kontrollinstrument",
+        "location": "Stockholm",
+        "business": "Instrument- och finmekanisk verkstad",
+        "contact": {
+            "office": "Kungstensg. 18",
+            "phone": [
+                "327432-33"
+            ],
+            "postgiro": "192610",
+            "head_office": "Not available",
+            "sales_offices": [],
+            "telegraph": "Akimätare, Stockholm",
+            "factory_office": "Not available",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1941,
+        "owners": [],
+        "board": [
+            {
+                "name": "ing. Erik Hysing",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Nils Järte",
+                "role": "Försäljn.-dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Kooperativa Förbundets Kem. Tekn. Fabrik",
+        "location": "Malmö",
+        "business": "Tillverkar kem. tekniska preparat; utför målning samt paketering av kryddor och te",
+        "contact": {
+            "office": "St. Trädgårdsg. 4",
+            "phone": [
+                "28743",
+                "28789"
+            ],
+            "postgiro": "Not available",
+            "head_office": "Stockholm, Stadsgården 6",
+            "sales_offices": [],
+            "telegraph": "Kooperativa, Stockholm",
+            "factory_office": "Not available",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "3,000,000 kr",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": "Not available",
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "board": [
+            {
+                "name": "Gunnar Petterson",
+                "role": "Disp."
+            },
+            {
+                "name": "Harry Ohlsson",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Kooperativa Förbundet Margarinfabriken AB.",
+        "location": "Norrköping",
+        "business": "Tillverkar margarin",
+        "contact": {
+            "office": "Not available",
+            "phone": [
+                "29460"
+            ],
+            "postgiro": "Not available",
+            "head_office": "Not available",
+            "sales_offices": [],
+            "telegraph": "Margarinfabrik, Norrköping",
+            "factory_office": "Not available",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "26,000,000 kr",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1920,
+        "owners": [],
+        "board": [
+            {
+                "name": "dir. Albin Johansson (ordf.)",
+                "role": "Not available"
+            },
+            {
+                "name": "fil. lic. Mauritz Bonow",
+                "role": "Not available"
+            },
+            {
+                "name": "dir. Hj. Deger-stedt",
+                "role": "Not available"
+            },
+            {
+                "name": "dir. Hugo Edstam",
+                "role": "Not available"
+            },
+            {
+                "name": "dir. G. Osvaldy",
+                "role": "Not available"
+            },
+            {
+                "name": "dir. Ernst Persson",
+                "role": "Not available"
+            },
+            {
+                "name": "konsul S. H. Sörensen",
+                "role": "Not available"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Kopia",
+        "location": "Stockholm",
+        "business": "Reproduktionsatelier och litografiskt tryckeri",
+        "contact": {
+            "office": "David Bagaresg. 7",
+            "phone": [
+                "232240"
+            ],
+            "postgiro": "50657",
+            "head_office": "Not available",
+            "sales_offices": [],
+            "telegraph": "Kopia, Stockholm",
+            "factory_office": "Not available",
+            "factory_phone": "Not available"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": "Not available"
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": "Not available",
+        "owners": [],
+        "board": [],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "1": {
+        "name": "Tegefors—Tekniska AB",
+        "location": "Järpen",
+        "business": "Cellulosafabrik",
+        "products": "Tillverkar sulfiteellulosa och sulfitsprit samt bedriver skogshantering.",
+        "contact": {
+            "head_office": "Järpen",
+            "telegraph": "Tegeforsverken, Järpen",
+            "phone": [
+                "11",
+                "92",
+                "96"
+            ],
+            "postgiro": "144422"
+        },
+        "financials": {
+            "capital": 3237500,
+            "employees": {
+                "industriarb": 175
+            },
+            "annual_turnover": "23,000 ton blekt sulfitcellulosa, viskoscellulosa o. sulfitsprit",
+            "annual_production_value": "23,000 ton"
+        },
+        "foundation_year": 1900,
+        "board": [
+            {
+                "name": "I. Wallmark",
+                "role": "bankdir."
+            },
+            {
+                "name": "P. Brundell",
+                "role": "bankdir."
+            },
+            {
+                "name": "Hans Th. Kiaer",
+                "role": "dir."
+            }
+        ],
+        "managing_director": "disp. Chr. Kaijser",
+        "sales_manager": "Gustaf Ranhagen",
+        "kamrer": "Th. Ekström",
+        "skogschef": "Th. Lögdberg",
+        "coordinates": {
+            "Latitude": 63.34963049999999,
+            "Longitude": 13.4529077
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Tegelbruket Funkis",
+        "location": "Heby",
+        "business": "Tegelbruk",
+        "products": "Tillverkar mur- och taktegel, högporöst murtegel, reveterings-tegel samt täckdikesrör. Specialitet: mellanväggsplattor.",
+        "contact": {
+            "phone": [
+                "Tegelbolaget"
+            ],
+            "postgiro": "7700"
+        },
+        "financials": {
+            "capital": 406000,
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "dr-ing. C.-F. Böninger",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Ester Grönkwist",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Carl Kihlgren",
+                "role": "dir."
+            }
+        ],
+        "manager": "Gust. Andersson",
+        "tegelmästare": "Nils Johansson",
+        "coordinates": {
+            "Latitude": 59.9396372,
+            "Longitude": 16.8587588
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Tegelbruks AB. Walla-Katrineholm",
+        "location": "Katrineholm",
+        "business": "Tegelbruk",
+        "products": "Tillverkar mur- och taktegel, högporöst murtegel, reveterings-tegel samt täckdikesrör. Specialitet: mellanväggsplattor.",
+        "contact": {
+            "phone": [
+                "Tegelbolaget"
+            ],
+            "postgiro": "7700"
+        },
+        "financials": {
+            "capital": 406000,
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "dr-ing. C.-F. Böninger",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Ester Grönkwist",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Carl Kihlgren",
+                "role": "dir."
+            }
+        ],
+        "manager": "Gust. Andersson",
+        "tegelmästare": "Nils Johansson",
+        "coordinates": {
+            "Latitude": 58.99555109999999,
+            "Longitude": 16.2054756
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Tekaverken AB.",
+        "location": "Alingsås",
+        "business": "Järn- och metallvarufabrik",
+        "products": "Tillverkar mässingöverdragna järnrör, gardin- och profilstänger, byggnadsbeslag samt pianogångjärn.",
+        "contact": {
+            "phone": [
+                "Tekaverken"
+            ],
+            "postgiro": "52840"
+        },
+        "financials": {
+            "capital": 575000,
+            "employees": {
+                "industriarb": 160
+            }
+        },
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "Th. Max Klusendick",
+                "role": "verkst. dir."
+            },
+            {
+                "name": "civiling. Roland Eklund",
+                "role": "V. verkst. dir."
+            },
+            {
+                "name": "Josef Klusendick",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Tekniska AB. Flora",
+        "location": "Gävle",
+        "business": "Kem.-teknisk fabrik",
+        "products": "Tillverkar tvål. Varunamn: »Florodol».",
+        "contact": {
+            "telephone": "Florodol, Gävle",
+            "postgiro": "5120"
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "industriarb": 43
+            },
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1885,
+        "board": [
+            {
+                "name": "dir. Svenoscar Fogelberg",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Stina Berggren",
+                "role": "dir."
+            },
+            {
+                "name": "herr Bengt-Erland Fogelberg",
+                "role": "dir."
+            },
+            {
+                "name": "fru Elvira Fogelberg",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Ernst Jonsson",
+                "role": "disp."
+            }
+        ],
+        "managing_director": "Svenoscar Fogelberg",
+        "sales_manager": "Ruben Nordfelt",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Tekniska Byggnadsbyrån Delin & Perslow",
+        "location": "Stockholm",
+        "business": "Entreprenadfirma",
+        "products": "För husbyggnader, järnverksbyggnader, fabriksbyggnader, vattenkraftsbyggnader, bro- och kaj byggnader, grundläggningar m. m.",
+        "contact": {
+            "office": "Sveavägen 31",
+            "telephone": "Byggbyrån, Stockholm",
+            "postgiro": "151154"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 0
+    }
+}

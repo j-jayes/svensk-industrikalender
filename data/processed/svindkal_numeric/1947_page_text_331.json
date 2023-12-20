@@ -1,0 +1,249 @@
+{
+    "1": {
+        "name": "Gustafstors Fabrikers AB",
+        "location": "Billingsfors",
+        "business": "Pappersbruk och sågverk",
+        "products": "Tillverkar sulfat- och kraftpapper samt sågade trävaror",
+        "contact": {
+            "office": "Billingsfors",
+            "phone": [
+                "Bengtsfors 170"
+            ],
+            "telegraph": "Gustfors, Vänersborg",
+            "postgiro": "7843"
+        },
+        "financials": {
+            "capital": 1500000,
+            "employees": {
+                "industriarb": 230
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "9,000 ton kraftpapper, 1,600 stds sågade trävaror"
+        },
+        "foundation_year": 1873,
+        "predecessor": "AB. Billingsfors-Långed",
+        "board": [
+            {
+                "name": "disp. Gösta Ryding",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Eric Collin",
+                "role": "Not available"
+            },
+            {
+                "name": "disp. Marcus Rosendahl",
+                "role": "Not available"
+            }
+        ],
+        "owners": [
+            "AB. Billings-fors-Långed"
+        ],
+        "director": "Marcus Rosendahl",
+        "managing_director": "Not available",
+        "sales_manager": "Viking Blakstad",
+        "manager": "Paul Nilsson",
+        "coordinates": {
+            "Latitude": 58.98480769999999,
+            "Longitude": 12.2502881
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Gustafsson & Anderssons Varvs AB",
+        "location": "Lidingö",
+        "business": "Varv och mek. verkstad",
+        "products": "Utför nybyggnader och reparationer av båtar samt tillverkar marinmotorer",
+        "contact": {
+            "office": "Lidingö 2",
+            "phone": [
+                "Stockholm 655074",
+                "Stockholm 655150"
+            ],
+            "telegraph": "Bogboat, Stockholm",
+            "postgiro": "131835"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 600000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1942,
+        "owner": "Not available",
+        "manager": "Tage Boghammar",
+        "board": [
+            {
+                "name": "fabr. Anders Gustafsson",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Tage Boghammar",
+                "role": "Not available"
+            },
+            {
+                "name": "fru Signe Hultman",
+                "role": "Not available"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.36295999999999,
+            "Longitude": 18.1468
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Gustafson & Söners Skeppsvarv",
+        "location": "Landskrona",
+        "business": "Nybyggnader av träfartyg samt fartygsreparationer",
+        "products": "Not available",
+        "contact": {
+            "telegraph": "Gustafssons varv, Landskrona",
+            "phone": [
+                "987",
+                "2082"
+            ],
+            "postgiro": "Not available"
+        },
+        "financials": {
+            "capital": 51500,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 275000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1922,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "disp. Gustaf Gustafson",
+                "role": "ordf."
+            },
+            {
+                "name": "änkefru H. Gustafsson",
+                "role": "Not available"
+            },
+            {
+                "name": "skeppsbyggm. Martin Gustafsson",
+                "role": "Not available"
+            }
+        ],
+        "manager": "Gustaf Gustafson",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Ch. Gustafssons Skofabrik",
+        "location": "Munkaljungby",
+        "business": "Tillverkar skodon",
+        "products": "Sportpjäxor och sandaler",
+        "contact": {
+            "phone": [
+                "105"
+            ],
+            "postgiro": "74752"
+        },
+        "financials": {
+            "annual_turnover": 450000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1918,
+        "manager": "Charles Gustafsson",
+        "coordinates": {
+            "Latitude": 56.2573385,
+            "Longitude": 12.9704446
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "E. Gustafsons Gravyranstalt & Mek. Verkstad",
+        "location": "Stockholm",
+        "business": "Utför gravyr i stål, metall, guld, silver m. m.",
+        "products": "Maskingravyr, gradetingsar samt tillverkar form-, stans- och bakelitverktyg",
+        "contact": {
+            "office": "Bryggarg. 6 A",
+            "phone": [
+                "213762",
+                "106112"
+            ],
+            "postgiro": "4016"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 170000,
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1923,
+        "manager": "Elof Gustafsson",
+        "contact_person": "Åke Hedén",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "AB. Einar Gustafsson",
+        "location": "Blyberg",
+        "business": "Sågverk, hyvleri och trähusfabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror samt monterings-färdiga trähus",
+        "contact": {
+            "telegraph": "Egahus, Blyberg",
+            "phone": [
+                "13",
+                "14"
+            ],
+            "postgiro": "145088"
+        },
+        "financials": {
+            "capital": 140000,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "1,000 stds trävaror"
+        },
+        "foundation_year": 1936,
+        "corporation_year": 1944,
+        "manager": "Gösta Gustafsson",
+        "contact_person": "Bertil Gustafsson",
+        "coordinates": {
+            "Latitude": 61.151154,
+            "Longitude": 14.1814897
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Cideon Gustafson",
+        "location": "Handen",
+        "business": "Träemballagefabrik",
+        "products": "Tillverkar emballage av björkplywood såsom varulådor och -korgar, tårtaskar och -skåp",
+        "contact": {
+            "phone": [
+                "Not available"
+            ],
+            "postgiro": "74752"
+        },
+        "financials": {
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": "Not available",
+        "manager": "Not available",
+        "contact_person": "Not available",
+        "coordinates": {
+            "Latitude": 59.16741949999999,
+            "Longitude": 18.1363475
+        },
+        "cluster": 7
+    }
+}

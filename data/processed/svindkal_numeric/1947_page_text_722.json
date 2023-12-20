@@ -1,0 +1,280 @@
+{
+    "1": {
+        "name": "AB. Trané",
+        "location": "Stockholm",
+        "business": "Malmexport o. Malmfartyg",
+        "contact": {
+            "office": "Gustaf Adolfs Torg-18",
+            "phone": [
+                "Grängesbergsbolaget"
+            ],
+            "postgiro": "3141"
+        },
+        "financials": {
+            "capital": 119000000
+        },
+        "foundation_year": 1896,
+        "board": [
+            {
+                "name": "Rudolf Eklund",
+                "role": "ordförande"
+            },
+            {
+                "name": "Torsten Nothin",
+                "role": "statens ombud"
+            },
+            {
+                "name": "Ernst C:son Herslow",
+                "role": "bankdirektör"
+            },
+            {
+                "name": "Erik Kempe",
+                "role": "fil dr"
+            },
+            {
+                "name": "Sigurd Nauckhoff",
+                "role": "fil dr"
+            },
+            {
+                "name": "Martin Waldenström",
+                "role": "direktör"
+            },
+            {
+                "name": "P. O. Westerberg",
+                "role": "direktör"
+            }
+        ],
+        "owners": [
+            "Luossavaara-Kiirunavaara AB."
+        ],
+        "director": "B. Forsgrén",
+        "managing_director": "P. O. Wickman",
+        "sales_manager": "Hugo Gårde",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Trané",
+        "location": "Stockholm",
+        "business": "Mössfabrik",
+        "products": "Tillverkar mössor, speciellt sport- och skidmössor. Varumärke: »Trané»",
+        "contact": {
+            "office": "Götgatan 24",
+            "phone": [
+                "419220"
+            ],
+            "postgiro": "2226"
+        },
+        "financials": {
+            "capital": 15000
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "Eskil Trané",
+                "role": "styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Tranemo Cementvaru AB.",
+        "location": "Tranemo",
+        "business": "Betongvarufabrik",
+        "products": "Tillverkar avloppsrör, vägtrummor, brunnsringar, trottoarplattor, byggnadssten, trappsteg m. m.",
+        "contact": {
+            "phone": [
+                "Svenliunga 70150"
+            ],
+            "postgiro": "81450"
+        },
+        "financials": {
+            "capital": 100000,
+            "annual_turnover": 600000
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1923,
+        "board": [
+            {
+                "name": "Waldemar Hermanson",
+                "role": "disp."
+            },
+            {
+                "name": "Anna Hermanson",
+                "role": "styrelse"
+            },
+            {
+                "name": "Folke Hermanson",
+                "role": "arkitekt"
+            },
+            {
+                "name": "Per Anders Hermanson",
+                "role": "verkm."
+            }
+        ],
+        "director": "Waldemar Hermanson",
+        "coordinates": {
+            "Latitude": 57.4855688,
+            "Longitude": 13.35241
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Tranemo Textil AB.",
+        "location": "Tranemo",
+        "business": "Tillverkar arbetskläder och sportdräkter",
+        "contact": {
+            "phone": [
+                "Svenljunga 70066"
+            ],
+            "postgiro": "88336"
+        },
+        "financials": {
+            "capital": 35200
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "Gustav Kjöllerström",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.4855688,
+            "Longitude": 13.35241
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Tranemo Trikåindustri AB.",
+        "location": "Tranemo",
+        "business": "Tillverkar stickade artiklar",
+        "products": "Jumpers, koftor, slipovers, fingervantar, muddar m. m.",
+        "contact": {
+            "office": "Tranemo",
+            "phone": [
+                "Svenljunga 70191"
+            ],
+            "postgiro": "77000"
+        },
+        "financials": {
+            "capital": 15000
+        },
+        "foundation_year": 1945,
+        "corporation_year": 1946,
+        "board": [
+            {
+                "name": "Carl-Gustaf Blåberg",
+                "role": "styrelse o. verkst. dir."
+            },
+            {
+                "name": "Gilbert Bringle",
+                "role": "verkm."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.4855688,
+            "Longitude": 13.35241
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Tranemo Yllefabriks AB.",
+        "location": "Tranemo",
+        "business": "Tillverkar sport- och barnkläder samt stickade ytterplagg",
+        "products": "Sportkläder, barnkläder, stickade ytterplagg",
+        "contact": {
+            "office": "Tranemo",
+            "phone": [
+                "Svenljunga 70140"
+            ],
+            "postgiro": "94111"
+        },
+        "financials": {
+            "capital": 250000,
+            "annual_production_value": 2800000
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "Knut Palmquist",
+                "role": "dir."
+            },
+            {
+                "name": "S. Palmquist",
+                "role": "fru"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.4855688,
+            "Longitude": 13.35241
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Transformatorfabriken, Svenska",
+        "location": "Linköping",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 4
+    },
+    "8": {
+        "name": "Transjö Glasbruk",
+        "location": "Kosta",
+        "products": "Hushållsglas, servisglas, prydnadsglas och tekn. glas",
+        "contact": {
+            "phone": [
+                "Kosta 7"
+            ],
+            "postgiro": "32423"
+        },
+        "foundation_year": 1870,
+        "owners": [
+            "R. 0. Brauer & Co."
+        ],
+        "director": "disp. Bengt Brauer",
+        "manager": "ing. Magnus Brauer",
+        "coordinates": {
+            "Latitude": 56.8440678,
+            "Longitude": 15.3960304
+        },
+        "cluster": 1
+    },
+    "9": {
+        "name": "Transportbolaget",
+        "location": "Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    },
+    "10": {
+        "name": "AB. Transportembaliage",
+        "location": "Örebro",
+        "business": "Wellpappfabrik",
+        "products": "Tillverkar wellpappkartonger och wellpapp i rullar",
+        "contact": {
+            "postadr": "Örebro 3",
+            "phone": [
+                "15820",
+                "21240"
+            ],
+            "postgiro": "170422"
+        },
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 5
+    }
+}

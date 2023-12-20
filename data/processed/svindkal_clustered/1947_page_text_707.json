@@ -1,0 +1,208 @@
+{
+    "1": {
+        "name": "Sörjors—Taberg",
+        "location": "Smålands Taberg (Jönköp. l.)",
+        "business": "Gjuteri, mek. verkstad och plåtslageri",
+        "contact": {
+            "phone": [
+                "232300"
+            ]
+        },
+        "coordinates": {
+            "Latitude": 57.68333329999999,
+            "Longitude": 14.0833333
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Sörfors Liefabrik",
+        "location": "Eriksfors (Västernorrl. l.)",
+        "business": "Tillverkar liar och lieringar",
+        "products": "Varumärke: »S. F.»",
+        "contact": {
+            "phone": [
+                "25"
+            ],
+            "postgiro": "131165"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_turnover": "40,000 kr"
+        },
+        "foundation_year": 1911,
+        "owners": [
+            "fabr. Olof Lindberg"
+        ],
+        "coordinates": {
+            "Latitude": 62.96666699999999,
+            "Longitude": 18.016667
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Johan Sörling",
+        "location": "Märsta (Stockholms l.)",
+        "business": "Smides- och mek. verkstad",
+        "products": "Tillverkar lastvagnsflak, renhållningskarosser, släpvagnar m.m.",
+        "contact": {
+            "phone": [
+                "72",
+                "74"
+            ],
+            "postgiro": "95062"
+        },
+        "financials": {
+            "capital": "105,300 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1924,
+        "corporation_year": 1942,
+        "owner": "fabr. Johan Sörling",
+        "coordinates": {
+            "Latitude": 59.6196463,
+            "Longitude": 17.8555094
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Sörmlands Fruktkonserver",
+        "location": "Katrineholm (Södermanl. l.)",
+        "business": "Tillverkar sylter, safter, syltade frukter, senap och inlagda gurkor samt utför konservering av frukt, bär och svamp",
+        "contact": {
+            "phone": [
+                "2090"
+            ],
+            "postgiro": "93452"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "1,300,000 kr"
+        },
+        "foundation_year": 1935,
+        "director": "Tage Gutestam",
+        "coordinates": {
+            "Latitude": 58.99555109999999,
+            "Longitude": 16.2054756
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "AB. Sörmländsk Möbelindustri",
+        "location": "Nyköping",
+        "business": "Tillverkar möbler och inredningar",
+        "contact": {
+            "phone": "738",
+            "postgiro": "37463"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": "160,000 kr"
+        },
+        "foundation_year": 1925,
+        "director": "Em. östergren",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "Sörstafors Pappersbruks AB.",
+        "location": "Sörstafors pr Kolbäck (Västmanl. l.)",
+        "business": "Träsliperi, sulfitfabrik och pappersbruk samt pappersförädlingsfabrik",
+        "products": "Tillverkar sulfitmassa samt sulfitpapper",
+        "contact": {
+            "phone": [
+                "40",
+                "112",
+                "164"
+            ],
+            "postgiro": "269191"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "7,000 ton papper o. 8,000 ton fläkttorkad stark sulfitmassa för avsalu"
+        },
+        "foundation_year": 1944,
+        "owner": "AB. T. Bliichers Pappersindustri, Kvidinge",
+        "board": [
+            {
+                "name": "Ola Källqvist",
+                "role": "Ordförande"
+            },
+            {
+                "name": "S. Ahnfors",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "H. Bliicher",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "Tage Bliicher",
+                "role": "Styrelseledamot"
+            },
+            {
+                "name": "H. Ljunggren",
+                "role": "Styrelseledamot"
+            }
+        ],
+        "director": "Tage Bliicher",
+        "managing_director": "Carl Rud. Bergson",
+        "coordinates": {
+            "Latitude": 59.58202009999999,
+            "Longitude": 16.2120456
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Söråkers Sulfitfabrik",
+        "location": "Söråker",
+        "predecessor": "Sunds AB., Sundsvall",
+        "coordinates": {
+            "Latitude": 62.50601460000001,
+            "Longitude": 17.5073245
+        },
+        "cluster": 4
+    },
+    "8": {
+        "name": "AB. Sörängs industrier",
+        "location": "Söräng (Gävleb. l.)",
+        "business": "Mek. verkstad och manufakturverk",
+        "products": "Tillverkar lyftblock, cykelställ, sågblad och sågbågar m.m. Varumärken: »Sindu» o. »Esspe»",
+        "contact": {
+            "phone": [
+                "39050",
+                "39090"
+            ],
+            "postgiro": "287331"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "industriarb": 35
+            }
+        },
+        "foundation_year": 1940,
+        "director": "E. M. Lorentzon",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 6
+    }
+}

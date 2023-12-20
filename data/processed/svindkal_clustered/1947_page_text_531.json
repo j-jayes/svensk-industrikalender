@@ -1,0 +1,196 @@
+{
+    "1": {
+        "name": "Nissafors—Nitroglycerin",
+        "location": "Nissafors",
+        "business": "Nitroglycerin AB",
+        "contact": {
+            "office": "Drottningtorget 6",
+            "phone": [
+                "23075"
+            ],
+            "postgiro": "39459"
+        },
+        "financials": {
+            "capital": "5,000,000 kr",
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1864,
+        "predecessor": "N/A",
+        "board": [
+            {
+                "name": "fil. dr Harald Nordenson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. J. Kempe",
+                "role": "N/A"
+            },
+            {
+                "name": "fil. dr Sigurd Nauckhoff",
+                "role": "N/A"
+            },
+            {
+                "name": "disp. Ejnar Rodling",
+                "role": "N/A"
+            },
+            {
+                "name": "dir. Hans Rydin",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.40924090000001,
+            "Longitude": 13.6354214
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Nissafors Pappersförädling AB.",
+        "location": "Nissafors",
+        "business": "Pappersförädling",
+        "products": "Idealbärkassar",
+        "contact": {
+            "phone": [
+                "30"
+            ],
+            "postgiro": "167770"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1939,
+        "coordinates": {
+            "Latitude": 57.40924090000001,
+            "Longitude": 13.6354214
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Nissafors Träsliperi, G. Lord & Co.",
+        "location": "Nissafors",
+        "business": "Träsliperi",
+        "products": "Mekanisk trämassa",
+        "contact": {
+            "phone": [
+                "8"
+            ]
+        },
+        "foundation_year": 1909,
+        "coordinates": {
+            "Latitude": 57.40924090000001,
+            "Longitude": 13.6354214
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Nissans Pås- & Pappers AB.",
+        "location": "Halmstad",
+        "business": "Tillverkning papperspåsar",
+        "contact": {
+            "phone": [
+                "847"
+            ],
+            "postgiro": "22606"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1925,
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "Nissaströms Bruks och Kraft AB.",
+        "location": "Halmstad",
+        "business": "Pappfabrik",
+        "products": "Brun papp, glanspapp, mekanisk trämassa",
+        "contact": {
+            "sales_offices": [
+                {
+                    "location": "Halmstad",
+                    "phone": "3075"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "5,000,000 kr",
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1889,
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "AB. Nissens Manufacturlng",
+        "location": "Norrköping",
+        "business": "Choklad- och konfektfabrik",
+        "products": "Choklad, konfekt, karameller, marmelad och lakrits",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [
+                "22193"
+            ],
+            "postgiro": "11096"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1898,
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Nitfabriken Wulkan, Ture Emilsson & Co.",
+        "location": "Anderstorp",
+        "business": "Mekanisk verkstad",
+        "products": "Nummerplåts- och bromsbandsnitar, remplattor, remlås, ytbehandlade och glödgade nitar, skärptrissor, pressade och klippta plåtdetaljer",
+        "contact": {
+            "phone": [
+                "54"
+            ],
+            "postgiro": "93515"
+        },
+        "financials": {
+            "annual_turnover": "N/A",
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1933,
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        },
+        "cluster": 6
+    }
+}

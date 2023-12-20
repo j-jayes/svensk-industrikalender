@@ -1,0 +1,247 @@
+{
+    "1": {
+        "name": "Globus—Gnosjö",
+        "location": "Gnosjö",
+        "business": "pressglas, mjölkflaskor, flaskor och konservburkar, sylt-, honungs- och karamellburkar, slipat servisglas och kristallglas m. m.",
+        "products": "Varumärke: »Glimma».",
+        "contact": {
+            "office": "Glimmaglas, Glimåkra",
+            "phone": [
+                "64",
+                "6",
+                "106"
+            ],
+            "postgiro": "36192",
+            "head_office": "AB. Gustaf Landin, Karlbergsvägen 42",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "335534"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 125000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": 800000,
+            "annual_production_value": 800000
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "Oscar Carlström",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "Olof Carlström",
+                "role": "hyttm."
+            },
+            {
+                "name": "Sten Carlström",
+                "role": "driftschef"
+            },
+            {
+                "name": "Alb. E. Christiansson",
+                "role": "rektor"
+            },
+            {
+                "name": "N. C. Christiansson",
+                "role": "juvelerare"
+            }
+        ],
+        "director": "Oscar Carlström",
+        "manager": "Oscar Carlström",
+        "sales_manager": "Sten Carlström",
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Glumslövs Tegelbruks AB.",
+        "location": "Glumslöv",
+        "business": "Tillverkar murtegel och månghålstegel vid tegelbruk i Glumslöv samt fasadtegel vid tegelbruk i Tjustorp, Skabersjö (båda i Malmöh. l.).",
+        "contact": {
+            "phone": [
+                "Glumslöv 70",
+                "Malmö 447094",
+                "Malmö 447114"
+            ],
+            "postgiro": "85083",
+            "sales_offices": [
+                {
+                    "location": "Malmö",
+                    "phone": "Bröderna Edstrand AB., Industrihamnen"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "13 milj. st. tegel"
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "Knut Edstrand",
+                "role": "konsul (ordf.)"
+            },
+            {
+                "name": "Carl Gustav Edstrand",
+                "role": "bruksdisp."
+            },
+            {
+                "name": "Gunnar Edstrand",
+                "role": "bergsing."
+            },
+            {
+                "name": "Anders Sintring",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.9442238,
+            "Longitude": 12.8070146
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Clory, Elektr. Apparatfabriken",
+        "location": "Mariefred",
+        "business": "Se Elektr. Apparatfabriken Glory, Mariefred.",
+        "coordinates": {
+            "Latitude": 59.26203809999999,
+            "Longitude": 17.22311
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Clödlampfabriken Birka AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar glödlampor.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Cnesta Bryggeri AB.",
+        "location": "Gnesta",
+        "business": "Tillverkar maltdryker av klass I och II samt kol sy rade läskedrycker och mineralvatten vid bryggeri i Gnesta (Södermanl. l.).",
+        "contact": {
+            "phone": [
+                "34"
+            ],
+            "postgiro": "25152"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "Arb.-antal": 12
+            }
+        },
+        "foundation_year": 1898,
+        "coordinates": {
+            "Latitude": 59.04834830000001,
+            "Longitude": 17.3072276
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Gnosjö Armaturfabrik",
+        "location": "Gnosjö",
+        "business": "Tillverkar värmelednings- och annan armatur av järn och metall vid fabrik i Gnosjö (Jönköp. l.).",
+        "contact": {
+            "phone": [
+                "114"
+            ],
+            "postgiro": "173823"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_production_value": 65000
+        },
+        "foundation_year": 1932,
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Gnosjö Celbgjuteri, A. Jacobson A Co.",
+        "location": "Gnosjö",
+        "business": "Metallvarufabrik och förnicklingsverk i Gnosjö.",
+        "contact": {
+            "phone": [
+                "14"
+            ],
+            "postgiro": "72104"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_production_value": 60000
+        },
+        "foundation_year": 1906,
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "Gnosjö Portföljfabrik, Paul Svensson & Co.",
+        "location": "Gnosjö",
+        "business": "Tillverkar portmonnäer och plånböcker av skinn vid fabrik i Gnosjö (Jönköp. l.).",
+        "contact": {
+            "phone": [
+                "47"
+            ],
+            "postgiro": "37201"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 15
+            },
+            "annual_production_value": 150000
+        },
+        "foundation_year": 1924,
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 9
+    },
+    "9": {
+        "name": "Gnosjö Trämanufaktur",
+        "location": "Gnosjö",
+        "business": "Tillverkar rockhängare vid fabrik i Gnosjö (Jönköp. l.).",
+        "contact": {
+            "phone": [
+                "55",
+                "78"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 12
+            }
+        },
+        "foundation_year": 1925,
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 1
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "1": {
+        "name": "AB. Upsala Margarinfabrik",
+        "location": "Uppsala",
+        "business": "Tillverkar margarin",
+        "contact": {
+            "telegraph": "Upsalamarga-rin, Uppsala",
+            "phone": [],
+            "postgiro": "25225"
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": 3000000,
+            "annual_production_value": 3000000
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "dir. Martin Edlund",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. G. E. Didner",
+                "role": "unknown"
+            }
+        ],
+        "director": "unknown",
+        "managing_director": "G. Swärdson",
+        "sales_manager": "unknown",
+        "manager": "Ragnar Larsheden",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Upsala Mek. Verkstads AB.",
+        "location": "Uppsala",
+        "business": "Utför gas-, vatten-, avlopps- och värmeledningsanläggningar",
+        "contact": {
+            "phone": [
+                "Wolrath & Co."
+            ],
+            "postgiro": "7633"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": 750000
+        },
+        "corporation_year": 1902,
+        "board": [
+            {
+                "name": "dir. Eric Wolrath",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Gunnar Hedman",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. Folke Wolrath",
+                "role": "unknown"
+            }
+        ],
+        "director": "Gunnar Hedman",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Upsala Möblerings AB.",
+        "location": "Uppsala",
+        "business": "Snickeri- och möbelfabrik. Tillverkar möbler och butiksinredningar",
+        "contact": {
+            "phone": [
+                "31842"
+            ],
+            "postgiro": "92909"
+        },
+        "financials": {
+            "capital": 170000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": 200000
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "disp. Carl W. Svensson",
+                "role": "ordf."
+            },
+            {
+                "name": "verkm. Edwin Borgestedt",
+                "role": "unknown"
+            },
+            {
+                "name": "kamrer Carl Gustaf Gustafsson",
+                "role": "unknown"
+            },
+            {
+                "name": "ritm. Amlitz Loven",
+                "role": "unknown"
+            },
+            {
+                "name": "justerare Simeon Lundgren",
+                "role": "unknown"
+            }
+        ],
+        "director": "Carl W. Svensson",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "AB. Uppsala Optiska Industri",
+        "location": "Uppsala",
+        "business": "Tillverkar glasögonglas, glasögon, skytteglasögon samt skyddsglasögon mot solen och för industrien. Driver även engroshandel med optiska instrument",
+        "contact": {
+            "telegraph": "Optik, Uppsala",
+            "phone": [
+                "38680"
+            ],
+            "postgiro": "90755"
+        },
+        "financials": {
+            "capital": 25000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 500000
+        },
+        "corporation_year": 1939,
+        "board": [
+            {
+                "name": "ing. Bruno Knebel",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Olof Chrysander",
+                "role": "unknown"
+            },
+            {
+                "name": "dir. Willi Drömer",
+                "role": "unknown"
+            }
+        ],
+        "director": "Willi Drömer",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Upsata Separator AB.",
+        "location": "Norrköping",
+        "business": "Tillverkar handdrivna mjölkseparatorer och smörkärnor. Varumärken: »Tor», »Optima», »Rex», »Favorite», »Rune» o. »Vera».",
+        "contact": {
+            "telegraph": "Manusseparator, Norrköping",
+            "phone": [
+                "29405"
+            ],
+            "postgiro": "25147"
+        },
+        "financials": {
+            "capital": 10000
+        },
+        "predecessor": "AB. Manus, Norrköping",
+        "board": [
+            {
+                "name": "adv. Axel Hemmar",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Elis Ellison",
+                "role": "unknown"
+            },
+            {
+                "name": "apot. Lennart Ellison",
+                "role": "unknown"
+            }
+        ],
+        "director": "Elis Ellison",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Upsala Sidenväverier",
+        "location": "Uppsala",
+        "business": "Tillverkar konstsilketyger samt ylle-och helsilketyger",
+        "contact": {
+            "telegraph": "Upsalasiden, Uppsala",
+            "phone": [
+                "39730"
+            ],
+            "postgiro": "23716"
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": 4000000
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "dir. Martin Edlund",
+                "role": "ordf."
+            },
+            {
+                "name": "byggnadsing. A. Diös",
+                "role": "unknown"
+            },
+            {
+                "name": "disp. Folke Edlund",
+                "role": "unknown"
+            },
+            {
+                "name": "intendent Tore Edlund",
+                "role": "unknown"
+            },
+            {
+                "name": "disp. Ragnar Åkerblom",
+                "role": "unknown"
+            }
+        ],
+        "director": "Folke Edlund",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 3
+    },
+    "7": {
+        "name": "AB. Upsala Sportartikelfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar tennis-, badminton- och squash-rackets, bandy- och ishockeyklubbor samt golfklubbor",
+        "contact": {
+            "phone": [
+                "200227",
+                "200237",
+                "200239"
+            ],
+            "postgiro": "141230"
+        },
+        "financials": {
+            "capital": 65000,
+            "employees": {
+                "industriarb": 18
+            }
+        },
+        "current_name_year": 1945,
+        "board": [
+            {
+                "name": "Gösta Forsberg",
+                "role": "unknown"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    }
+}

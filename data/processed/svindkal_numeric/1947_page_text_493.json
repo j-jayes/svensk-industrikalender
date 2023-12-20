@@ -1,0 +1,338 @@
+{
+    "1": {
+        "name": "AB. Mackmeter, Midsommarkransen",
+        "location": "Midsommarkransen, Stockholm",
+        "business": "Tillverkning av bensinlagrings-anläggningar samt mätare för bensin och oljor",
+        "products": "Varumärke: »Mack»",
+        "contact": {
+            "office": "Mek. verkstad i Midsommarkransen, Stockholm",
+            "phone": [
+                "450830",
+                "451110"
+            ],
+            "postgiro": "2531",
+            "telegraph": "Mack, Stockholm"
+        },
+        "financials": {
+            "capital": 90000,
+            "employees": {
+                "industriarb.": 15
+            },
+            "annual_turnover": 300000,
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1916,
+        "corporation_year": 1922,
+        "board": [
+            {
+                "name": "fru H. Älvring",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Vilgodt Lindberg",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.3,
+            "Longitude": 18
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Mackmyra Sulfit AB., Mackmyra",
+        "location": "Mackmyra (Gävleb. l.)",
+        "business": "Tillverkning av sulfitcellulosa, sulfitsprit och sågade trävaror, jordbruk och skogshantering",
+        "contact": {
+            "phone": "Valbo 15",
+            "postgiro": "24854",
+            "telegraph": "Mackmyrasulf it, Gävle"
+        },
+        "financials": {
+            "capital": 2050000,
+            "employees": {
+                "industriarb.": 190
+            },
+            "annual_turnover": "30,000 ton sulfitcellulosa, 1 milj. 1. sulfitsprit, 500 stds sågade trävaror"
+        },
+        "foundation_year": 1890,
+        "board": [
+            {
+                "name": "godsäg. Erik Edström",
+                "role": "Styrelse: ordf."
+            },
+            {
+                "name": "disp. Gunnar Hornborg",
+                "role": "Disp."
+            },
+            {
+                "name": "övering. J. Strindlund",
+                "role": "Övering."
+            },
+            {
+                "name": "dir. Sjune Svensson",
+                "role": "Dir."
+            },
+            {
+                "name": "Gunnar Hornborg",
+                "role": "Styrelse: disp."
+            },
+            {
+                "name": "Alvar Svahn",
+                "role": "Kontorschef"
+            },
+            {
+                "name": "U. J. Strindlund",
+                "role": "Driftsing."
+            },
+            {
+                "name": "jägm. Cl. Löfgren",
+                "role": "Skogsförvalt."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.63333300000001,
+            "Longitude": 16.966667
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "AB. Madrasser, Karlstad",
+        "location": "Karlstad",
+        "business": "Tillverkning av madrasser, resårplymåer och ryggkuddar",
+        "contact": {
+            "phone": "13656",
+            "postgiro": "99869",
+            "representatives": [
+                {
+                    "location": "Stockholm",
+                    "name": "Seth E. Lindblad",
+                    "phone": "256415"
+                },
+                {
+                    "location": "övriga Sverige",
+                    "name": "Bengt Westholm",
+                    "phone": "27995"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "15,0.00 kr",
+            "employees": {
+                "Arb.-antal": 15
+            },
+            "annual_turnover": 400000
+        },
+        "foundation_year": 1936,
+        "board": [
+            {
+                "name": "Bertil Kolthoff",
+                "role": "Styrelse, verkst. dir. o. disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Madrass-Fabriken Dux AB., Malmö",
+        "location": "Malmö",
+        "business": "Tillverkning av spiralmadrasser, kuddar, fåtöljer, ottomaner, soffor, sängar m. m.",
+        "products": "Varumärke: »Dux»",
+        "contact": {
+            "office": "Celsiusg. 41",
+            "phone": [
+                "Ljungs industri",
+                "107508"
+            ],
+            "postgiro": "14098",
+            "exhibitions": [
+                {
+                    "location": "Stockholm",
+                    "phone": "107508"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "119334"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "26690"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 225000,
+            "employees": {
+                "industriarb.": 225
+            }
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "fabr. A. Efraim Ljung",
+                "role": "Styrelse: ordf."
+            },
+            {
+                "name": "fabr. Martin B. Andersson",
+                "role": "Styrelse: disp."
+            },
+            {
+                "name": "dis¥. Eric Ljung",
+                "role": "Disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Magni AB., Borås",
+        "location": "Borås",
+        "business": "Tillverkning av herr- och gosskläder",
+        "contact": {
+            "phone": "17305",
+            "postgiro": "20614"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb.": 300
+            },
+            "annual_turnover": 5100000
+        },
+        "foundation_year": 1913,
+        "corporation_year": 1914,
+        "current_name_year": 1939,
+        "board": [
+            {
+                "name": "ing. Stig Magni",
+                "role": "Styrelse: ordf."
+            },
+            {
+                "name": "disp. Gösta Magni",
+                "role": "Styrelse: disp."
+            },
+            {
+                "name": "fru W. Magni",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Gösta Magni",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "Magnussons Lädervaru AB-, Klippan",
+        "location": "Klippan",
+        "description": "Se AB. Bröderna Ottosson &amp; Co. Lä-dervarufabrik, Klippan",
+        "coordinates": {
+            "Latitude": 56.1348998,
+            "Longitude": 13.1290409
+        },
+        "cluster": 4
+    },
+    "7": {
+        "name": "AB. Magnussons Mek. Verkstad, Stockholm",
+        "location": "Stockholm",
+        "business": "Tillverkning av ringboksmekanismer ocb andra detaljer för lösbladspärmar",
+        "contact": {
+            "office": "Regeringsg. 109",
+            "phone": [
+                "210938",
+                "104054"
+            ],
+            "postgiro": "50675",
+            "agents": [
+                {
+                    "country": "samtliga länder utom Norge",
+                    "name": "AB. Galco. Stockholm",
+                    "location": "Gävleg. 12 A"
+                },
+                {
+                    "country": "Norge",
+                    "name": "Vilh. Sten Edwardsen A/S, Oslo",
+                    "location": "Huitfeldtsg. 3"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb.": 30
+            },
+            "annual_turnover": 300000
+        },
+        "foundation_year": 1895,
+        "corporation_year": 1937,
+        "board": [
+            {
+                "name": "dir. Konrad Andersson",
+                "role": "Styrelse: ordf."
+            },
+            {
+                "name": "bergsing. Sven Strömgren",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kamrer Thorsten Wiberg",
+                "role": "V. verkst. dir."
+            }
+        ],
+        "director": "Sven Strömgren",
+        "managing_director": "Thorsten Wiberg",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Magnusson &amp; Ohlssons Möbelfabrik, Malmhäck",
+        "location": "Malmbäck (Jönköp. l.)",
+        "business": "Tillverkning av kompletteringsmöbler",
+        "contact": {
+            "phone": "53",
+            "postgiro": "90124"
+        },
+        "financials": {
+            "capital": 13000,
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_turnover": 110000
+        },
+        "foundation_year": 1934,
+        "corporation_year": 1935,
+        "board": [
+            {
+                "name": "fabr. Lage Åberg",
+                "role": "Styrelse: ordf."
+            },
+            {
+                "name": "åkare Ernst Andersson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru Astrid Åberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Lage Åberg",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.5781694,
+            "Longitude": 14.4641901
+        },
+        "cluster": 8
+    }
+}

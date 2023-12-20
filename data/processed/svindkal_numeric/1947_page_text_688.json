@@ -1,0 +1,253 @@
+{
+    "1": {
+        "name": "Svenska Sportfabriks AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar badmintonbollar.",
+        "products": "Varumärken: »Oyklon», »Komet», »Indian» o. »Svalan».",
+        "contact": {
+            "office": "Kungsg. 48",
+            "phone": [
+                "117395",
+                "117360"
+            ],
+            "postgiro": "159797"
+        },
+        "financials": {
+            "capital": 15000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 75000
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "Ludv. T. Hagberg",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Svenska Stansknivfabriken",
+        "location": "Örebro",
+        "business": "Tillverkar stansknivar för olika ändamål.",
+        "contact": {
+            "phone": "11763",
+            "postgiro": "70896",
+            "sales_offices": [
+                {
+                    "location": "AB. Praktiska Nyheter, Linnég. 51",
+                    "phone": "622208"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_production_value": 35000
+        },
+        "foundation_year": 1915,
+        "owners": [
+            "fabr. Harry Andersson"
+        ],
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Svenska Strebelverken",
+        "location": "Västervik",
+        "business": "Gjuteri och mek. verkstad.",
+        "products": "Tillverkar värmeledningspannor samt specialpannor för eldning med koks, stokerkol, ved och olja. Varumärke: »Strebel».",
+        "contact": {
+            "telegraph": "Strebel, Västervik",
+            "phone": [
+                "1150",
+                "1111"
+            ],
+            "postgiro": "82450",
+            "sales_offices": [
+                {
+                    "location": "AB. Gustavsbergs Fabriker, Gustavsberg",
+                    "phone": "»Porslinsfabriken»"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": 1500000
+        },
+        "foundation_year": 1924,
+        "current_name_year": 1933,
+        "board": [
+            {
+                "name": "Pehr Carlson",
+                "role": "Styrelse dir."
+            },
+            {
+                "name": "Yngve Schartau",
+                "role": "adv."
+            }
+        ],
+        "director": "Åke Gylling",
+        "managing_director": "G. Miinster",
+        "sales_manager": "Jörgen Drachmann",
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Svenska Strumpfabriks AB.",
+        "location": "Linköping",
+        "business": "Strumpfabrik i Partille.",
+        "products": "Tillverkar damstrumpor.",
+        "contact": {
+            "phone": "»Ullholms», Linköping"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 500000
+        },
+        "foundation_year": 1940,
+        "owners": [
+            "AB. K. A. Ullholm"
+        ],
+        "board": [
+            {
+                "name": "K. A. Ullholm",
+                "role": "Styrelse dir."
+            },
+            {
+                "name": "Wald. Johanson",
+                "role": "disp."
+            },
+            {
+                "name": "Bengt Lindström",
+                "role": "försäljn.-chef"
+            }
+        ],
+        "manager": "K. A. Ullholm",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Svenska Stållinor",
+        "location": "Kristinehamn",
+        "predecessor": "Hellefors Bruks AB., Hällefors",
+        "coordinates": {
+            "Latitude": 59.3100677,
+            "Longitude": 14.1089192
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "Svenska Stålpressnings AB.",
+        "location": "Olofström",
+        "business": "Press verk, plåt- och bleckslageri, galva-niseringsverk samt mek. verkstad vid Olof",
+        "products": "ström (Blekinge l.). Tillverkar emaljerade plåtbadkar, kok-, hushålls- och sanitetskärl samt disklådor och diskbänksbeklädnader av rostfri stålplåt, bykgrytor och vattenvärmarq, tvätt apparater, foder kokare, mullskopor, separatordelar, gjuteriskänkar, automobil-materiel m. m. Bolaget idkar jämväl lantbruk.",
+        "contact": {
+            "office": "Olof ström",
+            "phone": "»Bruket», Olofström",
+            "postgiro": "7841"
+        },
+        "financials": {
+            "capital": 1500000,
+            "employees": {
+                "industriarb": 1,
+                " 1": "200"
+            }
+        },
+        "foundation_year": 1887,
+        "board": [
+            {
+                "name": "E. Brändström",
+                "role": "dir."
+            },
+            {
+                "name": "Folke Hellstedt",
+                "role": "dir."
+            },
+            {
+                "name": "Gösta Runnquist",
+                "role": "dir."
+            },
+            {
+                "name": "Axel Wästfelt",
+                "role": "dir."
+            },
+            {
+                "name": "Gösta Runnquist",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Karl Granfors",
+                "role": "Tekn. dir."
+            },
+            {
+                "name": "N. v. Holten",
+                "role": "Försäljn.-chef"
+            },
+            {
+                "name": "John Svensson",
+                "role": "övering."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.277708,
+            "Longitude": 14.530938
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Svenska Stålsolffabriken",
+        "location": "Borås",
+        "predecessor": "AB. Hugo Hennig, Borås",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 4
+    },
+    "8": {
+        "name": "Svenska Stängselnäts AB.",
+        "location": "Malmö",
+        "business": "Tillverkar galvaniserat stängselnät, s. k. hönsnät, galvaniserad slät och korrugerad plåt, pannplåt m. m., utför legogalvanise-ring.",
+        "contact": {
+            "office": "Edw. H. Thomée AB., Malmö, Engelbrektsg. 11",
+            "phone": "»Thomée’s Järn»",
+            "postgiro": "38788"
+        },
+        "financials": {
+            "capital": 432000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 2500000
+        },
+        "foundation_year": 1897,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    }
+}

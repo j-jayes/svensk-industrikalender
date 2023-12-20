@@ -1,0 +1,190 @@
+{
+    "1": {
+        "name": "Skogsägarnas Industri AB. (SIAB)",
+        "location": "Växjö",
+        "business": "Träimpregneringsverk, sågverk",
+        "products": "Tillverkar sågade och hyvlade trävaror samt impregnerade stolpar, slipérs m. m.",
+        "contact": {
+            "office": "Växjö",
+            "phone": [
+                "3560"
+            ],
+            "postgiro": "271675",
+            "telegraph": "Siab, Växjö",
+            "factory_office": "Hultsfred (Kalmar l.), Vislanda (Kronob. l.)"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "annual_turnover": "5,000,000 kr",
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1943,
+        "board": [
+            {
+                "name": "Hadar Hedborg",
+                "role": "ordf."
+            },
+            {
+                "name": "Björn Hyltén-Cavallius",
+                "role": "ryttm."
+            },
+            {
+                "name": "David Johansson",
+                "role": "landstingsm."
+            },
+            {
+                "name": "Erik v. Kantzow",
+                "role": "godsäg."
+            },
+            {
+                "name": "Axel Manner-skantz",
+                "role": "kapten"
+            },
+            {
+                "name": "Arvid Nilsson",
+                "role": "godsäg."
+            },
+            {
+                "name": "Karl Nilsson",
+                "role": "landstingsm."
+            },
+            {
+                "name": "Yngve Pagels",
+                "role": "lantbr."
+            },
+            {
+                "name": "Gösta Rappe",
+                "role": "frih."
+            },
+            {
+                "name": "Louis Wrede",
+                "role": "frih."
+            }
+        ],
+        "director": "Gösta Edström",
+        "coordinates": {
+            "Latitude": 56.8790044,
+            "Longitude": 14.8058522
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "S. J. Skohgs Verkstäder",
+        "location": "Örebro",
+        "products": "Tillverkar varmvattenberedare och badkaminer, motströmsapparater, värmeledningspannor och genomströmningsvarmvattenberedare (märke: »ESVE»), elektr. varmvattenberedare^ (märke: »El-ESVE»), ångfördelningslådor samt golvslipningsmaskiner.",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "10272"
+            ],
+            "postgiro": "28211"
+        },
+        "financials": {
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1874,
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Skokompaniet",
+        "location": "Mjällom",
+        "products": "Tillverkar skidkängor, arbetsskor, vandrarskor och sandaler",
+        "contact": {
+            "phone": [
+                "16"
+            ],
+            "postgiro": "132021"
+        },
+        "financials": {
+            "annual_production_value": "740,000 kr"
+        },
+        "foundation_year": 1937,
+        "coordinates": {
+            "Latitude": 62.98592969999999,
+            "Longitude": 18.4316649
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "AB. Skorna-Borst",
+        "location": "Malmö",
+        "products": "Tillverkar syntetisk skomakeriborst (märke: »Skoma-Borst»)",
+        "contact": {
+            "office": "Söderg. 14",
+            "phone": [
+                "78335"
+            ],
+            "postgiro": "148482"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "annual_production_value": "40,000 kr"
+        },
+        "foundation_year": 1942,
+        "director": "Edgar Nathan",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Skoogs Motorfabrik, Bröderna",
+        "location": "Borlänge",
+        "products": "",
+        "contact": {
+            "phone": [
+                "<contact phone number>"
+            ],
+            "postgiro": "<postgiro number>"
+        },
+        "coordinates": {
+            "Latitude": 60.484304,
+            "Longitude": 15.433969
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "AB. Skorpeds Trävaruindustri",
+        "location": "Skorped",
+        "products": "Tillverkar sågade och hyvlade trävaror",
+        "contact": {
+            "phone": [
+                "54"
+            ],
+            "postgiro": "31614"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "annual_production_value": "250,000 kr"
+        },
+        "foundation_year": 1942,
+        "coordinates": {
+            "Latitude": 63.36865109999999,
+            "Longitude": 17.8712706
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Skriv- & Ritboks-AB.",
+        "location": "Årlöv",
+        "products": "Tillverkar skriv- och ritböcker, utför bokbinderi- och tryckeriarbeten",
+        "contact": {
+            "office": "Arlöv",
+            "phone": [
+                "Malmö 430489"
+            ],
+            "postgiro": "5278"
+        },
+        "foundation_year": 1920,
+        "coordinates": {
+            "Latitude": 55.6402145,
+            "Longitude": 13.0886413
+        },
+        "cluster": 5
+    }
+}

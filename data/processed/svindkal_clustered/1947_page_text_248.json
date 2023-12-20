@@ -1,0 +1,266 @@
+{
+    "1": {
+        "name": "Dorthé-—Drufvefors",
+        "location": "FjällbacJca",
+        "business": "Tillverkar ansjovis, sillkonserver och kaviar",
+        "products": "vid fabrik i Fjällbacka (Göteb. o. Bohus l.)",
+        "contact": {
+            "phone": [
+                "23",
+                "128"
+            ],
+            "postgiro": "74634"
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "150,000 kr",
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1922,
+        "owner": "fabr. Ivar Dorthé",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Drabant, Konfektions AB.",
+        "location": "Alingsås",
+        "business": "Se Konfektions AB. Drabant, Alingsås.",
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Dragéfabriken, Carl Klein",
+        "location": "Gävle",
+        "business": "Tillverkar dragéer",
+        "contact": {
+            "phone": "4384",
+            "postgiro": "140718"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1938,
+        "owner": "fabr. Carl Klein",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Drags AB.",
+        "location": "Norrköping",
+        "business": "Kamgarns- och streichgarnsspinneri, väveri, appreturverk och färgeri. Tillverkar hel ylteyger.",
+        "contact": {
+            "head_office": "Norrköping",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "115592"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "136282"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "27538"
+                }
+            ],
+            "telegraph": "Dragsbolaget, Norrköping",
+            "postgiro": "8441",
+            "factory_phone": "Drags Bolag",
+            "factory_office": "Dragsbolaget, Norrköping"
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": "4,300,000 kr",
+            "annual_production_value": "4,300,000 kr"
+        },
+        "foundation_year": 1854,
+        "board": [
+            {
+                "name": "Ryno Lundquist",
+                "role": "ordf."
+            },
+            {
+                "name": "Evert Björkne",
+                "role": "disp."
+            },
+            {
+                "name": "Eric Enhörning",
+                "role": "konsul"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "Dragspelsfabriken Skandia, V. B i se",
+        "location": "Göteborg",
+        "business": "Tillverkar dragspel",
+        "products": "Varumärke: »Skandia»",
+        "contact": {
+            "phone": "133488",
+            "postgiro": "42753"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 7
+            },
+            "annual_turnover": "50,000 kr",
+            "annual_production_value": "50,000 kr"
+        },
+        "foundation_year": 1931,
+        "owner": "fabr. Victor Dise",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Dress",
+        "location": "Göteborg",
+        "business": "Tillverkar herr- och gosskläder samt damkappor och damdräkter",
+        "products": "Varumärke: »Dress»",
+        "contact": {
+            "office": "Gamlestadsv. 1 A",
+            "postgiro": "41200"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": "3,000,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1916,
+        "board": [
+            {
+                "name": "Thorbjörn Holm",
+                "role": "ordf."
+            },
+            {
+                "name": "Fredrik Holm",
+                "role": "dir."
+            },
+            {
+                "name": "Henning C. Settergren",
+                "role": "dir."
+            }
+        ],
+        "owner": "",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Drev &amp; Trassel, Fabriks AB.",
+        "location": "Göteborg",
+        "business": "Se Fabriks AB. Drev &amp; Trassel, Göteborg.",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "Drott, Vaddfabriken",
+        "location": "Nässjö",
+        "business": "Se Vaddfabriken Drott, Nässjö.",
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        },
+        "cluster": 1
+    },
+    "9": {
+        "name": "H. I. Drucker &amp; Son AB.",
+        "location": "Malmö",
+        "business": "Tillverkar dampälsar, kragar och muffar samt pälsmössor",
+        "contact": {
+            "office": "S. Förstadsg. 18",
+            "telegraph": "Drucker, Malmö",
+            "phone": [
+                "15055",
+                "26905"
+            ]
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1941,
+        "owner": "",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "10": {
+        "name": "Drufvefors Väfveri AB.",
+        "location": "Borås",
+        "business": "Bomullsväveri och ylleväveri samt färgeri och blekeri. Tillverkar kulörta bomulls- och konstsilkevävnader samt yllevävnader",
+        "contact": {
+            "telegraph": "Drufvefors, Borås",
+            "phone": "17175",
+            "postgiro": "140130"
+        },
+        "financials": {
+            "capital": "1,537,900 kr",
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": "6,500,000 kr",
+            "annual_production_value": "6,500,000 kr"
+        },
+        "foundation_year": 1871,
+        "board": [
+            {
+                "name": "Bertil Odelfelt",
+                "role": "bankdir."
+            },
+            {
+                "name": "H. v. Bornstedt",
+                "role": "ordf."
+            },
+            {
+                "name": "Gerhard Forssell",
+                "role": "prof."
+            }
+        ],
+        "owner": "",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    }
+}

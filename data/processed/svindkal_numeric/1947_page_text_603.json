@@ -1,0 +1,322 @@
+{
+    "1": {
+        "name": "Salarider—Sanda",
+        "location": "Lund",
+        "business": "Färgeri, ullspinneri och väveri",
+        "products": "Tillverkar ullgarner, filtar, damulstertyger och mattor.",
+        "contact": {
+            "office": "Sanda, Lund",
+            "phone": [
+                "17355"
+            ],
+            "postgiro": "72324",
+            "head_office": "Lund",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 166000,
+            "employees": {
+                "industriarb": 136
+            },
+            "annual_turnover": 3500000,
+            "annual_production_value": ""
+        },
+        "foundation_year": 1875,
+        "board": [
+            {
+                "name": "Frithiof Hammar",
+                "role": "Styrelse o. verkst. dir.."
+            }
+        ],
+        "owner": "",
+        "director": "Frithiof Hammar",
+        "managing_director": "",
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Sa!anders Fabriks AB",
+        "location": "Lund",
+        "business": "",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 24
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1850,
+        "board": [
+            {
+                "name": "disp. P. A. Meynert",
+                "role": "Styrelse"
+            },
+            {
+                "name": "adv. Carl-Eric Ingelgren",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru F. Larsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru M. Meynert",
+                "role": "Styrelse"
+            }
+        ],
+        "owner": "",
+        "director": "P. A. Meynert",
+        "managing_director": "P. A. Meynert",
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "AB. Saltsjöqvarn",
+        "location": "Stockholm",
+        "business": "Kvarn vid Saltsjökvarn (Sthlms l.). Tillverkar vetemjöl, rågsikt, rågmjöl och mannagryn samt fodervaror.",
+        "products": "",
+        "contact": {
+            "office": "Stockholm, Skeppsbron 22",
+            "phone": [
+                "Saltsjöqvarn, Stockholm"
+            ],
+            "postgiro": "500",
+            "head_office": "",
+            "telegraph": "Saltsjöqvarn, Stockholm",
+            "factory_office": "Saltsjökvarn",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 5000000,
+            "employees": {
+                "industriarb": 191
+            },
+            "annual_turnover": 21000000,
+            "annual_production_value": ""
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "landshövd. Joh. Nilsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Hjalmar Carlborn",
+                "role": "Styrelse"
+            },
+            {
+                "name": "civiling. Gunnar Molin",
+                "role": "Styrelse"
+            },
+            {
+                "name": "v. konsul Carl Nilsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "civiling. Sten Westerberg",
+                "role": "Styrelse"
+            }
+        ],
+        "owner": "",
+        "director": "Hj. Carlborn",
+        "managing_director": "Hj. Carlborn",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Salsta-Wattholma Tegelbruk",
+        "location": "Vattholma",
+        "business": "Tillverkar mur- och taktegel samt dräneringsrör vid tegelbruk tillhörande Sal-sta-Wattholms egendomar vid Vattholma (Uppsala l.)",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "4"
+            ],
+            "postgiro": "166070",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 24
+            },
+            "annual_turnover": "",
+            "annual_production_value": "0,6 milj. st. tegelvaror"
+        },
+        "foundation_year": 1873,
+        "board": [],
+        "owner": "frih. Per Erik v. Essen",
+        "director": "",
+        "managing_director": "",
+        "coordinates": {
+            "Latitude": 60.01484439999999,
+            "Longitude": 17.7331499
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Saltviks Slip &amp; Varv",
+        "location": "Oskarshamn",
+        "business": "Bygger och reparerar träfartyg såsom motorseglare, motorfiskebåtar och livbåtar.",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "204"
+            ],
+            "postgiro": "144490",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "",
+            "annual_production_value": 200000
+        },
+        "foundation_year": 1899,
+        "board": [],
+        "owner": "ing. Efraim Björkman",
+        "director": "",
+        "managing_director": "ing. Efraim Björkman",
+        "coordinates": {
+            "Latitude": 57.26569929999999,
+            "Longitude": 16.4473984
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Albert Samuelsson &amp; C:o.",
+        "location": "Skeppshult",
+        "business": "Tillverkar cyklar vid fabrik i Skepps-hult (Jönköp. l.). Varumärken: »Smålands Original», »Record Original», »Skeppshult» o. »S».",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "8"
+            ],
+            "postgiro": "8120",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "",
+            "annual_production_value": 600000
+        },
+        "foundation_year": 1920,
+        "board": [],
+        "owner": "Albert Samuelssons sterbhus o. fabr. Arvid Samuelson",
+        "director": "",
+        "managing_director": "Arvid Samuelson",
+        "coordinates": {
+            "Latitude": 57.12744,
+            "Longitude": 13.37045
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "AB. Victor Samuelsons Strumpfabrik",
+        "location": "Mölndal",
+        "business": "Tillverkar strumpor.",
+        "products": "",
+        "contact": {
+            "office": "Mölndal",
+            "phone": [
+                "Göteborg 272030"
+            ],
+            "postgiro": "40770",
+            "head_office": "",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "industriarb": 260
+            },
+            "annual_turnover": 3500000,
+            "annual_production_value": ""
+        },
+        "foundation_year": 1935,
+        "board": [],
+        "owner": "",
+        "director": "Victor Samuelson",
+        "managing_director": "Victor Samuelson",
+        "coordinates": {
+            "Latitude": 57.65,
+            "Longitude": 12.016667
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "AB. Sana Trikåfabrik",
+        "location": "Norrköping",
+        "business": "Tillverkar herrunderkläder. Varumärke: »Sana».",
+        "products": "",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [
+                "20604"
+            ],
+            "postgiro": "161036",
+            "head_office": "",
+            "telegraph": "Sana, Norrköping",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 10000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1918,
+        "board": [],
+        "owner": "",
+        "director": "Lennart Allberg",
+        "managing_director": "Lennart Allberg",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 9
+    }
+}

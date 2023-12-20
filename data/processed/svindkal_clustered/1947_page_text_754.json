@@ -1,0 +1,171 @@
+{
+    "1": {
+        "name": "Verktygsfabriken—-Wesström",
+        "location": "Kristinehamn",
+        "business": "Tillverkar chassidelar för automobiler, kontrollmått, mätverktyg, giggar och fix-turer samt andra finmekaniska arbeten på beställning.",
+        "contact": {
+            "phone": [
+                "10911"
+            ],
+            "postgiro": "28601"
+        },
+        "financials": {
+            "capital": "1,200,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "100,000 kr",
+            "annual_production_value": "100,000 kr"
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "fabr. Joe Fielding"
+        ],
+        "director": "Olof Tiblom",
+        "managing_director": "Olof Tiblom",
+        "sales_manager": "Gösta Hullner",
+        "coordinates": {
+            "Latitude": 59.3100677,
+            "Longitude": 14.1089192
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Verktygsfabriken Virserum",
+        "location": "Virserum",
+        "business": "Tillverkar verktyg vid mek. verkstad i Virserum (Kalmar l.).",
+        "contact": {
+            "phone": [
+                "229",
+                "339"
+            ],
+            "postgiro": "266900"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1943,
+        "director": "Nils Welinder",
+        "managing_director": "Nils Welinder",
+        "manager": "Sigvard Lindvall",
+        "coordinates": {
+            "Latitude": 57.3199949,
+            "Longitude": 15.5812344
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Verktygsindustri, Johansson &amp; Co.",
+        "location": "Gnosjö",
+        "business": "Tillverkar excenterpressar, götpressar, pressverktyg och automatverktyg samt pressade massartiklar. Specialitet: 6—8 tons excenterpressar och pressverktyg.",
+        "contact": {
+            "phone": [
+                "147"
+            ],
+            "postgiro": "266559"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_turnover": "190,000 kr"
+        },
+        "foundation_year": 1941,
+        "owners": [
+            "fabr. Nils Johansson",
+            "fabr. Olof Pettersson"
+        ],
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Wernqvists Mek. Verkstads AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar variabla kondensatorer för radioändamål.",
+        "contact": {
+            "office": "Tunnelg. 19B",
+            "phone": [
+                "211528"
+            ],
+            "postgiro": "59477"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1936,
+        "manager": "K. B. Wernqvist",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Versalefabriken, Melzer &amp; Österblom",
+        "location": "Stockholm",
+        "business": "Kemisk fabrik i Saltsjö-Nacka (Sthlms 1.). Tillverkar tvättmedel, rengöringsmedel, limämnen samt lackförtunning.",
+        "contact": {
+            "office": "Stockholm, Tjärhovsg. 6",
+            "phone": [
+                "402464",
+                "437998",
+                "441000"
+            ],
+            "postgiro": "2958"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "750,000 kr"
+        },
+        "foundation_year": 1922,
+        "owners": [
+            "dir. Rob. österblom",
+            "ing. K. Melzer"
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Wessel &amp; Co. AB.",
+        "location": "Stockholm",
+        "business": "Elektromek. fabrik. Tillverkar strömställare.",
+        "contact": {
+            "office": "Lindhagensg. 124",
+            "phone": [
+                "520200"
+            ],
+            "postgiro": "156660"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "1,300,000 kr"
+        },
+        "corporation_year": 1944,
+        "manager": "ing. Alvar Mattsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    }
+}

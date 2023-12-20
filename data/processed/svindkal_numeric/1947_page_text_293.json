@@ -1,0 +1,280 @@
+{
+    "1": {
+        "name": "AB. Fjugesta Möbelindustri",
+        "location": "Fjugesta",
+        "business": "Tillverkar möbler vid fabrik i Fjugesta (Örebro l.)",
+        "contact": {
+            "phone": [
+                "48"
+            ],
+            "postgiro": "266681"
+        },
+        "financials": {
+            "capital": 35000,
+            "employees": {
+                "antal industriarb.": 20
+            }
+        },
+        "foundation_year": 1923,
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "fabr. Erhard Berg",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Alma Berg",
+                "role": "other"
+            },
+            {
+                "name": "fru Ester Berg",
+                "role": "other"
+            },
+            {
+                "name": "fabr. Filip Berg",
+                "role": "other"
+            },
+            {
+                "name": "fabr. Helmer Lindmark",
+                "role": "other"
+            }
+        ],
+        "director": "Erhard Berg",
+        "coordinates": {
+            "Latitude": 59.17642569999999,
+            "Longitude": 14.8709161
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Fjugesta Nya Tegelbruk",
+        "location": "Fjugesta",
+        "business": "Tillverkar murtegel, tak- och nocktegel, mellanväggsplattor samt dräneringsrör vid tegelbruk i Fjugesta (Örebro l.)",
+        "contact": {
+            "phone": [
+                "7"
+            ],
+            "postgiro": "95355"
+        },
+        "financials": {
+            "capital": 40000,
+            "employees": {
+                "antal industriarb.": 35
+            },
+            "annual_production_value": "2,3 milj. st. tegelvaror"
+        },
+        "foundation_year": 1910,
+        "owner": "verkst. dir.: Petrus Wahlberg",
+        "coordinates": {
+            "Latitude": 59.17642569999999,
+            "Longitude": 14.8709161
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "AB. Fjugesta Rullgardinfabrik",
+        "location": "Fjugesta",
+        "business": "Träförädlingsfabrik i Fjugesta (Örebro l.). Tillverkar rullgardinkäppar och rullgardiner.",
+        "contact": {
+            "phone": [
+                "8"
+            ],
+            "postgiro": "23281"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "antal industriarb.": 40
+            },
+            "annual_turnover": 600000
+        },
+        "foundation_year": 1909,
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "godsäg. C. Wetter",
+                "role": "ordf."
+            },
+            {
+                "name": "igodsäg. Eric Nilsson",
+                "role": "other"
+            },
+            {
+                "name": "godsäg. J. Roth",
+                "role": "other"
+            },
+            {
+                "name": "disp. Ivar Wirén",
+                "role": "other"
+            },
+            {
+                "name": "kamrer Stig Wirén",
+                "role": "other"
+            },
+            {
+                "name": "disp.: I. Wirén",
+                "role": "other"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.17642569999999,
+            "Longitude": 14.8709161
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Fjäderfabriken Spiros AB.",
+        "location": "Ulv sunda",
+        "business": "Specialfabrik för tillverkning av spiralfjädrar samt olika typer av fjädrar och fjäderprodukter.",
+        "contact": {
+            "phone": [
+                "254808",
+                "254809",
+                "254810"
+            ],
+            "postgiro": "4028"
+        },
+        "capital": 300000,
+        "employees": {
+            "antal industriarb.": 45
+        },
+        "annual_turnover": 800000,
+        "foundation_year": 1919,
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "dir. L. Tell",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Algot S. Eklund",
+                "role": "other"
+            },
+            {
+                "name": "dir. Oskär A. Eklund",
+                "role": "other"
+            }
+        ],
+        "director": "Oskar A. Eklund",
+        "managing_director": "Oskär A. Eklund",
+        "sales_manager": "Algot S. Eklund",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "Fjällbacka Stenhuggeri AB.",
+        "location": "Uddevalla",
+        "business": "Tillverkar gatsten, smågatsten och kantsten vid stenhuggeri i Fjällbacka (Göteb. o. Bohus l.).",
+        "contact": {
+            "phone": [
+                "11158",
+                "11668"
+            ]
+        },
+        "capital": 10000,
+        "foundation_year": 1904,
+        "director": "Viktor Kullgren",
+        "platsförest": "B. Truedson",
+        "coordinates": {
+            "Latitude": 58.3498003,
+            "Longitude": 11.935649
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "AB. Fjäråsgneis",
+        "location": "Göteborg",
+        "business": "Stenhuggeri i Fjärås (Hallands l.). Tillverkar byggnadssten.",
+        "contact": {
+            "phone": [
+                "146423"
+            ],
+            "postgiro": "41632"
+        },
+        "capital": 15000,
+        "employees": {
+            "antal industriarb.": 25
+        },
+        "annual_production_value": 125000,
+        "foundation_year": 1929,
+        "director": "Roland Andersson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "Flagg- & Rullgardinsfabriken 'Kronan' AB.",
+        "location": "Hälsingborg",
+        "business": "Tillverkar flaggor och rullgardiner.",
+        "contact": {
+            "phone": [
+                "14182"
+            ],
+            "postgiro": "91682"
+        },
+        "capital": 8000,
+        "employees": {
+            "antal industriarb.": 5
+        },
+        "annual_turnover": 150000,
+        "foundation_year": 1932,
+        "director": "fru Olga Ohlsson",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "Flens Bryggeri AB.",
+        "location": "Flen",
+        "business": "Tillverkar svagdricka vid bryggeri i Flen (Södermanl. l.).",
+        "contact": {
+            "phone": [
+                "271"
+            ]
+        },
+        "capital": 60000,
+        "employees": {
+            "arb.-antal": 10
+        },
+        "annual_turnover": 50000,
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "disp. Gösta Sverdrup",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl Axel Andersson",
+                "role": "other"
+            }
+        ],
+        "director": "Carl Axel Andersson",
+        "coordinates": {
+            "Latitude": 59.0579376,
+            "Longitude": 16.5879122
+        },
+        "cluster": 2
+    },
+    "9": {
+        "name": "Flens Elektro-Mek. Verkstad",
+        "location": "Flen",
+        "business": "Tillverkar gjutjärnskapslade triangelomkopplare samt trespoliga strömbrytare vid mek. verkstad i Flen (Södermanl. l.).",
+        "contact": {
+            "phone": [
+                "염271"
+            ]
+        },
+        "coordinates": {
+            "Latitude": 59.0579376,
+            "Longitude": 16.5879122
+        },
+        "cluster": 6
+    }
+}

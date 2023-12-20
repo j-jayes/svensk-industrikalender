@@ -1,0 +1,187 @@
+{
+    "1": {
+        "name": "Byggnads AB. Ernst Wranne",
+        "location": "Kalmar",
+        "business": "Byggnadsentreprenörfirma och snickerifabrik",
+        "products": "Utför byggnader samt tillverkar byggnadssnickerier.",
+        "contact": {
+            "office": "Se Ernst Wranne Byggnads AB., Kalmar.",
+            "phone": [
+                "20748",
+                "24780",
+                "21701"
+            ],
+            "postgiro": "291260"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb.": 129
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": 3300000
+        },
+        "foundation_year": 1911,
+        "corporation_year": 1946,
+        "board": [
+            {
+                "name": "Erik Andersson",
+                "role": "ordf."
+            },
+            {
+                "name": "Gunnar Gavel",
+                "role": "civiling."
+            },
+            {
+                "name": "Rickard Gavel",
+                "role": "arkitekt"
+            }
+        ],
+        "director": "Gunnar Gavel",
+        "manager": "Not available",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "Byggnadsfirman Verner Andersson AB",
+        "location": "Västerås",
+        "business": "Byggnadsentreprenörfirma för husbyggnader, bro- och vägbyggnader",
+        "contact": {
+            "phone": "34159",
+            "postgiro": "179060"
+        },
+        "financials": {
+            "capital": 64000,
+            "employees": {
+                "industriarb.": 129
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": 3300000
+        },
+        "foundation_year": 1915,
+        "corporation_year": 1942,
+        "board": [
+            {
+                "name": "Verner Andersson",
+                "role": "ordf."
+            },
+            {
+                "name": "Aina Larsson",
+                "role": "fru"
+            },
+            {
+                "name": "Allan Varnäs",
+                "role": "byggnadsing."
+            }
+        ],
+        "director": "Allan Varnäs",
+        "manager": "Not available",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Byggnadsfirman A. Erik Eriksson",
+        "location": "Stockholm",
+        "business": "Not available",
+        "foundation_year": "Not available",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Byggnadsfirman N* M. Eriksson",
+        "location": "Hälsingborg",
+        "business": "Not available",
+        "foundation_year": "Not available",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Byggnadsfirman Forss & Son",
+        "location": "Stockholm",
+        "business": "Not available",
+        "foundation_year": "Not available",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "Byggnadsfirman Dan. Frändberg",
+        "location": "Göteborg",
+        "business": "Not available",
+        "foundation_year": "Not available",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Byggnadsfirman Cumpel & Bengtson AB.",
+        "location": "Stockholm",
+        "business": "Not available",
+        "foundation_year": "Not available",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "Byggnadsfirman Wilh. Gustavsson",
+        "location": "Linköping",
+        "business": "Not available",
+        "foundation_year": "Not available",
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 1
+    },
+    "9": {
+        "name": "Byggnadsfirman Oscar Hegert",
+        "location": "Stockholm",
+        "business": "Not available",
+        "foundation_year": "Not available",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "10": {
+        "name": "Byggnadsfirman Harry Karlsson & Co., AB.",
+        "location": "Lund",
+        "business": "Not available",
+        "foundation_year": "Not available",
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        },
+        "cluster": 1
+    },
+    "11": {
+        "name": "Byggnadsfirman Knutsson & Berggren",
+        "location": "Jönköping",
+        "business": "Not available",
+        "foundation_year": "Not available",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 1
+    }
+}

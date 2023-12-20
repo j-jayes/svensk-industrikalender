@@ -1,0 +1,206 @@
+{
+    "1": {
+        "name": "Konfektions-Kompaniet Lindström & Co. AB",
+        "location": "Göteborg",
+        "business": "Tillverkar herr- och damkläder",
+        "contact": {
+            "office": "Karl Johansg. 29",
+            "phone": [
+                "172655"
+            ],
+            "telegraph": "Lejonkläder, Göteborg",
+            "postgiro": "40326"
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "industriarb.": 350
+            },
+            "annual_turnover": 4000000
+        },
+        "foundation_year": 1915,
+        "corporation_year": 1924,
+        "board": [
+            {
+                "name": "David Lindström",
+                "role": "ordf."
+            },
+            {
+                "name": "Nils Lindström",
+                "role": "dir."
+            },
+            {
+                "name": "Harald Lundberg",
+                "role": "herr"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Konfektions AB. Lyon",
+        "location": "Göteborg",
+        "business": "Tillverkar herr- och damkläder",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Konfektions AB. Oscar Molander",
+        "location": "Alingsås",
+        "business": "Tillverkar herr- och gosskläder",
+        "contact": {
+            "office": "Oscar Molander, Alingsås",
+            "phone": [
+                "Kabom"
+            ],
+            "postgiro": "20600"
+        },
+        "financials": {
+            "capital": 1280000,
+            "employees": {
+                "industriarb.": 405
+            }
+        },
+        "foundation_year": 1906,
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Konfektions AB. Noreka",
+        "location": "Lund",
+        "business": "Tillverkar gabardinrockar, trenchcoats, vindtygs- och gummirockar, motorkläder m. m.",
+        "contact": {
+            "phone": [
+                "10067"
+            ],
+            "postgiro": "90970"
+        },
+        "financials": {
+            "capital": 200000
+        },
+        "foundation_year": 1935,
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Konfektions AB. Perfekt",
+        "location": "Landskrona",
+        "business": "Tillverkar herr- och gosskläder",
+        "contact": {
+            "phone": [
+                "1555"
+            ],
+            "postgiro": "73430"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb.": 30
+            }
+        },
+        "foundation_year": 1928,
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "Konfektions AB. Robby",
+        "location": "Borås",
+        "business": "Tillverkar goss- och flickkläder",
+        "contact": {
+            "phone": [
+                "11635"
+            ],
+            "postgiro": "93219"
+        },
+        "financials": {
+            "capital": 250000,
+            "annual_production_value": 1700000
+        },
+        "foundation_year": 1935,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Konfektions AB. Salén",
+        "location": "Stockholm",
+        "business": "Damkonfektionsfabrik",
+        "contact": {
+            "office": "N. Stationsg. 79-81",
+            "phone": [
+                "230950"
+            ],
+            "telegraph": "Salenko, Stockholm",
+            "postgiro": "1779"
+        },
+        "financials": {
+            "capital": 380000,
+            "employees": {
+                "industriarb.": 300
+            },
+            "annual_turnover": 6000000
+        },
+        "foundation_year": 1914,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "Konfektions AB. S:t Erik",
+        "location": "Stockholm",
+        "business": "Fabriker för tillverkning av herrkläder, skjortor och klänningar samt för överdragskläder m. m.",
+        "contact": {
+            "office": "Pubsonfabriken, Flemingg. 77; Slitmanfabriken, Hornsg. 54"
+        },
+        "corporation_year": 1932,
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "ordf."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "9": {
+        "name": "Konfektions AB. Tonex",
+        "location": "Ulricehamn",
+        "business": "Tillverkar herr- och gosskläder samt damblazers, damdräkter och flickkappor",
+        "coordinates": {
+            "Latitude": 57.7947889,
+            "Longitude": 13.4205162
+        },
+        "cluster": 9
+    },
+    "10": {
+        "name": "Konfektions AB. J. A. Wettergren & Co.",
+        "location": "Göteborg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 4
+    }
+}

@@ -1,0 +1,240 @@
+{
+    "1": {
+        "name": "Mölntorps Verkstäder AB",
+        "location": "Kolbäck",
+        "business": "Plåtpressningsverkstad och smides-fabrik",
+        "contact": {
+            "office": "Kolbäck",
+            "phone": [
+                "Mölntorps verkstäder"
+            ],
+            "postgiro": "36398",
+            "head_office": "AB. Plåtmanufaktur, Stockholm, Biblioteksg. 26, telefon: 235700"
+        },
+        "financials": {
+            "capital": "not specified",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": 2000000,
+            "annual_production_value": "not specified"
+        },
+        "foundation_year": 1870,
+        "corporation_year": 1927,
+        "board": [
+            {
+                "name": "Gustaf Lundberg",
+                "role": "not specified"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.5635636,
+            "Longitude": 16.2303593
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Mönsterås Bryggeri AB",
+        "location": "Mönsterås",
+        "business": "Bryggeri",
+        "financials": {
+            "capital": "not specified",
+            "employees": {
+                "industriarb": "not specified"
+            },
+            "annual_turnover": "not specified",
+            "annual_production_value": "not specified"
+        },
+        "board": [
+            {
+                "name": "not specified",
+                "role": "not specified"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.0415797,
+            "Longitude": 16.44312
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Mönsterås Tändsticksfabrik",
+        "location": "Mönsterås",
+        "business": "Tändsticksfabrik",
+        "financials": {
+            "capital": "not specified",
+            "employees": {
+                "industriarb": "not specified"
+            },
+            "annual_turnover": "not specified",
+            "annual_production_value": "not specified"
+        },
+        "board": [
+            {
+                "name": "not specified",
+                "role": "not specified"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.0415797,
+            "Longitude": 16.44312
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Mörbyiånga Konservfabriks AB",
+        "location": "Stockholm",
+        "business": "Konservfabrik",
+        "contact": {
+            "office": "AB. Th. Win-borg & Co., Saltsjö-Järla",
+            "phone": [
+                "Winborgsfabriker"
+            ],
+            "postgiro": "not specified"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 43
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": "not specified"
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "Boris Meyerson",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. Nabbensbergs Tegelbruk",
+        "location": "Vänersborg",
+        "business": "Mur- och taktegel samt dräneringsrör",
+        "contact": {
+            "office": "Nabbensberg, Vänersborg",
+            "phone": [
+                "not specified"
+            ],
+            "postgiro": "77142"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "not specified",
+            "annual_production_value": "8 milj. st. tegelvaror"
+        },
+        "corporation_year": 1906,
+        "board": [
+            {
+                "name": "not specified",
+                "role": "not specified"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.3797283,
+            "Longitude": 12.3248032
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "AB. Nautic",
+        "location": "Göteborg",
+        "business": "Tunnplåts- och kopparslageri samt instrumentmakareverkstad",
+        "contact": {
+            "office": "Skeppsbron 2",
+            "telegraph": "Sverre, Göteborg",
+            "phone": [
+                "112421",
+                "136960"
+            ],
+            "postgiro": "40703"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 250000,
+            "annual_production_value": "not specified"
+        },
+        "corporation_year": 1915,
+        "board": [
+            {
+                "name": "not specified",
+                "role": "not specified"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Necks Verkstäder",
+        "location": "Nossebro",
+        "business": "Järnmanufakturverk och galvaniseringsfabrik",
+        "contact": {
+            "office": "Nossebro",
+            "phone": [
+                "Necks verkstäder"
+            ],
+            "postgiro": "33235",
+            "head_office": "Göteborg, Marieholmsg. 7, telefon: 159218"
+        },
+        "financials": {
+            "capital": "not specified",
+            "employees": {
+                "industriarb": 190
+            },
+            "annual_turnover": 3500000,
+            "annual_production_value": "not specified"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "fru S. Neck",
+                "role": "Prohurist"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.18909179999999,
+            "Longitude": 12.7200728
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Neglingevarvet",
+        "location": "Saltsjöbaden",
+        "business": "Båtbyggeri och varv",
+        "financials": {
+            "capital": "not specified",
+            "employees": {
+                "industriarb": "not specified"
+            },
+            "annual_turnover": "not specified",
+            "annual_production_value": "not specified"
+        },
+        "corporation_year": "not specified",
+        "board": [
+            {
+                "name": "not specified",
+                "role": "not specified"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.278744,
+            "Longitude": 18.3110523
+        },
+        "cluster": 1
+    }
+}

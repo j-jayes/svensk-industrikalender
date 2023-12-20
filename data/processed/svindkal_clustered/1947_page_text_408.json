@@ -1,0 +1,273 @@
+{
+    "1": {
+        "name": "AB. Jönköpings Karamellfabrik",
+        "location": "Jönköping",
+        "business": "Tillverkning av karameller, konfekt, dragéer m.m. samt pastiller (märken: »Joddy» o. »Maltex»)",
+        "contact": {
+            "office": "Box 45, Jönköping",
+            "phone": [
+                "3572"
+            ],
+            "postgiro": "27982"
+        },
+        "financials": {
+            "capital": "40,100 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1935,
+        "director": "Reidar Andersén",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Jönköpings Linnefabrik AB",
+        "location": "Jönköping",
+        "business": "Tillverkning av skjortor, kragar, pyjamas och kravatter",
+        "contact": {
+            "phone": "2421",
+            "postgiro": "40020"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 175
+            },
+            "annual_turnover": "3,000,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1908,
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "Rud. Herzog",
+                "role": "Styrelse o. verkst. dir."
+            },
+            {
+                "name": "S. v. Zweigbergk",
+                "role": "Disp."
+            },
+            {
+                "name": "fröken Siri Andersson",
+                "role": "Kontorschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Jönköpings Litografiska AB",
+        "location": "Jönköping",
+        "business": "Boktryckeri, offsettryckeri, litografisk och kemigrafisk anstalt och bokbinderi",
+        "contact": {
+            "telegraph": "Litbolaget, Jönköping",
+            "phone": [
+                "19",
+                "3105"
+            ],
+            "postgiro": "5266"
+        },
+        "predecessor": "AB. Sveriges Litografiska Tryckerier, Stockholm",
+        "board": {
+            "name": "Gustav Nilsson",
+            "role": "Styrelse o. disp."
+        },
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "Jönköpings Mekaniska Werkstads AB",
+        "location": "Jönköping",
+        "business": "Mek. verkstad med gjuteri. Tillverkar ångpannor, ångturbiner, pumpar (varumärke: » J. M. W.») samt vid avd. June-verken i Bankeryd: vägmaskiner och släpvagnar (varumärke: »June»)",
+        "contact": {
+            "telegraph": "Verkstaden, Jönköping",
+            "phone": "Verkstaden, Jönköping",
+            "postgiro": "30234"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 315
+            },
+            "annual_turnover": "6,000,000 kr",
+            "annual_production_value": "6,000,000 kr"
+        },
+        "foundation_year": 1860,
+        "corporation_year": 1898,
+        "board": [
+            {
+                "name": "dir. Torsten Jung",
+                "role": "Styrelse"
+            },
+            {
+                "name": "bankdir. Gustaf Didner",
+                "role": "Styrelse"
+            },
+            {
+                "name": "adv. Matts Fallenius",
+                "role": "Styrelse"
+            },
+            {
+                "name": "civiling. Anders Graab",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Anders Graab",
+        "manager": "Harry Samuelson",
+        "sales_manager": "Karl Nilsson",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Jönköpings Motorfabrik",
+        "location": "Jönköping",
+        "business": "Tillverkar stationära och marina råoljemotorer (diesel och semi-diesel), motorlokomotiv, ångmaskiner, kolvpumpar, lastoljepumpar. Varumärken: »J. M.», »June» o. »June-Munktell»",
+        "contact": {
+            "telegraph": "Motor, Jönköping",
+            "phone": "»Jönköpings Motorfabrik»",
+            "postgiro": "91205"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "corporation_year": 1921,
+        "board": [
+            {
+                "name": "ing. P. W. Dietmann",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Birger Ekdahl",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Gunnar C. Ekström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "sekr. A. Fridholm",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Birger Ekdahl",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Jönköpings Möbelfabriks AB",
+        "location": "Jönköping",
+        "business": "Tillverkar möbler och inredningar",
+        "contact": {
+            "phone": [
+                "2385",
+                "5020"
+            ],
+            "postgiro": "30227"
+        },
+        "financials": {
+            "capital": "62,500 kr",
+            "employees": {
+                "industriarb": 36
+            },
+            "annual_turnover": "360,000 kr",
+            "annual_production_value": "360,000 kr"
+        },
+        "foundation_year": 1924,
+        "manager": "Bernhard Roos",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "AB. Jönköpings Snickerifabrik",
+        "location": "Jönköping",
+        "business": "Sågverk, hyvleri och parkettfabrik. Tillverkar sågade och hyvlade trävaror samt parkettgolv. Bolaget driver jämväl byggnadsmaterialaffär",
+        "contact": {
+            "telegraph": "Parkettfabriken o. Tala-vidfabriken, Jönköping",
+            "phone": [
+                "51",
+                "1515",
+                "4932"
+            ],
+            "postgiro": "30222"
+        },
+        "financials": {
+            "capital": "270,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1882,
+        "corporation_year": 1904,
+        "original_name": "Aktiebolagets Snickerifabrik i Jönköping",
+        "current_name_year": 1922,
+        "board": [
+            {
+                "name": "dir. Gustaf Linderholm",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Lennart Werner",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kand. Åke Werner",
+                "role": "Styrelse"
+            }
+        ],
+        "sales_manager": "H. Granath",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 7
+    },
+    "8": {
+        "name": "Jönköpings Textil AB",
+        "location": "Jönköping",
+        "business": "Tillverkning av strumpor och trikåvaror",
+        "contact": {
+            "phone": "1740",
+            "postgiro": "82781"
+        },
+        "financials": {
+            "capital": "56,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1926,
+        "corporation_year": 1934,
+        "manager": "Henry Nelson",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 3
+    }
+}

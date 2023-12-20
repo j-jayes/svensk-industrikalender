@@ -1,0 +1,200 @@
+{
+    "1": {
+        "name": "Köpings Mekaniska Verkstads AB",
+        "location": "Köping",
+        "business": "Mekanisk verkstad och gjuteri",
+        "products": "Tillverkar verktygsmaskiner, kugghjul samt gjut-gods",
+        "contact": {
+            "office": "Verkstaden, Köping",
+            "phone": [
+                "Mekaniska verkstaden"
+            ],
+            "postgiro": "8067"
+        },
+        "financials": {
+            "capital": 540000,
+            "employees": {
+                "industriarb": 900
+            },
+            "annual_turnover": 10000000,
+            "annual_production_value": 10000000
+        },
+        "foundation_year": 1856,
+        "corporation_year": 1872,
+        "board": [
+            {
+                "name": "Assar Gabrielsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Omar Hallström",
+                "role": "disp."
+            },
+            {
+                "name": "Gustaf Larson",
+                "role": "dir."
+            },
+            {
+                "name": "Hilding Törnebohm",
+                "role": "dr"
+            }
+        ],
+        "owners": [
+            "AB. Volvo"
+        ],
+        "director": "Folke Bergendahl",
+        "managing_director": "Omar Hallström",
+        "sales_manager": "Bengt Liljhagen",
+        "coordinates": {
+            "Latitude": 59.5120962,
+            "Longitude": 15.9945102
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Köpings Metallvarufabrik, Eriksson & Co.",
+        "location": "Köping",
+        "products": "Tillverkar kokkärl samt utför pressningsarbeten i koppar och mässing",
+        "contact": {
+            "phone": [
+                "510"
+            ],
+            "postgiro": "173756"
+        },
+        "financials": {
+            "employees": {
+                "antai": 10
+            },
+            "annual_production_value": 100000
+        },
+        "foundation_year": 1925,
+        "manager": "Gustav Eriksson",
+        "coordinates": {
+            "Latitude": 59.5120962,
+            "Longitude": 15.9945102
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Köpings Tagelspinneri",
+        "location": "Köping",
+        "description": "Se Nya Tagelspinneriet, Janson & Arnold, Köping",
+        "coordinates": {
+            "Latitude": 59.5120962,
+            "Longitude": 15.9945102
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "Köpfinge Myrs Andélstorvströ-förening, U. p. a.",
+        "location": "Perstorp",
+        "products": "Tillverkar torvströ, bränntorv och torvmull",
+        "contact": {
+            "phone": [
+                "1"
+            ],
+            "postgiro": "135024"
+        },
+        "financials": {
+            "employees": {
+                "antai": 50
+            },
+            "annual_production_value": "4,500 ton torvprodukter"
+        },
+        "foundation_year": 1911,
+        "sales_manager": "Svven Jönsson",
+        "coordinates": {
+            "Latitude": 56.137972,
+            "Longitude": 13.3949862
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Köpmanholmens Sulfitfabrik",
+        "location": "Köpmanholmen",
+        "description": "Se Forss AB., Köpmanholmen",
+        "coordinates": {
+            "Latitude": 63.16845420000001,
+            "Longitude": 18.5628322
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "Lagamilis AB.",
+        "location": "Jönköping",
+        "products": "Pappersbruk med träsliperi, sågverk och elektr. kraftstation vid Timsfors (Kronob. l.)",
+        "contact": {
+            "office": "Timsfors",
+            "phone": [
+                "Markaryd 7 o. 65"
+            ],
+            "postgiro": "23530"
+        },
+        "financials": {
+            "capital": 2800200,
+            "employees": {
+                "industriarb": 235
+            },
+            "annual_production_value": "16,000 ton papper och papp"
+        },
+        "foundation_year": 1896,
+        "owners": [
+            "Munksjö AB"
+        ],
+        "board": [
+            {
+                "name": "Oskar Gullander",
+                "role": "ordf."
+            },
+            {
+                "name": "Nils G. Arvedson",
+                "role": "dir."
+            },
+            {
+                "name": "Anton Dahlin",
+                "role": "bankdir"
+            },
+            {
+                "name": "Emil Heijne",
+                "role": "adv."
+            },
+            {
+                "name": "Otto Heijne",
+                "role": "disp."
+            },
+            {
+                "name": "Werner Bisberg",
+                "role": "disp."
+            }
+        ],
+        "director": "Otto Heijne",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Ragnar Lagerblads Boktryckeri",
+        "location": "Karlshamn",
+        "products": "Utför affärs-, bok- och # tidningstryck samt bokbinderiarbeten; tillverkar kontorsböcker, sorgpappersartiklar och kort-blanketter",
+        "contact": {
+            "phone": [
+                "184 o. 96"
+            ],
+            "postgiro": "30276"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 36
+            }
+        },
+        "foundation_year": 1864,
+        "manager": "R. Lagerblad",
+        "coordinates": {
+            "Latitude": 56.170303,
+            "Longitude": 14.863073
+        },
+        "cluster": 5
+    }
+}

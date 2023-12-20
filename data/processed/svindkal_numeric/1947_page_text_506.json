@@ -1,0 +1,196 @@
+{
+    "1": {
+        "name": "Marstrandsfjorden—Maskinfabrik",
+        "location": "Marstrand",
+        "business": "Tillverkning av maskiner och industriutrustning",
+        "contact": {
+            "telegraph": "Motorverkstaden, Marstrand",
+            "phone": [
+                "5",
+                "45"
+            ],
+            "postgiro": "6936"
+        },
+        "financials": {
+            "capital": 270000,
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": 1500000,
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1904,
+        "board": [
+            {
+                "name": "Bertil Egnell",
+                "role": "ordf."
+            },
+            {
+                "name": "Anders Melin-Högrell",
+                "role": null
+            }
+        ],
+        "director": "Bertil Egnell",
+        "managing_director": "Bertil Egnell",
+        "coordinates": {
+            "Latitude": 57.8884502,
+            "Longitude": 11.5967453
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Marstrandsfjordens Konservfabrik AB",
+        "location": "Klädesholmen",
+        "business": "Tillverkning av sillkonserver, ansjovis, kaviar, herring, sardiner m. m.",
+        "contact": {
+            "phone": [
+                "51"
+            ],
+            "postgiro": "30168"
+        },
+        "financials": {
+            "capital": 66600,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": 450000,
+            "annual_production_value": 450000
+        },
+        "foundation_year": 1912,
+        "board": null,
+        "coordinates": {
+            "Latitude": 57.9473833,
+            "Longitude": 11.5435498
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Marthails Syindustri AB",
+        "location": "Linköping",
+        "business": "Tillverkning av mössor, flygdräkter, bil-klädselöverdrag samt kylarskydd",
+        "contact": {
+            "phone": [
+                "22932"
+            ],
+            "postgiro": "97420"
+        },
+        "financials": {
+            "capital": 20000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1932,
+        "board": null,
+        "coordinates": {
+            "Latitude": 58.41080700000001,
+            "Longitude": 15.6213727
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Maskin AB. Rior",
+        "location": "Stockholm",
+        "business": "Tillverkning av armatur för cellulosafabriker, kemiska fabriker och för värmeanläggningar såsom avstängningsventiler, backventiler, kikkrör, glasrörställ m. m. samt specialartiklar i järn- och stålgjutgods, rostfritt och syrafast stål avsedda för vatten, ånga och syror",
+        "contact": {
+            "office": "Hallsberg (Örebro l.)",
+            "phone": [
+                "117950"
+            ],
+            "postgiro": "57950"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 250000,
+            "annual_production_value": 250000
+        },
+        "foundation_year": 1939,
+        "board": null,
+        "director": "C. A. Åmark",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Maskinfabriken Göta",
+        "location": "Stockholm",
+        "business": "Tillverkning av centrifugalpumpar, vatten-ring- och kolvpumpar, djupbrunnspumpar m. m.",
+        "contact": {
+            "office": "Londonviadukten",
+            "phone": [
+                "432572"
+            ],
+            "postgiro": "57502"
+        },
+        "financials": {
+            "capital": 104000,
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": 700000,
+            "annual_production_value": 700000
+        },
+        "foundation_year": 1918,
+        "board": null,
+        "director": "Karl Sauber",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Maskinfabriken Rex",
+        "location": "Halmstad",
+        "business": "Tillverkning av motorcyklar och cyklar samt delar därtill",
+        "contact": {
+            "telegraph": "Maskinrex, Halmstad",
+            "phone": [
+                "Rexfabriken"
+            ],
+            "postgiro": "32466"
+        },
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Maskinfabriken Waco",
+        "location": "Halmstad",
+        "business": "Se Ingenjörsfirman Alb. J. Wahlbeck, Halmstad",
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "AB. Maskinfabriken i Örnsköldsvik",
+        "location": "Örnsköldsvik",
+        "business": "Tillverkning av cirkelsågar, klyvsågar, kantverk, kapverk, kapsågar, fläktar, slipmaskiner, kvarnmaskiner m. m.",
+        "coordinates": {
+            "Latitude": 63.29004740000001,
+            "Longitude": 18.7166166
+        },
+        "cluster": 7
+    },
+    "9": {
+        "name": "Maskinfabriks AB. Gothia",
+        "location": "Höör",
+        "business": "Tillverkning av ångpumpar, remdrivna och elektr. drivna en- och flercylindriga kolv-och plunschpumpar",
+        "coordinates": {
+            "Latitude": 55.9348588,
+            "Longitude": 13.5395904
+        },
+        "cluster": 6
+    }
+}

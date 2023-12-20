@@ -1,0 +1,222 @@
+{
+    "1": {
+        "name": "Björnhammars Tråddrageri",
+        "location": "Björneborg, Kristinehamn",
+        "business": "Tillverkar kallblåst träkolstackjärn för gjuteriändamål, ånghammar- och manufaktursmiden samt hejarsmiden, tackjärnsgjutgods såsom cylindergods, finare maskingods, kokillhärdat valsar, eldhärdigt och syrafast gjutgods etc., sten- och smidesredskap m.m.",
+        "contact": {
+            "office": "Björneborg, Kristinehamn",
+            "phone": [
+                "100-04"
+            ],
+            "postgiro": "29800"
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb": 400
+            },
+            "annual_turnover": "6,500,000 kr",
+            "annual_production_value": "6,500,000 kr"
+        },
+        "foundation_year": 1925,
+        "board": [
+            {
+                "name": "N. Arvid Ericsson",
+                "role": "ordf."
+            },
+            {
+                "name": "Richard Julin",
+                "role": "bankdir."
+            },
+            {
+                "name": "Marcus Wallenberg",
+                "role": "bankdir."
+            },
+            {
+                "name": "Walter Wehtje",
+                "role": "dir."
+            }
+        ],
+        "director": "Nils Årmann",
+        "coordinates": {
+            "Latitude": 59.2408793,
+            "Longitude": 14.2511578
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. J. F. Björsell",
+        "location": "Borås",
+        "business": "Boktryckeri med bokbinderi. Utför affärs- och reklamtryck. Bolaget driver även pappershandel och kontorsmöbelförsäljning.",
+        "contact": {
+            "office": "Borås",
+            "phone": [
+                "10020"
+            ],
+            "postgiro": "8652"
+        },
+        "financials": {
+            "capital": "89,000 kr",
+            "employees": {
+                "anställda": 21
+            }
+        },
+        "foundation_year": 1915,
+        "director": "Allan Björsell",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Bleck- & Plåtemballage AB.",
+        "location": "Sundbyberg",
+        "business": "Bleckemballagefabrik. Tillverkar emballage och andra artiklar av bleckplåt, svartplåt och galvaniserad plåt.",
+        "contact": {
+            "office": "Karlsbodavägen 206, Stockholm",
+            "phone": [
+                "Stockholm 283636"
+            ],
+            "postgiro": "172578"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_production_value": "160,000 kr"
+        },
+        "foundation_year": 1940,
+        "director": "Gunnar Bernhard",
+        "coordinates": {
+            "Latitude": 59.369325,
+            "Longitude": 17.9609133
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Bleckvarufabriken",
+        "location": "Malmö",
+        "business": "Bleckvarufabrik och litografiskt plåttryckeri. Tillverkar bleckemballage, massartiklar av järn- och metallplåt, stålplomber m.m.",
+        "contact": {
+            "office": "Fagerstagatan 1, Malmö",
+            "phone": [
+                "Plåtmanufaktur"
+            ],
+            "postgiro": "14147"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 360
+            },
+            "annual_production_value": "8,000,000 kr"
+        },
+        "foundation_year": 1898,
+        "director": "Axel Laurin",
+        "factory_office": "AB. Plåtmanufaktur, Stockholm, Biblioteksg. 26, Stockholm",
+        "factory_phone": "235700 (se detta bolag)",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "Blikstorps Silkeindustri, Rittfeldt & Co.",
+        "location": "Blikstorp (Skarab. l.)",
+        "business": "Trikåfabrik. Tillverkar charmeuse- och bomullstrikåvävnader samt damunderkläder och klänningar.",
+        "contact": {
+            "office": "Blikstorp (Skarab. l.)",
+            "phone": [
+                "Fridene 1"
+            ],
+            "postgiro": "73506"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_production_value": "700,000 kr"
+        },
+        "foundation_year": 1930,
+        "director": "C. F. Rittfeldt",
+        "coordinates": {
+            "Latitude": 58.28185699999999,
+            "Longitude": 14.057215
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "AB. Blockmetall",
+        "location": "Malmö",
+        "description": "Se AB. Ny by Metallverk, Nybybruk",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 4
+    },
+    "7": {
+        "name": "Linkoln Bloms Boktryckeri AB.",
+        "location": "Stockholm",
+        "business": "Utför boktryck, tidnings- och blanketttryck. Bolaget förlägger tidningarna Stockholms Förstadsblad, Lidingö Tidning, Saltsjöbaden, Södra Förstadsbladet och Vaxholms Tidning.",
+        "contact": {
+            "office": "Gamla Brog. 38, Stockholm",
+            "phone": [
+                "232040"
+            ],
+            "postgiro": "3540",
+            "filialkontor": "Sundbyberg, Stockholm"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1902,
+        "director": "Gösta Blom",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "8": {
+        "name": "Blombacka AB.",
+        "location": "Lindfors",
+        "business": "Tråddrageri, linslageri och trådspikfabrik vid Lindfors (Värml. l.). Tillverkar dragen järn- och ståltråd, ståltrådslinor för gruvor, hissar och kranar m.fl., galvaniserade linor, rostfria linor samt trådspik (även rostfri) jämte formstift för gjuterier. Bolaget idkar även jordbruk och skogshantering.",
+        "contact": {
+            "office": "Blombackabolag, Karlstad",
+            "phone": [
+                "Molkom 300"
+            ],
+            "postgiro": "27200"
+        },
+        "financials": {
+            "capital": "1,440,000 kr",
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1882,
+        "coordinates": {
+            "Latitude": 59.6051241,
+            "Longitude": 13.832237
+        },
+        "cluster": 6
+    },
+    "9": {
+        "name": "David Blombergs Verkstads AB.",
+        "location": "Stockholm",
+        "description": "Se Sala Möbelfabriks AB., Stockholm.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    }
+}

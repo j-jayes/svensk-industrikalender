@@ -1,0 +1,262 @@
+{
+    "1": {
+        "name": "Carlsson—Carlström",
+        "contact": {
+            "telegraph": "Cegece, Norrköping",
+            "phone": [
+                "24500"
+            ],
+            "postgiro": "7650"
+        },
+        "financials": {
+            "capital": "75,600 kr",
+            "employees": {
+                "industriarb": 70
+            }
+        },
+        "foundation_year": 1887,
+        "director": "Gunnar Carlsson",
+        "cluster": 4
+    },
+    "2": {
+        "name": "Hilding Carlssons Mek. Verkstad",
+        "location": "Umeå",
+        "products": "Tillverkar rälsbussar och inspektions-dressiner",
+        "contact": {
+            "phone": [
+                "15",
+                "3009"
+            ],
+            "postgiro": "62816"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1913,
+        "manager": "fabr. Hilding Carlsson",
+        "coordinates": {
+            "Latitude": 63.8258471,
+            "Longitude": 20.2630354
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB J. O. Carlssons Möbelindustri",
+        "location": "Vetlanda",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": "318",
+            "postgiro": "96682"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 33
+            },
+            "annual_production_value": "580,000 kr"
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "fru Augusta Carlsson",
+                "role": "ordf."
+            },
+            {
+                "name": "arkitekt K.-E. Ekselius",
+                "role": null
+            },
+            {
+                "name": "dir. Malte Ekselius",
+                "role": null
+            }
+        ],
+        "managing_director": "Malte Ekselius",
+        "sales_manager": "K.-E. Ekselius",
+        "manager": "Malte Ekselius",
+        "coordinates": {
+            "Latitude": 57.42746,
+            "Longitude": 15.08533
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "K. & E. Carlson",
+        "location": "Göteborg",
+        "business": "Guldvarufabrik. Tillverkar guld- och silverbijouterivaror",
+        "contact": {
+            "office": "Lorensbergsgat. 6",
+            "phone": [
+                "164364",
+                "164367"
+            ],
+            "postgiro": "41958"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 95
+            }
+        },
+        "foundation_year": 1918,
+        "owners": [
+            "fabr. Knut S. Carlson",
+            "fabr. Eric M. Carlson"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "K. I. Carlsson, Metallvarufabrik",
+        "location": "Eskilstuna",
+        "business": "Tillverkar pressade och tryckta artiklar såsom fältflaskor, lättmetalldelar till gasmasker, kedjeskydd till cyklar, bilflottörer samt sanitära artiklar",
+        "contact": {
+            "phone": "31361",
+            "postgiro": "71473"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1920,
+        "manager": "fabr. Ivar Cenner",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Sven Carlson AB., Ingenjörsfirma",
+        "location": "Falun",
+        "business": "Ingenjörsfirma",
+        "description": "Se Ingeniörsfirma Sven Carlson AB., Falun",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Wilh. Carlssons Skofabriks AB.",
+        "location": "Kumla",
+        "business": "Tillverkar finare agotillverkade skodon",
+        "contact": {
+            "phone": "Örebro 70176",
+            "postgiro": "84446"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "corporation_year": 1944,
+        "manager": "Wilh. Carlsson",
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "Agne Carlströms Fabriks AB.",
+        "location": "Göteborg",
+        "business": "Strumpfabrik. Tillverkar strumpor av bomull, ylle och silke",
+        "contact": {
+            "office": "Kaponjärgatan 8",
+            "phone": [
+                "133182",
+                "133151"
+            ],
+            "postgiro": "40360"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_production_value": "600,000 kr"
+        },
+        "corporation_year": 1930,
+        "board": [
+            {
+                "name": "adv. William Kristensen",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Agne Carlström",
+                "role": null
+            },
+            {
+                "name": "disp. Rune A:son Carlström",
+                "role": null
+            }
+        ],
+        "manager": "Agne Carlström",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "9": {
+        "name": "AB. C. R. Carlströms Nysilverfabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar nysilvervaror såsom kuvertartiklar, fat, karotter, bordsställ, kaffeserviser m. m. Specialitet: restaurant-artiklar",
+        "contact": {
+            "office": "Brännkyrkag. 165",
+            "phone": "411167",
+            "postgiro": "3289"
+        },
+        "financials": {
+            "capital": "120,000 kr",
+            "employees": {
+                "antal": 10
+            }
+        },
+        "corporation_year": 1911,
+        "board": [
+            {
+                "name": "dir. Erik Lundin",
+                "role": "ordf."
+            },
+            {
+                "name": "droskäg. J. Algot Eriksson",
+                "role": null
+            },
+            {
+                "name": "fru Hanna Lundin",
+                "role": null
+            }
+        ],
+        "manager": "Erik Lundin",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "10": {
+        "name": "AB. E. J. Carlström & Sons Velocipedfabrik",
+        "location": "Emmaboda",
+        "business": "Tillverkar velocipeder vid fabrik i Emmaboda (Kalmar l.). Firman driver även engroshandel med cykelringar och cykeltillbehör samt försäljning av bilar",
+        "contact": {
+            "telegraph": "Velocipedfabrik, Emmaboda",
+            "phone": "14",
+            "postgiro": "12755"
+        },
+        "coordinates": {
+            "Latitude": 56.63068550000001,
+            "Longitude": 15.540006
+        },
+        "cluster": 6
+    }
+}

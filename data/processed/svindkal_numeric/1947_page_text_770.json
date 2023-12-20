@@ -1,0 +1,441 @@
+{
+    "1": {
+        "name": "Värnamo Järnmanufaktur AB.",
+        "location": "Värnamo",
+        "business": "Tillverkar taggtråd och järntråd",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "10478"
+            ],
+            "postgiro": "175050",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_turnover": "",
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "Axel Gustafsson",
+                "role": ""
+            }
+        ],
+        "owners": [],
+        "director": "Axel Gustafsson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Värnamo Kartongfabrik",
+        "location": "Värnamo",
+        "business": "Tillverkar kartonger m. m. av solid papp",
+        "products": "Specialiteter: klädda kartonger och säll-skäpssp g T",
+        "contact": {
+            "office": "",
+            "phone": [
+                "10483"
+            ],
+            "postgiro": "133438",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 24
+            },
+            "annual_turnover": "",
+            "annual_production_value": 150000
+        },
+        "foundation_year": 1933,
+        "board": [],
+        "owners": [
+            "Göte Hultqvist",
+            "Knut Rehnström"
+        ],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Värnamo Konfektions AB.",
+        "location": "Värnamo",
+        "business": "Tillverkar överplagg för gossar och flickor, gosskostymer samt annan yllekonfektion för barn",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "11153",
+                "11045",
+                "11277"
+            ],
+            "postgiro": "282000",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 90000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1944,
+        "board": [
+            {
+                "name": "David Regnér",
+                "role": "ordf."
+            },
+            {
+                "name": "Karl-Gustaf Danås",
+                "role": "disp."
+            },
+            {
+                "name": "Ingemar Lindahl",
+                "role": "ing."
+            },
+            {
+                "name": "Marie-Anne Lindahl",
+                "role": "fru"
+            },
+            {
+                "name": "Anna Nilsson",
+                "role": "fru"
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "Karl-Gustaf Danås",
+        "sales_manager": "",
+        "manager": "John Fors",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Värnamo Läderindustri",
+        "location": "Harald Lagergren, Värnamo",
+        "business": "Reseffektfabrik. Tillverkar portföljer, sport- och shoppingväskor m. m.",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "747",
+                "627"
+            ],
+            "postgiro": "73382",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1939,
+        "board": [],
+        "owners": [
+            "Harald Lagergren"
+        ],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Värnamo Maskin AB.",
+        "location": "Värnamo",
+        "business": "Mek. verkstad. Tillverkar snickeri- och verktygsmaskiner",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "31977",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": "Maskinbolaget"
+        },
+        "financials": {
+            "capital": 108400,
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_turnover": "",
+            "annual_production_value": 1700000
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "John Källberg",
+                "role": "ordf."
+            },
+            {
+                "name": "Arvid E. Larsson",
+                "role": "fabr."
+            },
+            {
+                "name": "Hj. Larsson",
+                "role": "fabr."
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "J. Källberg",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Värnamo Tegelbruks AB.",
+        "location": "Värnamo",
+        "business": "Tillverkar murtegel vid tegelbruk i Värnamo (Jönköp. l.). Specialitet: högporösa tegelvaror",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "10098",
+                "10638"
+            ],
+            "postgiro": "25809",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "",
+            "annual_production_value": "5 milj. st. tegelvaror"
+        },
+        "foundation_year": 1898,
+        "board": [],
+        "owners": [],
+        "director": "Gunnar Thilén",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Lage Thilén",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "AB. Värnamo Wellpappfabrik",
+        "location": "Värnamo",
+        "business": "Tillverkar wellpapp och wellpappkartonger",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Värnamo wellpapp"
+            ],
+            "postgiro": "81334",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 125000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "",
+            "annual_production_value": 2500000
+        },
+        "foundation_year": 1938,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Gösta Forsell",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 5
+    },
+    "8": {
+        "name": "J. A. Wärnegård",
+        "location": "Jönköping",
+        "business": "Mattfabrik. Tillverkar chenillemattor och hemslöjdsmattor",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "4528"
+            ],
+            "postgiro": "290969",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 18
+            },
+            "annual_turnover": "",
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1939,
+        "board": [],
+        "owners": [
+            "ing. Alvar Wärnegård"
+        ],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Gust.-Ad. Collin",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 3
+    },
+    "9": {
+        "name": "AB. Väsby Bleckemballagefabrik",
+        "location": "Upplands Väsby",
+        "business": "Tillverkar blankt och dekorerat bleckemballage m. m.",
+        "products": "Specialiteter: kaffekokare för marketenterier samt fruktträdssprutor",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Upplands Väsby 78",
+                "178",
+                "414"
+            ],
+            "postgiro": "25162",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "",
+            "annual_production_value": 800000
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "O. Folke Hammargren",
+                "role": "ordf."
+            },
+            {
+                "name": "T. Hammargren",
+                "role": "fru"
+            },
+            {
+                "name": "Arne Norman",
+                "role": "taxeringsint-"
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "O. F. Hammargren",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.51961,
+            "Longitude": 17.92834
+        },
+        "cluster": 2
+    },
+    "10": {
+        "name": "Väsby Verkstäder",
+        "location": "Upplands Väsby",
+        "business": "See AB. Svenska Metallverken, Västerås",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 0,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.51961,
+            "Longitude": 17.92834
+        },
+        "cluster": 6
+    }
+}

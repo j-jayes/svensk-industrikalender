@@ -1,0 +1,147 @@
+{
+    "1": {
+        "name": "Karlshamns Bryggeri AB.",
+        "location": "Karlshamn",
+        "business": "Bryggeri",
+        "products": "Tillverkar arbetskläder och sportkläder. Varumärke: »KBK».",
+        "contact": {
+            "phone": [
+                "585"
+            ],
+            "postgiro": "75524"
+        },
+        "financials": {
+            "capital": 85500,
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1931,
+        "current_name_year": 1939,
+        "director": "köpm. Eskil Westlund",
+        "coordinates": {
+            "Latitude": 56.170303,
+            "Longitude": 14.863073
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. Karlshamns Oljefabriker",
+        "location": "Norrköping",
+        "business": "Tillverkar vegetabiliska oljor och kraftfoder",
+        "products": "Tillverkar vegetabiliska oljor och kraftfoder vid fabrik i Karlshamn. Varumärke: »AKO».",
+        "contact": {
+            "office": "Huvudkontor: Norrköping",
+            "phone": [
+                "29465"
+            ],
+            "postgiro": "152822",
+            "head_office": "Karlshamn"
+        },
+        "financials": {
+            "capital": 3000000,
+            "employees": {
+                "industriarb": 350
+            },
+            "annual_turnover": 104000000
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "dir. Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "konsul S. H. Sörensen",
+                "role": "v. ordf."
+            },
+            {
+                "name": "fil. lic. Mauritz Bonow",
+                "role": null
+            },
+            {
+                "name": "dir. Hj. Degerstedt",
+                "role": null
+            },
+            {
+                "name": "dir. Hugo Edstam",
+                "role": null
+            },
+            {
+                "name": "dir. G. Osvald",
+                "role": null
+            },
+            {
+                "name": "dir. Ernst Persson",
+                "role": null
+            }
+        ],
+        "director": "S. H. Sörensen",
+        "sales_manager": "B. Anderberg o. Nils Kjellberg",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Karlshamns Stads Vatten- och Elektricitetsverk",
+        "location": "Karlshamn",
+        "business": "Distribuerar elektr. energi",
+        "coordinates": {
+            "Latitude": 56.170303,
+            "Longitude": 14.863073
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Karlshamns Yllefabriks AB.",
+        "location": "Åkeholm",
+        "business": "Spinneri, färgeri och trikåfabrik",
+        "coordinates": {
+            "Latitude": 56.290295,
+            "Longitude": 14.7447047
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "Kar!shults Såg & Tegelbruk, Patrik Jacobson",
+        "location": "Motala verkstad",
+        "business": "Tegelbruk och sågverk",
+        "coordinates": {
+            "Latitude": 58.55,
+            "Longitude": 15.066667
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "AB. Karlshälls Cranitindustri",
+        "location": "Göteborg",
+        "business": "Stenhuggerier",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Karlskoga Tegelbruk, Ericsson & Co.",
+        "location": "Karlskoga",
+        "business": "Tegelbruk, cementvaru- och murbruksfabrik",
+        "coordinates": {
+            "Latitude": 59.32863399999999,
+            "Longitude": 14.536414
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "Karlskoga Ångbryggeri",
+        "location": "Karlskoga",
+        "business": "Tillverkar malt- och läskedrycker",
+        "coordinates": {
+            "Latitude": 59.32863399999999,
+            "Longitude": 14.536414
+        },
+        "cluster": 2
+    }
+}

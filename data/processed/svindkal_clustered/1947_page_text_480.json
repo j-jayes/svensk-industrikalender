@@ -1,0 +1,215 @@
+{
+    "1": {
+        "name": "Ljungströms Urfodralfabrik",
+        "location": "Töreboda",
+        "business": "Tillverkar urfodral samt finare etuier och lådor, soffbord, radiobord och -skåp m. m.",
+        "contact": {
+            "office": "Töreboda",
+            "phone": [
+                "369"
+            ],
+            "postgiro": "85043"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1924,
+        "owner": [
+            "disp. Ruben Westerstrand",
+            "ing. James Westerstrand"
+        ],
+        "manager": "James Westerstrand",
+        "coordinates": {
+            "Latitude": 58.70550919999999,
+            "Longitude": 14.1261468
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Ljungströms Angturbin",
+        "location": "Stockholm",
+        "business": "Exploaterar patent å ångturbiner, luft-förvärmare, ångturbinlokomotiv, gasturbiner, hydrauliska växlar, kompressorer samt gasrenare.",
+        "contact": {
+            "office": "Kungsg. 32",
+            "phone": "231810",
+            "postgiro": "151546"
+        },
+        "financials": {
+            "capital": "1,500,000 kr"
+        },
+        "corporation_year": 1908,
+        "board": [
+            {
+                "name": "bankdir. P. Brundell",
+                "role": "ordf."
+            },
+            {
+                "name": "bankir Tage Cervin",
+                "role": ""
+            },
+            {
+                "name": "dir. Gunnar Dalen",
+                "role": ""
+            },
+            {
+                "name": "dir. Carl Kihlgren",
+                "role": ""
+            },
+            {
+                "name": "civiling. Manne T. Lindhagen",
+                "role": ""
+            }
+        ],
+        "director": "Manne T. Lindhagen",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Evald Ljungström, Möbelfabrik",
+        "location": "Tibro",
+        "business": "Tillverkar matsalsmöbler vid fabrik i Tibro (Skarab. l.)",
+        "contact": {
+            "office": "Tibro",
+            "phone": [
+                "144"
+            ],
+            "postgiro": "143367"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 11
+            },
+            "annual_turnover": "140,000 kr"
+        },
+        "foundation_year": 1921,
+        "owner": "fabr. Evald Ljungström",
+        "manager": "Evald Ljungström",
+        "coordinates": {
+            "Latitude": 58.424323,
+            "Longitude": 14.1616418
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "AB. Ljusdals Nya Angbryggeri",
+        "location": "Ljusdal",
+        "business": "Tillverkar maltdrycker av klass I och II samt läskedrycker och mineralvatten vid bryggeri i Ljusdal (Gävleb. l.)",
+        "contact": {
+            "phone": [
+                "1058",
+                "1665"
+            ],
+            "postgiro": "80087"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "225,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 61.8308392,
+            "Longitude": 16.0817501
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Ljusfallshammars Verkstads AB.",
+        "location": "Ljusfallshammar",
+        "business": "Tillverkar träbearbetnings- och verktygsmaskiner, raka och spiralskurna kugghjul samt utför hyvlingsarbeten vid mek. verkstad i Ljusfallshammar (Östergötl. l.)",
+        "contact": {
+            "telegraph": "Mekaniska, Ljusfallshammar",
+            "phone": "1",
+            "postgiro": "33630"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "410,000 kr"
+        },
+        "corporation_year": 1940,
+        "coordinates": {
+            "Latitude": 58.7871053,
+            "Longitude": 15.4968037
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Ljusne—Woxna AB.",
+        "location": "Ljusne",
+        "business": "Sågverk, hyvleri, fabrik för monteringsfärdiga trähus, plywood- och wall-boardfabriker samt gjuteri, mek. verkstad, manufaktursmedja och kättingfabrik i Ljusne (Gävleb. l.)",
+        "contact": {
+            "head_office": "Ljusne",
+            "telegraph": "Ellwiron, Söderhamn",
+            "phone": "Ljusne, \"Ljusne-Woxna\"",
+            "postgiro": "28080"
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "employees": {
+                "industriarb": 1000
+            },
+            "annual_turnover": "18,000,000 kr"
+        },
+        "corporation_year": 1881,
+        "board": [
+            {
+                "name": "vice amiral Fabian Tamm",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Fabian Lundquist",
+                "role": ""
+            },
+            {
+                "name": "dir. C. J. Robbert",
+                "role": ""
+            },
+            {
+                "name": "disp. C. G. Rothelius",
+                "role": ""
+            }
+        ],
+        "director": "C. G. Rothelius",
+        "managers": [
+            {
+                "role": "wallboard o. plywood",
+                "name": "Nils H. Rabenius"
+            },
+            {
+                "role": "export",
+                "name": "Bengt Hamrén"
+            },
+            {
+                "role": "trävaror",
+                "name": "Bertil Hansson"
+            }
+        ],
+        "purchasing_manager": "Helge Lundquist",
+        "coordinates": {
+            "Latitude": 61.2114046,
+            "Longitude": 17.1266474
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "AB. Ljussignaler",
+        "location": "Malmö",
+        "business": "Elektromek. verkstad. Tillverkar - centralinstrument för fjärrmanövrerad driftkontroll, personsökaranläggningar, reläer, mätur, helautomatiska brandalarmanläggningar samt lokaltelefon-, signal- och tid-uranläggningar, flygalarmaggregat m. m. Utför installationer av neonljusanlägg-.",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    }
+}

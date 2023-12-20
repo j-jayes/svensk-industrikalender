@@ -1,0 +1,241 @@
+{
+    "1": {
+        "name": "Konga AB",
+        "location": "Konga, Ronneby",
+        "business": "Trähusfabrik, jordbruk, skogsbruk",
+        "contact": {
+            "office": "Konga, Kronob. l.",
+            "phone": [
+                "Tingsryd 13"
+            ],
+            "postgiro": "139807"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 140
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1888,
+        "board": [
+            {
+                "name": "Tage Cervin",
+                "role": "bankir (ordf.)"
+            },
+            {
+                "name": "Allan Alexanderson",
+                "role": "bankdir."
+            },
+            {
+                "name": "P. Eg. Gummeson",
+                "role": "disp."
+            },
+            {
+                "name": "H. K. Laurit-zen",
+                "role": "f.d. bankdir."
+            },
+            {
+                "name": "Carl Joh. Malmros",
+                "role": "dir."
+            }
+        ],
+        "director": "Carl Joh. Malmros",
+        "managing_director": "Carl Joh. Malmros",
+        "coordinates": {
+            "Latitude": 56.210434,
+            "Longitude": 15.2760229
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Kongelfs Glasbruks AB",
+        "location": "Kungälv",
+        "predecessor": "AB. Surte Glasbruk, Surte",
+        "coordinates": {
+            "Latitude": 57.86975400000001,
+            "Longitude": 11.9740317
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "Konserverings AB. Atlantic",
+        "location": "Mörrum",
+        "business": "Konservfabrik",
+        "contact": {
+            "telegraph": "Atlanticbolag, Mörrum",
+            "phone": [
+                "Atlantic"
+            ],
+            "postgiro": "130875"
+        },
+        "financials": {
+            "capital": "110,000 kr",
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1926,
+        "board": [
+            {
+                "name": "Torsten Lundell",
+                "role": "kapten (ordf.)"
+            },
+            {
+                "name": "R. Allmér",
+                "role": "adv."
+            },
+            {
+                "name": "Axel Mejåre",
+                "role": "disp."
+            }
+        ],
+        "director": "Axel Mejåre",
+        "coordinates": {
+            "Latitude": 56.1938314,
+            "Longitude": 14.748156
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Konservfabriken Bore",
+        "location": "Lyse",
+        "business": "Konservfabrik",
+        "contact": {
+            "phone": [
+                "Lyse 175"
+            ],
+            "postgiro": "81009"
+        },
+        "financials": {
+            "employees": {
+                "industri-arb.": 35
+            },
+            "annual_turnover": "450,000 kr"
+        },
+        "foundation_year": 1932,
+        "director": "Carl Olsson",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. Konservfabriken Findus",
+        "location": "Bjuv",
+        "business": "Konservfabrik, grönsaks- & fruktodlingar",
+        "contact": {
+            "telegraph": "Findus, Bjuv",
+            "phone": [
+                "46",
+                "162",
+                "163",
+                "275",
+                "276"
+            ],
+            "postgiro": "6190"
+        },
+        "financials": {
+            "capital": "60,200 kr",
+            "employees": {
+                "industriarb.": 392
+            }
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "H. Throne-Holst",
+                "role": "disp. (ordf.)"
+            },
+            {
+                "name": "Lars Anderfelt",
+                "role": "dir."
+            },
+            {
+                "name": "Erik Lindgren",
+                "role": "kamrer"
+            }
+        ],
+        "director": "Lars Anderfelt",
+        "coordinates": {
+            "Latitude": 56.0871019,
+            "Longitude": 12.9125047
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Konservfabriken Sirius",
+        "location": "Göteborg, Linköping",
+        "business": "Kött-, fisk- & grönsakskonserver",
+        "contact": {
+            "office": "Göteborg, Byfogdeg. 11",
+            "phone": [
+                "192130"
+            ],
+            "postgiro": "40969"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb.": 80,
+                "Göteborg": 50
+            },
+            "annual_turnover": "3,000,000 kr"
+        },
+        "foundation_year": 1929,
+        "board": [
+            {
+                "name": "Anders Wiberg",
+                "role": "civiling. (verkst. dir.)"
+            }
+        ],
+        "managing_director": "Anders Wiberg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Konservsönerna, P. & L. Carlsson",
+        "location": "Klädesholmen",
+        "business": "Grönsakskonserver, sillkonserver, fiskbullar, skaldjurkonservering",
+        "contact": {
+            "telegraph": "Konservsöner, Klädesholmen",
+            "phone": [
+                "34",
+                "54"
+            ],
+            "postgiro": "80820"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 35
+            },
+            "annual_turnover": "575,000 kr"
+        },
+        "foundation_year": 1920,
+        "owners": [
+            "Pontus Carlsson",
+            "Linus Carlsson",
+            "Kurt Carlsson"
+        ],
+        "coordinates": {
+            "Latitude": 57.9473833,
+            "Longitude": 11.5435498
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "Konstgödningsfabriks AB. i Landskrona",
+        "location": "Landskrona",
+        "predecessor": "AB. Förenade Superfosfatfabriker, Hälsingborg",
+        "coordinates": {
+            "Latitude": 55.8703477,
+            "Longitude": 12.8300802
+        },
+        "cluster": 4
+    }
+}

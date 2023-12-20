@@ -1,0 +1,297 @@
+{
+    "1": {
+        "name": "Malmö Cummiförädling, C. O.",
+        "location": "Malmö",
+        "business": "Tillverkar gummiklackar samt tekniska gummivaror",
+        "products": "Varumärken: »Ido» o. »Puma»",
+        "contact": {
+            "office": "Rönneholmsvägen 32",
+            "phone": [
+                "28047"
+            ],
+            "postgiro": "28347",
+            "sales_offices": [
+                {
+                    "location": "Örebro",
+                    "phone": "13983"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "42,000 kr",
+            "employees": {
+                "industriarb": 6
+            },
+            "annual_turnover": "60,000 kr",
+            "annual_production_value": "60,000 kr"
+        },
+        "foundation_year": 1936,
+        "director": "Olof Malmström",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. Malmö Hatt- & Mössfabrik",
+        "location": "Malmö",
+        "business": "Tillverkar uniforms- och sportmössor samt barnhattar",
+        "contact": {
+            "office": "S. Förstadsg. 18",
+            "phone": [
+                "21918"
+            ],
+            "postgiro": "37721"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 35
+            }
+        },
+        "foundation_year": 1935,
+        "director": [
+            "John-Erik Mattsson",
+            "Stig Mattsson"
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. Malmö Kappfabrik",
+        "location": "Malmö",
+        "business": "Tillverkar damkappor, dräkter, swag-gers m. m.",
+        "contact": {
+            "office": "Storg. 20 C",
+            "phone": [
+                "19619",
+                "30124"
+            ],
+            "postgiro": "38822"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 56
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1933,
+        "board": [
+            {
+                "name": "kamrer Hans Malmström",
+                "role": "disp. Olof Malmström"
+            },
+            {
+                "name": "lagerchef Per Malmström",
+                "role": "disp. Sven Malmström"
+            },
+            {
+                "name": "dir. Nils Svensson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "AB. Malmökonfektion",
+        "location": "Malmö",
+        "business": "Tillverkar arbetskläder, sportkläder samt lekdräkter",
+        "products": "Varumärke: »Malko»",
+        "contact": {
+            "office": "Per Weijersg. 4",
+            "phone": [
+                "77100",
+                "20884",
+                "16883"
+            ],
+            "postgiro": "37897",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "113640"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1925,
+        "director": "J. P. Bager",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "AB. Malmö Lakrits Fabrik AB.",
+        "location": "Malmö",
+        "business": "Tillverkar pastiller, lakrits, lakritskon-fekt och toffees",
+        "products": "Varumärke: »Malaco»",
+        "contact": {
+            "office": "Lundavägen 17",
+            "telegraph": "Malaco, Malmö",
+            "phone": [
+                "71715"
+            ],
+            "postgiro": "38928"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 70
+            }
+        },
+        "foundation_year": 1934,
+        "director": "J. Mörkeberg",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Malmö Ljustrycksanstalt",
+        "location": "Malmö",
+        "business": "Tillverkar ljustryck och vykort",
+        "contact": {
+            "office": "Kalendeg. 10",
+            "telegraph": "Ljus, Malmö",
+            "phone": [
+                "28280",
+                "24544"
+            ],
+            "postgiro": "38088"
+        },
+        "financials": {
+            "capital": "31,000 kr",
+            "employees": {
+                "Arb.-antal": 8
+            },
+            "annual_production_value": "125,000 kr"
+        },
+        "foundation_year": 1919,
+        "board": [
+            {
+                "name": "hovint. John Kroon",
+                "role": "ordf."
+            },
+            {
+                "name": "kamrer Gösta Gustafsson",
+                "role": ""
+            },
+            {
+                "name": "fru Ida Holmgren",
+                "role": ""
+            }
+        ],
+        "director": "John Kroon",
+        "manager": "Gösta Gustafsson",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "7": {
+        "name": "AB. Malmö Läderfabriks AB.",
+        "location": "Malmö",
+        "business": "Läder- och skofabrik",
+        "products": "Tillverkar bottenläder och skodon",
+        "contact": {
+            "office": "Ystadsvägen 17",
+            "telegraph": "Läderfabriken, Malmö",
+            "phone": [
+                "Malmö läderfabrik"
+            ],
+            "postgiro": "38140",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "107344"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "139259"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "3,000,000 kr",
+            "employees": {
+                "industriarb": 540
+            },
+            "annual_turnover": "11,000,000 kr"
+        },
+        "foundation_year": 1934,
+        "owners": [
+            "disp. Henry Dunker (ordf.)",
+            "dir. Wilhelm Bahrke",
+            "greve Pontus De la. Gardie",
+            "bankdir. Claes A. Lindskog",
+            "dir. C. F. Tranchell",
+            "bankdir. Ivar Åkerman"
+        ],
+        "director": "Wilhelm Bahrke",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "AB. Malmö Mek. Tricotfabriks AB.",
+        "location": "Malmö",
+        "business": "Tillverkar trikåvaror och strumpor",
+        "products": "Varumärke: »M.M.T.»",
+        "contact": {
+            "office": "Rönneholmsvägen",
+            "telegraph": "Tricotfabriken, Malmö",
+            "phone": [
+                "71435"
+            ],
+            "postgiro": "38372"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 350
+            },
+            "annual_turnover": "5,000,000 kr"
+        },
+        "foundation_year": 1892,
+        "board": [
+            {
+                "name": "bankdir. Harald Hagberg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. E. Faber",
+                "role": ""
+            },
+            {
+                "name": "bankdir. Algot Riider",
+                "role": ""
+            }
+        ],
+        "director": "Victor Bliicher",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    }
+}

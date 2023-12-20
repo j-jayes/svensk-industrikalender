@@ -1,0 +1,206 @@
+{
+    "1": {
+        "name": "Svenska Gummistrumpfabriken AB.",
+        "location": "Stockholm",
+        "business": "Resårstickeri",
+        "products": "Tillverkar åderbråcks-strumpor. Varumärke: »Servus».",
+        "contact": {
+            "office": "Mästersamuelsg. 34",
+            "phone": [
+                "118434"
+            ],
+            "postgiro": "152480"
+        },
+        "financials": {
+            "capital": 15000,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": 40000
+        },
+        "foundation_year": 1937,
+        "board": [
+            {
+                "name": "dir. Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "fil. lic. Mauritz Bonow",
+                "role": ""
+            },
+            {
+                "name": "dir. Hj. Deger-stedt",
+                "role": ""
+            },
+            {
+                "name": "dir. Hugo Edstam",
+                "role": ""
+            },
+            {
+                "name": "dir. G. Osvald",
+                "role": ""
+            },
+            {
+                "name": "dir. Ernst Persson",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Svenska Havregryn Gylienhammar & Co. Kommanditbolag",
+        "location": "Göteborg",
+        "products": "Tillverkar havregryn, havremjöl och havremust",
+        "contact": {
+            "office": "AB. Havremust, L. Bommens torg 2",
+            "phone": [
+                "134105"
+            ],
+            "telegraph": "Havremust, Göteborg",
+            "postgiro": "43404"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": null
+            },
+            "annual_turnover": 2000000
+        },
+        "foundation_year": 1922,
+        "description": "Ansvarig chef: dir. Gustaf Hammar",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Svenska Häftstiftsfabriken",
+        "location": "Örebro",
+        "description": "Järnmanufakturverk i Pålsboda (Örebro l.). Tillverkar häftstift, såväl för-mässingade som förnicklade, dubbel-nitade, metallöverkapslade, lackerade och celluloid-överkapslade stift samt pappersklämmor, häftklammer, provpåsklämmor och metallbygglådor. Varumärken: »S. H. F.», »Olfa» o. »Stjärnstift».",
+        "contact": {
+            "office": "Örebro",
+            "phone": [
+                "12818"
+            ],
+            "postgiro": "130505"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 500000
+        },
+        "corporation_year": 1936,
+        "board": [
+            {
+                "name": "Fritz Johansson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Svenska Icopal- & Takpix-fabriken",
+        "location": "Malmö",
+        "business": "Takpapp-, tjär- och asfaltemulsions-fabrik",
+        "products": "Tillverkar underhållsfri takpapp (»Icopal»), asfaltpapp (»Triumph», »Elg» o. »Sirius»), underlagspapp och förhydningspapp, mattunderlägg (»Korcopal» o. »Linolag»), bitumenplattor (» Villadrit»), tak-tjära (»Svensk Patent Takpixtjära» o. »Icopix»), bitumen (»Klisterpix»), kallflytande asfalt (»Icoflux»), asfaltpasta-emulsion (»Kifas»), asbesttätningskitt (»Kitti»), takfärger (»Svensk Patent Takpixfärg») och aluminiumfärg (»Silverflux»), träimpregneringsmedel (»Villadol 39»), pulverasfalt (»Kvartsit-Stahlas»), tjärbetongmassa (»Tjär-Stahlas»), vägasf altemulsion (»Koldmex» o. »Ico-bit»), tjäremulsion (»Icotar»), vägtjära (»Tarox») samt tjärasfalt (»Taroxas»). Utför taktäckningar, isoleringar, glaslanterniner (system »Svita»), specialfönster för snedtak (»Svita-fönstret») samt vägarbeten.",
+        "contact": {
+            "office": "Skeppsbron 11",
+            "phone": [
+                "Icopalfabriken"
+            ],
+            "postgiro": "25111"
+        },
+        "financials": {
+            "capital": 200000,
+            "annual_turnover": 8000000
+        },
+        "corporation_year": 1915,
+        "board": [
+            {
+                "name": "bankdir. Ivar Åkerman",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Wilhelm Kjellström",
+                "role": "v. ordf."
+            },
+            {
+                "name": "dir. Chr. Villadsen",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "AB. Svenska Idealhus",
+        "location": "Hultsfred",
+        "description": "Snickerifabrik, sågverk och hyvleri i Hultsfred (Kalmar l.). Tillverkar byggnadssnickerier och monteringsfärdiga trähus.",
+        "financials": {
+            "capital": 500000
+        },
+        "foundation_year": 1944,
+        "board": [
+            {
+                "name": "godsägare Hadar Hedborg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. G. Edström",
+                "role": ""
+            },
+            {
+                "name": "ryttm. B. Hyl-tén-Cavallius",
+                "role": ""
+            },
+            {
+                "name": "landstingsm. David Johansson",
+                "role": ""
+            },
+            {
+                "name": "godsäg. Arvid Nilsson",
+                "role": ""
+            },
+            {
+                "name": "friherre L. Wrede",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.49484,
+            "Longitude": 15.8416513
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "Svenska Industribyggen AB.",
+        "location": "Stockholm",
+        "description": "Byggnadsentreprenörfirma speciellt för industribyggnader. Firmamärke: »SIAB».",
+        "contact": {
+            "office": "Sveavägen 29 (efter den 1/5 1947 N. Stationsg. 75—77)",
+            "phone": [
+                "231525"
+            ],
+            "postgiro": "199720"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    }
+}

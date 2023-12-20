@@ -1,0 +1,228 @@
+{
+    "1": {
+        "name": "AB Stjernqvist",
+        "location": "Stockholm",
+        "business": "pås- och annat sulfitpapper samt sulfit-cellulosa. Från egna kraftstationer erhål-les elektrisk energi till bolagets olika anläggningar. Bolaget idkar jämväl jordbruk oeh skogshantering.",
+        "contact": {
+            "office": "Huvudkontor: Ställdalen",
+            "phone": [
+                "Ställdalen 200",
+                "Ställdalen 201",
+                "Ställdalen 202"
+            ],
+            "postgiro": "33195",
+            "sales_offices": [
+                {
+                    "location": "Bredsjö",
+                    "phone": "Hjulsjö 2 o Bredsjö 14"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 3750000,
+            "employees": {
+                "industriarb": 500
+            },
+            "annual_turnover": 15000000,
+            "annual_production_value": "24,000 ton tackjärn, 2,000 stds sågade trävaror, 16,000 ton sulfit-cellulosa, 9,000 ton papper"
+        },
+        "foundation_year": 1896,
+        "board": [
+            {
+                "name": "disp. N. Arvid Ericsson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Fredrik Cassel",
+                "role": "bergsing."
+            },
+            {
+                "name": "Axel Ax:son Johnson J:r",
+                "role": "bankdir."
+            },
+            {
+                "name": "Rich. Julin",
+                "role": "adv."
+            },
+            {
+                "name": "Wilhelm Moberg",
+                "role": "adv."
+            }
+        ],
+        "director": "Fredrik Cassel",
+        "sales_manager": "Gunnar Hulthén",
+        "manager": "Nils Blomquist",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB. Stjernqvist Metallfabrik",
+        "location": "Stockholm",
+        "business": "Metall var ufabriker i Stockholm och Hedlandet, Läggesta (Södermänl. l.). Tillverkar metallarbeten såsom nytto konst och hushållsartiklar.",
+        "contact": {
+            "office": "Kontor: Hornsg. 160",
+            "phone": "433875",
+            "postgiro": "155630"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": 600000
+        },
+        "foundation_year": 1919,
+        "corporation_year": 1939,
+        "director": "Carl Viktor Stjernqvist",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB Stjernsunds Bruk",
+        "location": "Stjärnsund",
+        "business": "Sågverk och hyvleri i Stjärnsund (Kopparb. l.). Tillverkar sågade och hyvlade trävaror. Bolaget driver även jordbruk och skogshantering.",
+        "contact": {
+            "office": "Telegr.-adr.: Starmill, Hedemora",
+            "phone": [
+                "Stjärnsund 1",
+                "Stjärnsund 42",
+                "Stjärnsund 43"
+            ],
+            "postgiro": "91655"
+        },
+        "financials": {
+            "capital": 2000000,
+            "employees": {
+                "industriarb": 55
+            }
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "C. R. Bildt",
+                "role": "dir."
+            },
+            {
+                "name": "Wilhelm Moberg",
+                "role": "adv."
+            },
+            {
+                "name": "Th. Raaschou",
+                "role": "bankdir."
+            },
+            {
+                "name": "John Qvarnström",
+                "role": "disp."
+            }
+        ],
+        "director": "John Qvarnström",
+        "coordinates": {
+            "Latitude": 60.4333012,
+            "Longitude": 16.2117374
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Stockamöllans AB",
+        "location": "Stockamöllan",
+        "business": "Sågverk, snickerifabrik och mek. verkstad vid Stockamöllan (Malmöh. l.). Tillverkar sågade trävaror av lövträ, hjulkuggar, verktygsskaft, hyvelbänkar, stansblock och kötthuggblock, trädgårdsmöbler, stegar, skott- och magasinskärror, lyfttransportvagnar (märke: »Stocka»), transportvagnar och -kärror för fabriker och varulager, transportanordningar såsom rullbanor, transportörer och stap-lingsapparater, hjul, länkrullar och hjulsatser samt mjölkningsskjul och potatis-sorteringsmaskiner (märke: »Pär»).",
+        "contact": {
+            "phone": "»Stockamöllans Aktiebolag»",
+            "postgiro": "7900"
+        },
+        "financials": {
+            "capital": 750000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": 1800000
+        },
+        "foundation_year": 1851,
+        "corporation_year": 1906,
+        "board": [
+            {
+                "name": "fru A. Sonesson",
+                "role": "ordf."
+            },
+            {
+                "name": "Jacob Clemensson",
+                "role": "disp."
+            },
+            {
+                "name": "Sven Sonesson",
+                "role": "ing."
+            }
+        ],
+        "director": "Sven Sonesson",
+        "coordinates": {
+            "Latitude": 55.9452395,
+            "Longitude": 13.367122
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Stockaryds Nya Torv AB",
+        "location": "Kalmar",
+        "business": "Tillverkar torvströ (spec. för export) vid fabrik i Stockaryd (Jönköp. l.). Varumärke: »Stocka».",
+        "contact": {
+            "office": "Huvudkontor o. försäljn.: E. Th. Ludvigssons Trävaruaffär, Kalmar",
+            "phone": "Kalmar: 271",
+            "postgiro": "98243"
+        },
+        "financials": {
+            "capital": 20400,
+            "annual_turnover": 100000
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "grossh. E. Th. Ludvigsson",
+                "role": "h."
+            },
+            {
+                "name": "Thorbjörn Ludvigsson",
+                "role": "insp."
+            },
+            {
+                "name": "Nils Westerberg",
+                "role": "disp."
+            }
+        ],
+        "director": "Nils Westerberg",
+        "coordinates": {
+            "Latitude": 56.6634447,
+            "Longitude": 16.356779
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Stockholms Aether & Essencefabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar frukteter, essencer, jästjml-ver samt giftfria färger för konditorier m. m. Varumärke: »Herba». Firman driver även engroshandel med kolonialvaror.",
+        "contact": {
+            "office": "Kontor: Walling. 14",
+            "phone": "114686",
+            "postgiro": "2913"
+        },
+        "financials": {
+            "employees": {
+                "arb.-antal": 6
+            },
+            "annual_turnover": 200000
+        },
+        "foundation_year": 1889,
+        "director": "Ragnar Lilieblad",
+        "sales_manager": "Carl R. Ohlsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    }
+}

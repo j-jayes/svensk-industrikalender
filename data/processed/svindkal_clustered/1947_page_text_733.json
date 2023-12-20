@@ -1,0 +1,310 @@
+{
+    "1": {
+        "name": "Sven Sjöstedt & Co.",
+        "location": "Torsg. 8",
+        "business": "Okänd",
+        "contact": {
+            "office": "Torsg. 8",
+            "phone": [
+                "111959",
+                "214266"
+            ],
+            "postgiro": "191720"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "employees": {
+                "Arb.-antal": 8
+            },
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "Sven Sjöstedt",
+                "role": "ordf."
+            },
+            {
+                "name": "Gösta Bergh",
+                "role": "kamrer"
+            }
+        ],
+        "director": "Sven Sjöstedt",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "N. & A. Tynell",
+        "location": "Malmö",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar möbler och inredningar",
+        "contact": {
+            "office": "Bergsg. 13",
+            "phone": [
+                "23049"
+            ],
+            "postgiro": "38607"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 5
+            }
+        },
+        "foundation_year": 1906,
+        "owners": [
+            "Anders Tynell"
+        ],
+        "director": "Anders Tynell",
+        "sales_manager": "Ernst Tynell",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Typochroma",
+        "location": "Stockholm",
+        "business": "Tryckfärgsfabrik",
+        "products": "Tillverkar svarta och kulörta tryckfärger, valsmassa samt grafiska fernissor",
+        "contact": {
+            "office": "Stockholm, Bondeg. 18 o. 22",
+            "phone": [
+                "403088",
+                "433682"
+            ],
+            "postgiro": "1398",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "Okänd"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "Okänd"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "Arb.-antal": 10
+            },
+            "annual_turnover": "Okänd",
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1896,
+        "corporation_year": 1931,
+        "board": [
+            {
+                "name": "fru Eli Hanner",
+                "role": "Okänd"
+            },
+            {
+                "name": "herr Holger Hanner",
+                "role": "Okänd"
+            },
+            {
+                "name": "disp. Nils Westerdahl",
+                "role": "Okänd"
+            }
+        ],
+        "manager": "Rob. Hanner",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "AB. Tyringe Möbelfabrik",
+        "location": "Tyringe",
+        "business": "Möbelfabrik",
+        "products": "Tillverkar finare möbler",
+        "contact": {
+            "phone": [
+                "58"
+            ],
+            "postgiro": "9386"
+        },
+        "financials": {
+            "capital": "110,000 kr",
+            "employees": {
+                "antal industriarb.": 25
+            },
+            "annual_production_value": "130,000 kr"
+        },
+        "foundation_year": 1922,
+        "corporation_year": 1938,
+        "board": [
+            {
+                "name": "fabr. Edvin Andersson",
+                "role": "Okänd"
+            },
+            {
+                "name": "fabr. Fride Olsson",
+                "role": "Okänd"
+            },
+            {
+                "name": "fabr. Hil-bert Olsson",
+                "role": "Okänd"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.1594501,
+            "Longitude": 13.6032438
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "AB. Tyringe Stanskniv- & Press-verktygsfabrik",
+        "location": "Tyringe",
+        "business": "Tillverkar stansknivar för sko-, gummi-oeh lädervaruindustrin, kuvert- och etikettstansar samt pressverktyg",
+        "products": "Varumärke: TSF",
+        "contact": {
+            "telegraph": "Tyringestans",
+            "phone": [
+                "11"
+            ],
+            "postgiro": "23554"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 20
+            },
+            "annual_production_value": "175,000 kr"
+        },
+        "foundation_year": 1912,
+        "corporation_year": 1923,
+        "director": "Ivar Nyberg",
+        "manager": "Aug. Dahlén",
+        "coordinates": {
+            "Latitude": 56.1594501,
+            "Longitude": 13.6032438
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Täckfabriken A. J. Ängel AB",
+        "location": "Hälsingborg",
+        "business": "Tillverkar sticktäcken samt duntäcken, madrasser, sovsäckar m. m.",
+        "contact": {
+            "phone": [
+                "12885"
+            ],
+            "postgiro": "95544"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "Antal industriarb.": 12
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1898,
+        "corporation_year": 1933,
+        "board": [
+            {
+                "name": "dir. Gunnar Ängel",
+                "role": "ordf."
+            },
+            {
+                "name": "f. kassörska Mia Ahlander",
+                "role": "Okänd"
+            },
+            {
+                "name": "fru Edit Ängel",
+                "role": "Okänd"
+            },
+            {
+                "name": "fru Karin Ängel",
+                "role": "Okänd"
+            },
+            {
+                "name": "ing. Thure Ängel",
+                "role": "Okänd"
+            }
+        ],
+        "director": "Gunnar Ängel",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 3
+    },
+    "7": {
+        "name": "AB. Täckindustri",
+        "location": "Flen",
+        "business": "Tillverkar vadd, stickade täcken, madrasser och kuddar",
+        "products": "Varumärke: »Jon Blund»",
+        "contact": {
+            "phone": [
+                "267"
+            ],
+            "postgiro": "8919"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "Antal industriarb.": 28
+            },
+            "annual_production_value": "750,000 kr"
+        },
+        "foundation_year": 1923,
+        "corporation_year": 1932,
+        "director": "Fred. Ronn-gaard",
+        "coordinates": {
+            "Latitude": 59.0579376,
+            "Longitude": 16.5879122
+        },
+        "cluster": 3
+    },
+    "8": {
+        "name": "AB. Tärna",
+        "location": "Göteborg",
+        "business": "Strumpfabrik",
+        "products": "Tillverkar herrstrumpor",
+        "contact": {
+            "office": "Haga Nygata 25",
+            "phone": [
+                "111534"
+            ],
+            "postgiro": "43816",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": [
+                        "113470"
+                    ]
+                }
+            ]
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "Antal industriarb.": 20
+            }
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "dir. Joel Lindblom",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Folke Ternell",
+                "role": "Okänd"
+            }
+        ],
+        "director": "Folke Ternell",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    }
+}

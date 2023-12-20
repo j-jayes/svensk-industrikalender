@@ -1,0 +1,275 @@
+{
+    "1": {
+        "name": "Simonsson—Sjöberg",
+        "location": "Gävleg. 12 A",
+        "contact": {
+            "telegraph": "Silverman",
+            "phone": [
+                "230255"
+            ],
+            "postgiro": "54946"
+        },
+        "financials": {
+            "capital": 10000,
+            "employees": {
+                "total": 15,
+                "home_workers": 10
+            },
+            "annual_turnover": 300000,
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1932,
+        "board": [
+            {
+                "name": "fru I. A. E. Hultman",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Sten Hultman",
+                "role": null
+            }
+        ],
+        "director": "Sten Hultman",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Nils Edv. Simonssons Möblerings-affär",
+        "location": "Lund",
+        "products": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "10362"
+            ],
+            "postgiro": null
+        },
+        "foundation_year": 1909,
+        "coordinates": {
+            "Latitude": 55.7046601,
+            "Longitude": 13.1910073
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "Simrishamns Cjuteri",
+        "location": "Frode Yiis, Simrishamn",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar slakterimaskiner",
+        "contact": {
+            "phone": [
+                "35",
+                "395"
+            ],
+            "postgiro": "142485"
+        },
+        "financials": {
+            "employees": {
+                "total": 20
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1875,
+        "owners": [
+            "ing. Frode Vils"
+        ],
+        "coordinates": {
+            "Latitude": 55.5573959,
+            "Longitude": 14.3489651
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Sipla",
+        "location": "Stockholm",
+        "business": "Försilvringsfabrik",
+        "products": "Utför försilvring",
+        "contact": {
+            "office": "Sjöbjörnsvägen 10, Gröndal",
+            "phone": [
+                "452016"
+            ],
+            "post_address": "Box 102, Stockholm 1",
+            "postgiro": 10000
+        },
+        "financials": {
+            "employees": {
+                "total": 12
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "L. Hultenheim",
+                "role": "disp."
+            }
+        ],
+        "sales_manager": "Harald Gustafsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Sjuntorp",
+        "location": "Sjuntorp",
+        "business": "Bomullsspinneri och väveri",
+        "products": "Tillverkar bomullsgarn och band samt bomullsvävnader. Idkar jordbruk.",
+        "contact": {
+            "telegraph": "Sjuntorp",
+            "phone": [
+                "Göteborg 174104",
+                "Trollhättan 40200"
+            ],
+            "postgiro": "9080"
+        },
+        "financials": {
+            "capital": 1200000,
+            "employees": {
+                "total": 650
+            },
+            "annual_turnover": 10000000,
+            "annual_production_value": 10000000
+        },
+        "foundation_year": 1882,
+        "board": [
+            {
+                "name": "disp. Ingvar E:son Mark",
+                "role": "ordf."
+            },
+            {
+                "name": "grossh. Gustaf Delin",
+                "role": null
+            },
+            {
+                "name": "disp. H. Muller",
+                "role": null
+            }
+        ],
+        "director": "Ingvar E: son Mark",
+        "manager": "E. Mjörne",
+        "sales_manager": "E. Niklasson",
+        "coordinates": {
+            "Latitude": 58.19767539999999,
+            "Longitude": 12.2346597
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Själevads Ångbryggeri",
+        "location": "Själevad",
+        "products": "Se Ångbryggeri AB. i Själevad",
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 63.2994414,
+            "Longitude": 18.5988915
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Sjöbacka Sågverk",
+        "location": "Maspelösa",
+        "products": "Se AB. Statens Skogsindustrier",
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 58.49135949999999,
+            "Longitude": 15.420318
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "AB. Sjöberg & Haglund",
+        "location": "Bjursås",
+        "business": "Skofabrik",
+        "products": "Tillverkar arbetskängor, sport- och vandrar-skodon samt skidpjäxor",
+        "contact": {
+            "phone": [
+                "19"
+            ],
+            "postgiro": "27517"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "total": 50
+            },
+            "annual_turnover": 1000000,
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1922,
+        "board": [
+            {
+                "name": "fabr. Axel Sjöberg",
+                "role": null
+            },
+            {
+                "name": "fabr. Alrik Sjöberg",
+                "role": null
+            },
+            {
+                "name": "fabr. Wiktor Haglund",
+                "role": null
+            }
+        ],
+        "director": "Axel Sjöberg",
+        "manager": "Wiktor Haglund",
+        "coordinates": {
+            "Latitude": 60.73846399999999,
+            "Longitude": 15.4467669
+        },
+        "cluster": 9
+    },
+    "9": {
+        "name": "A. Ferd. Sjöberg AB.",
+        "location": "Gävle",
+        "business": "Ull- och kamgarnsspinneri samt färgeri",
+        "products": "Tillverkar oblekta och färgade ull-och kamgarner. Varumärke: »Nornan»",
+        "contact": {
+            "telegraph": "Sjöberg, Gävle",
+            "phone": [
+                "132"
+            ],
+            "postgiro": "21383"
+        },
+        "financials": {
+            "capital": 247500,
+            "employees": {
+                "total": 160
+            },
+            "annual_turnover": 4000000,
+            "annual_production_value": 4000000
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "bankdir. Gunnar Hedberg",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Carl V. Larsson",
+                "role": null
+            },
+            {
+                "name": "ing. Karl Olving",
+                "role": null
+            },
+            {
+                "name": "disp. Sven Olving",
+                "role": null
+            }
+        ],
+        "director": "Sven Olving",
+        "manager": "ing. Martin Sjöberg",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 3
+    }
+}

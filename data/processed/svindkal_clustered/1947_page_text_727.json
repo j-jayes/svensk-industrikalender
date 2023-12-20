@@ -1,0 +1,363 @@
+{
+    "1": {
+        "name": "Tryckeri AB. Aurora",
+        "location": "Ystad",
+        "business": "Bok- och tidningstryckeri",
+        "products": "Utgiver tidningen »Aurora» (daglig tidning för sydöstra Skåne) samt utför tidskrifter, broschyrer, accidenstryck, affischer m. m.",
+        "contact": {
+            "office": "Aurora",
+            "phone": [
+                "Phone number not provided"
+            ],
+            "postgiro": "28433"
+        },
+        "financials": {
+            "capital": "83,510 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "325,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "Nils J. Persson",
+                "role": "byggm."
+            },
+            {
+                "name": "Holger Holmgren",
+                "role": "rektor"
+            },
+            {
+                "name": "Per Krantz",
+                "role": "om-budsm."
+            },
+            {
+                "name": "Josef Ohlsson",
+                "role": "ekonomichef"
+            },
+            {
+                "name": "Axel Strand",
+                "role": "kassör"
+            },
+            {
+                "name": "Ludvig Törnqvist",
+                "role": "red."
+            },
+            {
+                "name": "August Wiberg",
+                "role": "vaktm."
+            }
+        ],
+        "director": "Josef Ohlsson",
+        "coordinates": {
+            "Latitude": 55.4295051,
+            "Longitude": 13.8200308
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Tryckeri AB. Framtiden i Malmö",
+        "location": "Malmö",
+        "business": "Utför tidnings-, tidskrifts- och boktryck, accidenstryck, reklamtryck m. m. Bolaget utger tidningen »Arbetet».",
+        "contact": {
+            "office": "Arbetet",
+            "phone": [
+                "Phone number not provided"
+            ],
+            "postgiro": "14065"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "tekn. avd.": 73
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "N. O. Persson",
+                "role": "ombudsm."
+            },
+            {
+                "name": "Otto Friman",
+                "role": "förbundsordf."
+            },
+            {
+                "name": "Gösta Netzén",
+                "role": "chefred."
+            },
+            {
+                "name": "Per Larsson",
+                "role": "expeditör"
+            },
+            {
+                "name": "Axel Strand",
+                "role": "kassör"
+            },
+            {
+                "name": "Eric Svensson",
+                "role": "expeditör"
+            },
+            {
+                "name": "A. Uhlén",
+                "role": "red."
+            },
+            {
+                "name": "Helmer Wikström",
+                "role": "dir."
+            }
+        ],
+        "director": "Helmer Wikström",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Tryckeri AB. Småland",
+        "location": "Jönköping",
+        "business": "Tidnings- och boktryckeri",
+        "products": "Tillverkar tidningar, böcker, broschyrer, affischer samt accidenstryck. Varumärke: »Tabs».",
+        "contact": {
+            "office": "Not provided",
+            "phone": [
+                "3930—35"
+            ],
+            "postgiro": "11566"
+        },
+        "financials": {
+            "capital": "248,200 kr",
+            "employees": {
+                "industriarb": 49
+            },
+            "annual_turnover": "1,060,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "foundation_year": 1902,
+        "board": [
+            {
+                "name": "Arnold Bolin",
+                "role": "bruksarb."
+            },
+            {
+                "name": "Ernst Karlson",
+                "role": "dir."
+            },
+            {
+                "name": "Carl Kvist",
+                "role": "förman"
+            },
+            {
+                "name": "Johan Skoog",
+                "role": "linjeförman"
+            },
+            {
+                "name": "Ragnar Åkerberg",
+                "role": "dir."
+            },
+            {
+                "name": "Alvar österberg",
+                "role": "kontorist"
+            },
+            {
+                "name": "John östergren",
+                "role": "typograf"
+            }
+        ],
+        "director": "Ragnar Åkerberg",
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "Tryckeri AB. Svea",
+        "location": "Stockholm",
+        "business": "Utför illustrationstryck, kataloger och affärstryck",
+        "contact": {
+            "office": "Not provided",
+            "phone": [
+                "670675"
+            ],
+            "postgiro": "50316"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "650,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "corporation_year": 1902,
+        "board": [
+            {
+                "name": "Ejnar Ohlsson",
+                "role": "dir."
+            },
+            {
+                "name": "Josef Holmquist",
+                "role": "dir."
+            },
+            {
+                "name": "Tage Holmquist",
+                "role": "disp."
+            }
+        ],
+        "director": "Ejnar Ohlsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "Tryckeri AB. Sätherlund & Krook",
+        "location": "Stockholm",
+        "business": "Utför bok- och tidningstryck samt bok-binderiarbeten",
+        "contact": {
+            "office": "Not provided",
+            "phone": [
+                "108038—39"
+            ],
+            "postgiro": "198212"
+        },
+        "financials": {
+            "capital": "25,400 kr",
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_turnover": "190,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "Waldy Sätherlund",
+                "role": "fru"
+            },
+            {
+                "name": "Eugen Krook",
+                "role": "faktor"
+            },
+            {
+                "name": "Stig Sätherlund",
+                "role": "boktryckare"
+            }
+        ],
+        "director": "Stig Sätherlund",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "6": {
+        "name": "Tryckerl AB. Thule",
+        "location": "Stockholm",
+        "business": "Boktryckeri och bokbinderi. Utför boktryck, vetenskapliga arbeten, affärstryck, tidskrifter m. m.",
+        "contact": {
+            "office": "Not provided",
+            "phone": [
+                "520245"
+            ],
+            "postgiro": "52545"
+        },
+        "financials": {
+            "capital": "140,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "1,000,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "corporation_year": 1926,
+        "board": [
+            {
+                "name": "E. Frieberg",
+                "role": "dir."
+            },
+            {
+                "name": "Edvin Andersson",
+                "role": "kamrer"
+            },
+            {
+                "name": "A. Frieberg",
+                "role": "fru"
+            },
+            {
+                "name": "Nils Nordqvist",
+                "role": "disp."
+            }
+        ],
+        "director": "Nils Nordqvist",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "7": {
+        "name": "AB. Tryckfärger",
+        "location": "Stockholm",
+        "business": "Tillverkar tryckfärger samt stilmetall. Bolaget driver även försäljning av maskiner och förnödenheter för den grafiska industrion",
+        "contact": {
+            "office": "Abetesto",
+            "phone": [
+                "233485"
+            ],
+            "postgiro": "50471"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 9
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "Not provided"
+        },
+        "corporation_year": 1924,
+        "board": [
+            {
+                "name": "Sten Thiel",
+                "role": "civiling."
+            },
+            {
+                "name": "Pehr Griberg",
+                "role": "disp."
+            },
+            {
+                "name": "Karl Muller",
+                "role": "Fabrikschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "8": {
+        "name": "AB. Tryckrör",
+        "location": "Limhamn",
+        "business": "Betongvarufabrik i Limhamn. Tillverkar bonnarör avsedda för ledningar med höga tryck (2—20 atö) och centrifugalgjutna rör för lågtrycksledningar (0—2 atö).",
+        "contact": {
+            "office": "Not provided",
+            "phone": [
+                "Phone number not provided"
+            ],
+            "postgiro": "Not provided"
+        },
+        "coordinates": {
+            "Latitude": 55.5724415,
+            "Longitude": 12.9147749
+        },
+        "cluster": 6
+    }
+}

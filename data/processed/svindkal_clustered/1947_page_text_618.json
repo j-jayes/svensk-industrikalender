@@ -1,0 +1,290 @@
+{
+    "1": {
+        "name": "AB. Skandinaviska Lomma (Malmöh. l.)",
+        "location": "Lomma (Malmö)",
+        "business": "Eternit",
+        "contact": {
+            "office": "Eternitbolaget, Lomma",
+            "phone": [
+                "Malmö 462500"
+            ],
+            "postgiro": "72470",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Kungsg. 32",
+                    "phone": "231650"
+                },
+                {
+                    "location": "Göteborg, V. Hamng. 24",
+                    "phone": "113527"
+                },
+                {
+                    "location": "Halmstad",
+                    "phone": "3955"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "2,500,000 kr",
+            "employees": {
+                "industriarb": 400
+            },
+            "annual_turnover": "8,000,000 kr",
+            "annual_production_value": "8,000,000 kr"
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "dir. Ernst Wehtje",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Frederik Smidth",
+                "role": null
+            },
+            {
+                "name": "dir. Malte Ström",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.6731375,
+            "Longitude": 13.0674055
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "AB. Skandinaviska Etuifabriken, Malmö",
+        "location": "Malmö",
+        "business": "Etuier för guld- och silverarbeten",
+        "products": "Etuier för guld- och silverarbeten, för bestick, optiska och andra instrument, provkoffertar och skyltställ samt kartonnage",
+        "contact": {
+            "office": "Ystadsg. 22 A",
+            "phone": [
+                "Malmö 24456",
+                "Malmö 78056"
+            ],
+            "postgiro": "38580"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 180
+            },
+            "annual_turnover": "850,000 kr",
+            "annual_production_value": "850,000 kr"
+        },
+        "foundation_year": 1894,
+        "board": [
+            {
+                "name": "Verkst. dir. Ph. Wolf",
+                "role": null
+            }
+        ],
+        "corporation_year": 1941,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Skandinaviska Glödlampfabriken, Nyköping",
+        "location": "Nyköping",
+        "business": "Glödlampfabrik med glasbruk",
+        "products": "Koltråds- och metalltrådslampor",
+        "contact": {
+            "office": "Nyköping",
+            "phone": [
+                "Nyköping",
+                "Nyköping",
+                "Nyköping",
+                "Örnsköldsvik"
+            ],
+            "postgiro": "8840"
+        },
+        "financials": {
+            "capital": "1,800,000 kr",
+            "employees": {
+                "industriarb": 285
+            },
+            "annual_turnover": "5,000,000 kr",
+            "annual_production_value": "5,000,000 kr"
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "Verkst. dir. K. Gust. Almén",
+                "role": "ordf."
+            },
+            {
+                "name": "borgm. G. Fant",
+                "role": null
+            },
+            {
+                "name": "adv. Hans Ihre",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Skandinaviska Grafiteringsverk, Trollhättan",
+        "location": "Trollhättan",
+        "business": "Elektriskt grafiteringsverk",
+        "products": "Grafitpulver och grafitelektroder",
+        "contact": {
+            "office": "Skangrafit, Trollhättan",
+            "phone": [
+                "10427",
+                "12447"
+            ],
+            "postgiro": "34661"
+        },
+        "financials": {
+            "capital": "1,040,000 kr",
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "fil. dr Jakob Forssell",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Axel T. Nilsson",
+                "role": null
+            },
+            {
+                "name": "mr A. M. Williamson",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.28348939999999,
+            "Longitude": 12.2858206
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. Skandinaviska Granit AB., Göteborg",
+        "location": "Göteborg",
+        "business": "Granitbrott och stenhuggerier",
+        "products": "Gatsten, smågatsten, kantsten, byggnadssten, gravvårdar, kajsten, råblock och makadam",
+        "contact": {
+            "office": "Göteborg, Järntorgsg. 12 o. 14",
+            "phone": [
+                "Göteborg 135509"
+            ],
+            "postgiro": "44678"
+        },
+        "financials": {
+            "capital": "1,000,000 kr",
+            "employees": {
+                "industriarb": 400
+            },
+            "annual_turnover": "2,000,000 kr",
+            "corporation_year": 1905
+        },
+        "board": [
+            {
+                "name": "bankdir. Ebbe Lundberg",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Elias Markfelt",
+                "role": null
+            },
+            {
+                "name": "dir. Garl Sjöstrand",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "AB. Skandinaviska Cruv AB., Hedemora",
+        "location": "Hedemora",
+        "business": "Äger Bäckgruvan m. fl. gruvor",
+        "contact": {
+            "office": "Hedemora",
+            "phone": [
+                "Hedemora"
+            ]
+        },
+        "financials": {
+            "capital": "2,300,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "corporation_year": 1941
+        },
+        "board": [
+            {
+                "name": "disp. Algot Goldkuhl",
+                "role": null
+            },
+            {
+                "name": "adv. Gösta Grönberg",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.2775453,
+            "Longitude": 15.985892
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "AB. Skandinaviska Gummi AB., Viskafors",
+        "location": "Viskafors",
+        "business": "Gummifabrik",
+        "products": "Automobilringar, transportband och drivremmar, gummislangar, galoscher och gummiskor, gummiklackar, gummisulor, gummi beläggning av valsar för pappers- och textilindustrierna, gummimattor, regnkläder m. m. samt tekn. gummivaror",
+        "contact": {
+            "office": "Viskafors",
+            "phone": [
+                "Borås"
+            ]
+        },
+        "financials": {
+            "capital": "430,000 kr",
+            "employees": {
+                "industriarb": 580
+            },
+            "corporation_year": 1890
+        },
+        "board": [
+            {
+                "name": "kapten Wilhelm Österman",
+                "role": "ordf."
+            },
+            {
+                "name": "kamrer Helge Johansson",
+                "role": null
+            },
+            {
+                "name": "fru E. Nilsson",
+                "role": null
+            },
+            {
+                "name": "herr Gösta Österman",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.63374469999999,
+            "Longitude": 12.8568382
+        },
+        "cluster": 6
+    }
+}

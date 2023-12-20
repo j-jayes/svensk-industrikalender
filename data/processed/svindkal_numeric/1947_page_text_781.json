@@ -1,0 +1,233 @@
+{
+    "1": {
+        "name": "Åry—Åskammar",
+        "location": "Åryd",
+        "business": "Glasbruk and träull",
+        "products": "Buteljglas, fönsterglas, träull",
+        "contact": {
+            "office": "Åryd",
+            "phone": [
+                "Mariestad 78",
+                "Växjö 7440"
+            ],
+            "postgiro": "75573",
+            "head_office": "Växjö",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "619920"
+                },
+                {
+                    "location": "Stockholm",
+                    "phone": "200512"
+                }
+            ],
+            "telegraph": "Årybruk, Växjö",
+            "factory_office": "Åryd",
+            "factory_phone": "Växjö 7440"
+        },
+        "financials": {
+            "capital": 600000,
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_turnover": 1100000,
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1802,
+        "board": [
+            {
+                "name": "Jonas Haggård",
+                "role": "Platschef"
+            },
+            {
+                "name": "A. Edwin Ohlsson",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "major Hakon Gisle",
+                "role": "V. verkst. dir."
+            },
+            {
+                "name": "Carl-Uno Persson",
+                "role": "Kamrer"
+            }
+        ],
+        "owners": [
+            "Fastighets AB. D. Carnegie & Co., Göteborg"
+        ],
+        "manager": "Eric Allring",
+        "coordinates": {
+            "Latitude": 56.8270847,
+            "Longitude": 14.9812801
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Åry Manufakturverk",
+        "location": "Åryd",
+        "business": "Sågverk and lådfabrik",
+        "products": "Sågade trävaror, lådämnen",
+        "contact": {
+            "office": "Åryd",
+            "phone": "Växjö 7440",
+            "postgiro": "82060"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": 600000,
+            "annual_production_value": 600000
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "major Hakon Gisle",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Carl-Uno Persson",
+                "role": "Kamrer"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.8270847,
+            "Longitude": 14.9812801
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Åsebyfors Ullspinneri & Väveri",
+        "location": "Åsebyfors",
+        "business": "Spinneri and väveri",
+        "products": "Garner, filtar, vadmal",
+        "contact": {
+            "phone": "9",
+            "postgiro": "92128"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_turnover": 20000
+        },
+        "foundation_year": 1925,
+        "manager": "Josef Claesson",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Åsedahus",
+        "location": "Åseda",
+        "business": "Monteringsfärdiga trähus",
+        "contact": {
+            "office": "Åseda",
+            "phone": "Vetlanda",
+            "postgiro": "146951"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": 2300000
+        },
+        "foundation_year": 1939,
+        "manager": "Eric Allring",
+        "director": "Eric Allring",
+        "coordinates": {
+            "Latitude": 57.1676879,
+            "Longitude": 15.3468016
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Åsedakläder",
+        "location": "Åseda",
+        "business": "Herr- and gosskonfektion",
+        "contact": {
+            "phone": "91",
+            "postgiro": "164265"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": 500000
+        },
+        "foundation_year": 1939,
+        "manager": "Sten Gustafsson",
+        "sales_manager": "Nils Larsson",
+        "coordinates": {
+            "Latitude": 57.1676879,
+            "Longitude": 15.3468016
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "Åshammars Bultfabriks",
+        "location": "Åshammar",
+        "business": "Bultfabrik",
+        "products": "Bult, mutter and mutterbrickor, axelflänsmutter, nit, träskruvar, ögleskruvar, rälsspik, rälsskarvbult, iso-latorkrok, linlås, tröskverksstift",
+        "contact": {
+            "telegraph": "Bultfabriken, Åshammar",
+            "phone": [
+                "3",
+                "63",
+                "93"
+            ],
+            "postgiro": "13033"
+        },
+        "financials": {
+            "capital": 540000,
+            "employees": {
+                "industriarb": 95
+            },
+            "annual_turnover": 1600000
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "Oscar Jönsson",
+                "role": "Styrelse (ordf.)"
+            },
+            {
+                "name": "Gösta Delin",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Adolf Jönsson",
+                "role": "Styrelse"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.64498329999999,
+            "Longitude": 16.5436086
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Åshammars Byggnadssnickeri",
+        "location": "Lingked",
+        "business": "Byggnadssnickerier and inredningar",
+        "contact": {
+            "office": "Åshammar",
+            "phone": "Linghed",
+            "postgiro": "91280"
+        },
+        "financials": {
+            "capital": 32000
+        },
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 8
+    }
+}

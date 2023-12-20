@@ -1,0 +1,172 @@
+{
+    "1": {
+        "name": "Mosjön—Motala",
+        "financials": {
+            "capital": 1699500,
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_turnover": 4500000,
+            "annual_production_value": 4500000
+        },
+        "foundation_year": 1895,
+        "board": [
+            {
+                "name": "Gust. Ekman",
+                "role": "f. d. bankdir. (ordf.)"
+            },
+            {
+                "name": "Gustaf Ekman",
+                "role": "bergsing^"
+            },
+            {
+                "name": "Per G. Ekman",
+                "role": "disp."
+            },
+            {
+                "name": "Assar Grönwall",
+                "role": "dir."
+            },
+            {
+                "name": "Sven Lind",
+                "role": "dir."
+            }
+        ],
+        "director": "Per G. Ekman",
+        "manager": "Per G. Ekman",
+        "cluster": 4
+    },
+    "2": {
+        "name": "Mosjöns Sågverks AB., Vallerås",
+        "financials": {
+            "capital": 187500,
+            "employees": {
+                "industriarb": 26
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": 500000
+        },
+        "foundation_year": 1917,
+        "director": "Bengt Hansson",
+        "manager": "Bengt Hansson",
+        "cluster": 4
+    },
+    "3": {
+        "name": "Mossgruvornas Cruv AB., Högforsbruh",
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": 300000,
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1921,
+        "board": [
+            {
+                "name": "Joel Larsson",
+                "role": "dir. (ordf.)"
+            },
+            {
+                "name": "Ivar Bohm",
+                "role": "övering."
+            },
+            {
+                "name": "Halvar Löwenhielm",
+                "role": "bergsing."
+            },
+            {
+                "name": "P. Vilhelm Villner",
+                "role": "Gruving."
+            }
+        ],
+        "director": "Halvar Löwenhielm",
+        "manager": "Halvar Löwenhielm",
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Mosås Tegelbruk, Fjugesta",
+        "financials": {
+            "capital": 40000,
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1935,
+        "director": "E. P. Wahlberg",
+        "manager": "E. P. Wahlberg",
+        "cluster": 4
+    },
+    "5": {
+        "name": "AB. Motala Bryggerier, Motala",
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1910,
+        "board": [
+            {
+                "name": "H. Sunnerstedt",
+                "role": "bankdir. (ordf.)"
+            },
+            {
+                "name": "Hjalmar Hensmar",
+                "role": "dir."
+            },
+            {
+                "name": "Birger Paulson",
+                "role": "dir."
+            }
+        ],
+        "director": "Birger Paulson",
+        "manager": "Birger Paulson",
+        "sales_manager": "J. F. Spendrup",
+        "cluster": 4
+    },
+    "6": {
+        "name": "Motala Kartongfabrik, Motala",
+        "financials": {
+            "employees": {
+                "industriarb": 16
+            },
+            "annual_production_value": 60000
+        },
+        "foundation_year": 1920,
+        "manager": "Eric Forssell",
+        "cluster": 4
+    },
+    "7": {
+        "name": "Motala Plastic, Berglund & Bergstedt, Motala",
+        "financials": {
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_production_value": 150000
+        },
+        "foundation_year": 1946,
+        "owners": [
+            "med. dr Arne Berglund",
+            "ing. Bertil Bergstedt"
+        ],
+        "director": "med. dr Arne Berglund",
+        "manager": "med. dr Arne Berglund",
+        "sales_manager": "Bertil Bergstedt",
+        "cluster": 4
+    },
+    "8": {
+        "name": "AB. Motala Trikåfabrik, Motala",
+        "financials": {
+            "capital": 380000,
+            "employees": {
+                "industriarb": 120
+            },
+            "annual_turnover": 1200000
+        },
+        "foundation_year": 1938,
+        "director": "N/A",
+        "manager": "N/A",
+        "cluster": 4
+    }
+}

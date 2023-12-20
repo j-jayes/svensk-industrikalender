@@ -1,0 +1,186 @@
+{
+    "1": {
+        "name": "Byxfabriken—Bäckhammar AB. Byxfabriken Kirudd",
+        "location": "Vänersborg",
+        "contact": {
+            "office": "Kirudd, Vänersborg",
+            "telegraph": "Bäckhammar, Bäckhammar"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "Antal industriarb.": 35
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1883,
+        "coordinates": {
+            "Latitude": 58.3797283,
+            "Longitude": 12.3248032
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Bårebo Metallvarufabrlk AB.",
+        "location": "Gnosjö",
+        "products": "Tillverkar möbel- och byggnadsbeslag, draghandtag, klädkrok, rakhyvlar, gångjärn m. m.",
+        "contact": {
+            "office": "Bårebo, Gnosjö",
+            "telegraph": "Bårebo, Gnosjö",
+            "postgiro": "30005"
+        },
+        "financials": {
+            "capital": 300000,
+            "employees": {
+                "Antal industriarb.": 35
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1883,
+        "corporation_year": 1946,
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "Bålsta Snickeri & Möbelfabrik",
+        "location": "Stockholm",
+        "products": "Tillverkar butiksinredningar vid fabrik i Bålsta (Uppsala l.). Specialiteter: färghandels- och konditoriinredningar.",
+        "contact": {
+            "office": "Prydnobolaget Hj. Holmquist, Stockholm",
+            "telegraph": "Prydno, Stockholm",
+            "phone": [
+                "318216",
+                "318242"
+            ]
+        },
+        "owners": [
+            "fabr. Hj. Holmquist"
+        ],
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "Antal industriarb.": 11
+            },
+            "annual_turnover": 125000
+        },
+        "foundation_year": 1944,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Båstad s Kalkindustri AB.",
+        "location": "Målen (Kristianst. l.) and ö, Karup (Hallands l.)",
+        "products": "Tillverkar bränd kalk i pulverform, stampad kalk samt gödningskalk.",
+        "contact": {
+            "phone": "Båstad 443"
+        },
+        "financials": {
+            "capital": 309000,
+            "employees": {
+                "Antal industriarb.": 60
+            },
+            "annual_turnover": 800000
+        },
+        "foundation_year": 1907,
+        "coordinates": {
+            "Latitude": 56.7957699,
+            "Longitude": 12.893493
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Båtbyggeribolaget Andersson & Sundberg",
+        "location": "Söderköping",
+        "products": "Tillverkar motorbåtar, utombordsmotor-båtar, roddbåtar samt livbåtar.",
+        "contact": {
+            "phone": "67"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "Antal industriarb.": 25
+            }
+        },
+        "foundation_year": 1929,
+        "coordinates": {
+            "Latitude": 58.4759013,
+            "Longitude": 16.3234307
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "Bäckebo Industri AB.",
+        "location": "Hisingsbacka",
+        "products": "Benextraktionsverk i Hisingsbacka (Göteb. o. Bohus l.). Tillverkar benfett, horn-mjöl och härdffryn.",
+        "contact": {
+            "phone": "Göteborg 224040",
+            "postgiro": "32953"
+        },
+        "financials": {
+            "capital": 1150000,
+            "employees": {
+                "Antal industriarb.": 20
+            }
+        },
+        "foundation_year": 1916,
+        "coordinates": {
+            "Latitude": 57.74999999999999,
+            "Longitude": 11.983333
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Bäckerefjordens Konservfabrik, Bernh. Andreasson & Söner",
+        "location": "Klädesholmen (Göteb. o. Bohus l.)",
+        "products": "Tillverkar sillkonserver, ansjovis och kaviar vid fabrik i Klädesholmen (Göteb. o. Bohus l.).",
+        "contact": {
+            "phone": "12",
+            "postgiro": "131622"
+        },
+        "owners": [
+            "fabr. Knut Andreasson"
+        ],
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "Antal industriarb.": 10
+            },
+            "annual_turnover": 90000
+        },
+        "foundation_year": 1900,
+        "coordinates": {
+            "Latitude": 57.9473833,
+            "Longitude": 11.5435498
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "Bäckhammars Bruk, AB.",
+        "location": "Björneborg (Värml. l.)",
+        "products": "Tillverkar omslags-, spinn-, pås- och toalettpapper, takpapp och förhydningspapp samt sulfatcellulosa för eget behov.",
+        "contact": {
+            "telegraph": "Bäckhammarsbruk, Kristinehamn",
+            "phone": "Kristinehamn 29010-11-12-14",
+            "postgiro": "91169"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "Antal industriarb.": 60
+            }
+        },
+        "coordinates": {
+            "Latitude": 59.2408793,
+            "Longitude": 14.2511578
+        },
+        "cluster": 1
+    }
+}

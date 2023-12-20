@@ -1,0 +1,154 @@
+{
+    "1": {
+        "name": "Sunex Säkerhetsglas AB.",
+        "location": "Stockholm",
+        "business": "Glasförädlingsfabrik",
+        "products": "Tillverkar splitterfritt glas för bilar, bussar, elektr. lok, flygplan, fartyg etc. samt varierande lamellkonstruktioner för andra ändamål. Varumärke: »Sunex». Bolaget driver även försäljning av härdat säkerhetsglas (»Restex»).",
+        "contact": {
+            "office": "Drottningg. 17",
+            "phone": [
+                "201201",
+                "201231"
+            ],
+            "postgiro": "54404",
+            "telegraph": "Sunexglas",
+            "head_office": "Stockholm"
+        },
+        "financials": {
+            "capital": 59500,
+            "employees": {
+                "Arbetsplatser": 8
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": 100000
+        },
+        "foundation_year": 1932,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "AB. Sunlight",
+        "location": "Stockholm",
+        "business": "Kemisk-teknisk fabrik",
+        "products": "Tillverkar tvål, tvättpulver, skurpulver, såpa och glycerin. Varumärken: »Radion», »Omo», »Sunlight», »Lux», »Vim», »Ge-fion» m. fl.",
+        "contact": {
+            "office": "Sveavägen 25—27",
+            "phone": [
+                "234065"
+            ],
+            "postgiro": "9113"
+        },
+        "financials": {
+            "capital": 1510000,
+            "employees": {
+                "Antal industriarb.": 225
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1911,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Sunmos Konfektionsindustri",
+        "location": "Eksjö",
+        "business": "Klädesindustri",
+        "contact": {
+            "phone": [
+                "1120"
+            ],
+            "postgiro": "70099"
+        },
+        "financials": {
+            "capital": 38000,
+            "employees": {
+                "Antal industriarb.": 32
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1939,
+        "coordinates": {
+            "Latitude": 57.6172,
+            "Longitude": 15.22155
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Sunne Mek. Verkstad",
+        "location": "Sunne",
+        "business": "Tillverkar verktygsmaskiner samt maskiner för sågverksindustrien",
+        "contact": {
+            "phone": [
+                "66"
+            ],
+            "postgiro": "94889"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 25
+            },
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1937,
+        "coordinates": {
+            "Latitude": 59.83655749999999,
+            "Longitude": 13.1440464
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "AB. Superior",
+        "location": "Stockholm",
+        "business": "Tillverkar sotningsapparater, borrmaskiner, pressar, skevspindlar, shuntventiler samt dragregulatorer; utför allmänna verkstadsarbeten samt exploaterar patent.",
+        "contact": {
+            "office": "Nybrokajen 7",
+            "phone": [
+                "107048",
+                "107053",
+                "107056"
+            ],
+            "postgiro": "1835"
+        },
+        "financials": {
+            "capital": 496000,
+            "employees": {
+                "Antal industriarb.": 30
+            },
+            "annual_production_value": 800000
+        },
+        "foundation_year": 1923,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Surahammars Bruks AB.",
+        "location": "Surahammar",
+        "business": "Järnverk",
+        "contact": {
+            "phone": [
+                "N/A"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "Arbetsplatser": "N/A"
+            }
+        },
+        "coordinates": {
+            "Latitude": 59.70722619999999,
+            "Longitude": 16.2268409
+        },
+        "cluster": 1
+    }
+}

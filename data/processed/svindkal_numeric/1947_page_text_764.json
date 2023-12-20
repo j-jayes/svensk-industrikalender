@@ -1,0 +1,176 @@
+{
+    "1": {
+        "name": "Viola—Viskafors",
+        "location": "Mölndalsvägen 20",
+        "business": "Tvål- & Parfymfabrik",
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": 200000,
+            "annual_production_value": 200000
+        },
+        "foundation_year": 1917,
+        "corporation_year": 1923,
+        "director": "Martin G. Johansson",
+        "coordinates": {
+            "Latitude": 57.68944029999999,
+            "Longitude": 11.9941225
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "J. A. Wirén, Cjuteri o. Mek. Verkstad",
+        "location": "Sävedalen",
+        "business": "Järn- och metallgjuteri",
+        "contact": {
+            "phone": [
+                "Göteborg 260150",
+                "261650",
+                "261750"
+            ],
+            "postgiro": "41081"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": 700000
+        },
+        "foundation_year": 1919,
+        "owner": "dir. J. A. Wirén",
+        "sales_manager": "T. Björkman",
+        "coordinates": {
+            "Latitude": 57.71795720000001,
+            "Longitude": 12.0825954
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Wiro",
+        "location": "Stockholm",
+        "business": "Tillverkning av packningar",
+        "contact": {
+            "office": "Ynglingag. 17, Stockholm"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "corporation_year": 1934,
+        "board": [
+            {
+                "name": "ing. Rune G. Berggren",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "ing. Sven Gladh",
+                "role": "Tekn. chef"
+            }
+        ],
+        "manager": "verkm. Eric Olsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Wirsbo AB., Virsbo",
+        "location": "Virsbo",
+        "business": "Mek. verkstad, manufaktursmedja, rörverk samt sågverk",
+        "contact": {
+            "telegraph": "Virsbobruk, Norberg",
+            "phone": "Virsbo 31",
+            "postgiro": "29740"
+        },
+        "financials": {
+            "capital": 2874000,
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": 8000000
+        },
+        "corporation_year": 1892,
+        "board": [
+            {
+                "name": "bruksdisp. Helge Silverstolpe",
+                "role": "ordf."
+            },
+            {
+                "name": "frih. Magnus v. Essen"
+            },
+            {
+                "name": "fru Eva Kleen"
+            },
+            {
+                "name": "disp. Bror Lagercrantz"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.8730726,
+            "Longitude": 16.0444141
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Wirserums nya Möbelfabrik",
+        "location": "Hultarp",
+        "business": "Tillverkning av möbler",
+        "contact": {
+            "phone": "Virserum 16",
+            "postgiro": "93644"
+        },
+        "financials": {
+            "capital": 50100,
+            "employees": {
+                "arb.-antal": 12
+            },
+            "annual_turnover": 155000
+        },
+        "foundation_year": 1902,
+        "owner": "fabr. Carl Nilsson",
+        "coordinates": {
+            "Latitude": 57.59999999999999,
+            "Longitude": 14.75
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "Visby Silicat-Tegelfabrik",
+        "location": "Visby",
+        "business": "Tillverkning av kalk, murbruk och tegel",
+        "contact": {
+            "phone": "398",
+            "postgiro": "189898"
+        },
+        "financials": {
+            "capital": 50100,
+            "employees": {
+                "arb.-antal": 16
+            },
+            "annual_turnover": 130000
+        },
+        "foundation_year": 1903,
+        "director": "Carl Gardell",
+        "coordinates": {
+            "Latitude": 57.6348,
+            "Longitude": 18.29484
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "Viskafors Cummifabrik",
+        "location": "Viskafors",
+        "business": "Gummi fabrik",
+        "description": "Se Skandinaviska Gummi AB., Viskafors",
+        "coordinates": {
+            "Latitude": 57.63374469999999,
+            "Longitude": 12.8568382
+        },
+        "cluster": 1
+    }
+}

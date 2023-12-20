@@ -1,0 +1,211 @@
+{
+    "1": {
+        "name": "Eau de Cologne & Parfymerifabriken 4711 Ferd. MUlhens",
+        "location": "Sundbyberg",
+        "business": "Tillverkar eau de Cologne, parfymer, hårmedel, rakmedel och kosmetiska preparat.",
+        "contact": {
+            "office": "Eau de Cologne & Parfymerifabriken 4711 Ferd. MUlhens, Sundbyberg",
+            "phone": [
+                "282580"
+            ],
+            "postgiro": "4711",
+            "telegraph": "4711, TOSCA, Stockholm"
+        },
+        "financials": {
+            "capital": "Etablerad 1890"
+        },
+        "coordinates": {
+            "Latitude": 59.369325,
+            "Longitude": 17.9609133
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Ebbamåla Cjuteri & Mek. Verkstad",
+        "location": "Hovmansbygd, Blekinge",
+        "business": "Tillverkar träullsmaskiner samt träullspackpressar.",
+        "contact": {
+            "phone": [
+                "8"
+            ],
+            "postgiro": "168043"
+        },
+        "financials": {
+            "capital": "Etablerad 1886",
+            "annual_production_value": "170,000kr"
+        },
+        "owners": [
+            "fabr. Ansgarius Sandberg",
+            "civiling. August A. Sandberg",
+            "fröken J. Sandberg",
+            "fröken A. Sandberg"
+        ],
+        "coordinates": {
+            "Latitude": 56.366667,
+            "Longitude": 14.683333
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "AB. Ebe",
+        "location": "Malmö",
+        "business": "Tillverkar choklad och karameller.",
+        "contact": {
+            "office": "Fabriksg. 3",
+            "phone": [
+                "25139",
+                "78718"
+            ],
+            "postgiro": "24537"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "annual_production_value": "500,000 kr",
+            "foundation_year": 1914
+        },
+        "board": [
+            {
+                "name": "fru Ellen Andersson",
+                "role": ""
+            },
+            {
+                "name": "disp. Curt Berwill",
+                "role": ""
+            },
+            {
+                "name": "fru E. N. Schoug",
+                "role": ""
+            }
+        ],
+        "director": "Curt Berwill",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Ebe-Verken AB.",
+        "location": "Huskvarna",
+        "business": "Tillverkar varmluftsapparater, kokspisar, kaminer, isolerade strykjärn, dryckeshoar samt gjutgods.",
+        "contact": {
+            "office": "Ebe-Verken AB., Ebbes Bruk, Huskvarna",
+            "phone": "Ebeverken",
+            "postgiro": "13651"
+        },
+        "financials": {
+            "capital": "205,000 kr",
+            "annual_production_value": "1,200,000 kr"
+        },
+        "board": [
+            {
+                "name": "ing. Oskar Bergström",
+                "role": ""
+            },
+            {
+                "name": "ing. Lars Bergström",
+                "role": ""
+            },
+            {
+                "name": "ing. Valter Bergström",
+                "role": ""
+            }
+        ],
+        "director": "Oskar Bergström",
+        "managing_director": "Oskar Bergström",
+        "sales_manager": "G. Granquist",
+        "coordinates": {
+            "Latitude": 57.7904141,
+            "Longitude": 14.2755781
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Ebå Lädervarufabrik",
+        "location": "Anderstorp, Jönköp. l.",
+        "business": "Tillverkar skinn- och lädervaruartiklar.",
+        "contact": {
+            "phone": [
+                "105"
+            ],
+            "postgiro": "73743"
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "annual_production_value": "500,000 kr",
+            "foundation_year": 1936
+        },
+        "owners": [
+            "Eric Carlson",
+            "Åke Åsgärde",
+            "Pontus Åsgärde"
+        ],
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "E. B. Ö:s Metallgjuteri AB.",
+        "location": "Eskilstuna",
+        "business": "Tillverkar kokillgjutet aluminiumgjutgods för byggnads-, husgeråds- och verkstadsindustrierna.",
+        "contact": {
+            "phone": [
+                "31937"
+            ],
+            "postgiro": "74630"
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "annual_production_value": "400,000 kr",
+            "corporation_year": 1944
+        },
+        "director": "fabr. J. R. Eldin",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Eccoverken",
+        "location": "Skara",
+        "business": "Tillverkar färgsprutapparater och luftkompressorer.",
+        "contact": {
+            "office": "Eccoverken, Skara",
+            "phone": [
+                "Eccoverken"
+            ],
+            "postgiro": "73481"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "Antal industriarb.": 150
+            },
+            "corporation_year": 1941
+        },
+        "board": [
+            {
+                "name": "dir. E. Järnåker",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. H. Pyk",
+                "role": ""
+            },
+            {
+                "name": "dir. Walter Wehtje",
+                "role": ""
+            }
+        ],
+        "director": "E. Järnåker",
+        "sales_manager": "C.-O. Pernblad",
+        "coordinates": {
+            "Latitude": 58.3860128,
+            "Longitude": 13.4393282
+        },
+        "cluster": 1
+    }
+}

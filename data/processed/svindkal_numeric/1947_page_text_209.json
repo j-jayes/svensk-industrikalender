@@ -1,0 +1,265 @@
+{
+    "1": {
+        "name": "Bråse—Bröderna",
+        "location": "Klädesholmen",
+        "business": "Konservfabrik",
+        "products": "Tillverkar sillkonserver, spillånga och kabeljo samt kaf feklarmedel. Varumärke: »Sälen»",
+        "contact": {
+            "office": "Klädesholmen",
+            "phone": [
+                "36"
+            ],
+            "postgiro": "74830",
+            "head_office": "Klädesholmen"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industrial_workers": 25
+            },
+            "annual_turnover": 250000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1917,
+        "owners": [
+            "fabr. Anders G. Bråse"
+        ],
+        "coordinates": {
+            "Latitude": 57.9473833,
+            "Longitude": 11.5435498
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB. Bräcke Trähusfabrik",
+        "location": "Bräcke",
+        "business": "Tillverkar monteringsfärdiga trähus",
+        "contact": {
+            "office": "Bräcke",
+            "phone": [
+                "14"
+            ],
+            "postgiro": "287656"
+        },
+        "financials": {
+            "capital": 50300,
+            "employees": {
+                "industrial_workers": 14
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1944,
+        "board": [
+            {
+                "name": "handl. Adolf Ericson",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Petter Edling",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Stig Edling",
+                "role": "N/A"
+            }
+        ],
+        "director": "Adolf Ericson",
+        "coordinates": {
+            "Latitude": 62.7507414,
+            "Longitude": 15.4225748
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Bräcke Ångsåg",
+        "location": "Bräcke",
+        "business": "Sågverk och hyvleri",
+        "products": "Tillverkar sågade och hyvlade trävaror, stav samt ribbtugg",
+        "contact": {
+            "office": "Bräcke",
+            "phone": [
+                "20"
+            ],
+            "postgiro": "22241"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": {
+                "industrial_workers": 40
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "400 stds sågade och 1,400 stds hyvlade trävaror samt 100 stds övriga trävaror"
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "disp. Stig Edling",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 62.7507414,
+            "Longitude": 15.4225748
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Brännlands Nya Träförädlings AB.",
+        "location": "Brännland",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "Tillverkar sågade och hyvlade trävaror samt byggnadssnickerier",
+        "contact": {
+            "office": "Brännland",
+            "phone": [
+                "1"
+            ],
+            "postgiro": "62450"
+        },
+        "financials": {
+            "capital": 110000,
+            "employees": {
+                "industrial_workers": 15
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "1,200 stds sågade och 700 stds hyvlade trävaror"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "disp. J. Arv. Wiklund",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Karl-Gustav Andersson",
+                "role": "N/A"
+            },
+            {
+                "name": "landstingsm. Eric Emanuelsson",
+                "role": "N/A"
+            }
+        ],
+        "manager": "G. Seeman",
+        "coordinates": {
+            "Latitude": 63.8796695,
+            "Longitude": 20.0554472
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "AB. Bröderne Ameln",
+        "location": "Stockholm",
+        "business": "Konservfabriker",
+        "products": "Tillverkar fisk-och sillkonserver. Varumärken: »Abba», »Munken», »Bullen», »Makalös» m. fl.",
+        "contact": {
+            "office": "Stockholm, Värtan",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "2210",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "170485"
+                },
+                {
+                    "location": "Norrköping",
+                    "phone": "29435"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "77625"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industrial_workers": 265
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1928,
+        "board": [
+            {
+                "name": "civiling. Bengt Ingeström",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. C. H. A. Ameln",
+                "role": "N/A"
+            },
+            {
+                "name": "civiling. Robert Ameln",
+                "role": "N/A"
+            }
+        ],
+        "director": "C. H. A. Ameln",
+        "manager": "Nils Anderson",
+        "sales_manager": "Stig Peterson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Bröderna Andersons Farmfabrik",
+        "location": "Alvesta",
+        "business": "Gjuteri och mek. verkstad",
+        "products": "Tillverkar formar och maskiner för glasindustrien samt gjutjärnsgods",
+        "contact": {
+            "office": "Alvesta",
+            "phone": [
+                "94"
+            ],
+            "postgiro": "163348"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industrial_workers": 25
+            },
+            "annual_turnover": 160000,
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "fabr. Helge Anderson",
+            "fabr. Sten Anderson"
+        ],
+        "coordinates": {
+            "Latitude": 56.89921039999999,
+            "Longitude": 14.5560006
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Bröderna Anderssons Gjuten",
+        "location": "Skurup",
+        "business": "Gjuteri, mek. verkstad och snickerifabrik",
+        "products": "Tillverkar halmpressar för tröskverk, tallriksskum-plogar, tallriksharvar (märke: »Canton»), traktortallriksharvar, hästhackor (märken: »Skandia» o. »Hektor») samt smi-desformar (märke: »Vesuvius»)",
+        "contact": {
+            "office": "Skurup",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "N/A",
+            "employees": {
+                "industrial_workers": "N/A"
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": "N/A",
+        "coordinates": {
+            "Latitude": 55.48045,
+            "Longitude": 13.502349
+        },
+        "cluster": 6
+    }
+}

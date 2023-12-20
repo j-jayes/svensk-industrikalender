@@ -1,0 +1,225 @@
+{
+    "1": {
+        "name": "AB. Wicanders Korkfabriker",
+        "location": "Stockholm",
+        "business": "Korkfabriker",
+        "products": "Tillverkar kork, natur- och presskorkskivor, presskorkpackningar, kronkork, skruvkapsyler med förseglings-ring, korkparkett, flasktillslutningsma-skiner (märke: »Alka») samt flaskför-slutningar såsom patentkork och aluminiumkapslar.",
+        "contact": {
+            "office": "Stockholm, Brännkyrkag. 66",
+            "phone": [
+                "440350"
+            ],
+            "postgiro": "715",
+            "head_office": "Stockholm, Brännkyrkag. 66",
+            "telegraph": "Wicanders, Stockholm"
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "employees": {
+                "total": 350,
+                "Linköping": 100
+            }
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "Carl August Wicander",
+                "role": "ordf."
+            },
+            {
+                "name": "Dick Bergman",
+                "role": "adv."
+            },
+            {
+                "name": "Hjalmar Hensmar",
+                "role": "dir."
+            },
+            {
+                "name": "G. Rooth",
+                "role": "dir."
+            },
+            {
+                "name": "S. Rud-berg",
+                "role": "kapten"
+            },
+            {
+                "name": "Carl Gustaf Wicander",
+                "role": "dir."
+            }
+        ],
+        "director": "Carl Gustaf Wicander",
+        "managing_director": "Carl Gustaf Wicander",
+        "sales_manager": "Hj. Hensmar",
+        "manager": "Carl Gustaf Wicander",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Sten Wicéns Möbelindustri",
+        "location": "Smålands Farstorp",
+        "business": "Möbelindustri",
+        "products": "Tillverkar möbler, speciellt sittmöbler",
+        "contact": {
+            "phone": "28",
+            "postgiro": "145390"
+        },
+        "financials": {
+            "employees": {
+                "total": 15
+            }
+        },
+        "foundation_year": 1937,
+        "owners": [
+            "Sten Wicén"
+        ],
+        "director": "Sten Wicén",
+        "coordinates": {
+            "Latitude": 57.3304279,
+            "Longitude": 15.3139592
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Victorin & Strand",
+        "location": "Västervik",
+        "business": "Trikå-, strump- och syfabrik",
+        "products": "Tillverkar ylle-trikåvaror, strumpor, arbets- och sportkläder samt skjortor. Firman driver även engroshandel med garn och vävnader.",
+        "contact": {
+            "phone": [
+                "7",
+                "147",
+                "787"
+            ],
+            "postgiro": "26817"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "total": 70
+            },
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1895,
+        "current_name_year": 1915,
+        "owners": [
+            "f. bankdir. Josef Victorin"
+        ],
+        "director": "Nils Victorin",
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Widebolaget AB.",
+        "location": "Malmö",
+        "business": "Kem.-teknisk fabrik",
+        "products": "Tillverkar träim-pregneringsmedel (märke: »Aloxyl»), asfaltprodukter, färger och lösningsmedel. Bolaget driver även handel med smörjoljor och byggnadsmaterial.",
+        "contact": {
+            "office": "Gust. Ad. torg 8 A",
+            "phone": [
+                "15340"
+            ],
+            "postgiro": "148230"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "total": 4
+            },
+            "annual_production_value": "150,000 kr"
+        },
+        "foundation_year": 1940,
+        "corporation_year": 1943,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "AB. L. & P. Widengren",
+        "location": "Vingåker",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar herr- och gosskläder samt damdräkter.",
+        "contact": {
+            "phone": "Vingåker",
+            "postgiro": "3741"
+        },
+        "financials": {
+            "capital": "1,225,000 kr",
+            "employees": {
+                "total": 468
+            },
+            "annual_production_value": "7,800,000 kr"
+        },
+        "foundation_year": 1877,
+        "corporation_year": 1903,
+        "board": [
+            {
+                "name": "Henrik Widengren",
+                "role": "ordf."
+            },
+            {
+                "name": "Knut Strömberg",
+                "role": "adv."
+            },
+            {
+                "name": "Per Widengren",
+                "role": "dir."
+            }
+        ],
+        "director": "Per Widengren",
+        "sales_manager": "A. Grahn",
+        "coordinates": {
+            "Latitude": 59.04337529999999,
+            "Longitude": 15.8709394
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Widsell & Co.",
+        "location": "Norsholm",
+        "business": "",
+        "products": "Tillverkar speglar, spegel- och fotografiramar, ovala och runda ramar, tapet-och ramlister",
+        "contact": {
+            "phone": "96",
+            "postgiro": "28336"
+        },
+        "financials": {
+            "capital": "10,000 kr",
+            "employees": {
+                "total": 9
+            }
+        },
+        "foundation_year": 1926,
+        "corporation_year": 1938,
+        "director": "Börje Vilhelmson",
+        "coordinates": {
+            "Latitude": 58.50593729999999,
+            "Longitude": 15.9730765
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "AB. Widtsköfle",
+        "location": "Vittskövle",
+        "business": "Tegelbruk och sågverk",
+        "products": "Tillverkar kalksandstegel, sågade trävaror, takspån m. m. Firman driver även jordbruk, handelsträdgård samt skogshantering.",
+        "financials": {
+            "capital": "kr 0",
+            "employees": {
+                "total": 0
+            }
+        },
+        "coordinates": {
+            "Latitude": 55.8541962,
+            "Longitude": 14.1353171
+        },
+        "cluster": 7
+    }
+}

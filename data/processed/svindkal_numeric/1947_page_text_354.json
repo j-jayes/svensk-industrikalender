@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "AB. Heby Tegelverk",
+        "location": "Heby",
+        "business": "Tegelbruk",
+        "products": "Tillverkar taktegel, dräneringsrör och blomkrukor. Specialitet: taktegel. Bolaget driver även sågverksrörelse. Varumärke: »Original Heby Tegel».",
+        "contact": {
+            "office": "Heby",
+            "phone": [
+                "Heby Tegelverk"
+            ],
+            "postgiro": "33651",
+            "head_office": "Heby",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "118155"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 800000,
+            "employees": {
+                "industriarb": 190
+            },
+            "annual_turnover": "10.5 milj. taktegel, 2 milj. dräneringsrör, 1.5 milj. blomkrukor"
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "direktör Gustaf Settergren",
+                "role": "ordf."
+            },
+            {
+                "name": "civiling. Nils Blomqvist",
+                "role": "adv."
+            },
+            {
+                "name": "adv. Harald Håkansson",
+                "role": "akademiesekr."
+            },
+            {
+                "name": "C. O. Häggquist",
+                "role": "adv."
+            },
+            {
+                "name": "adv. Carl. v. Plomgren",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.9396372,
+            "Longitude": 16.8587588
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "Hedbergs Verkstäder",
+        "location": "Osby",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar fackverkskonstruktioner, vinschar, hissar och kranar, pressar, tankar m. m.",
+        "contact": {
+            "phone": "382",
+            "postgiro": "143537"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1898,
+        "coordinates": {
+            "Latitude": 56.3815355,
+            "Longitude": 13.9929413
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Cust. Hedberg",
+        "location": "Stockholm",
+        "business": "Bokbinderi",
+        "products": "Tillverkar biblioteksband och lyxband ävensom adresser och album avsedda till hedersgåvor.",
+        "contact": {
+            "office": "Regeringsg. 26",
+            "phone": [
+                "106105"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "arb": 10
+            },
+            "annual_production_value": 200000
+        },
+        "foundation_year": 1886,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "*J. A. Hedberg & Co. Industri AB»",
+        "location": "Stockholm",
+        "business": "Pappersförädlingsfabrik",
+        "products": "Tillverkar carbon- och kalkérpapper, stenciler, skrivmaskinsband och dupliceringsfärg. Varumärke: »Stjärnan».",
+        "contact": {
+            "office": "Henriksdal"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1921,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "Hedbloms Möbel- & Biljardfabrik",
+        "location": "Hudiksvall",
+        "business": "Möbel- & Biljardfabrik",
+        "products": "Tillverkar möbler och biljarder.",
+        "contact": {
+            "phone": "66"
+        },
+        "financials": {
+            "employees": {
+                "arb": 6
+            },
+            "annual_production_value": 75000
+        },
+        "foundation_year": 1878,
+        "coordinates": {
+            "Latitude": 61.7273909,
+            "Longitude": 17.107401
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "*Ä. G. Hedbrandh Trikåfabrik AB.,",
+        "location": "Hälsingborg",
+        "business": "Trikåfabrik",
+        "products": "Tillverkar herr- och damunderkläder.",
+        "contact": {
+            "phone": "15344",
+            "postgiro": "32141"
+        },
+        "financials": {
+            "capital": 250300,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": 900000
+        },
+        "foundation_year": 1930,
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Hede Bandfabrik",
+        "location": "Sjömarken",
+        "business": "Bandfabrik",
+        "products": "Tillverkar bastband, flätade bomullsband, resårband, indiaband, kyprade band, rullgardinssnören m. m. samt bindgarn och mattvarp vid fabrik i Sjömarken (Älvsb. l.).",
+        "contact": {
+            "office": "Sjömarken",
+            "phone": [
+                "Borås 54023"
+            ],
+            "postgiro": "74725"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_production_value": 100000
+        },
+        "foundation_year": 1931,
+        "coordinates": {
+            "Latitude": 57.71801000000001,
+            "Longitude": 12.8341014
+        },
+        "cluster": 3
+    },
+    "8": {
+        "name": "*AB. Hedemora Verkstäder",
+        "location": "Hedemora",
+        "business": "Mek. verkstad",
+        "products": "Tillverkar maskiner och apparater för cellulosafabriker, pappers-.",
+        "contact": {
+            "office": "Hedemora",
+            "phone": [
+                "Hedemora Verkstäder"
+            ],
+            "postgiro": "3598"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "foundation_year": 1921,
+        "coordinates": {
+            "Latitude": 60.2775453,
+            "Longitude": 15.985892
+        },
+        "cluster": 6
+    }
+}

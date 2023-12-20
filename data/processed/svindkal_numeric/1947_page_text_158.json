@@ -1,0 +1,319 @@
+{
+    "1": {
+        "name": "Walfrid Anderssons Mek. Verkstad",
+        "location": "Tollarp",
+        "business": "Manufacturing",
+        "products": "Tent stoves, wood stoves, potato handling and harvesting machines, thermometer devices for potatoes, iron constructions, etc.",
+        "contact": {
+            "office": "Tollarp, Kristianst. l.",
+            "phone": [
+                "75"
+            ],
+            "postgiro": "27857",
+            "head_office": "Tollarp, Kristianst. l.",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": 300000
+        },
+        "foundation_year": 1924,
+        "current_name_year": null,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "Walfrid Andersson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Walfrid Andersson",
+        "coordinates": {
+            "Latitude": 55.9344942,
+            "Longitude": 13.9744406
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Walfrid Anderssons Sadelmakeri AB.",
+        "location": "Uppsala",
+        "business": "Manufacturing",
+        "products": "Saddlery articles, specialized in bicycle saddles.",
+        "contact": {
+            "office": "Uppsala",
+            "phone": [
+                "30641"
+            ],
+            "postgiro": "",
+            "head_office": "Uppsala",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 400000
+        },
+        "foundation_year": 1889,
+        "current_name_year": 1930,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Vilh. Andersons Metallfabrik AB.",
+        "location": "Stockholm",
+        "business": "Manufacturing",
+        "products": "Lighting fixtures (especially crystal chandeliers), bank and shop fittings, sign holders, and facade works made of metal.",
+        "contact": {
+            "office": "Åsög. 113—119, Stockholm",
+            "phone": [
+                "428065"
+            ],
+            "postgiro": "3539",
+            "head_office": "Stockholm",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": 85000
+        },
+        "foundation_year": 1913,
+        "current_name_year": 1939,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "Sven E. V. Anderson",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Åbjörn Anderson",
+        "location": "Svedala",
+        "business": "Manufacturing",
+        "products": "Machinery for the brick and peat industry, road construction equipment, crushers, mixing machines, transport devices, cast iron and steel castings, etc.",
+        "contact": {
+            "office": "Svedala, Malmöh. l.",
+            "phone": [],
+            "postgiro": "23240",
+            "head_office": "Svedala, Malmöh. l.",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "512485 o. 5124-95"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "112634—35"
+                }
+            ],
+            "telegraph": "Gjuteriet, Svedala",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 1600000,
+            "employees": {
+                "industriarb": 550
+            },
+            "annual_turnover": 6110000
+        },
+        "foundation_year": 1882,
+        "current_name_year": 1916,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": 1892,
+        "board": [
+            {
+                "name": "Nils Fredriksson",
+                "role": "Chairman"
+            },
+            {
+                "name": "Herman Å. Åbjörnsson",
+                "role": "Vice Chairman"
+            },
+            {
+                "name": "Herman Härstedt",
+                "role": "Member"
+            },
+            {
+                "name": "Krister Johnsson",
+                "role": "Member"
+            },
+            {
+                "name": "A. Ottoson",
+                "role": "Member"
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "H. Å. Åbjörnsson",
+        "sales_manager": "",
+        "manager": "H. Å. Åbjörnsson",
+        "coordinates": {
+            "Latitude": 55.5089084,
+            "Longitude": 13.2371097
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Anderstorps Armaturfabrik",
+        "location": "Anderstorp",
+        "business": "Manufacturing",
+        "products": "Electrical fixtures such as enclosed fixtures, wall and ceiling brackets, iron arms, zero rails, cable shoes, etc.",
+        "contact": {
+            "office": "Anderstorp, Jönköp. l.",
+            "phone": [
+                "71"
+            ],
+            "postgiro": "85060",
+            "head_office": "Anderstorp, Jönköp. l.",
+            "sales_offices": [],
+            "telegraph": "Box 50, Anderstorp",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": 300000
+        },
+        "foundation_year": 1927,
+        "current_name_year": null,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Robert Henjeby",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Anderstorps Träindustri",
+        "location": "Anderstorp",
+        "business": "Manufacturing",
+        "products": "Tourist beds and ottomans.",
+        "contact": {
+            "office": "Anderstorp, Jönköp. l.",
+            "phone": [
+                "114",
+                "66"
+            ],
+            "postgiro": "22577",
+            "head_office": "Anderstorp, Jönköp. l.",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": 875000
+        },
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "Malkolm Sjödahl",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "AB. Bernh. Andréns Läderfabrik",
+        "location": "Trelleborg",
+        "business": "Manufacturing",
+        "products": "Tanned leather, chrome-tanned gloves, coal leather coupons, flat leather, travel leather, suede leather, etc.",
+        "contact": {
+            "office": "Trelleborg",
+            "phone": [
+                "81",
+                "263"
+            ],
+            "postgiro": "33420",
+            "head_office": "Trelleborg",
+            "sales_offices": [],
+            "telegraph": "Andrén, Trelleborg",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": {
+                "industriarb": 0
+            },
+            "annual_turnover": ""
+        },
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 55.3762427,
+            "Longitude": 13.1574231
+        },
+        "cluster": 9
+    }
+}

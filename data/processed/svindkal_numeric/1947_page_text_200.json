@@ -1,0 +1,169 @@
+{
+    "1": {
+        "name": "Borgström—Borås",
+        "location": "Malmö",
+        "business": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader m. m.",
+        "contact": {
+            "office": "Fersens väg 10 B",
+            "phone": [
+                "29649"
+            ],
+            "postgiro": "149566"
+        },
+        "financials": {
+            "capital": 1500000,
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1980,
+        "manager": "Lars Borgström",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "Borgviks AB., Borgviksbruk",
+        "business": "Snickerifabrik, kvarn med grynverk samt elektr. kraftstation vid Borgviksbruk, såg och kvarn i Brunsberg, ävensom kvarn i östra Malsjö",
+        "location": "Säffle",
+        "contact": {
+            "phone": [
+                "Borgviksbruk 9",
+                "Borgviksbruk 20"
+            ],
+            "postgiro": "85080"
+        },
+        "financials": {
+            "capital": 1550000,
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "foundation_year": "1863",
+        "owners": "Billeruds AB.",
+        "coordinates": {
+            "Latitude": 59.132661,
+            "Longitude": 12.930107
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "AB. Borohus, Stockholm",
+        "business": "Sågverk, snickeri- och trähusfabriker",
+        "location": "Stockholm",
+        "contact": {
+            "phone": "»HSB»",
+            "postgiro": "151460"
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industriarb": 300
+            },
+            "annual_turnover": 8800000
+        },
+        "foundation_year": 1936,
+        "owners": "Hyresgästernas Sparkasse- & Byggnadsföreningars Riksförbund u.p.a. (HSB)",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Bors Bobinfabrik, J. Bolander & Co.",
+        "business": "Bobinfabrik",
+        "location": "Bor",
+        "contact": {
+            "phone": "20"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_production_value": 250000
+        },
+        "foundation_year": 1919,
+        "owners": [
+            "fabr. Janne Bolander",
+            "fabr. David Bauréus"
+        ],
+        "manager": "Janne Bolander",
+        "coordinates": {
+            "Latitude": 57.1090239,
+            "Longitude": 14.1693695
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Borstbinderibolagets Fabriks AB., Vinslöv",
+        "business": "Tillverkar tandborstar, hår-, klädes- och rotborstar, piassavakvastar m. m.",
+        "location": "Vinslöv",
+        "contact": {
+            "phone": "99",
+            "postgiro": "30440"
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 80
+            },
+            "annual_production_value": 800000
+        },
+        "foundation_year": 1935,
+        "coordinates": {
+            "Latitude": 56.1033485,
+            "Longitude": 13.9129906
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Borst- & Penselfabriken, Kristinehamn",
+        "business": "Tillverkar alla slags borstar och penslar, även för industriella ändamål",
+        "location": "Kristinehamn",
+        "contact": {
+            "phone": [
+                "10288",
+                "10370"
+            ],
+            "postgiro": "28800"
+        },
+        "financials": {
+            "capital": 36000,
+            "employees": {
+                "industriarb": 100
+            }
+        },
+        "foundation_year": 1910,
+        "coordinates": {
+            "Latitude": 59.3100677,
+            "Longitude": 14.1089192
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Borås Appreturmedelfabrik, Borås",
+        "business": "Tillverkar preparat för textilindustrien såsom textiloljor, nättjemedel, textiltvål-och tvättmedel, bykoljor, egaliseringsmedel, appreturmedel samt preparat för skinnberederier och läderindustrier",
+        "location": "Källbäcksryd, Borås",
+        "contact": {
+            "phone": [
+                "48140",
+                "48141"
+            ],
+            "postgiro": "33468",
+            "repre": "AB. Nils Holmberg, Halmstad, telefon: 1044"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "number": 6
+            }
+        },
+        "foundation_year": 1929,
+        "coordinates": {
+            "Latitude": 57.7257762,
+            "Longitude": 12.9963321
+        },
+        "cluster": 3
+    }
+}

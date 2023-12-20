@@ -1,0 +1,303 @@
+{
+    "1": {
+        "name": "Norrköpings Apotekares Mineralvatten AB",
+        "location": "Norrköping",
+        "business": "Tillverkar mineralvatten och läskedrycker",
+        "contact": {
+            "phone": [
+                "20138",
+                "21880"
+            ],
+            "postgiro": "83066",
+            "office": "Norrköping"
+        },
+        "financials": {
+            "capital": 140000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 910000,
+            "annual_production_value": 910000
+        },
+        "foundation_year": 1874,
+        "board": [
+            {
+                "name": "Eric Dagberg",
+                "role": "disp."
+            },
+            {
+                "name": "Åke Dagberg",
+                "role": "disp."
+            },
+            {
+                "name": "Bertil Elmfeldt",
+                "role": "dir."
+            },
+            {
+                "name": "Gustaf Ericsson",
+                "role": "dir."
+            },
+            {
+                "name": "John Fristedt",
+                "role": "bankir"
+            }
+        ],
+        "director": "Gustaf Ericsson",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Norrköpings BomullsväfverS AB",
+        "location": "Norrköping",
+        "business": "Bomullsväven, spinneri, blekeri, färgeri, tryckeri och appreturverk. Tillverkar bomullsgarn samt bomulls- och konst-silkevävnader. Varumärke: »Tuppen»",
+        "contact": {
+            "postgiro": "8883",
+            "head_office": "Norrköping",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "109224"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "135159"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "21837"
+                },
+                {
+                    "location": "Örebro",
+                    "phone": "10219"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 7120000,
+            "employees": {
+                "industriarb": 850
+            }
+        },
+        "foundation_year": 1852,
+        "board": [
+            {
+                "name": "Gösta Gyllensvärd",
+                "role": "bankdir."
+            },
+            {
+                "name": "Ryno Lundquist",
+                "role": "överdir."
+            },
+            {
+                "name": "Lars Ringborg",
+                "role": "konsul"
+            },
+            {
+                "name": "Carl Trygger",
+                "role": "dir."
+            },
+            {
+                "name": "Oskar Åkerman",
+                "role": "civiling."
+            },
+            {
+                "name": "Ragnar Öländer",
+                "role": "disp."
+            }
+        ],
+        "director": "Ragnar Öländer",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "Norrköpings Eiektrotekniska Fabriker AB. (NEFA)",
+        "location": "Norrköping",
+        "business": "Tillverkar radioapparater, radiorör, förstärkare- och sändarrör samt svetselektroder. Varumärke: »NEFA»",
+        "contact": {
+            "phone": [
+                "29540"
+            ],
+            "postgiro": "161720"
+        },
+        "financials": {
+            "capital": 500000,
+            "employees": {
+                "industriarb": 570
+            }
+        },
+        "foundation_year": 1925,
+        "board": [
+            {
+                "name": "Herbert Kastengren",
+                "role": "dir."
+            },
+            {
+                "name": "Bo Ekelund",
+                "role": "civiling."
+            },
+            {
+                "name": "Rinse Hylkema",
+                "role": "dir."
+            },
+            {
+                "name": "John Wagrell",
+                "role": "bankdir."
+            }
+        ],
+        "director": "Rinse Hylkema",
+        "manager": "Mats Holmgren",
+        "sales_manager": "Carl Leif Westring",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Norrköpings Färgeri AB",
+        "location": "Norrköping",
+        "business": "Utför färgning, blekning och apprete-ring av silkes-, konstsilkes-, bomulls- och yllevaror i styck, garn och löst material samt kemisk tvätt, vittvätt och mattrengöring",
+        "contact": {
+            "phone": [
+                "Färgeribolaget-Niga"
+            ],
+            "postgiro": "34494"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_production_value": 700000
+        },
+        "foundation_year": 1901,
+        "director": "Gunnar Skiöld",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "AB. Norrköpings Förenade Bryggerier",
+        "location": "Norrköping",
+        "business": "Tillverkar malt och maltdrycker",
+        "contact": {
+            "phone": [
+                "29870"
+            ],
+            "postgiro": "10370"
+        },
+        "financials": {
+            "capital": 2335200,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": 2000000
+        },
+        "foundation_year": 1912,
+        "board": [
+            {
+                "name": "John Fristedt",
+                "role": "bankir"
+            },
+            {
+                "name": "Sven Schwartz",
+                "role": "dir."
+            },
+            {
+                "name": "K. Ivar Andersson",
+                "role": "disp."
+            },
+            {
+                "name": "Bertil Elmfeldt",
+                "role": "dir."
+            },
+            {
+                "name": "Harald Engström",
+                "role": "dir."
+            },
+            {
+                "name": "Carl Gustaf Piehl",
+                "role": "civiling."
+            }
+        ],
+        "director": "B. Elmfeldt",
+        "sales_manager": "Gustaf Ericsson",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Norrköpings Lampfabrik",
+        "location": "Norrköping",
+        "business": "Metallvarufabrik. Tillverkar fotogenlampor och elektr. belysningsarmatur",
+        "contact": {
+            "phone": [
+                "20302"
+            ],
+            "postgiro": "10916"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": 400000
+        },
+        "original_name": "Edvard Hagman AB",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "AB. Norrköpings Lådfabrik",
+        "location": "Norrköping",
+        "business": "Tillverkar lådämnen och lådor",
+        "contact": {
+            "phone": [
+                "22661",
+                "23391"
+            ]
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_production_value": 800000
+        },
+        "original_name": "Nostal",
+        "director": "Arne Törnelius",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "Norrköpings Makaronifabrik AB",
+        "location": "Åby",
+        "business": "Tillverkar makaroner vid fabrik i Åby (Östergötl. l.). Varunamn: »Munk-makaroner» o. »Drott-makaroner»",
+        "financials": {
+            "employees": {
+                "industriarb": null
+            }
+        },
+        "foundation_year": null,
+        "coordinates": {
+            "Latitude": 58.66449960000001,
+            "Longitude": 16.181169
+        },
+        "cluster": 2
+    }
+}

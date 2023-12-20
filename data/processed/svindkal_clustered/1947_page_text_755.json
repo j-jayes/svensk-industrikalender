@@ -1,0 +1,157 @@
+{
+    "1": {
+        "name": "Westberg—V esterås",
+        "location": "Västerås",
+        "financials": {
+            "capital": "436,800 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "1,500,000 kr",
+            "foundation_year": 1898,
+            "corporation_year": 1910
+        },
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "AB. Westbergs Möbler",
+        "location": "Tranås",
+        "products": "Tillverkar möbler samt konditori-, kafé- och restauranginredningar.",
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "750,000 kr",
+            "foundation_year": 1922,
+            "corporation_year": 1937
+        },
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "Charles Westerberg & Co. AB.",
+        "location": "Nyköping",
+        "products": "Elektromek. verkstad. Tillverkar gjut-järnskapslad elektr. materiel.",
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 85
+            },
+            "annual_turnover": "2,000,000 kr",
+            "foundation_year": 1919,
+            "corporation_year": 1942
+        },
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Ernst Westerbergs Boktryckeri AB.",
+        "location": "Stockholm",
+        "products": "Trycker tidningar, tidskrifter och böcker samt utför accidenstryck.",
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 37
+            },
+            "foundation_year": 1897,
+            "corporation_year": 1916
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "5": {
+        "name": "AB. Westerdahi & Karsten",
+        "location": "Stockholm",
+        "products": "Bageri. Tillverkar mjukt vetebröd, rågbröd, finare bakverk.",
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 55
+            },
+            "annual_turnover": "2,500,000 kr",
+            "foundation_year": 1820,
+            "corporation_year": 1896
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "lsaac Westergren & C:o AB.",
+        "location": "Gävle",
+        "products": "Kem.-tekn. fabrik (Gefle Såpfabrik). Tillverkar såpa, toalett-, textil-, tvätt-och skurtvål, tvålflingor, tvålpulver, gly-cerin, soda, tvättpulver, lutpulver och skurpulver samt eau de cologne, parfymer och hårvatten.",
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "1,100,000 kr",
+            "foundation_year": 1872,
+            "corporation_year": 1933
+        },
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Alb. Westerholm",
+        "location": "Norrköping",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 4
+    },
+    "8": {
+        "name": "Westerlunds Karamellfabrik",
+        "location": "Härnösand",
+        "products": "Tillverkar karameller och julgranskonfekt.",
+        "financials": {
+            "employees": {
+                "arb-antal": 7
+            },
+            "annual_turnover": "110,000 kr",
+            "foundation_year": 1927
+        },
+        "coordinates": {
+            "Latitude": 62.6322698,
+            "Longitude": 17.9408714
+        },
+        "cluster": 1
+    },
+    "9": {
+        "name": "AB. Westerstrand & Söner",
+        "location": "Töreboda",
+        "products": "Tillverkar väggurverk, tornurverk, fasadur, urverk för registreringsändamål, signalur, indikatorklockor, kugghjul och automatsvarvade detaljer för räkneverk, urverk och instrument vid fabrik i Töre-boda (Skarab. l.).",
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 220
+            },
+            "corporation_year": 1944
+        },
+        "coordinates": {
+            "Latitude": 58.70550919999999,
+            "Longitude": 14.1261468
+        },
+        "cluster": 1
+    }
+}

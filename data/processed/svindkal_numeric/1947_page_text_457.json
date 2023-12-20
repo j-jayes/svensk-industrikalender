@@ -1,0 +1,233 @@
+{
+    "1": {
+        "name": "L. J. Lange, AB.",
+        "location": "Göteborg",
+        "business": "Optisk industri och finmekanisk verkstad",
+        "products": "Tillverkar glasögon, termometrar, glasapparater m. m. Varumärken: »Elila» o. »Optal».",
+        "contact": {
+            "office": "Värmlandsg. 16",
+            "phone": [
+                "140760-62"
+            ],
+            "postgiro": "12040",
+            "telegraph": "Glasögonlange, Göteborg"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "Arbetsgivare": 12
+            },
+            "annual_turnover": 165000,
+            "annual_production_value": 165000
+        },
+        "foundation_year": 1881,
+        "corporation_year": 1923,
+        "board": [
+            {
+                "name": "Hugo Schramm",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. Lanna Stenhuggeri",
+        "location": "Lannabruh",
+        "business": "Stenhuggeri",
+        "products": "Bryter och förädlar svensk kalksten och marmor till byggnadsarbeten såsom trappor, golv, fönsterbänkar, väggbeklädnader och öppna spisar; tillverkar elektr. plattor, gravvårdar, möbelmarmor samt levererar råsten till trädgårdsanläggningar och murverk.",
+        "contact": {
+            "office": "Lannabruk",
+            "phone": [
+                "Hidingebro 6"
+            ],
+            "postgiro": "75453"
+        },
+        "financials": {
+            "capital": 47000,
+            "employees": {
+                "industriarb": 48
+            },
+            "annual_production_value": 350000
+        },
+        "foundation_year": 1895,
+        "corporation_year": 1925,
+        "board": [
+            {
+                "name": "Eric G. Söderberg",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "Joh. K. Lannmark, Mek. Verkstad",
+        "location": "Stockholm",
+        "business": "Tillverkar transportanordningar, bagerimaskiner samt utför modell- och experimentmaskiner",
+        "contact": {
+            "office": "Bondeg. 17",
+            "phone": [
+                "415666"
+            ],
+            "postgiro": "150861"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 14
+            },
+            "annual_production_value": 140000
+        },
+        "foundation_year": 1904,
+        "manager": "Gunnar Lannmark",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Lantmännens Byggnads AB.",
+        "location": "Malmö",
+        "business": "Entreprenörfirma för bostads- och lantmannabyggnader",
+        "contact": {
+            "office": "Lund"
+        },
+        "financials": {
+            "capital": 100000
+        },
+        "director": "Gösta Edström",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "AB. T. H. Lapidus",
+        "location": "Borås",
+        "business": "Damkonfektionsfabrik",
+        "products": "Tillverkar trikåvaror i bomull, ylle, silke och charmeuse samt dam- och fliek-klänningar. Varumärken: »Soltrikå» o. »Svikt».",
+        "contact": {
+            "telegraph": "Fabriken, Borås",
+            "phone": [
+                "Borås 10112",
+                "13112",
+                "11931",
+                "Hultafors 95013",
+                "95028"
+            ],
+            "postgiro": "20612"
+        },
+        "financials": {
+            "capital": 442000,
+            "employees": {
+                "industriarb.": "i Borås 42, i Olsfors 107"
+            },
+            "annual_production_value": 2150000
+        },
+        "foundation_year": 1880,
+        "corporation_year": 1924,
+        "board": [
+            {
+                "name": "Jacob Lapidus",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Gottlieb Lapidus",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru S. Lapidus",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Jacob Lapidus",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Larsbo Kalk AB.",
+        "location": "Guldsmedshyttan",
+        "business": "Kalkstens- och dolomitbrott samt kalkbruk",
+        "products": "Bryter kalksten och dolomit samt framställer bränd kalk för byggnads- och jordbruksändamål. Bolaget idkar även jordbruk och skogshantering.",
+        "contact": {
+            "office": "Bofors",
+            "factory_office": "Guldsmedshyttan",
+            "phone": [
+                "Guldsmedshyttan 20"
+            ],
+            "postgiro": "71138"
+        },
+        "financials": {
+            "capital": 250000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": 600000
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "dir. Evert Wijkander",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Disp. Helmer Nordqvist",
+        "coordinates": {
+            "Latitude": 59.6964815,
+            "Longitude": 15.1015112
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "O. Larsens Modellsnickeri",
+        "location": "Malmö",
+        "business": "Tillverkar gjutmodeller och alla slags tekniska träarbeten",
+        "contact": {
+            "office": "V. Långg. 5",
+            "phone": [
+                "21332"
+            ],
+            "postgiro": "39311"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 7
+            }
+        },
+        "foundation_year": 1932,
+        "owner": "fabr. Oscar Larsen",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 7
+    },
+    "8": {
+        "name": "Larsson & Johansson",
+        "location": "Kumla",
+        "business": "Skofabrik",
+        "products": "Tillverkar dam- och barnskodon. Varumärke: »Roxy».",
+        "financials": {
+            "employees": {
+                "industriarb.": "N/A"
+            }
+        },
+        "foundation_year": "N/A",
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        },
+        "cluster": 9
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "1": {
+        "name": "Ställbergs Grufve AB.",
+        "foundation_year": 1880,
+        "business": "Gruvdrift",
+        "location": "Ludvika",
+        "contact": {
+            "office": "Ställberg, Ludvika",
+            "phone": [
+                "Ställbergsbolagen"
+            ],
+            "postgiro": "94183"
+        },
+        "financials": {
+            "capital": 2100000,
+            "employees": {
+                "total": 125
+            }
+        },
+        "board": [
+            {
+                "name": "hovstallmäst. frih. G. A. Klingspor",
+                "role": "ordf."
+            },
+            {
+                "name": "kabinettskammarh. Robert v. Horn",
+                "role": null
+            },
+            {
+                "name": "kammarh. frih. B. Klingspor",
+                "role": null
+            },
+            {
+                "name": "hovjägm. frih. Wilh. Klingspors",
+                "role": null
+            },
+            {
+                "name": "adv. Hugo Stenbeck",
+                "role": null
+            }
+        ],
+        "director": "B. Stein",
+        "managing_director": "Sven Dalhammar",
+        "coordinates": {
+            "Latitude": 60.152358,
+            "Longitude": 15.191639
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Sueciaverken Motor AB.",
+        "foundation_year": 1928,
+        "business": "Tillverkning av oljeeldningsapparater, maskiner för livsmedelsindustrin, ventilationsfläktar m. m.",
+        "location": "Malmö",
+        "contact": {
+            "office": "Rundelsg. 14, Malmö",
+            "phone": [
+                "14911"
+            ],
+            "postgiro": "24527",
+            "factory_office": "Örkelljunga",
+            "factory_phone": "175"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "total": 40
+            }
+        },
+        "board": [
+            {
+                "name": "ryttm. Hugo Wehtje",
+                "role": "ordf."
+            },
+            {
+                "name": "kamrer Nils Hagerström",
+                "role": null
+            },
+            {
+                "name": "disp. Thure Jakobsson",
+                "role": null
+            }
+        ],
+        "director": "Hugo Wehtje",
+        "managing_director": null,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Sulfit AB. Göta",
+        "foundation_year": 1905,
+        "business": "Sulfitfabrik och sulfitspritfabrik",
+        "location": "Göta (Älvsb. l.)",
+        "contact": {
+            "office": "Göta",
+            "phone": [
+                "Lilla Edet 67"
+            ]
+        },
+        "financials": {
+            "capital": 1625000,
+            "employees": {
+                "total": 275
+            }
+        },
+        "board": [
+            {
+                "name": "disp. Nils Danielsen",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Valdemar Hellgren",
+                "role": null
+            },
+            {
+                "name": "disp. Gösta Ryding",
+                "role": null
+            }
+        ],
+        "director": "Gösta Ryding",
+        "managing_director": null,
+        "coordinates": {
+            "Latitude": 58.29577476636522,
+            "Longitude": 14.12639103068307
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Sunds AB.",
+        "business": "Sågverk, gjuteri och mek. verkstad samt gulbricki i Sundsbruk, trähusfabrik i Nyvik, sulfitfabrik och sulfitspritfabrik i Sör-åker (samtl. i Västernorrl. l.)",
+        "location": "Sundsbruk",
+        "financials": {
+            "employees": {
+                "total": 520
+            }
+        },
+        "coordinates": {
+            "Latitude": 62.4499316,
+            "Longitude": 17.3449623
+        },
+        "cluster": 7
+    }
+}

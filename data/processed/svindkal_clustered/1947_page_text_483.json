@@ -1,0 +1,281 @@
+{
+    "1": {
+        "name": "Lundh—Lundberg AB",
+        "location": "Malmö",
+        "business": "Byggnadsentreprenörfirma för vägbyggnads- och vägbeläggningsarbeten",
+        "contact": {
+            "office": "Disponentg. 6",
+            "phone": [
+                "71195"
+            ],
+            "postgiro": "39033"
+        },
+        "financials": {
+            "capital": "-300,000 kr",
+            "annual_turnover": "3,000,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1895,
+        "corporation_year": 1935,
+        "board": [
+            {
+                "name": "t. f. landskamrer Sigurd Dahlrup",
+                "role": "ordf."
+            },
+            {
+                "name": "ing. Axel Jepsson",
+                "role": null
+            },
+            {
+                "name": "dir. Nils P. Lundh",
+                "role": null
+            },
+            {
+                "name": "fru W. Mårtensson",
+                "role": null
+            },
+            {
+                "name": "civiling. Gunnar Priitz",
+                "role": null
+            }
+        ],
+        "director": "Nils P. Lundh",
+        "managing_director": "Nils P. Lundh",
+        "sales_manager": null,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    },
+    "2": {
+        "name": "Joh. Lundahl",
+        "location": "Hjo",
+        "business": "Lädervarufabrik",
+        "contact": {
+            "phone": [
+                "261"
+            ],
+            "postgiro": "30123"
+        },
+        "financials": {
+            "annual_production_value": "120,000 kr"
+        },
+        "foundation_year": 1923,
+        "owners": [
+            "fabr. Johan Lundahl"
+        ],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "coordinates": {
+            "Latitude": 58.3070702,
+            "Longitude": 14.2874663
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. H. Lundbeck & Co.",
+        "location": "Malmö",
+        "business": "Läkemedelsfabrik",
+        "contact": {
+            "office": "Drottningtorget 1",
+            "telegraph": "Axelman, Malmö",
+            "phone": [
+                "11974"
+            ],
+            "postgiro": null
+        },
+        "financials": {
+            "capital": "15,000 kr",
+            "annual_production_value": "600,000 kr"
+        },
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Axel Hultman",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Peder Hammarskiöld",
+                "role": "Dir.-assist."
+            }
+        ],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Lundberg & Schäders Eftr.",
+        "location": "Umeå",
+        "business": "Snickerifabrik",
+        "contact": {
+            "phone": [
+                "4480—81"
+            ],
+            "postgiro": "63590"
+        },
+        "financials": {
+            "annual_production_value": null
+        },
+        "foundation_year": 1929,
+        "owners": [
+            "fabr. K.-E. Olsson",
+            "fabr. E. J. Nordberg"
+        ],
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "coordinates": {
+            "Latitude": 63.8258471,
+            "Longitude": 20.2630354
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "C. J. Lundbergs Läderfabriks AB.",
+        "location": "Valdemarsvik",
+        "business": "Tillverkar kips-, smor-, svecia- och res-effektläder samt boxkalv, mocca, boxsidor, valdikid, ruzziakrom, niagaraläder, alpläder samt arbetshandskar, ränder m. m.",
+        "contact": {
+            "telegraph": "Lundbergsläder, Valdemarsvik",
+            "phone": [
+                "Läderfabriken"
+            ],
+            "postgiro": "23194"
+        },
+        "financials": {
+            "capital": "2,800,000 kr",
+            "annual_production_value": "16,000,000 kr"
+        },
+        "corporation_year": 1897,
+        "board": [
+            {
+                "name": "fabrikschef Folke Lundberg",
+                "role": null
+            },
+            {
+                "name": "dir. Nils Lundberg",
+                "role": null
+            },
+            {
+                "name": "fru S. Lundberg",
+                "role": null
+            },
+            {
+                "name": "dir. Sven K. J. Lundberg",
+                "role": null
+            }
+        ],
+        "director": "Sven K. J. Lundberg",
+        "managing_director": "Nils Lundberg",
+        "sales_manager": null,
+        "coordinates": {
+            "Latitude": 58.20245139999999,
+            "Longitude": 16.6013626
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Fritz Lundberg",
+        "location": "Tranås",
+        "business": "Pälsvarufabrik",
+        "contact": {
+            "phone": [
+                "»Fritz Lundberg»"
+            ],
+            "postgiro": "6049"
+        },
+        "financials": {
+            "capital": "270,000 kr",
+            "annual_production_value": "2,000,000 kr"
+        },
+        "corporation_year": 1917,
+        "board": [
+            {
+                "name": "bankdir. Gösta Ljungmark",
+                "role": null
+            },
+            {
+                "name": "disp. Bengt Lundberg",
+                "role": null
+            },
+            {
+                "name": "dir. Fritz Lundberg",
+                "role": null
+            }
+        ],
+        "director": "Fritz Lundberg",
+        "managing_director": "Fritz Lundberg",
+        "sales_manager": null,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Fritz Lundbergs Skinnberederi & Färgeri AB.",
+        "location": "Tranås",
+        "business": "Utför beredning och färgning av pälsskinn",
+        "contact": {
+            "telegraph": "Skinn, Tranås",
+            "phone": [
+                "»Fritz Lundberg»"
+            ],
+            "postgiro": "281727"
+        },
+        "financials": {
+            "capital": "225,000 kr",
+            "annual_production_value": "1,500,000 kr"
+        },
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "bankdir. Gösta Ljungmark",
+                "role": null
+            },
+            {
+                "name": "disp. Bengt Lundberg",
+                "role": null
+            },
+            {
+                "name": "dir. Fritz Lundberg",
+                "role": null
+            }
+        ],
+        "director": "Fritz Lundberg",
+        "managing_director": "Fritz Lundberg",
+        "sales_manager": null,
+        "coordinates": {
+            "Latitude": 58.035518,
+            "Longitude": 14.975696
+        },
+        "cluster": 3
+    },
+    "8": {
+        "name": "Joh. Lundbergs Eftr.",
+        "location": "Limhamn",
+        "business": "Tillverkar transportanordningar, grävmaskiner, gripskopor, järnkonstruktioner och tankanläggningar vid mek. verkstad i Limhamn, Malmö.",
+        "contact": {
+            "phone": null,
+            "postgiro": null
+        },
+        "financials": {
+            "annual_production_value": null
+        },
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "coordinates": {
+            "Latitude": 55.5724415,
+            "Longitude": 12.9147749
+        },
+        "cluster": 6
+    }
+}

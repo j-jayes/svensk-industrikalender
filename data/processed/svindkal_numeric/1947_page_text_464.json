@@ -1,0 +1,275 @@
+{
+    "1": {
+        "name": "Lidan",
+        "location": "Borås",
+        "business": "Bomullsfabrik för herr, dam och barnkläder, koftor, jumpers, pullovers, och accessoarer.",
+        "products": "Varumärke: »Libo».",
+        "contact": {
+            "office": "AB. Lidans Motor verkstad, Lidköping",
+            "phone": [
+                "20259"
+            ],
+            "postgiro": "26853",
+            "telegraph": "Lidan, Lidköping",
+            "factory_office": "AB. Lidans Motor verkstad, Lidköping",
+            "factory_phone": "20259"
+        },
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 450,
+                "hemarbetare": 350
+            },
+            "annual_turnover": 8000000,
+            "annual_production_value": 8000000
+        },
+        "foundation_year": 1932,
+        "current_name_year": 1943,
+        "board": [
+            {
+                "name": "Gustaf Wadstein",
+                "role": "ordförande"
+            },
+            {
+                "name": "Sven Dahlberg",
+                "role": null
+            },
+            {
+                "name": "Björn Johanson",
+                "role": "ingenjör"
+            },
+            {
+                "name": "Carl Gust. Johanson",
+                "role": "direktör"
+            },
+            {
+                "name": "Per Johanson",
+                "role": "disponent"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "AB. Lidans Motor verkstad",
+        "location": "Lidköping",
+        "business": "Tillverkning av motorvinschar, ankarspel, m. m.",
+        "contact": {
+            "office": "Lidan, Lidköping",
+            "phone": [
+                "20259"
+            ],
+            "postgiro": "26853",
+            "telegraph": "Lidan, Lidköping"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 415000,
+            "annual_production_value": 415000
+        },
+        "corporation_year": 1918,
+        "coordinates": {
+            "Latitude": 58.5035047,
+            "Longitude": 13.1570768
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Lidboholms AB.",
+        "location": "Braås",
+        "business": "Sågverk, hyvleri, elektr. kraftstation och kvarn",
+        "products": "Tillverkar trävaror, spjäl- och snöstaket, distribuerar elektr. energi.",
+        "contact": {
+            "phone": [
+                "7"
+            ],
+            "postgiro": "73847"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 38
+            },
+            "annual_production_value": 600000
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "Sven Varde",
+                "role": "disp."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.0599208,
+            "Longitude": 15.0537039
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Lidingö Nya Warv & Werkstäder",
+        "location": "Lidingö",
+        "business": "Slip- och mekanisk verkstad samt grovplåtslageri",
+        "products": "Utför fartygsnybyggnader och reparationer samt tillverkar järnkonstruktioner och cisterner.",
+        "contact": {
+            "office": "Lidingö 3",
+            "phone": [
+                "652555"
+            ],
+            "postgiro": "157840",
+            "telegraph": "Åbergvarv, Stockholm"
+        },
+        "financials": {
+            "annual_production_value": 1500000
+        },
+        "predecessor": "Firman etabl. 1939",
+        "owners": [
+            "disp. Joh. Abr. Åberg"
+        ],
+        "director": "K.-E. Christianson",
+        "coordinates": {
+            "Latitude": 59.36295999999999,
+            "Longitude": 18.1468
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Lidköpings Bryggeri AB.",
+        "location": "Lidköping",
+        "business": "Tillverkar malt- och läskedrycker",
+        "contact": {
+            "phone": [
+                "22005"
+            ],
+            "postgiro": "21026",
+            "telegraph": "Bryggeribolaget, Lidköping"
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_production_value": 900000
+        },
+        "foundation_year": 1866,
+        "board": [
+            {
+                "name": "Bo Nilson-Dag",
+                "role": "hovrättsassessor"
+            },
+            {
+                "name": "P. G. Lundgren",
+                "role": "fältläkare"
+            },
+            {
+                "name": "Wilhelm Nilson-Dag",
+                "role": "disp."
+            }
+        ],
+        "director": "W. Nilson-Dag",
+        "managing_director": "W. Nilson-Dag",
+        "sales_manager": "Henrik Björkman",
+        "coordinates": {
+            "Latitude": 58.5035047,
+            "Longitude": 13.1570768
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "AB. Lidköpings Konfektyr Industri",
+        "location": "Alingsås",
+        "business": "Tillverkning av konfektyrer, choklad, kola, karameller, marmelad, tabletter och pastiller.",
+        "products": "Varumärke: »LK».",
+        "contact": {
+            "office": "Huvud- och kassakontor, Lidköping",
+            "phone": [
+                "Kinnevik"
+            ],
+            "factory_office": "Fabrik i Alingsås",
+            "factory_phone": "Suchard o. LK",
+            "postgiro": null
+        },
+        "financials": {
+            "capital": 400000
+        },
+        "board": [
+            {
+                "name": "W. Klingspor",
+                "role": "hovjägm."
+            },
+            {
+                "name": "Hugo Stenbeck",
+                "role": "adv."
+            },
+            {
+                "name": "Clarence T. Brockman",
+                "role": "dir."
+            },
+            {
+                "name": "Helmer Sten",
+                "role": "bankdir."
+            },
+            {
+                "name": "Folke Stenbeck",
+                "role": "dir."
+            }
+        ],
+        "director": "Clarence T. Brockman",
+        "manager": "H. Björkeroth",
+        "coordinates": {
+            "Latitude": 57.9300205,
+            "Longitude": 12.5362113
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Lidköpings Mekaniska Verkstads AB.",
+        "location": "Lidköping",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Tillverkar verktygsmaskiner, rullande järnvägsmateriel m. m.",
+        "contact": {
+            "office": "Verkstaden, Lidköping",
+            "phone": [
+                "22130",
+                "Lidköpings Mekaniska"
+            ],
+            "postgiro": "29575"
+        },
+        "financials": {
+            "capital": 1500000,
+            "employees": {
+                "industriarb": 700
+            }
+        },
+        "board": [
+            {
+                "name": "Hilding Törnebohm",
+                "role": "tekn. dr"
+            },
+            {
+                "name": "Gustaf Ekholm",
+                "role": "dir."
+            },
+            {
+                "name": "Ivar Eliasson",
+                "role": "disp."
+            },
+            {
+                "name": "Elon Jacobsson",
+                "role": "ekonomichef"
+            }
+        ],
+        "director": "Gustaf Ekholm",
+        "manager": "Ivar Eliasson",
+        "coordinates": {
+            "Latitude": 58.5035047,
+            "Longitude": 13.1570768
+        },
+        "cluster": 6
+    }
+}

@@ -1,0 +1,379 @@
+{
+    "1": {
+        "name": "AB. Gällstads Textiltryck",
+        "location": "Vegby",
+        "business": "Handtryck av gardin-, draperi-och möbeltyger, klänningstyger samt scar-ves",
+        "products": "utför handtryck av textilprodukter",
+        "contact": {
+            "office": "Vegby",
+            "phone": [
+                "Gällstad 22"
+            ],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 120000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1944,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "Assar Sanden",
+                "role": "Verkst. dir."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.679116,
+            "Longitude": 13.3751051
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Cällsta-Lundby Snickerifabrik",
+        "location": "Sjögestad",
+        "business": "Sågverk, hyvleri och snickerifabrik",
+        "products": "sågade och hyvlade trävaror, laths, takspån, träullsplattor m.m.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Sjögestad 39",
+                "Brink 45"
+            ],
+            "postgiro": "26242",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Snickeriträ, Linköping",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 600000,
+            "annual_production_value": "1,200 stds trävaror"
+        },
+        "foundation_year": 1901,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "disp. Värner Lassmark",
+                "role": "Ågare o. chef"
+            },
+            {
+                "name": "ing. Einar Karlén",
+                "role": "Kontorschef"
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 58.36576479999999,
+            "Longitude": 15.3714692
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Cäliö Ångsågs AB.",
+        "location": "Gällö",
+        "business": "Sågverk och hyvleri",
+        "products": "sågade och hyvlade trävaror, läkt och stav samt träkol",
+        "contact": {
+            "office": null,
+            "phone": [
+                "1"
+            ],
+            "postgiro": "87490",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Sågverket, Gällö",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 60400,
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": null,
+            "annual_production_value": "3,500 stds sågade o. hyvlade trävaror, 3,000 läster träkol"
+        },
+        "foundation_year": 1923,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "disp. Adolf Sjöberg",
+                "role": "Styrelse: ad v."
+            },
+            {
+                "name": "disp. Ernst Pettersson",
+                "role": "Verkst. dir."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 62.9141997,
+            "Longitude": 15.2335794
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Cärsnäs Snickerifabrik",
+        "location": "Gärsnäs",
+        "business": "Tillverkar byggnads- och inredningssnickerier",
+        "products": "fönster, dörrar, trappor, butiks-’ och köksinredningar m.m.",
+        "contact": {
+            "office": null,
+            "phone": [
+                "112"
+            ],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 8
+            },
+            "annual_turnover": 80000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1934,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": null,
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": "fabr. Malte Johansson",
+        "coordinates": {
+            "Latitude": 55.55091470000001,
+            "Longitude": 14.1756804
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "AB. Gästriklands Yllefabrik",
+        "location": "Järbo",
+        "business": "Spinneri, vävöri och färgeri",
+        "products": "hel- och halvyllevävnader samt filtar",
+        "contact": {
+            "office": null,
+            "phone": [
+                "1 o. 2"
+            ],
+            "postgiro": "70236",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 600000,
+            "employees": {
+                "industriarb": 252
+            },
+            "annual_turnover": 3000000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1902,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "disp. Gunnar Höglund",
+                "role": "Styrelse: disp."
+            },
+            {
+                "name": "grossh. Gustaf Delin",
+                "role": "Styrelse: disp."
+            },
+            {
+                "name": "disp. Carl V. Larsson",
+                "role": "Disp."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 60.719455,
+            "Longitude": 16.5909492
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "AB. Gefle Förenade Bryggerier",
+        "location": "Gävle",
+        "business": "Tillverkar malt och maltdrycker, mineralvatten och läskedrycker",
+        "products": "malt och maltdrycker, mineralvatten, läskedrycker",
+        "contact": {
+            "office": "Gustafsbro",
+            "phone": [
+                "Gävle Bryggerier"
+            ],
+            "postgiro": "262905",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Gustafsbro, Gävle",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 3000000,
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1942,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "major Oscar A. Thollén",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kassör Tore Lindbom",
+                "role": "Styrelse"
+            },
+            {
+                "name": "kontorschef Birger Lundeberg",
+                "role": "Kontorschef"
+            },
+            {
+                "name": "dir. Bertil A. Matton",
+                "role": "Dir."
+            },
+            {
+                "name": "dir. Wald. Meyer",
+                "role": "Dir."
+            },
+            {
+                "name": "riksbankskamrer Erik Wadman",
+                "role": "Riksbankskamrer"
+            },
+            {
+                "name": "disp. Walter Wadman",
+                "role": "Verkst. dir. o. disp."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Cävle Galvaniseringsfabrik AB.",
+        "location": "Gävle",
+        "business": "Galvaniseringsfabrik samt mek. verkstad och plåtslageri",
+        "products": "varmgalvanisering av järnmaterial, diverse plåtprodukter",
+        "contact": {
+            "office": "Box 108, Gävle",
+            "phone": [
+                "Gävle galvan"
+            ],
+            "postgiro": "170040",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 175000,
+            "employees": {
+                "industriarb": 250
+            },
+            "annual_turnover": 4500000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1946,
+        "current_name_year": null,
+        "predecessor": null,
+        "original_name": null,
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "bankdir. Gunnar Hedberg",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fabr. Arne Sjöström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Bengt Eiserman",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Bengt Eiserman",
+                "role": "Driftsing."
+            }
+        ],
+        "owners": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 6
+    }
+}

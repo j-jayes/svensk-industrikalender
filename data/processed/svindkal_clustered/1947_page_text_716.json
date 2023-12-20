@@ -1,0 +1,288 @@
+{
+    "1": {
+        "name": "AB. Thura",
+        "location": "Värmlands Nysäter",
+        "business": "Resår- och sängfabrik",
+        "products": "Tillverkar turistsängar och ottomaner, soffstommar i järn och trä, kedjebottnar med stål och träramar, resårmadrasser, kudd- och plymåkärnor samt ståltransportband.",
+        "contact": {
+            "office": "Värmlands Nysäter",
+            "telegraph": "Thurab, Säffle",
+            "phone": [
+                "Kohlsäter 24",
+                "Kohlsäter 34"
+            ],
+            "postgiro": "32749"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 300
+            },
+            "foundation_year": 1915,
+            "current_name_year": 1919
+        },
+        "board": [
+            {
+                "name": "jur. dr Axel Roos",
+                "role": "ordf."
+            },
+            {
+                "name": "kapten S. M. Eskilson",
+                "role": ""
+            },
+            {
+                "name": "dir. Ernhold Lundström",
+                "role": ""
+            },
+            {
+                "name": "dir. Sven Malmberg",
+                "role": ""
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.283738,
+            "Longitude": 12.7760041
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Thurab",
+        "location": "Värmlands Nysäter",
+        "business": "Resår- och sängfabrik",
+        "products": "Tillverkar turistsängar och ottomaner, soffstommar i järn och trä, kedjebottnar med stål och träramar, resårmadrasser, kudd- och plymåkärnor samt ståltransportband.",
+        "contact": {
+            "office": "Värmlands Nysäter",
+            "telegraph": "Thurab, Säffle",
+            "phone": [
+                "Kohlsäter 24",
+                "Kohlsäter 34"
+            ],
+            "postgiro": "32749"
+        },
+        "financials": {
+            "capital": "45,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "500,000 kr",
+            "foundation_year": 1939
+        },
+        "director": "Ernst Berg",
+        "coordinates": {
+            "Latitude": 59.283738,
+            "Longitude": 12.7760041
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Olof Thylén & Co.",
+        "location": "Göteborg",
+        "business": "Lädervarufabrik",
+        "products": "Tillverkar som specialitet damväskor.",
+        "contact": {
+            "office": "övra Spannmålsg. 6",
+            "telegraph": "Tylénco, Göteborg",
+            "phone": "113667",
+            "postgiro": "12368"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "1,000,000 kr",
+            "foundation_year": 1932,
+            "corporation_year": 1944
+        },
+        "directors": [
+            "Olof Thylén",
+            "Josef Thylén"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Tia AB.",
+        "location": "Tandsbyn",
+        "business": "Snickerifabrik",
+        "products": "Tillverkar butiksinredningar och inredningsdetaljer såsom kasettdiskar, kassahurtsar, skyltmontrar m. m. samt fasad-bokstäver.",
+        "contact": {
+            "office": "Tandsbyn",
+            "phone": [
+                "26",
+                "29"
+            ],
+            "postgiro": "274666"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": "340,000 kr",
+            "corporation_year": 1943
+        },
+        "board": [
+            {
+                "name": "folkskollärare Iwan Englund",
+                "role": "ordf."
+            },
+            {
+                "name": "köpm. Ernst Emilsson",
+                "role": ""
+            },
+            {
+                "name": "riksdagsm. Nils Jönsson",
+                "role": ""
+            },
+            {
+                "name": "sågverksäg. Petrus Näs",
+                "role": ""
+            },
+            {
+                "name": "smidesmäst. Alfr. Pettersson",
+                "role": ""
+            }
+        ],
+        "director": "Walter Strömgren",
+        "coordinates": {
+            "Latitude": 63.0001123,
+            "Longitude": 14.745124
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "C. Tibblin AB.",
+        "location": "Örebro",
+        "business": "Skofabrik",
+        "products": "Tillverkar ago-damskor ock randsydda herrskor. Varumärken: »Drabant» o. »Tibblins».",
+        "contact": {
+            "telegraph": "Tibblins, Örebro",
+            "phone": [
+                "10737",
+                "14637"
+            ],
+            "postgiro": "34344"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "1,000,000 kr",
+            "corporation_year": 1946
+        },
+        "board": [
+            {
+                "name": "dir. Gr. Tibblin",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Inga Tibblin",
+                "role": ""
+            }
+        ],
+        "directors": {
+            "G. Tibblin": "John W. Carlson"
+        },
+        "6": {
+            "name": "AB. Tidaholms Möbelfabrik,",
+            "location": "Tidaholm",
+            "business": "Tillverkar som specialitet kompletteringsmöbler.",
+            "contact": {
+                "office": "Tidaholm",
+                "phone": "22",
+                "postgiro": "27304"
+            },
+            "financials": {
+                "capital": "45,000 kr",
+                "employees": {
+                    "industriarb": 30
+                },
+                "annual_turnover": "300,000 kr",
+                "corporation_year": 1938
+            },
+            "board": [
+                {
+                    "name": "fabr. Erland Thurén",
+                    "role": ""
+                },
+                {
+                    "name": "möbelarkitekt Fritjof Söderholm",
+                    "role": ""
+                }
+            ]
+        },
+        "7": {
+            "name": "AB. Tidaholms Träindustri,",
+            "location": "Tidaholm",
+            "business": "Sågverk och hyvleri",
+            "products": "Tillverkar sågade och hyvlade trävaror. Bolaget driver även handel med byggnadsmaterial.",
+            "contact": {
+                "office": "Tidaholm",
+                "phone": [
+                    "230",
+                    "250"
+                ],
+                "postgiro": "76424"
+            },
+            "financials": {
+                "capital": "101,250 kr",
+                "employees": {
+                    "industriarb": 20
+                },
+                "corporation_year": 1922
+            },
+            "directors": [
+                "Karl Boström",
+                "Bertil Boström"
+            ]
+        },
+        "8": {
+            "name": "Tidaholms Tändsticksfabrik,",
+            "location": "Tidaholm",
+            "description": "Se Jönköpings och Vulcans Tändsticksfabriks AB., Jönköping."
+        },
+        "9": {
+            "name": "AB. Tidaholmsverken,",
+            "location": "Tidaholm",
+            "business": "Mek. verkstad",
+            "products": "Tillverkning av maskinaggregat och seriedetaljer i automatmaskiner.",
+            "contact": {
+                "office": "Tidaholm"
+            },
+            "financials": {
+                "capital": "500,000 kr",
+                "employees": {
+                    "industriarb": 450
+                }
+            },
+            "directors": [
+                "disp. Evert Wijkander (Bofors)"
+            ],
+            "managing_director": "ing. Carl Holmqvist"
+        },
+        "10": {
+            "name": "AB. Tidan,",
+            "location": "Mariestad",
+            "business": "Vulkanfiber- och vulkanfibervarufabrik",
+            "products": "Tillverkar vulkanfiber samt reseffekter.",
+            "financials": {
+                "capital": "500,000 kr",
+                "employees": {
+                    "industriarb": 450
+                }
+            },
+            "director": "disp. Evert Wijkander (Bofors)",
+            "manager": "ing. Carl Holmqvist"
+        },
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    }
+}

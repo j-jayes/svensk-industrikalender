@@ -1,0 +1,352 @@
+{
+    "1": {
+        "name": "Matfors Yllefabriks AB",
+        "location": "Matfors",
+        "business": "Ullspinneri, ylleväveri, färgeri, appre-turverk samt vadd- och täckfabrik",
+        "products": "Tillverkar ullgarner, klännings- och kostymtyger av hel-och halvylle, filtar m. m. samt täcken och vadd",
+        "contact": {
+            "office": "Matforsfabriken, Matfors",
+            "phone": [
+                "Yllefabriken"
+            ],
+            "postgiro": "102B6",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "802400"
+                }
+            ],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 225000,
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": 2000000,
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "Mauritz Hägglund",
+                "role": "ordf."
+            },
+            {
+                "name": "Henning Hägglund",
+                "role": "disp."
+            },
+            {
+                "name": "Sam Say",
+                "role": "dir."
+            }
+        ],
+        "owner": "",
+        "director": "",
+        "managing_director": "M. Hägglund",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 62.34709139999999,
+            "Longitude": 17.0206621
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Mathiassons Kritbruk",
+        "location": "Kvarnby",
+        "business": "",
+        "coordinates": {
+            "Latitude": 55.566667,
+            "Longitude": 13.1
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "Matsilver AB",
+        "location": "Sundbyberg",
+        "business": "Nysilverfabrik",
+        "products": "Tillverkar kuvertartiklar i silver, nysilverråvara och rostfritt stål, nysilvervaror, tennvaror samt silver-, nysilver- och tennplåt",
+        "contact": {
+            "office": "Matsilver, Sundbyberg",
+            "phone": [
+                "Stockholm 281472"
+            ],
+            "postgiro": "1472",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1917,
+        "board": [
+            {
+                "name": "Olle Hultquist",
+                "role": "disp."
+            },
+            {
+                "name": "A. M. Myrtin",
+                "role": "löjtn."
+            },
+            {
+                "name": "C. V. Stjernqvist",
+                "role": "fabr."
+            }
+        ],
+        "owner": "",
+        "director": "",
+        "managing_director": "Olle Hultquist",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.369325,
+            "Longitude": 17.9609133
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Mattfabriken, Gust. Johansson",
+        "location": "Habo",
+        "business": "Tillverkar ylle-, jute- och bomullsmattor, trasmattor samt allmogegardiner",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "28"
+            ],
+            "postgiro": "14779",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "",
+            "employees": "",
+            "annual_turnover": 110000,
+            "annual_production_value": 110000
+        },
+        "foundation_year": 1926,
+        "board": [],
+        "owner": "fabr. Gustaf Johansson",
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 57.90930939999999,
+            "Longitude": 14.0743665
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "N. Mattisson, Glasindustri AB.",
+        "location": "Broby",
+        "business": "Utför böjning och slipning av glas för fotografiramar, pendyler och cykellyktor, backspeglar samt glas för belysningsarmatur",
+        "products": "",
+        "contact": {
+            "office": "",
+            "phone": [
+                "210"
+            ],
+            "postgiro": "174255",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 42300,
+            "employees": {
+                "industriarb": 28
+            },
+            "annual_turnover": 160000,
+            "annual_production_value": 160000
+        },
+        "foundation_year": 1920,
+        "board": [
+            {
+                "name": "Fridolf Nilsson",
+                "role": "ordf."
+            }
+        ],
+        "owner": "",
+        "director": "",
+        "managing_director": "Nils Mattisson",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 56.2543556,
+            "Longitude": 14.0718204
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "L. A. Mattons Läderfabriks AB",
+        "location": "Gävle",
+        "business": "Tillverkar bottenläder",
+        "products": "",
+        "contact": {
+            "office": "Matton, Gävle",
+            "phone": [
+                "38"
+            ],
+            "postgiro": "80038",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 1400000,
+            "employees": {
+                "industriarb": 98
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1852,
+        "board": [
+            {
+                "name": "Nils Berlin",
+                "role": "borgm."
+            },
+            {
+                "name": "Emil A. Matton",
+                "role": "fabr."
+            },
+            {
+                "name": "Lars Matton",
+                "role": "ing."
+            }
+        ],
+        "owner": "",
+        "director": "",
+        "managing_director": "Emil A. Matton",
+        "sales_manager": "John Rosell",
+        "manager": "Lars Matton",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "And. Mattsons Mek. Verkstads AB",
+        "location": "Mora",
+        "business": "Mek. verkstad och gjuteri",
+        "products": "Tillverkar sågverksmaskiner, brädgårdsvagnar, torkhusvagnar, vagnstraverser, vändskivor, transportörer, spel, transmissioner, kugghjulspumpar, brunns- och gårdspumpar,skogsredskap såsom tillväxtborrar, tumklovar och stämpelyxor, jord- och torv-borrar samt spolmaskiner för vävnads-slöjd",
+        "contact": {
+            "office": "",
+            "phone": [
+                "6",
+                "161"
+            ],
+            "postgiro": "14720",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 157500,
+            "employees": {
+                "industriarb": 32
+            },
+            "annual_turnover": 550000,
+            "annual_production_value": 550000
+        },
+        "foundation_year": 1875,
+        "board": [
+            {
+                "name": "Alling Andersén",
+                "role": "dir."
+            },
+            {
+                "name": "Johan Pehrson",
+                "role": "rektor"
+            },
+            {
+                "name": "Enocb Ringnér",
+                "role": "järnhandl."
+            }
+        ],
+        "owner": "",
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 61.004878,
+            "Longitude": 14.537003
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "Ernst Mattssons Snörmakeri & Bandfabriks AB",
+        "location": "Stockholm",
+        "business": "Tillverkar snörmakerier för möbler, gardiner, armatur, bilar, bussar och järnvägsvagnar ävensom drag-, persienne- och markissnören, packnings- och kondensor-snören samt fönsterpackning",
+        "products": "",
+        "contact": {
+            "office": "Arbetarg. 33 A",
+            "phone": [
+                "532096"
+            ],
+            "postgiro": "3921",
+            "head_office": "Kungsg. 19",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": 300000,
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1833,
+        "board": [
+            {
+                "name": "Anna Mattsson",
+                "role": "fru"
+            },
+            {
+                "name": "Erik Larsson",
+                "role": "dir."
+            },
+            {
+                "name": "Gösta Mattsson",
+                "role": "disp."
+            }
+        ],
+        "owner": "",
+        "director": "",
+        "managing_director": "Gösta Mattsson",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 3
+    }
+}

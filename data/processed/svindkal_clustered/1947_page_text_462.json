@@ -1,0 +1,323 @@
+{
+    "1": {
+        "name": "AB. Leo",
+        "location": "Hälsingborg",
+        "business": "Läkemedelsfabrik",
+        "products": "Tillverkar farmaceutiska och kemiska produkter. Varumärke: »Leo»",
+        "contact": {
+            "office": "Leo, Hälsingborg",
+            "phone": [],
+            "postgiro": "171100",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb.": 145
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1914,
+        "current_name_year": null,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "ädv. Törsten Setterberg",
+                "role": "ordf."
+            },
+            {
+                "name": "adv. Hans-Erik Bachmann",
+                "role": ""
+            },
+            {
+                "name": "bankdir. C. D. Bilisten^ dir. Axel Hultman",
+                "role": ""
+            }
+        ],
+        "owners": [],
+        "director": "John Ericsson",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Lerdals Sågverks AB.",
+        "location": "Rättvik",
+        "business": "Sågverk, hyvleri och kolningsverk",
+        "products": "Tillverkar sågade och hyvlade trävaror, träkol och trätjära",
+        "contact": {
+            "office": "",
+            "phone": [
+                "26",
+                "326"
+            ],
+            "postgiro": "91654",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "Rättsåg, Rättvik",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1922,
+        "current_name_year": null,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "disp. Anders Hansson",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Karl J. Gustafsson",
+                "role": ""
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "Helge Wimark",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 60.889025,
+            "Longitude": 15.123373
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Ler- & Tegelindustri AB. Hercules",
+        "location": "Christianstad, Kristianstad",
+        "business": "Tegelbruk",
+        "products": "Tillverkar mur- och taktegel, dräneringsrör samt blomkrukor",
+        "contact": {
+            "office": "Kristianstad",
+            "phone": [
+                "13919"
+            ],
+            "postgiro": "98124",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "350,000 kr",
+            "employees": {
+                "industriarb.": 45
+            },
+            "annual_turnover": "",
+            "annual_production_value": "5 milj. st. tegelvaror"
+        },
+        "foundation_year": 1899,
+        "current_name_year": null,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "med. lic. Ivar Borg",
+                "role": ""
+            },
+            {
+                "name": "dir. Hj. Oarlborn",
+                "role": ""
+            },
+            {
+                "name": "dir. Bertil Ewe",
+                "role": ""
+            },
+            {
+                "name": "fru Signe Ewe",
+                "role": ""
+            },
+            {
+                "name": "v. konsul öarl Nilsson",
+                "role": ""
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "Bertil Ewe",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 56.0293936,
+            "Longitude": 14.1566778
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "AB. Lerviks Konservfabrik",
+        "location": "Högdals Nordby",
+        "business": "",
+        "products": "Tillverkar sardiner, herring, inkokt makrill, fiskbullar m. m.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Hog-dals-Nordby 3"
+            ],
+            "postgiro": "99777",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "202905"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "25930"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "165000"
+                }
+            ],
+            "telegraph": "Jonas, Strömstad",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb.": 45
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1936,
+        "current_name_year": 1919,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "Knut J. Jonasson",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 59.0643787,
+            "Longitude": 11.2081876
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Lesjöfors AB.",
+        "location": "Lesjöfors",
+        "business": "Järnverk med valsverk, stållinefabrik, tråddrageri",
+        "products": "Tillverkar smitt och valsat stål, järn-och ståltråd, pianotråd, oljehärdad tråd, stållinor, hackor, släggor och, spett, bladfjädrar för järnvägsvagnar och automobiler samt spiralfjädrar av alla slag; levererar sågade och hyvlade trävaror och ’snickerier, gengaskol, tjära och terpentin; distribuerar elektr. energi. Bolaget idkar jämväl jordbruk och skogshantering.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "Lesjöfors Kontor"
+            ],
+            "postgiro": "11949",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "105495"
+                }
+            ],
+            "telegraph": "Lesjöfors, Filipstad",
+            "factory_office": "",
+            "factory_phone": ""
+        },
+        "financials": {
+            "capital": "1,500,000 kr",
+            "employees": {
+                "industriarb.": 800
+            },
+            "annual_turnover": "9,000,000 kr",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1867,
+        "current_name_year": null,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [
+            {
+                "name": "frih. Gerard De Geer",
+                "role": ""
+            },
+            {
+                "name": "disp. E. Hedendahl",
+                "role": ""
+            },
+            {
+                "name": "dir. Kjell Ilägglöf",
+                "role": ""
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "managing_director": "frih. Gerard De Geer",
+        "sales_manager": "Birger Söderberg",
+        "manager": "Knut Gustafsson",
+        "coordinates": {
+            "Latitude": 59.97705449999999,
+            "Longitude": 14.184545
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Lessebo AB.",
+        "location": "Klippan",
+        "business": "Pappersbruk med sulfitfabrik",
+        "products": "Tillverkar hand- och maskingjort post-, skriv- och filtrérpapper, boktryckpapper, lito-, offset- och gravyrtryckpapper, brevkortskartong m. m., indunstad sulfitlut samt sulfitcellulosa huvudsakligen för eget behov. Bolaget idkar jämväl jordbruk och skogshantering.",
+        "contact": {
+            "office": "Klippan",
+            "phone": [],
+            "postgiro": "",
+            "head_office": "",
+            "sales_offices": [],
+            "telegraph": "",
+            "factory_office": "Lessebo, Växjö",
+            "factory_phone": "Växjö 2261"
+        },
+        "financials": {
+            "capital": "3,600,000 kr",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": null,
+        "current_name_year": null,
+        "predecessor": "",
+        "original_name": "",
+        "corporation_year": null,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "managing_director": "",
+        "sales_manager": "",
+        "manager": "",
+        "coordinates": {
+            "Latitude": 56.1348998,
+            "Longitude": 13.1290409
+        },
+        "cluster": 5
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "1": {
+        "name": "AB. Carl Wikström",
+        "location": "Göteborg",
+        "business": "Mössfabrik",
+        "contact": {
+            "office": "Wallg. 38",
+            "phone": [
+                "111275",
+                "130125",
+                "138275"
+            ],
+            "postgiro": "12140",
+            "telegraph": "Carl-wik, Göteborg"
+        },
+        "financials": {
+            "capital": 24000,
+            "employees": {
+                "industriarb": 15
+            },
+            "foundation_year": 1908,
+            "corporation_year": 1936
+        },
+        "board": [
+            {
+                "name": "Nils Göransson",
+                "role": "dir."
+            },
+            {
+                "name": "Rudolf Köhler",
+                "role": "dir."
+            },
+            {
+                "name": "fröken A. Pehrson",
+                "role": "Kontorschef"
+            }
+        ],
+        "owners": [
+            "Erik Nord"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Hj. Wikström",
+        "location": "Stockholm",
+        "business": "Möbelfabrik",
+        "contact": {
+            "office": "Banérg. 25",
+            "phone": "614825"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 4
+            },
+            "foundation_year": 1902
+        },
+        "owners": [
+            "Hjalmar Wikström"
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "Vimmerby Bryggeri",
+        "location": "Vimmerby",
+        "description": "Se AB. Nya Centralbryggeriet, Linköping",
+        "coordinates": {
+            "Latitude": 57.6690339,
+            "Longitude": 15.858857
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Vimmerby Byggnadssnickerier",
+        "location": "Vimmerby",
+        "business": "Tillverkar byggnadssnickerier",
+        "contact": {
+            "phone": "291",
+            "postgiro": "132070",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "320130"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 208800,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": 900000
+        },
+        "foundation_year": 1935,
+        "director": "Tore Isberg",
+        "coordinates": {
+            "Latitude": 57.6690339,
+            "Longitude": 15.858857
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Vimmerby Läderfabriks AB.",
+        "location": "Vimmerby",
+        "business": "Tillverkar kromovanläder, kombinationstärdat ovanläder, plattläder och toffelläder",
+        "contact": {
+            "telegraph": "Läder fabriken, Vimmerby",
+            "phone": "172",
+            "postgiro": "70200"
+        },
+        "financials": {
+            "capital": 70500,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1881,
+        "coordinates": {
+            "Latitude": 57.6690339,
+            "Longitude": 15.858857
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Vimmerby Träförädingsfabrik",
+        "location": "Vimmerby",
+        "business": "Tillverkar byggnadssnickerier, hyvlade trävaror samt listverk",
+        "contact": {
+            "phone": "73"
+        },
+        "financials": {
+            "capital": 225200,
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_production_value": 325000
+        },
+        "foundation_year": 1892,
+        "coordinates": {
+            "Latitude": 57.6690339,
+            "Longitude": 15.858857
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "AB. Th. Winborg & Co.",
+        "location": "Stockholm",
+        "business": "Kem-teknisk fabrik",
+        "contact": {
+            "postaddr": "Stockholm 11",
+            "telegraph": "Winborgs, Stockholm",
+            "phone": "»Win-borgs Fabriker»",
+            "postgiro": "870"
+        },
+        "financials": {
+            "capital": 2100000,
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_production_value": 7000000
+        },
+        "foundation_year": 1861,
+        "board": [
+            {
+                "name": "Boris Meyerson",
+                "role": "dir."
+            },
+            {
+                "name": "Gunnar Meyerson",
+                "role": "ing."
+            }
+        ],
+        "owners": [
+            "B. Meyerson",
+            "Gunnar Meyerson"
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "AB. P. Winckler & Comp.",
+        "location": "Malmö",
+        "business": "Snickeri- och möbelfabrik",
+        "contact": {
+            "office": "Norreg. 4",
+            "phone": "22390",
+            "postgiro": "245623"
+        },
+        "financials": {
+            "capital": 18000,
+            "employees": {
+                "industriarb": 7
+            },
+            "annual_production_value": 125000
+        },
+        "foundation_year": 1906,
+        "board": [
+            {
+                "name": "Einar Andersson",
+                "role": "snickarmäst."
+            },
+            {
+                "name": "Nils Larsson",
+                "role": "snickare"
+            },
+            {
+                "name": "Tage Nordqvist",
+                "role": "verkm."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 8
+    },
+    "9": {
+        "name": "L. J. Wingqvist, Fritsla Mekaniska Väfveri & Spinnerier",
+        "location": "Fritsla",
+        "business": "Väveri, färgeri, blekeri och appreturverk, bomulls- och ullspinnerier",
+        "description": "i Fritsla (Älvsb. l.)",
+        "coordinates": {
+            "Latitude": 57.5577891,
+            "Longitude": 12.7855095
+        },
+        "cluster": 3
+    }
+}

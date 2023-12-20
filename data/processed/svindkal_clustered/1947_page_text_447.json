@@ -1,0 +1,257 @@
+{
+    "1": {
+        "name": "Kronsågar",
+        "location": "Lidköping",
+        "business": "Tillverkning av bågfilsblad, maskinsågblad, rälssågblad, slitsfräsar, bandsågblad för trä och metall samt bågfilsställningar.",
+        "products": "Varumärke: »Kronsågar»",
+        "contact": {
+            "office": "Lidköping",
+            "phone": [
+                "22060"
+            ],
+            "postgiro": "6566",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "113353"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "16783"
+                },
+                {
+                    "location": "Göteborg",
+                    "phone": "156656"
+                }
+            ],
+            "telegraph": "Kronsågar, Lidköping"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "1,400,000 kr",
+            "annual_production_value": "1,400,000 kr"
+        },
+        "foundation_year": 1914,
+        "board": [
+            {
+                "name": "Arnold Rahm",
+                "role": "ordf."
+            },
+            {
+                "name": "Einar Björkegren",
+                "role": "disp."
+            },
+            {
+                "name": "Erik Pihlgren",
+                "role": "grossh."
+            },
+            {
+                "name": "Gunnar Vinell",
+                "role": "övering."
+            }
+        ],
+        "manager": "Arnold Rahm",
+        "coordinates": {
+            "Latitude": 58.5035047,
+            "Longitude": 13.1570768
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Kroons Cykelfabrik",
+        "location": "Vansbro",
+        "business": "Tillverkning av cyklar, cykeldelar, barncyklar, barnbilar, kälkar och sparkstöttingar m. m.",
+        "contact": {
+            "office": "Vansbro",
+            "phone": [
+                "Kroonbolaget"
+            ]
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "800,000 kr"
+        },
+        "foundation_year": 1946,
+        "manager": "Charles Kroon",
+        "coordinates": {
+            "Latitude": 60.5099434,
+            "Longitude": 14.2253417
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Kroppstadfors AB.",
+        "location": "Åmotfors",
+        "business": "Tillverkning av stenull, rörisoleringar och byggnadsplattor.",
+        "products": "Varumärke: »Värmullit»",
+        "contact": {
+            "office": "Åmotfors",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "171220"
+                }
+            ],
+            "telegraph": "Kroppstadfors, Arvika"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "foundation_year": 1944,
+        "board": [
+            {
+                "name": "major Svante Påhlson",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Anton Dahlin",
+                "role": "adv."
+            },
+            {
+                "name": "adv. Gunnar Lewerth",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Gösta Schotte",
+                "role": "dir."
+            },
+            {
+                "name": "dir. Nils Troedsson",
+                "role": "verkst. dir."
+            }
+        ],
+        "sales_manager": "Claes-Ulf Gavelius",
+        "coordinates": {
+            "Latitude": 59.75765879999999,
+            "Longitude": 12.3572534
+        },
+        "cluster": 0
+    },
+    "4": {
+        "name": "Krylbo Gjuteri & Mek. Verkstad, AB.",
+        "location": "Krylbo",
+        "business": "Tillverkning av vattenkylda sodalöp (lutrennor för sodaugnar), balkar och plåtar samt roster och brännjärn m. m. av eldhärdiga specialjärn.",
+        "contact": {
+            "office": "Krylbo",
+            "phone": [
+                "Krylbo gjuteri"
+            ],
+            "postgiro": "31628",
+            "telegraph": "Gjuteriet, Krylbo"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 30
+            }
+        },
+        "corporation_year": 1937,
+        "manager": "Håkan Haglund",
+        "coordinates": {
+            "Latitude": 60.1309558,
+            "Longitude": 16.2159445
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Krylbo Smides- & Kassaskåpsfabrik",
+        "location": "Krylbo",
+        "business": "Tillverkning av luftväxlingsventiler, kassaskåp, kassavalvsdörrar, kassafack, brandisolerade ståldörrar, luftskyddsrumsdörrar och -luckor, verktygsbord och -skåp, klädskåp, dokumentskåp, tunnplåtsarbeten, galvaniserade hörnskydd (»K. S. K.»), snöskyfflar m. m.",
+        "contact": {
+            "office": "Krylbo",
+            "phone": [
+                "1414"
+            ],
+            "postgiro": "26196",
+            "telegraph": "Smidesbolaget, Krylbo"
+        },
+        "financials": {
+            "capital": "127,000 kr",
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "650,000 kr"
+        },
+        "foundation_year": 1902,
+        "board": [
+            {
+                "name": "disp. Ivar Malmström",
+                "role": "ordf."
+            },
+            {
+                "name": "kontorist Erik Hedberg",
+                "role": null
+            },
+            {
+                "name": "lantbr. Olof Olsson",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.1309558,
+            "Longitude": 16.2159445
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Krylbo Träförädlings AB.",
+        "location": "Krylbo",
+        "business": "Tillverkning av sågade och hyvlade trävaror, listverk och snickerier.",
+        "contact": {
+            "office": "Krylbo",
+            "phone": [
+                "1108"
+            ],
+            "postgiro": "163103",
+            "telegraph": "Träförädlingen, Krylbo"
+        },
+        "financials": {
+            "capital": "150,000 kr",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1906,
+        "owner": "Avesta Jernverks AB., Avesta",
+        "board": [
+            {
+                "name": "disp. Walfrid Eriksson",
+                "role": "ordf."
+            },
+            {
+                "name": "förvalt. Olof Persson",
+                "role": null
+            }
+        ],
+        "sågverksförvalt": "Olof Persson",
+        "coordinates": {
+            "Latitude": 60.1309558,
+            "Longitude": 16.2159445
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Krångede AB.",
+        "location": "Stockholm",
+        "business": "Produktion av elektrisk energi.",
+        "contact": {
+            "office": "Stockholm"
+        },
+        "owner": "Bolaget äger kraftstationer vid Krångede i Indalsälven, Jämtland samt transformatorstation vid Horndal, Kopparberg, och överföringslinjer",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    }
+}

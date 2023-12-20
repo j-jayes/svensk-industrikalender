@@ -1,0 +1,218 @@
+{
+    "1": {
+        "name": "AB. Wäs© Gryn ver k",
+        "location": "Väse",
+        "business": "Kvarn och sågverk",
+        "products": "Tillverkar havregryn och havremjöl samt sågade trävaror. Firman driver även engroshandel med foder och spannmål.",
+        "contact": {
+            "office": "Väse",
+            "phone": [
+                "7"
+            ],
+            "postgiro": "6750"
+        },
+        "financials": {
+            "capital": "175,000 kr",
+            "employees": {
+                "Arb.-antal": 12
+            },
+            "annual_turnover": "840,000 kr",
+            "annual_production_value": "840,000 kr"
+        },
+        "foundation_year": 1898,
+        "corporation_year": 1921,
+        "director": "S. W. Hidén",
+        "coordinates": {
+            "Latitude": 59.38053900000001,
+            "Longitude": 13.8507171
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Väsk-Fabriks AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar damväskor och necessärer.",
+        "contact": {
+            "office": "N:a Stationsg. 79—81",
+            "phone": "331104",
+            "postgiro": "4667"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "Antal industriarb.": 65
+            },
+            "annual_production_value": "600,000 kr"
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "disp. N. Adlerstam",
+                "role": "fru R. Herzog"
+            },
+            {
+                "name": "dir. L. M. Joseph"
+            }
+        ],
+        "director": "L. M. Joseph",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "Väskindustri, Andersson & Johansson",
+        "location": "Göteborg",
+        "business": "Tillverkar damväskor.",
+        "contact": {
+            "office": "Sänkverksg. 1",
+            "phone": [
+                "142367",
+                "125969"
+            ],
+            "postgiro": "43215",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "203287"
+                }
+            ]
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 70
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1932,
+        "owners": [
+            "fabr. Knut R. Andersson",
+            "fabr. Verner Johansson"
+        ],
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Västanfors Smidesfabrik",
+        "location": "Västanfors",
+        "business": "Tillverkar handredskap för lantbruk och för skogs- och cellulosaindustrien samt cykelställ; utför smides-, svetsnings-, plåt- och mekaniska arbeten.",
+        "contact": {
+            "phone": [
+                "40410",
+                "40798"
+            ],
+            "postgiro": "173311"
+        },
+        "financials": {
+            "employees": {
+                "Antal industriarb.": 45
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1928,
+        "director": "ing. Jae. E. Jacobsson",
+        "coordinates": {
+            "Latitude": 59.9929333,
+            "Longitude": 15.826962
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Västerbo Tegelbruk",
+        "location": "Broddbo",
+        "business": "Tillverkar tak- och murtegel samt dräneringsrör vid tegelbruk i Västerbo, Broddbo (Västmanl. l.).",
+        "contact": {
+            "phone": "Norrvad 13"
+        },
+        "employees": {
+            "industriarb.": 7
+        },
+        "annual_production_value": "0,3 milj. st. tegelvaror",
+        "foundation_year": 1874,
+        "director": "tegelbruksäg. Axel Holmgren",
+        "coordinates": {
+            "Latitude": 59.9846844,
+            "Longitude": 16.47621
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "AB. Västergötlands Förenade Kalkindustrier",
+        "location": "Falköping",
+        "business": "Kalkstensbrott och kalkugnar.",
+        "contact": {
+            "phone": "283",
+            "postgiro": "24242"
+        },
+        "financials": {
+            "capital": "1,575,000 kr",
+            "employees": {
+                "Antal industriarb.": 230
+            }
+        },
+        "foundation_year": 1918,
+        "board": [
+            {
+                "name": "adv. E. D. Halbert",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. G. W. Nymberg"
+            },
+            {
+                "name": "dir. J. E. Thorse-lius"
+            }
+        ],
+        "director": "G. W. Nymberg",
+        "manager": "H. Sunde-lius",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "AB. Västerviks Motorfabrik",
+        "location": "Västervik",
+        "business": "Tillverkar råoljemotorer och automatiska smörjapparater; utför mek. verkstadsarbeten och maskinreparationer.",
+        "contact": {
+            "phone": "1821",
+            "postgiro": "30290"
+        },
+        "financials": {
+            "capital": "90,000 kr",
+            "employees": {
+                "Antal industriarb.": 30
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1910,
+        "corporation_year": 1936,
+        "current_name_year": 1946,
+        "director": "Bror Edberg",
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "Westerviks Pappersbruks AB.",
+        "location": "Västervik",
+        "business": "Papp- och kartongfabrik.",
+        "products": "Tillverkar vit och brun trämassepapp, gråpapp, testliner, kraftliner och chromoersatz.",
+        "contact": {
+            "telegraph": "Pappbruket, Västervik",
+            "phone": "»Pappersbruket»"
+        },
+        "coordinates": {
+            "Latitude": 57.75771559999999,
+            "Longitude": 16.6369759
+        },
+        "cluster": 7
+    }
+}

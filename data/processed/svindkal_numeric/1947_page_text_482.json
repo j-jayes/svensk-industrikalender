@@ -1,0 +1,162 @@
+{
+    "1": {
+        "name": "AB. Ludvika Ångsåg",
+        "location": "Ludvika",
+        "business": "Sågverk och hyvleri",
+        "products": "Tillverkar sågade och hyvlade trävaror.",
+        "contact": {
+            "office": "Ångsågen, Ludvika",
+            "phone": [
+                "1357",
+                "260"
+            ],
+            "postgiro": "75709"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "3,000 stds sågade trävaror, varav 1,000 stds hyvlade",
+            "annual_production_value": "Sågen anlagd 1900, nuv. bolag stiftat 1918"
+        },
+        "foundation_year": 1895,
+        "board": [
+            {
+                "name": "Chr. Storjohann",
+                "role": "ordf."
+            },
+            {
+                "name": "H. Dyster-Aas",
+                "role": "dir."
+            },
+            {
+                "name": "E. Vermcrantz",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.152358,
+            "Longitude": 15.191639
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. Luleå Bryggeri",
+        "location": "Luleå",
+        "business": "Tillverkar malt, maltdrycker och läskedrycker.",
+        "contact": {
+            "telegraph": "Bryggeribolaget, Luleå",
+            "phone": "Luleå bryggeri",
+            "postgiro": "23265"
+        },
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": 1000000
+        },
+        "foundation_year": 1908,
+        "board": [
+            {
+                "name": "Arthur Wirström",
+                "role": "ordf."
+            },
+            {
+                "name": "Folke Burström",
+                "role": "dir."
+            },
+            {
+                "name": "Hugo Burström",
+                "role": null
+            },
+            {
+                "name": "Curt Wirström",
+                "role": "generalkonsul"
+            }
+        ],
+        "director": "Folke Burström",
+        "bryggm": "G. Sandgren",
+        "coordinates": {
+            "Latitude": 65.584819,
+            "Longitude": 22.1567026
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Lumalampan AB.",
+        "location": "Stockholm",
+        "business": "Glödlampfabrik",
+        "products": "Tillverkar elektr. lampor såsom belysningslampor, speciallampor, billampor, dvärglampor, kvicksilver-ånglampor, lysämneslampor, glimlampor, likriktarrör, elektriska julgransbelysningar och terapilampor, elektr. kontakter, elektroder, neonelektroder, volfram-tråd, molybdentråd, hårdmetall, dragskivor, ställbara dragmatriser, dragdornar och andra dragverktyg.",
+        "contact": {
+            "office": "Lumavägen 6",
+            "telegraph": "Lumalampan",
+            "phone": "Lumalampan",
+            "postgiro": "156690"
+        },
+        "financials": {
+            "capital": 2000000,
+            "employees": {
+                "industriarb": 1000
+            }
+        },
+        "foundation_year": 1930,
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": null
+            },
+            {
+                "name": "Hj. Degerstedt",
+                "role": "dir."
+            },
+            {
+                "name": "Hugo Edstam",
+                "role": "dir."
+            },
+            {
+                "name": "G. Osvald",
+                "role": "dir."
+            },
+            {
+                "name": "Ernst Persson",
+                "role": "dir."
+            }
+        ],
+        "verkst. dir": "H. Schlott",
+        "dir.-assist": "M. Hyström",
+        "kontorschef": "E. Edblad",
+        "laboratoriechef": "G. Siljeholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "Aug. Lundhs Metallfabrik",
+        "location": "Eskilstuna",
+        "business": "Tillverkar kokkärl och andra hushållsartiklar av aluminium",
+        "contact": {
+            "phone": "31817"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_production_value": 215000
+        },
+        "foundation_year": 1920,
+        "manager": "fabr. Tore Lundh",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 6
+    }
+}

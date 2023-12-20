@@ -1,0 +1,290 @@
+{
+    "1": {
+        "name": "Bäxinol—Börser",
+        "location": "Stockholm",
+        "contact": {
+            "office": "Bergsg. 39",
+            "phone": [
+                "511060"
+            ],
+            "head_office": "Högbergsg. 25",
+            "telegraph": "Böhlmarks",
+            "postgiro": "867",
+            "factory_office": "Pukebergs Glasbruk",
+            "factory_phone": "Nybro 2 o. 102",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "Högbergsg. 25"
+                },
+                {
+                    "location": "Pukebergs Glasbruk",
+                    "phone": "Nybro 2 o. 102"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 1200000,
+            "employees": {
+                "Stockholm": 150,
+                "Pukeberg": 100
+            },
+            "annual_turnover": 3500000,
+            "annual_production_value": 3500000
+        },
+        "foundation_year": 1918,
+        "owners": [
+            "fabr. Einar Bäckström",
+            "fabr. Sune Bäckström"
+        ],
+        "board": [
+            {
+                "name": "disp. J. Kempe",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. E. A. Eworth",
+                "role": null
+            },
+            {
+                "name": "hovrättsrådet O. Löthner",
+                "role": null
+            }
+        ],
+        "director": "E. A. Eworth",
+        "sales_manager": "Sture Långh",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "AB. Bäxinol",
+        "location": "Göteborg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "AB. Arvid Böhlmarks Lampfabrik",
+        "location": "Stockholm",
+        "products": "Tillverkar elektrisk armatur och installationsmateriel, neonskyltar, fotogenlampor, metallpressningar och andra metallarbeten, butiksinredningar, stålmöbler m. m. vid fabrik i Stockholm; belysningsglas, hushållsglas, prydnadsglas, betongglas m. m. vid Pukebergs Glasbruk, Nybro (Kalmar l.)",
+        "contact": {
+            "office": "Högbergsg. 25",
+            "phone": [
+                "Böhlmarks"
+            ],
+            "head_office": "Högbergsg. 25",
+            "postgiro": "867",
+            "factory_office": "Pukebergs Glasbruk",
+            "factory_phone": "Nybro 2 o. 102"
+        },
+        "financials": {
+            "capital": 1200000,
+            "employees": {
+                "Stockholm": 150,
+                "Pukeberg": 100
+            },
+            "annual_turnover": 3500000,
+            "annual_production_value": 3500000
+        },
+        "foundation_year": 1872,
+        "board": [
+            {
+                "name": "disp. J. Kempe",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. E. A. Eworth",
+                "role": null
+            },
+            {
+                "name": "hovrättsrådet O. Löthner",
+                "role": null
+            }
+        ],
+        "director": "E. A. Eworth",
+        "sales_manager": "Sture Långh",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Böksholms Sulfitfabrik",
+        "location": "Klippan",
+        "products": "Tillverkar sulfitcellulosa (huvudsakligen för Klippans Finpappersbruk), sulfitsprit, indunstad sulfitlut för vägpreparering, garvextrakt samt sågade trävaror. Bolaget idkar jämväl skogshantering",
+        "contact": {
+            "office": "Klippan",
+            "phone": [
+                "Pappersbruket"
+            ],
+            "sales_offices": [
+                {
+                    "location": "Braås",
+                    "phone": "Snickeri, Växjö"
+                },
+                {
+                    "location": "Åseda",
+                    "phone": "Snickeri, Växjö"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 1500000,
+            "employees": {
+                "Klippan": 100
+            },
+            "annual_turnover": null,
+            "annual_production_value": "8,000 ton sulfitcellulosa"
+        },
+        "foundation_year": 1901,
+        "owners": [
+            "AB. Klippans Finpappersbruk"
+        ],
+        "board": [
+            {
+                "name": "bankir Tage Cervin",
+                "role": "ordf."
+            },
+            {
+                "name": "bankdir. Allan Alexanderson",
+                "role": null
+            },
+            {
+                "name": "dir. P. Eg. Gummeson",
+                "role": null
+            },
+            {
+                "name": "f. d. bankdir. H. K. Laurit-zen",
+                "role": null
+            },
+            {
+                "name": "dir. Carl Joh. Malmros",
+                "role": null
+            }
+        ],
+        "director": "Carl Joh. Malmros",
+        "coordinates": {
+            "Latitude": 56.1348998,
+            "Longitude": 13.1290409
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Böle Såg- & Kvarn AB.",
+        "location": "Näsviken",
+        "products": "Tillverkar sågade och hyvlade trävaror. Bolaget driver jämväl kvarnrörelse",
+        "contact": {
+            "office": "Näsviken",
+            "phone": [
+                "Forsså Bruks AB."
+            ]
+        },
+        "financials": {
+            "employees": {
+                "Näsviken": 30
+            },
+            "annual_production_value": "800 stds trävaror"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "disp. Paul B. Burchardt",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 61.7612907,
+            "Longitude": 16.8732569
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Böleå Snickerifabriks AB.",
+        "location": "Teg",
+        "products": "Tillverkar fönster och dörrar, inredningar och trappor vid fabrik i Böleå, Teg (Västerb. l.)",
+        "contact": {
+            "office": "Böleå",
+            "phone": [
+                "Umeå 1261"
+            ]
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "Teg": 14
+            }
+        },
+        "foundation_year": 1925,
+        "coordinates": {
+            "Latitude": 63.8190372,
+            "Longitude": 20.2465139
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "AB. Börringe Tegelbruk",
+        "location": "Börringe",
+        "products": "Tillverkar rött och gläcerat / fasad-, form- och taktegel vid tegelbruk i Börringe (Malmöh. l.)",
+        "contact": {
+            "office": "Börringe",
+            "phone": [
+                "Börringe 109"
+            ]
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "Börringe": 35
+            },
+            "annual_production_value": "2,5 milj. st. tegelvaror"
+        },
+        "foundation_year": 1942,
+        "board": [
+            {
+                "name": "greve Corfitz Beck-Friis",
+                "role": null
+            },
+            {
+                "name": "frih. Sigvard Beck-Friis",
+                "role": null
+            },
+            {
+                "name": "greve Carl-Axet Rudenschöld",
+                "role": null
+            }
+        ],
+        "director": "greve Corfitz Beck-Friis",
+        "manager": "A. Selander",
+        "coordinates": {
+            "Latitude": 55.5,
+            "Longitude": 13.333333
+        },
+        "cluster": 0
+    },
+    "8": {
+        "name": "AB. P. C. Börser",
+        "location": "Ljusdal",
+        "products": "Tillverkar sågade och hyvlade trävaror",
+        "contact": {
+            "office": "Ljusdal",
+            "phone": [
+                "1454",
+                "1554"
+            ]
+        },
+        "financials": {
+            "capital": 84000
+        },
+        "coordinates": {
+            "Latitude": 61.8308392,
+            "Longitude": 16.0817501
+        },
+        "cluster": 7
+    }
+}

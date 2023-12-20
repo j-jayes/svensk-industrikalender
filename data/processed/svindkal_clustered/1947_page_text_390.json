@@ -1,0 +1,234 @@
+{
+    "1": {
+        "name": "Ingelsten—Ingeniörsfirman",
+        "location": "Anderstorp",
+        "business": "Plåtmanufakturverk",
+        "products": "Tillverkar frisyrartiklar såsom papiljotter, vågklämmor och clips, färg-bandsspolar till skrivmaskiner, planschetter, bysthållarekrok samt fotohörn",
+        "contact": {
+            "office": "Anderstorp",
+            "phone": [
+                "121"
+            ],
+            "postgiro": "133617"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1937,
+        "owners": [
+            "fabr. Ivar Ingelsten",
+            "fabr. Harry Moden"
+        ],
+        "director": "Not available",
+        "managing_director": "R. Hedlund",
+        "sales_manager": "intend. Sven Runn-quist",
+        "manager": "Carl Oldby",
+        "coordinates": {
+            "Latitude": 57.2812542,
+            "Longitude": 13.6271963
+        },
+        "cluster": 5
+    },
+    "2": {
+        "name": "Ingenjörsfirma Sven Carlson AB.",
+        "location": "Falun",
+        "business": "Mek. Verkstad",
+        "products": "Konstruerar och tillverkar transportanordningar såsom släpskra-peanläggningar, automatiska hund- och spelbanor, skopelevatorer, rem-, kätting- och skraptransportörer, linbanor, friktionsspel, släpskrapspel, släpskrapor, linblock samt sorterverk och lastfickor",
+        "contact": {
+            "office": "Falun",
+            "phone": [
+                "739"
+            ],
+            "postgiro": "Not available"
+        },
+        "financials": {
+            "capital": "50,500 kr",
+            "employees": {
+                "industriarb": 24
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1909,
+        "corporation_year": 1937,
+        "director": "ing. Sven Carlson",
+        "managing_director": "Not available",
+        "sales_manager": "Not available",
+        "manager": "Not available",
+        "coordinates": {
+            "Latitude": 60.60646000000001,
+            "Longitude": 15.6355
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "Ingenjörsfirman Certus AB.",
+        "location": "Borås",
+        "business": "Pressmaskiner",
+        "products": "Tillverkar som specialitet pressmaskiner för konfektionsindustrien",
+        "contact": {
+            "office": "Borås",
+            "phone": [
+                "20258",
+                "20278"
+            ],
+            "postgiro": "54984"
+        },
+        "financials": {
+            "capital": "51,000 kr",
+            "employees": {
+                "arban": 15
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1925,
+        "corporation_year": 1945,
+        "director": "ing. Bertil Udden",
+        "managing_director": "Not available",
+        "sales_manager": "Not available",
+        "manager": "Not available",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "Ingenjörsfirma J. Owe Elgström",
+        "location": "Härnösand",
+        "business": "Byggnadsentreprenörfirma",
+        "products": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader samt för väg- och vattenbyggnadsarbeten",
+        "contact": {
+            "office": "Härnösand",
+            "phone": [
+                "1479",
+                "1889"
+            ],
+            "postgiro": "73873"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": "Not available",
+                "arbarb": "Not available"
+            },
+            "annual_turnover": "2,000,000 kr",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1927,
+        "corporation_year": "Not available",
+        "director": "ing. J\". Owe Elgström",
+        "managing_director": "Not available",
+        "sales_manager": "Not available",
+        "manager": "Not available",
+        "coordinates": {
+            "Latitude": 62.6322698,
+            "Longitude": 17.9408714
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Ingenjörsfirman Friberg & Co. AB.",
+        "location": "Göteborg",
+        "business": "Tillverkar elektr. värmeapparater",
+        "products": "Tillverkar elektr. värmeapparater för industrin",
+        "contact": {
+            "office": "Elisedal 7",
+            "phone": [
+                "167432",
+                "163441"
+            ],
+            "postgiro": "43139"
+        },
+        "financials": {
+            "capital": "30,000 kr",
+            "employees": {
+                "industriarb": 26
+            },
+            "annual_turnover": "500,000 kr",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1932,
+        "corporation_year": "Not available",
+        "director": "Not available",
+        "managing_director": "ing. Dan Eggertz",
+        "sales_manager": "Not available",
+        "manager": "ing. Chr. Christensson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Ingenjörsfirman Hagelin & Larsson",
+        "location": "Göteborg",
+        "business": "Byggnadsentreprenörfirma",
+        "products": "Byggnadsentreprenörfirma för väg- och vattenbyggnadsarbeten samt husbyggnadsarbeten",
+        "contact": {
+            "office": "N. Larmg. 11—13",
+            "phone": [
+                "175302"
+            ],
+            "postgiro": "45868"
+        },
+        "financials": {
+            "capital": "Not available",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "Not available"
+        },
+        "foundation_year": 1936,
+        "corporation_year": "Not available",
+        "director": "Not available",
+        "managing_director": "Not available",
+        "sales_manager": "Not available",
+        "manager": "civiling. Anders Larsson",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "Ingenjörsfirma Ragnar Larson & Co., AB.",
+        "location": "Sundsvall",
+        "business": "Byggnadsentreprenörfirma",
+        "products": "Byggnadsentreprenörfirma för bostads-och affärshus, industribyggnader samt för väg- och vattenbyggnadsarbeten",
+        "contact": {
+            "office": "Sundsvall",
+            "phone": [
+                "2909",
+                "2990"
+            ],
+            "postgiro": "136519"
+        },
+        "financials": {
+            "capital": "55,000 kr",
+            "employees": {
+                "arbarb": "Not available"
+            },
+            "annual_turnover": "Not available",
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1927,
+        "corporation_year": "Not available",
+        "director": "major Ragnar C. Larson",
+        "managing_director": "Not available",
+        "sales_manager": "Not available",
+        "manager": "Not available",
+        "coordinates": {
+            "Latitude": 62.390811,
+            "Longitude": 17.306927
+        },
+        "cluster": 0
+    }
+}

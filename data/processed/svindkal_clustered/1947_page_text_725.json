@@ -1,0 +1,162 @@
+{
+    "1": {
+        "name": "AB. Trelleborgs Linoleumindustri",
+        "location": "Trelleborg",
+        "business": "Tillverkar golvmattor vid fabrik",
+        "products": "Golvmattor",
+        "contact": {
+            "office": "Stockholm, Hamng. 10; postadr.: Box 7138",
+            "phone": [
+                "233015"
+            ],
+            "postgiro": "59353",
+            "head_office": "Stockholm, Hamng. 10",
+            "sales_offices": [
+                {
+                    "location": "Trelleborg",
+                    "phone": "1435 o. 1760"
+                }
+            ],
+            "telegraph": "Trelinum, Stockholm",
+            "factory_office": "Trelleborg",
+            "factory_phone": "1435 o. 1760"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_production_value": "2,000,000 kr"
+        },
+        "foundation_year": 1935,
+        "coordinates": {
+            "Latitude": 55.3762427,
+            "Longitude": 13.1574231
+        },
+        "cluster": 8
+    },
+    "2": {
+        "name": "AB. Trelleborgs Velocipedfabrik",
+        "location": "Trelleborg",
+        "business": "Tillverkar velocipeder",
+        "products": "Ramar och gafflar för velocipeder",
+        "contact": {
+            "telegraph": "Velofabrik, Trelleborg",
+            "phone": "1174",
+            "postgiro": "30468"
+        },
+        "financials": {
+            "capital": "65,000 kr",
+            "employees": {
+                "industriarb": 45
+            }
+        },
+        "foundation_year": 1940,
+        "coordinates": {
+            "Latitude": 55.3762427,
+            "Longitude": 13.1574231
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "AB. Tretorn",
+        "location": "Hälsingborg",
+        "business": "Tillverkar galoscher, snowboots och gymnastikskor vid fabrik",
+        "products": "Galoscher, snowboots och gymnastikskor",
+        "contact": {
+            "head_office": "Hälsingborg",
+            "factory_office": "Malmö, Barkg. 10",
+            "phone": [
+                "Malmö 71045"
+            ],
+            "telegraph": "Gummifabriken, Malmö",
+            "postgiro": "12,478,800 kr"
+        },
+        "financials": {
+            "capital": "12,478,800 kr",
+            "employees": {
+                "industriarb": 300
+            }
+        },
+        "foundation_year": 1899,
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "AB. Trikåfabriken Elit",
+        "location": "Borås",
+        "business": "Tillverkar trikåunderkläder i bomull, silke och silkebomull",
+        "products": "Trikåunderkläder i bomull, silke och silkebomull",
+        "contact": {
+            "phone": [
+                "10369",
+                "15369"
+            ],
+            "postgiro": "84940"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 35
+            }
+        },
+        "foundation_year": 1940,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "AB. Trikåfabriken Essve",
+        "location": "Stockholm",
+        "business": "Tillverkar underkläder och damblusar huvudsakligen av charmeuse och siden",
+        "products": "Underkläder och damblusar",
+        "contact": {
+            "office": "Nordenflychtsvägen 64",
+            "phone": [
+                "511211",
+                "511260"
+            ],
+            "postgiro": "4528"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "foundation_year": 1928,
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "Trikåfabriken Svea",
+        "location": "Borås",
+        "business": "Tillverkar trikåunderkläder",
+        "products": "Trikåunderkläder",
+        "contact": {
+            "phone": [
+                "11541"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 4
+            }
+        },
+        "foundation_year": 1916,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    }
+}

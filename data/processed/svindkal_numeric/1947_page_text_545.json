@@ -1,0 +1,219 @@
+{
+    "1": {
+        "name": "AB. Norrköpings Tricotfabrik, Aib. Westerholm, Norrköping.",
+        "location": "Norrköping",
+        "description": "Tillverkar trikåunderkläder och strumpor vid fabriker i Norrköping och Mjölby (Strumpfabriks AB. Sphinx). Varumärken: »Lamasan», »Westerholms», »Mig-non» o. »Rigolette».",
+        "contact": {
+            "office": "Tricotf abriken, Norrköping",
+            "phone": [
+                "29385"
+            ],
+            "postgiro": "11095",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "214104"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 1300000,
+            "employees": {
+                "total": 405,
+                "Mjölby": 125
+            },
+            "annual_turnover": 4000000,
+            "annual_production_value": 4000000
+        },
+        "foundation_year": 1894,
+        "corporation_year": 1898,
+        "board": [
+            {
+                "name": "Alb. Änder",
+                "role": "bankdir (ordf.)"
+            },
+            {
+                "name": "Elis Sköld",
+                "role": "dir."
+            },
+            {
+                "name": "Harald Thalin",
+                "role": "godsäg."
+            },
+            {
+                "name": "Gustaf Westerholm",
+                "role": "disp."
+            }
+        ],
+        "director": "Gustaf Westerholm",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 4
+    },
+    "2": {
+        "name": "Norrköpings Trottoarplattfabrik",
+        "location": "Norrköping",
+        "description": "Tillverkar vibrerade trottoarbetongplattor och ånghärdade »Vibro»-block.",
+        "contact": {
+            "office": "Vedcentralen, Norrköping",
+            "phone": [
+                "Vedcentralen",
+                "Norrköping"
+            ],
+            "postgiro": "95707"
+        },
+        "financials": {
+            "employees": 10,
+            "annual_production_value": 200000
+        },
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 4
+    },
+    "3": {
+        "name": "AB. Norrköpings Träimport AB.",
+        "location": "Norrköping",
+        "description": "Sågverk. Utför sågning av lövträ, ek-parkettstav, ekfyrkanter, tröskelämnen och andra ämnen för möbel- och snickerifabrikation. Bolaget driver såsom huvudrörelse handel med in- och utländska träslag samt fanér.",
+        "contact": {
+            "office": "Träimport, Norrköping",
+            "phone": [
+                "23784"
+            ],
+            "postgiro": "9917"
+        },
+        "financials": {
+            "employees": 44
+        },
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 4
+    },
+    "4": {
+        "name": "AB. Norrköpings Varv & Verkstad",
+        "location": "Norrköping",
+        "description": "Varv och mek. verkstad vid Karlsro, Norrköping. Utför fartygsreparationer samt nybyggen av fartyg; tillverkar järnkonstruktioner till broar och vägportar, räcken och kantskoningar, plåtslageri-.arbeten såsom cisterner samt maskinarbeten m. m.",
+        "contact": {
+            "office": "Karlsro, Norrköping",
+            "phone": [
+                "20466",
+                "24778"
+            ],
+            "postgiro": "84417"
+        },
+        "financials": {
+            "capital": 30000,
+            "employees": 75,
+            "annual_turnover": 900000
+        },
+        "corporation_year": 1932,
+        "director": "kommendörkapten Olof Hedenström",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 4
+    },
+    "5": {
+        "name": "AB. Norrköpings Yllefabrik",
+        "location": "Norrköping",
+        "description": "Ylleväveri. Tillverkar kamgarnsvävna-der och blandyllevaror.",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [
+                "24999"
+            ],
+            "postgiro": "99107"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": 20,
+            "annual_turnover": 400000
+        },
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 4
+    },
+    "6": {
+        "name": "Norrlands Cementrörfabrik",
+        "location": "Sollefteå",
+        "description": "Betongvarufabrik vid övergård, Sollefteå (Västernorrl. l.). Tillverkar betongrör och andra betongvaror.",
+        "contact": {
+            "office": "Sollefteå",
+            "phone": [
+                "Sollefteå 380",
+                "240"
+            ],
+            "postgiro": "75376"
+        },
+        "financials": {
+            "employees": 11,
+            "annual_production_value": 200000
+        },
+        "coordinates": {
+            "Latitude": 63.1654065,
+            "Longitude": 17.277135
+        },
+        "cluster": 4
+    },
+    "7": {
+        "name": "AB. Norrlandshus",
+        "location": "Ange",
+        "description": "Trähusfabriker i Erikslund (AB. Erikslunds Ångsåg) (Västernorrl. l.), i Arvesund (Arvesunds Såg-förening u. p. a.) (Jämtl. l.), i Luleå (Norrbottens Träförädlings AB.) (se detta bolag), i Bräcke (AB. Bräcke Trähusfabrik) (se detta bolag) (Jämtl. l.) och i Orrviken (AB. Orrvikens Såg & Snickerifabrik) (se detta bolag) (Jämtl. l.). Tillverkar genom anslutna företag monteringsfärdiga trähus samt sågade och hyvlade trävaror.",
+        "contact": {
+            "office": "Ånge",
+            "phone": [
+                "150",
+                "151",
+                "205"
+            ],
+            "postgiro": "162022",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "202416"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 55000,
+            "annual_production_value": 3500000
+        },
+        "foundation_year": 1938,
+        "board": [
+            {
+                "name": "R. Flygt",
+                "role": "dir."
+            },
+            {
+                "name": "Gustaf Lindqvist",
+                "role": "disp."
+            },
+            {
+                "name": "K. H. Strand",
+                "role": "förvalt."
+            },
+            {
+                "name": "Rudolf Strand",
+                "role": "dir."
+            }
+        ],
+        "manager": "Rudolf Strand",
+        "sales_manager": "Helge N. Svensson",
+        "owners": [
+            "Förenade Trähusfabriker, Förening u. p. a."
+        ],
+        "coordinates": {
+            "Latitude": 62.4507705,
+            "Longitude": 15.3699659
+        },
+        "cluster": 4
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "1": {
+        "name": "Fllseryds Ackumulatorfabrik",
+        "location": "Fliseryd",
+        "business": "Ackumulatorer",
+        "contact": {
+            "office": "Fliseryd",
+            "postgiro": "87530",
+            "head_office": "Stockholm"
+        },
+        "financials": {
+            "capital": "41,000 kr",
+            "employees": {
+                "total": 27
+            },
+            "annual_turnover": "275,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 57.1280021,
+            "Longitude": 16.2644966
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Floby Industri AB.",
+        "location": "Floby",
+        "business": "Trätofflor, karosserier",
+        "contact": {
+            "office": "Floby",
+            "phone": [
+                "180",
+                "20"
+            ],
+            "postgiro": "87530",
+            "head_office": "Stockholm"
+        },
+        "financials": {
+            "capital": "41,000 kr",
+            "employees": {
+                "karosserifabriken": 22,
+                "total": 27
+            },
+            "annual_turnover": "275,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 58.1368068,
+            "Longitude": 13.337379
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Floby SSSketrikå",
+        "location": "Floby",
+        "business": "Herr- och damunderkläder",
+        "contact": {
+            "office": "Floby",
+            "phone": "80",
+            "postgiro": "93518"
+        },
+        "financials": {
+            "capital": "48,000 kr",
+            "employees": {
+                "total": 25
+            },
+            "annual_turnover": "460,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 58.1368068,
+            "Longitude": 13.337379
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "Floby Snickerifabrik",
+        "location": "Floby",
+        "business": "Byggnadssnickerier",
+        "coordinates": {
+            "Latitude": 58.1368068,
+            "Longitude": 13.337379
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "AB. Flobyverken",
+        "location": "Göteborg (Floby)",
+        "business": "Mekanisk verkstad",
+        "coordinates": {
+            "Latitude": 58.1368068,
+            "Longitude": 13.337379
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Flöda Parkettfabrik",
+        "location": "Flöda",
+        "business": "Parketttillverkning",
+        "coordinates": {
+            "Latitude": 57.80154100000001,
+            "Longitude": 12.3655998
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Sven Floréns Kravattlndustri AB.",
+        "location": "Kumla",
+        "business": "Slipsar, kravatter, butterflys and rosetter",
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        },
+        "cluster": 1
+    },
+    "8": {
+        "name": "AB. Floretta",
+        "location": "Stockholm",
+        "business": "Trikåfabrik",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "9": {
+        "name": "Flugeby Ullspinneri AB.",
+        "location": "Nässjö",
+        "business": "Allgarn och filtar",
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        },
+        "cluster": 1
+    },
+    "10": {
+        "name": "AB. Flygsfors Glasbruk",
+        "location": "Orrefors",
+        "business": "Glasbruk",
+        "coordinates": {
+            "Latitude": 56.8382325,
+            "Longitude": 15.7420197
+        },
+        "cluster": 1
+    }
+}

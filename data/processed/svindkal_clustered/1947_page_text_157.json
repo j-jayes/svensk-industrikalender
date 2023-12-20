@@ -1,0 +1,286 @@
+{
+    "1": {
+        "name": "Andersson",
+        "contact": {
+            "telegraph": "Mattfabriken, Kinna",
+            "phone": [
+                "10010",
+                "10610"
+            ],
+            "postgiro": "24632",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "102686"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "650,000 kr",
+            "employees": {
+                "industriarb": 135
+            },
+            "annual_turnover": "1,500,000 kr"
+        },
+        "foundation_year": 1889,
+        "corporation_year": 1925,
+        "board": [
+            {
+                "name": "John Thanell",
+                "role": "disp."
+            },
+            {
+                "name": "Erik Ludvig Anderson",
+                "role": "kontorist"
+            },
+            {
+                "name": "Gunnar Vetterlein",
+                "role": "gross-handl."
+            }
+        ],
+        "director": "John Thanell",
+        "managing_director": "Rudolf Melin (Borås)",
+        "cluster": 4
+    },
+    "2": {
+        "name": "N. Bernh. Anderssons Bokbinderi AB.",
+        "location": "Stockholm",
+        "products": "Tillverkar biblioteksband, lyxband, adresspärmar i maroquin, kalvskinn m. fl. skinnsorter, utför montering av spel-och skrivbord, pulpeter m. m.",
+        "contact": {
+            "office": "Mästersamuelsg. 23",
+            "phone": "109384",
+            "postgiro": "1639"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "140,000 kr"
+        },
+        "foundation_year": 1887,
+        "corporation_year": 1917,
+        "owners": [
+            "AB. Nordiska Kompaniet"
+        ],
+        "board": [
+            {
+                "name": "Rudolf Kalderén",
+                "role": "dir."
+            },
+            {
+                "name": "Ragnar Sachs",
+                "role": "dir."
+            },
+            {
+                "name": "O. Wickbom",
+                "role": "intendent"
+            }
+        ],
+        "manager": "Karl Andersson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "N. E. Andersson",
+        "location": "Malung",
+        "products": "Pälsberederi och skinnvarutillverkning i Malung (Kopparb. l.). Tillverkar militär-, sport- och bilpälsar, pälsmössor, skinntröjor och skinnkläder, handskar, skinnfällar och sovsäckar, tofflor av pälslammskinn, babyskor av skinn m. m.",
+        "contact": {
+            "phone": [
+                "15"
+            ],
+            "postgiro": "96800"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "375,000 kr"
+        },
+        "foundation_year": 1885,
+        "director": "Nygårds Anders Eriksson",
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "O. Andersson, Möbelfabrik",
+        "location": "Tibro",
+        "products": "Tillverkar möbler såsom bord, byråar, skåp, sekretärer, divanbord, hörnskåp och bokhyllor vid fabrik i Björkhamra, Tibro (Skarab. l.)",
+        "contact": {
+            "phone": "478",
+            "postgiro": "265588"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 5
+            },
+            "annual_turnover": "50,000 kr"
+        },
+        "foundation_year": 1942,
+        "manager": "Oskar Andersson",
+        "coordinates": {
+            "Latitude": 58.424323,
+            "Longitude": 14.1616418
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "R. Anderssons Snickerifabrik",
+        "location": "Skara",
+        "products": "Tillverkar inredningssnickerier, fönster och dörrar, köksinredningar, trappor m. m.",
+        "contact": {
+            "phone": "190",
+            "postgiro": "266021"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 7
+            }
+        },
+        "foundation_year": 1924,
+        "manager": "Ernst Rich. Andersson",
+        "coordinates": {
+            "Latitude": 58.3860128,
+            "Longitude": 13.4393282
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "AB. Robert Anderssons Konst-svarveri",
+        "location": "Värnamo",
+        "products": "Tillverkar svarveri artiklar och slöjd-alster. Specialiteter: träljusstakar, leksaker och handdukshängare",
+        "contact": {
+            "phone": "10109",
+            "postgiro": "269988",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "530948"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1907,
+        "corporation_year": 1944,
+        "board": [
+            {
+                "name": "Robert Andersson",
+                "role": "fabr."
+            },
+            {
+                "name": "Karl-Erik Aspler",
+                "role": "lagerchef"
+            },
+            {
+                "name": "Mauritz Svensson",
+                "role": "kontorschef"
+            }
+        ],
+        "director": "Robert Andersson",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "Samuel Andersson",
+        "location": "Tibro",
+        "products": "Tillverkar möbler vid fabrik i Tibro (Skarab. l.). Specialitet: björkmöbler",
+        "contact": {
+            "phone": "72",
+            "postgiro": "135720"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 13
+            },
+            "annual_turnover": "290,000 kr"
+        },
+        "foundation_year": 1898,
+        "manager": "Samuel Andersson",
+        "coordinates": {
+            "Latitude": 58.424323,
+            "Longitude": 14.1616418
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "Sven Andersson",
+        "location": "Ljungskile",
+        "products": "Tillverkar strumpor vid fabrik i Ljungskile (Göteb. o. Bohus l.)",
+        "contact": {
+            "telegraph": "Svenand, Ljungskile",
+            "phone": "32",
+            "postgiro": "83951"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 65
+            }
+        },
+        "foundation_year": 1932,
+        "manager": "Sven Andersson",
+        "coordinates": {
+            "Latitude": 58.222051,
+            "Longitude": 11.9182903
+        },
+        "cluster": 9
+    },
+    "9": {
+        "name": "Th. Andersson",
+        "location": "Dalsjöfors",
+        "products": "Tillverkar herrunderkläder i Lahmanns och interlockkvaliteter vid fabrik i Dalsjöfors (Älvsb. l.)",
+        "contact": {
+            "phone": "Borås 70021",
+            "postgiro": "91260"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "foundation_year": 1928,
+        "manager": "Theodor Andersson",
+        "coordinates": {
+            "Latitude": 57.7177221,
+            "Longitude": 13.1027254
+        },
+        "cluster": 9
+    },
+    "10": {
+        "name": "Thure Andersson, Möbelfabrik",
+        "location": "Tibro",
+        "products": "Tillverkar matsals- och sängkammarmöbler samt kompletteringsmöbler vid fabrik i Tibro (Skarab. l.)",
+        "contact": {
+            "phone": "225",
+            "postgiro": "85765"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "250,000 kr"
+        },
+        "foundation_year": 1931,
+        "manager": "Thure Andersson",
+        "coordinates": {
+            "Latitude": 58.424323,
+            "Longitude": 14.1616418
+        },
+        "cluster": 8
+    }
+}

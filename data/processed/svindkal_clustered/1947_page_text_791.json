@@ -1,0 +1,251 @@
+{
+    "1": {
+        "name": "Österlind—Östlund",
+        "location": "Fagersta",
+        "business": "Arrenderas av Fagersta Bruks AB",
+        "contact": {
+            "office": "Fagersta Bruks AB",
+            "phone": [
+                "Fagersta Bruk",
+                "Dannemora 25"
+            ],
+            "postgiro": "10035",
+            "head_office": "Fagersta",
+            "sales_offices": [
+                {
+                    "location": "österby-bruk",
+                    "phone": "Dannemora 25"
+                }
+            ],
+            "telegraph": "österlindson, Malmö"
+        },
+        "financials": {
+            "capital": "1,400,000 kr",
+            "foundation_year": 1937
+        },
+        "board": [
+            {
+                "name": "disp. Hj. Åselius",
+                "role": "(ordf.)"
+            },
+            {
+                "name": "dir. Nils Elfström",
+                "role": null
+            },
+            {
+                "name": "övering. Johan Palm",
+                "role": null
+            }
+        ],
+        "manager": "Johan Palm",
+        "coordinates": {
+            "Latitude": 59.989144,
+            "Longitude": 15.8166418
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Österlind & Son",
+        "location": "Tiohög",
+        "products": "Emaljskyltar, emaljerad belysningsarmatur, neonskyltar, vägmärken, pressningsarbeten och plåtmanufaktur m.m.",
+        "contact": {
+            "office": "österlindson, Malmö",
+            "phone": [
+                "Malmö 490610"
+            ],
+            "postgiro": "37607",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "420128"
+                }
+            ]
+        },
+        "financials": {
+            "foundation_year": 1912
+        },
+        "owners": [
+            "disp. R. österlind"
+        ],
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "AB. Alfred Österlunds Fabriker",
+        "location": "Malmö",
+        "business": "Lådfabrik",
+        "products": "Tillverkar lådor och låd-ämnen",
+        "contact": {
+            "office": "österlund, Malmö",
+            "phone": "20471",
+            "postgiro": "38284"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": "230,000 kr",
+            "foundation_year": 1902,
+            "corporation_year": 1917
+        },
+        "board": [
+            {
+                "name": "dir. Alfred österlund",
+                "role": "(ordf.)"
+            },
+            {
+                "name": "konsul Arvid P. Sjöberg",
+                "role": null
+            }
+        ],
+        "manager": "Alfred österlund",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Östersunds Ångbryggeri",
+        "location": "Östersund",
+        "business": "Tillverkar malt- och läskedrycker",
+        "contact": {
+            "office": "Ångbryggeriet, Östersund",
+            "phone": "Ångbryggeriet, Östersund",
+            "postgiro": "77400"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "2,400,000 kr"
+        },
+        "owners": [
+            "AB. Förenade Piano- & Orgelfabriker",
+            "Arvika"
+        ],
+        "manager": "disp. Einar Winström o. civiling. Gunnar Englund",
+        "coordinates": {
+            "Latitude": 63.1766832,
+            "Longitude": 14.6360681
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "östertälje Snickeri- & Trävaru AB.",
+        "location": "Östertälje",
+        "products": "Tillverkar sågade och hyvlade trävaror, byggnadssnickerier och monteringsfärdiga trähus vid fabrik i östertälje (Sthlms l.)",
+        "contact": {
+            "office": "Bosal, Södertälje",
+            "phone": [
+                "Södertälje 31173",
+                "Södertälje 31153"
+            ],
+            "postgiro": "34008"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "corporation_year": 1930
+        },
+        "manager": "Elof Bohestedt",
+        "sales_manager": "Vidar Sahlin",
+        "coordinates": {
+            "Latitude": 59.18372,
+            "Longitude": 17.6700865
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Östgöta Mattfabriks AB.",
+        "location": "Motala",
+        "business": "Tillverkar mattor",
+        "products": "Varumärke: »öst-göta-Mattan»",
+        "contact": {
+            "phone": "»Engel-Fabrikerna»",
+            "postgiro": "174620"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "owners": [
+            "Engel-koncernen",
+            "Motala"
+        ],
+        "manager": "Gösta Engel",
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "AB. Östlind & Almquist",
+        "location": "Arvika",
+        "business": "Piano- och orgelfabriker",
+        "products": "Tillverkar flyglar, pianon och orglar",
+        "contact": {
+            "office": "Orgelpiano, Arvika",
+            "phone": "14"
+        },
+        "financials": {
+            "capital": "425,000 kr",
+            "foundation_year": 1888,
+            "corporation_year": 1906
+        },
+        "board": [
+            {
+                "name": "disp. Alexis Anderson",
+                "role": null
+            },
+            {
+                "name": "dir. Karl Högberg",
+                "role": null
+            },
+            {
+                "name": "dir. Johan Sande J:or",
+                "role": null
+            }
+        ],
+        "manager": "Karl Högberg",
+        "coordinates": {
+            "Latitude": 59.6548534,
+            "Longitude": 12.592136
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. P. E. Östlunds Maskinfabrik",
+        "location": "Kungsör",
+        "business": "Tillverkar bagerimaskiner",
+        "products": "Uppslagningsmaskiner för knäckebröd, kakor och småbröd, handredskap m.m., velocipeddetaljer såsom skruv, mutter, nippel, axlar, konor, handtagsbeslag m.m.",
+        "contact": {
+            "office": "Maskiner, Kungsör",
+            "phone": "östlunds Maskinfabrik",
+            "postgiro": "26278"
+        },
+        "financials": {
+            "capital": "210,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 59.422397,
+            "Longitude": 16.097786
+        },
+        "cluster": 6
+    }
+}

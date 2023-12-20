@@ -1,0 +1,217 @@
+{
+    "1": {
+        "name": "Kaveltorps Malmfält, Kopparberg",
+        "location": "Västerås",
+        "business": "Svenska Metallverken",
+        "products": "mjukost, kaviar, majonnäs, sallader, marmelad och konserver",
+        "contact": {
+            "office": "Bergsundsstrand 31, Stockholm",
+            "phone": [
+                "440655"
+            ],
+            "postgiro": "157188",
+            "head_office": "Stockholm",
+            "sales_offices": [
+                {
+                    "location": "Göteborg",
+                    "phone": "194489"
+                },
+                {
+                    "location": "Malmö",
+                    "phone": "21232"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": 2000000,
+            "annual_production_value": 2000000
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "fru K. Kavli",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. O. Tern-ström",
+                "role": "Styrelse"
+            }
+        ],
+        "owner": "Knut Kavli",
+        "director": "Knut Kavli",
+        "sales_manager": "P. Broén",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Albert Keifer Strumpfabrik AB",
+        "location": "Malmö",
+        "business": "Strumpfabrik",
+        "products": "damstrumpor",
+        "contact": {
+            "office": "Lundavägen 17",
+            "phone": [
+                "17135"
+            ],
+            "postgiro": "38592"
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": 1000000,
+            "annual_production_value": 1000000
+        },
+        "foundation_year": 1934,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Albert Keifer",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. Carl Keijser & Co.",
+        "location": "Västerås",
+        "business": "Metallvarufabrik",
+        "contact": {
+            "office": "Västerås",
+            "phone": "30036",
+            "postgiro": "30058"
+        },
+        "financials": {
+            "capital": 90000,
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 250000,
+            "annual_production_value": 250000
+        },
+        "foundation_year": 1882,
+        "corporation_year": 1914,
+        "director": "Robert Keijser",
+        "manager": "Edward Keijser",
+        "coordinates": {
+            "Latitude": 59.60990049999999,
+            "Longitude": 16.5448091
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Kerna",
+        "location": "Stockholm",
+        "business": "kemisk-teknisk fabrikation",
+        "contact": {
+            "office": "Sveavägen 42",
+            "phone": [
+                "112809",
+                "112826",
+                "112848"
+            ]
+        },
+        "financials": {
+            "capital": 5500000,
+            "employees": {
+                "total_industriarb": 250
+            }
+        },
+        "foundation_year": 1929,
+        "board": [
+            {
+                "name": "fil. dr Harald NordensoB",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Sverre Bröholdt",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Rob. Ljunglöf",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Kembels Skofabriks AB",
+        "location": "Stockholm",
+        "business": "Skofabrik",
+        "products": "lyx- och promenadskor",
+        "contact": {
+            "office": "Magnus Ladulåsg. 11",
+            "phone": [
+                "411015"
+            ],
+            "postgiro": "53675"
+        },
+        "financials": {
+            "capital": 1000000,
+            "employees": {
+                "industriarb": 95
+            },
+            "annual_turnover": 1500000,
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1906,
+        "owner": "Kooperativa Förbundet",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Kemicano",
+        "location": "Stockholm",
+        "business": "Kem. tekn. fabriker",
+        "products": "salter, färger, ytoljor och konc. badlösningar för rostskyddsändamål",
+        "contact": {
+            "office": "Henriksdal",
+            "phone": [
+                "425000",
+                "435000"
+            ],
+            "postgiro": "273590"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": 375000,
+            "annual_production_value": 375000
+        },
+        "foundation_year": 1932,
+        "original_name": "Rostskyddsbolaget Lidén & Co.",
+        "board": [
+            {
+                "name": "civiling. C. F. Lidén",
+                "role": "Styrelse"
+            },
+            {
+                "name": "ing. Per Lidén",
+                "role": "Verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    }
+}

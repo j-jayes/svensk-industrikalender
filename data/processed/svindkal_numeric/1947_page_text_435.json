@@ -1,0 +1,213 @@
+{
+    "1": {
+        "name": "Kommanditbolaget Cleisner & Co",
+        "location": "Älghultsby",
+        "business": "Tillverkning av konservglas, medicinglas och eldfast glas",
+        "contact": {
+            "office": "Älghultsby",
+            "phone": [
+                "Älghult 6",
+                "Älghult 17"
+            ],
+            "postgiro": "90780",
+            "telegraph": "Gleisner, Älghultsby"
+        },
+        "financials": {
+            "annual_turnover": 970000,
+            "annual_production_value": 970000
+        },
+        "foundation_year": 1870,
+        "board": [
+            {
+                "name": "disp. Nils Gleisner",
+                "role": "Driftschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Kommanditbolaget Lövträ, Nils Elner & Co",
+        "location": "Arkelstorp",
+        "business": "Tillverkning av lövträ ämnen, plank, karamellpinnar, glasskedar, smördrittlar, träband, torkad sågspån",
+        "contact": {
+            "office": "Arkelstorp",
+            "phone": [
+                "37"
+            ],
+            "postgiro": "165614"
+        },
+        "financials": {
+            "annual_turnover": 700000
+        },
+        "foundation_year": 1934,
+        "board": [
+            {
+                "name": "Nils Elner",
+                "role": "Firmatecknare"
+            }
+        ],
+        "owners": [
+            "folkskollärare Nils Elner",
+            "dir. Josef Karlberg",
+            "greve C.-A. Trolle-Wachtmeister"
+        ],
+        "coordinates": {
+            "Latitude": 56.1747956,
+            "Longitude": 14.285259
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Kommanditbolaget Oskarshamns Kuvertfabrik, Friberg & C:oM",
+        "location": "Oskarshamn",
+        "business": "Tillverkning av kuvert av alla slag, konvolut, provsäckar, myntpåsar, massupplagor av korsbandskuvert",
+        "contact": {
+            "office": "Oskarshamn",
+            "phone": [
+                "3",
+                "633"
+            ],
+            "postgiro": "34040",
+            "telegraph": "Kuvertfriberg, Oskarshamn"
+        },
+        "financials": {
+            "annual_turnover": "Unknown"
+        },
+        "foundation_year": 1922,
+        "board": [
+            {
+                "name": "disp. Karl-Axel Friberg",
+                "role": "Chef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.26569929999999,
+            "Longitude": 16.4473984
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "Kommanditbolaget Repslageriet Holmlund & Co",
+        "location": "Örnsköldsvik",
+        "business": "Tillverkning av repvaror, hampaodling",
+        "contact": {
+            "office": "Örnsköldsvik",
+            "phone": [
+                "40133",
+                "40075"
+            ],
+            "postgiro": "63150"
+        },
+        "financials": {
+            "annual_turnover": "Unknown"
+        },
+        "foundation_year": 1940,
+        "board": [
+            {
+                "name": "fabr. Johan Holmlund",
+                "role": "Ägare o. chef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 63.29004740000001,
+            "Longitude": 18.7166166
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Kommunala Elverks AB i Katrineholm",
+        "location": "Katrineholm",
+        "business": "Distribuerar elektrisk energi till Katrineholms stad med omnejd",
+        "contact": {
+            "office": "Katrineholm",
+            "phone": [
+                "Elverket"
+            ],
+            "postgiro": "Unknown"
+        },
+        "financials": {
+            "capital": 30000,
+            "annual_turnover": 1200000
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "adv. Julius Lindström",
+                "role": "ordf."
+            }
+        ],
+        "director": "Julius Lindström",
+        "managing_director": "Eldon Bratt",
+        "manager": "Carl Ohlsson",
+        "coordinates": {
+            "Latitude": 58.99555109999999,
+            "Longitude": 16.2054756
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "Konfektions AB. Anér & Nilsson",
+        "location": "Stockholm",
+        "business": "Tillverkning av damkappor och damdräkter",
+        "contact": {
+            "office": "N. Smedjeg. 28",
+            "phone": [
+                "112850",
+                "206736"
+            ]
+        },
+        "financials": {
+            "capital": 70000,
+            "annual_turnover": 450000
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "disp. John Nilsson",
+                "role": "ordf."
+            }
+        ],
+        "director": "John Nilsson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Konfektions AB. Bröderna Stern",
+        "location": "Norrköping",
+        "business": "Tillverkning av herrkläder",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [
+                "Konfektions AB. Bröderna Stern"
+            ],
+            "postgiro": "11146"
+        },
+        "financials": {
+            "capital": 300000,
+            "annual_turnover": 400000
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "Mauritz Stern",
+                "role": "Verkst. direktör"
+            },
+            {
+                "name": "Karl Stern",
+                "role": "Verkst. direktör"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 9
+    }
+}

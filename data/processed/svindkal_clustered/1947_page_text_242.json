@@ -1,0 +1,203 @@
+{
+    "1": {
+        "name": "Dala-Husby Snickerifabrik",
+        "location": "Dala-Husby",
+        "business": "Tillverkar byggnadssnickerier såsom fönster och dörrar, trappor samt inredningar vid fabrik i Dala-Husby (Kopparb. l.)",
+        "contact": {
+            "office": "Dala-Husby",
+            "phone": [
+                "80"
+            ],
+            "postgiro": "94713",
+            "telegraph": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1923,
+        "owners": [
+            "And. Ragnås"
+        ],
+        "director": null,
+        "coordinates": {
+            "Latitude": 60.375244,
+            "Longitude": 16.010328
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Dalarnes Karamellfabrik",
+        "location": "Rättvik",
+        "business": "Tillverkar konfekt, praliner, karameller och pastiller samt saft och sylt vid fabrik i Rättvik (Kopparb. l.)",
+        "contact": {
+            "office": "Rättvik",
+            "phone": [
+                "2",
+                "104"
+            ],
+            "postgiro": "14770",
+            "telegraph": "Karamellbolaget, Rättvik"
+        },
+        "financials": {
+            "capital": "74,550 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "700,000 kr",
+            "annual_production_value": "3,000,000 kr"
+        },
+        "foundation_year": 1905,
+        "owners": [
+            "Karl Hallvares"
+        ],
+        "director": "Karl Hallvares",
+        "coordinates": {
+            "Latitude": 60.889025,
+            "Longitude": 15.123373
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Dalasågen",
+        "location": "Mora",
+        "business": "Sågverk, hyvleri och trähusfabrik i Mora (Kopparb. l.). Tillverkar sågade och hyvlade trävaror samt monteringsfärdiga trähus.",
+        "contact": {
+            "office": "Mora",
+            "phone": [
+                "5",
+                "419"
+            ],
+            "postgiro": "73707",
+            "telegraph": "Dalasågen, Mora",
+            "sales_offices": [
+                {
+                    "location": "Stockholm, Birger Jarlsg. 27",
+                    "phone": "»Svenska Trähus»"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 130
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1929,
+        "owners": null,
+        "director": null,
+        "coordinates": {
+            "Latitude": 61.004878,
+            "Longitude": 14.537003
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "AB. Dalby Siporexfabrik",
+        "location": "Dalby",
+        "business": "Tillverkar armerad och oarmerad siporex (lättbetong) i block, plattor och balkar vid fabrik i Dalby (Malmöh. l.)",
+        "contact": {
+            "office": "Dalby",
+            "phone": [
+                "Dalby 5",
+                "Lund 11805"
+            ],
+            "postgiro": "99468",
+            "telegraph": null
+        },
+        "financials": {
+            "capital": "1,020,000 kr",
+            "employees": {
+                "industriarb": 88
+            },
+            "annual_turnover": "3,000,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1935,
+        "owners": [
+            "ing. H. Linse"
+        ],
+        "director": null,
+        "coordinates": {
+            "Latitude": 55.6648168,
+            "Longitude": 13.3475569
+        },
+        "cluster": 0
+    },
+    "5": {
+        "name": "Dalby Stenkross AB.",
+        "location": "Dalby",
+        "business": "Granitbrott och stenkrossanläggningar i Dalby (Malmöh. l.). Tillverkar makadam för väglagnings- och byggnadsändamål.",
+        "contact": {
+            "office": "Dalby",
+            "phone": [
+                "Dalby 5",
+                "Lund 11805"
+            ],
+            "postgiro": "15129",
+            "telegraph": null
+        },
+        "financials": {
+            "capital": "1,020,000 kr",
+            "employees": {
+                "industriarb": 66
+            },
+            "annual_turnover": "600,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1914,
+        "owners": [
+            "dir. Ernst Wehtje",
+            "ing. H. Linse",
+            "dir. Fredrik Wehtje",
+            "ryttm. Hugo Wehtje",
+            "dir. Walter Wehtje"
+        ],
+        "director": null,
+        "coordinates": {
+            "Latitude": 55.6648168,
+            "Longitude": 13.3475569
+        },
+        "cluster": 0
+    },
+    "6": {
+        "name": "AB. Dalhems Väfveri",
+        "location": "Borås",
+        "business": "Tillverkar kulörta konstsilke- och bomullsvävnader.",
+        "contact": {
+            "office": "Borås",
+            "phone": [
+                "10022"
+            ],
+            "postgiro": null,
+            "telegraph": "Dalhem, Borås"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 105
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": null
+        },
+        "foundation_year": 1913,
+        "owners": [
+            "lär. K. Elfman",
+            "dir. Clas Erikson",
+            "disp. Ivar H. Nilsson",
+            "överstelöjtnanten frih. Nils S. Åkerhielm"
+        ],
+        "director": null,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    }
+}

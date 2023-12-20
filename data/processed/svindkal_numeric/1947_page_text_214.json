@@ -1,0 +1,249 @@
+{
+    "1": {
+        "name": "Bröderna Johansson Skofabrik",
+        "location": "Kumla",
+        "business": "Tillverkar barn-, goss- och flickskodon",
+        "contact": {
+            "phone": [
+                "Örebro 73065"
+            ],
+            "postgiro": "130701"
+        },
+        "financials": {
+            "capital": "Ej tillgänglig",
+            "employees": {
+                "industriarb": 17
+            },
+            "annual_turnover": 200000,
+            "annual_production_value": 200000
+        },
+        "foundation_year": 1924,
+        "owners": [
+            "fabr. Thure Johansson",
+            "fabr. Thorsten Johansson"
+        ],
+        "coordinates": {
+            "Latitude": 59.12653590000001,
+            "Longitude": 15.1401053
+        },
+        "cluster": 1
+    },
+    "2": {
+        "name": "Bröderna Johansson, Snickerifabrik",
+        "location": "Osby",
+        "business": "Tillverkar byggnadssnickerier, såsom fönster, dörrar, trappor samt köksinredning",
+        "contact": {
+            "phone": [
+                "114"
+            ],
+            "postgiro": "266081"
+        },
+        "financials": {
+            "capital": "Ej tillgänglig",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": 90000,
+            "annual_production_value": 90000
+        },
+        "foundation_year": 1924,
+        "owners": [
+            "fabr. Helge Johansson",
+            "fabr. David Johansson"
+        ],
+        "coordinates": {
+            "Latitude": 56.3815355,
+            "Longitude": 13.9929413
+        },
+        "cluster": 8
+    },
+    "3": {
+        "name": "AB. Bröderna Johanssons Stol- & Möbelfabrik",
+        "location": "Virserum",
+        "business": "Tillverkar stolar och fåtöljer",
+        "contact": {
+            "phone": [
+                "78"
+            ],
+            "postgiro": "15204"
+        },
+        "financials": {
+            "capital": 140000,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1940,
+        "board": [
+            {
+                "name": "fru F. Johansson",
+                "role": "ordf."
+            },
+            {
+                "name": "med. kand. Sivert Schiller",
+                "role": null
+            },
+            {
+                "name": "fru Karin Thorén",
+                "role": null
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.3199949,
+            "Longitude": 15.5812344
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "Bröderna Josefssons Trlkåfabrik",
+        "location": "Borås",
+        "business": "Tillverkar herrunderkläder, jumpers, slipovers, herrvästar m.m.",
+        "contact": {
+            "phone": [
+                "12801"
+            ],
+            "postgiro": "290296"
+        },
+        "financials": {
+            "capital": "Ej tillgänglig",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": 400000,
+            "annual_production_value": 400000
+        },
+        "foundation_year": 1945,
+        "owners": [
+            "fabr. Karl H. Josefsson",
+            "fabr. Runo Josefsson"
+        ],
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Bröderna Kanold AB.",
+        "location": "Göteborg",
+        "business": "Choklad- och konfektfabrik. Tillverkar choklad, kakao, konfekt, karameller, lakrits, wafers och marmelad",
+        "contact": {
+            "phone": [
+                "Göteborg 5"
+            ],
+            "postgiro": "42424",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "501794"
+                }
+            ]
+        },
+        "financials": {
+            "capital": 4003000,
+            "employees": {
+                "industriarb": 162
+            },
+            "annual_turnover": 4000000,
+            "annual_production_value": 4000000
+        },
+        "foundation_year": 1901,
+        "corporation_year": 1921,
+        "owners": [
+            "ad v. Torsten Setterberg",
+            "disp. Edward Kanold",
+            "dir. Fred G. Kanold",
+            "disp. Raymond Kanold",
+            "grossh. J. Walthén"
+        ],
+        "director": "Fred G. Kanold",
+        "managing_director": false,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "6": {
+        "name": "Bröderna Karlssons Snickerifabrik",
+        "location": "Laholm",
+        "business": "Tillverkar fönster, dörrar, trappor, köks-, butiks- och kyrkoinredningar samt paneler och listverk. Firman driver även försäljning av träfiberplattor",
+        "contact": {
+            "phone": [
+                "113"
+            ],
+            "postgiro": "76448"
+        },
+        "financials": {
+            "capital": "Ej tillgänglig",
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": 124000,
+            "annual_production_value": 124000
+        },
+        "foundation_year": 1926,
+        "owners": [
+            "fabr. Einar Karlsson",
+            "fabr. Tage Karlson",
+            "fabr. Arne Carlson"
+        ],
+        "coordinates": {
+            "Latitude": 56.50575569999999,
+            "Longitude": 13.0456048
+        },
+        "cluster": 8
+    },
+    "7": {
+        "name": "Bröderna Karlssons Verkstads AB.",
+        "location": "Enköping",
+        "business": "Tillverkar elektr. kaffekvarnar, uppskivningsmaskiner för matvaror, ställ för frukt",
+        "products": "påsar, pappersrullar, tidningar m. m. samt filtrerpressar för oljerening. Varumärke: »BKV»",
+        "contact": {
+            "phone": [
+                "255"
+            ],
+            "postgiro": "95310"
+        },
+        "financials": {
+            "capital": 32200,
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": 300000,
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1915,
+        "corporation_year": 1920,
+        "managing_director": "fabr. Aug. Karlsson",
+        "manager": "Eric Tilling",
+        "coordinates": {
+            "Latitude": 59.63569090000001,
+            "Longitude": 17.0778228
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "AB. Bröderna Kjellström",
+        "location": "Stockholm",
+        "description": "Se AB. Instrumentverken, Stockholm",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 4
+    },
+    "9": {
+        "name": "AB. Bröderna Kristiansson & C:o-",
+        "location": "Gravame",
+        "business": "Konservfabrik i Gravarne",
+        "coordinates": {
+            "Latitude": 60.12816100000001,
+            "Longitude": 18.643501
+        },
+        "cluster": 1
+    }
+}

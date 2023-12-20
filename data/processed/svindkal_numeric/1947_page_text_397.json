@@ -1,0 +1,417 @@
+{
+    "1": {
+        "name": "Witalis Jansson & Co.",
+        "location": "Karlstad",
+        "business": "Sågverk och hyvleri (Kanikenässågen)",
+        "products": "Tillverkar sågade och hyvlade trävaror",
+        "contact": {
+            "office": null,
+            "phone": [
+                "11626",
+                "14626"
+            ],
+            "postgiro": "75122",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": null,
+            "annual_production_value": "2,000 stds trävaror"
+        },
+        "foundation_year": 1933,
+        "owners": [
+            "sågverksäg. Witalis Jansson",
+            "sågverksäg. John Westlund"
+        ],
+        "board": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "AB. japana",
+        "location": "Göteborg",
+        "business": "Färg- och fernissfabrik i Margretedal",
+        "products": "Tillverkar linoleumfernissor, kopal- och spritfernissor, lack-, olje-, emulsions- och spritfärger, brytningsfärger i tuber, spackelfärg samt färgborttagningsmedel",
+        "contact": {
+            "office": "Margretedal",
+            "phone": [
+                "166273",
+                "185176",
+                "186794"
+            ],
+            "postgiro": "25589",
+            "head_office": null,
+            "sales_offices": [
+                {
+                    "location": "Malmö",
+                    "phone": "33355"
+                }
+            ],
+            "telegraph": "Japana",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_turnover": 1200000,
+            "annual_production_value": null
+        },
+        "foundation_year": 1920,
+        "owners": null,
+        "board": [
+            {
+                "name": "dir. Ivar Körner",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Elof Wilhelmsson",
+                "role": null
+            }
+        ],
+        "director": "I. Körner",
+        "managing_director": null,
+        "sales_manager": "Helge Olausson",
+        "manager": "Lennart Lundberg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "AB. Jawe",
+        "location": "Göteborg",
+        "business": "Konfektionsfabrik",
+        "products": "Tillverkar barn-och sportkläder",
+        "contact": {
+            "office": "Wollins Trappor",
+            "phone": [
+                "126392"
+            ],
+            "postgiro": "43581",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Jawe",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 10000,
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1933,
+        "owners": null,
+        "board": [
+            {
+                "name": "dir. ThorbjÖrn Holm",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Fredrik Holm",
+                "role": null
+            }
+        ],
+        "director": "Thorbjörn Holm",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "N. Chr. Jensen, Trävaru AB.",
+        "location": "Karlstad",
+        "business": "Se Trävaru AB. N. Chr. Jensen, Karlstad",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": null,
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": null,
+        "foundation_year": null,
+        "owners": null,
+        "board": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 7
+    },
+    "5": {
+        "name": "Jerfeds Mek. Verkstads AB.",
+        "location": "Örnsköldsvik",
+        "business": "Mek, verkstad i Örnsköldsvik samt plåtslageri och varv vid Bonässund",
+        "products": "Tillverkar maskiner för cellulosaindustrien samt för flottningsleder, bygger och reparerar båtar",
+        "contact": {
+            "office": null,
+            "phone": [
+                "2026"
+            ],
+            "postgiro": "62885",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": "Jerfeds",
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 150000,
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1878,
+        "owners": null,
+        "board": [
+            {
+                "name": "dir. Carl Kempe",
+                "role": null
+            },
+            {
+                "name": "fil. dr Erik Kempe",
+                "role": null
+            },
+            {
+                "name": "disp. Erik Wiklund",
+                "role": null
+            }
+        ],
+        "director": null,
+        "managing_director": "Erik Wiklund",
+        "sales_manager": null,
+        "manager": "Sixten Berglöf",
+        "coordinates": {
+            "Latitude": 63.29004740000001,
+            "Longitude": 18.7166166
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Jerie Torf AB.",
+        "location": "Järle",
+        "business": "Torvströfabrik och sågverk i Ervalla",
+        "products": "Tillverkar torvströ och torvmull samt sågade trävaror",
+        "contact": {
+            "office": null,
+            "phone": [
+                "Närkes Järle 5"
+            ],
+            "postgiro": "166954",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": 100000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": null,
+            "annual_production_value": 100000
+        },
+        "foundation_year": 1889,
+        "owners": null,
+        "board": [
+            {
+                "name": "fil. dr K. G. Giöbel",
+                "role": "ordf."
+            },
+            {
+                "name": "agronom Henning Hedberg",
+                "role": null
+            },
+            {
+                "name": "byggm. Hj. Selin",
+                "role": null
+            }
+        ],
+        "director": "Henning Hedberg",
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.517329,
+            "Longitude": 15.1497463
+        },
+        "cluster": 7
+    },
+    "7": {
+        "name": "Jerlins Konfektfabrik",
+        "location": "Hudiksvall",
+        "business": "Tillverkar konfektyrer och karameller",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": [
+                "49"
+            ],
+            "postgiro": "79930",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": 1889,
+        "owners": [
+            "fru K. Jerlin",
+            "fabr. Ernst Jerlin"
+        ],
+        "board": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 61.7273909,
+            "Longitude": 17.107401
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "AB. Magnus Jernberg",
+        "location": "Karlstad",
+        "business": "Se Lavoné-fabriken, AB. Magnus Jernberg, Karlstad",
+        "products": null,
+        "contact": {
+            "office": null,
+            "phone": null,
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": null,
+        "foundation_year": null,
+        "owners": null,
+        "board": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 59.4021806,
+            "Longitude": 13.5114977
+        },
+        "cluster": 1
+    },
+    "9": {
+        "name": "Sven Jesperssons Snickerifabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar möbler, vånings-, bank- och butiksinredningar, byggnadssnickerier m. m. samt lamelldörrar enl. eget patent",
+        "products": null,
+        "contact": {
+            "office": "Surbrunnsg. 44",
+            "phone": [
+                "332490",
+                "302250"
+            ],
+            "postgiro": "154344",
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": {
+                "industriarb": 42
+            },
+            "annual_turnover": null,
+            "annual_production_value": 500000
+        },
+        "foundation_year": 1903,
+        "owners": null,
+        "board": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": "fabr. Sven Jespersson",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 8
+    },
+    "10": {
+        "name": "Ji-Te AB.",
+        "location": "Åstorp",
+        "business": "Träförädlingsfabrik i Åstorp (Kristianst. l.)",
+        "products": "Tillverkar lamelldörrar med karmar, trämjöl, tunnstav och bottnar, speciellt för smördrittlar samt bilved. Firman driver jämväl handelsrörelse med trävaror och byggnadsmaterialier samt tunnband",
+        "contact": {
+            "office": null,
+            "phone": [
+                "259"
+            ],
+            "postgiro": null,
+            "head_office": null,
+            "sales_offices": null,
+            "telegraph": null,
+            "factory_office": null,
+            "factory_phone": null
+        },
+        "financials": {
+            "capital": null,
+            "employees": null,
+            "annual_turnover": null,
+            "annual_production_value": null
+        },
+        "foundation_year": null,
+        "owners": null,
+        "board": null,
+        "director": null,
+        "managing_director": null,
+        "sales_manager": null,
+        "manager": null,
+        "coordinates": {
+            "Latitude": 56.134262,
+            "Longitude": 12.945908
+        },
+        "cluster": 7
+    }
+}

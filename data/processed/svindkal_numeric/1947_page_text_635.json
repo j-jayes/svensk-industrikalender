@@ -1,0 +1,252 @@
+{
+    "1": {
+        "name": "T. D. Smith AB",
+        "location": "Stockholm",
+        "business": "Radiofabrik",
+        "products": "Tillverkar radioapparater, förstärkareanläggningar och snabbtelefoner",
+        "contact": {
+            "office": "Humlegårdsg. 17",
+            "phone": [
+                "600404",
+                "600421"
+            ],
+            "postgiro": "194700",
+            "telegraph": "Radiosmith, Stockholm"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1943,
+        "board": [
+            {
+                "name": "Tom Smith",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Sture Hedlund",
+                "role": "Försäljn.-chef"
+            },
+            {
+                "name": "Claes Jansson",
+                "role": "Driftsing."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "Smålands Bandfabrik, Lemke & Söner",
+        "location": "Skillingaryd",
+        "business": "Tillverkar bomulls- och eellullband",
+        "products": "axelband, korsettband, garnering- och spensband, spetsar, möbel- och lampskärmsband, band för reseffekter, indiaband, möbelsnören m. m.",
+        "contact": {
+            "phone": "47",
+            "postgiro": "92433"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 10
+            },
+            "annual_production_value": 120000
+        },
+        "foundation_year": 1934,
+        "owners": [
+            "fabr. Otto Lemke",
+            "verkm. Ernst Lemke",
+            "textiltekniker Waldemar Lemke",
+            "kontorist Rolf Lemke"
+        ],
+        "coordinates": {
+            "Latitude": 57.43058180000001,
+            "Longitude": 14.0938696
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "A B. Smålands Bryggerier",
+        "location": "Jönköping",
+        "business": "Bryggeri och läskedrycksfabrik",
+        "products": "Tillverkar maltdrycker, kolsyrade vatten och söta läskedrycker",
+        "contact": {
+            "phone": "Krönleins Bryggeri: N/A, Eksjö: 24, 116",
+            "postgiro": "134420"
+        },
+        "financials": {
+            "capital": 1300000,
+            "employees": {
+                "i Jönköping": 47,
+                "i Eksjö": 17
+            },
+            "annual_turnover": 2000000
+        },
+        "corporation_year": 1929,
+        "board": [
+            {
+                "name": "disp. Franz Hartmann",
+                "role": "ordf."
+            },
+            {
+                "name": "fru Maj Egnell",
+                "role": "N/A"
+            },
+            {
+                "name": "bryggm. Per-Gösta Egnell",
+                "role": "N/A"
+            },
+            {
+                "name": "fil. lic. John Lennart Hartmann",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Smålands Kraft AB",
+        "location": "Nässjö",
+        "business": "Elektr. kraftverk",
+        "products": "Distribuerar elektr. energi",
+        "contact": {
+            "office": "Nässjö",
+            "phone": "Nässjö 523",
+            "postgiro": "30880"
+        },
+        "financials": {
+            "capital": 5400000,
+            "annual_turnover": 2900000
+        },
+        "foundation_year": 1918,
+        "owners": [
+            "AB. Skandinaviska Elektricitetsverk"
+        ],
+        "coordinates": {
+            "Latitude": 57.65303549999999,
+            "Longitude": 14.6967247
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Smålands Skoindustri",
+        "location": "Ljungby",
+        "business": "Tillverkar skodon",
+        "products": "N/A",
+        "contact": {
+            "phone": "306, 616",
+            "postgiro": "76181"
+        },
+        "financials": {
+            "capital": 60000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 700000
+        },
+        "foundation_year": 1931,
+        "board": [
+            {
+                "name": "disp. Gustaf Magnusson",
+                "role": "N/A"
+            },
+            {
+                "name": "fabr. Gunnar Peterson",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.8338774,
+            "Longitude": 13.9410417
+        },
+        "cluster": 9
+    },
+    "6": {
+        "name": "AB. Smålands Taberg",
+        "location": "Hedemora",
+        "business": "Gruvdrift",
+        "products": "Bryter järnmalm",
+        "contact": {
+            "phone": "749",
+            "postgiro": "159006"
+        },
+        "financials": {
+            "capital": 800000,
+            "employees": {
+                "industriarb": 15
+            }
+        },
+        "foundation_year": 1939,
+        "board": [
+            {
+                "name": "disp. Algot Goldkuhl",
+                "role": "ordf."
+            },
+            {
+                "name": "ombudsm. Birger Barth-Magnus",
+                "role": "N/A"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.2775453,
+            "Longitude": 15.985892
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Smålands Vaddindustri",
+        "location": "Eksjö",
+        "business": "Tillverkar vadd, flock, madrasser m. m.",
+        "products": "N/A",
+        "contact": {
+            "phone": "244",
+            "postgiro": "98165"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 4
+            },
+            "annual_production_value": 30000
+        },
+        "foundation_year": 1929,
+        "owners": [
+            "fabr. Arvid Forsgren"
+        ],
+        "coordinates": {
+            "Latitude": 57.6172,
+            "Longitude": 15.22155
+        },
+        "cluster": 8
+    },
+    "8": {
+        "name": "Smålands Yllefabriks AB",
+        "location": "Lagan",
+        "business": "Ullspinneri, väveri, färgeri, vadd-",
+        "products": "Tillverkar garner, ylletyger, filtar, vadd, täcken och madrasser m. m.",
+        "contact": {
+            "phone": "1, 25, 50, 75",
+            "postgiro": "14900"
+        },
+        "financials": {
+            "capital": 390000,
+            "employees": {
+                "industriarb": 200
+            },
+            "annual_production_value": 3000000
+        },
+        "foundation_year": 1914,
+        "coordinates": {
+            "Latitude": 56.9137654,
+            "Longitude": 13.9874716
+        },
+        "cluster": 3
+    }
+}

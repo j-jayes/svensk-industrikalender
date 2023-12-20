@@ -1,0 +1,177 @@
+{
+    "1": {
+        "name": "Silfors Sågverks AB.",
+        "location": "Alfta",
+        "business": "Tillverkar sågade och hyvlade trävaror",
+        "contact": {
+            "telegraph": "Silfors, Bollnäs",
+            "phone": [
+                "Långhed 10"
+            ],
+            "postgiro": "80486"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 180
+            },
+            "foundation_year": 1938
+        },
+        "coordinates": {
+            "Latitude": 61.34444680000001,
+            "Longitude": 16.0604207
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "Warner Silfversparres Grafiska AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar klichéer och kautschukstämplar",
+        "contact": {
+            "office": "Herkulesgatan 22",
+            "phone": [
+                "231330"
+            ],
+            "postgiro": "2667"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_turnover": "300,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "3": {
+        "name": "Siljans Sågverks AB.",
+        "location": "Mora Noret",
+        "business": "Tillverkar sågade och hyvlade trävaror samt träkol och trätjära",
+        "contact": {
+            "telegraph": "Siljanssågen, Mora",
+            "phone": [
+                "Mora 55",
+                "248"
+            ],
+            "postgiro": "6000"
+        },
+        "financials": {
+            "capital": "215,500 kr",
+            "employees": {
+                "industriarb": 115
+            },
+            "annual_production_value": "3,000 stds"
+        },
+        "coordinates": {
+            "Latitude": 61.00748549999999,
+            "Longitude": 14.5860182
+        },
+        "cluster": 7
+    },
+    "4": {
+        "name": "Silkefabriks AB. Astra",
+        "location": "Smålands Annéberg",
+        "business": "Konstsilkeväveri och konfektionsfabrik",
+        "contact": {
+            "telegraph": "Silkastra, Nässjö",
+            "phone": [
+                "Nässjö 611",
+                "Smålands Anneberg 20"
+            ],
+            "postgiro": "97455",
+            "sales_offices": [
+                {
+                    "location": "Vetlanda",
+                    "phone": "586"
+                }
+            ]
+        },
+        "financials": {
+            "capital": "35,000 kr",
+            "employees": {
+                "industriarb": 110
+            },
+            "annual_production_value": "1,800,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 57.716667,
+            "Longitude": 14.8
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "AB. Siikemanufaktur",
+        "location": "Stockholm",
+        "business": "Silkeväveri och konfektionsfabrik",
+        "contact": {
+            "office": "Igeldammsg. 24",
+            "phone": "508537",
+            "postgiro": "520.26"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "300,000 kr"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Sillbo Tegelbruk",
+        "location": "Huddungeby",
+        "business": "Tillverkar tak- och murtegel samt dräneringsrör",
+        "contact": {
+            "phone": "Huddungeby 7"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 20
+            }
+        },
+        "coordinates": {
+            "Latitude": 60.0503631,
+            "Longitude": 16.9865039
+        },
+        "cluster": 0
+    },
+    "7": {
+        "name": "AB. Sillkungens Konservfabriker",
+        "location": "Skärhamn",
+        "business": "Tillverkar ansjovis, gaffelbitar och kaviar",
+        "contact": {
+            "office": "Lysekil",
+            "fabrikskontor": "Skärhamn",
+            "phone": "73",
+            "postgiro": "85735"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "coordinates": {
+            "Latitude": 57.99105739999999,
+            "Longitude": 11.5482426
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "Silver- & Nysilver AB. Skandia",
+        "location": "Stockholm",
+        "business": "Utför försilvring och polering av skedar, knivar, gafflar, skålar, fat m. m.",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    }
+}

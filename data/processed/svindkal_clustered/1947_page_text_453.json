@@ -1,0 +1,253 @@
+{
+    "1": {
+        "name": "AB. Källe-Regulatorer",
+        "location": "Säffle",
+        "business": "Finmek. verkstad",
+        "products": "Tillverkar regulatorer och instrument för automatisk driftskontroll för bl. a. pappers- och cellulosaindustrier såsom automat, regulatorer för konstant ångtryck, gastryck, temperatur, nivå, konsistens, effekt, vattenhalt etc., matarvat-tenregulatorer, eldningsregulatorer, ång-kylare; fjärrnivåvisare m. m.",
+        "contact": {
+            "office": "Säffle",
+            "phone": [
+                "369",
+                "549"
+            ],
+            "postgiro": "96320",
+            "telegraph": "Källo"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": "400,000 kr"
+        },
+        "foundation_year": 1931,
+        "corporation_year": 1943,
+        "director": "Hans Rassmussen",
+        "manager": "Sigvard Wikersfors",
+        "coordinates": {
+            "Latitude": 59.132661,
+            "Longitude": 12.930107
+        },
+        "cluster": 6
+    },
+    "2": {
+        "name": "AB. C. A. Mörck",
+        "location": "Göteborg",
+        "business": "Biokemisk industri",
+        "products": "Tillverkar läkemedel, livsmedel och fodermedel samt industrihjälpmedel och halvfabrikat för läkemedelsfabriker, bryggerier, bagerier, konditorier, konfityrfabriker, garverier, skofabriker, gjuterier och textilfabriker.",
+        "contact": {
+            "office": "Göteborg, Kungsg. 46",
+            "phone": "132540—42"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "arb.-antal": 40
+            }
+        },
+        "foundation_year": 1922,
+        "director": "civiling. Torsten Källe",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Kärnbolaget AB.",
+        "location": "Stockholm",
+        "business": "Biokemisk industri",
+        "products": "Tillverkar läkemedel, livsmedel och fodermedel samt industrihjälpmedel och halvfabrikat för läkemedelsfabriker, bryggerier, bagerier, konditorier, konfityrfabriker, garverier, skofabriker, gjuterier och textilfabriker.",
+        "contact": {
+            "office": "Nordenflychtsvägen 53, Hornsberg",
+            "phone": "520450",
+            "postgiro": "58002"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "anställda": 150
+            },
+            "annual_production_value": "3,900,000 kr"
+        },
+        "foundation_year": 1931,
+        "owners": [
+            "AB. Stockholms Bryggerier"
+        ],
+        "board": [
+            {
+                "name": "Sven Schwartz",
+                "role": "ordf."
+            },
+            {
+                "name": "Martin Ahlstrand",
+                "role": "dir."
+            },
+            {
+                "name": "Harald Engström",
+                "role": "dir."
+            },
+            {
+                "name": "Harry Lundin",
+                "role": "fil. dr"
+            }
+        ],
+        "director": "S. Schwartz",
+        "managing_director": "D. Isaksson",
+        "sales_manager": "E. Branell",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "4": {
+        "name": "Kävlinge Clacéläderfabrik",
+        "location": "Kävlinge",
+        "business": "Läderfabrik",
+        "coordinates": {
+            "Latitude": 55.7939999,
+            "Longitude": 13.1104293
+        },
+        "cluster": 9
+    },
+    "5": {
+        "name": "Kävlinge Väveri AB.",
+        "location": "Kävlinge",
+        "business": "Väveri, blekeri och appreturverk",
+        "products": "Tillverkar linne- och sidenvävnader. Varumärke: \"Granit-linne\".",
+        "contact": {
+            "phone": [
+                "1",
+                "35"
+            ],
+            "postgiro": "93427"
+        },
+        "financials": {
+            "capital": "560,000 kr",
+            "employees": {
+                "industriarb.": 150
+            },
+            "annual_production_value": "3,500,000 kr"
+        },
+        "foundation_year": 1935,
+        "board": [
+            {
+                "name": "Ingemar Ekblom",
+                "role": "ordf."
+            },
+            {
+                "name": "B. Engzell",
+                "role": "kamrer"
+            },
+            {
+                "name": "Filip Henrikson",
+                "role": "köpm."
+            },
+            {
+                "name": "Ernst Scholtz",
+                "role": "disp."
+            },
+            {
+                "name": "Oscar Scholtz",
+                "role": "ing."
+            },
+            {
+                "name": "Gösta Skoglund",
+                "role": "köpm."
+            }
+        ],
+        "director": "I. Ekblom",
+        "managing_director": "Oscar Scholtz",
+        "coordinates": {
+            "Latitude": 55.7939999,
+            "Longitude": 13.1104293
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Kölefors Vaddfabrik",
+        "location": "Kölefors",
+        "business": "Vaddfabrik",
+        "products": "Tillverkar flock och vadd till täcken och madrasser samt för stoppning av möbler vid fabrik i Kölefors (Östergötl. 1.).",
+        "contact": {
+            "phone": "Kisa 36",
+            "postgiro": "25990"
+        },
+        "employees": {
+            "industriarb.": 2
+        },
+        "foundation_year": 1937,
+        "manager": "Karl Erik Fransson",
+        "coordinates": {
+            "Latitude": 58.03610690000001,
+            "Longitude": 15.6603421
+        },
+        "cluster": 3
+    },
+    "7": {
+        "name": "AB. Köpings Armaturfabrik",
+        "location": "Köping",
+        "business": "Tillverkar armatur för gas, vatten, värme och ånga",
+        "products": "Förnicklad och förkromad sanitetsarmatur samt metallgjutgods.",
+        "contact": {
+            "phone": [
+                "406",
+                "806"
+            ],
+            "postgiro": "13099"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb.": 200
+            },
+            "annual_production_value": "2,400,000 kr"
+        },
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Carl Nyqvist",
+                "role": "ombudsm."
+            },
+            {
+                "name": "P. Ekström",
+                "role": "ing."
+            },
+            {
+                "name": "Ewert Johnsson",
+                "role": "dir."
+            },
+            {
+                "name": "Birger Nyqvist",
+                "role": "ing."
+            },
+            {
+                "name": "A. Vanas",
+                "role": "jur. kand."
+            }
+        ],
+        "director": "Ewert Johnsson",
+        "coordinates": {
+            "Latitude": 59.5120962,
+            "Longitude": 15.9945102
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "Köpings Bryggeri AB.",
+        "location": "Köping",
+        "business": "Bryggeri",
+        "products": "Tillverkar malt-och läskedrycker.",
+        "contact": {
+            "telegraph": "Bryggeribolaget",
+            "phone": "5",
+            "postgiro": "80618"
+        },
+        "coordinates": {
+            "Latitude": 59.5120962,
+            "Longitude": 15.9945102
+        },
+        "cluster": 2
+    }
+}

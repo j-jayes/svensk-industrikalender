@@ -1,0 +1,271 @@
+{
+    "1": {
+        "name": "AB. Holms Skeppsvarv",
+        "location": "Råå, Hälsingborg",
+        "business": "Bygger träfartyg för fraktfart, fiskefartyg och andra båtar",
+        "contact": {
+            "office": "Hälsingborg",
+            "phone": [
+                "90140"
+            ],
+            "postgiro": "13951"
+        },
+        "financials": {
+            "capital": "125,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "200,000 kr",
+            "annual_production_value": "200,000 kr"
+        },
+        "foundation_year": 1899,
+        "corporation_year": 1902,
+        "current_name_year": 1920,
+        "board": [
+            {
+                "name": "konsul Anton Hof vendahl",
+                "role": "ordf."
+            },
+            {
+                "name": "järnhandl. John Holm",
+                "role": "disp."
+            },
+            {
+                "name": "disp. Åke Holm",
+                "role": "disp."
+            }
+        ],
+        "director": "Åke Holm",
+        "coordinates": {
+            "Latitude": 55.9993601,
+            "Longitude": 12.7401366
+        },
+        "cluster": 7
+    },
+    "2": {
+        "name": "J. A. Holms AB.",
+        "location": "Halmstad",
+        "business": "Skofabrik",
+        "contact": {
+            "office": "Halmstad",
+            "phone": [
+                "1327"
+            ],
+            "postgiro": "75675"
+        },
+        "financials": {
+            "capital": "30,200 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "450,000 kr"
+        },
+        "foundation_year": 1926,
+        "current_name_year": 1942,
+        "board": [
+            {
+                "name": "fabr. John A. Holm",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.6743748,
+            "Longitude": 12.8577884
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "Karl Holm Möbelfabrik AB.",
+        "location": "Virserum",
+        "business": "Tillverkar bäddmöbler, speciellt bäddsoffor och dyschateller",
+        "products": "stolar vid fabrik i Målilla (båda i Kalmar l.)",
+        "contact": {
+            "office": "Virserum",
+            "phone": [
+                "94",
+                "314"
+            ],
+            "postgiro": "163503"
+        },
+        "financials": {
+            "capital": "55,000 kr",
+            "employees": {
+                "industriarb": 70
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1945,
+        "board": [
+            {
+                "name": "verkm. Althon Holm",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Helmer Holm",
+                "role": "Disp."
+            },
+            {
+                "name": "fabr. Karl Holm",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Karl Holm",
+        "coordinates": {
+            "Latitude": 57.3199949,
+            "Longitude": 15.5812344
+        },
+        "cluster": 8
+    },
+    "4": {
+        "name": "AB. Tore Holms Yachtvarv",
+        "location": "Gamleby",
+        "business": "Båtvarv",
+        "products": "Tillverkar och reparerar segel- och motoryachter, fiskefartyg m. m.",
+        "contact": {
+            "office": "Gamleby",
+            "phone": [
+                "140"
+            ],
+            "postgiro": "266345"
+        },
+        "financials": {
+            "capital": "40,000 kr",
+            "employees": {
+                "industriarb": 27
+            },
+            "annual_turnover": "400,000 kr"
+        },
+        "foundation_year": 1905,
+        "corporation_year": 1936,
+        "board": [
+            {
+                "name": "snickare Severin Carlsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "trävaruhandl. Helge Ericsson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "civiling. Tore Holm",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Tore Holm",
+        "coordinates": {
+            "Latitude": 57.89316029999999,
+            "Longitude": 16.4060887
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Holmsunds AB.",
+        "location": "Holmsund",
+        "business": "Sågverk och hyvleri samt träförädlingsfabriker",
+        "products": "Tillverkar: i Holmsund: sågade och hyvlade trävaror, lamellgolv, -dörrar och -plattor, parkettstav samt svarvat och planskuret faner; i Sandvik: monteringsfärdiga trähus och byggnadssnickerier; i Obbola: sulfatcellulosa, terpentin och flytande harts.",
+        "contact": {
+            "office": "Holmsund",
+            "telegraph": "Holmos, Holmsund",
+            "phone": [
+                "Holmsunds bolag"
+            ],
+            "postgiro": "64067",
+            "factory_office": "Obbola"
+        },
+        "financials": {
+            "capital": "6,000,000 kr",
+            "employees": {
+                "industriarb": 1100
+            },
+            "annual_turnover": "16,000 stds sågade trävaror, varav 3,000 stds hyvlade, 30,000 ton sulfatcellulosa"
+        },
+        "corporation_year": 1896,
+        "board": [
+            {
+                "name": "dir. Torsten Hérnod",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. Ax. Enström",
+                "role": "Disp."
+            },
+            {
+                "name": "dir. K. Erik Nyberg",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Ax. Enström",
+        "owners": [
+            "Svenska Cellulosa AB"
+        ],
+        "platschef_i": "Målilla: Althon Holm",
+        "coordinates": {
+            "Latitude": 63.70738919999999,
+            "Longitude": 20.3639178
+        },
+        "cluster": 7
+    },
+    "6": {
+        "name": "Hols’ Skinnindustri AB.",
+        "location": "Malung",
+        "business": "Tillverkar handskar och skinnbeklädnader",
+        "contact": {
+            "office": "Malung",
+            "phone": [
+                "330"
+            ],
+            "postgiro": "173381"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 27
+            }
+        },
+        "foundation_year": 1941,
+        "board": [
+            {
+                "name": "fabr. Johan E:son Hols",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Carl Holten AB.",
+        "location": "Hässleholm",
+        "business": "Herrkonfektionsfabrik",
+        "products": "Tillverkar frack-, smoking- och kavajkostymer, uniformer samt ulstrar, paletåer och trench-coats",
+        "contact": {
+            "office": "Hässleholm",
+            "phone": [
+                "950",
+                "951"
+            ],
+            "postgiro": "38910"
+        },
+        "financials": {
+            "capital": "80,000 kr",
+            "employees": {
+                "industriarb": 75
+            }
+        },
+        "foundation_year": 1939,
+        "board": [
+            {
+                "name": "Carl G. Holten-man",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 56.15891449999999,
+            "Longitude": 13.7667655
+        },
+        "cluster": 9
+    }
+}

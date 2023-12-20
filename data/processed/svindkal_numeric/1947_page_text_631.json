@@ -1,0 +1,252 @@
+{
+    "1": {
+        "name": "Skånska Svavelsyrefabrikerna",
+        "location": "Hälsingborg",
+        "business": "Tillverkning av svavelsyra och relaterade kemiska produkter.",
+        "contact": {
+            "office": "Se Reymersholms Gamla Industri AB., Hälsingborg",
+            "telegraph": "",
+            "factory_office": "",
+            "factory_phone": "",
+            "sales_offices": []
+        },
+        "financials": {
+            "capital": "",
+            "employees": {},
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 0,
+        "board": [],
+        "owners": [],
+        "director": "",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Skånska Takpappfabriken",
+        "location": "Malmö",
+        "business": "Tillverkning av takpapp, tjära, isoleringsmattor, oljor och färger.",
+        "products": "Varumärken: »Astral», »Astralit», »Rex», »Cuprinol» och »Bisol». Firman driver även engroshandel med byggnadsmaterial.",
+        "contact": {
+            "office": "österg. 3",
+            "telegraph": "Bön-nelyche, Malmö",
+            "postgiro": "38538",
+            "phone": [
+                "»Bönnelyche &’ Thuröe»"
+            ]
+        },
+        "financials": {
+            "capital": 600000,
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_turnover": 2000000,
+            "annual_production_value": ""
+        },
+        "foundation_year": 1889,
+        "board": [
+            {
+                "name": "K. Bönnelyche",
+                "role": "konsul"
+            },
+            {
+                "name": "Hans Falck",
+                "role": "assessor"
+            },
+            {
+                "name": "Gustaf Hjort",
+                "role": "disp."
+            },
+            {
+                "name": "G. Köhler",
+                "role": "tandläk."
+            },
+            {
+                "name": "Gösta Rappe",
+                "role": "frih."
+            },
+            {
+                "name": "E. Testrup",
+                "role": "generallöjtn."
+            },
+            {
+                "name": "E. Thuröe",
+                "role": "ing."
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "AB. Skånska Yllefabriken",
+        "location": "Kristianstad",
+        "business": "Ylleväveri, ull- och kamgarnsspinneri samt färgeri.",
+        "products": "Tillverkar kamgarner samt yllevävnader såsom kommiss, kläden, paletå-, ulster-, kostym- och dräkttyger.",
+        "contact": {
+            "office": "",
+            "telegraph": "",
+            "postgiro": "80375",
+            "phone": [
+                "Skånska Yllefabriken"
+            ]
+        },
+        "financials": {
+            "capital": 1701000,
+            "employees": {
+                "industriarb": 600
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1898,
+        "board": [
+            {
+                "name": "Carl Nilsson",
+                "role": "v. konsul"
+            },
+            {
+                "name": "Hjalmar Carlborn",
+                "role": "dir."
+            },
+            {
+                "name": "Nils Engberg",
+                "role": "dir."
+            },
+            {
+                "name": "P. G. Laveson",
+                "role": "v. konsul"
+            },
+            {
+                "name": "Harald Mårtens",
+                "role": "borgarrådet"
+            },
+            {
+                "name": "Thorsten Persson",
+                "role": "adv."
+            },
+            {
+                "name": "Thure Persson",
+                "role": "grossh."
+            }
+        ],
+        "owners": [],
+        "director": "Nils Engberg",
+        "coordinates": {
+            "Latitude": 56.0293936,
+            "Longitude": 14.1566778
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Skånska Ättikfabriken, AB.",
+        "location": "Perstorp",
+        "business": "Tillverkning av ättiksyra, formalin, konsthartsprodukter, sågade trävaror, möbler och elektrisk belysningsarmatur.",
+        "products": "Tillverkar bokträkol, boktjära, karbolin, bokbeek, kreosot, lösningsmedel, isättika, ättiksyra, monoklorättiksyra, formalin, paraformalin, hexametylentetramin, natriumacetat.",
+        "contact": {
+            "office": "",
+            "telegraph": "Ättikfabriken, Perstorp",
+            "postgiro": "37000",
+            "phone": []
+        },
+        "financials": {
+            "capital": 2000000,
+            "employees": {
+                "total": 945,
+                "industriarb": 715
+            },
+            "annual_turnover": "",
+            "annual_production_value": ""
+        },
+        "foundation_year": 1883,
+        "board": [
+            {
+                "name": "J. Olof Nauclér",
+                "role": "civiling."
+            },
+            {
+                "name": "Guy Wendt",
+                "role": "civiling."
+            },
+            {
+                "name": "Harold Wendt",
+                "role": "civiling."
+            },
+            {
+                "name": "Maria Wendt",
+                "role": "fröken"
+            },
+            {
+                "name": "Margareta Näs",
+                "role": "fru"
+            },
+            {
+                "name": "Minna Wendt",
+                "role": "fru"
+            },
+            {
+                "name": "Otto Wendt",
+                "role": "civiling."
+            }
+        ],
+        "owners": [],
+        "director": "Otto Wendt",
+        "coordinates": {
+            "Latitude": 56.137972,
+            "Longitude": 13.3949862
+        },
+        "cluster": 2
+    },
+    "5": {
+        "name": "Skästra Ångsågs AB.",
+        "location": "Skästra",
+        "business": "Sågverk, hyvleri och tegelbruk.",
+        "products": "Tillverkar sågade och hyvlade trävaror samt murtegel.",
+        "contact": {
+            "office": "",
+            "telegraph": "Skästrasåg, Ljusdal",
+            "postgiro": "131344",
+            "phone": [
+                "Ljusdal 3211"
+            ]
+        },
+        "financials": {
+            "capital": 346000,
+            "employees": {
+                "industriarb": 53
+            },
+            "annual_turnover": "",
+            "annual_production_value": "1,500 stds trävaror, 175,000 st. tegel"
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "Jonas Hanson",
+                "role": "dir."
+            },
+            {
+                "name": "M. Mårtensson",
+                "role": "lantbr."
+            },
+            {
+                "name": "Olof Ols",
+                "role": "lantbr."
+            }
+        ],
+        "owners": [],
+        "director": "",
+        "coordinates": {
+            "Latitude": 61.74725179999999,
+            "Longitude": 16.1594172
+        },
+        "cluster": 7
+    }
+}

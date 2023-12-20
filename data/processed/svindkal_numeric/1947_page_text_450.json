@@ -1,0 +1,271 @@
+{
+    "1": {
+        "name": "Kvarn AB",
+        "location": "Motala",
+        "business": "Tillverkar mjöl, gryn, kli och grope",
+        "products": "Tillverkar mjöl, gryn, kli och grope",
+        "contact": {
+            "office": "Motala Strötr\\9Moiala",
+            "phone": [
+                "568",
+                "308"
+            ],
+            "postgiro": "11382",
+            "head_office": "Strömkvamen, Motala",
+            "telegraph": "Strömkvamen, Motala",
+            "factory_office": "Not provided",
+            "factory_phone": "Not provided"
+        },
+        "financials": {
+            "capital": 734800,
+            "employees": {
+                "industriarb": 23
+            },
+            "annual_turnover": 2500000,
+            "annual_production_value": 2500000
+        },
+        "foundation_year": 1913,
+        "board": [
+            {
+                "name": "Fredrik Törner",
+                "role": "f. häradshövd."
+            },
+            {
+                "name": "Georg Ekstam",
+                "role": "dir."
+            },
+            {
+                "name": "Viktor Linden",
+                "role": "godsäg."
+            }
+        ],
+        "director": "Georg Ekstam",
+        "coordinates": {
+            "Latitude": 58.5380335,
+            "Longitude": 15.0470936
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "Kvarn AB",
+        "location": "Stockholm",
+        "business": "Elektr. valskvarn på Kvarnholmen, Nacka",
+        "products": "Tillverkar mjöl, havre-och korngryn, mannagryn, flingor samt makaroner",
+        "contact": {
+            "office": "Tre Kronor, Stockholm",
+            "phone": [
+                "Not provided"
+            ],
+            "postgiro": "Not provided",
+            "head_office": "Kvarnholmen",
+            "telegraph": "Kronkvarn, Stockholm",
+            "factory_office": "Not provided",
+            "factory_phone": "Not provided"
+        },
+        "financials": {
+            "capital": 1375000,
+            "employees": {
+                "industriarb": 280
+            },
+            "annual_turnover": 28000000,
+            "annual_production_value": 28000000
+        },
+        "foundation_year": 1897,
+        "owners": [
+            "Kooperativa Förbundet"
+        ],
+        "board": [
+            {
+                "name": "Albin Johansson",
+                "role": "dir."
+            },
+            {
+                "name": "Mauritz Bonow",
+                "role": "fil. lic."
+            }
+        ],
+        "director": "Emil Hamring",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 2
+    },
+    "3": {
+        "name": "Kyarnbyggerifirman Vilh. Bäckman",
+        "location": "Björköby",
+        "business": "Fabrik för tillverkning av maskiner och transportanordningar för kvarnar och utsädesmagasin",
+        "products": "Valstolar, plansiktar, spetsmaskiner, utsädesrensmaskiner m. m. samt motströmsblandare för betong; utför räffling av valsblock",
+        "contact": {
+            "office": "Björköby",
+            "phone": [
+                "3"
+            ],
+            "postgiro": "82085",
+            "head_office": "Not provided",
+            "telegraph": "Not provided",
+            "factory_office": "Not provided",
+            "factory_phone": "Not provided"
+        },
+        "financials": {
+            "capital": "Not provided",
+            "employees": {
+                "industriarb": 45
+            },
+            "annual_turnover": 500000,
+            "annual_production_value": 500000
+        },
+        "foundation_year": 1921,
+        "board": [],
+        "owners": [
+            "ing. Vilh. Bäckman"
+        ],
+        "coordinates": {
+            "Latitude": 57.5188928,
+            "Longitude": 14.9045962
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "A. Kvarnholt",
+        "location": "Limhamn",
+        "business": "Tillverkar inredningar och möbler vid snickerifabrik",
+        "products": "Not provided",
+        "contact": {
+            "office": "Möbeltillverkning, Limhamn",
+            "phone": [
+                "Malmö 51186"
+            ],
+            "postgiro": "39559",
+            "head_office": "Not provided",
+            "telegraph": "Not provided",
+            "factory_office": "Not provided",
+            "factory_phone": "Not provided"
+        },
+        "financials": {
+            "capital": "Not provided",
+            "employees": {
+                "industriarb": 19
+            },
+            "annual_turnover": 200000,
+            "annual_production_value": 200000
+        },
+        "foundation_year": 1920,
+        "owners": [
+            "snickarm. Alfr. Kvarnholt"
+        ],
+        "coordinates": {
+            "Latitude": 55.5724415,
+            "Longitude": 12.9147749
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "AB. Kvarnintressenter",
+        "location": "Malmö",
+        "business": "Sammanslutning av och handhar överledningen för flera företag",
+        "products": "Not provided",
+        "contact": {
+            "office": "Malmö, Neptunig. 11",
+            "phone": [
+                "Not provided"
+            ],
+            "postgiro": "Not provided",
+            "head_office": "Not provided",
+            "telegraph": "Kvarnintressent, Malmö",
+            "factory_office": "Not provided",
+            "factory_phone": "Not provided"
+        },
+        "financials": {
+            "capital": 8552000,
+            "annual_turnover": 42950000,
+            "annual_production_value": 42950000
+        },
+        "foundation_year": 1927,
+        "board": [
+            {
+                "name": "Ivar Åkerman",
+                "role": "bankdir."
+            },
+            {
+                "name": "Mauritz Carlson",
+                "role": "dir."
+            }
+        ],
+        "director": "S. Malmberg",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "AB. Kvarnmaskiner",
+        "location": "Malmö",
+        "business": "Tillverkar maskiner för mjölkvarnar, trämjölskvarnar, korngryns- och havregrynsverk, renserier, spannmålsmagasi-ner, lin- och hampberedning samt kvarnstenar m. m.",
+        "products": "Not provided",
+        "contact": {
+            "office": "Malmö, Sofielundsvagen 57",
+            "phone": [
+                "20914",
+                "17463",
+                "12795",
+                "25103"
+            ],
+            "postgiro": "38215",
+            "head_office": "Not provided",
+            "telegraph": "Kvarnmaskiner; Malmö och Örebro",
+            "factory_office": "Not provided",
+            "factory_phone": "Not provided"
+        },
+        "financials": {
+            "capital": 450000,
+            "employees": {
+                "industriarb": 250
+            }
+        },
+        "foundation_year": 1867,
+        "corporation_year": 1899,
+        "board": [
+            {
+                "name": "Franklin Wintermark",
+                "role": "dir."
+            }
+        ],
+        "director": "T. Bengsen",
+        "managing_director": "F. Wintermark",
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Kvarnmaskiner",
+        "location": "Lindesberg",
+        "business": "Not provided",
+        "products": "Not provided",
+        "contact": {
+            "office": "Not provided",
+            "phone": [
+                "Not provided"
+            ],
+            "postgiro": "Not provided",
+            "head_office": "Not provided",
+            "telegraph": "Not provided",
+            "factory_office": "Not provided",
+            "factory_phone": "Not provided"
+        },
+        "financials": {
+            "capital": "Not provided",
+            "employees": {
+                "industriarb": "Not provided"
+            }
+        },
+        "coordinates": {
+            "Latitude": 59.5976983,
+            "Longitude": 15.2229108
+        },
+        "cluster": 1
+    }
+}

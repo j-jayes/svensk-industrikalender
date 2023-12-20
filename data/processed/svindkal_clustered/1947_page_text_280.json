@@ -1,0 +1,187 @@
+{
+    "1": {
+        "name": "AB. Fabriken Hjelm, Örkelljunga",
+        "location": "Hjelmsjö, Örkelljunga (Kristianst. l.)",
+        "business": "Tillverkning av kostymer, rockar, trench-coats, blazers, byxor, rök- och nattrockar m.m.",
+        "products": "Varumärke: »Hjelm».",
+        "contact": {
+            "office": "Maltg. 5",
+            "phone": [
+                "33383"
+            ],
+            "postgiro": "23555"
+        },
+        "financials": {
+            "capital": "600,000 kr",
+            "employees": {
+                "industriarb.": 175
+            },
+            "annual_turnover": "2,900,000 kr"
+        },
+        "foundation_year": 1889,
+        "current_name_year": 1940,
+        "board": [
+            {
+                "name": "John Hjelme-Lundberg",
+                "role": "Konsul"
+            },
+            {
+                "name": "Ada Werin",
+                "role": "Fru"
+            }
+        ],
+        "director": "Eric Löfström",
+        "coordinates": {
+            "Latitude": 56.2732757,
+            "Longitude": 13.2872236
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. Fabriken Malvia, Malmö",
+        "business": "Essensfabrik. Tillverkning av vanillin, essenser för parfym- och tvålfabriker, syntetiska luktämnen, eteriska oljor, bak-och krämpulver m.m.",
+        "contact": {
+            "office": "Maltg. 5",
+            "phone": [
+                "71690"
+            ],
+            "postgiro": "38202"
+        },
+        "financials": {
+            "capital": "65,000 kr",
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1932,
+        "director": "Harry Malmqvist",
+        "cluster": 2
+    },
+    "3": {
+        "name": "Fabriken Odin AB., Stockholm",
+        "location": "Nyköping",
+        "business": "Tillverkning av foder- och sädeshissar, magasins- och byggnadshissar, gödsel- och fodertransportörer, halm- och sädesfläktar m.m.",
+        "products": "Varunamn: »Odin».",
+        "contact": {
+            "office": "Stockholm, Norrlandsg. 16",
+            "phone": [
+                "112113",
+                "112116"
+            ],
+            "postgiro": "59463"
+        },
+        "financials": {
+            "capital": "200,000 kr",
+            "employees": {
+                "industriarb.": 35
+            },
+            "annual_turnover": "N/A"
+        },
+        "foundation_year": 1918,
+        "corporation_year": 1941,
+        "director": "Ing. Gösta Hedin",
+        "coordinates": {
+            "Latitude": 58.75284389999999,
+            "Longitude": 17.0091593
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Fabriken Orion, Lindesberg",
+        "location": "Lindesberg (Örebro l.)",
+        "business": "Tillverkning av hand- och fotpumpar med snabbkopplingsnipplar, cykel- och motorcykelstöd samt smörj- och oljesprutor m.m.",
+        "products": "Varumärke: »Orion».",
+        "contact": {
+            "phone": [
+                "86",
+                "726"
+            ],
+            "postgiro": "28321"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb.": 35
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1898,
+        "corporation_year": 1944,
+        "director": "Erik-Gustaf Wirén",
+        "coordinates": {
+            "Latitude": 59.5976983,
+            "Longitude": 15.2229108
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Fabriken Rurik, Karlshamn",
+        "business": "Tillverkning av tvättmaskiner, vridmaskiner och manglar.",
+        "contact": {
+            "phone": [
+                "372"
+            ],
+            "postgiro": "6598"
+        },
+        "financials": {
+            "employees": {
+                "industriarb.": 15
+            }
+        },
+        "foundation_year": 1898,
+        "director": "Ing. P. Georg Carlson",
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Fabriken Saturnus, Malmö",
+        "business": "Tillverkning av essenser och extrakter för likör- och läskedrycksberedning, bak- och krämpulver för bagerier, eteriska oljor, livsmedelsfärger m.m.",
+        "contact": {
+            "office": "Lantmannag. 20",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "38390"
+        },
+        "financials": {
+            "capital": "301,500 kr",
+            "employees": {
+                "industriarb.": 80
+            },
+            "annual_turnover": "2,250,000 kr"
+        },
+        "foundation_year": 1893,
+        "corporation_year": 1905,
+        "board": [
+            {
+                "name": "Eva Liepe",
+                "role": "Fru"
+            },
+            {
+                "name": "Nils-Håkan Håkansson",
+                "role": "Jur. kand."
+            },
+            {
+                "name": "Harry Runnqvist",
+                "role": "Fil. lie."
+            }
+        ],
+        "director": "N.-H. Håkansson",
+        "cluster": 2
+    },
+    "7": {
+        "name": "Fabriken Tomten, Alex. Lagerman Jsr AB., Stockholm",
+        "business": "Tillverkning av tvättpulver, skurpulver, putsmedel, flugfångare, tvål, raktvål, rakkräm och rakbalsam, skokräm, bak- och puddingpulver, majspreparat, vanillinsocker, lemonadpulver m.m.",
+        "contact": {
+            "office": "Alvik, Stockholm",
+            "phone": [
+                "N/A"
+            ],
+            "postgiro": "N/A"
+        },
+        "financials": {
+            "capital": "3,000,000 kr"
+        },
+        "foundation_year": 1897,
+        "corporation_year": 1911,
+        "director": "Tor Olsson",
+        "cluster": 2
+    }
+}

@@ -1,0 +1,258 @@
+{
+    "1": {
+        "name": "Aug. Holts Culddragerifabriks AB",
+        "location": "Stockholm",
+        "business": "Tillverkar uniformseffekter såsom guld-och silvergaloner, axelklaffar, mössremmar m. m.",
+        "products": "Description of products manufactured or services offered.",
+        "contact": {
+            "office": "Mästersamuelsg. 67",
+            "phone": [
+                "100533"
+            ],
+            "postgiro": "51538"
+        },
+        "financials": {
+            "capital": "75,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "180,000 kr",
+            "annual_production_value": "180,000 kr"
+        },
+        "foundation_year": 1885,
+        "corporation_year": 1909,
+        "board": [
+            {
+                "name": "Otto Kugelberg",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "Aug. Holts Pels- och Mössfabriks AB",
+        "location": "Stockholm",
+        "business": "Tillverkar pälsgarnityr och pälsmössor samt hattar och mössor av tyg",
+        "products": "Description of products manufactured or services offered.",
+        "contact": {
+            "office": "Drottningg. 82",
+            "phone": [
+                "230410"
+            ],
+            "postgiro": "51617"
+        },
+        "financials": {
+            "capital": "250,000 kr",
+            "employees": {
+                "industriarb": 50
+            },
+            "annual_turnover": "1,040,000 kr",
+            "annual_production_value": "1,040,000 kr"
+        },
+        "foundation_year": 1881,
+        "corporation_year": 1909,
+        "board": [
+            {
+                "name": "Knut Johansson",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 3
+    },
+    "3": {
+        "name": "Gust. W. Hoorn",
+        "location": "Vetlanda",
+        "business": "Mek. verkstad och metallgjuteri",
+        "products": "Tillverkar registreringsskyltar för bilar, markeringsskyltar för gas- och vattenledningar, vägvisare och trafikmärken, firmaskyltar m. m.",
+        "contact": {
+            "phone": [
+                "165"
+            ],
+            "postgiro": "36297"
+        },
+        "financials": {
+            "employees": {
+                "arb": 8
+            }
+        },
+        "foundation_year": 1896,
+        "owners": [
+            "fabr. Victor Hoorn",
+            "fabr. Richard Hoorn",
+            "fru A. Hoprn"
+        ],
+        "coordinates": {
+            "Latitude": 57.42746,
+            "Longitude": 15.08533
+        },
+        "cluster": 6
+    },
+    "4": {
+        "name": "AB. Hörda Möbelfabrik",
+        "location": "Hörda",
+        "business": "Tillverkar möbler",
+        "contact": {
+            "phone": [
+                "Värnamo 54022",
+                "Värnamo 54050"
+            ],
+            "postgiro": "27028"
+        },
+        "financials": {
+            "capital": "25,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_turnover": "240,000 kr"
+        },
+        "foundation_year": 1910,
+        "owners": [
+            "Disp.: Eric Nordén"
+        ],
+        "coordinates": {
+            "Latitude": 57.0379442,
+            "Longitude": 14.2576593
+        },
+        "cluster": 8
+    },
+    "5": {
+        "name": "Horndals Jernverks AB",
+        "location": "Horndal",
+        "business": "Masugn, martinugn, lancashiresmedja, göt-, grov- och mediumvalsverk, gjuteri och mek. verkstad",
+        "contact": {
+            "telegraph": "Horn-dalsverken, Krylbo",
+            "phone": [
+                "Krylbo 40170"
+            ]
+        },
+        "financials": {
+            "capital": "500,000 kr"
+        },
+        "foundation_year": 1652,
+        "corporation_year": 1872,
+        "board": [
+            {
+                "name": "disp. Hj. Åselius",
+                "role": "Styrelse"
+            }
+        ],
+        "director": "Platschef: C. Tallberg",
+        "coordinates": {
+            "Latitude": 60.2936178,
+            "Longitude": 16.4044992
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Hovmantorps Glasbruk",
+        "location": "Hovmantorp",
+        "business": "Glasbruk med sliperi och glasmåleri i Hovmantorp (Kronob. l.). Tillverkar slätt, slipat och pressat hushållsglas, kristallglas, prydnadsglas m. m.",
+        "contact": {
+            "phone": [
+                "4",
+                "55"
+            ],
+            "postgiro": "70827"
+        },
+        "financials": {
+            "capital": "148,000 kr",
+            "employees": {
+                "industriarb": 95
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1905,
+        "board": [
+            {
+                "name": "bankkamrer A. Gunnar Peterson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "freih. Carl F. Hermelin",
+                "role": "Disp."
+            }
+        ],
+        "manager": "Kamrer: H. Vogel",
+        "coordinates": {
+            "Latitude": 56.78451219999999,
+            "Longitude": 15.1448475
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "AB. Hovslätts Mekaniska Snickerifabrik",
+        "location": "Hovslätt",
+        "business": "Snickerifabrik med sågverk och hyvleri i Hovslätt (Jönköp. l.). Tillverkar sågade och hyvlade trävaror samt byggnads-snickerier",
+        "contact": {
+            "phone": [
+                "8",
+                "80"
+            ],
+            "postgiro": "75950"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "500,000 kr"
+        },
+        "foundation_year": 1906,
+        "corporation_year": 1908,
+        "owners": [
+            "agesav Jönköpings och Vulcans Tändsticksfabriks AB., Jönköping"
+        ],
+        "board": [
+            {
+                "name": "dir. Torsten Jung",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Gösta Birgersson",
+                "role": "Disp."
+            }
+        ],
+        "manager": "Verkst. dir.: ing. Helmer Knutsson (Jönköping)",
+        "coordinates": {
+            "Latitude": 57.73202599999999,
+            "Longitude": 14.1202423
+        },
+        "cluster": 7
+    },
+    "8": {
+        "name": "HSB:s Snickerifabrik i Sparreholm AB",
+        "location": "Sparreholm",
+        "business": "Snickerifabrik i Sparreholm (Södermanl. l.). Tillverkar byggnadssnickerier och inredningar samt parkett",
+        "contact": {
+            "phone": [
+                "3",
+                "123",
+                "133"
+            ],
+            "postgiro": "165887"
+        },
+        "financials": {
+            "capital": "20,000 kr",
+            "employees": {
+                "industriarb": 90
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1887,
+        "corporation_year": 1907,
+        "current_name_year": 1939,
+        "coordinates": {
+            "Latitude": 59.0704435,
+            "Longitude": 16.8303335
+        },
+        "cluster": 7
+    }
+}

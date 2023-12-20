@@ -1,0 +1,271 @@
+{
+    "1": {
+        "name": "Bergvall—Bergvik AB. Axel K. Bergvall & Söner",
+        "location": "Norrköping",
+        "business": "Trikåfabrik, vaddfabrik och blekeri",
+        "products": "Tillverkar militär-, arbets- och sport-tröjor, jackor, jumpers och baddräkter (varumärke: »Bergiana»), förbandsbomull samt silfilter till mjölksilar (varumärke: »Argus-Rex»).",
+        "contact": {
+            "office": "Norrköping",
+            "phone": [
+                "20005",
+                "25510"
+            ],
+            "postgiro": "11037",
+            "telegraph": "Bergvalls, Norrköping"
+        },
+        "financials": {
+            "capital": "400,000 kr",
+            "employees": {
+                "industriarb": 100
+            },
+            "annual_turnover": "2,000,000 kr"
+        },
+        "foundation_year": 1877,
+        "corporation_year": 1913,
+        "board": [
+            {
+                "name": "disp. Ludvig Bergvall",
+                "role": "ordf."
+            },
+            {
+                "name": "fabr. Ivar Bergvall",
+                "role": null
+            },
+            {
+                "name": "kapten Karl-Axel Bergvall",
+                "role": null
+            }
+        ],
+        "director": "Ludvig Bergvall",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "E. Bergwall",
+        "location": "Värnamo",
+        "business": "Träförädlingsfabrik",
+        "products": "Tillverkar som specialist, tvättklämmor samt trämjöl.",
+        "contact": {
+            "office": "Värnamo",
+            "phone": [
+                "66"
+            ]
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1930,
+        "board": null,
+        "owners": [
+            "disp. E. Bergwall"
+        ],
+        "manager": "E. Bergwall",
+        "coordinates": {
+            "Latitude": 57.1831605,
+            "Longitude": 14.0478214
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "AB. Magn. Bergvall",
+        "location": "Stockholm",
+        "business": "Skrivboksfabrik",
+        "products": "Tillverkar skriv- och ritböcker samt utför accidenstryck huvudsakligen för eget behov. Firman driver även bok- och musikförlagsverksamhet samt pappershandel.",
+        "contact": {
+            "office": "Drottningg. 108",
+            "phone": [
+                "335156"
+            ],
+            "postgiro": "1414"
+        },
+        "financials": {
+            "capital": "700,000 kr",
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_turnover": "127,000 kr"
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1918,
+        "board": [
+            {
+                "name": "folkskollärare K.-G. Rosberg",
+                "role": "ordf."
+            },
+            {
+                "name": "dir. Magn. Bergvall",
+                "role": null
+            },
+            {
+                "name": "lektor E. Hjalmar",
+                "role": null
+            },
+            {
+                "name": "lektor Ivar M. Holm",
+                "role": null
+            },
+            {
+                "name": "överlä-rare F. Lindskog",
+                "role": null
+            }
+        ],
+        "director": "Magn. Bergvall",
+        "manager": "fru Irma Rickenhoff",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 5
+    },
+    "4": {
+        "name": "Bergvalla Metallfabrik",
+        "location": "Gnosjö",
+        "business": "Tillverkar brand- och rörarmatur, kranar, markisbeslag m. m.",
+        "contact": {
+            "phone": [
+                "70"
+            ],
+            "postgiro": "13142"
+        },
+        "financials": {
+            "employees": {
+                "Arb.-antal": 16
+            },
+            "annual_turnover": "180,000 kr"
+        },
+        "foundation_year": 1929,
+        "owners": [
+            "fabr. K. J. Nevrén",
+            "fabr. H. Norle"
+        ],
+        "coordinates": {
+            "Latitude": 57.35803979999999,
+            "Longitude": 13.7371898
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Bergverks AB. Freja",
+        "location": "Stockholm",
+        "business": "Gruvdrift",
+        "products": "Bryter järnmalm (magnetit).",
+        "contact": {
+            "office": "Stockholm, Strandvägen 3",
+            "phone": [
+                "670135"
+            ],
+            "speditionskontor": "Luleå",
+            "telegraph": "Frejamalm, Stockholm"
+        },
+        "financials": {
+            "capital": "2,600,000 kr",
+            "employees": {
+                "industrin arb": 250
+            }
+        },
+        "foundation_year": 1897,
+        "board": [
+            {
+                "name": "adv. Sune Wetter",
+                "role": "ordf."
+            },
+            {
+                "name": "kabinettskammarh. Rolf v. Heidenstam",
+                "role": null
+            },
+            {
+                "name": "f. d. kommerserådet Ragnar Sohlman",
+                "role": null
+            }
+        ],
+        "director": "Sune Wetter",
+        "manager": "bergsing. Erik Almin",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "Bergverks AB. Vulcanus",
+        "location": "Blötberget",
+        "business": "Järngruvor",
+        "products": "Bryter och anrikar malmer samt tillverkar magnetiska separatorer och malmskiljare.",
+        "contact": {
+            "telegraph": "Vulcanus, Ludvika",
+            "phone": [
+                "Blötberget 37022—23"
+            ],
+            "postgiro": "167034"
+        },
+        "financials": {
+            "capital": "3,750,000 kr",
+            "employees": {
+                "industriarb": 310
+            }
+        },
+        "foundation_year": 1900,
+        "board": [
+            {
+                "name": "dir. H. Hennemann",
+                "role": "ordf."
+            },
+            {
+                "name": "disp. John A. Hedlund",
+                "role": null
+            },
+            {
+                "name": "dir. C. J. P. Hoedemakers",
+                "role": null
+            },
+            {
+                "name": "kamrer Eric Håkansson",
+                "role": null
+            },
+            {
+                "name": "dir. Paul O. Wickman",
+                "role": null
+            }
+        ],
+        "director": "H. Hennemann",
+        "manager": "John A. Hedlund",
+        "managing_director": "E. Håkansson",
+        "sales_manager": "Sten Larson",
+        "coordinates": {
+            "Latitude": 60.12464079999999,
+            "Longitude": 15.061261
+        },
+        "cluster": 6
+    },
+    "7": {
+        "name": "Bergvik och Ala Nya AB.",
+        "location": "Söderhamn",
+        "business": "Sågverk och hyvleri",
+        "products": "Tillverkar sågade och hyvlade trävaror, träkol, sulfit- och sulfatcellulosa, sulfitsprit, sanotin (renad terpentin), såpa och tvål samt driver skogsbruk.",
+        "contact": {
+            "telegraph": "Bergvik, Söderhamn",
+            "phone": [
+                "Söderhamn 1490"
+            ],
+            "postgiro": "163730"
+        },
+        "financials": {
+            "capital": "28,125,000 kr",
+            "employees": {
+                "industriarb": 900
+            },
+            "annual_turnover": "18,000 stds sågade och hyvlade trävaror, 54,000 ton sulfitcellulosa, 56,000 ton sulfatcellulosa, 3,000,000 1. 100 % sulfitsprit, 2,000 ton sanotin (renad terpentin), 8,000 ton ?åpa och tvål"
+        },
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        },
+        "cluster": 7
+    }
+}

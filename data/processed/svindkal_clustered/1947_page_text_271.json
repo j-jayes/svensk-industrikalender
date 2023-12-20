@@ -1,0 +1,258 @@
+{
+    "1": {
+        "name": "Bror Eriksson, Byggnadsfirman",
+        "location": "Visby",
+        "products": "Tillverkar handskar, skinnkläder samt motorekiperingsartiklar av skinn.",
+        "contact": {
+            "telegraph": "Bäckebröder, Malung",
+            "phone": [
+                "41"
+            ],
+            "postgiro": "32899"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 25
+            },
+            "annual_turnover": "350,000 kr",
+            "annual_production_value": "350,000 kr"
+        },
+        "foundation_year": 1895,
+        "owners": [
+            "fabr. Bäcke Henry Nilsson",
+            "fabr. Bäcke Valfrid Nilsson"
+        ],
+        "coordinates": {
+            "Latitude": 57.6348,
+            "Longitude": 18.29484
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. C. O. Ericson & Co.",
+        "location": "Malung",
+        "products": "Tillverkar handskar och skinnkläder vid fabriker i Malung och i Motala.",
+        "contact": {
+            "telegraph": "Ceo, Malung",
+            "phone": [
+                "Ceo"
+            ],
+            "postgiro": "173217"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 75
+            },
+            "annual_turnover": "900,000 kr"
+        },
+        "foundation_year": 1911,
+        "corporation_year": 1941,
+        "board": [
+            {
+                "name": "Nils G. Ericson",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Gustav Ericson",
+                "role": "Disp."
+            },
+            {
+                "name": "R. Svanström",
+                "role": "Kontorschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    },
+    "3": {
+        "name": "AB. C. Th. Ericson",
+        "location": "Borlänge",
+        "products": "Tillverkar mössor, tyghattar samt pälsvaror; specialitet: sportmössor.",
+        "contact": {
+            "telegraph": "Hattimport, Borlänge",
+            "phone": [
+                "Cetehå"
+            ],
+            "postgiro": "21213",
+            "factory_phone": "500,000 kr"
+        },
+        "financials": {
+            "capital": "500,000 kr",
+            "employees": {
+                "industriarb": 170
+            }
+        },
+        "foundation_year": 1885,
+        "corporation_year": 1921,
+        "director": "Nils G. Ericson",
+        "board": [
+            {
+                "name": "Nils G. Ericson",
+                "role": "Verkst. dir."
+            },
+            {
+                "name": "Gustav Ericson",
+                "role": "Disp."
+            },
+            {
+                "name": "R. Svanström",
+                "role": "Kontorschef"
+            }
+        ],
+        "coordinates": {
+            "Latitude": 60.484304,
+            "Longitude": 15.433969
+        },
+        "cluster": 9
+    },
+    "4": {
+        "name": "E. Ericssons Kokkärlsfabrik AB.",
+        "location": "Hovsta",
+        "products": "Tillverkar kokkärl, emballage samt lampskärmar (reflektorer) av aluminium.",
+        "contact": {
+            "phone": [
+                "Örebro 60041"
+            ],
+            "postgiro": "94805"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 20
+            },
+            "annual_production_value": "500,000 kr"
+        },
+        "foundation_year": 1920,
+        "corporation_year": 1946,
+        "director": "ing. Em. Ericsson",
+        "coordinates": {
+            "Latitude": 59.3478474,
+            "Longitude": 15.2267002
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Erlk Eriksson Junior Verktygsmaskiner",
+        "location": "Torshälla",
+        "products": "Tillverkar verktygsmaskiner såsom snabbsvarvar, vertikalborrmaskiner, plan-slipmaskiner, planfräsmaskiner, tryck- och metallsvarvar, pressar, specialmaskiner samt maskinparallellskruvstycken.",
+        "contact": {
+            "postgiro": "36463"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 65
+            },
+            "annual_turnover": "700,000 kr"
+        },
+        "foundation_year": 1916,
+        "manager": "civiling. Karl Erik Eriksson",
+        "coordinates": {
+            "Latitude": 59.42129649999999,
+            "Longitude": 16.4769698
+        },
+        "cluster": 6
+    },
+    "6": {
+        "name": "AB. Filip Eriksson",
+        "location": "Norrköping",
+        "products": "Tillverkar vattolin och tagelduk.",
+        "contact": {
+            "telegraph": "Filips, Norrköping",
+            "phone": [
+                "23360"
+            ],
+            "postgiro": "272308"
+        },
+        "financials": {
+            "capital": "50,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_turnover": "1,000,000 kr"
+        },
+        "foundation_year": 1910,
+        "corporation_year": 1929,
+        "director": "Carl Erik Eriksson",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "H. P. Erikssons Skinnvaru AB.",
+        "location": "Malung",
+        "products": "Tillverkar skinntröjor, västar, damjackor, bilkläder, handskar, militär-, promenad- och dampälsar m. m.",
+        "contact": {
+            "phone": [
+                "144",
+                "145"
+            ],
+            "postgiro": "73193"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "employees": {
+                "industriarb": 40
+            }
+        },
+        "foundation_year": 1931,
+        "owners": [
+            "fabr. Helmer Jonsson (ordf.)",
+            "fabr. Erik Persson (Stockholm)",
+            "fabr. Erik G. Matsson"
+        ],
+        "coordinates": {
+            "Latitude": 60.686372,
+            "Longitude": 13.720966
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "AB. John Erikson & Co.",
+        "location": "Borås",
+        "products": "Tillverkar pyjamas och skjortor. Varumärken: Monitor, Musketör, Jercoline.",
+        "contact": {
+            "telegraph": "Jerco, Borås",
+            "phone": [
+                "10237",
+                "15022"
+            ],
+            "postgiro": "99799"
+        },
+        "financials": {
+            "capital": "60,000 kr",
+            "annual_turnover": "1,600,000 kr"
+        },
+        "foundation_year": 1936,
+        "director": "John Erikson",
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 9
+    },
+    "9": {
+        "name": "AB. Josef Eriksson",
+        "location": "Uppsala",
+        "products": "Tillverkar velocipeder och velocipeddelar. Varumärken: Fram, Dixi.",
+        "contact": {
+            "phone": [
+                "133*"
+            ],
+            "postgiro": "133*"
+        },
+        "financials": {
+            "capital": "133*"
+        },
+        "foundation_year": 133,
+        "coordinates": {
+            "Latitude": 59.85856380000001,
+            "Longitude": 17.6389267
+        },
+        "cluster": 1
+    }
+}

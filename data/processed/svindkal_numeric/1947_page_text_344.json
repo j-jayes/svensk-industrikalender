@@ -1,0 +1,125 @@
+{
+    "1": {
+        "name": "Knut Hagberg, Fabriks AB.",
+        "location": "Norrköping",
+        "business": "Ullspinneri och väveri",
+        "products": "Tillverkar helylletyger såsom kommiss, satin och diagonal, foulé, drapé, eskimå, paletå, serge, kamgarnstyger m.m. samt ullgarner för eget behov.",
+        "contact": {
+            "office": "",
+            "phone": [
+                "20090"
+            ],
+            "postgiro": "11090",
+            "head_office": "",
+            "sales_offices": [
+                {
+                    "location": "Stockholm",
+                    "phone": "495853"
+                }
+            ],
+            "telegraph": "Knut, Norrköping"
+        },
+        "financials": {
+            "capital": 300000,
+            "annual_turnover": 800000,
+            "annual_production_value": 800000
+        },
+        "foundation_year": 1850,
+        "current_name_year": 1918,
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 3
+    },
+    "2": {
+        "name": "Ivar Hageberg, Metall AB.",
+        "location": "Hillerstorp",
+        "business": "Se Metall AB. Ivar Hageberg",
+        "coordinates": {
+            "Latitude": 57.3150182,
+            "Longitude": 13.8805966
+        },
+        "cluster": 1
+    },
+    "3": {
+        "name": "HagelIn & Larsson, Ingenjörsfirman",
+        "location": "Göteborg",
+        "business": "Se Ingenjörsfirman Hagelin & Larsson, Göteborg",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Hageltorns, Bror Hageltorn",
+        "location": "Hälsingborg",
+        "business": "Se Fabriks AB. Hageltorns, Hälsingborg",
+        "coordinates": {
+            "Latitude": 56.0464674,
+            "Longitude": 12.6945121
+        },
+        "cluster": 1
+    },
+    "5": {
+        "name": "Hagfors Järnverk",
+        "location": "Hagfors",
+        "business": "Se Uddeholms AB., Uddeholm",
+        "coordinates": {
+            "Latitude": 60.03437,
+            "Longitude": 13.694508
+        },
+        "cluster": 1
+    },
+    "6": {
+        "name": "Haggårdens Kalkbruk",
+        "location": "Kinnemalma",
+        "business": "Se AB. Västergötlands Förenade Kalkindustrier, Falköping",
+        "coordinates": {
+            "Latitude": 58.573458,
+            "Longitude": 13.460525
+        },
+        "cluster": 1
+    },
+    "7": {
+        "name": "Haglund & Söner AB.",
+        "location": "Falköping",
+        "business": "Rullgardinsfabrik och knappfabrik. Tillverkar rullgardiner och rullgardinskäppar av trä och metall med tillhörande beslag, även för automobiler, bussar och järnvägsvagnar samt knappformar, knappslagningsmaskiner och knappar.",
+        "coordinates": {
+            "Latitude": 58.17502899999999,
+            "Longitude": 13.553217
+        },
+        "cluster": 6
+    },
+    "8": {
+        "name": "L. Haglund & Co.",
+        "location": "Gävle",
+        "business": "Hatt-, möss- och pälsvarufabrik. Tillverkar damhattar, felbhattar, tyg- och pälsmössor samt pälskappor.",
+        "coordinates": {
+            "Latitude": 60.6748796,
+            "Longitude": 17.1412726
+        },
+        "cluster": 9
+    },
+    "9": {
+        "name": "AB. Albin Hagström",
+        "location": "Älvdalen",
+        "business": "Musikinstrumentfabrik i Älvdalen (Kopparb. 1.). Tillverkar dragspel och grammofoner.",
+        "coordinates": {
+            "Latitude": 61.22730600000001,
+            "Longitude": 14.0419871
+        },
+        "cluster": 6
+    },
+    "10": {
+        "name": "Albin Hagströms Musikaffär i Stockholm AB.",
+        "location": "Stockholm",
+        "business": "Tillverkar dragspel vid fabrik i Solna (Sthlms l.).",
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    }
+}

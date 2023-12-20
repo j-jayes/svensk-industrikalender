@@ -1,0 +1,225 @@
+{
+    "1": {
+        "name": "Söderberg—Söderhamn",
+        "location": "Söderhamn",
+        "business": "herr- oeh gosskläder samt kappor och dräkter",
+        "contact": {
+            "telegraph": "Hjalmars, Uppsala",
+            "phone": [
+                "AB. Hj. Söderberg"
+            ],
+            "postgiro": "26155"
+        },
+        "financials": {
+            "capital": 960000,
+            "employees": {
+                "industriarb": 475
+            },
+            "foundation_year": 1907
+        },
+        "board": [
+            {
+                "name": "Erik Söderberg",
+                "role": "jägmäst"
+            },
+            {
+                "name": "Einar Söderberg",
+                "role": "sjökapten"
+            },
+            {
+                "name": "Gösta Söderberg",
+                "role": null
+            }
+        ],
+        "director": "Erik Söderberg",
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "R. Söderberg & Co. AB.",
+        "location": "Göteborg",
+        "business": "Mek. verkstad och förbandsfabrik",
+        "contact": {
+            "office": "Drottningg. 13",
+            "telegraph": "Eresco, Göteborg",
+            "phone": "170740",
+            "postgiro": "12026"
+        },
+        "financials": {
+            "capital": 200000,
+            "employees": {
+                "industriarb": 15
+            },
+            "foundation_year": 1919
+        },
+        "director": "Ruben Söderberg",
+        "sales_manager": "Karl-Hugo Riseli",
+        "manager": "Herbert Thorén",
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 6
+    },
+    "3": {
+        "name": "I. Söderbäcks Eftr.",
+        "location": "Eskilstuna",
+        "business": "Smidesfabrik",
+        "contact": {
+            "telegraph": "Söderbäck, Eskilstuna",
+            "phone": "30407",
+            "postgiro": "98080"
+        },
+        "financials": {
+            "employees": {
+                "arb-antal": 30
+            },
+            "annual_production_value": 350000
+        },
+        "director": "fabr. H. Söderbäck",
+        "coordinates": {
+            "Latitude": 59.37124859999999,
+            "Longitude": 16.5098045
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "Söderfors Bruk",
+        "location": "Söderfors",
+        "business": "Järnbruk med sinterverk, järnsvampugn, elektrohytta, elektrostålugnar, valsverk och stålsmedja, hårdmetallfabrik samt elektr. kraftstation vid Söderfors (Uppsala l.)",
+        "contact": {
+            "telegraph": "Bruket, Söderfors",
+            "phone": "Söderfors Bruk",
+            "postgiro": "75"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 550
+            }
+        },
+        "director": "dir. Per Gustaf Brännström",
+        "sales_manager": "Sven Weslien",
+        "coordinates": {
+            "Latitude": 60.3822707,
+            "Longitude": 17.2468246
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "AB. Otto Södergrens Mek. Verkstad",
+        "location": "Norrköping",
+        "business": "Tillverkar maskiner och apparater för textilindustrien",
+        "contact": {
+            "telegraph": "Otto, Norrköping",
+            "phone": "20535",
+            "postgiro": "28347"
+        },
+        "financials": {
+            "capital": 17500,
+            "employees": {
+                "industriarb": 33
+            },
+            "annual_production_value": 175000
+        },
+        "director": "Knut Nyländer",
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "Söderhamns Bryggeri AB.",
+        "location": "Söderhamn",
+        "business": "Tillverkar maltdrycker av kl. I och II, läskedrycker samt mineralvatten",
+        "contact": {
+            "phone": [
+                "2020",
+                "2028"
+            ],
+            "postgiro": "81507"
+        },
+        "financials": {
+            "capital": 400000,
+            "employees": {
+                "industriarb": 15
+            },
+            "annual_production_value": 450000
+        },
+        "director": "Samuel Sandberg",
+        "sales_manager": "Carl-Samuel Sandberg",
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Söderhamns Färgindustri AB.",
+        "location": "Söderhamn",
+        "business": "Färgfabrik vid Faxeholmen, Söderhamn. Tillverkar spackelfärg, fönsterkitt, färdigkokt rödfärg, färgpastor, oljefärger m. m.",
+        "contact": {
+            "telegraph": "Färgindustri, Söderhamn",
+            "phone": "1900",
+            "postgiro": "21418"
+        },
+        "financials": {
+            "capital": 40000,
+            "employees": {
+                "arb-antal": 15
+            }
+        },
+        "director": "verkm. Per Olsson",
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        },
+        "cluster": 2
+    },
+    "8": {
+        "name": "AB. Söderhamns Vaddfabrik",
+        "location": "Söderhamn",
+        "business": "Tillverkar täck- och fönstervadd, förbandsvadd, sanitetsbindor, madrasser, täcken, kuddar m. m.",
+        "contact": {
+            "telegraph": "Vitvaddbol, Söderhamn",
+            "phone": "2901",
+            "postgiro": "138853"
+        },
+        "financials": {
+            "capital": 20000,
+            "employees": {
+                "industriarb": 25
+            }
+        },
+        "director": "fabr. Sven Jäderberg",
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        },
+        "cluster": 9
+    },
+    "9": {
+        "name": "Söderhamns Verkstäder AB.",
+        "location": "Söderhamn",
+        "business": "Mek. verkstad, tackjärns-, stål- och metallgjuteri. Tillverkar maskiner för sågverk, cellulosa- och fanérfabriker, köksmaskiner samt cisterner och järnkonstruktioner.",
+        "contact": {
+            "telegraph": "Söderhamn",
+            "phone": "2800",
+            "postgiro": "245836"
+        },
+        "financials": {
+            "employees": {
+                "industriarb": 75
+            }
+        },
+        "director": "Sven Svensson",
+        "coordinates": {
+            "Latitude": 61.3055762,
+            "Longitude": 17.0628102
+        },
+        "cluster": 6
+    }
+}

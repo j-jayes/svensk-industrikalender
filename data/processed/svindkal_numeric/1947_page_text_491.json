@@ -1,0 +1,354 @@
+{
+    "1": {
+        "name": "Lästfabriken Winkle AB",
+        "location": "Örebro",
+        "business": "Tillverkar läster för skofabrikation, träsulor, klackar, skoblock och celluloid-fylläster. Driver även engros-handel med stansknivar och träklackar.",
+        "contact": {
+            "office": "Lästfabriken, Örebro",
+            "phone": [
+                "14170",
+                "18270"
+            ],
+            "postgiro": "176336"
+        },
+        "financials": {
+            "capital": 50000,
+            "employees": {
+                "industriarb": 37
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1923,
+        "board": [
+            {
+                "name": "ing. Eugen Winkle",
+                "role": "Styrelse o. verkst. dir."
+            }
+        ],
+        "directors": {
+            "director": "N/A",
+            "managing_director": "N/A",
+            "sales_manager": "N/A",
+            "manager": "N/A"
+        },
+        "coordinates": {
+            "Latitude": 59.2752626,
+            "Longitude": 15.2134105
+        },
+        "cluster": 9
+    },
+    "2": {
+        "name": "AB. Lödöse Yarf",
+        "location": "Lödöse",
+        "business": "Utför nybyggnader och reparationer av fartyg samt grov-plåtsarbeten.",
+        "contact": {
+            "office": "Lödöse",
+            "phone": [
+                "11",
+                "17"
+            ],
+            "postgiro": "21497"
+        },
+        "financials": {
+            "capital": 702000,
+            "employees": {
+                "industriarb": 150
+            },
+            "annual_turnover": 1500000,
+            "annual_production_value": 1500000
+        },
+        "foundation_year": 1899,
+        "board": [
+            {
+                "name": "kammarh. G. A. Bratt",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Torsten Petterson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "C. Lennart Reuterskiöld",
+                "role": "Styrelse"
+            }
+        ],
+        "directors": {
+            "director": "Erik Petterson",
+            "managing_director": "ing. H. Rich. Elfström",
+            "sales_manager": "N/A",
+            "manager": "N/A"
+        },
+        "coordinates": {
+            "Latitude": 58.03274090000001,
+            "Longitude": 12.1562058
+        },
+        "cluster": 0
+    },
+    "3": {
+        "name": "AB. a. P. Löfbergs Pianofabrik",
+        "location": "Stockholm",
+        "business": "Tillverkar pianinon, flyglar och kammar-pianon.",
+        "contact": {
+            "office": "Malmskillnadsg. 34 A",
+            "phone": [
+                "109439",
+                "200695"
+            ],
+            "postgiro": "50133"
+        },
+        "financials": {
+            "capital": 75000,
+            "employees": {
+                "Arb.-antal": 18
+            },
+            "annual_turnover": 200000,
+            "annual_production_value": 200000
+        },
+        "foundation_year": 1881,
+        "current_name_year": 1912,
+        "board": [
+            {
+                "name": "bankdir. Allan Carlsten",
+                "role": "Styrelse"
+            },
+            {
+                "name": "Martin Ström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru Agnes Svanström",
+                "role": "Styrelse"
+            }
+        ],
+        "directors": {
+            "director": "N/A",
+            "managing_director": "Agnes Svanström o. Martin Ström",
+            "sales_manager": "N/A",
+            "manager": "N/A"
+        },
+        "coordinates": {
+            "Latitude": 59.32932349999999,
+            "Longitude": 18.0685808
+        },
+        "cluster": 1
+    },
+    "4": {
+        "name": "AB. Löfgren &amp; Wahlberg",
+        "location": "Skellefteå",
+        "business": "Tillverkar hydrauliska biltippningsanordningar och domkrafter, profilbockningsmaskiner, avfettningstan-kar, verktyg m. m.",
+        "contact": {
+            "phone": "12455"
+        },
+        "financials": {
+            "capital": 55000,
+            "employees": {
+                "industriarb": 60
+            },
+            "annual_turnover": 300000,
+            "annual_production_value": 300000
+        },
+        "foundation_year": 1934,
+        "board": [],
+        "directors": {
+            "director": "N/A",
+            "managing_director": "William Löfgren",
+            "sales_manager": "N/A",
+            "manager": "N/A"
+        },
+        "coordinates": {
+            "Latitude": 64.750244,
+            "Longitude": 20.950917
+        },
+        "cluster": 6
+    },
+    "5": {
+        "name": "Gust. Löfquist AB",
+        "location": "Visby",
+        "business": "Tillverkar möbler.",
+        "contact": {
+            "office": "Visby"
+        },
+        "financials": {
+            "capital": 44600,
+            "employees": {
+                "industriarb": 12
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1895,
+        "current_name_year": 1940,
+        "board": [
+            {
+                "name": "dir. Gustaf Löfquist",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru Siv Belfrage",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Anders Magnusson",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru Anna-Greta Mellgren",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru Gunvor Rosengren",
+                "role": "Styrelse"
+            }
+        ],
+        "directors": {
+            "director": "Gustaf Löfquist",
+            "managing_director": "Gustaf Löfquist",
+            "sales_manager": "N/A",
+            "manager": "N/A"
+        },
+        "coordinates": {
+            "Latitude": 57.6348,
+            "Longitude": 18.29484
+        },
+        "cluster": 8
+    },
+    "6": {
+        "name": "AB. Löfsko",
+        "location": "Jönköping",
+        "business": "Tillverkar hand- och maskinsydda lyx-och promenadskodon. Specialitet: hand-sydda, rand-, ago- och vändsydda skodon. Varumärken: »Löfsko», »Nordsko» o. »Eksko».",
+        "contact": {
+            "office": "Löfsko, Jönköping",
+            "phone": [
+                "Löfsko",
+                "Löfsko-Nordsko Handels- & Fabriks AB., telefon: »Löfsko»"
+            ]
+        },
+        "financials": {
+            "capital": 675000,
+            "employees": {
+                "industriarb": 140
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": 1909,
+        "current_name_year": 1945,
+        "board": [
+            {
+                "name": "disp. Harald Westerlund",
+                "role": "Styrelse"
+            },
+            {
+                "name": "disp. Lennart Eklöf",
+                "role": "Styrelse"
+            },
+            {
+                "name": "modellör Bengt Eklöf",
+                "role": "Styrelse"
+            },
+            {
+                "name": "konsulinnan Elsa Eklöf",
+                "role": "Styrelse"
+            },
+            {
+                "name": "dir. Thure Grafström",
+                "role": "Styrelse"
+            }
+        ],
+        "directors": {
+            "director": "N/A",
+            "managing_director": "Lennart Eklöf",
+            "sales_manager": "N/A",
+            "manager": "Gustaf Alm"
+        },
+        "coordinates": {
+            "Latitude": 57.78261370000001,
+            "Longitude": 14.1617876
+        },
+        "cluster": 9
+    },
+    "7": {
+        "name": "Johu Löfström AB",
+        "location": "Göteborg",
+        "business": "Tillverkar charmeuseväv-nader och damunderkläder.",
+        "contact": {
+            "office": "Stampg. 52",
+            "phone": "153020",
+            "postgiro": "40239"
+        },
+        "financials": {
+            "capital": 140000,
+            "employees": {
+                "industriarb": 21
+            },
+            "annual_turnover": 350000,
+            "annual_production_value": 350000
+        },
+        "foundation_year": 1929,
+        "board": [
+            {
+                "name": "dir. John Löfström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru Nanny Löfström",
+                "role": "Styrelse"
+            },
+            {
+                "name": "fru Märta Sjösten",
+                "role": "Styrelse"
+            }
+        ],
+        "directors": {
+            "director": "John Löfström",
+            "managing_director": "John Löfström",
+            "sales_manager": "N/A",
+            "manager": "N/A"
+        },
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 9
+    },
+    "8": {
+        "name": "Löfuddens AB",
+        "location": "Härnösand",
+        "business": "Tillverkar sågade och hyvlade trävaror.",
+        "contact": {
+            "office": "Löfudden, Härnösand",
+            "phone": [
+                "2262",
+                "2712"
+            ],
+            "postgiro": "81185"
+        },
+        "financials": {
+            "capital": 264000,
+            "employees": {
+                "industriarb": "N/A"
+            },
+            "annual_turnover": "N/A",
+            "annual_production_value": "N/A"
+        },
+        "foundation_year": "N/A",
+        "board": [
+            {
+                "name": "N/A",
+                "role": "N/A"
+            }
+        ],
+        "directors": {
+            "director": "N/A",
+            "managing_director": "N/A",
+            "sales_manager": "N/A",
+            "manager": "N/A"
+        },
+        "coordinates": {
+            "Latitude": 62.6322698,
+            "Longitude": 17.9408714
+        },
+        "cluster": 7
+    }
+}

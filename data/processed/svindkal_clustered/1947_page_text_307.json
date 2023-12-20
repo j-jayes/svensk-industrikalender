@@ -1,0 +1,182 @@
+{
+    "1": {
+        "name": "Färg & Ferniss Fabriks AB",
+        "location": "Trelleborg",
+        "business": "Tillverkar emalj-, maskin-, olje- och rostskyddande färger, färgborttagnings-medel, cellulosalacker och cellulosalackfärger, fernissor, sickativer, asfalt-, cykel- och isolationslacker m. m.",
+        "contact": {
+            "head_office": "Trelleborg",
+            "telegraph": "Standard, Trelleborg",
+            "phone": [
+                "1590"
+            ],
+            "postgiro": "6238"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 35
+            },
+            "annual_turnover": "2,500,000 kr",
+            "annual_production_value": "2,500,000 kr"
+        },
+        "foundation_year": 1906,
+        "coordinates": {
+            "Latitude": 55.3762427,
+            "Longitude": 13.1574231
+        },
+        "cluster": 2
+    },
+    "2": {
+        "name": "AB. Färgelanda Sågverk",
+        "location": "Färgelanda",
+        "business": "Tillverkar sågade och hyvlade trävaror vid sågverk i Färgelanda (Älvsb. l.)",
+        "contact": {
+            "phone": [
+                "33"
+            ],
+            "postgiro": "88895"
+        },
+        "financials": {
+            "capital": "60,700 kr",
+            "employees": {
+                "industriarb": 34
+            },
+            "annual_production_value": "2,000 stds trävaror"
+        },
+        "foundation_year": 1906,
+        "corporation_year": 1939,
+        "coordinates": {
+            "Latitude": 58.567559,
+            "Longitude": 11.994926
+        },
+        "cluster": 7
+    },
+    "3": {
+        "name": "Färgeri & Appretur AB",
+        "location": "Norrköping",
+        "business": "Utför färgning och appretering av tyger",
+        "contact": {
+            "phone": [
+                "20873"
+            ],
+            "postgiro": "271942"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 40
+            },
+            "annual_production_value": "1,000,000 kr"
+        },
+        "foundation_year": 1921,
+        "coordinates": {
+            "Latitude": 58.587745,
+            "Longitude": 16.192421
+        },
+        "cluster": 3
+    },
+    "4": {
+        "name": "Färgeri AB. Levanten",
+        "location": "Göteborg",
+        "business": "Färgeri, blekeri och appreturverk. Utför blekning, färgning och appretering av bomullsvävnader, färgning och blekning av ull- och bomullsgarner, strumpor m. m.",
+        "contact": {
+            "telegraph": "Levanten, Göteborg",
+            "phone": [
+                "161302",
+                "161528"
+            ],
+            "postgiro": "41552"
+        },
+        "financials": {
+            "capital": "300,000 kr",
+            "employees": {
+                "industriarb": 105
+            }
+        },
+        "foundation_year": 1874,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 3
+    },
+    "5": {
+        "name": "Färgeri AB. Lind & Co.",
+        "location": "Borås",
+        "business": "Utför blekning, färgning och appretering, impregnering av sidentyger, fodervävnader och regnkappstyger, blekning och färgning av trikå samt garner av bomull och cellull å korsrullar; utrustar konstsilke- och cellullvävnader samt bomulls- och halvyllevaror.",
+        "contact": {
+            "phone": [
+                "17475"
+            ],
+            "postgiro": "134300"
+        },
+        "financials": {
+            "capital": "176,000 kr",
+            "employees": {
+                "industriarb": 95
+            },
+            "annual_production_value": "1,500,000 kr"
+        },
+        "foundation_year": 1900,
+        "corporation_year": 1911,
+        "coordinates": {
+            "Latitude": 57.72103500000001,
+            "Longitude": 12.939819
+        },
+        "cluster": 3
+    },
+    "6": {
+        "name": "AB. Färgverken",
+        "location": "Malmö",
+        "business": "Tillverkar färger, fernissor samt målerimaterial. Varumärke: »Japan White»",
+        "contact": {
+            "head_office": "Malmö, Torng. 11",
+            "telegraph": "Färgverken, Malmö",
+            "phone": [
+                "25818",
+                "28444"
+            ],
+            "postgiro": "14189"
+        },
+        "financials": {
+            "capital": "100,000 kr",
+            "employees": {
+                "industriarb": 14
+            },
+            "annual_production_value": "900,000 kr"
+        },
+        "foundation_year": 1913,
+        "corporation_year": 1918,
+        "coordinates": {
+            "Latitude": 55.604981,
+            "Longitude": 13.003822
+        },
+        "cluster": 2
+    },
+    "7": {
+        "name": "Färjenäs AB.",
+        "location": "Göteborg",
+        "business": "Sågverksrörelse och trävaruexport. Tillverkar sågade trävaror, tunnstav, lådbräder och lådämnen.",
+        "contact": {
+            "office": "Postg. 2",
+            "telegraph": "Färjenäs, Göteborg",
+            "phone": [
+                "118498"
+            ],
+            "postgiro": "40778"
+        },
+        "financials": {
+            "capital": "755,000 kr",
+            "employees": {
+                "industriarb": 30
+            },
+            "annual_production_value": "540,000 kr"
+        },
+        "foundation_year": 1893,
+        "coordinates": {
+            "Latitude": 57.70887,
+            "Longitude": 11.97456
+        },
+        "cluster": 7
+    }
+}
