@@ -37,7 +37,7 @@ cluster_mapping = {
     6: "Mechanical workshops",
     7: "Wood products industries",
     8: "Furniture manufacturers",
-    9: "Clothing and furniture retailers"
+    9: "Clothing manufacturers and retailers"
 }
 
 # Color mapping for each cluster
