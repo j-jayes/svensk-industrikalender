@@ -14,7 +14,8 @@
             "employees": {
                 "total": 7
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 7
         },
         "foundation_year": 1906,
         "board": [
@@ -50,7 +51,8 @@
             "employees": {
                 "total": 140
             },
-            "annual_turnover": 950000
+            "annual_turnover": 950000,
+            "employees_total": 140
         },
         "foundation_year": 1891,
         "corporation_year": 1913,
@@ -74,7 +76,7 @@
             "Latitude": 56.7018182,
             "Longitude": 15.5271585
         },
-        "cluster": 1
+        "cluster": 0
     },
     "3": {
         "name": "AB. Johansson & Ljunggren",
@@ -93,7 +95,8 @@
             "employees": {
                 "total": 80
             },
-            "annual_turnover": 950000
+            "annual_turnover": 950000,
+            "employees_total": 80
         },
         "foundation_year": 1932,
         "corporation_year": 1944,
@@ -102,7 +105,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "AB. A. Johanssons Radiofabrik",
@@ -118,7 +121,8 @@
             "employees": {
                 "total": 90
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 90
         },
         "foundation_year": 1923,
         "corporation_year": 1932,
@@ -127,7 +131,7 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Algot Johansson AB.",
@@ -144,7 +148,8 @@
             "employees": {
                 "total": 800
             },
-            "annual_turnover": 20000000
+            "annual_turnover": 20000000,
+            "employees_total": 800
         },
         "foundation_year": 1907,
         "corporation_year": 1937,
@@ -171,7 +176,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB. Axel Johanssons Mek. Verkstad",
@@ -187,7 +192,8 @@
             "employees": {
                 "total": 25
             },
-            "annual_turnover": 350000
+            "annual_turnover": 350000,
+            "employees_total": 25
         },
         "foundation_year": 1898,
         "corporation_year": 1937,
@@ -196,7 +202,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. Axel Johanssons Möbleringsaffär",
@@ -212,12 +218,13 @@
             "postgiro": "21191"
         },
         "financials": {
-            "capital": 76000
+            "capital": 76000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 60.60646000000001,
             "Longitude": 15.6355
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

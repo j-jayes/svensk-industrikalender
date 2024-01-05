@@ -17,7 +17,8 @@
                 "total": 8
             },
             "annual_turnover": 180000,
-            "annual_production_value": 180000
+            "annual_production_value": 180000,
+            "employees_total": 8
         },
         "foundation_year": 1927,
         "director": "Rudolf Ohlsson",
@@ -26,7 +27,7 @@
             "Latitude": 56.88022969999999,
             "Longitude": 16.6562355
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Ölands-Sandviks Bruks AB",
@@ -49,7 +50,8 @@
                 "total": 100
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 100
         },
         "foundation_year": 1910,
         "director": "Axel Holmquist",
@@ -58,7 +60,7 @@
             "Latitude": 57.0662375,
             "Longitude": 16.9323099
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "AB. Önos Fruktindustri",
@@ -74,7 +76,8 @@
                 "total": 70
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 70
         },
         "foundation_year": 1903,
         "board": [
@@ -105,7 +108,7 @@
             "Latitude": 55.9344942,
             "Longitude": 13.9744406
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Örbyhus Lantbruksmaskiner",
@@ -122,7 +125,8 @@
                 "total": 30
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 30
         },
         "foundation_year": 1944,
         "director": "Gösta Törnblom",
@@ -131,7 +135,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Örbyhus Syfabrik",
@@ -150,7 +154,8 @@
             "employees": {
                 "total": 155
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 155
         },
         "foundation_year": 1920,
         "director": "fabr. G. E. Tunelius",
@@ -159,7 +164,7 @@
             "Latitude": 60.22448389999999,
             "Longitude": 17.7015559
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB. Örebro Bleckemballagefabrik",
@@ -179,7 +184,8 @@
                 "total": 128
             },
             "annual_turnover": 2100000,
-            "annual_production_value": 2100000
+            "annual_production_value": 2100000,
+            "employees_total": 128
         },
         "foundation_year": 1942,
         "director": "Bertil Palmgren",
@@ -188,7 +194,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 17
     },
     "7": {
         "name": "Örebro Bryggeri AB",
@@ -209,7 +215,8 @@
                 "total": 30
             },
             "annual_turnover": 900000,
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 30
         },
         "foundation_year": 1902,
         "director": "Erland Skantze",
@@ -217,7 +224,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 16
     },
     "8": {
         "name": "Örebro Elektriska AB",
@@ -232,13 +239,14 @@
             "capital": "N/A",
             "employees": "N/A",
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 2
     }
 }

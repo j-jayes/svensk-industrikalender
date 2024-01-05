@@ -64,7 +64,7 @@
         ],
         "director": "O. E. Borgenstierna",
         "managing_director": "Malte Ericsson",
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "AB. Lunds Mek. Verkstad, Lund",
@@ -105,7 +105,7 @@
             }
         ],
         "director": "Malte Neuendorff",
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Lunds Skofabrik, Lund",
@@ -125,7 +125,7 @@
         },
         "foundation_year": 1880,
         "director": "Philip Andersson",
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "Carl Lunds Fabriks AB., Malmö",
@@ -146,7 +146,7 @@
         "disp": "Frank G. Nelson",
         "kamrer": "Gösta Jönsson",
         "sales_manager": "Einar Olsson",
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. Baltzar Lundström, Stockholm",
@@ -179,7 +179,7 @@
         "director": "Baltzar Lundström",
         "manager": "Anders Malmström",
         "sales_manager": "Lars Henschen",
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "E. W. Lundströms Mek. Verkstad AB., Limhamn",
@@ -197,7 +197,7 @@
         },
         "foundation_year": 1894,
         "director": "ing. Albert Lundström",
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "Luossavaara—Kiirunavaara AB., Stockholm",
@@ -214,6 +214,6 @@
             }
         },
         "foundation_year": "unspecified",
-        "cluster": 6
+        "cluster": 2
     }
 }

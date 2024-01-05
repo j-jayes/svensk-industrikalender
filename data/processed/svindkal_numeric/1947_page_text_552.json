@@ -17,14 +17,15 @@
                 "industriarb": 40
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 40
         },
         "foundation_year": 1936,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "Nya Skofabriks AB",
@@ -40,14 +41,15 @@
                 "industriarb": 25
             },
             "annual_turnover": 150000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 25
         },
         "foundation_year": 1945,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "Nya Snickerifabriken, A. Karlsson",
@@ -66,14 +68,15 @@
                 "industriarb": 15
             },
             "annual_turnover": 250000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 15
         },
         "foundation_year": 1926,
         "coordinates": {
             "Latitude": 57.6993996,
             "Longitude": 13.0232929
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Nya Snickerifabriken i Lindesberg AB.",
@@ -89,14 +92,15 @@
                 "industriarb": 20
             },
             "annual_turnover": 275000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 20
         },
         "foundation_year": 1911,
         "coordinates": {
             "Latitude": 59.5976983,
             "Longitude": 15.2229108
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Nya Snickerifabriken, Olofsson & Nilsson",
@@ -111,14 +115,15 @@
                 "antal": 9
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 9
         },
         "foundation_year": 1915,
         "coordinates": {
             "Latitude": 56.50575569999999,
             "Longitude": 13.0456048
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Nya AB. Sömmens Lådfabrik",
@@ -135,14 +140,15 @@
                 "industriarb": 85
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "6,000 stds lådbräder"
+            "annual_production_value": "6,000 stds lådbräder",
+            "employees_total": 85
         },
         "foundation_year": 1916,
         "coordinates": {
             "Latitude": 58.1388201,
             "Longitude": 14.9675701
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Nya AB. Stängselfabriken",
@@ -159,14 +165,15 @@
                 "industriarb": 20
             },
             "annual_turnover": 300000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 20
         },
         "foundation_year": 1908,
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "Nya AB. Stängselnät i Rydsgård",
@@ -183,14 +190,15 @@
                 "industriarb": 70
             },
             "annual_turnover": 1500000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 70
         },
         "foundation_year": 1910,
         "coordinates": {
             "Latitude": 55.4731275,
             "Longitude": 13.5876839
         },
-        "cluster": 6
+        "cluster": 12
     },
     "9": {
         "name": "Nya AB. Sveaverken",
@@ -207,13 +215,14 @@
                 "industriarb": 1
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 1
         },
         "foundation_year": "Not available",
         "coordinates": {
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

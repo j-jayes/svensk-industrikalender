@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 55
         },
         "foundation_year": 1916,
         "corporation_year": 1928,
@@ -33,7 +34,7 @@
             "Latitude": 57.2392274,
             "Longitude": 15.1842913
         },
-        "cluster": 2
+        "cluster": 0
     },
     "2": {
         "name": "Lindsjös Verkstäder AB.",
@@ -52,7 +53,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": 520000
+            "annual_production_value": 520000,
+            "employees_total": 30
         },
         "foundation_year": 1898,
         "corporation_year": 1923,
@@ -68,7 +70,7 @@
             "Latitude": 55.3762427,
             "Longitude": 13.1574231
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Abet Lindströms Tricotfabrik",
@@ -89,7 +91,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 90
         },
         "foundation_year": 1913,
         "corporation_year": 1929,
@@ -120,7 +123,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 90
         },
         "foundation_year": 1913,
         "corporation_year": 1929,
@@ -146,14 +150,15 @@
         "financials": {
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1878,
         "coordinates": {
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 2
+        "cluster": 0
     },
     "6": {
         "name": "Carl Lindströms Eftr. Konst-smidesverkstad",
@@ -170,14 +175,15 @@
             "employees": {
                 "industriarb": 29
             },
-            "annual_production_value": 330000
+            "annual_production_value": 330000,
+            "employees_total": 29
         },
         "foundation_year": 1904,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "F. E. Lindström AB.",
@@ -195,7 +201,8 @@
             "employees": {
                 "industriarb": 120
             },
-            "annual_production_value": 1400000
+            "annual_production_value": 1400000,
+            "employees_total": 120
         },
         "foundation_year": 1856,
         "corporation_year": 1930,
@@ -218,7 +225,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "AB. Gustaf Lindströms Boktryckeri",
@@ -236,6 +243,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

@@ -16,7 +16,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 400000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 70
         },
         "foundation_year": 1943,
         "owners": [
@@ -32,7 +33,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 2
     },
     "2": {
         "name": "Isolerings AB. Cementol",
@@ -52,7 +53,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 600000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 30
         },
         "foundation_year": 1918,
         "owners": [
@@ -76,7 +78,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "Ivarsson AB., Bröderna",
@@ -90,7 +92,7 @@
             "Latitude": 56.3815355,
             "Longitude": 13.9929413
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Ivarssons Skofabrik AB.",
@@ -108,7 +110,8 @@
                 "industriarb": 70
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 70
         },
         "foundation_year": 1924,
         "owners": [
@@ -147,7 +150,8 @@
                 "industriarb": 75
             },
             "annual_turnover": 335000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 75
         },
         "foundation_year": 1900,
         "owners": [
@@ -164,7 +168,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "Hjalmar Jackson",
@@ -183,7 +187,8 @@
                 "antal": 10
             },
             "annual_turnover": 150000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 10
         },
         "foundation_year": 1916,
         "owners": [
@@ -200,7 +205,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Jac. Jacobsen AB.",
@@ -222,7 +227,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 20
         },
         "foundation_year": 1939,
         "owners": [
@@ -246,7 +252,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 0
     },
     "8": {
         "name": "AB. G. L. Jacoby",
@@ -265,7 +271,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 20
         },
         "foundation_year": 1860,
         "owners": [
@@ -281,7 +288,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "9": {
         "name": "AB. Jaeger Konfektyrindustri",
@@ -299,12 +306,13 @@
                 "antal": 30
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 30
         },
         "coordinates": {
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

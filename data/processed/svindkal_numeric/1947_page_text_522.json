@@ -20,7 +20,8 @@
                 "Orresta": 10
             },
             "annual_turnover": "Unknown",
-            "annual_production_value": "1,000 stds trävaror"
+            "annual_production_value": "1,000 stds trävaror",
+            "employees_total": 35
         },
         "foundation_year": 1901,
         "corporation_year": 1932,
@@ -34,7 +35,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Myrbacka Sågverks AB.",
@@ -52,7 +53,8 @@
             "capital": 78400,
             "employees": 34,
             "annual_turnover": "Unknown",
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 0
         },
         "foundation_year": 1900,
         "board": {
@@ -85,7 +87,7 @@
             "Latitude": 60.54959609999999,
             "Longitude": 14.3650969
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Myrens Mek. Verkstads AB.",
@@ -104,7 +106,8 @@
             "capital": 35000,
             "employees": 22,
             "annual_turnover": "Unknown",
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 0
         },
         "foundation_year": 1915,
         "board": {
@@ -117,7 +120,7 @@
             "Latitude": 58.9383459,
             "Longitude": 11.1791871
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "AB. Myresjö-Hus",
@@ -135,7 +138,8 @@
             "capital": 300000,
             "employees": 150,
             "annual_turnover": 6000000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 0
         },
         "corporation_year": 1932,
         "board": {
@@ -164,7 +168,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Mål i I la Mek. Verkstad",
@@ -193,7 +197,8 @@
         },
         "financials": {
             "employees": 22,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 0
         },
         "foundation_year": 1898,
         "owner": "Halward Haglund",
@@ -201,7 +206,7 @@
             "Latitude": 57.36628419999999,
             "Longitude": 15.8381097
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Malte Månson AB.",
@@ -217,7 +222,8 @@
         "financials": {
             "capital": 150000,
             "employees": 122,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 0
         },
         "corporation_year": 1942,
         "director": "Malte Månson",
@@ -226,6 +232,6 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

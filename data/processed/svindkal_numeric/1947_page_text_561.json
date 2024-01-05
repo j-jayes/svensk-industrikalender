@@ -17,7 +17,8 @@
                 "industriarb": 75
             },
             "annual_turnover": 1200000,
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 75
         },
         "foundation_year": 1923,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 1
+        "cluster": 13
     },
     "2": {
         "name": "Nässjö Lådfabrik",
@@ -59,7 +60,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 250000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 20
         },
         "foundation_year": 1943,
         "director": "ing. Sven-Gösta Stenberg",
@@ -67,7 +69,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Nässjö Möbelkompani",
@@ -87,7 +89,8 @@
                 "Arb.-antal": 12
             },
             "annual_turnover": 100000,
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 12
         },
         "foundation_year": 1924,
         "board": [
@@ -117,7 +120,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Nässjö Stolfabrik",
@@ -138,7 +141,8 @@
                 "industriarb": 235
             },
             "annual_turnover": 3000000,
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 235
         },
         "foundation_year": 1940,
         "board": [
@@ -160,7 +164,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Nässjö Tricotfabrik",
@@ -180,7 +184,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 500000,
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 30
         },
         "foundation_year": 1920,
         "director": "fabr. Gustaf Wahlin",
@@ -188,7 +193,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Nässjö Vaddfabriker",
@@ -208,7 +213,8 @@
                 "industriarb": 14
             },
             "annual_turnover": 550000,
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 14
         },
         "foundation_year": 1905,
         "board": [
@@ -230,7 +236,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "Nät-AB.",
@@ -249,7 +255,8 @@
                 "not available": 0
             },
             "annual_turnover": "not available",
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 0
         },
         "foundation_year": 1929,
         "manager": "Bengt Eiserman",
@@ -264,7 +271,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 12
     },
     "8": {
         "name": "Nättraby Bruks AB.",
@@ -284,7 +291,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "not available",
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 20
         },
         "foundation_year": 1940,
         "board": [
@@ -302,7 +310,7 @@
             "Latitude": 56.2011731,
             "Longitude": 15.5365459
         },
-        "cluster": 5
+        "cluster": 17
     },
     "9": {
         "name": "Nääs Fabriks AB.",
@@ -324,7 +332,8 @@
                 "industriarb": 400
             },
             "annual_turnover": 5000000,
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 400
         },
         "foundation_year": 1880,
         "board": [
@@ -354,6 +363,6 @@
             "Latitude": 57.8192649,
             "Longitude": 12.4188879
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

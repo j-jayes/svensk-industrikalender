@@ -16,7 +16,8 @@
                 "industriarb": 175
             },
             "annual_turnover": 6000000,
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 175
         },
         "foundation_year": 1936,
         "board": [
@@ -49,7 +50,8 @@
                 "industriarb": 175
             },
             "annual_turnover": 4000000,
-            "annual_production_value": 4000000
+            "annual_production_value": 4000000,
+            "employees_total": 175
         },
         "foundation_year": 1898,
         "board": [
@@ -94,7 +96,8 @@
                 "industriarb": 75
             },
             "annual_turnover": 1700000,
-            "annual_production_value": 1700000
+            "annual_production_value": 1700000,
+            "employees_total": 75
         },
         "foundation_year": 1939,
         "board": [
@@ -112,7 +115,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Regulator AB. Armas",
@@ -131,7 +134,8 @@
                 "industriarb": 18
             },
             "annual_turnover": 375000,
-            "annual_production_value": 375000
+            "annual_production_value": 375000,
+            "employees_total": 18
         },
         "corporation_year": 1923,
         "board": [
@@ -154,7 +158,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Regulator- & Instrument AB. Billman",
@@ -187,7 +191,8 @@
                 "industriarb": 95
             },
             "annual_turnover": 1700000,
-            "annual_production_value": 1700000
+            "annual_production_value": 1700000,
+            "employees_total": 95
         },
         "corporation_year": 1945,
         "board": [
@@ -211,7 +216,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Reijmyre Glasbruk AB.",
@@ -230,7 +235,8 @@
                 "industriarb": 80
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 80
         },
         "foundation_year": 1937,
         "board": [
@@ -252,7 +258,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 2
+        "cluster": 0
     },
     "7": {
         "name": "AB. Reijmyre Lädervarufabrik",
@@ -271,7 +277,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1933,
         "current_name_year": 1938,

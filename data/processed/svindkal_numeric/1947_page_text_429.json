@@ -16,7 +16,8 @@
             "employees": {
                 "total": 15
             },
-            "annual_turnover": 230000
+            "annual_turnover": 230000,
+            "employees_total": 15
         },
         "foundation_year": 1921,
         "corporation_year": 1941,
@@ -39,7 +40,7 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 1
+        "cluster": 10
     },
     "2": {
         "name": "AB. Klichéanstalten Petit",
@@ -58,7 +59,8 @@
             "employees": {
                 "total": 24
             },
-            "annual_turnover": 295000
+            "annual_turnover": 295000,
+            "employees_total": 24
         },
         "foundation_year": 1926,
         "board": [
@@ -71,7 +73,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 10
     },
     "3": {
         "name": "Klichécentralen",
@@ -89,7 +91,8 @@
             "employees": {
                 "total": 25
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 25
         },
         "foundation_year": 1921,
         "owner": "fabr. Erik Olauson",
@@ -97,7 +100,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Klint, Bernhardt & Co. AB.",
@@ -112,7 +115,8 @@
             "employees": {
                 "total": 94
             },
-            "annual_turnover": 5000000
+            "annual_turnover": 5000000,
+            "employees_total": 94
         },
         "foundation_year": 1873,
         "corporation_year": 1944,
@@ -139,7 +143,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 3
     },
     "5": {
         "name": "AB. Klintebys Konservfabrik",
@@ -154,7 +158,8 @@
             "employees": {
                 "total": 54
             },
-            "annual_turnover": 1300000
+            "annual_turnover": 1300000,
+            "employees_total": 54
         },
         "foundation_year": 1915,
         "corporation_year": 1932,
@@ -164,7 +169,7 @@
             "Latitude": 57.3865687,
             "Longitude": 18.2036996
         },
-        "cluster": 1
+        "cluster": 13
     },
     "6": {
         "name": "AB. Klippans Finpappersbruk",
@@ -179,13 +184,14 @@
             "employees": {
                 "total": 625
             },
-            "annual_production_value": "6,500 ton papper o. kartong"
+            "annual_production_value": "6,500 ton papper o. kartong",
+            "employees_total": 625
         },
         "foundation_year": 1573,
         "coordinates": {
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

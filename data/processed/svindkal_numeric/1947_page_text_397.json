@@ -23,7 +23,8 @@
                 "industriarb": 35
             },
             "annual_turnover": null,
-            "annual_production_value": "2,000 stds trävaror"
+            "annual_production_value": "2,000 stds trävaror",
+            "employees_total": 35
         },
         "foundation_year": 1933,
         "owners": [
@@ -39,7 +40,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. japana",
@@ -71,7 +72,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 1200000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 10
         },
         "foundation_year": 1920,
         "owners": null,
@@ -93,7 +95,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Jawe",
@@ -116,7 +118,8 @@
             "capital": 10000,
             "employees": null,
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 0
         },
         "foundation_year": 1933,
         "owners": null,
@@ -138,7 +141,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "N. Chr. Jensen, Trävaru AB.",
@@ -167,7 +170,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 7
+        "cluster": 18
     },
     "5": {
         "name": "Jerfeds Mek. Verkstads AB.",
@@ -192,7 +195,8 @@
                 "industriarb": 90
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 90
         },
         "foundation_year": 1878,
         "owners": null,
@@ -243,7 +247,8 @@
                 "industriarb": 15
             },
             "annual_turnover": null,
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 15
         },
         "foundation_year": 1889,
         "owners": null,
@@ -269,7 +274,7 @@
             "Latitude": 59.517329,
             "Longitude": 15.1497463
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Jerlins Konfektfabrik",
@@ -292,7 +297,8 @@
             "capital": null,
             "employees": null,
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 0
         },
         "foundation_year": 1889,
         "owners": [
@@ -308,7 +314,7 @@
             "Latitude": 61.7273909,
             "Longitude": 17.107401
         },
-        "cluster": 2
+        "cluster": 13
     },
     "8": {
         "name": "AB. Magnus Jernberg",
@@ -337,7 +343,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 1
+        "cluster": 18
     },
     "9": {
         "name": "Sven Jesperssons Snickerifabrik",
@@ -363,7 +369,8 @@
                 "industriarb": 42
             },
             "annual_turnover": null,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 42
         },
         "foundation_year": 1903,
         "owners": null,
@@ -376,7 +383,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "10": {
         "name": "Ji-Te AB.",
@@ -399,7 +406,8 @@
             "capital": null,
             "employees": null,
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 0
         },
         "foundation_year": null,
         "owners": null,
@@ -412,6 +420,6 @@
             "Latitude": 56.134262,
             "Longitude": 12.945908
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

@@ -23,7 +23,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 600000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 40
         },
         "foundation_year": 1913,
         "current_name_year": null,
@@ -50,7 +51,7 @@
         "sales_manager": null,
         "manager": null,
         "coordinates": null,
-        "cluster": 1
+        "cluster": 9
     },
     "2": {
         "name": "Ret-Cé Konfektions AB.",
@@ -75,7 +76,8 @@
                 "industriarb": 105
             },
             "annual_turnover": 1500000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 105
         },
         "foundation_year": 1942,
         "current_name_year": null,
@@ -109,7 +111,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Rexolin Fabriken AB.",
@@ -134,7 +136,8 @@
                 "Arb.-antal": 6
             },
             "annual_turnover": 300000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 6
         },
         "foundation_year": 1960,
         "current_name_year": 1924,
@@ -156,7 +159,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "Rexor-Industri",
@@ -181,7 +184,8 @@
                 "industriarb": 10
             },
             "annual_turnover": "150,Ö00 kr",
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 10
         },
         "foundation_year": 1945,
         "current_name_year": null,
@@ -211,7 +215,7 @@
             "Latitude": 57.9165989,
             "Longitude": 13.8773174
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Reymersholms Gamla industri AB.",
@@ -234,7 +238,8 @@
                 "industriarb": 700
             },
             "annual_turnover": 20000000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 700
         },
         "foundation_year": null,
         "current_name_year": null,
@@ -268,7 +273,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "AB. Reymersholms Livsmedel",
@@ -289,7 +294,8 @@
             "capital": 300000,
             "employees": null,
             "annual_turnover": 4000000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 0
         },
         "foundation_year": 1932,
         "current_name_year": null,
@@ -315,7 +321,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "Erling Richard AB.",
@@ -338,7 +344,8 @@
             "capital": null,
             "employees": null,
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 0
         },
         "foundation_year": null,
         "current_name_year": null,
@@ -355,6 +362,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

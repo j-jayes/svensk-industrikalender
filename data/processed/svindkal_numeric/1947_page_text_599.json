@@ -17,7 +17,8 @@
                 "industriarb": 44
             },
             "annual_turnover": 400000,
-            "annual_production_value": "Ej angiven"
+            "annual_production_value": "Ej angiven",
+            "employees_total": 44
         },
         "foundation_year": 1923,
         "owners": [
@@ -29,7 +30,7 @@
             "Latitude": 58.4082716,
             "Longitude": 15.5645529
         },
-        "cluster": 2
+        "cluster": 0
     },
     "2": {
         "name": "Rydahls Manufaktur AB",
@@ -49,7 +50,8 @@
                 "industriarb": 314
             },
             "annual_turnover": 5600000,
-            "annual_production_value": "Ej angiven"
+            "annual_production_value": "Ej angiven",
+            "employees_total": 314
         },
         "foundation_year": 1853,
         "board": [
@@ -76,7 +78,7 @@
             "Latitude": 57.55653520000001,
             "Longitude": 12.6918137
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "AB. Ernst Hj. Rydahl",
@@ -96,7 +98,8 @@
                 "industriarb": 28
             },
             "annual_turnover": 400000,
-            "annual_production_value": "Ej angiven"
+            "annual_production_value": "Ej angiven",
+            "employees_total": 28
         },
         "foundation_year": 1914,
         "director": "fabr. Knut Rydahl",
@@ -104,7 +107,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "Rydaholms Tråd & Järnförädling",
@@ -123,7 +126,8 @@
                 "industriarb": 7
             },
             "annual_turnover": "Ej angiven",
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 7
         },
         "foundation_year": 1934,
         "owner": "fabr. Axel Carlsson, fabr. Erik Carlsson, fabr. John Lindbladh",
@@ -132,7 +136,7 @@
             "Latitude": 56.9861429,
             "Longitude": 14.3061766
         },
-        "cluster": 1
+        "cluster": 9
     },
     "5": {
         "name": "Sven Rydberg, Möbelfabrik",
@@ -151,7 +155,8 @@
                 "industriarb": 12
             },
             "annual_turnover": 175000,
-            "annual_production_value": "Ej angiven"
+            "annual_production_value": "Ej angiven",
+            "employees_total": 12
         },
         "foundation_year": 1935,
         "owner": "fabr. Sven Rydberg",
@@ -160,7 +165,7 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Rydboholms AB.",
@@ -180,7 +185,8 @@
                 "industriarb": 850
             },
             "annual_turnover": 15000000,
-            "annual_production_value": "Ej angiven"
+            "annual_production_value": "Ej angiven",
+            "employees_total": 850
         },
         "foundation_year": 1834,
         "board": [
@@ -210,7 +216,7 @@
             "Latitude": 57.65492760000001,
             "Longitude": 12.8842624
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "Rydefors Glasbruk",
@@ -230,7 +236,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 830000,
-            "annual_production_value": "Ej angiven"
+            "annual_production_value": "Ej angiven",
+            "employees_total": 50
         },
         "owner": "Meijer & Co",
         "director": "Emil Meijer",
@@ -238,7 +245,7 @@
             "Latitude": 56.98333299999999,
             "Longitude": 15.683333
         },
-        "cluster": 2
+        "cluster": 0
     },
     "8": {
         "name": "AB. A. W. Rydén",
@@ -259,7 +266,8 @@
                 "industriarb": 90
             },
             "annual_turnover": "Ej angiven",
-            "annual_production_value": "Ej angiven"
+            "annual_production_value": "Ej angiven",
+            "employees_total": 90
         },
         "foundation_year": 1904,
         "manager": "A. W. Rydén",
@@ -267,6 +275,6 @@
             "Latitude": 56.745012,
             "Longitude": 15.907874
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

@@ -26,7 +26,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 1
+        "cluster": 5
     },
     "2": {
         "name": "AB. Skjutfönster",
@@ -53,7 +53,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 0
     },
     "3": {
         "name": "AB. Sko-Cement",
@@ -78,7 +78,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 3
     },
     "4": {
         "name": "Skofabriken Eyra",
@@ -102,7 +102,7 @@
             "Latitude": 55.7939999,
             "Longitude": 13.1104293
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "Skofabriken Hebe AB.",
@@ -151,7 +151,7 @@
             "Latitude": 59.2599776,
             "Longitude": 15.2441033
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "Skofabriken Johansson &amp; Söner",
@@ -175,7 +175,7 @@
             "Latitude": 56.90273329999999,
             "Longitude": 12.4888013
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "Skofabriken Ree",
@@ -197,7 +197,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "9": {
         "name": "AB. Skofabriken Rex",
@@ -220,7 +220,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "10": {
         "name": "Skofabriks AB. Runa",
@@ -240,7 +240,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 9
     },
     "11": {
         "name": "AB. Skofabriken Skändia",
@@ -255,6 +255,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

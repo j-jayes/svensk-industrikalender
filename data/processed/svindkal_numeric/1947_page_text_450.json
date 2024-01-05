@@ -22,7 +22,8 @@
                 "industriarb": 23
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 23
         },
         "foundation_year": 1913,
         "board": [
@@ -44,7 +45,7 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Kvarn AB",
@@ -68,7 +69,8 @@
                 "industriarb": 280
             },
             "annual_turnover": 28000000,
-            "annual_production_value": 28000000
+            "annual_production_value": 28000000,
+            "employees_total": 280
         },
         "foundation_year": 1897,
         "owners": [
@@ -89,7 +91,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "Kyarnbyggerifirman Vilh. Bäckman",
@@ -113,7 +115,8 @@
                 "industriarb": 45
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 45
         },
         "foundation_year": 1921,
         "board": [],
@@ -124,7 +127,7 @@
             "Latitude": 57.5188928,
             "Longitude": 14.9045962
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "A. Kvarnholt",
@@ -148,7 +151,8 @@
                 "industriarb": 19
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 19
         },
         "foundation_year": 1920,
         "owners": [
@@ -158,7 +162,7 @@
             "Latitude": 55.5724415,
             "Longitude": 12.9147749
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "AB. Kvarnintressenter",
@@ -179,7 +183,8 @@
         "financials": {
             "capital": 8552000,
             "annual_turnover": 42950000,
-            "annual_production_value": 42950000
+            "annual_production_value": 42950000,
+            "employees_total": 0
         },
         "foundation_year": 1927,
         "board": [
@@ -197,7 +202,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "AB. Kvarnmaskiner",
@@ -222,7 +227,8 @@
             "capital": 450000,
             "employees": {
                 "industriarb": 250
-            }
+            },
+            "employees_total": 250
         },
         "foundation_year": 1867,
         "corporation_year": 1899,
@@ -238,7 +244,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Kvarnmaskiner",
@@ -260,12 +266,13 @@
             "capital": "Not provided",
             "employees": {
                 "industriarb": "Not provided"
-            }
+            },
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 59.5976983,
             "Longitude": 15.2229108
         },
-        "cluster": 1
+        "cluster": 11
     }
 }

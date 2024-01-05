@@ -20,7 +20,8 @@
             "employees": {
                 "industriarb": 135
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 135
         },
         "foundation_year": 1889,
         "corporation_year": 1925,
@@ -56,7 +57,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 140000
+            "annual_turnover": 140000,
+            "employees_total": 20
         },
         "foundation_year": 1887,
         "corporation_year": 1917,
@@ -98,7 +100,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 375000
+            "annual_turnover": 375000,
+            "employees_total": 25
         },
         "foundation_year": 1885,
         "director": "Nygårds Anders Eriksson",
@@ -120,7 +123,8 @@
             "employees": {
                 "industriarb": 5
             },
-            "annual_turnover": 50000
+            "annual_turnover": 50000,
+            "employees_total": 5
         },
         "foundation_year": 1942,
         "manager": "Oskar Andersson",
@@ -128,7 +132,7 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "R. Anderssons Snickerifabrik",
@@ -141,7 +145,8 @@
         "financials": {
             "employees": {
                 "industriarb": 7
-            }
+            },
+            "employees_total": 7
         },
         "foundation_year": 1924,
         "manager": "Ernst Rich. Andersson",
@@ -149,7 +154,7 @@
             "Latitude": 58.3860128,
             "Longitude": 13.4393282
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. Robert Anderssons Konst-svarveri",
@@ -170,7 +175,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1907,
         "corporation_year": 1944,
@@ -193,7 +199,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Samuel Andersson",
@@ -207,7 +213,8 @@
             "employees": {
                 "industriarb": 13
             },
-            "annual_turnover": 290000
+            "annual_turnover": 290000,
+            "employees_total": 13
         },
         "foundation_year": 1898,
         "manager": "Samuel Andersson",
@@ -215,7 +222,7 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "Sven Andersson",
@@ -229,7 +236,8 @@
         "financials": {
             "employees": {
                 "industriarb": 65
-            }
+            },
+            "employees_total": 65
         },
         "foundation_year": 1932,
         "manager": "Sven Andersson",
@@ -237,7 +245,7 @@
             "Latitude": 58.222051,
             "Longitude": 11.9182903
         },
-        "cluster": 9
+        "cluster": 5
     },
     "9": {
         "name": "Th. Andersson",
@@ -251,7 +259,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1928,
         "manager": "Theodor Andersson",
@@ -273,7 +282,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 15
         },
         "foundation_year": 1931,
         "manager": "Thure Andersson",
@@ -281,6 +291,6 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

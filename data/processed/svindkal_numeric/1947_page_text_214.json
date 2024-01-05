@@ -15,7 +15,8 @@
                 "industriarb": 17
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 17
         },
         "foundation_year": 1924,
         "owners": [
@@ -26,7 +27,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 1
+        "cluster": 9
     },
     "2": {
         "name": "Bröderna Johansson, Snickerifabrik",
@@ -44,7 +45,8 @@
                 "industriarb": 12
             },
             "annual_turnover": 90000,
-            "annual_production_value": 90000
+            "annual_production_value": 90000,
+            "employees_total": 12
         },
         "foundation_year": 1924,
         "owners": [
@@ -55,7 +57,7 @@
             "Latitude": 56.3815355,
             "Longitude": 13.9929413
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Bröderna Johanssons Stol- & Möbelfabrik",
@@ -73,7 +75,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 35
         },
         "foundation_year": 1918,
         "corporation_year": 1940,
@@ -95,7 +98,7 @@
             "Latitude": 57.3199949,
             "Longitude": 15.5812344
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Bröderna Josefssons Trlkåfabrik",
@@ -113,7 +116,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 30
         },
         "foundation_year": 1945,
         "owners": [
@@ -124,7 +128,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Bröderna Kanold AB.",
@@ -148,7 +152,8 @@
                 "industriarb": 162
             },
             "annual_turnover": 4000000,
-            "annual_production_value": 4000000
+            "annual_production_value": 4000000,
+            "employees_total": 162
         },
         "foundation_year": 1901,
         "corporation_year": 1921,
@@ -165,7 +170,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Bröderna Karlssons Snickerifabrik",
@@ -183,7 +188,8 @@
                 "industriarb": 12
             },
             "annual_turnover": 124000,
-            "annual_production_value": 124000
+            "annual_production_value": 124000,
+            "employees_total": 12
         },
         "foundation_year": 1926,
         "owners": [
@@ -195,7 +201,7 @@
             "Latitude": 56.50575569999999,
             "Longitude": 13.0456048
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Bröderna Karlssons Verkstads AB.",
@@ -214,7 +220,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1915,
         "corporation_year": 1920,
@@ -224,7 +231,7 @@
             "Latitude": 59.63569090000001,
             "Longitude": 17.0778228
         },
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "AB. Bröderna Kjellström",
@@ -244,6 +251,6 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 1
+        "cluster": 13
     }
 }

@@ -16,7 +16,8 @@
             },
             "capital": "N/A",
             "annual_turnover": 186000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 11
         },
         "foundation_year": 1940,
         "owners": [
@@ -30,7 +31,7 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 0
+        "cluster": 12
     },
     "2": {
         "name": "AB. Rosenblads Patenter",
@@ -50,7 +51,8 @@
             },
             "capital": 84000,
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 40
         },
         "foundation_year": 1933,
         "board": [
@@ -74,7 +76,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Rosendahls Fabriker AB.",
@@ -95,7 +97,8 @@
             },
             "capital": 350000,
             "annual_turnover": 2500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 75
         },
         "foundation_year": 1922,
         "board": [
@@ -119,7 +122,7 @@
             "Latitude": 59.7139973,
             "Longitude": 14.1698445
         },
-        "cluster": 5
+        "cluster": 17
     },
     "4": {
         "name": "AB. Rosenfors Bruk",
@@ -141,7 +144,8 @@
             },
             "capital": 100000,
             "annual_turnover": 2100000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 175
         },
         "foundation_year": 1802,
         "board": [
@@ -172,7 +176,7 @@
             "Latitude": 57.36628419999999,
             "Longitude": 15.8381097
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Rosenforsmöbler",
@@ -191,7 +195,8 @@
                 "antal": 10
             },
             "annual_turnover": 80000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 10
         },
         "foundation_year": 1934,
         "board": [],
@@ -203,7 +208,7 @@
             "Latitude": 57.36628419999999,
             "Longitude": 15.8381097
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "F. A. Rosengrens Kassaskåpsfabriks AB.",
@@ -213,6 +218,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

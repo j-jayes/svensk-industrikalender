@@ -15,7 +15,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 0,
         "current_name_year": 0,
@@ -29,7 +30,7 @@
             "Latitude": 57.71795720000001,
             "Longitude": 12.0825954
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Säveåns AB.",
@@ -49,7 +50,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 0,
         "current_name_year": 0,
@@ -63,7 +65,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Se Västsvenska Fläkt AB.",
@@ -83,7 +85,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 0,
         "current_name_year": 0,
@@ -97,7 +100,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 4
     },
     "4": {
         "name": "Sävsjö-hus, Fabian Andersson",
@@ -116,7 +119,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1920,
         "current_name_year": 0,
@@ -130,7 +134,7 @@
             "Latitude": 57.39899579999999,
             "Longitude": 14.6658136
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Sävsjös Mekaniska Borstfabrik",
@@ -152,7 +156,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": 1000000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1943,
         "current_name_year": 0,
@@ -166,7 +171,7 @@
             "Latitude": 57.39899579999999,
             "Longitude": 14.6658136
         },
-        "cluster": 1
+        "cluster": 3
     },
     "6": {
         "name": "Säfsjö Skofabriks AB.",
@@ -188,7 +193,8 @@
             "capital": "150 000 kr.",
             "employees": {},
             "annual_turnover": 500000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1876,
         "current_name_year": 0,
@@ -215,7 +221,7 @@
             "Latitude": 57.39899579999999,
             "Longitude": 14.6658136
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "AB. Sävsjö Snickerifabrik",
@@ -237,7 +243,8 @@
             "capital": 30000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1918,
         "current_name_year": 1930,
@@ -256,7 +263,7 @@
             "Latitude": 57.39899579999999,
             "Longitude": 14.6658136
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "Sävsjö Trävaru & Handels AB.",
@@ -278,7 +285,8 @@
             "capital": 500000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": "3,000 stds trävaror"
+            "annual_production_value": "3,000 stds trävaror",
+            "employees_total": 0
         },
         "foundation_year": 1868,
         "current_name_year": 1921,
@@ -305,7 +313,7 @@
             "Latitude": 57.39899579999999,
             "Longitude": 14.6658136
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "B. F. Söderberg & C:o Skofabrik",
@@ -328,7 +336,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": 610000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1900,
         "current_name_year": 0,
@@ -342,7 +351,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 5
     },
     "10": {
         "name": "Gustaf Söderbergs Konfektionsindustri",
@@ -365,7 +374,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1933,
         "current_name_year": 0,
@@ -379,7 +389,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 19
     },
     "11": {
         "name": "AB. Hj. Söderberg",
@@ -399,7 +409,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 0,
         "current_name_year": 0,
@@ -413,6 +424,6 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 3
+        "cluster": 19
     }
 }

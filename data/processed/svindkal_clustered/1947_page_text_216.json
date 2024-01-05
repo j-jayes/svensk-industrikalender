@@ -69,7 +69,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Bröderna Ljungquist",
@@ -103,7 +103,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB Bröderna Lönn",
@@ -113,7 +113,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Bröderna Magnusson",
@@ -141,7 +141,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB Bröderna Magnusson Trä & Metallindustri",
@@ -180,7 +180,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "AB Bröderna Malmqvists Möbelfabrik",
@@ -217,7 +217,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "9": {
         "name": "Bröderna Melinders Skofabrik",
@@ -246,6 +246,6 @@
             "Latitude": 62.98592969999999,
             "Longitude": 18.4316649
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

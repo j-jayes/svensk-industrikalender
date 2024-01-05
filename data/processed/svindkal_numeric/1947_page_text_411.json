@@ -18,7 +18,8 @@
                 "industri-rarb.": 45
             },
             "annual_turnover": "not available",
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 45
         },
         "foundation_year": 1927,
         "directors": {
@@ -54,7 +55,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 1
+        "cluster": 14
     },
     "2": {
         "name": "Kallenbergs AB., Uppsala",
@@ -72,7 +73,8 @@
                 "industriarb.": 55
             },
             "annual_turnover": "not available",
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 55
         },
         "foundation_year": 1940,
         "owners": [],
@@ -80,7 +82,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Kallnar Bobbin C:o AB., Kalmar",
@@ -101,7 +103,8 @@
                 "industriarb.": 135
             },
             "annual_turnover": "not available",
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 135
         },
         "foundation_year": 1922,
         "directors": {
@@ -125,7 +128,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Kalmar Bryggeri AB., Kalmar",
@@ -143,7 +146,8 @@
                 "industriarb.": 50
             },
             "annual_turnover": 1500000,
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 50
         },
         "foundation_year": 1935,
         "owners": [
@@ -153,7 +157,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 2
+        "cluster": 16
     },
     "5": {
         "name": "AB. Kalmar Chokladfabrik",
@@ -172,7 +176,8 @@
                 "industriarb.": 150
             },
             "annual_turnover": "not available",
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 150
         },
         "foundation_year": 1926,
         "owners": [],
@@ -180,7 +185,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "AB. Kalmar Konservfabrik, Mörrum",
@@ -199,7 +204,8 @@
                 "industriarb.": 50
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 50
         },
         "foundation_year": 1930,
         "owners": [],
@@ -207,7 +213,7 @@
             "Latitude": 56.1938314,
             "Longitude": 14.748156
         },
-        "cluster": 1
+        "cluster": 13
     },
     "7": {
         "name": "AB. Kalmar Lådfabrik, Kalmar",
@@ -227,7 +233,8 @@
                 "not available": "not available"
             },
             "annual_turnover": "not available",
-            "annual_production_value": "not available"
+            "annual_production_value": "not available",
+            "employees_total": 0
         },
         "foundation_year": "not available",
         "owners": [
@@ -240,6 +247,6 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 1
+        "cluster": 17
     }
 }

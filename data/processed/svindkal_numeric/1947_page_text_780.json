@@ -22,7 +22,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 900000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 25
         },
         "foundation_year": 1934,
         "current_name_year": null,
@@ -46,7 +47,7 @@
             "Latitude": 59.05111699999999,
             "Longitude": 12.6977323
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "AB. Åmåls Sportindustri",
@@ -72,7 +73,8 @@
                 "industriarb": 36
             },
             "annual_turnover": 400000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 36
         },
         "foundation_year": 1943,
         "current_name_year": null,
@@ -127,7 +129,8 @@
                 "industriarb": 300
             },
             "annual_turnover": 5000000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 300
         },
         "foundation_year": 1924,
         "current_name_year": null,
@@ -157,6 +160,6 @@
             "Latitude": 59.05111699999999,
             "Longitude": 12.6977323
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

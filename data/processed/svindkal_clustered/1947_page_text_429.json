@@ -39,7 +39,7 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 1
+        "cluster": 10
     },
     "2": {
         "name": "AB. Klichéanstalten Petit",
@@ -71,7 +71,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 10
     },
     "3": {
         "name": "Klichécentralen",
@@ -97,7 +97,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Klint, Bernhardt & Co. AB.",
@@ -139,7 +139,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 3
     },
     "5": {
         "name": "AB. Klintebys Konservfabrik",
@@ -164,7 +164,7 @@
             "Latitude": 57.3865687,
             "Longitude": 18.2036996
         },
-        "cluster": 1
+        "cluster": 13
     },
     "6": {
         "name": "AB. Klippans Finpappersbruk",
@@ -186,6 +186,6 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

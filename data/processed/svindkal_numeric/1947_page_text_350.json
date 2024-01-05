@@ -6,7 +6,8 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 150
         },
         "foundation_year": 1879,
         "corporation_year": 1944,
@@ -37,14 +38,15 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 10
         },
         "foundation_year": 1920,
         "coordinates": {
             "Latitude": 63.5915718,
             "Longitude": 15.3550589
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "AB. Hamnbyggnadsbyrån",
@@ -70,7 +72,8 @@
         },
         "financials": {
             "capital": 300000,
-            "annual_turnover": 5000000
+            "annual_turnover": 5000000,
+            "employees_total": 0
         },
         "foundation_year": 1930,
         "board": [
@@ -94,7 +97,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "4": {
         "name": "AB. Hampberedning",
@@ -114,7 +117,8 @@
             "employees": {
                 "industriarb": 120
             },
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 120
         },
         "foundation_year": 1941,
         "board": [
@@ -146,7 +150,7 @@
             "Latitude": 57.6348,
             "Longitude": 18.29484
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Handels AB. Henrikssons Brandredskap",
@@ -165,7 +169,8 @@
             "capital": 20000,
             "employees": {
                 "industriarb": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1828,
         "board": [
@@ -189,7 +194,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 3
     },
     "6": {
         "name": "Handels- o. Entreprenad AB. Fenja",
@@ -209,7 +214,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 30
         },
         "foundation_year": 1932,
         "board": [
@@ -225,7 +231,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Handels- & Möbelindustribolaget",
@@ -242,13 +248,14 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1938,
         "coordinates": {
             "Latitude": 57.2388031,
             "Longitude": 14.5775677
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

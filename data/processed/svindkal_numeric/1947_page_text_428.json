@@ -21,7 +21,8 @@
                 "Antal industriarb.": 35
             },
             "annual_turnover": "",
-            "annual_production_value": 450000
+            "annual_production_value": 450000,
+            "employees_total": 35
         },
         "foundation_year": 1903,
         "current_name_year": 1933,
@@ -47,7 +48,7 @@
             "Latitude": 59.17642569999999,
             "Longitude": 14.8709161
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Klafreströms Bruk",
@@ -71,7 +72,8 @@
                 "Antal industriarb.": 225
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 225
         },
         "foundation_year": 1736,
         "current_name_year": 1911,
@@ -97,7 +99,7 @@
             "Latitude": 57.1378628,
             "Longitude": 15.139184
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Klara Civiltryckeri AB.",
@@ -125,7 +127,8 @@
                 "Antal industriarb.": 80
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 80
         },
         "foundation_year": 1869,
         "current_name_year": 1932,
@@ -151,7 +154,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "AB. Klaraviks Tricotfabrik",
@@ -176,7 +179,8 @@
                 "Antal industriarb.": 56
             },
             "annual_turnover": "",
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 56
         },
         "foundation_year": 1917,
         "current_name_year": 1930,
@@ -202,7 +206,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Ernst T. Klassons Möbeltillverkning",
@@ -226,7 +230,8 @@
                 "": ""
             },
             "annual_turnover": "",
-            "annual_production_value": 70000
+            "annual_production_value": 70000,
+            "employees_total": 0
         },
         "foundation_year": 1930,
         "current_name_year": "",
@@ -239,7 +244,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. Kleist Konfektion",
@@ -263,7 +268,8 @@
                 "Antal industriarb.": 20
             },
             "annual_turnover": "",
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1930,
         "current_name_year": 1938,
@@ -281,7 +287,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "AB. Kliché",
@@ -305,7 +311,8 @@
                 "Arb.-antal": 10
             },
             "annual_turnover": "",
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 10
         },
         "foundation_year": 1906,
         "current_name_year": "",
@@ -331,7 +338,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "8": {
         "name": "AB. Klichéanstalten Hj. Lindblom & Co.",
@@ -356,7 +363,8 @@
                 "": ""
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": "",
         "current_name_year": "",
@@ -369,6 +377,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

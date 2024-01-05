@@ -31,7 +31,8 @@
                 "industriarb": 110
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 110
         },
         "foundation_year": 1938,
         "board": [
@@ -60,7 +61,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Eltron",
@@ -86,7 +87,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 250000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 35
         },
         "foundation_year": 1934,
         "director": "Paul Richter",
@@ -95,7 +97,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Elvärme AB.",
@@ -112,7 +114,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1938,
         "director": "Ernst Engström",
@@ -120,7 +123,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Emaljskyltfabriken Svea",
@@ -136,13 +139,14 @@
             "capital": 15000,
             "employees": {
                 "industriarb": 10
-            }
+            },
+            "employees_total": 10
         },
         "coordinates": {
             "Latitude": 57.5577891,
             "Longitude": 12.7855095
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Eminentverktyg",
@@ -159,13 +163,14 @@
             "employees": {
                 "industriarb": 96
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 96
         },
         "coordinates": {
             "Latitude": 59.42129649999999,
             "Longitude": 16.4769698
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. Emmaboda Clasverk",
@@ -184,14 +189,15 @@
             "employees": {
                 "industriarb": 250
             },
-            "annual_turnover": 6000000
+            "annual_turnover": 6000000,
+            "employees_total": 250
         },
         "foundation_year": 1933,
         "coordinates": {
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 1
+        "cluster": 0
     },
     "7": {
         "name": "AB. Emmaboda Husinrede",
@@ -208,7 +214,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1940,
         "manager": "Arthur Tarre",
@@ -216,7 +223,7 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 8
+        "cluster": 18
     },
     "8": {
         "name": "Emmaboda Möbelfabrik, Carlsson, Svensson & Co.",
@@ -232,12 +239,13 @@
             "employees": {
                 "industriarb": 37
             },
-            "annual_turnover": 330000
+            "annual_turnover": 330000,
+            "employees_total": 37
         },
         "coordinates": {
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

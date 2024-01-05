@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb.": 140
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 140
         },
         "foundation_year": 1888,
         "board": [
@@ -46,7 +47,7 @@
             "Latitude": 56.210434,
             "Longitude": 15.2760229
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Kongelfs Glasbruks AB",
@@ -74,7 +75,8 @@
             "employees": {
                 "industriarb.": 80
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 80
         },
         "foundation_year": 1926,
         "board": [
@@ -96,7 +98,7 @@
             "Latitude": 56.1938314,
             "Longitude": 14.748156
         },
-        "cluster": 1
+        "cluster": 13
     },
     "4": {
         "name": "Konservfabriken Bore",
@@ -112,7 +114,8 @@
             "employees": {
                 "industri-arb.": 35
             },
-            "annual_turnover": 450000
+            "annual_turnover": 450000,
+            "employees_total": 35
         },
         "foundation_year": 1932,
         "director": "Carl Olsson",
@@ -120,7 +123,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 1
+        "cluster": 13
     },
     "5": {
         "name": "AB. Konservfabriken Findus",
@@ -141,7 +144,8 @@
             "capital": 60200,
             "employees": {
                 "industriarb.": 392
-            }
+            },
+            "employees_total": 392
         },
         "foundation_year": 1905,
         "board": [
@@ -163,7 +167,7 @@
             "Latitude": 56.0871019,
             "Longitude": 12.9125047
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "AB. Konservfabriken Sirius",
@@ -182,7 +186,8 @@
                 "industriarb.": 80,
                 "Göteborg": 50
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 130
         },
         "foundation_year": 1929,
         "board": [
@@ -196,7 +201,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "Konservsönerna, P. & L. Carlsson",
@@ -214,7 +219,8 @@
             "employees": {
                 "industriarb.": 35
             },
-            "annual_turnover": 575000
+            "annual_turnover": 575000,
+            "employees_total": 35
         },
         "foundation_year": 1920,
         "owners": [
@@ -226,7 +232,7 @@
             "Latitude": 57.9473833,
             "Longitude": 11.5435498
         },
-        "cluster": 2
+        "cluster": 13
     },
     "8": {
         "name": "Konstgödningsfabriks AB. i Landskrona",

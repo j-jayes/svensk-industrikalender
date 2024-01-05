@@ -17,7 +17,8 @@
             "employees": {
                 "total": 12
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 12
         },
         "foundation_year": 1901,
         "board": [
@@ -35,7 +36,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "F. A. Boklund AB.",
@@ -55,7 +56,8 @@
             "employees": {
                 "total": 9
             },
-            "annual_turnover": 90000
+            "annual_turnover": 90000,
+            "employees_total": 9
         },
         "foundation_year": 1868,
         "board": [
@@ -69,7 +71,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Boklövsfabriken i Magiehem AB.",
@@ -86,7 +88,8 @@
             "employees": {
                 "total": 8
             },
-            "annual_turnover": 125000
+            "annual_turnover": 125000,
+            "employees_total": 8
         },
         "foundation_year": 1887,
         "board": [
@@ -100,7 +103,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 5
+        "cluster": 17
     },
     "4": {
         "name": "AB. Boksta Tegelbruk",
@@ -115,7 +118,8 @@
             "employees": {
                 "total": 16
             },
-            "annual_turnover": 1100000
+            "annual_turnover": 1100000,
+            "employees_total": 16
         },
         "foundation_year": 1911,
         "corporation_year": 1942,
@@ -129,7 +133,7 @@
             "Latitude": 59.9060095,
             "Longitude": 17.0491496
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Bolidens Cruv AB.",
@@ -150,7 +154,8 @@
                 "Centrallaboratorium": "Stockholm",
                 "Bryggarg": 17,
                 "telephone": 232630
-            }
+            },
+            "employees_total": 232651
         },
         "foundation_year": 1925,
         "current_name_year": 1931,
@@ -160,7 +165,7 @@
             "Latitude": 64.6861026,
             "Longitude": 21.2361263
         },
-        "cluster": 6
+        "cluster": 2
     },
     "6": {
         "name": "AB. Bolinder—Munktell",
@@ -187,12 +192,13 @@
                 "industriarb": 1,
                 "2": "0 milj. st. tegelvaror"
             },
-            "annual_turnover": 32000000
+            "annual_turnover": 32000000,
+            "employees_total": 2
         },
         "coordinates": {
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

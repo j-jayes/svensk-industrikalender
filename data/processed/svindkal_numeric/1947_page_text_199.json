@@ -20,7 +20,8 @@
                 "industriarb": 168
             },
             "annual_turnover": 2394000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 168
         },
         "foundation_year": 1734,
         "current_name_year": 1913,
@@ -50,7 +51,7 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Borgeby Tegelbruk",
@@ -74,7 +75,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1893,
         "current_name_year": 0,
@@ -94,7 +96,7 @@
             "Latitude": 55.7259042,
             "Longitude": 13.0712193
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Bertil Borgenstierna & Co. AB.",
@@ -117,7 +119,8 @@
             "capital": 50000,
             "employees": {},
             "annual_turnover": 250000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1909,
         "current_name_year": 1922,
@@ -147,7 +150,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Borggårds Bruk",
@@ -173,7 +176,8 @@
             "capital": 370000,
             "employees": {},
             "annual_turnover": 1600000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1500,
         "current_name_year": 1922,
@@ -199,7 +203,7 @@
             "Latitude": 58.7296585,
             "Longitude": 15.5513094
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "AB. Borghamns Kalkstensbrott",
@@ -222,7 +226,8 @@
             "capital": 58000,
             "employees": {},
             "annual_turnover": 250000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1933,
         "current_name_year": 0,
@@ -239,7 +244,7 @@
             "Latitude": 58.38243130000001,
             "Longitude": 14.6940258
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Borgstena Trikåfabrik",
@@ -262,7 +267,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1925,
         "current_name_year": 0,
@@ -281,7 +287,7 @@
             "Latitude": 57.8843832,
             "Longitude": 13.0165311
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Frans Borgströms Möbelfabrik",
@@ -304,7 +310,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": 230000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1918,
         "current_name_year": 0,
@@ -323,6 +330,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

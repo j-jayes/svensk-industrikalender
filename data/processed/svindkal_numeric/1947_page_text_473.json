@@ -8,7 +8,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 450000
+            "annual_turnover": 450000,
+            "employees_total": 35
         },
         "contact": {
             "telegraph": "Skruvfabriken, Strängnäs",
@@ -40,7 +41,8 @@
             "employees": {
                 "Arb.-antal": 10
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 10
         },
         "contact": {
             "telegraph": "Skruvfabriken, Strängnäs",
@@ -67,7 +69,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 62
-            }
+            },
+            "employees_total": 62
         },
         "contact": {
             "office": "Sannadalsvägen 7—9, Gröndal, Stockholm",
@@ -104,7 +107,8 @@
             "capital": 60000,
             "employees": {
                 "Arb.-antal": 60
-            }
+            },
+            "employees_total": 60
         },
         "contact": {
             "office": "Information not available",
@@ -145,7 +149,8 @@
             "capital": "Information not available",
             "employees": {
                 "Arb.-antal": "Information not available"
-            }
+            },
+            "employees_total": 0
         },
         "contact": {
             "telegraph": "Linpackning, Jättendal",
@@ -169,7 +174,8 @@
             "employees": {
                 "industriarb": 85
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 85
         },
         "contact": {
             "telegraph": "Stenbergs, Lindås",
@@ -209,7 +215,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 550000
+            "annual_turnover": 550000,
+            "employees_total": 30
         },
         "contact": {
             "phone": "4",
@@ -252,7 +259,8 @@
             "capital": 19500,
             "employees": {
                 "industriarb": 70
-            }
+            },
+            "employees_total": 70
         },
         "contact": {
             "phone": "18",

@@ -16,7 +16,8 @@
             "capital": 40000,
             "employees": {
                 "industriarb": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1928,
         "board": [
@@ -29,7 +30,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "Paragon AB.",
@@ -68,7 +69,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "AB. Parajett",
@@ -84,7 +85,8 @@
             "capital": 250000,
             "employees": {
                 "industriarb": 130
-            }
+            },
+            "employees_total": 130
         },
         "foundation_year": 1906,
         "board": [
@@ -109,7 +111,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "Paulis Fabriks AB.",
@@ -130,7 +132,8 @@
             "capital": 600000,
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1841,
         "board": [
@@ -143,7 +146,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Pauliströms Bruk",
@@ -161,7 +164,8 @@
         "financials": {
             "employees": {
                 "industriarb": 60
-            }
+            },
+            "employees_total": 60
         },
         "foundation_year": 1899,
         "owners": [
@@ -177,7 +181,7 @@
             "Latitude": 57.41540999999999,
             "Longitude": 15.62295
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Jon Paulssons Fiskredskapsfabrik",
@@ -205,7 +209,7 @@
             "Latitude": 61.7991324,
             "Longitude": 16.5533824
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Sigfr. N. & O. Paulson AB.",
@@ -220,7 +224,8 @@
             "employees": {
                 "arb.-antal": 10
             },
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1893,
         "board": [
@@ -237,6 +242,6 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

@@ -13,7 +13,8 @@
         },
         "financials": {
             "capital": 250000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 0
         },
         "foundation_year": 1832,
         "corporation_year": 1923,
@@ -26,7 +27,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Einar Hoffmans Stolfabrik",
@@ -42,7 +43,8 @@
             "employees": {
                 "Arb.-antal": 10
             },
-            "annual_production_value": 125000
+            "annual_production_value": 125000,
+            "employees_total": 10
         },
         "foundation_year": 1920,
         "director": "snickarna Einar Hoffman",
@@ -50,7 +52,7 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Hj. Hofgrens AB.",
@@ -64,14 +66,15 @@
             "capital": 30000,
             "employees": {
                 "Arb.-antal": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1939,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Hofors Bruk",
@@ -119,7 +122,8 @@
             "employees": {
                 "Antal industriarb.": 25
             },
-            "annual_production_value": 460000
+            "annual_production_value": 460000,
+            "employees_total": 25
         },
         "foundation_year": 1898,
         "director": "disp. Simeon Weidow",
@@ -127,7 +131,7 @@
             "Latitude": 56.96666699999999,
             "Longitude": 15.65
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "Hohult-Spexeryds Mangangruvor",
@@ -151,14 +155,15 @@
             "capital": 48200,
             "employees": {
                 "Antal industriarb.": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1936,
         "coordinates": {
             "Latitude": 56.96666699999999,
             "Longitude": 15.65
         },
-        "cluster": 8
+        "cluster": 15
     },
     "10": {
         "name": "AB. Hollner & Hultquist",
@@ -173,7 +178,8 @@
             "employees": {
                 "Antal industriarb.": 30
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 30
         },
         "foundation_year": 1935,
         "corporation_year": 1944,
@@ -182,7 +188,7 @@
             "Latitude": 59.3571637,
             "Longitude": 17.2055807
         },
-        "cluster": 5
+        "cluster": 17
     },
     "11": {
         "name": "Holm AB., Bröderna",
@@ -209,13 +215,14 @@
         "location": "Sörforsa och Madängsholm",
         "business": "Linspinneri och blekeri",
         "financials": {
-            "capital": "unknown"
+            "capital": "unknown",
+            "employees_total": 0
         },
         "foundation_year": "unknown",
         "coordinates": {
             "Latitude": 58.1493476,
             "Longitude": 13.9178435
         },
-        "cluster": 1
+        "cluster": 4
     }
 }

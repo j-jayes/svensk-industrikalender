@@ -1,0 +1,39 @@
+# The user has clarified that the JSON file contains multiple pages, and they want a sample across all pages.
+# First, we need to aggregate businesses from all pages and then sample 15 companies from each cluster.
+import json
+from collections import defaultdict
+import random
+
+# Load the JSON data
+file_path = 'data/clustering/businesses_clustered.json'
+
+# Re-load the JSON data to handle multiple pages
+with open(file_path, 'r') as file:
+    all_pages = json.load(file)
+
+# Aggregating businesses from all pages
+all_businesses = []
+for page in all_pages.values():
+    all_businesses.extend(page.values())
+
+# Grouping businesses by their cluster number
+clustered_businesses_all_pages = defaultdict(list)
+for business in all_businesses:
+    cluster_number = business.get("cluster")
+    clustered_businesses_all_pages[cluster_number].append(business)
+
+# Selecting a sample of 15 businesses from each cluster across all pages
+sampled_businesses_all_pages = {}
+for cluster, business_list in clustered_businesses_all_pages.items():
+    if len(business_list) >= 15:
+        sampled_businesses_all_pages[cluster] = random.sample(business_list, 15)
+    else:
+        # If a cluster has fewer than 15 businesses, take all of them
+        sampled_businesses_all_pages[cluster] = business_list
+
+# Saving the newly sampled businesses to a new JSON file
+output_file_path_all_pages = 'data/clustering/sampled_businesses_15.json'
+with open(output_file_path_all_pages, 'w') as file:
+    json.dump(sampled_businesses_all_pages, file, ensure_ascii=False, indent=4)
+
+output_file_path_all_pages

@@ -17,7 +17,8 @@
                 "arb.antal": 10
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 10
         },
         "foundation_year": 1903,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "AB. Kemiska Fabriken Norden",
@@ -58,7 +59,8 @@
                 "arb.antal": 10
             },
             "annual_turnover": 750000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 10
         },
         "foundation_year": 1938,
         "board": [
@@ -72,7 +74,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Keros",
@@ -92,7 +94,8 @@
                 "hemarb.": 50
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 85
         },
         "foundation_year": 1901,
         "board": [
@@ -114,7 +117,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "AB. Kigus Instrumentfabrik",
@@ -133,7 +136,8 @@
                 "arb.antal": 18
             },
             "annual_turnover": 300000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 18
         },
         "foundation_year": 1943,
         "board": [],
@@ -142,7 +146,7 @@
             "Latitude": 59.34893340000001,
             "Longitude": 17.996043
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Josef Kihlberg, II jo",
@@ -154,7 +158,8 @@
                 "N/A": "N/A"
             },
             "annual_turnover": 1200000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1909,
         "board": [
@@ -176,6 +181,6 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

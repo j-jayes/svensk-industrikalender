@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 21
             },
-            "annual_turnover": 310000
+            "annual_turnover": 310000,
+            "employees_total": 21
         },
         "foundation_year": 1868,
         "board": [
@@ -42,7 +43,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Barrsätra Järnmanufakturverk",
@@ -60,7 +61,8 @@
             "employees": {
                 "industriarb": 21
             },
-            "annual_turnover": 310000
+            "annual_turnover": 310000,
+            "employees_total": 21
         },
         "foundation_year": 1908,
         "manager": "ing. Hilding Lindskog",
@@ -87,7 +89,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1894,
         "board": [
@@ -102,7 +105,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 9
     },
     "4": {
         "name": "Bastkärns Cruf AB.",
@@ -121,7 +124,8 @@
             "employees": {
                 "industriarb": 52
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 52
         },
         "foundation_year": 1899,
         "board": [
@@ -144,7 +148,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "Bates Paper Sack AB.",
@@ -163,7 +167,8 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_turnover": 4000000
+            "annual_turnover": 4000000,
+            "employees_total": 80
         },
         "foundation_year": 1925,
         "director": "Klas Johnsson",
@@ -171,7 +176,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "J. O. Baumgardts Pianofabrik",
@@ -189,7 +194,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 240000
+            "annual_turnover": 240000,
+            "employees_total": 20
         },
         "foundation_year": 1857,
         "director": "J. E. Baumgardt",
@@ -197,7 +203,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Wilh. Becker",
@@ -211,6 +217,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

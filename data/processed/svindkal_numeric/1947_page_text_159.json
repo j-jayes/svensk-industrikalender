@@ -14,7 +14,8 @@
             "capital": 225000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1872,
         "board": [
@@ -27,7 +28,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "Victor Andrén",
@@ -42,7 +43,8 @@
         "financials": {
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1925,
         "owner": "Rolf Andrén",
@@ -65,7 +67,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1945,
         "board": [
@@ -86,7 +89,7 @@
             "Latitude": 57.83852100000001,
             "Longitude": 14.8178021
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Aneby Waddfabrik",
@@ -101,7 +104,8 @@
         "financials": {
             "employees": {
                 "industriarb": 4
-            }
+            },
+            "employees_total": 4
         },
         "foundation_year": 1937,
         "director": "Albin Johanson",
@@ -109,7 +113,7 @@
             "Latitude": 57.83852100000001,
             "Longitude": 14.8178021
         },
-        "cluster": 9
+        "cluster": 18
     },
     "5": {
         "name": "AB. Ankarsrums Bruk",
@@ -125,7 +129,8 @@
             "employees": {
                 "total": 700,
                 "industriarb": 650
-            }
+            },
+            "employees_total": 1350
         },
         "foundation_year": 1655,
         "corporation_year": 1882,
@@ -148,7 +153,7 @@
             "Latitude": 57.7003897,
             "Longitude": 16.3320828
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Ankarsrums Skåne AB.",
@@ -165,13 +170,14 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "corporation_year": 1945,
         "coordinates": {
             "Latitude": 55.634822,
             "Longitude": 13.70337
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

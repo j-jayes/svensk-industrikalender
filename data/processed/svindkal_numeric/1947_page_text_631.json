@@ -14,7 +14,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 0,
         "board": [],
@@ -24,7 +25,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Skånska Takpappfabriken",
@@ -45,7 +46,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 2000000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 40
         },
         "foundation_year": 1889,
         "board": [
@@ -84,7 +86,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 3
     },
     "3": {
         "name": "AB. Skånska Yllefabriken",
@@ -105,7 +107,8 @@
                 "industriarb": 600
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 600
         },
         "foundation_year": 1898,
         "board": [
@@ -144,7 +147,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Skånska Ättikfabriken, AB.",
@@ -164,7 +167,8 @@
                 "industriarb": 715
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 1660
         },
         "foundation_year": 1883,
         "board": [
@@ -203,7 +207,7 @@
             "Latitude": 56.137972,
             "Longitude": 13.3949862
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Skästra Ångsågs AB.",
@@ -224,7 +228,8 @@
                 "industriarb": 53
             },
             "annual_turnover": "",
-            "annual_production_value": "1,500 stds trävaror, 175,000 st. tegel"
+            "annual_production_value": "1,500 stds trävaror, 175,000 st. tegel",
+            "employees_total": 53
         },
         "foundation_year": 1897,
         "board": [
@@ -247,6 +252,6 @@
             "Latitude": 61.74725179999999,
             "Longitude": 16.1594172
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

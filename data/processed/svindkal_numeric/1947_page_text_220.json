@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb.": 70
             },
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 70
         },
         "foundation_year": 1878,
         "corporation_year": 1939,
@@ -41,7 +42,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Bröderna Walfridson",
@@ -59,7 +60,8 @@
             "employees": {
                 "antal": 12
             },
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 12
         },
         "foundation_year": 1899,
         "corporation_year": null,
@@ -72,7 +74,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "AB. Bröderna Wallins Konservfabrik",
@@ -98,7 +100,8 @@
             "capital": 120000,
             "employees": {
                 "industriarb.": 75
-            }
+            },
+            "employees_total": 75
         },
         "foundation_year": 1924,
         "corporation_year": 1936,
@@ -108,7 +111,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Bröderna Wallins Mek. Stenhuggeri",
@@ -126,7 +129,8 @@
             "employees": {
                 "antal": 80
             },
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 80
         },
         "foundation_year": 1904,
         "corporation_year": null,
@@ -140,7 +144,7 @@
             "Latitude": 56.5524461,
             "Longitude": 14.1374047
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Bröderna Westin, Karamell- & Konfektfabrik AB.",
@@ -159,7 +163,8 @@
             "employees": {
                 "industriarb.": 20
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 20
         },
         "foundation_year": 1917,
         "corporation_year": 1937,
@@ -171,7 +176,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Bröderna Wibell",
@@ -189,7 +194,8 @@
             "employees": {
                 "antal": 20
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 20
         },
         "foundation_year": 1924,
         "corporation_year": null,
@@ -200,7 +206,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. Bröderna Wigells Stolfabrik",
@@ -218,7 +224,8 @@
             "employees": {
                 "industriarb.": 30
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 30
         },
         "foundation_year": 1865,
         "corporation_year": 1917,
@@ -242,7 +249,7 @@
             "Latitude": 57.5781694,
             "Longitude": 14.4641901
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "Bröderna Wiggmans Möbelfabrik",
@@ -259,7 +266,8 @@
             "employees": {
                 "antal": 26
             },
-            "annual_production_value": 260000
+            "annual_production_value": 260000,
+            "employees_total": 26
         },
         "foundation_year": 1908,
         "corporation_year": null,
@@ -271,7 +279,7 @@
             "Latitude": 60.1309558,
             "Longitude": 16.2159445
         },
-        "cluster": 8
+        "cluster": 15
     },
     "9": {
         "name": "Bröderna Wiklunds Byggnads AB.",
@@ -291,6 +299,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

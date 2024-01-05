@@ -13,7 +13,8 @@
         },
         "financials": {
             "capital": 50000,
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 0
         },
         "foundation_year": 1939,
         "board": [
@@ -34,7 +35,7 @@
             "Latitude": 57.7366497,
             "Longitude": 12.1251968
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Kemigrafiska AB",
@@ -50,7 +51,8 @@
             "postgiro": "38449"
         },
         "financials": {
-            "capital": 23850
+            "capital": 23850,
+            "employees_total": 0
         },
         "foundation_year": 1909,
         "board": [
@@ -63,7 +65,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "AB. Kemikalia",
@@ -79,7 +81,8 @@
         },
         "financials": {
             "capital": 50000,
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1913,
         "owners": [
@@ -95,7 +98,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "AB. för Kemisk och Elektrokemisk Produktion",
@@ -111,7 +114,8 @@
         },
         "financials": {
             "capital": 150000,
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 0
         },
         "foundation_year": 1915,
         "owners": [
@@ -141,7 +145,7 @@
             "Latitude": 60.14532999999999,
             "Longitude": 16.1738399
         },
-        "cluster": 6
+        "cluster": 3
     },
     "5": {
         "name": "Kemiska Fabriks AB.",
@@ -158,7 +162,8 @@
         },
         "financials": {
             "capital": 25000,
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1940,
         "board": [
@@ -175,7 +180,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 12
     },
     "6": {
         "name": "Kem. Tekn. Fabriken Triangeln AB.",
@@ -192,7 +197,8 @@
         },
         "financials": {
             "capital": 40000,
-            "annual_turnover": 450000
+            "annual_turnover": 450000,
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "board": [
@@ -209,7 +215,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "7": {
         "name": "AB. Kem. Tekn. Clasfabriken",
@@ -223,7 +229,8 @@
         },
         "financials": {
             "capital": 12200,
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 0
         },
         "foundation_year": 1935,
         "board": [
@@ -236,7 +243,7 @@
             "Latitude": 56.745012,
             "Longitude": 15.907874
         },
-        "cluster": 2
+        "cluster": 0
     },
     "8": {
         "name": "Kemiska Fabriken D:r Ernst Harbeck AB.",
@@ -251,7 +258,8 @@
         },
         "financials": {
             "capital": "Unknown",
-            "annual_turnover": "Unknown"
+            "annual_turnover": "Unknown",
+            "employees_total": 0
         },
         "foundation_year": "Unknown",
         "board": [
@@ -264,6 +272,6 @@
             "Latitude": 57.7366497,
             "Longitude": 12.1251968
         },
-        "cluster": 6
+        "cluster": 3
     }
 }

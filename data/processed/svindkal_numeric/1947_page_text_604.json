@@ -17,7 +17,8 @@
                 "arbetsantal": 3
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 3
         },
         "foundation_year": 1921,
         "owners": [
@@ -28,7 +29,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Sandblom & Stohne Verkstads AB.",
@@ -46,7 +47,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 40
         },
         "foundation_year": 1886,
         "owners": [
@@ -57,7 +59,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 4
     },
     "3": {
         "name": "Sandby maskiner",
@@ -78,7 +80,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 40
         },
         "foundation_year": 1886,
         "original_name": "Martin Jönssons Mek. Verkstad",
@@ -88,7 +91,7 @@
             "Latitude": 55.7168577,
             "Longitude": 13.347231
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Sandbäck AB.",
@@ -106,7 +109,8 @@
                 "N/A": "N/A"
             },
             "annual_turnove": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "owners": [
@@ -117,7 +121,7 @@
             "Latitude": 61.8308392,
             "Longitude": 16.0817501
         },
-        "cluster": 1
+        "cluster": 4
     },
     "5": {
         "name": "AB. Sandéns Mek. Verkstad",
@@ -139,7 +143,8 @@
                 "industriarb": 90
             },
             "annual_turnover": 2000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 90
         },
         "foundation_year": 1916,
         "original_name": "N/A",
@@ -149,7 +154,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Alfr. Sandersons Maskinfabrik",
@@ -169,7 +174,8 @@
                 "industriarb": 50
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 50
         },
         "foundation_year": 1892,
         "original_name": "Alfr. Sandersons Linjeringsmaskinfabrik",
@@ -179,7 +185,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Sandhems Nya Trävaru AB.",
@@ -200,7 +206,8 @@
                 "industriarb": 55
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 55
         },
         "foundation_year": 1895,
         "original_name": "N/A",
@@ -210,7 +217,7 @@
             "Latitude": 57.9843745,
             "Longitude": 13.77765
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "AB. Sandins Metallfabrik",
@@ -230,7 +237,8 @@
                 "industriarb": 80
             },
             "annual_turnover": 800000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 80
         },
         "foundation_year": 1934,
         "original_name": "N/A",
@@ -240,6 +248,6 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

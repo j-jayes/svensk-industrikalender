@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb.": 95
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 95
         },
         "foundation_year": 1903,
         "owner": "fabr. Einar Miller",
@@ -24,7 +25,7 @@
             "Latitude": 57.8574137,
             "Longitude": 14.1312259
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Bröderna Modin",
@@ -38,7 +39,8 @@
         "financials": {
             "employees": {
                 "industriarb.": 75
-            }
+            },
+            "employees_total": 75
         },
         "foundation_year": 1909,
         "owner": "köpm. Georg Modin",
@@ -47,7 +49,7 @@
             "Latitude": 59.7261195,
             "Longitude": 17.7920364
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Bröderna Nilssons Fabriks AB.",
@@ -63,14 +65,15 @@
             "employees": {
                 "industriarb.": 75
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 75
         },
         "original_name": "Bröderna Nilssons Fabriks AB.",
         "coordinates": {
             "Latitude": 55.598225,
             "Longitude": 14.0501177
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Bröderna Nilssons Industrier",
@@ -85,7 +88,8 @@
             "employees": {
                 "industriarb.": 40
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 40
         },
         "owner": {
             "director": "Åke Nilsson",
@@ -95,7 +99,7 @@
             "Latitude": 56.3080811,
             "Longitude": 13.3668168
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Bröderna Nilssons Möbelfabrik",
@@ -108,7 +112,8 @@
         "financials": {
             "employees": {
                 "arb.-antal": 13
-            }
+            },
+            "employees_total": 13
         },
         "foundation_year": 1925,
         "owner": {
@@ -118,7 +123,7 @@
             "Latitude": 57.39039129999999,
             "Longitude": 15.8247406
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Bröderna Nisser Strumpfabrik",
@@ -132,7 +137,8 @@
             "employees": {
                 "arb.-antal": 10
             },
-            "annual_production_value": 130000
+            "annual_production_value": 130000,
+            "employees_total": 10
         },
         "foundation_year": 1936,
         "owner": {
@@ -143,7 +149,7 @@
             "Latitude": 60.56075389999999,
             "Longitude": 15.1318034
         },
-        "cluster": 9
+        "cluster": 1
     },
     "7": {
         "name": "Bröderna Nyman",
@@ -156,7 +162,8 @@
         "financials": {
             "employees": {
                 "industriarb.": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1919,
         "owner": {
@@ -166,7 +173,7 @@
             "Latitude": 57.6015069,
             "Longitude": 13.2442712
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Bröderna Olssons Skofabrik",
@@ -181,7 +188,8 @@
             "employees": {
                 "industriarb.": 20
             },
-            "annual_production_value": 235000
+            "annual_production_value": 235000,
+            "employees_total": 20
         },
         "foundation_year": 1929,
         "current_name_year": 1945,
@@ -192,7 +200,7 @@
             "Latitude": 57.6833243,
             "Longitude": 11.8905052
         },
-        "cluster": 9
+        "cluster": 5
     },
     "9": {
         "name": "AB. Bröderna Ottosson & Co Lädervarufabrik",
@@ -207,7 +215,8 @@
             "employees": {
                 "industriarb.": 20
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 20
         },
         "corporation_year": 1942,
         "current_name_year": 1947,

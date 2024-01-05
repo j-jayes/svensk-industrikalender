@@ -12,7 +12,8 @@
         },
         "financials": {
             "capital": 53500,
-            "foundation_year": 1914
+            "foundation_year": 1914,
+            "employees_total": 0
         },
         "board": [
             {
@@ -33,7 +34,7 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 1
+        "cluster": 0
     },
     "2": {
         "name": "AB. Hässleholms Tegelbruk",
@@ -53,7 +54,8 @@
                 "industriarb": 15
             },
             "annual_turnover": "1,500,000 st. tegelvaror",
-            "foundation_year": 1939
+            "foundation_year": 1939,
+            "employees_total": 15
         },
         "board": [
             {
@@ -65,7 +67,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "AB. Hässleholms Verkstäder",
@@ -88,7 +90,8 @@
             },
             "annual_production_value": 2300000,
             "foundation_year": 1889,
-            "corporation_year": 1915
+            "corporation_year": 1915,
+            "employees_total": 250
         },
         "board": [
             {
@@ -110,7 +113,7 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Hästbo Tegelbruk",
@@ -129,7 +132,8 @@
                 "industriarb": 35
             },
             "annual_turnover": "1,500,000 st. tegelvaror, 500 stds trävaror",
-            "foundation_year": 1929
+            "foundation_year": 1929,
+            "employees_total": 35
         },
         "board": [
             {
@@ -151,7 +155,7 @@
             "Latitude": 60.5623826,
             "Longitude": 17.1261447
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Hästholmsvarvet",
@@ -170,7 +174,8 @@
             "employees": {
                 "arb-antal": 20
             },
-            "foundation_year": 1906
+            "foundation_year": 1906,
+            "employees_total": 20
         },
         "board": [
             {
@@ -187,7 +192,7 @@
             "Latitude": 59.36295999999999,
             "Longitude": 18.1468
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Höganäsarbeten",
@@ -207,7 +212,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 900000,
-            "current_name_year": 1942
+            "current_name_year": 1942,
+            "employees_total": 30
         },
         "board": [
             {
@@ -225,7 +231,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "AB. Höganäs-Billesholms AB.",
@@ -251,7 +257,8 @@
                     "el. energi": "9,3 mill. kWh"
                 }
             },
-            "foundation_year": 1903
+            "foundation_year": 1903,
+            "employees_total": 3
         },
         "board": [
             {
@@ -268,6 +275,6 @@
             "Latitude": 56.2006388,
             "Longitude": 12.5553288
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

@@ -39,7 +39,7 @@
             "Latitude": 60.1839348,
             "Longitude": 15.2077846
         },
-        "cluster": 6
+        "cluster": 2
     },
     "2": {
         "name": "Hållstedts AB.",
@@ -67,7 +67,7 @@
             "Latitude": 57.0756318,
             "Longitude": 15.7358363
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Hålltorps AB.",
@@ -89,7 +89,7 @@
             "Latitude": 58.4533816,
             "Longitude": 13.2671394
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Hånsfors Bruks AB.",
@@ -136,7 +136,7 @@
             "Latitude": 59.5075308,
             "Longitude": 11.8425511
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Hädinge Torfströ AB.",
@@ -164,7 +164,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "Häfla Bruks AB.",
@@ -187,6 +187,6 @@
             "Latitude": 58.91482800000001,
             "Longitude": 15.8680792
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 130000
+            "annual_production_value": 130000,
+            "employees_total": 10
         },
         "foundation_year": 1920,
         "corporation_year": 1933,
@@ -24,7 +25,7 @@
             "Latitude": 57.49484,
             "Longitude": 15.8416513
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Hultsfreds Mek. Verkstad",
@@ -38,7 +39,8 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_production_value": 550000
+            "annual_production_value": 550000,
+            "employees_total": 45
         },
         "foundation_year": 1918,
         "current_name_year": 1923,
@@ -47,7 +49,7 @@
             "Latitude": 57.49484,
             "Longitude": 15.8416513
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Hultsfreds Skogsprodukter",
@@ -62,7 +64,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 35
         },
         "foundation_year": 1936,
         "director": "Emil Nilsson",
@@ -70,7 +73,7 @@
             "Latitude": 57.49484,
             "Longitude": 15.8416513
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Hultsfreds Träförädlings AB.",
@@ -86,7 +89,8 @@
             "employees": {
                 "industraib": 350
             },
-            "annual_turnover": 2500000
+            "annual_turnover": 2500000,
+            "employees_total": 350
         },
         "foundation_year": 1930,
         "owners": [
@@ -120,7 +124,7 @@
             "Latitude": 57.49484,
             "Longitude": 15.8416513
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Huluhammars Bruk",
@@ -133,7 +137,8 @@
         },
         "financials": {
             "capital": 24000,
-            "annual_production_value": 110000
+            "annual_production_value": 110000,
+            "employees_total": 0
         },
         "foundation_year": 1927,
         "board": [
@@ -151,7 +156,7 @@
             "Latitude": 57.68333329999999,
             "Longitude": 14.0833333
         },
-        "cluster": 1
+        "cluster": 7
     },
     "6": {
         "name": "Humlabergs Grufvebolag",
@@ -164,7 +169,8 @@
             "employees": {
                 "industraib": 20
             },
-            "annual_production_value": 130000
+            "annual_production_value": 130000,
+            "employees_total": 20
         },
         "foundation_year": 1855,
         "board": [
@@ -178,7 +184,7 @@
             "Latitude": 59.50878719999999,
             "Longitude": 14.9651045
         },
-        "cluster": 1
+        "cluster": 2
     },
     "7": {
         "name": "AB. A. Huse & Co.",
@@ -191,7 +197,8 @@
         },
         "financials": {
             "capital": 75000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 0
         },
         "foundation_year": 1912,
         "corporation_year": 1923,
@@ -224,6 +231,6 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

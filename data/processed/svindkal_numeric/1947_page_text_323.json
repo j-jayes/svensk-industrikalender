@@ -27,7 +27,8 @@
                 "industriarb": 100
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "1,500 ton finpapper"
+            "annual_production_value": "1,500 ton finpapper",
+            "employees_total": 100
         },
         "foundation_year": 1901,
         "board": [
@@ -57,7 +58,7 @@
             "Latitude": 56.8672585,
             "Longitude": 14.6436202
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "Granstrand & Co.",
@@ -67,7 +68,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 1
+        "cluster": 11
     },
     "3": {
         "name": "Granstrands Möbelfabrik",
@@ -77,7 +78,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Grantorpets Fabriks AB.",
@@ -103,7 +104,8 @@
                 "industriarb": 80
             },
             "annual_turnover": 1500000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 80
         },
         "foundation_year": 1937,
         "board": [
@@ -125,7 +127,7 @@
             "Latitude": 57.75771559999999,
             "Longitude": 16.6369759
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Cravarnes Konservfabrik, Bröderna Sanne & Co.",
@@ -135,7 +137,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Rudolph Grave AB.",
@@ -145,7 +147,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 7
     },
     "7": {
         "name": "Grawensteinerfabriken AB.",
@@ -169,7 +171,8 @@
                 "industriarb": 9
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 180000
+            "annual_production_value": 180000,
+            "employees_total": 9
         },
         "foundation_year": 1940,
         "board": [],
@@ -178,7 +181,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 16
     },
     "8": {
         "name": "Greflunda Tegelbruk",
@@ -188,7 +191,7 @@
             "Latitude": 55.8048912,
             "Longitude": 13.3726949
         },
-        "cluster": 0
+        "cluster": 14
     },
     "9": {
         "name": "AB. Gren & Anderssons Bleckkärlsfabrik",
@@ -199,6 +202,6 @@
             "Latitude": 57.39899579999999,
             "Longitude": 14.6658136
         },
-        "cluster": 6
+        "cluster": 3
     }
 }

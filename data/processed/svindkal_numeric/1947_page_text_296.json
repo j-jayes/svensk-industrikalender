@@ -16,7 +16,8 @@
                 "industriarb": 200
             },
             "annual_turnover": 1700000,
-            "annual_production_value": "2 milj. st. tegelvaror"
+            "annual_production_value": "2 milj. st. tegelvaror",
+            "employees_total": 200
         },
         "foundation_year": 1930,
         "board": [
@@ -41,7 +42,7 @@
             "Latitude": 56.8382325,
             "Longitude": 15.7420197
         },
-        "cluster": 1
+        "cluster": 7
     },
     "2": {
         "name": "AB. Flyinge Tegelbruk, Flyinge",
@@ -51,7 +52,7 @@
             "Latitude": 55.7517542,
             "Longitude": 13.3655012
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "AB. Fläkt- &amp; Cyklonfabriken, Malmö",
@@ -61,7 +62,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 12
     },
     "4": {
         "name": "AB. Fodervävnader, Alingsås",
@@ -71,7 +72,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "AB. Fogelfors Bruk, Fågelfors",
@@ -81,7 +82,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Foglaviks Glasbruk, Fåglavik",
@@ -100,6 +101,6 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

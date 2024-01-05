@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 50
         },
         "foundation_year": 1910,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 6
+        "cluster": 2
     },
     "2": {
         "name": "Pershytte Grufvebolag",
@@ -56,7 +57,8 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_turnover": 450000
+            "annual_turnover": 450000,
+            "employees_total": 80
         },
         "foundation_year": 1867,
         "board": [
@@ -83,7 +85,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 6
+        "cluster": 2
     },
     "3": {
         "name": "Alfred Perssons Snickerifabrik",
@@ -101,7 +103,8 @@
             "employees": {
                 "total": 6
             },
-            "annual_turnover": 70000
+            "annual_turnover": 70000,
+            "employees_total": 6
         },
         "foundation_year": 1908,
         "owner": "fabr. Alfred Persson",
@@ -110,7 +113,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Anders Perssons Skidfabrik",
@@ -126,7 +129,8 @@
         "financials": {
             "employees": {
                 "total": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1914,
         "owner": "Anders Perssons sterbhus",
@@ -135,7 +139,7 @@
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "AB. August Perssons Ekmöbelfabrik",
@@ -152,7 +156,8 @@
             "employees": {
                 "total": 11
             },
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 11
         },
         "foundation_year": 1913,
         "director": null,
@@ -161,7 +166,7 @@
             "Latitude": 56.2914154,
             "Longitude": 13.7097126
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Bernh. Perssons Cjuteri",
@@ -178,7 +183,8 @@
             "employees": {
                 "total": 50
             },
-            "annual_turnover": 450000
+            "annual_turnover": 450000,
+            "employees_total": 50
         },
         "foundation_year": 1921,
         "owner": "fabr. Bernh. Persson",
@@ -187,7 +193,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "Birger Pehrsons Byggnads AB",
@@ -200,7 +206,8 @@
             "postgiro": "140857"
         },
         "financials": {
-            "capital": 150000
+            "capital": 150000,
+            "employees_total": 0
         },
         "foundation_year": 1921,
         "board": [
@@ -222,7 +229,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 0
+        "cluster": 6
     },
     "8": {
         "name": "B. E. Persson, Skofabrik",
@@ -238,7 +245,8 @@
             "employees": {
                 "total": 35
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 35
         },
         "foundation_year": 1900,
         "owner": "fabr. B. Erik Persson",
@@ -247,7 +255,7 @@
             "Latitude": 60.686372,
             "Longitude": 13.720966
         },
-        "cluster": 9
+        "cluster": 5
     },
     "9": {
         "name": "Carl Persson & Söner AB",
@@ -262,13 +270,14 @@
             "capital": 1500000,
             "employees": {
                 "total": 235
-            }
+            },
+            "employees_total": 235
         },
         "foundation_year": 1895,
         "coordinates": {
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

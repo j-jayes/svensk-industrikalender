@@ -21,7 +21,8 @@
             "employees": {
                 "industriarb": 21
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 21
         },
         "foundation_year": 1909,
         "predecessor": "Maskinaffären Carl Lamm AB",
@@ -29,7 +30,7 @@
             "Latitude": 57.41540999999999,
             "Longitude": 15.62295
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Järnförädling",
@@ -44,7 +45,8 @@
             "capital": 4000000,
             "employees": {
                 "industriarb": 600
-            }
+            },
+            "employees_total": 600
         },
         "foundation_year": 1918,
         "original_name": "Helle-fors Styckebruk",
@@ -73,7 +75,7 @@
             "Latitude": 59.1504308,
             "Longitude": 16.4966728
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Järnhs Elektriska AB",
@@ -89,7 +91,8 @@
             "employees": {
                 "industriarb": 140
             },
-            "annual_turnover": 1800000
+            "annual_turnover": 1800000,
+            "employees_total": 140
         },
         "foundation_year": 1890,
         "corporation_year": 1917,
@@ -109,7 +112,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "AB. Järnmontering",
@@ -126,7 +129,8 @@
                 "industriarb": 125,
                 "formarb": 30
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 155
         },
         "foundation_year": 1938,
         "manager": "Ruben J:son Pontén",
@@ -134,7 +138,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 7
     },
     "5": {
         "name": "Järnvägsverkstäderna",
@@ -145,7 +149,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "AB. Järpens Tapetfabrik",
@@ -155,7 +159,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 17
     },
     "7": {
         "name": "Jästfabriks AB., Svenska",
@@ -165,7 +169,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "8": {
         "name": "Jönells AB.",
@@ -181,7 +185,8 @@
                 "industriarb": 21,
                 "hemarbetare": 30
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 51
         },
         "foundation_year": 1935,
         "manager": "Carl G. Jönell",
@@ -189,7 +194,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "9": {
         "name": "Jönköpings Borstfabrik",
@@ -199,6 +204,6 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 1
+        "cluster": 3
     }
 }

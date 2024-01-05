@@ -22,7 +22,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1930,
         "current_name_year": 1945,
@@ -30,7 +31,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Elfvings Skofabrik, AB",
@@ -61,7 +62,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 350000,
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 30
         },
         "foundation_year": 1904,
         "corporation_year": 1935,
@@ -69,7 +71,7 @@
             "Latitude": 63.29004740000001,
             "Longitude": 18.7166166
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "AB. Elga",
@@ -93,7 +95,8 @@
                 "industriarb": 75
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 75
         },
         "foundation_year": 1930,
         "current_name_year": 1940,
@@ -101,7 +104,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Elge-Verken (Linköpings Gjuteri & Mek. Verkstad)",
@@ -127,7 +130,8 @@
                 "industriarb": 49
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 49
         },
         "foundation_year": 1878,
         "corporation_year": 1909,
@@ -135,7 +139,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Elghammars Väveri",
@@ -158,7 +162,8 @@
             "employees": {
                 "antal": 10
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 10
         },
         "foundation_year": 1922,
         "owners": [
@@ -168,7 +173,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Janne Elgqvist AB.",
@@ -196,7 +201,8 @@
             "capital": 251000,
             "employees": {
                 "antal": 85
-            }
+            },
+            "employees_total": 85
         },
         "foundation_year": 1867,
         "corporation_year": 1921,
@@ -204,7 +210,7 @@
             "Latitude": 56.745012,
             "Longitude": 15.907874
         },
-        "cluster": 6
+        "cluster": 0
     },
     "7": {
         "name": "And. Eliassons Läderindustri AB.",
@@ -224,7 +230,8 @@
             "capital": 900000,
             "employees": {
                 "antal": 85
-            }
+            },
+            "employees_total": 85
         },
         "foundation_year": 1888,
         "corporation_year": 1898,
@@ -252,6 +259,6 @@
             "Latitude": 57.66896910000001,
             "Longitude": 12.5701434
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

@@ -18,7 +18,8 @@
             "capital": null,
             "employees": null,
             "annual_turnover": null,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 0
         },
         "foundation_year": 1943,
         "current_name_year": null,
@@ -48,7 +49,7 @@
             "Latitude": 59.362303,
             "Longitude": 14.0069605
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Kungsörs Bleckkärlsfabrik",
@@ -76,7 +77,8 @@
             "capital": null,
             "employees": 250,
             "annual_turnover": null,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 0
         },
         "foundation_year": 1897,
         "current_name_year": null,
@@ -102,7 +104,7 @@
             "Latitude": 59.422397,
             "Longitude": 16.097786
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Kungsörs Sågverks AB.",
@@ -125,7 +127,8 @@
             "capital": 70000,
             "employees": 21,
             "annual_turnover": null,
-            "annual_production_value": "1,200 stds trävaror"
+            "annual_production_value": "1,200 stds trävaror",
+            "employees_total": 0
         },
         "foundation_year": 1943,
         "current_name_year": null,
@@ -155,7 +158,7 @@
             "Latitude": 59.422397,
             "Longitude": 16.097786
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Kungsörs Träförädling",
@@ -178,7 +181,8 @@
             "capital": 12000,
             "employees": 7,
             "annual_turnover": null,
-            "annual_production_value": 90000
+            "annual_production_value": 90000,
+            "employees_total": 0
         },
         "foundation_year": 1926,
         "current_name_year": null,
@@ -200,7 +204,7 @@
             "Latitude": 59.422397,
             "Longitude": 16.097786
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Kungälvs Sko- & Sportindustri",
@@ -228,7 +232,8 @@
             "capital": 30000,
             "employees": 28,
             "annual_turnover": null,
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 0
         },
         "foundation_year": 1937,
         "current_name_year": null,
@@ -254,7 +259,7 @@
             "Latitude": 57.86975400000001,
             "Longitude": 11.9740317
         },
-        "cluster": 9
+        "cluster": 5
     },
     "6": {
         "name": "Kvarn AB. J. C. S.",
@@ -277,7 +282,8 @@
             "capital": 2400000,
             "employees": 65,
             "annual_turnover": null,
-            "annual_production_value": 10000000
+            "annual_production_value": 10000000,
+            "employees_total": 0
         },
         "foundation_year": 1914,
         "current_name_year": null,
@@ -303,6 +309,6 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

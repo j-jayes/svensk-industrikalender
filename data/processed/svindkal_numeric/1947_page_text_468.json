@@ -20,14 +20,15 @@
                 "industriarb": 6
             },
             "annual_turnover": 100000,
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 6
         },
         "foundation_year": 1930,
         "coordinates": {
             "Latitude": 59.42129649999999,
             "Longitude": 16.4769698
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "J. Linds Snickerifabriks AB.",
@@ -60,7 +61,8 @@
                 "industriarb": 17
             },
             "annual_turnover": 175000,
-            "annual_production_value": 175000
+            "annual_production_value": 175000,
+            "employees_total": 17
         },
         "foundation_year": 1927,
         "current_name_year": 1944,
@@ -68,7 +70,7 @@
             "Latitude": 60.1716941,
             "Longitude": 18.185871
         },
-        "cluster": 0
+        "cluster": 15
     },
     "3": {
         "name": "AB. A. Lindahls Fabriker",
@@ -103,7 +105,8 @@
                 "industriarb": 60
             },
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": "Ej tillgänglig"
+            "annual_production_value": "Ej tillgänglig",
+            "employees_total": 60
         },
         "foundation_year": 1902,
         "corporation_year": 1932,
@@ -111,7 +114,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 3
     },
     "4": {
         "name": "Lindbacka AB.",
@@ -130,14 +133,15 @@
                 "industriarb": 22
             },
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": "Ej tillgänglig"
+            "annual_production_value": "Ej tillgänglig",
+            "employees_total": 22
         },
         "foundation_year": 1938,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "AB. Lindberg Strå- & Filthattfabrik",
@@ -170,14 +174,15 @@
                 "industriarb": 95
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 95
         },
         "foundation_year": 1913,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Lindbergs Tryckeri AB.",
@@ -194,7 +199,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 73
-            }
+            },
+            "employees_total": 73
         },
         "foundation_year": 1911,
         "corporation_year": 1921,
@@ -202,6 +208,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

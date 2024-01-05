@@ -17,7 +17,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 30
         },
         "foundation_year": 1861,
         "corporation_year": 1917,
@@ -39,7 +40,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Instrumentfirman Axel Ericsson",
@@ -58,7 +59,8 @@
         "financials": {
             "employees": {
                 "industriarb": 16
-            }
+            },
+            "employees_total": 16
         },
         "foundation_year": 1923,
         "owners": [
@@ -68,7 +70,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Instrumentverken",
@@ -87,7 +89,8 @@
                 "industriarb": 54
             },
             "annual_turnover": 600000,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 54
         },
         "foundation_year": 1934,
         "current_name_year": 1945,
@@ -109,7 +112,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Insulator",
@@ -125,7 +128,8 @@
             "capital": 25000,
             "employees": {
                 "industriarb": 18
-            }
+            },
+            "employees_total": 18
         },
         "foundation_year": 1944,
         "board": [
@@ -146,7 +150,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "Irvin Fallskärms AB.",
@@ -163,7 +167,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 15
         },
         "foundation_year": 1938,
         "board": [
@@ -184,6 +189,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

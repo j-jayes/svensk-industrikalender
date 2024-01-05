@@ -19,7 +19,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Fridafors Fabriks AB.",
@@ -62,7 +62,8 @@
                 "industriarb.": 220
             },
             "annual_turnover": "10,000 ton ask- och kartongpapp",
-            "annual_production_value": "Bolaget grundat 1892"
+            "annual_production_value": "Bolaget grundat 1892",
+            "employees_total": 220
         },
         "board": [
             {
@@ -93,7 +94,7 @@
             "Latitude": 56.4085964,
             "Longitude": 14.6601712
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Fridkulla Fabrikers AB.",
@@ -113,7 +114,8 @@
                 "industriarb.": 230
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 230
         },
         "board": [
             {
@@ -140,7 +142,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Friseils Maskiner",
@@ -156,14 +158,15 @@
         "financials": {
             "employees": {
                 "industriarb.": 25
-            }
+            },
+            "employees_total": 25
         },
         "owner": "ing. Hjalmar F. Friseli",
         "coordinates": {
             "Latitude": 59.30531999999999,
             "Longitude": 18.2475
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Fristads Snickerifabriks AB.",
@@ -181,7 +184,8 @@
             "employees": {
                 "industriarb.": 12
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 12
         },
         "board": [
             {
@@ -200,7 +204,7 @@
             "Latitude": 57.824945,
             "Longitude": 13.007778
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "AB. Fritsla Cardinfabrik",
@@ -218,13 +222,14 @@
             "capital": 100000,
             "employees": {
                 "industriarb.": 35
-            }
+            },
+            "employees_total": 35
         },
         "owner": "Ejnar Hedin",
         "coordinates": {
             "Latitude": 57.5577891,
             "Longitude": 12.7855095
         },
-        "cluster": 1
+        "cluster": 15
     }
 }

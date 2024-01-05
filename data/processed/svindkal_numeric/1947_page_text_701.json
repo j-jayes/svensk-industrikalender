@@ -8,7 +8,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 1100000,
-            "annual_production_value": 1100000
+            "annual_production_value": 1100000,
+            "employees_total": 60
         },
         "foundation_year": 1898,
         "board": [
@@ -50,7 +51,8 @@
                 "industriarb": 86
             },
             "annual_turnover": 900000,
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 86
         },
         "foundation_year": 1916,
         "board": [
@@ -87,7 +89,7 @@
             "Latitude": 59.132661,
             "Longitude": 12.930107
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "AB. Seffle Motorverkstad, Bröderna Bruce",
@@ -99,7 +101,8 @@
                 "industriarb": 125
             },
             "annual_turnover": 1475000,
-            "annual_production_value": 1475000
+            "annual_production_value": 1475000,
+            "employees_total": 125
         },
         "foundation_year": 1908,
         "corporation_year": 1943,
@@ -122,7 +125,7 @@
             "Latitude": 59.132661,
             "Longitude": 12.930107
         },
-        "cluster": 1
+        "cluster": 7
     },
     "4": {
         "name": "AB. Seffle Möbelfabrik",
@@ -134,7 +137,8 @@
                 "industriarb": 65
             },
             "annual_turnover": 750000,
-            "annual_production_value": 750000
+            "annual_production_value": 750000,
+            "employees_total": 65
         },
         "foundation_year": 1909,
         "board": [
@@ -163,7 +167,7 @@
             "Latitude": 59.132661,
             "Longitude": 12.930107
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "AB. Sängfabriken, Stockholm",
@@ -175,7 +179,8 @@
             "employees": {
                 "industriarb": 200
             },
-            "annual_turnover": 2360000
+            "annual_turnover": 2360000,
+            "employees_total": 200
         },
         "foundation_year": 1899,
         "corporation_year": 1926,
@@ -203,7 +208,7 @@
             "Latitude": 60.22448389999999,
             "Longitude": 17.7015559
         },
-        "cluster": 6
+        "cluster": 15
     },
     "6": {
         "name": "AB. Sängfabriken Princess, Stockholm",
@@ -214,7 +219,8 @@
             "capital": "not available",
             "employees": {
                 "industriarb": 150
-            }
+            },
+            "employees_total": 150
         },
         "foundation_year": 1908,
         "board": [],
@@ -229,6 +235,6 @@
             "Latitude": 59.6674983,
             "Longitude": 15.7703286
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

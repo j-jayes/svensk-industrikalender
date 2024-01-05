@@ -15,7 +15,8 @@
             "employees": {
                 "total": 20
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 20
         },
         "foundation_year": 1941,
         "coordinates": {
@@ -41,14 +42,15 @@
             "employees": {
                 "total": 20
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 20
         },
         "foundation_year": 1941,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 3
     },
     "3": {
         "name": "AB. Axvalls Ångbryggeri",
@@ -67,7 +69,8 @@
             "employees": {
                 "total": 20
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 20
         },
         "foundation_year": 1880,
         "predecessor": "Not available",
@@ -76,7 +79,7 @@
             "Latitude": 58.3889151,
             "Longitude": 13.57335
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "Backa-Hosjö AB.",
@@ -96,14 +99,15 @@
             "employees": {
                 "total": 170
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 170
         },
         "foundation_year": 1897,
         "coordinates": {
             "Latitude": 59.0704435,
             "Longitude": 16.8303335
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Backe Trävaruindustrier",
@@ -123,7 +127,8 @@
             "employees": {
                 "total": 25
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 25
         },
         "foundation_year": 1930,
         "corporation_year": 1946,
@@ -131,7 +136,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Backa Såg- och Tegelverks AB.",
@@ -150,14 +155,15 @@
             "employees": {
                 "total": 105
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 105
         },
         "foundation_year": 1919,
         "coordinates": {
             "Latitude": 60.58931879999999,
             "Longitude": 15.7114734
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Badkläders Industri",
@@ -169,12 +175,13 @@
             "employees": {
                 "total": "Not available"
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

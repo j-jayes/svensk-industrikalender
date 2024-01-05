@@ -14,7 +14,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 2800000
+            "annual_turnover": 2800000,
+            "employees_total": 35
         },
         "foundation_year": 1920,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "Hernö Bryggeri AB.",
@@ -54,7 +55,8 @@
             "employees": {
                 "industriarb": 26
             },
-            "annual_turnover": 950000
+            "annual_turnover": 950000,
+            "employees_total": 26
         },
         "foundation_year": 1888,
         "board": [
@@ -76,7 +78,7 @@
             "Latitude": 62.6322698,
             "Longitude": 17.9408714
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "AB. Herrijunga Möbelfabrik",
@@ -95,7 +97,8 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_turnover": 550000
+            "annual_turnover": 550000,
+            "employees_total": 45
         },
         "foundation_year": 1910,
         "corporation_year": 1945,
@@ -118,7 +121,7 @@
             "Latitude": 58.0780287,
             "Longitude": 13.0188387
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Herrängs Cruf AB.",
@@ -134,7 +137,8 @@
             "employees": {
                 "industriarb": 275
             },
-            "annual_turnover": 4000000
+            "annual_turnover": 4000000,
+            "employees_total": 275
         },
         "foundation_year": 1889,
         "board": [
@@ -160,7 +164,7 @@
             "Latitude": 60.1294246,
             "Longitude": 18.6466281
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "John L. Hertzman",
@@ -177,7 +181,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 35
         },
         "foundation_year": 1887,
         "owners": [
@@ -211,7 +216,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "7": {
         "name": "Hesselman Motor Corporation AB.",
@@ -229,7 +234,8 @@
             "capital": 2250000,
             "employees": {
                 "industriarb": 500
-            }
+            },
+            "employees_total": 500
         },
         "foundation_year": 1931,
         "board": [
@@ -254,7 +260,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 7
     },
     "8": {
         "name": "Hestra Industri AB.",
@@ -272,7 +278,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1919,
         "corporation_year": 1925,
@@ -282,6 +289,6 @@
             "Latitude": 57.4431502,
             "Longitude": 13.5960313
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

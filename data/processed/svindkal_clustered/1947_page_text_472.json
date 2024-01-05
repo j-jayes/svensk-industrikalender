@@ -33,7 +33,7 @@
             "Latitude": 57.2392274,
             "Longitude": 15.1842913
         },
-        "cluster": 2
+        "cluster": 0
     },
     "2": {
         "name": "Lindsjös Verkstäder AB.",
@@ -68,7 +68,7 @@
             "Latitude": 55.3762427,
             "Longitude": 13.1574231
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Abet Lindströms Tricotfabrik",
@@ -153,7 +153,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 2
+        "cluster": 0
     },
     "6": {
         "name": "Carl Lindströms Eftr. Konst-smidesverkstad",
@@ -177,7 +177,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "F. E. Lindström AB.",
@@ -218,7 +218,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "AB. Gustaf Lindströms Boktryckeri",
@@ -236,6 +236,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

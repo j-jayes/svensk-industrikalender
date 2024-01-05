@@ -14,7 +14,8 @@
             "capital": 86000,
             "employees": {
                 "industriarb": 16
-            }
+            },
+            "employees_total": 16
         },
         "foundation_year": 1926,
         "board": [
@@ -32,7 +33,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Prinsfors Vaddfabrik",
@@ -47,7 +48,8 @@
         "financials": {
             "employees": {
                 "industriarb": 8
-            }
+            },
+            "employees_total": 8
         },
         "foundation_year": 1926,
         "owners": [
@@ -58,7 +60,7 @@
             "Latitude": 57.8574137,
             "Longitude": 14.1312259
         },
-        "cluster": 8
+        "cluster": 18
     },
     "3": {
         "name": "AB. Pripp & Lyckholm",
@@ -75,7 +77,8 @@
             "capital": 18000000,
             "employees": {
                 "industriarb": 450
-            }
+            },
+            "employees_total": 450
         },
         "corporation_year": 1926,
         "board": [
@@ -113,7 +116,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "AB. Eduard Profeld",
@@ -130,7 +133,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1935,
         "board": [
@@ -152,7 +156,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 9
+        "cluster": 1
     },
     "5": {
         "name": "Protesindustri, Simonsson & Co. Kommanditbolag",
@@ -168,7 +172,8 @@
         "financials": {
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1931,
         "board": [
@@ -195,7 +200,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 5
     },
     "6": {
         "name": "Pukebergs Glasbruk",

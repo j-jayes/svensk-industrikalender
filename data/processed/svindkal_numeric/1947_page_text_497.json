@@ -23,7 +23,8 @@
                 "industriarb": 6
             },
             "annual_turnover": 60000,
-            "annual_production_value": 60000
+            "annual_production_value": 60000,
+            "employees_total": 6
         },
         "foundation_year": 1936,
         "director": "Olof Malmström",
@@ -31,7 +32,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "AB. Malmö Hatt- & Mössfabrik",
@@ -48,7 +49,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 35
-            }
+            },
+            "employees_total": 35
         },
         "foundation_year": 1935,
         "director": [
@@ -78,7 +80,8 @@
             "employees": {
                 "industriarb": 56
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 56
         },
         "foundation_year": 1933,
         "board": [
@@ -99,7 +102,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "AB. Malmökonfektion",
@@ -126,7 +129,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 65
         },
         "foundation_year": 1925,
         "director": "J. P. Bager",
@@ -153,7 +157,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 70
-            }
+            },
+            "employees_total": 70
         },
         "foundation_year": 1934,
         "director": "J. Mörkeberg",
@@ -161,7 +166,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "AB. Malmö Ljustrycksanstalt",
@@ -181,7 +186,8 @@
             "employees": {
                 "Arb.-antal": 8
             },
-            "annual_production_value": 125000
+            "annual_production_value": 125000,
+            "employees_total": 8
         },
         "foundation_year": 1919,
         "board": [
@@ -204,7 +210,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "7": {
         "name": "AB. Malmö Läderfabriks AB.",
@@ -234,7 +240,8 @@
             "employees": {
                 "industriarb": 540
             },
-            "annual_turnover": 11000000
+            "annual_turnover": 11000000,
+            "employees_total": 540
         },
         "foundation_year": 1934,
         "owners": [
@@ -250,7 +257,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "AB. Malmö Mek. Tricotfabriks AB.",
@@ -270,7 +277,8 @@
             "employees": {
                 "industriarb": 350
             },
-            "annual_turnover": 5000000
+            "annual_turnover": 5000000,
+            "employees_total": 350
         },
         "foundation_year": 1892,
         "board": [

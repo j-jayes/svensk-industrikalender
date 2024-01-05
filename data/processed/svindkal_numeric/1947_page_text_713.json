@@ -16,7 +16,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 70
         },
         "foundation_year": 1940,
         "director": "Axel Sundgren",
@@ -24,7 +25,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Textil AB. Nilsson & Co.",
@@ -43,7 +44,8 @@
                 "industriarb": 115,
                 "hemarbetare": 150
             },
-            "annual_turnover": 1800000
+            "annual_turnover": 1800000,
+            "employees_total": 265
         },
         "foundation_year": 1919,
         "board": [
@@ -66,7 +68,7 @@
             "Latitude": 57.1597167,
             "Longitude": 13.403521
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "AB. Textilfabriken Merkur",
@@ -82,7 +84,8 @@
             "employees": {
                 "industriarb": 200
             },
-            "annual_turnover": 4000000
+            "annual_turnover": 4000000,
+            "employees_total": 200
         },
         "foundation_year": 1922,
         "board": [
@@ -108,7 +111,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Textilindustri AB. Stiab, Svenska",
@@ -118,7 +121,7 @@
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Textilindustrien Gust. Carlsson",
@@ -131,14 +134,15 @@
         "financials": {
             "employees": {
                 "industriarb": 9
-            }
+            },
+            "employees_total": 9
         },
         "owner": "fabr. Gustaf Carlsson",
         "coordinates": {
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Textilkompaniet",
@@ -154,7 +158,8 @@
             "employees": {
                 "industriarb": 148
             },
-            "annual_turnover": 4100000
+            "annual_turnover": 4100000,
+            "employees_total": 148
         },
         "foundation_year": 1919,
         "board": [
@@ -185,7 +190,7 @@
             "Latitude": 57.66896910000001,
             "Longitude": 12.5701434
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "AB. Textilkonst",
@@ -201,7 +206,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1933,
         "board": [
@@ -219,7 +225,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 3
+        "cluster": 9
     },
     "8": {
         "name": "AB. Textilmaskiner",
@@ -236,7 +242,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 70
         },
         "foundation_year": 1918,
         "predecessor": "Firma G. Welander & Kellner",
@@ -260,6 +267,6 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

@@ -23,7 +23,8 @@
                 "Mjölby": 125
             },
             "annual_turnover": 4000000,
-            "annual_production_value": 4000000
+            "annual_production_value": 4000000,
+            "employees_total": 530
         },
         "foundation_year": 1894,
         "corporation_year": 1898,
@@ -66,7 +67,8 @@
         },
         "financials": {
             "employees": 10,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 58.587745,
@@ -86,7 +88,8 @@
             "postgiro": "9917"
         },
         "financials": {
-            "employees": 44
+            "employees": 44,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 58.587745,
@@ -109,7 +112,8 @@
         "financials": {
             "capital": 30000,
             "employees": 75,
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 0
         },
         "corporation_year": 1932,
         "director": "kommendörkapten Olof Hedenström",
@@ -133,7 +137,8 @@
         "financials": {
             "capital": 75000,
             "employees": 20,
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 58.587745,
@@ -155,7 +160,8 @@
         },
         "financials": {
             "employees": 11,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 63.1654065,
@@ -184,7 +190,8 @@
         },
         "financials": {
             "capital": 55000,
-            "annual_production_value": 3500000
+            "annual_production_value": 3500000,
+            "employees_total": 0
         },
         "foundation_year": 1938,
         "board": [

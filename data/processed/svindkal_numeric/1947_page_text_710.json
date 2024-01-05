@@ -20,7 +20,8 @@
                 "industriarb": 175
             },
             "annual_turnover": "23,000 ton blekt sulfitcellulosa, viskoscellulosa o. sulfitsprit",
-            "annual_production_value": "23,000 ton"
+            "annual_production_value": "23,000 ton",
+            "employees_total": 175
         },
         "foundation_year": 1900,
         "board": [
@@ -45,7 +46,7 @@
             "Latitude": 63.34963049999999,
             "Longitude": 13.4529077
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Tegelbruket Funkis",
@@ -63,7 +64,8 @@
             "employees": {
                 "industriarb": 130
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 130
         },
         "foundation_year": 1898,
         "board": [
@@ -86,7 +88,7 @@
             "Latitude": 59.9396372,
             "Longitude": 16.8587588
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Tegelbruks AB. Walla-Katrineholm",
@@ -104,7 +106,8 @@
             "employees": {
                 "industriarb": 130
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 130
         },
         "foundation_year": 1898,
         "board": [
@@ -127,7 +130,7 @@
             "Latitude": 58.99555109999999,
             "Longitude": 16.2054756
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Tekaverken AB.",
@@ -144,7 +147,8 @@
             "capital": 575000,
             "employees": {
                 "industriarb": 160
-            }
+            },
+            "employees_total": 160
         },
         "corporation_year": 1939,
         "board": [
@@ -165,7 +169,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Tekniska AB. Flora",
@@ -181,7 +185,8 @@
             "employees": {
                 "industriarb": 43
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 43
         },
         "foundation_year": 1885,
         "board": [
@@ -212,7 +217,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "AB. Tekniska Byggnadsbyrån Delin & Perslow",
@@ -228,6 +233,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

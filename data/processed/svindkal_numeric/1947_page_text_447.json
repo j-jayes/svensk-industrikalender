@@ -32,7 +32,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 1400000,
-            "annual_production_value": 1400000
+            "annual_production_value": 1400000,
+            "employees_total": 70
         },
         "foundation_year": 1914,
         "board": [
@@ -58,7 +59,7 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Kroons Cykelfabrik",
@@ -75,7 +76,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 50
         },
         "foundation_year": 1946,
         "manager": "Charles Kroon",
@@ -83,7 +85,7 @@
             "Latitude": 60.5099434,
             "Longitude": 14.2253417
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Kroppstadfors AB.",
@@ -104,7 +106,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1944,
         "board": [
@@ -134,7 +137,7 @@
             "Latitude": 59.75765879999999,
             "Longitude": 12.3572534
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Krylbo Gjuteri & Mek. Verkstad, AB.",
@@ -152,7 +155,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "corporation_year": 1937,
         "manager": "Håkan Haglund",
@@ -160,7 +164,7 @@
             "Latitude": 60.1309558,
             "Longitude": 16.2159445
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "AB. Krylbo Smides- & Kassaskåpsfabrik",
@@ -179,7 +183,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_turnover": 650000
+            "annual_turnover": 650000,
+            "employees_total": 60
         },
         "foundation_year": 1902,
         "board": [
@@ -200,7 +205,7 @@
             "Latitude": 60.1309558,
             "Longitude": 16.2159445
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Krylbo Träförädlings AB.",
@@ -219,7 +224,8 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 45
         },
         "foundation_year": 1906,
         "owner": "Avesta Jernverks AB., Avesta",
@@ -238,7 +244,7 @@
             "Latitude": 60.1309558,
             "Longitude": 16.2159445
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Krångede AB.",
@@ -252,6 +258,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 2
     }
 }

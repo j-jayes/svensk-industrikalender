@@ -21,14 +21,15 @@
                 "industriarb": 50
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 50
         },
         "foundation_year": 1925,
         "coordinates": {
             "Latitude": 59.30531999999999,
             "Longitude": 18.2475
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Kåbergs Tapetfabrik",
@@ -47,14 +48,15 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 30
         },
         "foundation_year": 1856,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "AB. E. Kågström & Co.",
@@ -71,14 +73,15 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 365000
+            "annual_turnover": 365000,
+            "employees_total": 20
         },
         "foundation_year": 1881,
         "coordinates": {
             "Latitude": 64.750244,
             "Longitude": 20.950917
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "Kåällmöbler AB.",
@@ -92,14 +95,15 @@
             "capital": 15000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1918,
         "coordinates": {
             "Latitude": 57.5389838,
             "Longitude": 12.1116246
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "AB. Gustaf Kähr",
@@ -114,14 +118,15 @@
             "capital": 450000,
             "employees": {
                 "industriarb": 225
-            }
+            },
+            "employees_total": 225
         },
         "foundation_year": 1857,
         "coordinates": {
             "Latitude": 56.745012,
             "Longitude": 15.907874
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Källbergs Industri AB.",
@@ -137,14 +142,15 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 15
         },
         "foundation_year": 1945,
         "coordinates": {
             "Latitude": 58.70550919999999,
             "Longitude": 14.1261468
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "AB. Källdalens Industrier",
@@ -156,6 +162,6 @@
             "Latitude": 57.16446149999999,
             "Longitude": 12.7469571
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

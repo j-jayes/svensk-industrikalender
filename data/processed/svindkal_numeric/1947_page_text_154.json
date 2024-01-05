@@ -20,7 +20,8 @@
             "employees": {
                 "industrial": 2
             },
-            "annual_turnover": 30000
+            "annual_turnover": 30000,
+            "employees_total": 2
         },
         "foundation_year": 1928,
         "current_name_year": null,
@@ -37,7 +38,7 @@
             "Latitude": 57.48333299999999,
             "Longitude": 12.016667
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "A. H. Andersson & C:o. AB.",
@@ -60,7 +61,8 @@
             "employees": {
                 "industrial": 120
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 120
         },
         "foundation_year": 1875,
         "current_name_year": 1943,
@@ -94,7 +96,7 @@
             "Latitude": 58.5241864,
             "Longitude": 15.4512721
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "AB. Carl Anderson",
@@ -118,7 +120,8 @@
             "employees": {
                 "industrial": 87
             },
-            "annual_turnover": "kr"
+            "annual_turnover": "kr",
+            "employees_total": 87
         },
         "foundation_year": 1872,
         "current_name_year": 1934,
@@ -148,7 +151,7 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 3
+        "cluster": 9
     },
     "4": {
         "name": "Carl Anderssons Åkdonsfabrik",
@@ -171,7 +174,8 @@
             "employees": {
                 "industrial": 25
             },
-            "annual_turnover": "kr"
+            "annual_turnover": "kr",
+            "employees_total": 25
         },
         "foundation_year": 1890,
         "current_name_year": null,
@@ -188,7 +192,7 @@
             "Latitude": 61.004878,
             "Longitude": 14.537003
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "C. A. Anderssons Möbelfåbrik",
@@ -211,7 +215,8 @@
             "employees": {
                 "industrial": 12
             },
-            "annual_turnover": 80000
+            "annual_turnover": 80000,
+            "employees_total": 12
         },
         "foundation_year": 1915,
         "current_name_year": null,
@@ -228,7 +233,7 @@
             "Latitude": 58.331393,
             "Longitude": 15.0276781
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "C. V. Anderssons Aluminium- & Metallgjuteri AB.",
@@ -251,7 +256,8 @@
             "employees": {
                 "industrial": 12
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 12
         },
         "foundation_year": 1928,
         "current_name_year": 1945,
@@ -268,7 +274,7 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "David Andersson",
@@ -291,7 +297,8 @@
             "employees": {
                 "industrial": 15
             },
-            "annual_turnover": "1,500 stds trävaror"
+            "annual_turnover": "1,500 stds trävaror",
+            "employees_total": 15
         },
         "foundation_year": 1911,
         "current_name_year": null,
@@ -308,7 +315,7 @@
             "Latitude": 56.283635,
             "Longitude": 13.278832
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "Edvin Anderssons Mössfabrik",
@@ -331,7 +338,8 @@
             "employees": {
                 "industrial": 20
             },
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 20
         },
         "foundation_year": 1902,
         "current_name_year": null,
@@ -369,7 +377,8 @@
         "financials": {
             "capital": "",
             "employees": {},
-            "annual_turnover": ""
+            "annual_turnover": "",
+            "employees_total": 0
         },
         "foundation_year": null,
         "current_name_year": null,
@@ -386,6 +395,6 @@
             "Latitude": 63.29004740000001,
             "Longitude": 18.7166166
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

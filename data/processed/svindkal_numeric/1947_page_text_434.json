@@ -18,7 +18,8 @@
                 "industriarb": 45
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 45
         },
         "foundation_year": 1919,
         "owners": [
@@ -28,7 +29,7 @@
             "Latitude": 59.5635636,
             "Longitude": 16.2303593
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. Kolbäcks Träindustrier",
@@ -48,7 +49,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 400000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 25
         },
         "foundation_year": 1926,
         "board": [
@@ -78,7 +80,7 @@
             "Latitude": 59.5635636,
             "Longitude": 16.2303593
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Kolimporten—Laurents",
@@ -97,7 +99,8 @@
                 "industriarb": 125
             },
             "annual_turnover": "1,500 stds trävaror, 5 milj. murtegel",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 125
         },
         "foundation_year": 1897,
         "board": [
@@ -119,7 +122,7 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Kollin &amp; Ström",
@@ -140,7 +143,8 @@
                 "industriarb": 65
             },
             "annual_turnover": 800000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 65
         },
         "foundation_year": 1900,
         "board": [
@@ -162,7 +166,7 @@
             "Latitude": 60.484304,
             "Longitude": 15.433969
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Kommanditbolaget Betong, Sander &amp; Co.",
@@ -183,7 +187,8 @@
                 "industriarb": 62
             },
             "annual_turnover": 850000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 62
         },
         "foundation_year": 1926,
         "director": "vägmäst. Oskar Sander (Brännland)",
@@ -191,7 +196,7 @@
             "Latitude": 65.8241353,
             "Longitude": 21.5337095
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Kommanditbolaget Bröderna Wallins Nysilverfabrik",
@@ -206,7 +211,8 @@
                 "industriarb": 80
             },
             "annual_turnover": 1500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 80
         },
         "foundation_year": 1930,
         "board": [
@@ -232,7 +238,7 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 5
+        "cluster": 12
     },
     "7": {
         "name": "Kommanditbolaget Ellkå, Furstenberg &amp; Söner",
@@ -248,13 +254,14 @@
             "employees": {
                 "industriarb": 45
             },
-            "foundation_year": 1927
+            "foundation_year": 1927,
+            "employees_total": 45
         },
         "director": "dir. Sigismund Fiirstenberg",
         "coordinates": {
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 55
         },
         "foundation_year": 1897,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Treco Fabriks- & Handels AB.,",
@@ -58,7 +59,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1936,
         "director": "Knut Jenssen",
@@ -66,7 +68,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 18
     },
     "3": {
         "name": "Tregeindustri AB.,",
@@ -81,7 +83,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1945,
         "board": [
@@ -103,7 +106,7 @@
             "Latitude": 56.6963324,
             "Longitude": 16.1199013
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Trehörningsjö Såg & Hyvleri,",
@@ -118,7 +121,8 @@
             "employees": {
                 "industriarb": 12
             },
-            "annual_production_value": "500 stds trävaror, 600 ton träull"
+            "annual_production_value": "500 stds trävaror, 600 ton träull",
+            "employees_total": 12
         },
         "foundation_year": 1943,
         "board": [
@@ -136,7 +140,7 @@
             "Latitude": 63.6921814,
             "Longitude": 18.8625377
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Tre Lejon,",
@@ -156,7 +160,8 @@
             "employees": {
                 "industriarb": 135
             },
-            "annual_production_value": 15000000
+            "annual_production_value": 15000000,
+            "employees_total": 135
         },
         "corporation_year": 1925,
         "owners": [
@@ -193,7 +198,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 7
     },
     "6": {
         "name": "Trelleborgs Bryggeri AB.,",
@@ -211,7 +216,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 20
         },
         "foundation_year": 1894,
         "board": [
@@ -237,7 +243,7 @@
             "Latitude": 55.3762427,
             "Longitude": 13.1574231
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "Trelleborgs Glasindustri, Joh. Kock,",
@@ -256,7 +262,8 @@
             "employees": {
                 "industriarb": 185
             },
-            "annual_turnover": 1900000
+            "annual_turnover": 1900000,
+            "employees_total": 185
         },
         "foundation_year": 1919,
         "owners": [
@@ -267,7 +274,7 @@
             "Latitude": 55.3762427,
             "Longitude": 13.1574231
         },
-        "cluster": 2
+        "cluster": 0
     },
     "8": {
         "name": "Trelleborgs Cummifabriks AB.,",
@@ -282,6 +289,6 @@
             "Latitude": 55.3762427,
             "Longitude": 13.1574231
         },
-        "cluster": 1
+        "cluster": 3
     }
 }

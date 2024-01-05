@@ -24,7 +24,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 40
         },
         "foundation_year": 1865,
         "corporation_year": 1931,
@@ -49,7 +50,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Zandelins Tryckeri AB.",
@@ -69,7 +70,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 40
         },
         "foundation_year": 1926,
         "board": [
@@ -82,7 +84,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Zenks Bryggeri AB.",
@@ -96,7 +98,8 @@
             "capital": 300000,
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1860,
         "corporation_year": 1919,
@@ -119,7 +122,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "Zetterberg AB.",
@@ -140,7 +143,8 @@
             ]
         },
         "financials": {
-            "capital": 500000
+            "capital": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1917,
         "board": [
@@ -162,7 +166,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "5": {
         "name": "Zetterlund & Thelanders Boktryckeri AB.",
@@ -178,7 +182,8 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_turnover": 850000
+            "annual_turnover": 850000,
+            "employees_total": 45
         },
         "foundation_year": 1903,
         "corporation_year": 1907,
@@ -187,7 +192,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "AB. Zinkgruvor",
@@ -201,7 +206,8 @@
             "capital": 4000000,
             "employees": {
                 "industriarb": 300
-            }
+            },
+            "employees_total": 300
         },
         "foundation_year": 1923,
         "board": [
@@ -235,7 +241,7 @@
             "Latitude": 60.60646000000001,
             "Longitude": 15.6355
         },
-        "cluster": 6
+        "cluster": 2
     },
     "7": {
         "name": "Zuckerman & Jonasson Metallfabrik AB.",
@@ -245,6 +251,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

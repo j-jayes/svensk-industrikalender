@@ -18,7 +18,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 800000,
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 60
         },
         "foundation_year": 1907,
         "board": [
@@ -48,7 +49,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "K. D. Santesson AB",
@@ -66,7 +67,8 @@
             "capital": 170000,
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1904,
         "corporation_year": 1934,
@@ -98,7 +100,7 @@
             "Latitude": 55.8391198,
             "Longitude": 13.3033914
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "Santorin-Verken AB",
@@ -119,7 +121,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 70
         },
         "foundation_year": 1935,
         "corporation_year": 1939,
@@ -143,7 +146,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "S-B Bygge AB",
@@ -164,7 +167,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 1700000,
-            "annual_production_value": 1700000
+            "annual_production_value": 1700000,
+            "employees_total": 50
         },
         "foundation_year": 1932,
         "corporation_year": 1943,
@@ -190,6 +194,6 @@
             "Latitude": 56.8790044,
             "Longitude": 14.8058522
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

@@ -28,7 +28,8 @@
                 "industriarb": 106
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 106
         },
         "foundation_year": 1900,
         "corporation_year": 1943,
@@ -50,7 +51,7 @@
             "Latitude": 59.41224800000001,
             "Longitude": 13.6709545
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Skandinaviska Träimport AB.",
@@ -78,7 +79,8 @@
                 "industriarb": 65
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 65
         },
         "foundation_year": 1901,
         "corporation_year": "Not available",
@@ -108,7 +110,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Skandinaviska Verktygsfabriks AB.",
@@ -128,7 +130,8 @@
                 "industriarb": 425
             },
             "annual_turnover": 5000000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 425
         },
         "foundation_year": 1896,
         "corporation_year": "Not available",
@@ -158,7 +161,7 @@
             "Latitude": 56.1594501,
             "Longitude": 13.6032438
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Skara Bryggeri AB.",
@@ -181,7 +184,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 200000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 10
         },
         "foundation_year": 1901,
         "corporation_year": "Not available",
@@ -211,7 +215,7 @@
             "Latitude": 58.3860128,
             "Longitude": 13.4393282
         },
-        "cluster": 2
+        "cluster": 16
     },
     "5": {
         "name": "Skara Karosserifabrik",
@@ -233,7 +237,8 @@
                 "industriarb": 25
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 25
         },
         "foundation_year": 1929,
         "corporation_year": "Not available",
@@ -247,7 +252,7 @@
             "Latitude": 58.3860128,
             "Longitude": 13.4393282
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Skara Snickeri & Trävaruaffär",
@@ -269,7 +274,8 @@
                 "arb": 7
             },
             "annual_turnover": 100000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 7
         },
         "foundation_year": 1910,
         "corporation_year": "Not available",
@@ -288,6 +294,6 @@
             "Latitude": 58.3860128,
             "Longitude": 13.4393282
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

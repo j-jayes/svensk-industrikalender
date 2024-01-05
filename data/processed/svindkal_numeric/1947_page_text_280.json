@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb.": 175
             },
-            "annual_turnover": 2900000
+            "annual_turnover": 2900000,
+            "employees_total": 175
         },
         "foundation_year": 1889,
         "current_name_year": 1940,
@@ -49,11 +50,12 @@
         },
         "financials": {
             "capital": 65000,
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 0
         },
         "foundation_year": 1932,
         "director": "Harry Malmqvist",
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "Fabriken Odin AB., Stockholm",
@@ -73,7 +75,8 @@
             "employees": {
                 "industriarb.": 35
             },
-            "annual_turnover": "N/A"
+            "annual_turnover": "N/A",
+            "employees_total": 35
         },
         "foundation_year": 1918,
         "corporation_year": 1941,
@@ -82,7 +85,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "AB. Fabriken Orion, Lindesberg",
@@ -101,7 +104,8 @@
             "employees": {
                 "industriarb.": 35
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 35
         },
         "foundation_year": 1898,
         "corporation_year": 1944,
@@ -110,7 +114,7 @@
             "Latitude": 59.5976983,
             "Longitude": 15.2229108
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Fabriken Rurik, Karlshamn",
@@ -124,11 +128,12 @@
         "financials": {
             "employees": {
                 "industriarb.": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1898,
         "director": "Ing. P. Georg Carlson",
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Fabriken Saturnus, Malmö",
@@ -145,7 +150,8 @@
             "employees": {
                 "industriarb.": 80
             },
-            "annual_turnover": 2250000
+            "annual_turnover": 2250000,
+            "employees_total": 80
         },
         "foundation_year": 1893,
         "corporation_year": 1905,
@@ -164,7 +170,7 @@
             }
         ],
         "director": "N.-H. Håkansson",
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "Fabriken Tomten, Alex. Lagerman Jsr AB., Stockholm",
@@ -177,11 +183,12 @@
             "postgiro": "N/A"
         },
         "financials": {
-            "capital": 3000000
+            "capital": 3000000,
+            "employees_total": 0
         },
         "foundation_year": 1897,
         "corporation_year": 1911,
         "director": "Tor Olsson",
-        "cluster": 2
+        "cluster": 3
     }
 }

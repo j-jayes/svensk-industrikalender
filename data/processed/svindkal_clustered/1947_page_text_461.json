@@ -38,7 +38,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Leksaksfabriken Norco",
@@ -66,7 +66,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 9
     },
     "3": {
         "name": "AB. Leksandsbröd",
@@ -93,7 +93,7 @@
             "Latitude": 60.69627,
             "Longitude": 15.05732
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Lemunda Sandstensbrott",
@@ -228,6 +228,6 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

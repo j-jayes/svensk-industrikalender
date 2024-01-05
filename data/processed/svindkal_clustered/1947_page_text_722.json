@@ -54,7 +54,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 2
     },
     "2": {
         "name": "AB. Trané",
@@ -124,7 +124,7 @@
             "Latitude": 57.4855688,
             "Longitude": 13.35241
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Tranemo Textil AB.",
@@ -150,7 +150,7 @@
             "Latitude": 57.4855688,
             "Longitude": 13.35241
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Tranemo Trikåindustri AB.",
@@ -183,7 +183,7 @@
             "Latitude": 57.4855688,
             "Longitude": 13.35241
         },
-        "cluster": 3
+        "cluster": 9
     },
     "6": {
         "name": "Tranemo Yllefabriks AB.",
@@ -216,7 +216,7 @@
             "Latitude": 57.4855688,
             "Longitude": 13.35241
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Transformatorfabriken, Svenska",
@@ -247,7 +247,7 @@
             "Latitude": 56.8440678,
             "Longitude": 15.3960304
         },
-        "cluster": 1
+        "cluster": 0
     },
     "9": {
         "name": "Transportbolaget",
@@ -275,6 +275,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

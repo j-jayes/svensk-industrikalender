@@ -30,7 +30,8 @@
                 "Pukeberg": 100
             },
             "annual_turnover": 3500000,
-            "annual_production_value": 3500000
+            "annual_production_value": 3500000,
+            "employees_total": 250
         },
         "foundation_year": 1918,
         "owners": [
@@ -89,7 +90,8 @@
                 "Pukeberg": 100
             },
             "annual_turnover": 3500000,
-            "annual_production_value": 3500000
+            "annual_production_value": 3500000,
+            "employees_total": 250
         },
         "foundation_year": 1872,
         "board": [
@@ -112,7 +114,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 0
     },
     "4": {
         "name": "AB. Böksholms Sulfitfabrik",
@@ -140,7 +142,8 @@
                 "Klippan": 100
             },
             "annual_turnover": null,
-            "annual_production_value": "8,000 ton sulfitcellulosa"
+            "annual_production_value": "8,000 ton sulfitcellulosa",
+            "employees_total": 100
         },
         "foundation_year": 1901,
         "owners": [
@@ -173,7 +176,7 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Böle Såg- & Kvarn AB.",
@@ -189,7 +192,8 @@
             "employees": {
                 "Näsviken": 30
             },
-            "annual_production_value": "800 stds trävaror"
+            "annual_production_value": "800 stds trävaror",
+            "employees_total": 30
         },
         "foundation_year": 1897,
         "board": [
@@ -202,7 +206,7 @@
             "Latitude": 61.7612907,
             "Longitude": 16.8732569
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Böleå Snickerifabriks AB.",
@@ -218,14 +222,15 @@
             "capital": 100000,
             "employees": {
                 "Teg": 14
-            }
+            },
+            "employees_total": 14
         },
         "foundation_year": 1925,
         "coordinates": {
             "Latitude": 63.8190372,
             "Longitude": 20.2465139
         },
-        "cluster": 8
+        "cluster": 18
     },
     "7": {
         "name": "AB. Börringe Tegelbruk",
@@ -242,7 +247,8 @@
             "employees": {
                 "Börringe": 35
             },
-            "annual_production_value": "2,5 milj. st. tegelvaror"
+            "annual_production_value": "2,5 milj. st. tegelvaror",
+            "employees_total": 35
         },
         "foundation_year": 1942,
         "board": [
@@ -265,7 +271,7 @@
             "Latitude": 55.5,
             "Longitude": 13.333333
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "AB. P. C. Börser",
@@ -279,12 +285,13 @@
             ]
         },
         "financials": {
-            "capital": 84000
+            "capital": 84000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 61.8308392,
             "Longitude": 16.0817501
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

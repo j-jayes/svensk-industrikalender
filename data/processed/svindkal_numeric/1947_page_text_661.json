@@ -20,14 +20,15 @@
                 "Arbetsplatser": 8
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 8
         },
         "foundation_year": 1932,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 0
     },
     "2": {
         "name": "AB. Sunlight",
@@ -47,14 +48,15 @@
                 "Antal industriarb.": 225
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 225
         },
         "foundation_year": 1911,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Sunmos Konfektionsindustri",
@@ -72,14 +74,15 @@
                 "Antal industriarb.": 32
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 32
         },
         "foundation_year": 1939,
         "coordinates": {
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Sunne Mek. Verkstad",
@@ -95,7 +98,8 @@
             "employees": {
                 "Antal industriarb.": 25
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 25
         },
         "foundation_year": 1937,
         "coordinates": {
@@ -122,14 +126,15 @@
             "employees": {
                 "Antal industriarb.": 30
             },
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 30
         },
         "foundation_year": 1923,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Surahammars Bruks AB.",
@@ -143,12 +148,13 @@
         "financials": {
             "employees": {
                 "Arbetsplatser": "N/A"
-            }
+            },
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 59.70722619999999,
             "Longitude": 16.2268409
         },
-        "cluster": 1
+        "cluster": 2
     }
 }

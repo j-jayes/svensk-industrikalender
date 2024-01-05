@@ -36,7 +36,8 @@
         },
         "financials": {
             "capital": 2000000,
-            "foundation_year": 1926
+            "foundation_year": 1926,
+            "employees_total": 0
         },
         "board": [
             {
@@ -68,7 +69,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 13
     },
     "2": {
         "name": "AB. Arboga Margarinfabrik",
@@ -79,7 +80,8 @@
             "factory_phone": "unknown"
         },
         "financials": {
-            "foundation_year": 1926
+            "foundation_year": 1926,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 59.39368829999999,
@@ -100,7 +102,8 @@
         },
         "financials": {
             "capital": 450000,
-            "foundation_year": 1929
+            "foundation_year": 1929,
+            "employees_total": 0
         },
         "board": [
             {
@@ -121,7 +124,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Margarinfabriken Oma, E. Hjorth",
@@ -138,7 +141,8 @@
             "employees": {
                 "unknown": 3
             },
-            "foundation_year": 1930
+            "foundation_year": 1930,
+            "employees_total": 3
         },
         "owners": [
             "Ernst Hjorth"
@@ -148,7 +152,7 @@
             "Latitude": 56.3815355,
             "Longitude": 13.9929413
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Margarinfabriken Scania-Vega AB.",
@@ -167,13 +171,14 @@
             "employees": {
                 "unknown": 20
             },
-            "foundation_year": 1931
+            "foundation_year": 1931,
+            "employees_total": 20
         },
         "director": "disp. A. Borup-Jörgensen",
         "coordinates": {
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

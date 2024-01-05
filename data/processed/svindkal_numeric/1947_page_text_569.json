@@ -14,7 +14,8 @@
             "capital": 2750000,
             "employees": {
                 "industriarb.": 300
-            }
+            },
+            "employees_total": 300
         },
         "foundation_year": 1917,
         "corporation_year": 1930,
@@ -40,7 +41,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. Hans Österman",
@@ -54,7 +55,8 @@
             "postgiro": "767"
         },
         "financials": {
-            "capital": 1500000
+            "capital": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1908,
         "corporation_year": 1915,
@@ -82,7 +84,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "John Österman, Elektr. AB.",
@@ -103,14 +105,15 @@
         },
         "financials": {
             "employees": 12,
-            "annual_production_value": 70000
+            "annual_production_value": 70000,
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "coordinates": {
             "Latitude": 64.8845766,
             "Longitude": 21.0621446
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "AB. Carl Ottossons Remfabrik",
@@ -124,7 +127,8 @@
         "financials": {
             "capital": 100000,
             "employees": 50,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 0
         },
         "foundation_year": 1921,
         "corporation_year": 1945,
@@ -146,7 +150,8 @@
         "financials": {
             "capital": 650000,
             "employees": 300,
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 0
         },
         "foundation_year": 1924,
         "corporation_year": 1940,
@@ -155,7 +160,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "E. S. Ouchterlony & Comp.",
@@ -166,7 +171,8 @@
         },
         "financials": {
             "employees": 40,
-            "annual_production_value": "3,500 stds trävaror"
+            "annual_production_value": "3,500 stds trävaror",
+            "employees_total": 0
         },
         "foundation_year": 1907,
         "director": "E. S. Ouchterlony",
@@ -174,7 +180,7 @@
             "Latitude": 63.3334213,
             "Longitude": 14.0167372
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "Ousby Kimröks Fabriks AB.",
@@ -187,7 +193,8 @@
         "financials": {
             "capital": 79000,
             "employees": 10,
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 0
         },
         "foundation_year": 1887,
         "director": "Joh. Ekman",
@@ -196,6 +203,6 @@
             "Latitude": 56.3815355,
             "Longitude": 13.9929413
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

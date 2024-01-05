@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 100
         },
         "foundation_year": 1897,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "AB. Marks Tegelbruk",
@@ -55,7 +56,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 495000
+            "annual_turnover": 495000,
+            "employees_total": 40
         },
         "foundation_year": 1902,
         "director": "Arvid Adamson",
@@ -64,7 +66,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Marks Textilfabrik",
@@ -84,7 +86,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_turnover": 1200000
+            "annual_turnover": 1200000,
+            "employees_total": 65
         },
         "foundation_year": 1908,
         "owners": [
@@ -96,7 +99,7 @@
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Markström & Co. AB.",
@@ -112,7 +115,8 @@
             "capital": 70000,
             "employees": {
                 "industriarb": 36
-            }
+            },
+            "employees_total": 36
         },
         "foundation_year": 1899,
         "corporation_year": 1936,
@@ -131,7 +135,7 @@
             "Latitude": 57.3304279,
             "Longitude": 15.3139592
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Marma—Långrörs AB.",
@@ -152,7 +156,8 @@
                 "industriarb": 700
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "70,000 ton sulfatcellulosa, 50,000 ton sulfitcellulosa, 16,000 ton torrberäknad mek. massa, 15,000 stds trävaror, 4 milj. ltr sulfitsprit"
+            "annual_production_value": "70,000 ton sulfatcellulosa, 50,000 ton sulfitcellulosa, 16,000 ton torrberäknad mek. massa, 15,000 stds trävaror, 4 milj. ltr sulfitsprit",
+            "employees_total": 700
         },
         "foundation_year": 1907,
         "original_name": "Marma Sågverks AB.; Marmorbruks AB.",
@@ -168,7 +173,7 @@
             "Latitude": 61.3055762,
             "Longitude": 17.0628102
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Marmorförädlings AB.",
@@ -187,7 +192,8 @@
             "employees": {
                 "industriarb": 63
             },
-            "annual_turnover": "N/A"
+            "annual_turnover": "N/A",
+            "employees_total": 63
         },
         "foundation_year": 1919,
         "director": "N. G. Nihlén",
@@ -195,7 +201,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "AB. Marstrands Mek. Verkstad",
@@ -212,6 +218,6 @@
             "Latitude": 57.8884502,
             "Longitude": 11.5967453
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

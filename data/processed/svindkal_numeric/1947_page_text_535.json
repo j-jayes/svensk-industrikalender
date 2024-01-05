@@ -33,7 +33,8 @@
             "capital": 8850000,
             "employees": {
                 "industriarb.": 1100
-            }
+            },
+            "employees_total": 1100
         },
         "foundation_year": 1919,
         "predecessor": "Nordiska Armatur AB.",
@@ -41,7 +42,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Nordiska Bleckemballagefabriken",
@@ -54,7 +55,8 @@
         "financials": {
             "employees": {
                 "industriarb.": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1922,
         "director": "Wilhard Dahlgren",
@@ -62,7 +64,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "AB. Nordiska Fanérfabriken",
@@ -80,7 +82,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb.": 20
-            }
+            },
+            "employees_total": 20
         },
         "corporation_year": 1944,
         "director": "Axel Bohman",
@@ -88,7 +91,7 @@
             "Latitude": 57.6690339,
             "Longitude": 15.858857
         },
-        "cluster": 1
+        "cluster": 17
     },
     "4": {
         "name": "Nordiska Fjäderfabriken AB.",
@@ -115,14 +118,15 @@
             "capital": 100000,
             "employees": {
                 "industriarb.": 100
-            }
+            },
+            "employees_total": 100
         },
         "foundation_year": 1929,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 3
+        "cluster": 9
     },
     "5": {
         "name": "Nordiska Gummifabriks AB.",
@@ -137,13 +141,14 @@
             "capital": 700000,
             "employees": {
                 "industriarb.": 120
-            }
+            },
+            "employees_total": 120
         },
         "corporation_year": 1922,
         "coordinates": {
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

@@ -21,7 +21,8 @@
                 "industriarb": 136
             },
             "annual_turnover": 3500000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 136
         },
         "foundation_year": 1875,
         "board": [
@@ -37,7 +38,7 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Sa!anders Fabriks AB",
@@ -58,7 +59,8 @@
                 "industriarb": 24
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 24
         },
         "foundation_year": 1850,
         "board": [
@@ -110,7 +112,8 @@
                 "industriarb": 191
             },
             "annual_turnover": 21000000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 191
         },
         "foundation_year": 1889,
         "board": [
@@ -142,7 +145,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Salsta-Wattholma Tegelbruk",
@@ -166,7 +169,8 @@
                 "industriarb": 24
             },
             "annual_turnover": "",
-            "annual_production_value": "0,6 milj. st. tegelvaror"
+            "annual_production_value": "0,6 milj. st. tegelvaror",
+            "employees_total": 24
         },
         "foundation_year": 1873,
         "board": [],
@@ -177,7 +181,7 @@
             "Latitude": 60.01484439999999,
             "Longitude": 17.7331499
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Saltviks Slip &amp; Varv",
@@ -201,7 +205,8 @@
                 "industriarb": 25
             },
             "annual_turnover": "",
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 25
         },
         "foundation_year": 1899,
         "board": [],
@@ -212,7 +217,7 @@
             "Latitude": 57.26569929999999,
             "Longitude": 16.4473984
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Albert Samuelsson &amp; C:o.",
@@ -236,7 +241,8 @@
                 "industriarb": 45
             },
             "annual_turnover": "",
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 45
         },
         "foundation_year": 1920,
         "board": [],
@@ -247,7 +253,7 @@
             "Latitude": 57.12744,
             "Longitude": 13.37045
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "AB. Victor Samuelsons Strumpfabrik",
@@ -271,7 +277,8 @@
                 "industriarb": 260
             },
             "annual_turnover": 3500000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 260
         },
         "foundation_year": 1935,
         "board": [],
@@ -282,7 +289,7 @@
             "Latitude": 57.65,
             "Longitude": 12.016667
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "AB. Sana Trikåfabrik",
@@ -306,7 +313,8 @@
                 "industriarb": 30
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 30
         },
         "foundation_year": 1918,
         "board": [],

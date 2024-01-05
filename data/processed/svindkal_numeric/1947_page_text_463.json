@@ -19,7 +19,8 @@
             "employees": {
                 "industriarb.": 112
             },
-            "annual_production_value": 1800000
+            "annual_production_value": 1800000,
+            "employees_total": 112
         },
         "foundation_year": 1903,
         "owners": [
@@ -52,7 +53,7 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Levin Strå- & Filthattfabrik, Stockholm",
@@ -69,7 +70,8 @@
             "employees": {
                 "industriarb.": 85
             },
-            "annual_turnover": 1800000
+            "annual_turnover": 1800000,
+            "employees_total": 85
         },
         "foundation_year": 1886,
         "board": [
@@ -103,7 +105,8 @@
             "employees": {
                 "industriarb.": 112
             },
-            "annual_production_value": 1300000
+            "annual_production_value": 1300000,
+            "employees_total": 112
         },
         "foundation_year": 1900,
         "board": [
@@ -117,7 +120,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "AB. K. J. Levin, Malmö",
@@ -134,7 +137,8 @@
             "employees": {
                 "industriarb.": 90
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 90
         },
         "foundation_year": 1925,
         "director": "K. J. Levin",
@@ -142,7 +146,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Martin Levissons Söner, Göteborg",
@@ -176,7 +180,8 @@
             "employees": {
                 "industriarb.": 17
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 17
         },
         "foundation_year": 1943,
         "board": [
@@ -193,6 +198,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

@@ -12,7 +12,8 @@
         },
         "financials": {
             "capital": 80000,
-            "foundation_year": 1929
+            "foundation_year": 1929,
+            "employees_total": 0
         },
         "board": [
             {
@@ -34,7 +35,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Gavleverken",
@@ -60,7 +61,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 1400000,
-            "foundation_year": 1912
+            "foundation_year": 1912,
+            "employees_total": 100
         },
         "board": [
             {
@@ -86,7 +88,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Geas Konstharts-industri",
@@ -106,7 +108,7 @@
             "Latitude": 57.2985,
             "Longitude": 13.54326
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "Fredrik Gedin",
@@ -123,7 +125,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_turnover": 1300000
+            "annual_turnover": 1300000,
+            "employees_total": 90
         },
         "ownership": "Ägare o. chef: dir. Fredrik Gedin",
         "coordinates": {
@@ -147,7 +150,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "foundation_year": 1937
+            "foundation_year": 1937,
+            "employees_total": 90
         },
         "board": [
             {
@@ -159,7 +163,7 @@
             "Latitude": 57.4855688,
             "Longitude": 13.35241
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB. Geform",
@@ -177,7 +181,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 100000,
-            "foundation_year": 1939
+            "foundation_year": 1939,
+            "employees_total": 10
         },
         "director": "Ragnar Dahlgren",
         "coordinates": {
@@ -203,7 +208,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 25
         },
         "board": [
             {
@@ -220,7 +226,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "8": {
         "name": "AB. Gemax-Clas",
@@ -234,6 +240,6 @@
             "Latitude": 59.5736679,
             "Longitude": 17.8853715
         },
-        "cluster": 1
+        "cluster": 0
     }
 }

@@ -16,7 +16,8 @@
                 "industriarb": 12
             },
             "annual_turnover": 130000,
-            "annual_production_value": 130000
+            "annual_production_value": 130000,
+            "employees_total": 12
         },
         "foundation_year": 1922,
         "director": "handl. Bonde Andersson",
@@ -24,7 +25,7 @@
             "Latitude": 55.7040599,
             "Longitude": 13.7872463
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "AB. Volvo",
@@ -57,7 +58,8 @@
                 "Skövde": 1,
                 "total": 2300
             },
-            "corporation_year": 1915
+            "corporation_year": 1915,
+            "employees_total": 3103
         },
         "foundation_year": 1915,
         "board": [
@@ -99,7 +101,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Ernst Wranne, Byggnads AB",
@@ -113,7 +115,8 @@
             "postgiro": "171403"
         },
         "financials": {
-            "capital": 175000
+            "capital": 175000,
+            "employees_total": 0
         },
         "foundation_year": 1913,
         "current_name_year": 1945,
@@ -123,7 +126,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 0
+        "cluster": 6
     },
     "4": {
         "name": "Woxna Järnverk",
@@ -147,7 +150,8 @@
             "postgiro": "171403"
         },
         "financials": {
-            "capital": 175000
+            "capital": 175000,
+            "employees_total": 0
         },
         "foundation_year": 1913,
         "current_name_year": 1945,
@@ -157,7 +161,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 0
+        "cluster": 6
     },
     "6": {
         "name": "Vrena Sågverk o. Tegelbruk",
@@ -185,7 +189,8 @@
             "employees": {
                 "industriarb": 27
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 27
         },
         "foundation_year": 1889,
         "current_name_year": 1925,
@@ -194,7 +199,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 5
+        "cluster": 10
     },
     "8": {
         "name": "AB. Vretstorps Tröskmaskiner",
@@ -208,7 +213,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 73
-            }
+            },
+            "employees_total": 73
         },
         "foundation_year": 1923,
         "director": "Nils Westberg (Karlstad)",
@@ -217,7 +223,7 @@
             "Latitude": 59.02375439999999,
             "Longitude": 14.8685106
         },
-        "cluster": 1
+        "cluster": 18
     },
     "9": {
         "name": "Vrigstads Skofabrik",
@@ -234,7 +240,7 @@
             "Latitude": 57.3554934,
             "Longitude": 14.4756316
         },
-        "cluster": 9
+        "cluster": 5
     },
     "10": {
         "name": "AB. WST-hus",
@@ -259,7 +265,8 @@
             "employees": {
                 "industriarb": 125
             },
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 125
         },
         "foundation_year": 1922,
         "corporation_year": 1943,
@@ -284,6 +291,6 @@
             "Latitude": 57.69932780000001,
             "Longitude": 14.475408
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

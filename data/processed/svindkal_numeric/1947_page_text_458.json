@@ -13,7 +13,8 @@
             },
             "capital": "N/A",
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 30
         },
         "foundation_year": 1918,
         "owner_and_manager": "fabr. Sigurd Johansson",
@@ -40,7 +41,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Larsson & Söner, Armaturfabrik",
@@ -50,7 +51,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Larsson & Wallgren, Eriksdals Möbelfabrik",
@@ -60,7 +61,7 @@
             "Latitude": 58.3070702,
             "Longitude": 14.2874663
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Larssons Paraplyfabrik",
@@ -78,7 +79,8 @@
             },
             "capital": "N/A",
             "annual_turnover": "N/A",
-            "annual_production_value": 120000
+            "annual_production_value": 120000,
+            "employees_total": 7
         },
         "foundation_year": 1921,
         "owner_and_manager": "fabr. H. Lars Larsson",
@@ -117,7 +119,8 @@
             },
             "capital": 150000,
             "annual_turnover": 2500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 140
         },
         "foundation_year": 1919,
         "corporation_year": 1941,
@@ -131,7 +134,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "9": {
         "name": "Carl Larssons Slakteri AB.",
@@ -150,7 +153,8 @@
             },
             "capital": 1500000,
             "annual_turnover": 3000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 87
         },
         "foundation_year": 1889,
         "corporation_year": 1908,
@@ -163,7 +167,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "10": {
         "name": "F. C. Larsson, Byggnadsfirma",
@@ -182,7 +186,8 @@
             },
             "capital": "N/A",
             "annual_turnover": 2000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1900,
         "owner_and_manager": "byggm. Frans G. Larsson",
@@ -190,7 +195,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "11": {
         "name": "Karl L. Larsson",
@@ -208,7 +213,8 @@
             },
             "capital": "N/A",
             "annual_turnover": 125000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 20
         },
         "foundation_year": 1895,
         "owner_and_manager": "Karl L. Larssons sterbhus o. fabr. Lars E. Larsson",
@@ -216,7 +222,7 @@
             "Latitude": 57.74962360000001,
             "Longitude": 13.1963006
         },
-        "cluster": 1
+        "cluster": 18
     },
     "12": {
         "name": "L. Larsson & Söner",

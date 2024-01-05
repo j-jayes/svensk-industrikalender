@@ -23,7 +23,8 @@
                 "industriarb": 80
             },
             "annual_turnover": "1 500 000 kr",
-            "annual_production_value": "1 500 000 kr"
+            "annual_production_value": "1 500 000 kr",
+            "employees_total": 80
         },
         "foundation_year": 1883,
         "corporation_year": 1909,
@@ -59,7 +60,7 @@
             "Latitude": 63.3491079,
             "Longitude": 14.2521057
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "AB. Vara Tegelbruk",
@@ -85,7 +86,8 @@
                 "industriarb": 26
             },
             "annual_turnover": "",
-            "annual_production_value": "4 milj. st. tegelvaror"
+            "annual_production_value": "4 milj. st. tegelvaror",
+            "employees_total": 26
         },
         "foundation_year": 1904,
         "corporation_year": 0,
@@ -121,7 +123,7 @@
             "Latitude": 58.261781,
             "Longitude": 12.960194
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Vara Valskvarn AB.",
@@ -146,7 +148,8 @@
                 "industriarb": 12
             },
             "annual_turnover": "",
-            "annual_production_value": "1 300 000 kr"
+            "annual_production_value": "1 300 000 kr",
+            "employees_total": 12
         },
         "foundation_year": 1923,
         "corporation_year": 1927,
@@ -174,7 +177,7 @@
             "Latitude": 58.261781,
             "Longitude": 12.960194
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Varbergs Betongvaru AB.",
@@ -199,7 +202,8 @@
                 "industriarb": 25
             },
             "annual_turnover": "",
-            "annual_production_value": "250 000 kr"
+            "annual_production_value": "250 000 kr",
+            "employees_total": 25
         },
         "foundation_year": 1941,
         "corporation_year": 0,
@@ -214,7 +218,7 @@
             "Latitude": 57.107118,
             "Longitude": 12.2520907
         },
-        "cluster": 1
+        "cluster": 4
     },
     "5": {
         "name": "Varbergs Schackelfabrik",
@@ -239,7 +243,8 @@
                 "industriarb": 25
             },
             "annual_turnover": "",
-            "annual_production_value": "250 000 kr"
+            "annual_production_value": "250 000 kr",
+            "employees_total": 25
         },
         "foundation_year": 1941,
         "corporation_year": 0,
@@ -254,7 +259,7 @@
             "Latitude": 57.107118,
             "Longitude": 12.2520907
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Varbergs Skofabrik",
@@ -280,7 +285,8 @@
                 "industriarb": 85
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 85
         },
         "foundation_year": 1921,
         "corporation_year": 0,
@@ -295,7 +301,7 @@
             "Latitude": 57.107118,
             "Longitude": 12.2520907
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "Varbergs Spinneri",
@@ -321,7 +327,8 @@
                 "industriarb": 0
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 0,
         "corporation_year": 0,
@@ -336,7 +343,7 @@
             "Latitude": 57.107118,
             "Longitude": 12.2520907
         },
-        "cluster": 3
+        "cluster": 18
     },
     "8": {
         "name": "Varbergs Trikåfabrik",
@@ -361,7 +368,8 @@
                 "industriarb": 40
             },
             "annual_turnover": "",
-            "annual_production_value": "700 000 kr"
+            "annual_production_value": "700 000 kr",
+            "employees_total": 40
         },
         "foundation_year": 1922,
         "corporation_year": 0,
@@ -376,7 +384,7 @@
             "Latitude": 57.107118,
             "Longitude": 12.2520907
         },
-        "cluster": 9
+        "cluster": 19
     },
     "9": {
         "name": "Varbergs Träförädling, Andersson & Nilsson",
@@ -402,7 +410,8 @@
                 "industriarb": 50
             },
             "annual_turnover": "",
-            "annual_production_value": "300 000 kr"
+            "annual_production_value": "300 000 kr",
+            "employees_total": 50
         },
         "foundation_year": 1933,
         "corporation_year": 0,
@@ -417,7 +426,7 @@
             "Latitude": 57.107118,
             "Longitude": 12.2520907
         },
-        "cluster": 8
+        "cluster": 15
     },
     "10": {
         "name": "AB. Axel Wardells Pälsvarufabrik",
@@ -452,7 +461,8 @@
                 "industriarb": 40
             },
             "annual_turnover": "",
-            "annual_production_value": "1 500 000 kr"
+            "annual_production_value": "1 500 000 kr",
+            "employees_total": 40
         },
         "foundation_year": 1908,
         "corporation_year": 1940,

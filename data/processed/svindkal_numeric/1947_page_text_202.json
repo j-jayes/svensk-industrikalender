@@ -17,7 +17,8 @@
                 "industriarb": 26
             },
             "annual_turnover": 800000,
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 26
         },
         "foundation_year": 1900,
         "board": [
@@ -31,7 +32,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Borås Spetsfabrik",
@@ -47,7 +48,8 @@
             "employees": {
                 "industriarb": 64
             },
-            "annual_turnover": 825000
+            "annual_turnover": 825000,
+            "employees_total": 64
         },
         "foundation_year": 1891,
         "board": [
@@ -72,7 +74,7 @@
             "Latitude": 57.824945,
             "Longitude": 13.007778
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "AB. Borås Strumpfabrik",
@@ -87,7 +89,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 25
         },
         "foundation_year": 1937,
         "board": [
@@ -100,7 +103,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 1
     },
     "4": {
         "name": "Borås Tapetfabriks AB.",
@@ -115,7 +118,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 1260000
+            "annual_turnover": 1260000,
+            "employees_total": 30
         },
         "foundation_year": 1905,
         "board": [
@@ -132,7 +136,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "AB. Borås Tryckeri & Kartongfabrik",
@@ -162,7 +166,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "Borås Wäfveri AB.",
@@ -179,7 +183,8 @@
             "employees": {
                 "industriarb": 2800
             },
-            "annual_turnover": 35000000
+            "annual_turnover": 35000000,
+            "employees_total": 2800
         },
         "foundation_year": 1870,
         "board": [
@@ -195,7 +200,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "Borås Yllefabriks AB.",
@@ -212,7 +217,8 @@
                 "Borås": 223,
                 "Svenljunga": 48
             },
-            "annual_turnover": 6500000
+            "annual_turnover": 6500000,
+            "employees_total": 271
         },
         "foundation_year": 1913,
         "owner": "Svenska Yllekoncernen, AB",
@@ -234,6 +240,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

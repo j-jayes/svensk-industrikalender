@@ -36,7 +36,8 @@
                 "Arb.-antal": 10
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 10
         },
         "foundation_year": 1914,
         "board": [
@@ -56,7 +57,7 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 1
+        "cluster": 9
     },
     "3": {
         "name": "Gustaf Piehls Bryggeri AB.",
@@ -70,7 +71,8 @@
             "postgiro": "2144"
         },
         "financials": {
-            "capital": 2000000
+            "capital": 2000000,
+            "employees_total": 0
         },
         "foundation_year": 1891,
         "corporation_year": 1897,
@@ -94,7 +96,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "AB. Pilgrimsta Sågverk",
@@ -112,7 +114,8 @@
             "employees": {
                 "Antal industriarb.": 50
             },
-            "annual_production_value": "3,500 stds trävaror o. 250 stds stav"
+            "annual_production_value": "3,500 stds trävaror o. 250 stds stav",
+            "employees_total": 50
         },
         "foundation_year": 1925,
         "board": [
@@ -134,7 +137,7 @@
             "Latitude": 62.9559375,
             "Longitude": 15.0424354
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Piteå Bryggeri AB.",
@@ -151,7 +154,8 @@
             "employees": {
                 "Antal industriarb.": 15
             },
-            "annual_turnover": 490000
+            "annual_turnover": 490000,
+            "employees_total": 15
         },
         "foundation_year": 1891,
         "corporation_year": 1935,
@@ -162,7 +166,7 @@
             "Latitude": 65.316698,
             "Longitude": 21.4800364
         },
-        "cluster": 2
+        "cluster": 16
     },
     "6": {
         "name": "Piteå Träkemiska Fabriker",
@@ -190,7 +194,8 @@
             "employees": {
                 "Antal industriarb.": 75
             },
-            "annual_turnover": 2500000
+            "annual_turnover": 2500000,
+            "employees_total": 75
         },
         "foundation_year": 1897,
         "board": [
@@ -208,7 +213,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 13
     },
     "8": {
         "name": "AB. Plastiska Pluralis-Klichéer",
@@ -226,7 +231,8 @@
             "employees": {
                 "Antal industriarb.": 5
             },
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 5
         },
         "foundation_year": 1935,
         "director": "Verkst. dir.: Per O. S. Fjästad",
@@ -235,7 +241,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 17
     },
     "9": {
         "name": "Plastolit AB.",
@@ -252,7 +258,8 @@
             "employees": {
                 "Antal industriarb.": 35
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 35
         },
         "foundation_year": 1945,
         "board": [
@@ -282,7 +289,7 @@
             "Latitude": 58.3814058,
             "Longitude": 11.4843472
         },
-        "cluster": 1
+        "cluster": 18
     },
     "10": {
         "name": "AB. Plåtförädling",
@@ -292,6 +299,6 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

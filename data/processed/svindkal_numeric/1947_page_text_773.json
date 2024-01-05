@@ -20,7 +20,8 @@
             },
             "annual_turnover": "800 stds trävaror",
             "foundation_year": 1907,
-            "corporation_year": 1938
+            "corporation_year": 1938,
+            "employees_total": 30
         },
         "board": [
             {
@@ -32,7 +33,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Västra Klagstorps Snickerifabrik",
@@ -49,7 +50,8 @@
                 "arb.-antal": 7
             },
             "annual_production_value": 55000,
-            "foundation_year": 1925
+            "foundation_year": 1925,
+            "employees_total": 7
         },
         "owners": [
             "fabr. Orvar Berggren"
@@ -58,7 +60,7 @@
             "Latitude": 55.52745299999999,
             "Longitude": 12.9962708
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Västra Sveriges Textilfabrik AB.",
@@ -85,7 +87,8 @@
             },
             "annual_production_value": 1000000,
             "foundation_year": 1922,
-            "corporation_year": 1923
+            "corporation_year": 1923,
+            "employees_total": 75
         },
         "board": [
             {
@@ -102,7 +105,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Västsvenska Fläkt AB.",
@@ -122,14 +125,15 @@
                 "industriarb": 34
             },
             "foundation_year": 1925,
-            "corporation_year": 1938
+            "corporation_year": 1938,
+            "employees_total": 34
         },
         "managing_director": "Per Björk",
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Västsvenska Kylhus AB.",
@@ -148,7 +152,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "foundation_year": 1941
+            "foundation_year": 1941,
+            "employees_total": 20
         },
         "board": [
             {
@@ -181,7 +186,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "AB. Vättervikens Skaftfabrik",
@@ -213,7 +218,8 @@
             },
             "annual_production_value": 200000,
             "foundation_year": 1936,
-            "corporation_year": 1937
+            "corporation_year": 1937,
+            "employees_total": 10
         },
         "board": [
             {
@@ -234,7 +240,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "AB. Växlar och Signaler (Avos)",
@@ -254,7 +260,8 @@
             },
             "annual_production_value": 2400000,
             "foundation_year": 1915,
-            "corporation_year": 1921
+            "corporation_year": 1921,
+            "employees_total": 150
         },
         "board": [
             {
@@ -291,6 +298,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

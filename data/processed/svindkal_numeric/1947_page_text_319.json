@@ -26,7 +26,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 800000,
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 100
         },
         "foundation_year": 1918,
         "board": [
@@ -58,7 +59,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 2
+        "cluster": 0
     },
     "2": {
         "name": "Glumslövs Tegelbruks AB.",
@@ -83,7 +84,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": "13 milj. st. tegel"
+            "annual_production_value": "13 milj. st. tegel",
+            "employees_total": 50
         },
         "foundation_year": 1930,
         "board": [
@@ -108,7 +110,7 @@
             "Latitude": 55.9442238,
             "Longitude": 12.8070146
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Clory, Elektr. Apparatfabriken",
@@ -118,7 +120,7 @@
             "Latitude": 59.26203809999999,
             "Longitude": 17.22311
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Clödlampfabriken Birka AB.",
@@ -128,7 +130,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 0
     },
     "5": {
         "name": "Cnesta Bryggeri AB.",
@@ -144,14 +146,15 @@
             "capital": 150000,
             "employees": {
                 "Arb.-antal": 12
-            }
+            },
+            "employees_total": 12
         },
         "foundation_year": 1898,
         "coordinates": {
             "Latitude": 59.04834830000001,
             "Longitude": 17.3072276
         },
-        "cluster": 2
+        "cluster": 16
     },
     "6": {
         "name": "Gnosjö Armaturfabrik",
@@ -167,14 +170,15 @@
             "employees": {
                 "Arb.-antal": 10
             },
-            "annual_production_value": 65000
+            "annual_production_value": 65000,
+            "employees_total": 10
         },
         "foundation_year": 1932,
         "coordinates": {
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "Gnosjö Celbgjuteri, A. Jacobson A Co.",
@@ -190,14 +194,15 @@
             "employees": {
                 "Arb.-antal": 10
             },
-            "annual_production_value": 60000
+            "annual_production_value": 60000,
+            "employees_total": 10
         },
         "foundation_year": 1906,
         "coordinates": {
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "Gnosjö Portföljfabrik, Paul Svensson & Co.",
@@ -213,7 +218,8 @@
             "employees": {
                 "Antal industriarb.": 15
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 15
         },
         "foundation_year": 1924,
         "coordinates": {
@@ -235,13 +241,14 @@
         "financials": {
             "employees": {
                 "Antal industriarb.": 12
-            }
+            },
+            "employees_total": 12
         },
         "foundation_year": 1925,
         "coordinates": {
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

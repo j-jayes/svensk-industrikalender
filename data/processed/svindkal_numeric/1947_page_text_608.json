@@ -21,7 +21,8 @@
                 "industriarb": 84
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 84
         },
         "foundation_year": 1935,
         "board": [
@@ -35,7 +36,7 @@
             "Latitude": 59.41224800000001,
             "Longitude": 13.6709545
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Scania-Vabis",
@@ -58,7 +59,8 @@
                 "industriarb": 1300
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 1300
         },
         "foundation_year": 1891,
         "board": [
@@ -73,7 +75,7 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Scharins Söner",
@@ -96,7 +98,8 @@
                 "industriarb": 550
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 550
         },
         "foundation_year": 1824,
         "board": [
@@ -112,7 +115,7 @@
             "Latitude": 64.71616019999999,
             "Longitude": 21.1390514
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. P. J. Scharin",
@@ -135,7 +138,8 @@
                 "arb": 10
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 10
         },
         "foundation_year": 1897,
         "board": [],
@@ -144,7 +148,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "AB. Schaub & Co.",
@@ -166,7 +170,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 0,
         "board": [],
@@ -175,6 +180,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

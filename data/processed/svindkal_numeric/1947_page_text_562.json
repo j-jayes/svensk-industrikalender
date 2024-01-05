@@ -16,14 +16,15 @@
                 "industriarb": 25
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "2,000 stds trävaror"
+            "annual_production_value": "2,000 stds trävaror",
+            "employees_total": 25
         },
         "foundation_year": 1925,
         "coordinates": {
             "Latitude": 63.69755499999999,
             "Longitude": 20.3061052
         },
-        "cluster": 1
+        "cluster": 3
     },
     "2": {
         "name": "Odatverken",
@@ -39,7 +40,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 20
         },
         "foundation_year": 1897,
         "current_name_year": 1923,
@@ -48,7 +50,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Odell & Ekberg",
@@ -64,7 +66,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 70
         },
         "foundation_year": 1936,
         "owner": [
@@ -76,7 +79,7 @@
             "Latitude": 59.0656696,
             "Longitude": 15.3375119
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Ohs Bruk, AB.",
@@ -95,7 +98,8 @@
                 "industriarb": 55
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "4,200 ton helblekt sulfitcellulosa, 2,000 stds sågade och hyvlade trävaror"
+            "annual_production_value": "4,200 ton helblekt sulfitcellulosa, 2,000 stds sågade och hyvlade trävaror",
+            "employees_total": 55
         },
         "foundation_year": 1913,
         "board": [
@@ -115,7 +119,7 @@
             "Latitude": 57.19308849999999,
             "Longitude": 14.3319219
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Oljefabriks-AB. Merkantil",
@@ -131,7 +135,8 @@
             "capital": 300000,
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1919,
         "board": [
@@ -157,7 +162,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "AB. Oljeraffinaderiet Ceres",
@@ -174,7 +179,8 @@
             "capital": 270000,
             "employees": {
                 "industriarb": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1898,
         "board": [
@@ -191,6 +197,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

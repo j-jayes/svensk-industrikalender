@@ -14,7 +14,8 @@
             "capital": 1000000,
             "employees": {
                 "industriarb": 66
-            }
+            },
+            "employees_total": 66
         },
         "foundation_year": 1897,
         "original_name": "AB. Skandinaviska Trådgardinfabriken",
@@ -38,7 +39,7 @@
             "Latitude": 59.3320543,
             "Longitude": 18.0628008
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. Tanneforsmöbler, Tannefors",
@@ -55,7 +56,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 20
         },
         "foundation_year": 1912,
         "corporation_year": 1928,
@@ -76,7 +78,7 @@
             "Latitude": 58.4075041,
             "Longitude": 15.6441541
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Tannin, Västervik",
@@ -91,7 +93,8 @@
             "employees": {
                 "industriarb": 205
             },
-            "annual_turnover": 4900000
+            "annual_turnover": 4900000,
+            "employees_total": 205
         },
         "foundation_year": 1909,
         "board": [
@@ -128,7 +131,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 20
         },
         "foundation_year": 1920,
         "corporation_year": 1941,
@@ -137,7 +141,7 @@
             "Latitude": 55.8668993,
             "Longitude": 13.0897474
         },
-        "cluster": 1
+        "cluster": 9
     },
     "5": {
         "name": "Tefako AB., Stockholm",
@@ -154,11 +158,12 @@
             "employees": {
                 "industriarb": 37
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 37
         },
         "foundation_year": 1939,
         "director": "E. Lepiorz",
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB. TefCO, Göteborg",
@@ -188,7 +193,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 40
         },
         "foundation_year": 1934,
         "director": "Carl Svensson",
@@ -197,7 +203,7 @@
             "Latitude": 57.73139029999999,
             "Longitude": 11.97554
         },
-        "cluster": 5
+        "cluster": 17
     },
     "7": {
         "name": "Tegeborgs Tegelbruk, Knislinge",
@@ -210,7 +216,8 @@
             "employees": {
                 "industriarb": 12
             },
-            "annual_production_value": "1 milj. st. tegelvaror"
+            "annual_production_value": "1 milj. st. tegelvaror",
+            "employees_total": 12
         },
         "foundation_year": 1912,
         "owner": "fabr. Ture Persson",
@@ -218,6 +225,6 @@
             "Latitude": 56.1934814,
             "Longitude": 14.0854131
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

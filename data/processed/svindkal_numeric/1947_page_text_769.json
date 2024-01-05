@@ -49,7 +49,8 @@
                 "industrial": 350
             },
             "annual_turnover": "xxx",
-            "annual_production_value": 4300000
+            "annual_production_value": 4300000,
+            "employees_total": 350
         },
         "foundation_year": 1902,
         "owners": [
@@ -107,7 +108,8 @@
             "factory_phone": "xxx"
         },
         "financials": {
-            "capital": 1500000
+            "capital": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1939,
         "board": [
@@ -170,7 +172,8 @@
             "employees": {
                 "industrial": 40
             },
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 40
         },
         "foundation_year": 1942,
         "director": "Göte Wästlund",
@@ -178,7 +181,7 @@
             "Latitude": 59.41224800000001,
             "Longitude": 13.6709545
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "AB. Värmlands Trikåfabrik",
@@ -210,7 +213,8 @@
             "capital": 300000,
             "employees": {
                 "industrial": 150
-            }
+            },
+            "employees_total": 150
         },
         "foundation_year": 1914,
         "board": [
@@ -241,7 +245,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Värmlands Träindustri AB.",
@@ -264,7 +268,8 @@
             "employees": {
                 "industrial": 50
             },
-            "annual_production_value": "4,000 stds trävaror"
+            "annual_production_value": "4,000 stds trävaror",
+            "employees_total": 50
         },
         "foundation_year": 1925,
         "board": [
@@ -279,7 +284,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "AB. Värnamo Bryggeri",
@@ -297,7 +302,8 @@
             "employees": {
                 "industrial": 15
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 15
         },
         "foundation_year": 1936,
         "board": [
@@ -321,7 +327,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "Värnamo Byggnadssnickeri, Cust. Lindberg",
@@ -339,7 +345,8 @@
             "employees": {
                 "industrial": 10
             },
-            "annual_production_value": 140000
+            "annual_production_value": 140000,
+            "employees_total": 10
         },
         "foundation_year": 1925,
         "manager": "Gustaf Lindberg",
@@ -347,7 +354,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "AB. Värnamo Cummifabrik",
@@ -365,7 +372,8 @@
             "employees": {
                 "industrial": 500
             },
-            "annual_production_value": 9000000
+            "annual_production_value": 9000000,
+            "employees_total": 500
         },
         "foundation_year": 1936,
         "board": [
@@ -381,6 +389,6 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 1
+        "cluster": 9
     }
 }

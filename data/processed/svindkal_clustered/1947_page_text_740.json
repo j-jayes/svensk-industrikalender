@@ -38,7 +38,7 @@
             "Latitude": 58.8086316,
             "Longitude": 12.4355554
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Uppsala Armaturfabrik AB.",
@@ -79,7 +79,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Upsala Bayerska Bryggeri AB.",
@@ -123,7 +123,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "AB. Upsala Bröd",
@@ -148,7 +148,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Upsala-Ekeby AB.",
@@ -203,7 +203,7 @@
             "Latitude": 59.84999999999999,
             "Longitude": 17.6
         },
-        "cluster": 1
+        "cluster": 14
     },
     "6": {
         "name": "AB. Upsala Kappfabrik",
@@ -251,7 +251,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Upsala Kartongfabriks AB.",
@@ -276,6 +276,6 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 1
+        "cluster": 17
     }
 }

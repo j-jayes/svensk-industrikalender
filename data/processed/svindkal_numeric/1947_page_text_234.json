@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 30
         },
         "foundation_year": 1899,
         "corporation_year": 1920,
@@ -35,7 +36,7 @@
             "Latitude": 57.70773879999999,
             "Longitude": 11.9822288
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Cehå",
@@ -53,7 +54,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 275000
+            "annual_turnover": 275000,
+            "employees_total": 15
         },
         "foundation_year": 1933,
         "board": [
@@ -67,7 +69,7 @@
             "Latitude": 60.484304,
             "Longitude": 15.433969
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Cellufix AB.",
@@ -78,7 +80,8 @@
             "employees": {
                 "industriarb": 400
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 400
         },
         "foundation_year": 1941,
         "board": [
@@ -113,7 +116,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "CeMuloidindustri, Svensk",
@@ -123,7 +126,7 @@
             "Latitude": 57.2985,
             "Longitude": 13.54326
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Cementa, Svenska Cementförsäljnings AB.",
@@ -133,7 +136,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 18
     },
     "6": {
         "name": "Cementol, Isolerings AB.",
@@ -143,7 +146,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "AB. Cementrör",
@@ -161,7 +164,8 @@
             "employees": {
                 "industriarb": 9
             },
-            "annual_turnover": 70000
+            "annual_turnover": 70000,
+            "employees_total": 9
         },
         "foundation_year": 1916,
         "director": "grossh. Karl J. Norén",
@@ -169,7 +173,7 @@
             "Latitude": 60.1554628,
             "Longitude": 16.9308825
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "Center Sport",
@@ -189,7 +193,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "9": {
         "name": "AB. Centrala Kartongfabriken",
@@ -207,7 +211,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_turnover": 1700000
+            "annual_turnover": 1700000,
+            "employees_total": 65
         },
         "foundation_year": 1916,
         "corporation_year": 1931,
@@ -227,6 +232,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

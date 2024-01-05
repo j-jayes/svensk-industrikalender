@@ -12,7 +12,8 @@
             "capital": 45000000,
             "employees": {
                 "industriarb": 2400
-            }
+            },
+            "employees_total": 2400
         },
         "foundation_year": 1910,
         "predecessor": "AB Arctic, Motala (grundat 1923), and AB Lux, Stockholm (grundat 1901)",
@@ -55,7 +56,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 3
     },
     "2": {
         "name": "Elektro-Metallisator",
@@ -74,7 +75,8 @@
             "capital": 31000,
             "employees": {
                 "industriarb": 8
-            }
+            },
+            "employees_total": 8
         },
         "foundation_year": 1940,
         "director": "Bo Löfgren",
@@ -84,7 +86,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 2
     },
     "3": {
         "name": "Elektr o-Värme",
@@ -105,7 +107,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 65
-            }
+            },
+            "employees_total": 65
         },
         "foundation_year": 1932,
         "director": null,
@@ -130,7 +133,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 1
+        "cluster": 2
     },
     "4": {
         "name": "Elfsborgs Mek. Verkstad",
@@ -144,7 +147,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1912,
         "director": "kapten Rudolf Hedberg",
@@ -154,7 +158,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Elfströms Tekniska Fabrik",
@@ -169,7 +173,8 @@
             "capital": 154200,
             "employees": {
                 "industriarb": 21
-            }
+            },
+            "employees_total": 21
         },
         "foundation_year": 1912,
         "corporation_year": 1927,
@@ -180,6 +185,6 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 1
+        "cluster": 3
     }
 }

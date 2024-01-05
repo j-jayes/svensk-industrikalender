@@ -22,7 +22,8 @@
             "capital": 24525000,
             "employees": {
                 "industriarb.": 3686
-            }
+            },
+            "employees_total": 3686
         },
         "foundation_year": 1907,
         "board": [
@@ -37,7 +38,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Svenska Mjölkprodukter AB.",
@@ -54,7 +55,8 @@
         "financials": {
             "capital": 250000,
             "employees": 150,
-            "annual_turnover": 14000000
+            "annual_turnover": 14000000,
+            "employees_total": 0
         },
         "foundation_year": 1938,
         "board": [
@@ -71,7 +73,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "Svenska Mått- & Tumstockfabriken",
@@ -87,7 +89,8 @@
         },
         "financials": {
             "employees": 55,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 0
         },
         "foundation_year": 1883,
         "owners": [
@@ -98,7 +101,7 @@
             "Latitude": 57.6983328,
             "Longitude": 12.7388378
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Svenska Möbelfabrikerna",
@@ -109,7 +112,8 @@
             "office": "Bodafors"
         },
         "financials": {
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 0
         },
         "foundation_year": "Not available",
         "owners": [],
@@ -118,6 +122,6 @@
             "Latitude": 57.50394780000001,
             "Longitude": 14.7079586
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

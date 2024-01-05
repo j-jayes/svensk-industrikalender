@@ -15,7 +15,8 @@
                 "industriarb": 525
             },
             "annual_turnover": 6000000,
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 525
         },
         "foundation_year": 1860,
         "owners": [
@@ -25,7 +26,7 @@
             "Latitude": 59.04337529999999,
             "Longitude": 15.8709394
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Vingåkers Konfektions AB.",
@@ -39,7 +40,8 @@
             "capital": 46700,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1923,
         "director": "Erik J. Andersson",
@@ -47,7 +49,7 @@
             "Latitude": 59.04337529999999,
             "Longitude": 15.8709394
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "AB. Vingåkers Spisbrödsfabrik",
@@ -66,7 +68,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 40
         },
         "corporation_year": 1929,
         "board": [
@@ -97,7 +100,7 @@
             "Latitude": 59.04337529999999,
             "Longitude": 15.8709394
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Winkelcentrifug",
@@ -116,7 +119,8 @@
             "capital": 70000,
             "employees": {
                 "Arb.-antal": 20
-            }
+            },
+            "employees_total": 20
         },
         "corporation_year": 1933,
         "director": "civiling. Gunnar Beckman",
@@ -124,7 +128,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 0
     },
     "5": {
         "name": "AB. Vin- &amp; Spritcentralen",
@@ -142,7 +146,8 @@
             "capital": 15000000,
             "employees": {
                 "industriarb": 632
-            }
+            },
+            "employees_total": 632
         },
         "corporation_year": 1917,
         "board": [
@@ -185,7 +190,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 18
     },
     "6": {
         "name": "AB. Vinägron",
@@ -195,6 +200,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

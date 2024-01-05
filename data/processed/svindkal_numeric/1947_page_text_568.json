@@ -25,7 +25,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 500000,
-            "annual_production_value": 390000
+            "annual_production_value": 390000,
+            "employees_total": 25
         },
         "foundation_year": 1918,
         "board": [
@@ -43,7 +44,7 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Osby Sågverks AB.",
@@ -63,7 +64,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_production_value": 390000
+            "annual_production_value": 390000,
+            "employees_total": 70
         },
         "foundation_year": 1922,
         "director": "Tord Heime",
@@ -71,7 +73,7 @@
             "Latitude": 56.3815355,
             "Longitude": 13.9929413
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Oscaria Skofabrik",
@@ -88,7 +90,8 @@
             "capital": 75000,
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": "Ingen information",
         "director": "Ingen information",
@@ -96,7 +99,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "AB. Oscarsdals Fabriker",
@@ -114,7 +117,8 @@
             "capital": 75000,
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1924,
         "director": "Henry Lindström",
@@ -122,7 +126,7 @@
             "Latitude": 58.03274090000001,
             "Longitude": 12.1562058
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "AB. Oskarshamns Varv",
@@ -143,7 +147,8 @@
             "capital": 2760000,
             "employees": {
                 "industriarb": 857
-            }
+            },
+            "employees_total": 857
         },
         "foundation_year": 1863,
         "corporation_year": 1932,
@@ -163,7 +168,7 @@
             "Latitude": 57.26569929999999,
             "Longitude": 16.4473984
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Oskarström Sulphite Mills AB.",
@@ -179,13 +184,14 @@
             "employees": {
                 "industriarb": 140
             },
-            "annual_production_value": "15,000 ton sulfitcellulosa"
+            "annual_production_value": "15,000 ton sulfitcellulosa",
+            "employees_total": 140
         },
         "foundation_year": 1915,
         "coordinates": {
             "Latitude": 56.8025533,
             "Longitude": 12.969062
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

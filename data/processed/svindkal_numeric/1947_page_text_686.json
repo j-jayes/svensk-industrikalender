@@ -19,7 +19,8 @@
                 "industriarb.": 180
             },
             "annual_turnover": 3300000,
-            "annual_production_value": 3300000
+            "annual_production_value": 3300000,
+            "employees_total": 180
         },
         "foundation_year": 1919,
         "owners": [
@@ -56,7 +57,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "Svenska Skolmateriel AB",
@@ -82,7 +83,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "AB. Svenska Skolästfabriken",
@@ -98,7 +99,8 @@
             "capital": 225000,
             "employees": {
                 "industriarb.": 100
-            }
+            },
+            "employees_total": 100
         },
         "foundation_year": 1909,
         "board": [
@@ -124,7 +126,7 @@
             "Latitude": 55.5375197,
             "Longitude": 14.2866355
         },
-        "cluster": 7
+        "cluster": 18
     },
     "4": {
         "name": "Svenska Skumsiäcknings AB",
@@ -158,14 +160,15 @@
             "employees": {
                 "industriarb.": 10
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 10
         },
         "director": "Tage Wendler",
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Svenska Skyltfabriken",
@@ -183,7 +186,8 @@
             "employees": {
                 "industriarb.": 46
             },
-            "annual_turnover": 450000
+            "annual_turnover": 450000,
+            "employees_total": 46
         },
         "description": "Firman etabl. 1933, bolag 1938",
         "owners": [
@@ -194,7 +198,7 @@
             "Latitude": 59.3638177,
             "Longitude": 18.0157976
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "Svenska Slipsfabriken AB",
@@ -227,7 +231,8 @@
             "capital": 90000,
             "employees": {
                 "industriarb.": 60
-            }
+            },
+            "employees_total": 60
         },
         "director": "Thorild Nilsson",
         "coordinates": {
@@ -250,7 +255,8 @@
             "employees": {
                 "industriarb.": 30
             },
-            "annual_turnover": 480000
+            "annual_turnover": 480000,
+            "employees_total": 30
         },
         "description": "Firman etabl. 1918",
         "owners": [
@@ -262,7 +268,7 @@
             "Latitude": 60.34665,
             "Longitude": 15.7479
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "AB. Svenska Smergelskiffabriken",
@@ -278,7 +284,8 @@
             "capital": 375000,
             "employees": {
                 "industriarb.": 30
-            }
+            },
+            "employees_total": 30
         },
         "description": "Firman etabl. 1907, bolag 1915",
         "owners": [
@@ -291,7 +298,7 @@
             "Latitude": 56.2006388,
             "Longitude": 12.5553288
         },
-        "cluster": 6
+        "cluster": 18
     },
     "9": {
         "name": "AB. Svenska Snickerier",
@@ -307,6 +314,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

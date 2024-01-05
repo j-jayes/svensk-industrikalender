@@ -17,7 +17,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 2000000,
-            "annual_production_value": "not specified"
+            "annual_production_value": "not specified",
+            "employees_total": 100
         },
         "foundation_year": 1870,
         "corporation_year": 1927,
@@ -31,7 +32,7 @@
             "Latitude": 59.5635636,
             "Longitude": 16.2303593
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Mönsterås Bryggeri AB",
@@ -43,7 +44,8 @@
                 "industriarb": "not specified"
             },
             "annual_turnover": "not specified",
-            "annual_production_value": "not specified"
+            "annual_production_value": "not specified",
+            "employees_total": 0
         },
         "board": [
             {
@@ -55,7 +57,7 @@
             "Latitude": 57.0415797,
             "Longitude": 16.44312
         },
-        "cluster": 1
+        "cluster": 16
     },
     "3": {
         "name": "Mönsterås Tändsticksfabrik",
@@ -67,7 +69,8 @@
                 "industriarb": "not specified"
             },
             "annual_turnover": "not specified",
-            "annual_production_value": "not specified"
+            "annual_production_value": "not specified",
+            "employees_total": 0
         },
         "board": [
             {
@@ -79,7 +82,7 @@
             "Latitude": 57.0415797,
             "Longitude": 16.44312
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Mörbyiånga Konservfabriks AB",
@@ -98,7 +101,8 @@
                 "industriarb": 43
             },
             "annual_turnover": 500000,
-            "annual_production_value": "not specified"
+            "annual_production_value": "not specified",
+            "employees_total": 43
         },
         "foundation_year": 1932,
         "board": [
@@ -111,7 +115,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 13
     },
     "5": {
         "name": "AB. Nabbensbergs Tegelbruk",
@@ -130,7 +134,8 @@
                 "industriarb": 75
             },
             "annual_turnover": "not specified",
-            "annual_production_value": "8 milj. st. tegelvaror"
+            "annual_production_value": "8 milj. st. tegelvaror",
+            "employees_total": 75
         },
         "corporation_year": 1906,
         "board": [
@@ -143,7 +148,7 @@
             "Latitude": 58.3797283,
             "Longitude": 12.3248032
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Nautic",
@@ -164,7 +169,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 250000,
-            "annual_production_value": "not specified"
+            "annual_production_value": "not specified",
+            "employees_total": 30
         },
         "corporation_year": 1915,
         "board": [
@@ -177,7 +183,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "Necks Verkstäder",
@@ -197,7 +203,8 @@
                 "industriarb": 190
             },
             "annual_turnover": 3500000,
-            "annual_production_value": "not specified"
+            "annual_production_value": "not specified",
+            "employees_total": 190
         },
         "foundation_year": 1919,
         "board": [
@@ -210,7 +217,7 @@
             "Latitude": 58.18909179999999,
             "Longitude": 12.7200728
         },
-        "cluster": 6
+        "cluster": 2
     },
     "8": {
         "name": "AB. Neglingevarvet",
@@ -222,7 +229,8 @@
                 "industriarb": "not specified"
             },
             "annual_turnover": "not specified",
-            "annual_production_value": "not specified"
+            "annual_production_value": "not specified",
+            "employees_total": 0
         },
         "corporation_year": "not specified",
         "board": [
@@ -235,6 +243,6 @@
             "Latitude": 59.278744,
             "Longitude": 18.3110523
         },
-        "cluster": 1
+        "cluster": 7
     }
 }

@@ -19,7 +19,8 @@
                 "Antal industriarb.": 1900
             },
             "annual_turnover": 21000000,
-            "annual_production_value": 21000000
+            "annual_production_value": 21000000,
+            "employees_total": 1900
         },
         "foundation_year": 1927,
         "original_name": "AB. Ifö Cementfabriks AB., och AB. Ifö Chamotte- & Kaolinverk",
@@ -27,7 +28,7 @@
             "Latitude": 56.0743618,
             "Longitude": 14.477659
         },
-        "cluster": 6
+        "cluster": 14
     },
     "2": {
         "name": "Igelfors Bruks AB.",
@@ -46,14 +47,15 @@
             "employees": {
                 "Antal industriarb.": 53
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 53
         },
         "foundation_year": 1891,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 18
     },
     "3": {
         "name": "Igelsta Trävaru AB.",
@@ -72,14 +74,15 @@
             "employees": {
                 "Antal industriarb.": 115
             },
-            "annual_production_value": "5,000 stds trävaror"
+            "annual_production_value": "5,000 stds trävaror",
+            "employees_total": 115
         },
         "foundation_year": 1928,
         "coordinates": {
             "Latitude": 59.18372,
             "Longitude": 17.6700865
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Iggesunds Bruk",
@@ -89,6 +92,6 @@
             "Latitude": 61.64261140000001,
             "Longitude": 17.0751266
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

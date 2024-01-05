@@ -17,7 +17,8 @@
                 "antal industriarb.": 7
             },
             "annual_turnover": 40000,
-            "annual_production_value": 40000
+            "annual_production_value": 40000,
+            "employees_total": 7
         },
         "foundation_year": 1933,
         "coordinates": {
@@ -44,7 +45,8 @@
             "capital": 10000,
             "employees": {
                 "antal industriarb.": 180
-            }
+            },
+            "employees_total": 180
         },
         "foundation_year": 1879,
         "corporation_year": 1905,
@@ -62,7 +64,7 @@
             "Latitude": 57.6970541,
             "Longitude": 14.1095846
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "AB. L. Thrysins Mek. Verkstad",
@@ -80,7 +82,8 @@
             "employees": {
                 "antal industriarb.": 20
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1934,
         "board": [
@@ -102,7 +105,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Thulins Vagnfabrik AB.",
@@ -122,7 +125,8 @@
             "employees": {
                 "antal industriarb.": 30
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 30
         },
         "foundation_year": 1875,
         "corporation_year": 1942,
@@ -154,7 +158,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "lvar Thulin",
@@ -175,7 +179,7 @@
             "Latitude": 60.1309558,
             "Longitude": 16.2159445
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. John A. Thulin & C:o.",
@@ -191,7 +195,8 @@
             "employees": {
                 "antal industriarb.": 180
             },
-            "annual_turnover": 2200000
+            "annual_turnover": 2200000,
+            "employees_total": 180
         },
         "foundation_year": 1892,
         "corporation_year": 1941,
@@ -209,7 +214,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 6
+        "cluster": 17
     },
     "7": {
         "name": "AB. Thulin verken",
@@ -220,6 +225,6 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

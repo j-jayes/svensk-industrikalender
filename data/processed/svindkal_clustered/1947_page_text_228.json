@@ -112,7 +112,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 0
     },
     "4": {
         "name": "AB. Böksholms Sulfitfabrik",
@@ -173,7 +173,7 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Böle Såg- & Kvarn AB.",
@@ -202,7 +202,7 @@
             "Latitude": 61.7612907,
             "Longitude": 16.8732569
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Böleå Snickerifabriks AB.",
@@ -225,7 +225,7 @@
             "Latitude": 63.8190372,
             "Longitude": 20.2465139
         },
-        "cluster": 8
+        "cluster": 18
     },
     "7": {
         "name": "AB. Börringe Tegelbruk",
@@ -265,7 +265,7 @@
             "Latitude": 55.5,
             "Longitude": 13.333333
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "AB. P. C. Börser",
@@ -285,6 +285,6 @@
             "Latitude": 61.8308392,
             "Longitude": 16.0817501
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

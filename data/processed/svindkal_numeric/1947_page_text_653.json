@@ -20,7 +20,8 @@
         "financials": {
             "capital": 70000,
             "annual_turnover": 250000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 0
         },
         "foundation_year": 1921,
         "corporation_year": 1945,
@@ -34,7 +35,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "Stribergs Grufve AB",
@@ -53,7 +54,8 @@
             "employees": {
                 "industriarb.": 345
             },
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 345
         },
         "foundation_year": 1886,
         "corporation_year": 1919,
@@ -85,7 +87,7 @@
             "Latitude": 59.5453013,
             "Longitude": 14.9369443
         },
-        "cluster": 6
+        "cluster": 2
     },
     "3": {
         "name": "AB. A. R. Strid",
@@ -104,7 +106,8 @@
             "employees": {
                 "industriarb.": 35
             },
-            "annual_production_value": 475000
+            "annual_production_value": 475000,
+            "employees_total": 35
         },
         "foundation_year": 1911,
         "corporation_year": 1941,
@@ -127,7 +130,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Stridsberg & Biörck",
@@ -156,7 +159,8 @@
             "employees": {
                 "industriarb.": 500
             },
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 500
         },
         "foundation_year": 1868,
         "corporation_year": 1911,
@@ -181,7 +185,7 @@
             "Latitude": 58.28348939999999,
             "Longitude": 12.2858206
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Stripa Cruv AB",
@@ -200,7 +204,8 @@
             "capital": 2300000,
             "employees": {
                 "industriarb.": 200
-            }
+            },
+            "employees_total": 200
         },
         "corporation_year": 1939,
         "board": [
@@ -228,7 +233,7 @@
             "Latitude": 60.152358,
             "Longitude": 15.191639
         },
-        "cluster": 6
+        "cluster": 2
     },
     "6": {
         "name": "Strumpfabriks AB. Kåge",
@@ -245,7 +250,8 @@
             "capital": 10000,
             "employees": {
                 "industriarb.": 25
-            }
+            },
+            "employees_total": 25
         },
         "corporation_year": 1933,
         "board": [
@@ -258,6 +264,6 @@
             "Latitude": 57.24423239999999,
             "Longitude": 12.8645613
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

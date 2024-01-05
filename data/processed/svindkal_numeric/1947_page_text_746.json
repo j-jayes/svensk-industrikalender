@@ -14,7 +14,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 350000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 30
         },
         "foundation_year": 1937,
         "owners": [
@@ -44,7 +45,8 @@
                 "industriarb": "N/A"
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "owners": [
@@ -54,7 +56,7 @@
             "Latitude": 58.20245139999999,
             "Longitude": 16.6013626
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Valinders Ramfabrik",
@@ -72,7 +74,8 @@
                 "industriarb": 12
             },
             "annual_turnover": 100000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 12
         },
         "foundation_year": 1916,
         "owners": [
@@ -82,7 +85,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Valla Tegelbruk",
@@ -100,7 +103,8 @@
                 "industriarb": "N/A"
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "owners": [
@@ -110,7 +114,7 @@
             "Latitude": 59.3571637,
             "Longitude": 17.2055807
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Wallbergs Fabriks AB.",
@@ -130,7 +134,8 @@
                 "tegelbruket": 60
             },
             "annual_turnover": 10000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 760
         },
         "foundation_year": 1823,
         "board": [
@@ -156,7 +161,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Walldén-Verken",
@@ -174,7 +179,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 600000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 50
         },
         "foundation_year": 1932,
         "owners": [
@@ -188,7 +194,7 @@
             "Latitude": 59.5120962,
             "Longitude": 15.9945102
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. L. O. Wallenbergs Skofabrik",
@@ -207,7 +213,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 70
         },
         "foundation_year": 1912,
         "owners": [
@@ -221,6 +228,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 9
     }
 }

@@ -22,7 +22,8 @@
                 "Antal industriarb.": 45
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 45
         },
         "foundation_year": "Not Available",
         "current_name_year": "Not Available",
@@ -46,7 +47,7 @@
             "Latitude": 60.1309558,
             "Longitude": 16.2159445
         },
-        "cluster": 6
+        "cluster": 2
     },
     "2": {
         "name": "Låsfabriks AB.",
@@ -81,7 +82,8 @@
                 "Antal industriarb.": 190
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 190
         },
         "foundation_year": "1846",
         "current_name_year": "1894",
@@ -115,7 +117,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Låsindustri",
@@ -140,7 +142,8 @@
                 "Antal industriarb.": 25
             },
             "annual_turnover": 250000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 25
         },
         "foundation_year": "1918",
         "current_name_year": "Not Available",
@@ -160,7 +163,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "AB. Läderfabriken Welting",
@@ -185,7 +188,8 @@
                 "Antal industriarb.": 85
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 85
         },
         "foundation_year": "1913",
         "current_name_year": "1925",
@@ -244,7 +248,8 @@
                 "Antal industriarb.": 165
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 165
         },
         "foundation_year": "1908",
         "current_name_year": "Not Available",
@@ -278,7 +283,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 11
     },
     "6": {
         "name": "Lämneå Bruk, T. Zander",
@@ -303,7 +308,8 @@
                 "Antal industriarb.": 40
             },
             "annual_turnover": 235000,
-            "annual_production_value": 235000
+            "annual_production_value": 235000,
+            "employees_total": 40
         },
         "foundation_year": "1905",
         "current_name_year": "1920",
@@ -322,7 +328,7 @@
             "Latitude": 58.79550800000001,
             "Longitude": 15.462413
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Länna Bruks AB.",
@@ -345,7 +351,8 @@
                 "Antal industriarb.": "Not Available"
             },
             "annual_turnover": "Not Available",
-            "annual_production_value": "Not Available"
+            "annual_production_value": "Not Available",
+            "employees_total": 0
         },
         "foundation_year": "Not Available",
         "current_name_year": "Not Available",
@@ -362,6 +369,6 @@
             "Latitude": 59.87307999999999,
             "Longitude": 17.9591945
         },
-        "cluster": 1
+        "cluster": 11
     }
 }

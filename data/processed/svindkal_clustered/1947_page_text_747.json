@@ -27,7 +27,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 1
     },
     "2": {
         "name": "Vallevikens Cementfabrik",
@@ -37,7 +37,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 11
     },
     "3": {
         "name": "Wallins Konservfabrik",
@@ -47,7 +47,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 11
     },
     "4": {
         "name": "Wallins Mek. Stenhuggeri",
@@ -57,7 +57,7 @@
             "Latitude": 56.5524461,
             "Longitude": 14.1374047
         },
-        "cluster": 1
+        "cluster": 11
     },
     "5": {
         "name": "Wallins Nysilverfabrik",
@@ -67,7 +67,7 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 1
+        "cluster": 11
     },
     "6": {
         "name": "R. Wallins Piskfabrik",
@@ -91,7 +91,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 1
+        "cluster": 9
     },
     "7": {
         "name": "Wallnäs AB.",
@@ -116,7 +116,7 @@
             "Latitude": 57.6179156,
             "Longitude": 15.47204
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "Wallsta Ångsågs AB.",
@@ -140,7 +140,7 @@
             "Latitude": 61.51663499999999,
             "Longitude": 16.3633657
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "Vallviks Sulfitfabrik",
@@ -150,7 +150,7 @@
             "Latitude": 61.1847212,
             "Longitude": 17.1791565
         },
-        "cluster": 1
+        "cluster": 11
     },
     "10": {
         "name": "Wallåkra Stenkärlsfabrik",
@@ -173,7 +173,7 @@
             "Latitude": 55.96226249999999,
             "Longitude": 12.8574214
         },
-        "cluster": 2
+        "cluster": 0
     },
     "11": {
         "name": "Valåsens Sågverk",
@@ -183,7 +183,7 @@
             "Latitude": 59.3097793,
             "Longitude": 14.5881615
         },
-        "cluster": 1
+        "cluster": 11
     },
     "12": {
         "name": "Vandenberghs Margarin",
@@ -211,7 +211,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 13
     },
     "13": {
         "name": "Vansbro Sågverk o. Kolugnar",
@@ -221,6 +221,6 @@
             "Latitude": 60.5099434,
             "Longitude": 14.2253417
         },
-        "cluster": 1
+        "cluster": 11
     }
 }

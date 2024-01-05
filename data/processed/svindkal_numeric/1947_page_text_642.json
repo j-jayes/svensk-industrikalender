@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb": 2041
             },
-            "foundation_year": 1941
+            "foundation_year": 1941,
+            "employees_total": 2041
         },
         "board": [
             {
@@ -47,7 +48,7 @@
             "Latitude": 57.3338105,
             "Longitude": 17.0978319
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Stathmos",
@@ -65,7 +66,8 @@
         "financials": {
             "capital": 100000,
             "employees": 125,
-            "foundation_year": 1940
+            "foundation_year": 1940,
+            "employees_total": 0
         },
         "board": [
             {
@@ -103,7 +105,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Sem L. Stawe",
@@ -128,7 +130,8 @@
         "financials": {
             "capital": 75000,
             "employees": 150,
-            "foundation_year": 1933
+            "foundation_year": 1933,
+            "employees_total": 0
         },
         "board": [
             {
@@ -140,7 +143,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Stavsborgs AB.",
@@ -158,7 +161,8 @@
             "capital": 400000,
             "employees": 50,
             "annual_production_value": 1000000,
-            "corporation_year": 1930
+            "corporation_year": 1930,
+            "employees_total": 0
         },
         "board": [
             {
@@ -179,7 +183,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Stekens Tegelbruk, E. Nymansson",
@@ -201,7 +205,8 @@
         "financials": {
             "employees": 35,
             "annual_production_value": "3,5 milj. st. tegelvaror",
-            "foundation_year": 1898
+            "foundation_year": 1898,
+            "employees_total": 0
         },
         "owners": [
             "E. Nymanssons sterbhus"
@@ -211,6 +216,6 @@
             "Latitude": 57.7896435,
             "Longitude": 12.0153179
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

@@ -27,7 +27,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 0
     },
     "2": {
         "name": "AB. Sunlight",
@@ -54,7 +54,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Sunmos Konfektionsindustri",
@@ -79,7 +79,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Sunne Mek. Verkstad",
@@ -129,7 +129,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Surahammars Bruks AB.",
@@ -149,6 +149,6 @@
             "Latitude": 59.70722619999999,
             "Longitude": 16.2268409
         },
-        "cluster": 1
+        "cluster": 2
     }
 }

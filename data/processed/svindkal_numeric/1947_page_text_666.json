@@ -20,7 +20,8 @@
                 "arb.-antal": 8
             },
             "annual_turnover": 80000,
-            "annual_production_value": 80000
+            "annual_production_value": 80000,
+            "employees_total": 8
         },
         "foundation_year": 1923,
         "owners": [
@@ -30,7 +31,7 @@
             "Latitude": 57.4955715,
             "Longitude": 13.1146225
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. Svenljunga Syfabrik",
@@ -45,7 +46,8 @@
         },
         "financials": {
             "capital": 300000,
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1920,
         "corporation_year": 1921,
@@ -54,7 +56,7 @@
             "Latitude": 57.4955715,
             "Longitude": 13.1146225
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "AB. Svenljunga Trikåfabrik",
@@ -72,7 +74,8 @@
             "employees": {
                 "antal industriarb.": 25
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 25
         },
         "foundation_year": 1937,
         "corporation_year": 1940,
@@ -81,7 +84,7 @@
             "Latitude": 57.4955715,
             "Longitude": 13.1146225
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Svensk Celluloidindustri AB.",
@@ -100,7 +103,8 @@
             "employees": {
                 "antal industriarb.": 90
             },
-            "annual_turnover": 1900000
+            "annual_turnover": 1900000,
+            "employees_total": 90
         },
         "foundation_year": 1920,
         "corporation_year": 1944,
@@ -109,7 +113,7 @@
             "Latitude": 57.2985,
             "Longitude": 13.54326
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Svensk Filmindustri",
@@ -124,7 +128,8 @@
             "postgiro": "630"
         },
         "financials": {
-            "capital": 8000010
+            "capital": 8000010,
+            "employees_total": 0
         },
         "foundation_year": 1919,
         "board": [
@@ -166,7 +171,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "Svensk Fjäder- & Dunindustri AB.",
@@ -184,7 +189,8 @@
             "capital": 60000,
             "employees": {
                 "antal industriarb.": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1933,
         "board": [
@@ -206,7 +212,7 @@
             "Latitude": 59.3571637,
             "Longitude": 17.2055807
         },
-        "cluster": 3
+        "cluster": 18
     },
     "7": {
         "name": "AB. Svensk Grammofonindustri",
@@ -226,7 +232,8 @@
             "employees": {
                 "antal industriarb.": 30
             },
-            "annual_turnover": 625000
+            "annual_turnover": 625000,
+            "employees_total": 30
         },
         "foundation_year": 1937,
         "director": "Emil Pettersson",
@@ -234,7 +241,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 18
     },
     "8": {
         "name": "AB. Svensk Knappindustri",
@@ -252,7 +259,8 @@
             "capital": 50000,
             "employees": {
                 "antal industriarb.": 60
-            }
+            },
+            "employees_total": 60
         },
         "foundation_year": 1934,
         "corporation_year": 1941,
@@ -261,6 +269,6 @@
             "Latitude": 59.37745229999999,
             "Longitude": 17.0321193
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

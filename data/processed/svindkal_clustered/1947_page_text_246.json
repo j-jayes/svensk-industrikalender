@@ -34,7 +34,7 @@
             "Latitude": 56.2427292,
             "Longitude": 15.291613
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "Deltafor AB Örebro",
@@ -60,7 +60,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Dentatus, Aspudden",
@@ -86,7 +86,7 @@
             "Latitude": 59.308035,
             "Longitude": 17.996142
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Detre* Vejbystrand",
@@ -113,12 +113,12 @@
             "Latitude": 56.31588679999999,
             "Longitude": 12.769438
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Diamantbergborrnings AB., Stockholm",
         "business": "Se Svenska Diamantbergborrnings AB., Stockholm",
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "Didriksons Oljeklädersfabrik, Löfström & Bäcker",
@@ -161,7 +161,7 @@
     "7": {
         "name": "Diesels Motorer, Saltsjö-Nacka",
         "business": "Se AB. Atlas Diesel, Stockholm",
-        "cluster": 1
+        "cluster": 18
     },
     "8": {
         "name": "AB. Dissousgas, Vänersborg",
@@ -201,7 +201,7 @@
             "Latitude": 58.3797283,
             "Longitude": 12.3248032
         },
-        "cluster": 6
+        "cluster": 3
     },
     "9": {
         "name": "Anders Diös, Uppsala",
@@ -221,7 +221,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 0
+        "cluster": 6
     },
     "10": {
         "name": "AB, Djeddi, Jönköping",
@@ -247,12 +247,12 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 9
+        "cluster": 19
     },
     "11": {
         "name": "Djupafors Fabriks AB., Kallinge station",
         "business": "Papp- och kartongfabriker",
         "products": "Tillverkar papp och kartong.",
-        "cluster": 5
+        "cluster": 17
     }
 }

@@ -29,7 +29,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Kronans Kemiska Fabrik",
@@ -59,7 +59,7 @@
             "Latitude": 59.2744881,
             "Longitude": 18.0051298
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Kronhus",
@@ -84,7 +84,7 @@
             "Latitude": 58.528002,
             "Longitude": 13.491428
         },
-        "cluster": 0
+        "cluster": 6
     },
     "4": {
         "name": "Hjalmar Kronlund AB.",
@@ -112,7 +112,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Kronobergs Bryggeri AB.",
@@ -130,7 +130,7 @@
             "Latitude": 56.8790044,
             "Longitude": 14.8058522
         },
-        "cluster": 1
+        "cluster": 11
     },
     "6": {
         "name": "AB. Kronobergs Mek. Verkstad",
@@ -140,7 +140,7 @@
             "Latitude": 56.8790044,
             "Longitude": 14.8058522
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Kronoströms Nya Spegelfabrik",
@@ -166,6 +166,6 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 8
+        "cluster": 0
     }
 }

@@ -18,7 +18,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 20
         },
         "foundation_year": 1875,
         "corporation_year": 1911,
@@ -33,7 +34,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. D. Hasselblads Charkuteri",
@@ -49,7 +50,8 @@
             "employees": {
                 "industriarb": 125
             },
-            "annual_turnover": 2500000
+            "annual_turnover": 2500000,
+            "employees_total": 125
         },
         "foundation_year": 1913,
         "board": [
@@ -72,7 +74,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. F. W. Hasselblad & Co.",
@@ -97,7 +99,8 @@
             "capital": 5650000,
             "employees": {
                 "industriarb": 110
-            }
+            },
+            "employees_total": 110
         },
         "foundation_year": 1841,
         "corporation_year": 1919,
@@ -120,7 +123,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Hasselfors Bruks AB.",
@@ -142,7 +145,8 @@
                 "industriarb": 170
             },
             "annual_turnover": 6000000,
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 170
         },
         "foundation_year": 1874,
         "board": [
@@ -169,7 +173,7 @@
             "Latitude": 59.0850525,
             "Longitude": 14.6558104
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Hasslaröd Kiselgurfabrik",
@@ -189,7 +193,7 @@
             "Latitude": 56.3815355,
             "Longitude": 13.9929413
         },
-        "cluster": 6
+        "cluster": 3
     },
     "6": {
         "name": "Hattfabrikerna, Förenade",
@@ -199,7 +203,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "C. A. Haux Trikåfabriks Nya AB.",
@@ -214,6 +218,6 @@
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

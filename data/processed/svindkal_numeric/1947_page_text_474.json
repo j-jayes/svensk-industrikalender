@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 155
             },
-            "annual_turnover": 1200000
+            "annual_turnover": 1200000,
+            "employees_total": 155
         },
         "foundation_year": 1917,
         "current_name_year": 1942,
@@ -25,7 +26,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Linköpings Armatur- och Metallfabriks AB.",
@@ -35,7 +36,8 @@
             "telegraph": "Armatur, Linköping"
         },
         "financials": {
-            "capital": 600000
+            "capital": 600000,
+            "employees_total": 0
         },
         "foundation_year": 1915,
         "disp": "E. Stoije",
@@ -43,7 +45,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Linköpings Linnefabriks AB.",
@@ -61,7 +63,8 @@
             "employees": {
                 "industriarb": 177
             },
-            "annual_turnover": 1750000
+            "annual_turnover": 1750000,
+            "employees_total": 177
         },
         "foundation_year": 1910,
         "director": "Fredrik Béen",
@@ -69,7 +72,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Linköpings Litografiska AB",
@@ -87,7 +90,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "Linköpings Möbelindustri AB",
@@ -101,7 +104,8 @@
         },
         "financials": {
             "capital": 60700,
-            "annual_turnover": 350000
+            "annual_turnover": 350000,
+            "employees_total": 0
         },
         "foundation_year": 1920,
         "disp": "Theodor Fridén",
@@ -109,7 +113,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. Linköpings Strumpfabrik",
@@ -125,14 +129,15 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 65
         },
         "foundation_year": 1927,
         "coordinates": {
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "Linköpings Strå- & Filthattfabrik AB",
@@ -150,7 +155,8 @@
             "employees": {
                 "industriarb": 125
             },
-            "annual_turnover": 1250000
+            "annual_turnover": 1250000,
+            "employees_total": 125
         },
         "foundation_year": 1919,
         "director": "fröken Ida Israelsson",
@@ -159,6 +165,6 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

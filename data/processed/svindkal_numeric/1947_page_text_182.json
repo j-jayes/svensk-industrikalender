@@ -18,7 +18,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 100
         },
         "foundation_year": 1877,
         "corporation_year": 1913,
@@ -58,7 +59,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 60
         },
         "foundation_year": 1930,
         "board": null,
@@ -70,7 +72,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Magn. Bergvall",
@@ -89,7 +91,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 127000
+            "annual_turnover": 127000,
+            "employees_total": 15
         },
         "foundation_year": 1900,
         "corporation_year": 1918,
@@ -121,7 +124,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "Bergvalla Metallfabrik",
@@ -137,7 +140,8 @@
             "employees": {
                 "Arb.-antal": 16
             },
-            "annual_turnover": 180000
+            "annual_turnover": 180000,
+            "employees_total": 16
         },
         "foundation_year": 1929,
         "owners": [
@@ -148,7 +152,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Bergverks AB. Freja",
@@ -167,7 +171,8 @@
             "capital": 2600000,
             "employees": {
                 "industrin arb": 250
-            }
+            },
+            "employees_total": 250
         },
         "foundation_year": 1897,
         "board": [
@@ -190,7 +195,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 2
     },
     "6": {
         "name": "Bergverks AB. Vulcanus",
@@ -208,7 +213,8 @@
             "capital": 3750000,
             "employees": {
                 "industriarb": 310
-            }
+            },
+            "employees_total": 310
         },
         "foundation_year": 1900,
         "board": [
@@ -241,7 +247,7 @@
             "Latitude": 60.12464079999999,
             "Longitude": 15.061261
         },
-        "cluster": 6
+        "cluster": 2
     },
     "7": {
         "name": "Bergvik och Ala Nya AB.",
@@ -260,12 +266,13 @@
             "employees": {
                 "industriarb": 900
             },
-            "annual_turnover": "18,000 stds sågade och hyvlade trävaror, 54,000 ton sulfitcellulosa, 56,000 ton sulfatcellulosa, 3,000,000 1. 100 % sulfitsprit, 2,000 ton sanotin (renad terpentin), 8,000 ton ?åpa och tvål"
+            "annual_turnover": "18,000 stds sågade och hyvlade trävaror, 54,000 ton sulfitcellulosa, 56,000 ton sulfatcellulosa, 3,000,000 1. 100 % sulfitsprit, 2,000 ton sanotin (renad terpentin), 8,000 ton ?åpa och tvål",
+            "employees_total": 900
         },
         "coordinates": {
             "Latitude": 61.3055762,
             "Longitude": 17.0628102
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

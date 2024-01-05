@@ -1,0 +1,26 @@
+import pandas as pd
+import json
+import os
+
+
+# Specify the file path
+output_file_path = 'data/combined_business_data.json'
+
+# Save to JSON
+df.to_json(output_file_path)
+
+output_file_path
+
+
+# Directory containing the JSON files
+directory = 'data/processed/svindkal_numeric/'
+
+
+# Iterate through each JSON file in the directory
+for filename in os.listdir(directory):
+    if filename.endswith(".json"):
+        file_path = os.path.join(directory, filename)
+
+        # Load the JSON data
+        with open(file_path, 'r') as file:
+            data = json.load(file)

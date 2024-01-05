@@ -13,7 +13,8 @@
             "employees": {
                 "industriarb.": 40
             },
-            "annual_production_value": 650000
+            "annual_production_value": 650000,
+            "employees_total": 40
         },
         "foundation_year": 1935,
         "board": [
@@ -36,7 +37,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB Grangärde Ångsåg",
@@ -51,7 +52,8 @@
             "employees": {
                 "industriarb.": 40
             },
-            "annual_production_value": 650000
+            "annual_production_value": 650000,
+            "employees_total": 40
         },
         "foundation_year": 1935,
         "director": "disp. Karl Hedin",
@@ -64,7 +66,7 @@
             "Latitude": 60.2681,
             "Longitude": 14.9796
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Graningeverkens AB",
@@ -86,7 +88,8 @@
             "employees": {
                 "industriarb.": 400
             },
-            "annual_turnover": "20,000 stds trävaror, varav 5,000 stds hyvlade, 18,000 ton torr mek. trämassa"
+            "annual_turnover": "20,000 stds trävaror, varav 5,000 stds hyvlade, 18,000 ton torr mek. trämassa",
+            "employees_total": 400
         },
         "foundation_year": 1873,
         "board": [
@@ -113,7 +116,7 @@
             "Latitude": 62.9976826,
             "Longitude": 17.6733404
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Granit AB C. A. Kuilgrens Enka",
@@ -129,7 +132,8 @@
             "employees": {
                 "industriarb.": 350
             },
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 350
         },
         "foundation_year": 1842,
         "board": [
@@ -154,7 +158,7 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Granit och Beton AB.",
@@ -168,7 +172,8 @@
         },
         "financials": {
             "capital": 400000,
-            "annual_production_value": 10000000
+            "annual_production_value": 10000000,
+            "employees_total": 0
         },
         "foundation_year": 1910,
         "board": [
@@ -195,6 +200,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

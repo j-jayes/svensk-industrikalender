@@ -19,7 +19,8 @@
             "capital": 1200000,
             "employees": {
                 "industriarb": 150
-            }
+            },
+            "employees_total": 150
         },
         "foundation_year": 1893,
         "board": [
@@ -45,7 +46,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Landhy & Lundgrens Boktryckeri",
@@ -68,7 +69,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 850000
+            "annual_turnover": 850000,
+            "employees_total": 50
         },
         "foundation_year": 1898,
         "board": [],
@@ -83,7 +85,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Landsbro Tegelbruks AB.",
@@ -105,7 +107,8 @@
             "capital": "40,000 ikr",
             "employees": {
                 "industriarb": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1940,
         "board": [],
@@ -122,7 +125,7 @@
             "Latitude": 60.40686150000001,
             "Longitude": 15.8030531
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Landskrona Kirurgiska Sliperi & Metallvarufabrik",
@@ -145,7 +148,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 30
         },
         "foundation_year": 1925,
         "board": [],
@@ -161,7 +165,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Landskrona Margarinfabrik AB.",
@@ -184,7 +188,8 @@
             "capital": "N/A",
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1934,
         "board": [],
@@ -197,7 +202,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Landskrona Spinneri AB.",
@@ -221,7 +226,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_turnover": 685000
+            "annual_turnover": 685000,
+            "employees_total": 55
         },
         "foundation_year": 1918,
         "board": [],
@@ -238,7 +244,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "AB. Landsverk",
@@ -260,7 +266,8 @@
             "capital": 2170000,
             "employees": {
                 "industriarb": 800
-            }
+            },
+            "employees_total": 800
         },
         "foundation_year": 1899,
         "board": [
@@ -286,6 +293,6 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

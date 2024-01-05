@@ -12,7 +12,8 @@
         },
         "financials": {
             "capital": 60000,
-            "annual_turnover": "3,500 ton talk o. tälj stensmjöl, 1,000 ton täljstenstegel"
+            "annual_turnover": "3,500 ton talk o. tälj stensmjöl, 1,000 ton täljstenstegel",
+            "employees_total": 0
         },
         "foundation_year": 1917,
         "corporation_year": 1925,
@@ -30,7 +31,7 @@
             "Latitude": 63.3924767,
             "Longitude": 12.9175818
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "Fabriks AB. Klas Törnblom",
@@ -47,7 +48,8 @@
             "employees": {
                 "industriarb.": 25
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1807,
         "corporation_year": 1916,
@@ -69,7 +71,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Fabriks AB. Victoria",
@@ -88,7 +90,8 @@
             "employees": {
                 "industriarb.": 60
             },
-            "annual_production_value": 10000000
+            "annual_production_value": 10000000,
+            "employees_total": 60
         },
         "foundation_year": 1905,
         "corporation_year": 1916,
@@ -112,7 +115,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "AB. Fabriksprodukter",
@@ -130,7 +133,8 @@
             "employees": {
                 "industriarb.": 35
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 35
         },
         "foundation_year": 1939,
         "corporation_year": 1941,
@@ -148,7 +152,7 @@
             "Latitude": 57.4431502,
             "Longitude": 13.5960313
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Fabriksskorsten",
@@ -166,7 +170,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb.": 100
-            }
+            },
+            "employees_total": 100
         },
         "corporation_year": 1916,
         "board": [
@@ -188,7 +193,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Facit",
@@ -205,7 +210,8 @@
             "capital": 500000,
             "employees": {
                 "industriarb.": 340
-            }
+            },
+            "employees_total": 340
         },
         "foundation_year": 1922,
         "board": [
@@ -238,6 +244,6 @@
             "Latitude": 58.2007895,
             "Longitude": 15.9976986
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

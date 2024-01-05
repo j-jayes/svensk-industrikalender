@@ -19,7 +19,8 @@
                 "industriarb": 15
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 135000
+            "annual_production_value": 135000,
+            "employees_total": 15
         },
         "foundation_year": 1924,
         "owner": "Oscar Persson",
@@ -27,7 +28,7 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Oscar Persson Möbeltillverkning",
@@ -49,7 +50,8 @@
                 "arb-antal": 1
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 1
         },
         "foundation_year": 1900,
         "owner": "Oscar Persson",
@@ -57,7 +59,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Per Perssons Väf- och Stick-maskin",
@@ -80,7 +82,8 @@
                 "industriarb": 200
             },
             "annual_turnover": 3000000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 200
         },
         "foundation_year": 1894,
         "board": [
@@ -109,7 +112,7 @@
             "Latitude": 59.33688530000001,
             "Longitude": 17.9638876
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB. P. M. Pehrsson",
@@ -133,7 +136,8 @@
                 "industriarb": 200
             },
             "annual_turnover": 2500000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 200
         },
         "foundation_year": 1880,
         "board": [
@@ -179,7 +183,8 @@
                 "hemarb": 125
             },
             "annual_turnover": 3000000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 225
         },
         "foundation_year": 1888,
         "board": [
@@ -232,7 +237,8 @@
                 "industriarb": 215
             },
             "annual_turnover": 3100000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 215
         },
         "foundation_year": 1867,
         "board": [
@@ -245,6 +251,6 @@
             "Latitude": 55.3762427,
             "Longitude": 13.1574231
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

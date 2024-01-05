@@ -16,7 +16,8 @@
                 "Arb.-antal": 16
             },
             "annual_turnover": 300000,
-            "annual_production_value": "Okänt"
+            "annual_production_value": "Okänt",
+            "employees_total": 16
         },
         "foundation_year": 1894,
         "board": [
@@ -42,7 +43,7 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Lörstrands Sågverks AB.",
@@ -58,14 +59,15 @@
                 "Antal industriarb.": 20
             },
             "annual_turnover": "Okänt",
-            "annual_production_value": "Okänt"
+            "annual_production_value": "Okänt",
+            "employees_total": 20
         },
         "foundation_year": 1918,
         "coordinates": {
             "Latitude": 61.6577175,
             "Longitude": 16.1662353
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Ernst Löwe & Co., Handels- & Fabriks AB.",
@@ -85,7 +87,8 @@
                 "Antal industriarb.": 50
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "Okänt"
+            "annual_production_value": "Okänt",
+            "employees_total": 50
         },
         "foundation_year": 1928,
         "current_name_year": 1931,
@@ -103,7 +106,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 9
     },
     "4": {
         "name": "Lövträförädling",
@@ -120,7 +123,8 @@
                 "Antal industriarb.": 155
             },
             "annual_turnover": 3500000,
-            "annual_production_value": "Okänt"
+            "annual_production_value": "Okänt",
+            "employees_total": 155
         },
         "foundation_year": 1906,
         "corporation_year": 1920,
@@ -142,7 +146,7 @@
             "Latitude": 56.4471222,
             "Longitude": 12.9615445
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Maack & Wennberg AB.",
@@ -159,7 +163,8 @@
                 "Antal industriarb.": 19
             },
             "annual_turnover": 260000,
-            "annual_production_value": "Okänt"
+            "annual_production_value": "Okänt",
+            "employees_total": 19
         },
         "foundation_year": 1935,
         "corporation_year": 1946,
@@ -172,6 +177,6 @@
             "Latitude": 56.0537433,
             "Longitude": 14.5796878
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

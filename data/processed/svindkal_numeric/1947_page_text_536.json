@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "foundation_year": 1928
+            "foundation_year": 1928,
+            "employees_total": 40
         },
         "coordinates": {
             "Latitude": 55.604981,
@@ -38,13 +39,14 @@
                 "industriarb": 505
             },
             "annual_production_value": 9000000,
-            "foundation_year": 1902
+            "foundation_year": 1902,
+            "employees_total": 505
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 18
     },
     "3": {
         "name": "Nordiska Latexfabriken",
@@ -59,7 +61,8 @@
                 "industriarb": 30
             },
             "annual_production_value": 400000,
-            "foundation_year": 1938
+            "foundation_year": 1938,
+            "employees_total": 30
         },
         "owners": [
             "fabr. Sven Boström",
@@ -83,13 +86,14 @@
         "financials": {
             "capital": 5000,
             "annual_production_value": 450000,
-            "foundation_year": 1915
+            "foundation_year": 1915,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "AB. Nordiska Läderfabriken",
@@ -104,7 +108,8 @@
                 "industriarb": 20
             },
             "annual_production_value": 2000000,
-            "foundation_year": 1929
+            "foundation_year": 1929,
+            "employees_total": 20
         },
         "owners": [
             "dir. Gösta Ehrnberg",
@@ -128,7 +133,8 @@
         "financials": {
             "capital": 20000,
             "employees": 25,
-            "foundation_year": 1933
+            "foundation_year": 1933,
+            "employees_total": 0
         },
         "owners": [
             "dir. Malte Göransson",
@@ -140,6 +146,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

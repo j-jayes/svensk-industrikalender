@@ -9,7 +9,8 @@
             ]
         },
         "financials": {
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1933,
         "owner": "civiling. Axel H. Åberg",
@@ -17,7 +18,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 0
+        "cluster": 6
     },
     "2": {
         "name": "Åbro Bryggeri (Gamla Vimmerby-bryggeriet)",
@@ -34,7 +35,8 @@
         "financials": {
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1856,
         "owner": "disp. Axel Dunge",
@@ -42,7 +44,7 @@
             "Latitude": 57.6690339,
             "Longitude": 15.858857
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "Åby Tegelbruk, C. J. Gustafsson",
@@ -56,7 +58,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": "2 milj. st. tegelvaror"
+            "annual_production_value": "2 milj. st. tegelvaror",
+            "employees_total": 25
         },
         "foundation_year": 1927,
         "owner": "fabr. C. Janne Gustafsson",
@@ -64,7 +67,7 @@
             "Latitude": 59.53569999999999,
             "Longitude": 18.078017
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Åbyfors Spikfabriks AB.",
@@ -79,7 +82,8 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_production_value": 180000
+            "annual_production_value": 180000,
+            "employees_total": 23
         },
         "foundation_year": 1931,
         "board": [
@@ -96,7 +100,7 @@
             "Latitude": 60.6430312,
             "Longitude": 17.0082511
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Åbyfors Tegelbruk",
@@ -111,7 +115,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": "1,5 milj. st. tegelvaror"
+            "annual_production_value": "1,5 milj. st. tegelvaror",
+            "employees_total": 25
         },
         "foundation_year": 1923,
         "board": [
@@ -133,7 +138,7 @@
             "Latitude": 60.6430312,
             "Longitude": 17.0082511
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. ÅETÅ Tryck",
@@ -148,7 +153,8 @@
             "capital": 5000,
             "employees": {
                 "industriarb": 65
-            }
+            },
+            "employees_total": 65
         },
         "foundation_year": 1939,
         "corporation_year": 1941,
@@ -166,7 +172,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "7": {
         "name": "AB. Åfors Glasbruk",
@@ -181,7 +187,8 @@
             "employees": {
                 "industriarb": 140
             },
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 140
         },
         "foundation_year": 1911,
         "director": "Eric Åfors",
@@ -189,7 +196,7 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 2
+        "cluster": 0
     },
     "8": {
         "name": "Åfors Möbelfabriks AB.",
@@ -204,7 +211,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 70
         },
         "foundation_year": 1906,
         "owner": "Ernfrid Johansson",
@@ -212,19 +220,20 @@
             "Latitude": 56.9814885,
             "Longitude": 16.3327375
         },
-        "cluster": 8
+        "cluster": 15
     },
     "9": {
         "name": "Axel H. Ågren AB.",
         "location": "Göteborg",
         "business": "Kem. tekniska fabriker i Stockholm, Göteborg och Norrköping, kalkstensbrott vid Klinthagen å Gotland. Tillverkar vattenglas, kristallsoda, kem. ren soda samt stenkolssot; bryter kalksten. Bolaget driver såsom huvudrörelse handel med",
         "financials": {
-            "capital": "639*"
+            "capital": "639*",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

@@ -25,7 +25,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 550000,
-            "annual_production_value": 550000
+            "annual_production_value": 550000,
+            "employees_total": 30
         },
         "foundation_year": 1909,
         "director": "disp. Josef Pompeius",
@@ -33,7 +34,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "Poppens Buljong AB.",
@@ -52,7 +53,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 25
         },
         "foundation_year": 1942,
         "director": "Disp. Aage Borup-Jörgensen",
@@ -60,7 +62,7 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "Porla Brunns AB.",
@@ -79,7 +81,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 12
-            }
+            },
+            "employees_total": 12
         },
         "foundation_year": 1874,
         "corporation_year": 1943,
@@ -118,7 +121,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "Porter bryggeri AB. D. Carnegle & Co.",
@@ -135,7 +138,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_turnover": 5700000
+            "annual_turnover": 5700000,
+            "employees_total": 100
         },
         "foundation_year": 1803,
         "corporation_year": 1860,
@@ -168,7 +172,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "A. Portström",
@@ -186,7 +190,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 25
         },
         "foundation_year": 1918,
         "manager": "smidesmäst. Arvid Portström",
@@ -194,7 +199,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Prestoverken i Motala AB.",
@@ -215,7 +220,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 60
         },
         "foundation_year": 1926,
         "corporation_year": 1931,
@@ -226,6 +232,6 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

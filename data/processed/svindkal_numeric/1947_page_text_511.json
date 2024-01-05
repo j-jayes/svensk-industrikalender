@@ -18,7 +18,8 @@
                 "industriarb": 215
             },
             "annual_turnover": 5000000,
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 215
         },
         "foundation_year": 1891,
         "owners": [
@@ -47,7 +48,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Metallbolaget Cranstrand & Co.",
@@ -61,7 +62,8 @@
         "financials": {
             "employees": {
                 "industriarb": 18
-            }
+            },
+            "employees_total": 18
         },
         "foundation_year": 1916,
         "owners": [
@@ -73,7 +75,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Metall AB. Ivar Hageberg",
@@ -88,7 +90,8 @@
             "employees": {
                 "arb.-antal": 10
             },
-            "annual_turnover": 75000
+            "annual_turnover": 75000,
+            "employees_total": 10
         },
         "foundation_year": 1937,
         "director": "ing. Yngve Jägerroth",
@@ -96,7 +99,7 @@
             "Latitude": 57.3150182,
             "Longitude": 13.8805966
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Metall- & Bakelitfabriken Meba",
@@ -110,7 +113,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 15
         },
         "foundation_year": 1942,
         "owners": [
@@ -120,7 +124,7 @@
             "Latitude": 57.2985,
             "Longitude": 13.54326
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Metallduk",
@@ -136,7 +140,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 65
         },
         "foundation_year": 1906,
         "board": [
@@ -149,7 +154,7 @@
             "Latitude": 57.6411056,
             "Longitude": 15.2684486
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Metallegeringar",
@@ -165,7 +170,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1938,
         "board": [
@@ -195,7 +201,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. Metallfabriken Ljunghäll",
@@ -212,7 +218,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 750000
+            "annual_turnover": 750000,
+            "employees_total": 50
         },
         "foundation_year": 1918,
         "board": [
@@ -225,6 +232,6 @@
             "Latitude": 57.2812542,
             "Longitude": 13.6271963
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

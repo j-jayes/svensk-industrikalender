@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1919,
         "board": [
@@ -33,7 +34,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "Joh. D. Andersson AB.",
@@ -56,7 +57,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 20
         },
         "foundation_year": 1859,
         "board": [
@@ -82,7 +84,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "Jörgen Anderssons Snickeri & Möbelverkstad",
@@ -97,7 +99,8 @@
             "employees": {
                 "industriarb": 5
             },
-            "annual_turnover": 60000
+            "annual_turnover": 60000,
+            "employees_total": 5
         },
         "foundation_year": 1923,
         "owner": "snickaremäst. N. Jörgen Andersson",
@@ -105,7 +108,7 @@
             "Latitude": 59.39707249999999,
             "Longitude": 18.0903005
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "J. R. Andersson & Co. AB. (Rostfria Andersson)",
@@ -121,7 +124,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_turnover": 2900000
+            "annual_turnover": 2900000,
+            "employees_total": 90
         },
         "corporation_year": 1934,
         "board": [
@@ -143,7 +147,7 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Karl Andersson, Möbelfabrik",
@@ -158,7 +162,8 @@
             "employees": {
                 "antal": 5
             },
-            "annual_turnover": 30000
+            "annual_turnover": 30000,
+            "employees_total": 5
         },
         "foundation_year": 1909,
         "owner": "fabr. Roland Anderson",
@@ -166,7 +171,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. Karl Andersson & Söner Möbelfabrik",
@@ -182,7 +187,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 50
         },
         "foundation_year": 1898,
         "corporation_year": 1944,
@@ -210,7 +216,7 @@
             "Latitude": 57.7904141,
             "Longitude": 14.2755781
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Konrad Andersson AB.",
@@ -226,7 +232,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 30
         },
         "corporation_year": 1933,
         "board": [
@@ -248,7 +255,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "AB. Ludvig Anderson",
@@ -268,6 +275,6 @@
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

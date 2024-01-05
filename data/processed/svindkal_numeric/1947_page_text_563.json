@@ -17,7 +17,8 @@
                 "industriarb": 15
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 15
         },
         "foundation_year": 1918,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 3
     },
     "2": {
         "name": "AB. Olléns Tröskmaskinfabrik",
@@ -59,7 +60,8 @@
                 "industriarb": 82
             },
             "annual_turnover": 1450000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 82
         },
         "foundation_year": 1912,
         "corporation_year": 1924,
@@ -82,7 +84,7 @@
             "Latitude": 59.0579376,
             "Longitude": 16.5879122
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Eric M. Olofsson, Möbelfabrik",
@@ -96,7 +98,8 @@
         "financials": {
             "employees": {
                 "arb.-antal": 6
-            }
+            },
+            "employees_total": 6
         },
         "foundation_year": 1922,
         "director": "Eric M. Olofsson",
@@ -104,7 +107,7 @@
             "Latitude": 57.48749189999999,
             "Longitude": 12.0761927
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "AB. Olo-verken",
@@ -122,7 +125,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 500000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 25
         },
         "foundation_year": 1941,
         "board": [
@@ -143,7 +147,7 @@
             "Latitude": 59.0665316,
             "Longitude": 15.10229
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Julius Oiséns Litografiska Anstalt",
@@ -163,7 +167,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 800000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 40
         },
         "foundation_year": 1918,
         "director": "Julius Olsén",
@@ -171,7 +176,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "T. Oisens Fabriks AB.",
@@ -190,7 +195,8 @@
                 "arb.-antal": 10
             },
             "annual_turnover": 400000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 10
         },
         "foundation_year": 1880,
         "corporation_year": 1912,
@@ -199,7 +205,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "7": {
         "name": "AB. Olssons Mössfabrik",

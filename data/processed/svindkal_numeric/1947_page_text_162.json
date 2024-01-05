@@ -27,7 +27,8 @@
         "financials": {
             "capital": 100000,
             "annual_turnover": 500000,
-            "description": "Financial information of the firm."
+            "description": "Financial information of the firm.",
+            "employees_total": 0
         },
         "foundation_year": 1930,
         "board": [
@@ -48,7 +49,7 @@
             "Latitude": 59.39368829999999,
             "Longitude": 15.8381747
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Arboga Boktryckeri AB.",
@@ -63,7 +64,8 @@
         },
         "financials": {
             "capital": 124000,
-            "description": "Financial information of the firm."
+            "description": "Financial information of the firm.",
+            "employees_total": 0
         },
         "foundation_year": 1911,
         "board": [
@@ -85,7 +87,7 @@
             "Latitude": 59.39368829999999,
             "Longitude": 15.8381747
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Arboga Bryggeri AB.",
@@ -101,14 +103,15 @@
         },
         "financials": {
             "capital": 400000,
-            "description": "Financial information of the firm."
+            "description": "Financial information of the firm.",
+            "employees_total": 0
         },
         "foundation_year": 1899,
         "coordinates": {
             "Latitude": 59.39368829999999,
             "Longitude": 15.8381747
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "AB. Arboga Kvarn & Maltfabrik",
@@ -125,14 +128,15 @@
         },
         "financials": {
             "capital": 226250,
-            "description": "Financial information of the firm."
+            "description": "Financial information of the firm.",
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "coordinates": {
             "Latitude": 59.39368829999999,
             "Longitude": 15.8381747
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "AB. Arboga Margarinfabrik",
@@ -148,14 +152,15 @@
         },
         "financials": {
             "capital": 2500000,
-            "description": "Financial information of the firm."
+            "description": "Financial information of the firm.",
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "coordinates": {
             "Latitude": 59.39368829999999,
             "Longitude": 15.8381747
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "AB. Arbogamaskiner",
@@ -171,14 +176,15 @@
         },
         "financials": {
             "capital": 500000,
-            "description": "Financial information of the firm."
+            "description": "Financial information of the firm.",
+            "employees_total": 0
         },
         "foundation_year": 1937,
         "coordinates": {
             "Latitude": 59.39368829999999,
             "Longitude": 15.8381747
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. Arboga Mekaniska Verkstad",
@@ -192,13 +198,14 @@
         },
         "financials": {
             "capital": "Unknown",
-            "description": "Financial information of the firm."
+            "description": "Financial information of the firm.",
+            "employees_total": 0
         },
         "foundation_year": "Unknown",
         "coordinates": {
             "Latitude": 59.39368829999999,
             "Longitude": 15.8381747
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

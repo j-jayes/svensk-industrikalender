@@ -31,7 +31,8 @@
                 "industriarb.": 550
             },
             "annual_turnover": "Annual turnover value",
-            "annual_production_value": "Annual production value"
+            "annual_production_value": "Annual production value",
+            "employees_total": 550
         },
         "foundation_year": 1913,
         "board": [
@@ -60,7 +61,7 @@
             "Latitude": 58.6754851,
             "Longitude": 17.0749546
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "Oxelösunds Träindustri AB.",
@@ -78,14 +79,15 @@
             "employees": {
                 "industriarb.": 25
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 25
         },
         "foundation_year": 1938,
         "coordinates": {
             "Latitude": 58.6754851,
             "Longitude": 17.0749546
         },
-        "cluster": 8
+        "cluster": 18
     },
     "3": {
         "name": "AB. Oxygenol, Stockholm",
@@ -102,10 +104,11 @@
             "capital": 604200,
             "employees": {
                 "industriarb.": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1908,
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "AB. Packningsindustri, Råa",
@@ -123,10 +126,11 @@
             "capital": 108000,
             "employees": {
                 "industriarb.": 35
-            }
+            },
+            "employees_total": 35
         },
         "foundation_year": 1918,
-        "cluster": 9
+        "cluster": 17
     },
     "5": {
         "name": "Pahnes Textil, Halmstad",
@@ -139,10 +143,11 @@
             "postgiro": "178213"
         },
         "financials": {
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 0
         },
         "foundation_year": 1940,
-        "cluster": 9
+        "cluster": 5
     },
     "6": {
         "name": "Palms Konfektionsfabrik, Tomelilla",
@@ -154,20 +159,22 @@
         "financials": {
             "employees": {
                 "industriarb.": 90
-            }
+            },
+            "employees_total": 90
         },
         "current_name_year": 1946,
         "predecessor": "Tomelilla Konfektion",
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Palms Mössfabrik, Tomelilla",
         "business": "Mössfabrik i Tomelilla (Kristianst. l.). Tillverkar sportmössor, skol- och klädes- 432*.",
         "financials": {
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 0
         },
         "current_name_year": 1946,
         "predecessor": "Tomelilla Konfektion",
-        "cluster": 9
+        "cluster": 18
     }
 }

@@ -18,7 +18,8 @@
                 "industriarb": 140
             },
             "annual_turnover": 5000000,
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 140
         },
         "foundation_year": 1839,
         "corporation_year": 1872,
@@ -48,7 +49,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Liljeholmens Ättiksfabrik AB.",
@@ -69,7 +70,8 @@
             "employees": {
                 "industriarb": 19
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 19
         },
         "foundation_year": 1859,
         "corporation_year": 1919,
@@ -78,7 +80,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "Lilla Edets Pappersbruks AB.",
@@ -99,7 +101,8 @@
             "employees": {
                 "industriarb": 425
             },
-            "annual_turnover": 8000000
+            "annual_turnover": 8000000,
+            "employees_total": 425
         },
         "foundation_year": 1880,
         "corporation_year": 1906,
@@ -125,7 +128,7 @@
             "Latitude": 58.132158,
             "Longitude": 12.1241336
         },
-        "cluster": 5
+        "cluster": 17
     },
     "4": {
         "name": "AB. Lilla Harrie Redskapsverkstad",
@@ -143,7 +146,8 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_turnover": 1650000
+            "annual_turnover": 1650000,
+            "employees_total": 80
         },
         "foundation_year": 1903,
         "corporation_year": 1911,
@@ -165,7 +169,7 @@
             "Latitude": 55.7922022,
             "Longitude": 13.2063968
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Lilles Konfektiöns AB.",
@@ -183,7 +187,8 @@
             "employees": {
                 "industriarb": 75
             },
-            "annual_turnover": 1100000
+            "annual_turnover": 1100000,
+            "employees_total": 75
         },
         "foundation_year": 1938,
         "corporation_year": 1939,
@@ -192,6 +197,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

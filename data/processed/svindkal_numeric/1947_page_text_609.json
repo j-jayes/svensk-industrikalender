@@ -16,7 +16,8 @@
                 "Stockholm": 100,
                 "Göteborg": 150,
                 "Malmö": 50
-            }
+            },
+            "employees_total": 300
         },
         "foundation_year": 1907,
         "board": [
@@ -63,7 +64,8 @@
         },
         "financials": {
             "capital": 120000,
-            "employees": 15
+            "employees": 15,
+            "employees_total": 0
         },
         "foundation_year": 1916,
         "board": [
@@ -76,7 +78,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "J. Scheja",
@@ -91,7 +93,8 @@
             "postgiro": "59395"
         },
         "financials": {
-            "employees": 8
+            "employees": 8,
+            "employees_total": 0
         },
         "foundation_year": 1899,
         "owners": [
@@ -102,7 +105,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "C. E. Scheutz’ Son",
@@ -115,7 +118,8 @@
             ]
         },
         "financials": {
-            "employees": 20
+            "employees": 20,
+            "employees_total": 0
         },
         "foundation_year": 1870,
         "owners": [
@@ -141,7 +145,8 @@
         "financials": {
             "capital": 100000,
             "employees": 30,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1909,
         "board": [
@@ -163,7 +168,7 @@
             "Latitude": 59.63569090000001,
             "Longitude": 17.0778228
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Henning Schlasberg & Co. AB.",
@@ -188,7 +193,8 @@
         "financials": {
             "capital": 800000,
             "employees": 350,
-            "annual_production_value": 4000000
+            "annual_production_value": 4000000,
+            "employees_total": 0
         },
         "foundation_year": 1896,
         "board": [
@@ -213,6 +219,6 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

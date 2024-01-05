@@ -16,7 +16,8 @@
                 "home_workers": 10
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1932,
         "board": [
@@ -51,7 +52,7 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Simrishamns Cjuteri",
@@ -70,7 +71,8 @@
                 "total": 20
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 20
         },
         "foundation_year": 1875,
         "owners": [
@@ -80,7 +82,7 @@
             "Latitude": 55.5573959,
             "Longitude": 14.3489651
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Sipla",
@@ -100,7 +102,8 @@
                 "total": 12
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 12
         },
         "foundation_year": 1940,
         "board": [
@@ -114,7 +117,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Sjuntorp",
@@ -135,7 +138,8 @@
                 "total": 650
             },
             "annual_turnover": 10000000,
-            "annual_production_value": 10000000
+            "annual_production_value": 10000000,
+            "employees_total": 650
         },
         "foundation_year": 1882,
         "board": [
@@ -159,7 +163,7 @@
             "Latitude": 58.19767539999999,
             "Longitude": 12.2346597
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Själevads Ångbryggeri",
@@ -170,7 +174,7 @@
             "Latitude": 63.2994414,
             "Longitude": 18.5988915
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Sjöbacka Sågverk",
@@ -181,7 +185,7 @@
             "Latitude": 58.49135949999999,
             "Longitude": 15.420318
         },
-        "cluster": 1
+        "cluster": 8
     },
     "8": {
         "name": "AB. Sjöberg & Haglund",
@@ -200,7 +204,8 @@
                 "total": 50
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 50
         },
         "foundation_year": 1922,
         "board": [
@@ -223,7 +228,7 @@
             "Latitude": 60.73846399999999,
             "Longitude": 15.4467669
         },
-        "cluster": 9
+        "cluster": 5
     },
     "9": {
         "name": "A. Ferd. Sjöberg AB.",
@@ -243,7 +248,8 @@
                 "total": 160
             },
             "annual_turnover": 4000000,
-            "annual_production_value": 4000000
+            "annual_production_value": 4000000,
+            "employees_total": 160
         },
         "foundation_year": 1917,
         "board": [
@@ -270,6 +276,6 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

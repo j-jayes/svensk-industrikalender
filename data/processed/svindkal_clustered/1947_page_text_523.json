@@ -51,7 +51,7 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Nils Mårtenssons Cjuteri AB.",
@@ -93,7 +93,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "AB. Måttstockar, Lidingö",
@@ -134,7 +134,7 @@
             "Latitude": 59.10059589999999,
             "Longitude": 16.5624079
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "AB. Mälardalens Tegelbruk, Stockholm",
@@ -188,7 +188,7 @@
             "Latitude": 59.8191998,
             "Longitude": 17.7128415
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Möbel AB. Larsson & Co., Karlstad",
@@ -226,7 +226,7 @@
         "sales_manager": null,
         "manager": null,
         "coordinates": null,
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Möbel AB. Vasa, Vaggeryd",
@@ -267,7 +267,7 @@
             "Latitude": 57.4989621,
             "Longitude": 14.1486297
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Möbelfabriken Balder, Vaggeryd",
@@ -308,7 +308,7 @@
             "Latitude": 57.4989621,
             "Longitude": 14.1486297
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "Möbelfabriken Ejdern, Karl Malmberg, Vimmerby",
@@ -349,6 +349,6 @@
         "sales_manager": null,
         "manager": null,
         "coordinates": null,
-        "cluster": 8
+        "cluster": 15
     }
 }

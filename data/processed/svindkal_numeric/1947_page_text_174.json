@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_turnover": 1800000
+            "annual_turnover": 1800000,
+            "employees_total": 100
         },
         "corporation_year": 1928,
         "board": {
@@ -42,7 +43,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "K. L. Beckmans Boktryckeri",
@@ -63,7 +64,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_turnover": null
+            "annual_turnover": null,
+            "employees_total": 90
         },
         "corporation_year": null,
         "board": {},
@@ -75,7 +77,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Cus t af Behrns Skobandfabrik",
@@ -95,7 +97,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 10
         },
         "corporation_year": 1906,
         "board": {},
@@ -127,7 +130,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 50
         },
         "corporation_year": 1925,
         "board": {
@@ -152,7 +156,7 @@
             "Latitude": 57.6690339,
             "Longitude": 15.858857
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "J. F. Bellanders AB.",
@@ -172,7 +176,8 @@
             "employees": {
                 "industriarb": 104
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 104
         },
         "corporation_year": 1917,
         "board": {
@@ -197,7 +202,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Belysningskultur G. Cronwin, AB.",
@@ -249,6 +254,6 @@
             "Latitude": 57.2985,
             "Longitude": 13.54326
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

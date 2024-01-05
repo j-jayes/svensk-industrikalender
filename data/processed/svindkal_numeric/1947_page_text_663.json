@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb": 190
             },
-            "annual_turnover": "Yearly turnovers: 22,000 tons of dry, white mechanical wood pulp for self-use, 12,000 tons of porous wallboard, 9,000 tons of cardboard, 1,000 pieces of sawn and 170 pieces of planed wood products"
+            "annual_turnover": "Yearly turnovers: 22,000 tons of dry, white mechanical wood pulp for self-use, 12,000 tons of porous wallboard, 9,000 tons of cardboard, 1,000 pieces of sawn and 170 pieces of planed wood products",
+            "employees_total": 190
         },
         "foundation_year": 1910,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 59.17884919999999,
             "Longitude": 12.5516014
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Svanlunds Skofabrik",
@@ -57,7 +58,8 @@
             "employees": {
                 "industriarb": 28
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 28
         },
         "foundation_year": 1936,
         "board": [
@@ -107,7 +109,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "Svanå Bruk",
@@ -141,7 +143,8 @@
             "capital": 7548000,
             "employees": {
                 "industriarb": 275
-            }
+            },
+            "employees_total": 275
         },
         "foundation_year": 1867,
         "board": [
@@ -167,7 +170,7 @@
             "Latitude": 62.97476959999999,
             "Longitude": 17.7139052
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "S. Svaréns Trikåfabriks AB.",
@@ -183,7 +186,8 @@
             "employees": {
                 "industriarb": 130
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 130
         },
         "foundation_year": 1930,
         "manager": "fabr. Sven Svaren",
@@ -191,7 +195,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Svartviks AB.",
@@ -205,7 +209,8 @@
         "financials": {
             "employees": {
                 "industriarb": 800
-            }
+            },
+            "employees_total": 800
         },
         "foundation_year": 1919,
         "board": [
@@ -226,6 +231,6 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

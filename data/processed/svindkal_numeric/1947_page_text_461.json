@@ -17,7 +17,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 15
         },
         "foundation_year": 1898,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Leksaksfabriken Norco",
@@ -55,7 +56,8 @@
             "employees": {
                 "industriarb": 33
             },
-            "annual_turnover": 310000
+            "annual_turnover": 310000,
+            "employees_total": 33
         },
         "foundation_year": 1935,
         "owners": [
@@ -66,7 +68,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 9
     },
     "3": {
         "name": "AB. Leksandsbröd",
@@ -85,7 +87,8 @@
             "employees": {
                 "industriarb": 18
             },
-            "annual_turnover": 350000
+            "annual_turnover": 350000,
+            "employees_total": 18
         },
         "foundation_year": 1929,
         "director": "fabr. Martin Joon",
@@ -93,7 +96,7 @@
             "Latitude": 60.69627,
             "Longitude": 15.05732
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Lemunda Sandstensbrott",
@@ -228,6 +231,6 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

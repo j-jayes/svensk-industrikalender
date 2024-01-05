@@ -18,7 +18,8 @@
                 "industrial_workers": 25
             },
             "annual_turnover": 250000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 25
         },
         "foundation_year": 1917,
         "owners": [
@@ -28,7 +29,7 @@
             "Latitude": 57.9473833,
             "Longitude": 11.5435498
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "AB. Bräcke Trähusfabrik",
@@ -47,7 +48,8 @@
                 "industrial_workers": 14
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 14
         },
         "foundation_year": 1944,
         "board": [
@@ -69,7 +71,7 @@
             "Latitude": 62.7507414,
             "Longitude": 15.4225748
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Bräcke Ångsåg",
@@ -89,7 +91,8 @@
                 "industrial_workers": 40
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "400 stds sågade och 1,400 stds hyvlade trävaror samt 100 stds övriga trävaror"
+            "annual_production_value": "400 stds sågade och 1,400 stds hyvlade trävaror samt 100 stds övriga trävaror",
+            "employees_total": 40
         },
         "foundation_year": 1938,
         "board": [
@@ -102,7 +105,7 @@
             "Latitude": 62.7507414,
             "Longitude": 15.4225748
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Brännlands Nya Träförädlings AB.",
@@ -122,7 +125,8 @@
                 "industrial_workers": 15
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "1,200 stds sågade och 700 stds hyvlade trävaror"
+            "annual_production_value": "1,200 stds sågade och 700 stds hyvlade trävaror",
+            "employees_total": 15
         },
         "foundation_year": 1923,
         "board": [
@@ -144,7 +148,7 @@
             "Latitude": 63.8796695,
             "Longitude": 20.0554472
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Bröderne Ameln",
@@ -178,7 +182,8 @@
                 "industrial_workers": 265
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 265
         },
         "foundation_year": 1928,
         "board": [
@@ -202,7 +207,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Bröderna Andersons Farmfabrik",
@@ -222,7 +227,8 @@
                 "industrial_workers": 25
             },
             "annual_turnover": 160000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 25
         },
         "foundation_year": 1919,
         "owners": [
@@ -233,7 +239,7 @@
             "Latitude": 56.89921039999999,
             "Longitude": 14.5560006
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. Bröderna Anderssons Gjuten",
@@ -253,13 +259,14 @@
                 "industrial_workers": "N/A"
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "coordinates": {
             "Latitude": 55.48045,
             "Longitude": 13.502349
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

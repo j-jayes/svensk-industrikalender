@@ -10,7 +10,8 @@
             "capital": 70581910,
             "employees": {
                 "industriarb": 4000
-            }
+            },
+            "employees_total": 4000
         },
         "board": [
             {
@@ -54,7 +55,7 @@
             "postgiro": "6274",
             "telegraph": "Termoverken, Jönköping"
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "AB. Tengwall",
@@ -77,7 +78,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 1
+        "cluster": 17
     },
     "3": {
         "name": "Albert Terberger AB.",
@@ -89,7 +90,8 @@
             "employees": {
                 "industriarb": 205
             },
-            "annual_turnover": 3100000
+            "annual_turnover": 3100000,
+            "employees_total": 205
         },
         "board": [
             {
@@ -114,7 +116,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB. Gustaf Terling",
@@ -126,7 +128,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": 50000
+            "annual_production_value": 50000,
+            "employees_total": 35
         },
         "contact": {
             "office": "St. Badhusg. 18, Göteborg",
@@ -139,7 +142,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Termosindustri",
@@ -151,7 +154,8 @@
             "employees": {
                 "industriarb": 16
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 16
         },
         "contact": {
             "phone": [
@@ -164,7 +168,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 2
+        "cluster": 0
     },
     "6": {
         "name": "AB. Termoverken",
@@ -177,7 +181,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_production_value": 1450000
+            "annual_production_value": 1450000,
+            "employees_total": 90
         },
         "board": [
             {
@@ -204,6 +209,6 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 1
+        "cluster": 0
     }
 }

@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 720000
+            "annual_production_value": 720000,
+            "employees_total": 40
         },
         "foundation_year": 1937,
         "manager": "fabr. Harald Lundqvist",
@@ -37,7 +38,8 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_production_value": 650000
+            "annual_production_value": 650000,
+            "employees_total": 23
         },
         "foundation_year": 1870,
         "board": [
@@ -64,7 +66,7 @@
         ],
         "director": "O. E. Borgenstierna",
         "managing_director": "Malte Ericsson",
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "AB. Lunds Mek. Verkstad, Lund",
@@ -83,7 +85,8 @@
             "employees": {
                 "industriarb": 75
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 75
         },
         "foundation_year": 1897,
         "board": [
@@ -105,7 +108,7 @@
             }
         ],
         "director": "Malte Neuendorff",
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Lunds Skofabrik, Lund",
@@ -121,11 +124,12 @@
             "employees": {
                 "industriarb": 62
             },
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 62
         },
         "foundation_year": 1880,
         "director": "Philip Andersson",
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "Carl Lunds Fabriks AB., Malmö",
@@ -140,13 +144,14 @@
             "employees": {
                 "industriarb": 240
             },
-            "annual_production_value": 4000000
+            "annual_production_value": 4000000,
+            "employees_total": 240
         },
         "foundation_year": 1879,
         "disp": "Frank G. Nelson",
         "kamrer": "Gösta Jönsson",
         "sales_manager": "Einar Olsson",
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. Baltzar Lundström, Stockholm",
@@ -159,7 +164,8 @@
         },
         "financials": {
             "capital": 500000,
-            "annual_turnover": 15000000
+            "annual_turnover": 15000000,
+            "employees_total": 0
         },
         "foundation_year": 1938,
         "board": [
@@ -179,7 +185,7 @@
         "director": "Baltzar Lundström",
         "manager": "Anders Malmström",
         "sales_manager": "Lars Henschen",
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "E. W. Lundströms Mek. Verkstad AB., Limhamn",
@@ -193,11 +199,12 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 20
         },
         "foundation_year": 1894,
         "director": "ing. Albert Lundström",
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "Luossavaara—Kiirunavaara AB., Stockholm",
@@ -211,9 +218,10 @@
             "capital": "unspecified",
             "employees": {
                 "industriarb": "unspecified"
-            }
+            },
+            "employees_total": 0
         },
         "foundation_year": "unspecified",
-        "cluster": 6
+        "cluster": 2
     }
 }

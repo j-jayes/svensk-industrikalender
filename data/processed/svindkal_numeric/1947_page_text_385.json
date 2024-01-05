@@ -17,7 +17,8 @@
                 "Arb.-antal": 11
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 11
         },
         "foundation_year": 1897,
         "current_name_year": "Not available",
@@ -26,7 +27,7 @@
             "Latitude": 58.27557299999999,
             "Longitude": 11.435558
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "AB. Idealmöbler",
@@ -44,7 +45,8 @@
                 "Antal industriarb.": 15
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 15
         },
         "foundation_year": 1937,
         "current_name_year": "Not available",
@@ -62,7 +64,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Ideas Motorfabrik",
@@ -83,7 +85,8 @@
                 "Antal industriarb.": 30
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 225000
+            "annual_production_value": 225000,
+            "employees_total": 30
         },
         "foundation_year": 1926,
         "current_name_year": "Not available",
@@ -92,7 +95,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Idkerbergets Gruf AB.",
@@ -111,7 +114,8 @@
                 "Antal industriarb.": 280
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 280
         },
         "foundation_year": 1921,
         "current_name_year": "Not available",
@@ -150,7 +154,7 @@
             "Latitude": 60.3804351,
             "Longitude": 15.2277302
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "AB. Iduns Tryckeri",
@@ -176,6 +180,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

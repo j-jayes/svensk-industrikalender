@@ -16,7 +16,8 @@
                 "industriarb": 500
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 500
         },
         "foundation_year": 1864,
         "predecessor": "N/A",
@@ -46,7 +47,7 @@
             "Latitude": 57.40924090000001,
             "Longitude": 13.6354214
         },
-        "cluster": 1
+        "cluster": 3
     },
     "2": {
         "name": "Nissafors Pappersförädling AB.",
@@ -65,14 +66,15 @@
                 "industriarb": 60
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 60
         },
         "foundation_year": 1939,
         "coordinates": {
             "Latitude": 57.40924090000001,
             "Longitude": 13.6354214
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "Nissafors Träsliperi, G. Lord & Co.",
@@ -89,7 +91,7 @@
             "Latitude": 57.40924090000001,
             "Longitude": 13.6354214
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Nissans Pås- & Pappers AB.",
@@ -107,14 +109,15 @@
                 "industriarb": 5
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 5
         },
         "foundation_year": 1925,
         "coordinates": {
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "Nissaströms Bruks och Kraft AB.",
@@ -135,14 +138,15 @@
                 "industriarb": 75
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 75
         },
         "foundation_year": 1889,
         "coordinates": {
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 7
+        "cluster": 17
     },
     "6": {
         "name": "AB. Nissens Manufacturlng",
@@ -162,14 +166,15 @@
                 "industriarb": 100
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 100
         },
         "foundation_year": 1898,
         "coordinates": {
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "Nitfabriken Wulkan, Ture Emilsson & Co.",
@@ -184,13 +189,14 @@
         },
         "financials": {
             "annual_turnover": "N/A",
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1933,
         "coordinates": {
             "Latitude": 57.2812542,
             "Longitude": 13.6271963
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

@@ -15,7 +15,8 @@
                 "industriarb": 34
             },
             "foundation_year": 1858,
-            "current_name_year": 1930
+            "current_name_year": 1930,
+            "employees_total": 34
         },
         "board": [
             {
@@ -41,7 +42,7 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "Sundsvalls Cellulosa AB.",
@@ -69,14 +70,15 @@
                 "industriarb": 14
             },
             "annual_turnover": 500000,
-            "foundation_year": 1934
+            "foundation_year": 1934,
+            "employees_total": 14
         },
         "managing_director": "ing. Gustaf Brattström",
         "coordinates": {
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Sundsvalls Förenade Verkstäder",
@@ -87,7 +89,8 @@
                 "industriarb": 110
             },
             "annual_turnover": 2000000,
-            "foundation_year": 1905
+            "foundation_year": 1905,
+            "employees_total": 110
         },
         "coordinates": {
             "Latitude": 62.390811,
@@ -107,7 +110,8 @@
         },
         "financials": {
             "capital": 100000,
-            "foundation_year": 1941
+            "foundation_year": 1941,
+            "employees_total": 0
         },
         "board": [
             {
@@ -136,7 +140,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 18
     },
     "6": {
         "name": "Sundsviks Bruk AB.",
@@ -146,7 +150,7 @@
             "Latitude": 59.2316644,
             "Longitude": 17.429115
         },
-        "cluster": 7
+        "cluster": 14
     },
     "7": {
         "name": "Sundsviks Såg & Hyvleri, Ingvald Övergaard",
@@ -156,6 +160,6 @@
             "Latitude": 59.83655749999999,
             "Longitude": 13.1440464
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

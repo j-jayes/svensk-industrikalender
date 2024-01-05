@@ -17,14 +17,15 @@
                 "industriarb": 25
             },
             "annual_turnover": 497000,
-            "annual_production_value": 497000
+            "annual_production_value": 497000,
+            "employees_total": 25
         },
         "foundation_year": 1844,
         "coordinates": {
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "Kläderfabriken, Nässjö",
@@ -41,7 +42,8 @@
                 "industriarb": 420
             },
             "annual_turnover": 5500000,
-            "annual_production_value": 5500000
+            "annual_production_value": 5500000,
+            "employees_total": 420
         },
         "foundation_year": 1909,
         "corporation_year": 1920,
@@ -49,7 +51,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Kläderfabriken Stockholm",
@@ -64,14 +66,15 @@
             "employees": {
                 "industriarb": 22
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 22
         },
         "current_name_year": 1933,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Knislinge Skofabriks AB.",
@@ -90,14 +93,15 @@
             "employees": {
                 "industriarb": 175
             },
-            "annual_turnover": 2500000
+            "annual_turnover": 2500000,
+            "employees_total": 175
         },
         "foundation_year": 1898,
         "coordinates": {
             "Latitude": 56.1934814,
             "Longitude": 14.0854131
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "Knislinge Strumpfabrik",
@@ -112,14 +116,15 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_turnover": 1200000
+            "annual_turnover": 1200000,
+            "employees_total": 100
         },
         "foundation_year": 1930,
         "coordinates": {
             "Latitude": 56.1934814,
             "Longitude": 14.0854131
         },
-        "cluster": 9
+        "cluster": 5
     },
     "6": {
         "name": "Knutsilplåtar, N M. Malm",
@@ -133,14 +138,15 @@
             "employees": {
                 "Arb.-antal": 8
             },
-            "annual_production_value": 75000
+            "annual_production_value": 75000,
+            "employees_total": 8
         },
         "foundation_year": 1924,
         "coordinates": {
             "Latitude": 58.3340403,
             "Longitude": 12.6802177
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "AB. Knutsson & Berggren",
@@ -152,7 +158,8 @@
         },
         "financials": {
             "capital": 150000,
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 0
         },
         "foundation_year": 1907,
         "corporation_year": 1945,
@@ -160,6 +167,6 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

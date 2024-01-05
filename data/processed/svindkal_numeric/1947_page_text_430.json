@@ -14,7 +14,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 50
         },
         "foundation_year": 1926,
         "director": "Sven Danielsson",
@@ -22,7 +23,7 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Klippans Läderfabrik",
@@ -39,7 +40,8 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_turnover": 5000000
+            "annual_turnover": 5000000,
+            "employees_total": 150
         },
         "foundation_year": 1906,
         "current_name_year": 1938,
@@ -93,7 +95,8 @@
             "employees": {
                 "industriarb": 52
             },
-            "annual_production_value": "4 milj. st. tegelvaror"
+            "annual_production_value": "4 milj. st. tegelvaror",
+            "employees_total": 52
         },
         "foundation_year": 1898,
         "board": [
@@ -115,7 +118,7 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Klippans Yllefabrik & Färgeri AB.",
@@ -131,7 +134,8 @@
             "capital": 216000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1882,
         "corporation_year": 1919,
@@ -154,7 +158,7 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Klockrike Tegelbruk",
@@ -169,7 +173,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": "1,6 milj. st. tegelvaror"
+            "annual_production_value": "1,6 milj. st. tegelvaror",
+            "employees_total": 35
         },
         "foundation_year": 1918,
         "current_name_year": 1946,
@@ -178,7 +183,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Klosters AB",
@@ -189,7 +194,8 @@
             "phone": "Långshyttan 380"
         },
         "financials": {
-            "capital": 1000000
+            "capital": 1000000,
+            "employees_total": 0
         },
         "foundation_year": 1871,
         "board": [
@@ -211,7 +217,7 @@
             "Latitude": 60.4522805,
             "Longitude": 16.0330768
         },
-        "cluster": 6
+        "cluster": 2
     },
     "7": {
         "name": "AB. Klosters Fabriker",
@@ -228,13 +234,14 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 2500000
+            "annual_turnover": 2500000,
+            "employees_total": 50
         },
         "foundation_year": 1903,
         "coordinates": {
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 0
+        "cluster": 3
     }
 }

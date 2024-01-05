@@ -47,7 +47,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 0
     },
     "2": {
         "name": "Jahrls Mek. Verkstad",
@@ -70,7 +70,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Jakobsbergs Snickerifabrik",
@@ -95,7 +95,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 18
     },
     "4": {
         "name": "’Jakobsbergs Träindustri AB.",
@@ -118,7 +118,7 @@
             "Latitude": 59.42257099999999,
             "Longitude": 17.833131
         },
-        "cluster": 8
+        "cluster": 18
     },
     "5": {
         "name": "AB. Jakobsdals Kamgarnsspinneri",
@@ -161,7 +161,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 9
     },
     "6": {
         "name": "’Jakobsdals Textilindustri AB.",
@@ -209,7 +209,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 9
     },
     "8": {
         "name": "AB. Jakobssons Industrier",
@@ -250,6 +250,6 @@
             "Latitude": 59.132661,
             "Longitude": 12.930107
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

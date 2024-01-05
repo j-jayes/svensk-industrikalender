@@ -21,7 +21,8 @@
                 "industriarb": 11
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 11
         },
         "foundation_year": 1924,
         "board": [
@@ -42,7 +43,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "AB. Hejarsmide",
@@ -67,7 +68,8 @@
             "employees": {
                 "industriarb": 32
             },
-            "annual_turnover": 460000
+            "annual_turnover": 460000,
+            "employees_total": 32
         },
         "foundation_year": 1920,
         "corporation_year": 1931,
@@ -93,7 +95,7 @@
             "Latitude": 59.63569090000001,
             "Longitude": 17.0778228
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Hellos Kemisk-Tekniskä Fabriker AB.",
@@ -112,7 +114,8 @@
             "employees": {
                 "industriarb": 115
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 115
         },
         "foundation_year": 1902,
         "corporation_year": 1931,
@@ -136,7 +139,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "AB. C. V. Heljestrand",
@@ -156,7 +159,8 @@
             "employees": {
                 "industriarb": 140
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 140
         },
         "foundation_year": 1808,
         "corporation_year": 1907,
@@ -177,7 +181,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Hellbergs Fabriks AB",
@@ -195,7 +199,8 @@
             "capital": 300000,
             "employees": {
                 "industriarb": 85
-            }
+            },
+            "employees_total": 85
         },
         "foundation_year": 1915,
         "corporation_year": 1938,
@@ -220,7 +225,7 @@
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "J. A. Hellbergs Knivfabrik",
@@ -245,7 +250,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "Hellefors Bruks AB",
@@ -264,6 +269,6 @@
             "Latitude": 59.783688,
             "Longitude": 14.5225692
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

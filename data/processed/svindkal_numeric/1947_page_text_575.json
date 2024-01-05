@@ -16,7 +16,8 @@
                 "industriarb.": 13
             },
             "annual_turnover": "180 000 kr",
-            "annual_production_value": "180 000 kr"
+            "annual_production_value": "180 000 kr",
+            "employees_total": 13
         },
         "foundation_year": 1925,
         "owners": [
@@ -26,7 +27,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "AB. Henning Persson",
@@ -46,7 +47,8 @@
                 "industriarb.": 40
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 40
         },
         "foundation_year": 1942,
         "predecessor": "f.d. AB. Hemper, Göteborg",
@@ -75,7 +77,7 @@
             "Latitude": 57.80393849999999,
             "Longitude": 11.9112144
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "Ivan B. Person",
@@ -97,7 +99,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "4": {
         "name": "AB. J. Pehrson &amp; Comp.",
@@ -116,7 +118,8 @@
             "employees": {
                 "industriarb.": 235
             },
-            "annual_turnover": 3500000
+            "annual_turnover": 3500000,
+            "employees_total": 235
         },
         "foundation_year": 1901,
         "board": [
@@ -141,7 +144,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "AB. Johan Perssons Byggnadsvaror",
@@ -160,7 +163,8 @@
             "employees": {
                 "industriarb.": 12
             },
-            "annual_turnover": 120000
+            "annual_turnover": 120000,
+            "employees_total": 12
         },
         "foundation_year": 1940,
         "predecessor": "Johan Perssons Byggnadsvaror, Lönsboda Träförädling, Pella Persson",
@@ -171,7 +175,7 @@
             "Latitude": 56.39745809999999,
             "Longitude": 14.3201742
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "K. J. Persson, Handskfabrik",
@@ -187,7 +191,8 @@
         "financials": {
             "employees": {
                 "industriarb.": 32
-            }
+            },
+            "employees_total": 32
         },
         "foundation_year": 1924,
         "owners": [
@@ -213,7 +218,8 @@
         "financials": {
             "employees": {
                 "industriarb.": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1912,
         "owners": [
@@ -224,7 +230,7 @@
             "Latitude": 55.5573959,
             "Longitude": 14.3489651
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "AB. Mårten Pehrsons Valsqvarn",
@@ -247,7 +253,8 @@
             "capital": 6000000,
             "employees": {
                 "industriarb.": 135
-            }
+            },
+            "employees_total": 135
         },
         "foundation_year": 1898,
         "board": [
@@ -272,6 +279,6 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

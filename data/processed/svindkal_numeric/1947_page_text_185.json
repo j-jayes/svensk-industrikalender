@@ -13,7 +13,8 @@
         },
         "financials": {
             "capital": 22000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "board": [
@@ -28,7 +29,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "2": {
         "name": "AB. Betongklinker",
@@ -38,7 +39,8 @@
         "postgiro": "28578",
         "financials": {
             "capital": 15000,
-            "annual_production_value": 80000
+            "annual_production_value": 80000,
+            "employees_total": 0
         },
         "foundation_year": 1895,
         "corporation_year": 1938,
@@ -47,7 +49,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Béve & C:nis Kappfabrik",
@@ -64,7 +66,8 @@
             "employees": {
                 "Antal industriarb.": 300
             },
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 300
         },
         "foundation_year": 1855,
         "corporation_year": 1901,
@@ -86,7 +89,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Beyronds AB.",
@@ -100,7 +103,8 @@
         },
         "financials": {
             "capital": 90000,
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1916,
         "corporation_year": 1929,
@@ -109,7 +113,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "Biideve i Munkaljungby AB.",
@@ -125,7 +129,8 @@
             "employees": {
                 "Antal industriarb.": 37
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 37
         },
         "corporation_year": 1943,
         "director": "Nils Viebke",
@@ -133,7 +138,7 @@
             "Latitude": 56.2573385,
             "Longitude": 12.9704446
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Bilindustri",
@@ -146,7 +151,8 @@
             "employees": {
                 "Antal industriarb.": 50
             },
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 50
         },
         "foundation_year": 1938,
         "owners": [
@@ -158,7 +164,7 @@
             "Latitude": 57.9310626,
             "Longitude": 13.4945915
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "Billeruds AB.",
@@ -168,12 +174,13 @@
             "office": "Säffle"
         },
         "financials": {
-            "annual_turnover": "not disclosed"
+            "annual_turnover": "not disclosed",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 59.132661,
             "Longitude": 12.930107
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

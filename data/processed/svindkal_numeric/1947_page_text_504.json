@@ -24,7 +24,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 30
         },
         "foundation_year": 1932,
         "owners": [
@@ -65,7 +66,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": "900,000 st. tegelvaror"
+            "annual_production_value": "900,000 st. tegelvaror",
+            "employees_total": 20
         },
         "foundation_year": 1916,
         "board": [
@@ -118,7 +120,8 @@
             "employees": {
                 "industriarb": 275
             },
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 275
         },
         "foundation_year": 1898,
         "board": [
@@ -161,7 +164,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": 880000
+            "annual_production_value": 880000,
+            "employees_total": 30
         },
         "foundation_year": 1866,
         "board": [
@@ -198,7 +202,8 @@
             "employees": {
                 "industriarb": 18
             },
-            "annual_production_value": 125000
+            "annual_production_value": 125000,
+            "employees_total": 18
         },
         "foundation_year": 1916,
         "coordinates": {
@@ -220,7 +225,8 @@
             "capital": 60000,
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1932,
         "coordinates": {
@@ -241,7 +247,8 @@
         "financials": {
             "employees": {
                 "antal": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1928,
         "coordinates": {
@@ -270,7 +277,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 55
         },
         "foundation_year": 1926,
         "board": [

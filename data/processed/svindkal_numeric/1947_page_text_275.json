@@ -14,14 +14,15 @@
                 "industriarb": 33
             },
             "annual_turnover": 220000,
-            "annual_production_value": 220000
+            "annual_production_value": 220000,
+            "employees_total": 33
         },
         "foundation_year": 1882,
         "coordinates": {
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Eskilstuna-Kurirens Tryckeri AB",
@@ -35,7 +36,8 @@
             "capital": 31740,
             "employees": {
                 "industriarb": 22
-            }
+            },
+            "employees_total": 22
         },
         "foundation_year": 1890,
         "current_name_year": 1894,
@@ -43,7 +45,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Eskilstuna Låsfabrik, Östmark & Co.",
@@ -56,14 +58,15 @@
         "financials": {
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1917,
         "coordinates": {
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Eskilstuna Mesost- & Margarinfabrik AB",
@@ -78,7 +81,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 33
-            }
+            },
+            "employees_total": 33
         },
         "foundation_year": 1887,
         "corporation_year": 1939,
@@ -86,7 +90,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Eskilstuna Metall- och Vagnslyktfabrik AB",
@@ -102,7 +106,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 65
         },
         "foundation_year": 1907,
         "corporation_year": 1943,
@@ -110,7 +115,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Eskilstuna Metallindustri, Bröd. Malmgren & Poréus",
@@ -123,14 +128,15 @@
         "financials": {
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1920,
         "coordinates": {
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "Eskilstunasteel",
@@ -145,13 +151,14 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 375000
+            "annual_production_value": 375000,
+            "employees_total": 40
         },
         "foundation_year": 1936,
         "coordinates": {
             "Latitude": 59.42129649999999,
             "Longitude": 16.4769698
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

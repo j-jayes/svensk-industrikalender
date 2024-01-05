@@ -16,7 +16,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 15
         },
         "foundation_year": 1935,
         "director": "Reidar Andersén",
@@ -24,7 +25,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Jönköpings Linnefabrik AB",
@@ -40,7 +41,8 @@
                 "industriarb": 175
             },
             "annual_turnover": 3000000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 175
         },
         "foundation_year": 1908,
         "corporation_year": 1933,
@@ -62,7 +64,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Jönköpings Litografiska AB",
@@ -85,7 +87,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "Jönköpings Mekaniska Werkstads AB",
@@ -102,7 +104,8 @@
                 "industriarb": 315
             },
             "annual_turnover": 6000000,
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 315
         },
         "foundation_year": 1860,
         "corporation_year": 1898,
@@ -131,7 +134,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Jönköpings Motorfabrik",
@@ -146,7 +149,8 @@
             "capital": 600000,
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "corporation_year": 1921,
         "board": [
@@ -172,7 +176,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Jönköpings Möbelfabriks AB",
@@ -191,7 +195,8 @@
                 "industriarb": 36
             },
             "annual_turnover": 360000,
-            "annual_production_value": 360000
+            "annual_production_value": 360000,
+            "employees_total": 36
         },
         "foundation_year": 1924,
         "manager": "Bernhard Roos",
@@ -199,7 +204,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Jönköpings Snickerifabrik",
@@ -219,7 +224,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 40
         },
         "foundation_year": 1882,
         "corporation_year": 1904,
@@ -244,7 +250,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "Jönköpings Textil AB",
@@ -259,7 +265,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 20
         },
         "foundation_year": 1926,
         "corporation_year": 1934,
@@ -268,6 +275,6 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

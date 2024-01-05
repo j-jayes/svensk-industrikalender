@@ -15,7 +15,8 @@
                 "industriarb": 57
             },
             "annual_production_value": 1400000,
-            "foundation_year": 1928
+            "foundation_year": 1928,
+            "employees_total": 57
         },
         "owners": [
             "fabr. Johan Sterner",
@@ -25,7 +26,7 @@
             "Latitude": 60.7303082,
             "Longitude": 14.9998922
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "Bröderna Styrenius Stenhuggeri AB.",
@@ -42,7 +43,8 @@
             },
             "annual_production_value": 750000,
             "foundation_year": 1897,
-            "corporation_year": 1913
+            "corporation_year": 1913,
+            "employees_total": 65
         },
         "board": [
             {
@@ -74,7 +76,7 @@
             "Latitude": 57.75771559999999,
             "Longitude": 16.6369759
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Bröderna Svenson",
@@ -88,7 +90,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "130,000 kbf trävaror",
-            "foundation_year": 1922
+            "foundation_year": 1922,
+            "employees_total": 20
         },
         "owners": [
             "trävaruhandl. Ragnar Svenson",
@@ -98,7 +101,7 @@
             "Latitude": 57.4955715,
             "Longitude": 13.1146225
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Bröderna Svenssons Stenhuggeri",
@@ -119,7 +122,8 @@
             },
             "annual_production_value": 800000,
             "foundation_year": 1907,
-            "corporation_year": 1927
+            "corporation_year": 1927,
+            "employees_total": 55
         },
         "board": [
             {
@@ -143,7 +147,7 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 7
+        "cluster": 18
     },
     "5": {
         "name": "Bröderna Söderbergs Metallgjuteri",
@@ -159,7 +163,8 @@
                 "industriarb": 185
             },
             "annual_production_value": 3500000,
-            "foundation_year": 1905
+            "foundation_year": 1905,
+            "employees_total": 185
         },
         "owners": [
             "fabr. Carl N. Söderberg"
@@ -182,7 +187,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. Bröderna Thörner",
@@ -199,7 +204,8 @@
             },
             "annual_production_value": 300000,
             "foundation_year": 1927,
-            "corporation_year": 1945
+            "corporation_year": 1945,
+            "employees_total": 40
         },
         "owners": [
             "fabr. Theodor Thörner",
@@ -209,7 +215,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "Bröderna Timander",
@@ -223,7 +229,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 25
         },
         "owners": [
             "sågverksäg. Birger Timander",
@@ -233,7 +240,7 @@
             "Latitude": 58.5494481,
             "Longitude": 13.7957687
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "AB. Bröderna Troedson",
@@ -250,7 +257,8 @@
             },
             "annual_production_value": 275000,
             "foundation_year": 1900,
-            "corporation_year": 1938
+            "corporation_year": 1938,
+            "employees_total": 25
         },
         "board": [
             {
@@ -270,7 +278,7 @@
             "Latitude": 56.2914154,
             "Longitude": 13.7097126
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "Bröderna Tysklind AB.",
@@ -280,12 +288,13 @@
             "employees": {
                 "industriarb": 0
             },
-            "foundation_year": 0
+            "foundation_year": 0,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 60.6765665,
             "Longitude": 15.0854559
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

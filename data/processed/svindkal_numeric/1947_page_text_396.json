@@ -16,7 +16,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 675000,
-            "annual_production_value": "3 milj. st. tegelvaror"
+            "annual_production_value": "3 milj. st. tegelvaror",
+            "employees_total": 40
         },
         "foundation_year": 1895,
         "corporation_year": 1926,
@@ -25,7 +26,7 @@
             "Latitude": 59.1592734,
             "Longitude": 15.5267453
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "Oscar Jacobson AB.",
@@ -42,7 +43,8 @@
             "employees": {
                 "industriarb": 290
             },
-            "annual_turnover": 6000000
+            "annual_turnover": 6000000,
+            "employees_total": 290
         },
         "foundation_year": 1929,
         "corporation_year": 1935,
@@ -62,7 +64,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Jannebergs Tegelbruk",
@@ -79,14 +81,15 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 40
         },
         "owner": "civiling. Nils Santesson",
         "coordinates": {
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 0
+        "cluster": 18
     },
     "4": {
         "name": "Jansson & Co.",
@@ -115,7 +118,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 40
         },
         "foundation_year": 1889,
         "corporation_year": 1942,
@@ -125,7 +129,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "AB. Ax. G. Jansson, Smides- & Mek. Verkstad",
@@ -143,7 +147,8 @@
             "employees": {
                 "industriarb": 120
             },
-            "annual_turnover": 1764000
+            "annual_turnover": 1764000,
+            "employees_total": 120
         },
         "foundation_year": 1912,
         "corporation_year": 1937,
@@ -154,7 +159,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. J. Janssons Kalkbruk",
@@ -171,7 +176,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 30
         },
         "corporation_year": 1918,
         "director": "Erik Jansson",
@@ -179,7 +185,7 @@
             "Latitude": 58.09718540000001,
             "Longitude": 13.7194561
         },
-        "cluster": 2
+        "cluster": 14
     },
     "8": {
         "name": "AB. J. Axel Janssons Nysilverfabrik",
@@ -197,7 +203,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 55
         },
         "corporation_year": 1939,
         "director": "J. Axel Jansson",
@@ -206,7 +213,7 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 6
+        "cluster": 12
     },
     "9": {
         "name": "AB. Otto Janssons Skofabrik",
@@ -223,7 +230,8 @@
             "employees": {
                 "industriarb": 140
             },
-            "annual_turnover": 2200000
+            "annual_turnover": 2200000,
+            "employees_total": 140
         },
         "corporation_year": 1929,
         "director": "Eilert Jansson",
@@ -231,7 +239,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 9
+        "cluster": 5
     },
     "10": {
         "name": "Sigfrid Janssons Metallfabrik",
@@ -247,13 +255,14 @@
             "employees": {
                 "industriarb": 16
             },
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 16
         },
         "owner": "fru E. Jansson",
         "coordinates": {
             "Latitude": 59.26203809999999,
             "Longitude": 17.22311
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

@@ -33,7 +33,7 @@
             "Latitude": 56.423635,
             "Longitude": 12.6273003
         },
-        "cluster": 1
+        "cluster": 3
     },
     "2": {
         "name": "AB. Lauxein-Casco",
@@ -80,7 +80,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "Lavoné-fabriken, AB. Magnus Jernberg",
@@ -114,7 +114,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "Laxå Bruks AB., Laxå",
@@ -155,7 +155,7 @@
             "Latitude": 58.98269,
             "Longitude": 14.62289
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "AB. Laxå Pappersbruk, Örebro",
@@ -192,7 +192,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "AB. Lee Bruk, Ed",
@@ -220,7 +220,7 @@
             "Latitude": 58.9122731,
             "Longitude": 11.9327196
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Leidesdorffska Fiskredskaps-fabriken, Stockholm",
@@ -258,6 +258,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

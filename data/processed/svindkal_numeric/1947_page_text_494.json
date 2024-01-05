@@ -18,7 +18,8 @@
                 "Arb.-antal": 14
             },
             "annual_turnover": 150000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 14
         },
         "foundation_year": 1888,
         "current_name_year": "N/A",
@@ -34,7 +35,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Arv. H. Magnusson",
@@ -55,7 +56,8 @@
                 "Antal industriarb.": 15
             },
             "annual_turnover": 90000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 15
         },
         "foundation_year": 1921,
         "current_name_year": "N/A",
@@ -71,7 +73,7 @@
             "Latitude": 59.0579376,
             "Longitude": 16.5879122
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "AB. Carl M. Magnussons Choklad-& Konfektfabrik",
@@ -98,7 +100,8 @@
             "capital": 200000,
             "employees": "N/A",
             "annual_turnover": 1000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1911,
         "current_name_year": 1927,
@@ -115,7 +118,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Fr. Magnussons Möbelfabrik AB.",
@@ -141,7 +144,8 @@
             "capital": 432000,
             "employees": "N/A",
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1900,
         "current_name_year": 1934,
@@ -157,7 +161,7 @@
             "Latitude": 57.1090239,
             "Longitude": 14.1693695
         },
-        "cluster": 7
+        "cluster": 2
     },
     "5": {
         "name": "AB. Major Nas Ångbageri",
@@ -183,7 +187,8 @@
             "capital": 501500,
             "employees": "N/A",
             "annual_turnover": 5000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1883,
         "current_name_year": 1906,
@@ -199,7 +204,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Makadam- & Murbruksfabriken Svanevik",
@@ -227,7 +232,8 @@
                 "Antal industriarb.": 18
             },
             "annual_turnover": 225000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 18
         },
         "foundation_year": 1920,
         "current_name_year": "N/A",
@@ -243,7 +249,7 @@
             "Latitude": 56.000903,
             "Longitude": 14.1500174
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "Makaronibolaget, Svenska Maka-ronifabrikers Försäljnings AB.",
@@ -269,7 +275,8 @@
             "capital": 30000,
             "employees": "N/A",
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "current_name_year": "N/A",
@@ -285,7 +292,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 18
     },
     "8": {
         "name": "AB. Elof Malmberg",
@@ -308,7 +315,8 @@
             "capital": 120000,
             "employees": "N/A",
             "annual_turnover": 1200000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1905,
         "current_name_year": 1913,

@@ -18,7 +18,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 60
         },
         "foundation_year": 1933,
         "corporation_year": 1946,
@@ -37,7 +38,7 @@
             "Latitude": 56.78451219999999,
             "Longitude": 15.1448475
         },
-        "cluster": 2
+        "cluster": 0
     },
     "2": {
         "name": "Strömma Bomulls Spinneri AB.",
@@ -67,7 +68,8 @@
             "employees": {
                 "industriarb": 300
             },
-            "annual_turnover": 6000000
+            "annual_turnover": 6000000,
+            "employees_total": 300
         },
         "foundation_year": 1831,
         "corporation_year": 1867,
@@ -94,7 +96,7 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "AB. Strömma Trikåfabrik",
@@ -111,7 +113,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 425000
+            "annual_turnover": 425000,
+            "employees_total": 40
         },
         "foundation_year": 1911,
         "board": [
@@ -133,7 +136,7 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "AB. Strömman & Larsson",
@@ -150,7 +153,8 @@
             "capital": 600000,
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "corporation_year": 1873,
         "board": [
@@ -172,7 +176,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Strömnäs AB.",
@@ -187,7 +191,8 @@
         },
         "financials": {
             "capital": 2100000,
-            "annual_production_value": "18,000 stds sågade o. hyvlade trävaror"
+            "annual_production_value": "18,000 stds sågade o. hyvlade trävaror",
+            "employees_total": 0
         },
         "foundation_year": 1877,
         "board": [
@@ -217,7 +222,7 @@
             "Latitude": 62.9284332,
             "Longitude": 17.7862947
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Strömsfors Bruk",
@@ -232,7 +237,8 @@
             "postgiro": "76255"
         },
         "financials": {
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 0
         },
         "employees": 60,
         "board": [
@@ -246,6 +252,6 @@
             "Latitude": 58.6881774,
             "Longitude": 16.3416045
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

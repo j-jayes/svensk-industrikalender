@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_turnover": 1700000
+            "annual_turnover": 1700000,
+            "employees_total": 150
         },
         "foundation_year": 1925,
         "board": [
@@ -50,7 +51,7 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "J. C. E. Cernandt",
@@ -68,7 +69,8 @@
         "financials": {
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1876,
         "owners": [
@@ -88,7 +90,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "Getinge Mek. Verkstads AB.",
@@ -108,7 +110,8 @@
             "employees": {
                 "industriarb": 110
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 110
         },
         "foundation_year": 1888,
         "corporation_year": 1904,
@@ -142,7 +145,7 @@
             "Latitude": 56.8200215,
             "Longitude": 12.7351981
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Getinge Sågverk, Einar Nilsson",
@@ -159,7 +162,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 20
         },
         "foundation_year": 1940,
         "owners": [
@@ -179,7 +183,7 @@
             "Latitude": 56.8200215,
             "Longitude": 12.7351981
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Getinge Tegelbruk",
@@ -196,13 +200,14 @@
         "financials": {
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "coordinates": {
             "Latitude": 56.8200215,
             "Longitude": 12.7351981
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Geveko",
@@ -218,7 +223,8 @@
             "telegraph": "Geveko, Göteborg"
         },
         "financials": {
-            "capital": 1000000
+            "capital": 1000000,
+            "employees_total": 0
         },
         "corporation_year": 1926,
         "board": [
@@ -239,6 +245,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 18
     }
 }

@@ -14,7 +14,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 1200000
+            "annual_turnover": 1200000,
+            "employees_total": 20
         },
         "foundation_year": 1910,
         "corporation_year": 1936,
@@ -44,7 +45,7 @@
             "Latitude": 57.6348,
             "Longitude": 18.29484
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "Nya AB. Östanåsågen",
@@ -60,14 +61,15 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": "1,600 stds trävaror, 800 läster träkol"
+            "annual_production_value": "1,600 stds trävaror, 800 läster träkol",
+            "employees_total": 35
         },
         "foundation_year": 1923,
         "coordinates": {
             "Latitude": 61.36662239999999,
             "Longitude": 15.8965623
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Nybble Klädesfabrik",
@@ -83,7 +85,8 @@
         "financials": {
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "original_name": "fabr. Arvid Månssons sterbhus",
         "manager": "fabr, Bertil Monson",
@@ -91,7 +94,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Nybergs Cruv AB.",
@@ -115,7 +118,8 @@
             "employees": {
                 "industriarb": 75
             },
-            "annual_production_value": "2,500 ton papper o. 100 ton papp m. m., 2,000 ton våt vit eller brun slipmassa"
+            "annual_production_value": "2,500 ton papper o. 100 ton papp m. m., 2,000 ton våt vit eller brun slipmassa",
+            "employees_total": 75
         },
         "foundation_year": 1901,
         "board": [
@@ -136,7 +140,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "Nyboholms Mek. Yerkstad",
@@ -150,14 +154,15 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 125000
+            "annual_production_value": 125000,
+            "employees_total": 10
         },
         "foundation_year": 1938,
         "coordinates": {
             "Latitude": 58.3860128,
             "Longitude": 13.4393282
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "AB. Nyborgs Yllefabrik",
@@ -172,7 +177,8 @@
             "employees": {
                 "industriarb": 330
             },
-            "annual_turnover": 8800000
+            "annual_turnover": 8800000,
+            "employees_total": 330
         },
         "foundation_year": 1905,
         "board": [
@@ -195,7 +201,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "Nybro Möbeibolag, Jonsson & Son",
@@ -212,7 +218,8 @@
             "employees": {
                 "industriarb": 48
             },
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 48
         },
         "original_name": "Eric Jonsson, Persmåla",
         "manager": "fabr. Lennart Jonsson",
@@ -220,6 +227,6 @@
             "Latitude": 56.745012,
             "Longitude": 15.907874
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

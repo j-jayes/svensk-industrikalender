@@ -20,7 +20,8 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 80
         },
         "foundation_year": 1941,
         "board": [
@@ -41,7 +42,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. Sveriges Litografiska Tryckerier (»S. L. T.»)",
@@ -61,7 +62,8 @@
             "employees": {
                 "total": 7368
             },
-            "foundation_year": 1913
+            "foundation_year": 1913,
+            "employees_total": 7368
         },
         "board": [
             {
@@ -99,7 +101,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "AB. Sverre",
@@ -112,13 +114,14 @@
             "phone": "174138"
         },
         "financials": {
-            "capital": 100000
+            "capital": 100000,
+            "employees_total": 0
         },
         "manager": "Arne Krall",
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

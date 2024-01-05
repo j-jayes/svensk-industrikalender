@@ -20,7 +20,8 @@
                 "Arb.-antal": 6
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 6
         },
         "foundation_year": 1934,
         "current_name_year": 1942,
@@ -37,7 +38,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Margretelunds Cruv AB.",
@@ -60,7 +61,8 @@
                 "Antal industriarb.": 25
             },
             "annual_turnover": 275000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 25
         },
         "foundation_year": 1915,
         "current_name_year": "",
@@ -90,7 +92,7 @@
             "Latitude": 59.4802773,
             "Longitude": 18.310783
         },
-        "cluster": 6
+        "cluster": 2
     },
     "3": {
         "name": "Marianneiunds Gjuteri & Mek. Verkstad",
@@ -113,7 +115,8 @@
                 "Antal industriarb.": 10
             },
             "annual_turnover": 100000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 10
         },
         "foundation_year": 1880,
         "current_name_year": "",
@@ -132,7 +135,7 @@
             "Latitude": 57.6165963,
             "Longitude": 15.5735249
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Mariedahls Bruk",
@@ -155,7 +158,8 @@
                 "Antal industriarb.": 10
             },
             "annual_turnover": "",
-            "annual_production_value": "300 ton papp"
+            "annual_production_value": "300 ton papp",
+            "employees_total": 10
         },
         "foundation_year": 1815,
         "current_name_year": 1942,
@@ -185,7 +189,7 @@
             "Latitude": 58.14236329999999,
             "Longitude": 16.2092808
         },
-        "cluster": 3
+        "cluster": 17
     },
     "5": {
         "name": "Mariedals Tegel AB.",
@@ -208,7 +212,8 @@
                 "Antal industriarb.": 15
             },
             "annual_turnover": "",
-            "annual_production_value": "2,5 milj. st. tegelvaror"
+            "annual_production_value": "2,5 milj. st. tegelvaror",
+            "employees_total": 15
         },
         "foundation_year": 1900,
         "current_name_year": "",
@@ -225,7 +230,7 @@
             "Latitude": 58.470909,
             "Longitude": 13.4479769
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Mariefors Bruks AB.",
@@ -248,7 +253,8 @@
                 "Antal industriarb.": 18
             },
             "annual_turnover": "",
-            "annual_production_value": 175000
+            "annual_production_value": 175000,
+            "employees_total": 18
         },
         "foundation_year": "",
         "current_name_year": 1942,
@@ -265,7 +271,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 18
     },
     "7": {
         "name": "Mariehoims Bruk Järnverks AB.",
@@ -289,7 +295,8 @@
                 "Antal industriarb.": 40
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 40
         },
         "foundation_year": 1836,
         "current_name_year": 1942,
@@ -306,7 +313,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "Marieholms Nya Industri AB.",
@@ -325,7 +332,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": "",
         "current_name_year": "",
@@ -342,6 +350,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

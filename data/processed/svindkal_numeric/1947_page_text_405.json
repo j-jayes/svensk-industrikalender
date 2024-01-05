@@ -22,7 +22,8 @@
                 "industriarb": 8
             },
             "annual_turnover": 350000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 8
         },
         "foundation_year": 1930,
         "current_name_year": null,
@@ -42,7 +43,7 @@
             "Latitude": 57.83643499999999,
             "Longitude": 14.272564
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Ö. J. Johnsson",
@@ -67,7 +68,8 @@
                 "industriarb": 12
             },
             "annual_turnover": 205000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 12
         },
         "foundation_year": 1909,
         "current_name_year": null,
@@ -111,7 +113,8 @@
                 "industriarb": 75
             },
             "annual_turnover": null,
-            "annual_production_value": "4 milj. st. taktegel, 0,5 milj. st. rör"
+            "annual_production_value": "4 milj. st. taktegel, 0,5 milj. st. rör",
+            "employees_total": 75
         },
         "foundation_year": 1926,
         "current_name_year": null,
@@ -137,7 +140,7 @@
             "Latitude": 59.9208594,
             "Longitude": 16.606328
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Josefssons Trikåfabrik, Bröderna",
@@ -158,7 +161,8 @@
             "capital": null,
             "employees": null,
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 0
         },
         "foundation_year": null,
         "current_name_year": null,
@@ -175,7 +179,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "AB. Erik Josefson & Co.",
@@ -201,7 +205,8 @@
                 "hemarbetare": 100
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 130
         },
         "foundation_year": 1920,
         "current_name_year": 1938,
@@ -227,7 +232,7 @@
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Karl Josefssons Trikåfabrik",
@@ -252,7 +257,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 190000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 25
         },
         "foundation_year": 1919,
         "current_name_year": null,
@@ -271,7 +277,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Alfr. Jubel & Co. AB.",
@@ -298,7 +304,8 @@
                 "industriarb": 40
             },
             "annual_turnover": null,
-            "annual_production_value": 750000
+            "annual_production_value": 750000,
+            "employees_total": 40
         },
         "foundation_year": 1912,
         "current_name_year": null,
@@ -315,7 +322,7 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "AB. Juneverken",
@@ -338,7 +345,8 @@
             "capital": 200000,
             "employees": null,
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 0
         },
         "foundation_year": 1917,
         "current_name_year": 1929,
@@ -364,7 +372,7 @@
             "Latitude": 57.8574137,
             "Longitude": 14.1312259
         },
-        "cluster": 6
+        "cluster": 7
     },
     "9": {
         "name": "Junex Konfektlons AB.",
@@ -387,7 +395,8 @@
                 "industriarb": 500
             },
             "annual_turnover": 12000000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 500
         },
         "foundation_year": 1927,
         "current_name_year": null,
@@ -404,6 +413,6 @@
             "Latitude": 57.7904141,
             "Longitude": 14.2755781
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

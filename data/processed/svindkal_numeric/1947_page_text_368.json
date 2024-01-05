@@ -16,7 +16,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1899,
         "corporation_year": 1902,
@@ -40,7 +41,7 @@
             "Latitude": 55.9993601,
             "Longitude": 12.7401366
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "J. A. Holms AB.",
@@ -58,7 +59,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 450000
+            "annual_turnover": 450000,
+            "employees_total": 35
         },
         "foundation_year": 1926,
         "current_name_year": 1942,
@@ -72,7 +74,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 1
+        "cluster": 5
     },
     "3": {
         "name": "Karl Holm Möbelfabrik AB.",
@@ -92,7 +94,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 70
         },
         "foundation_year": 1918,
         "corporation_year": 1945,
@@ -115,7 +118,7 @@
             "Latitude": 57.3199949,
             "Longitude": 15.5812344
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "AB. Tore Holms Yachtvarv",
@@ -134,7 +137,8 @@
             "employees": {
                 "industriarb": 27
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 27
         },
         "foundation_year": 1905,
         "corporation_year": 1936,
@@ -157,7 +161,7 @@
             "Latitude": 57.89316029999999,
             "Longitude": 16.4060887
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Holmsunds AB.",
@@ -178,7 +182,8 @@
             "employees": {
                 "industriarb": 1100
             },
-            "annual_turnover": "16,000 stds sågade trävaror, varav 3,000 stds hyvlade, 30,000 ton sulfatcellulosa"
+            "annual_turnover": "16,000 stds sågade trävaror, varav 3,000 stds hyvlade, 30,000 ton sulfatcellulosa",
+            "employees_total": 1100
         },
         "corporation_year": 1896,
         "board": [
@@ -204,7 +209,7 @@
             "Latitude": 63.70738919999999,
             "Longitude": 20.3639178
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Hols’ Skinnindustri AB.",
@@ -221,7 +226,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 27
-            }
+            },
+            "employees_total": 27
         },
         "foundation_year": 1941,
         "board": [
@@ -253,7 +259,8 @@
             "capital": 80000,
             "employees": {
                 "industriarb": 75
-            }
+            },
+            "employees_total": 75
         },
         "foundation_year": 1939,
         "board": [
@@ -266,6 +273,6 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

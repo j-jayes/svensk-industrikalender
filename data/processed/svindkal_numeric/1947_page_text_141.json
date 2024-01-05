@@ -19,7 +19,8 @@
                 "färgeriet": 7
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 32
         },
         "foundation_year": 1925,
         "predecessor": "Th. Abrahamson",
@@ -28,7 +29,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Abrahamssons Möbelfabrik AB.",
@@ -48,7 +49,8 @@
                 "total": 60
             },
             "annual_turnover": 1100000,
-            "annual_production_value": 1100000
+            "annual_production_value": 1100000,
+            "employees_total": 60
         },
         "foundation_year": 1935,
         "current_name_year": 1945,
@@ -79,7 +81,7 @@
             "Latitude": 57.68333329999999,
             "Longitude": 14.0833333
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Abrahamssons Snickerifabrik",
@@ -97,7 +99,8 @@
             "employees": {
                 "total": 25
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 25
         },
         "foundation_year": 1926,
         "owners": [
@@ -109,7 +112,7 @@
             "Latitude": 57.68333329999999,
             "Longitude": 14.0833333
         },
-        "cluster": 0
+        "cluster": 15
     },
     "4": {
         "name": "Ackumulator-Fabriks AB. Tudor",
@@ -117,13 +120,15 @@
         "business": "",
         "products": "",
         "contact": {},
-        "financials": {},
+        "financials": {
+            "employees_total": 0
+        },
         "reference": "AB. Tudor, Stockholm",
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 4
     },
     "5": {
         "name": "Ackumulatorfabriken, Nordiska",
@@ -131,13 +136,15 @@
         "business": "",
         "products": "",
         "contact": {},
-        "financials": {},
+        "financials": {
+            "employees_total": 0
+        },
         "reference": "G. C. Faxe AB., Malmö",
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 4
     },
     "6": {
         "name": "Ackumulator AB. Jungner",
@@ -145,13 +152,15 @@
         "business": "",
         "products": "",
         "contact": {},
-        "financials": {},
+        "financials": {
+            "employees_total": 0
+        },
         "reference": "Svenska Ackumulator AB. Jungner, Stockholm",
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 4
     },
     "7": {
         "name": "E. A. Adamsons Snickerifabrik",
@@ -166,7 +175,8 @@
             "employees": {
                 "total": 18
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 18
         },
         "foundation_year": 1917,
         "current_name_year": 1945,
@@ -176,7 +186,7 @@
             "Latitude": 59.9208594,
             "Longitude": 16.606328
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "AB. Addo",
@@ -213,7 +223,8 @@
             "capital": 600000,
             "employees": {
                 "total": 400
-            }
+            },
+            "employees_total": 400
         },
         "foundation_year": 1918,
         "board": [
@@ -237,7 +248,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "9": {
         "name": "Adebolaget, Ad. Larsson & Co. AB.",
@@ -251,7 +262,8 @@
         },
         "financials": {
             "capital": 300000,
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 0
         },
         "foundation_year": 1910,
         "corporation_year": 1936,
@@ -274,6 +286,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

@@ -21,7 +21,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. Gävle Åkerredskap",
@@ -31,7 +31,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Gefle Angväfveri AB.",
@@ -53,7 +53,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Gefleborgs Tryckeri AB.",
@@ -76,7 +76,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "Göstad Tegelbruk",
@@ -100,7 +100,7 @@
             "Latitude": 58.583333,
             "Longitude": 15.883333
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Göta Förnicklingsfabrik",
@@ -127,7 +127,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. Götamotorer",
@@ -162,6 +162,6 @@
             "Latitude": 56.3815355,
             "Longitude": 13.9929413
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

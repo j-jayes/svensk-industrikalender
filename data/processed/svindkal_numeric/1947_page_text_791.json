@@ -21,7 +21,8 @@
         },
         "financials": {
             "capital": 1400000,
-            "foundation_year": 1937
+            "foundation_year": 1937,
+            "employees_total": 0
         },
         "board": [
             {
@@ -42,7 +43,7 @@
             "Latitude": 59.989144,
             "Longitude": 15.8166418
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Österlind & Son",
@@ -62,7 +63,8 @@
             ]
         },
         "financials": {
-            "foundation_year": 1912
+            "foundation_year": 1912,
+            "employees_total": 0
         },
         "owners": [
             "disp. R. österlind"
@@ -71,7 +73,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 1
+        "cluster": 12
     },
     "3": {
         "name": "AB. Alfred Österlunds Fabriker",
@@ -90,7 +92,8 @@
             },
             "annual_turnover": 230000,
             "foundation_year": 1902,
-            "corporation_year": 1917
+            "corporation_year": 1917,
+            "employees_total": 40
         },
         "board": [
             {
@@ -107,7 +110,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 17
     },
     "4": {
         "name": "AB. Östersunds Ångbryggeri",
@@ -123,7 +126,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 2400000
+            "annual_turnover": 2400000,
+            "employees_total": 50
         },
         "owners": [
             "AB. Förenade Piano- & Orgelfabriker",
@@ -134,7 +138,7 @@
             "Latitude": 63.1766832,
             "Longitude": 14.6360681
         },
-        "cluster": 2
+        "cluster": 16
     },
     "5": {
         "name": "östertälje Snickeri- & Trävaru AB.",
@@ -153,7 +157,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "corporation_year": 1930
+            "corporation_year": 1930,
+            "employees_total": 20
         },
         "manager": "Elof Bohestedt",
         "sales_manager": "Vidar Sahlin",
@@ -161,7 +166,7 @@
             "Latitude": 59.18372,
             "Longitude": 17.6700865
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Östgöta Mattfabriks AB.",
@@ -177,7 +182,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 25
         },
         "owners": [
             "Engel-koncernen",
@@ -202,7 +208,8 @@
         "financials": {
             "capital": 425000,
             "foundation_year": 1888,
-            "corporation_year": 1906
+            "corporation_year": 1906,
+            "employees_total": 0
         },
         "board": [
             {
@@ -223,7 +230,7 @@
             "Latitude": 59.6548534,
             "Longitude": 12.592136
         },
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "AB. P. E. Östlunds Maskinfabrik",
@@ -240,12 +247,13 @@
             "employees": {
                 "industriarb": 110
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 110
         },
         "coordinates": {
             "Latitude": 59.422397,
             "Longitude": 16.097786
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

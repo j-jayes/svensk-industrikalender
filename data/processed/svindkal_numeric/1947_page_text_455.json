@@ -17,7 +17,8 @@
                 "industriarb": 60
             },
             "annual_turnover": "Ej tillgängligt",
-            "annual_production_value": "2,500 ton papp o. kartong"
+            "annual_production_value": "2,500 ton papp o. kartong",
+            "employees_total": 60
         },
         "foundation_year": 1650,
         "original_name": "Lagerfors Bruk",
@@ -30,7 +31,7 @@
             "Latitude": 58.55971609999999,
             "Longitude": 14.1463171
         },
-        "cluster": 7
+        "cluster": 17
     },
     "2": {
         "name": "AB. P. H. Lagergren",
@@ -49,7 +50,8 @@
                 "industriarb.": 50
             },
             "annual_turnover": 400000,
-            "annual_production_value": "Ej tillgängligt"
+            "annual_production_value": "Ej tillgängligt",
+            "employees_total": 50
         },
         "foundation_year": 1911,
         "original_name": "AB. P. H. Lagergren",
@@ -60,7 +62,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "AB. Lagerholms Färgfabrik",
@@ -88,7 +90,8 @@
                 "industriarb.": 30
             },
             "annual_turnover": "Ej tillgängligt",
-            "annual_production_value": "Ej tillgängligt"
+            "annual_production_value": "Ej tillgängligt",
+            "employees_total": 30
         },
         "foundation_year": 1891,
         "board": [
@@ -112,7 +115,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "AB. Lagerwalls Metallaffär AB.",
@@ -130,7 +133,8 @@
                 "industriarb.": 20
             },
             "annual_turnover": "Ej tillgängligt",
-            "annual_production_value": "Ej tillgängligt"
+            "annual_production_value": "Ej tillgängligt",
+            "employees_total": 20
         },
         "foundation_year": 1889,
         "board": [
@@ -152,7 +156,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Laholms Tegelbruks AB.",
@@ -167,7 +171,8 @@
                 "industriarb.": 20
             },
             "annual_turnover": "Ej tillgängligt",
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 20
         },
         "foundation_year": 1909,
         "board": [
@@ -189,7 +194,7 @@
             "Latitude": 56.50575569999999,
             "Longitude": 13.0456048
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "O. H. Lammert AB.",
@@ -216,13 +221,14 @@
                 "industriarb.": 20
             },
             "annual_turnover": "Ej tillgängligt",
-            "annual_production_value": 325000
+            "annual_production_value": 325000,
+            "employees_total": 20
         },
         "foundation_year": 1942,
         "coordinates": {
             "Latitude": 57.65,
             "Longitude": 12.016667
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

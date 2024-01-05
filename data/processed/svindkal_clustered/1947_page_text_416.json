@@ -49,7 +49,7 @@
             "Latitude": 56.161224,
             "Longitude": 15.5869
         },
-        "cluster": 1
+        "cluster": 16
     },
     "2": {
         "name": "Karlskrona Hattfabriks AB.",
@@ -111,7 +111,7 @@
             "Latitude": 56.161224,
             "Longitude": 15.5869
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "AB. Karlskrona Lampfabrik",
@@ -121,7 +121,7 @@
             "Latitude": 56.161224,
             "Longitude": 15.5869
         },
-        "cluster": 1
+        "cluster": 0
     },
     "5": {
         "name": "AB. Karlskrona Porslinsfabrik",
@@ -131,7 +131,7 @@
             "Latitude": 56.161224,
             "Longitude": 15.5869
         },
-        "cluster": 8
+        "cluster": 0
     },
     "6": {
         "name": "AB. Karlslunda Pappersindustri",
@@ -141,7 +141,7 @@
             "Latitude": 56.6735415,
             "Longitude": 16.2434168
         },
-        "cluster": 5
+        "cluster": 17
     },
     "7": {
         "name": "Karlson & Lundh",
@@ -151,7 +151,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "AB. Karlsson & Nilsson",
@@ -161,7 +161,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "9": {
         "name": "Karlson & Starck",
@@ -200,6 +200,6 @@
             "Latitude": 58.27557299999999,
             "Longitude": 11.435558
         },
-        "cluster": 2
+        "cluster": 16
     }
 }

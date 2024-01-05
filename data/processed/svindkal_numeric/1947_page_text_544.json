@@ -24,7 +24,8 @@
                 "industriarb": 30
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": "Information saknas"
+            "annual_production_value": "Information saknas",
+            "employees_total": 30
         },
         "foundation_year": 1896,
         "board": [
@@ -54,7 +55,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 1
+        "cluster": 13
     },
     "2": {
         "name": "Norrköpings Möbelsnickeri",
@@ -74,7 +75,8 @@
                 "arb": 10
             },
             "annual_turnover": 80000,
-            "annual_production_value": "Information saknas"
+            "annual_production_value": "Information saknas",
+            "employees_total": 10
         },
         "foundation_year": 1922,
         "owners": [
@@ -88,7 +90,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Norrköpings Paraplyfabrik",
@@ -121,7 +123,8 @@
                 "industriarb": 14
             },
             "annual_turnover": 70000,
-            "annual_production_value": "Information saknas"
+            "annual_production_value": "Information saknas",
+            "employees_total": 14
         },
         "foundation_year": 1934,
         "owners": [],
@@ -152,7 +155,8 @@
                 "arb": 10
             },
             "annual_turnover": 100000,
-            "annual_production_value": "Information saknas"
+            "annual_production_value": "Information saknas",
+            "employees_total": 10
         },
         "foundation_year": 1929,
         "owners": [
@@ -166,7 +170,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Norrköpings Sodafabriks AB",
@@ -186,7 +190,8 @@
                 "industriarb": 32
             },
             "annual_turnover": 330000,
-            "annual_production_value": "Information saknas"
+            "annual_production_value": "Information saknas",
+            "employees_total": 32
         },
         "foundation_year": 1892,
         "board": [
@@ -212,7 +217,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "Norrköpings Strumpfabrik, Stig Olsson, Kommanditbolag",
@@ -229,7 +234,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 50
         },
         "foundation_year": 1936,
         "owners": [
@@ -243,7 +249,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "Norrköpings Strå- & Filthattfabrik",
@@ -276,7 +282,8 @@
             "employees": {
                 "industriarb": 200
             },
-            "annual_turnover": 1800000
+            "annual_turnover": 1800000,
+            "employees_total": 200
         },
         "foundation_year": 1889,
         "board": [
@@ -302,7 +309,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "Norrköpings Tapetfabrik",
@@ -322,7 +329,8 @@
             "employees": {
                 "arb": 60
             },
-            "annual_turnover": 1800000
+            "annual_turnover": 1800000,
+            "employees_total": 60
         },
         "foundation_year": 1880,
         "owners": [
@@ -336,6 +344,6 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

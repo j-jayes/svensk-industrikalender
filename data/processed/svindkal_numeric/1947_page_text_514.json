@@ -17,14 +17,15 @@
                 "industriarb": 20
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": "Information saknas"
+            "annual_production_value": "Information saknas",
+            "employees_total": 20
         },
         "foundation_year": 1941,
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "MJ-hattar AB.",
@@ -43,7 +44,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": "Information saknas"
+            "annual_production_value": "Information saknas",
+            "employees_total": 20
         },
         "foundation_year": 1934,
         "corporation_year": 1942,
@@ -67,7 +69,8 @@
                 "industriarb": 28
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 28
         },
         "foundation_year": 1933,
         "corporation_year": 1943,
@@ -75,7 +78,7 @@
             "Latitude": 57.3134435,
             "Longitude": 12.876799
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Mjölby Bryggeri",
@@ -106,7 +109,8 @@
                 "industriarb": 25
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1896,
         "corporation_year": 1918,
@@ -114,7 +118,7 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Mjölby Golvindustri",
@@ -134,14 +138,15 @@
                 "industriarb": 27
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": 1300000
+            "annual_production_value": 1300000,
+            "employees_total": 27
         },
         "foundation_year": 1944,
         "coordinates": {
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Mjölby intarsia",
@@ -158,7 +163,8 @@
                 "industriarb": 60
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": 650000
+            "annual_production_value": 650000,
+            "employees_total": 60
         },
         "foundation_year": 1909,
         "corporation_year": 1937,
@@ -166,7 +172,7 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "AB. Mjölby Karamellfabrik",
@@ -183,7 +189,8 @@
                 "industriarb": 35
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": 750000
+            "annual_production_value": 750000,
+            "employees_total": 35
         },
         "foundation_year": 1921,
         "corporation_year": 1944,
@@ -191,7 +198,7 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 2
+        "cluster": 13
     },
     "9": {
         "name": "AB. Mjölby Mössfabrik",
@@ -208,7 +215,8 @@
                 "industriarb": 50
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 50
         },
         "foundation_year": 1934,
         "coordinates": {

@@ -46,7 +46,7 @@
             "Latitude": 60.1309558,
             "Longitude": 16.2159445
         },
-        "cluster": 6
+        "cluster": 2
     },
     "2": {
         "name": "Låsfabriks AB.",
@@ -115,7 +115,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Låsindustri",
@@ -160,7 +160,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "AB. Läderfabriken Welting",
@@ -278,7 +278,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 11
     },
     "6": {
         "name": "Lämneå Bruk, T. Zander",
@@ -322,7 +322,7 @@
             "Latitude": 58.79550800000001,
             "Longitude": 15.462413
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Länna Bruks AB.",
@@ -362,6 +362,6 @@
             "Latitude": 59.87307999999999,
             "Longitude": 17.9591945
         },
-        "cluster": 1
+        "cluster": 11
     }
 }

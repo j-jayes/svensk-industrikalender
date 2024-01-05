@@ -16,7 +16,8 @@
                 "total": 15
             },
             "annual_turnover": 150000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 15
         },
         "foundation_year": 1926,
         "owners": [
@@ -27,7 +28,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Cillbergs Etui- & Portföljfabrik",
@@ -46,7 +47,8 @@
                 "total": 11
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 11
         },
         "foundation_year": 1886,
         "owners": [
@@ -56,7 +58,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "AB. Ciltströms Mek. Verkstad",
@@ -75,7 +77,8 @@
                 "total": 20
             },
             "annual_turnover": 350000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 20
         },
         "foundation_year": 1910,
         "corporation_year": 1940,
@@ -84,7 +87,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Gimo AB.",
@@ -107,7 +110,8 @@
                 "total": 65
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 65
         },
         "foundation_year": 1893,
         "board": [
@@ -145,7 +149,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Gimo Trikåindustri",
@@ -161,7 +165,8 @@
                 "total": 25
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 25
         },
         "foundation_year": 1934,
         "manager": "Tage Johansson",
@@ -169,7 +174,7 @@
             "Latitude": 60.1716941,
             "Longitude": 18.185871
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Gislaveds Mek. Verkstad",
@@ -184,7 +189,8 @@
                 "total": 15
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 15
         },
         "foundation_year": 1885,
         "owner": "fabr. Gunnar Malkner",
@@ -192,7 +198,7 @@
             "Latitude": 57.2985,
             "Longitude": 13.54326
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Gislaveds Tråddrager i",
@@ -211,7 +217,8 @@
                 "total": 50
             },
             "annual_turnover": 1200000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 50
         },
         "foundation_year": 1907,
         "owner": "fabr. Gunnar Malkner",
@@ -219,7 +226,7 @@
             "Latitude": 57.2985,
             "Longitude": 13.54326
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "Gjuteribolaget Berggren &amp; Olsson",
@@ -235,7 +242,8 @@
                 "total": 8
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 8
         },
         "foundation_year": 1946,
         "director": "gjutm. Carl Berggren",
@@ -243,7 +251,7 @@
             "Latitude": 56.90273329999999,
             "Longitude": 12.4888013
         },
-        "cluster": 6
+        "cluster": 12
     },
     "9": {
         "name": "Gjuter! AB. Fundator",
@@ -258,6 +266,6 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

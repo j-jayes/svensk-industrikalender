@@ -17,7 +17,8 @@
                 "industriarb": 28
             },
             "foundation_year": 1911,
-            "current_name_year": 1943
+            "current_name_year": 1943,
+            "employees_total": 28
         },
         "board": [
             {
@@ -37,7 +38,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Götatryckeriet",
@@ -56,7 +57,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "foundation_year": 1889
+            "foundation_year": 1889,
+            "employees_total": 25
         },
         "board": [
             {
@@ -81,7 +83,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "AB. Götaverken",
@@ -98,7 +100,8 @@
             "employees": {
                 "industriarb": 5,
                 "firman etabl": 1841
-            }
+            },
+            "employees_total": 1846
         },
         "board": [
             {
@@ -132,7 +135,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Göteborgs Bult- & Nagel fabrik",
@@ -150,7 +153,8 @@
             "employees": {
                 "industriarb": 165
             },
-            "foundation_year": 1898
+            "foundation_year": 1898,
+            "employees_total": 165
         },
         "board": [
             {
@@ -170,7 +174,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Göteborgs Chokolad- & Konfektfabrik",
@@ -192,12 +196,13 @@
                 "industriarb": 78
             },
             "foundation_year": 1905,
-            "corporation_year": 1918
+            "corporation_year": 1918,
+            "employees_total": 78
         },
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

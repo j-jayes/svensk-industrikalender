@@ -16,14 +16,15 @@
             "capital": 50000,
             "employees": 12,
             "foundation_year": 1926,
-            "current_name_year": 1933
+            "current_name_year": 1933,
+            "employees_total": 0
         },
         "director": "Sv. E. Hemberg",
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Kullsbergs Kalkförädlings AB.",
@@ -37,14 +38,15 @@
             "capital": 25000,
             "employees": 120,
             "annual_production_value": "30,000 ton bränd kalk",
-            "foundation_year": 1898
+            "foundation_year": 1898,
+            "employees_total": 0
         },
         "managing_director": "Waldemar Bergman",
         "coordinates": {
             "Latitude": 60.889025,
             "Longitude": 15.123373
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "AB. K. S.-Fabriken",
@@ -59,7 +61,8 @@
             "capital": 150000,
             "employees": 45,
             "annual_production_value": 300000,
-            "foundation_year": 1928
+            "foundation_year": 1928,
+            "employees_total": 0
         },
         "board": [
             {
@@ -100,7 +103,8 @@
         },
         "financials": {
             "capital": 400000,
-            "annual_turnover": 2200000
+            "annual_turnover": 2200000,
+            "employees_total": 0
         },
         "board": [
             {
@@ -117,7 +121,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 5
     },
     "6": {
         "name": "Kungsfors Spinneri",
@@ -144,13 +148,14 @@
         "financials": {
             "capital": 1500000,
             "employees": 150,
-            "foundation_year": 1886
+            "foundation_year": 1886,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "AB. Krönleins Bryggeri",

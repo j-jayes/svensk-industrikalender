@@ -9,7 +9,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 35
         },
         "foundation_year": 1928,
         "corporation_year": 1943,
@@ -27,7 +28,7 @@
             "Latitude": 59.0665316,
             "Longitude": 15.10229
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "AB. C. Ekström & Compss Pianofabrik",
@@ -37,7 +38,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1836,
         "corporation_year": 1907,
@@ -55,7 +57,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Ekströms Kem. Tekn. AB.",
@@ -65,7 +67,8 @@
             "capital": 66600,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1855,
         "corporation_year": 1930,
@@ -87,7 +90,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "K. A. Ekström & Son",
@@ -97,7 +100,8 @@
             "employees": {
                 "industriarb": 47
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 47
         },
         "foundation_year": 1896,
         "owner": "fabr. K. Gunnar Ekström",
@@ -105,7 +109,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Eländers Boktryckeri AB.",
@@ -116,7 +120,8 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 80
         },
         "foundation_year": 1908,
         "board": [
@@ -137,14 +142,15 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "AB. Electro-lnvest",
         "location": "Stockholm",
         "business": "Bolaget medverkar vid grundläggning eller utvidgning samt administrering av företag för alstring eller användning av elektrisk energi",
         "financials": {
-            "capital": 12000000
+            "capital": 12000000,
+            "employees_total": 0
         },
         "foundation_year": 1929,
         "board": [
@@ -181,14 +187,15 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "AB. Elektrisk Malmletning",
         "location": "Stockholm",
         "business": "Utför geologiska och geofysiska berggrundsundersökningar för efterletning av malmfyndigheter, salt- och oljefyndighe-ter m. m. Tillverkar apparater för jord-magnetiska och geoelektriska undersökningar, för tyngdkraftsmätningar samt för seismiska undersökningar",
         "financials": {
-            "capital": 270000
+            "capital": 270000,
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "board": [
@@ -210,6 +217,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

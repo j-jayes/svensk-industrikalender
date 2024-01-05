@@ -17,7 +17,8 @@
             "capital": 70000,
             "employees": {
                 "industriarb": 60
-            }
+            },
+            "employees_total": 60
         },
         "foundation_year": 1933,
         "board": [
@@ -44,7 +45,7 @@
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "YSTA-maskiner, Ystads Cjuteri & Mek. Verkstads AB",
@@ -58,7 +59,8 @@
             "capital": 800000,
             "employees": {
                 "industriarb": 185
-            }
+            },
+            "employees_total": 185
         },
         "foundation_year": 1853,
         "board": [
@@ -81,7 +83,7 @@
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB YvY-Fabriken",
@@ -97,7 +99,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 850000
+            "annual_production_value": 850000,
+            "employees_total": 50
         },
         "foundation_year": 1895,
         "board": [
@@ -116,7 +119,7 @@
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Yxhults Stenhuggeri AB",
@@ -131,7 +134,8 @@
             "employees": {
                 "industriarb": 360
             },
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 360
         },
         "foundation_year": 1878,
         "board": [
@@ -154,7 +158,7 @@
             "Latitude": 59.1168073,
             "Longitude": 15.2005486
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "AB. Yxsjö Gruvor",
@@ -179,7 +183,7 @@
             "Latitude": 60.04599870000001,
             "Longitude": 14.7712281
         },
-        "cluster": 1
+        "cluster": 2
     },
     "6": {
         "name": "M. Zadig AB",
@@ -192,6 +196,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

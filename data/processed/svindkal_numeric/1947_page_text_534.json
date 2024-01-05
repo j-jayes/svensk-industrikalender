@@ -16,7 +16,8 @@
                 "industriarb": 3
             },
             "annual_turnover": "Okänt",
-            "annual_production_value": "50 000 kr"
+            "annual_production_value": "50 000 kr",
+            "employees_total": 3
         },
         "foundation_year": 1892,
         "owners": [
@@ -28,7 +29,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 1
+        "cluster": 15
     },
     "2": {
         "name": "AB. Nordgas",
@@ -56,7 +57,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_production_value": "500 000 kr"
+            "annual_production_value": "500 000 kr",
+            "employees_total": 15
         },
         "foundation_year": 1915,
         "owners": [
@@ -67,7 +69,7 @@
             "Latitude": 57.7366497,
             "Longitude": 12.1251968
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Nordisk Pälsindustri i Göteborg AB.",
@@ -85,7 +87,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": "900 000 kr"
+            "annual_production_value": "900 000 kr",
+            "employees_total": 30
         },
         "foundation_year": 1939,
         "board": [
@@ -123,7 +126,8 @@
             "employees": {
                 "industriarb": 425
             },
-            "annual_production_value": "6 000 000 kr"
+            "annual_production_value": "6 000 000 kr",
+            "employees_total": 425
         },
         "foundation_year": 1918,
         "owners": [
@@ -134,7 +138,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "AB. Nordisk Silkecellulosa",
@@ -149,7 +153,8 @@
             "employees": {
                 "industriarb": 450
             },
-            "annual_production_value": "7 000 ton viskosprodukter"
+            "annual_production_value": "7 000 ton viskosprodukter",
+            "employees_total": 450
         },
         "foundation_year": 1931,
         "board": [
@@ -167,7 +172,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 9
     },
     "7": {
         "name": "AB. Nordiska Affineriet",
@@ -185,7 +190,8 @@
             "employees": {
                 "industriarb": 14
             },
-            "annual_production_value": "2 200 000 kr"
+            "annual_production_value": "2 200 000 kr",
+            "employees_total": 14
         },
         "foundation_year": 1904,
         "corporation_year": 1932,
@@ -205,6 +211,6 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

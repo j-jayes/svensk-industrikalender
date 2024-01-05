@@ -23,7 +23,7 @@
             "Latitude": 63.69755499999999,
             "Longitude": 20.3061052
         },
-        "cluster": 1
+        "cluster": 3
     },
     "2": {
         "name": "Odatverken",
@@ -48,7 +48,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Odell & Ekberg",
@@ -76,7 +76,7 @@
             "Latitude": 59.0656696,
             "Longitude": 15.3375119
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Ohs Bruk, AB.",
@@ -115,7 +115,7 @@
             "Latitude": 57.19308849999999,
             "Longitude": 14.3319219
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Oljefabriks-AB. Merkantil",
@@ -157,7 +157,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "AB. Oljeraffinaderiet Ceres",
@@ -191,6 +191,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

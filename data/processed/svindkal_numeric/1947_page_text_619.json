@@ -32,7 +32,8 @@
                 "industriarb": 675
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 675
         },
         "foundation_year": 1889,
         "board": [
@@ -68,7 +69,7 @@
             "Latitude": 56.8025533,
             "Longitude": 12.969062
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. Skandinaviska Korsettfabriken, Oskarshamn",
@@ -94,7 +95,8 @@
                 "industriarb": 125
             },
             "annual_turnover": 1500000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 125
         },
         "foundation_year": 1923,
         "director": "Gert Sederholm",
@@ -105,7 +107,7 @@
             "Latitude": 57.26569929999999,
             "Longitude": 16.4473984
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "AB. Skandinaviska Pelsvarufabriken, ivan Levy, Stockholm",
@@ -130,7 +132,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 860000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 35
         },
         "foundation_year": 1889,
         "director": "Rolf Levy",
@@ -166,7 +169,8 @@
                 "industriarb": 75
             },
             "annual_turnover": 1500000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 75
         },
         "foundation_year": 1936,
         "director": "",
@@ -177,7 +181,7 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "AB. Skandinaviska Remfabriken, Göteborg",
@@ -203,7 +207,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 1000000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 15
         },
         "foundation_year": 1906,
         "director": "",
@@ -214,7 +219,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 18
     },
     "6": {
         "name": "Skandinaviska Skorstensbyggnads AB., Stockholm",
@@ -235,7 +240,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": null,
         "director": "",
@@ -246,6 +252,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

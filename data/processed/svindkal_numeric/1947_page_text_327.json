@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 35
         },
         "foundation_year": 1902,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 62.0402832,
             "Longitude": 17.0890465
         },
-        "cluster": 1
+        "cluster": 4
     },
     "2": {
         "name": "AB. Wilh. Grönvalls Läderfabrik",
@@ -53,7 +54,8 @@
             "capital": 3000000,
             "employees": {
                 "industriarb": 200
-            }
+            },
+            "employees_total": 200
         },
         "foundation_year": 1858,
         "current_name_year": 1911,
@@ -94,7 +96,8 @@
                 "total": 350,
                 "industriarb": 140
             },
-            "annual_turnover": 5000000
+            "annual_turnover": 5000000,
+            "employees_total": 490
         },
         "foundation_year": 1867,
         "board": [
@@ -124,7 +127,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Guldvaru AB. C. Dahlgren & Co.",
@@ -140,6 +143,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

@@ -24,7 +24,8 @@
                 "Unknown": 34
             },
             "annual_turnover": 470000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 34
         },
         "foundation_year": 1919,
         "owner_and_manager": "fabr. J. Ejnar Eriksson",
@@ -32,7 +33,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Bröderna Eriksons Metallgjuteri AB",
@@ -48,7 +49,8 @@
                 "Unknown": 15
             },
             "annual_turnover": 100000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 15
         },
         "foundation_year": 1905,
         "corporation_year": 1944,
@@ -57,7 +59,7 @@
             "Latitude": 60.484304,
             "Longitude": 15.433969
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Bröderna Falk & Co.",
@@ -78,7 +80,8 @@
                 "Unknown": 14
             },
             "annual_turnover": "Unknown",
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 14
         },
         "foundation_year": "Anlagt 1684",
         "owner_and_manager": "fabr. Pontus Falk o. fabr. Oscar Falk",
@@ -86,6 +89,6 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

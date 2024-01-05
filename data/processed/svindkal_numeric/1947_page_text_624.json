@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 55
         },
         "foundation_year": 1922,
         "coordinates": {
@@ -40,14 +41,15 @@
             "employees": {
                 "industriarb": 125
             },
-            "annual_turnover": 2100000
+            "annual_turnover": 2100000,
+            "employees_total": 125
         },
         "foundation_year": 1908,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "Skofabriken Wändia, C. Ståhlberg & Co.",
@@ -61,7 +63,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 205000
+            "annual_turnover": 205000,
+            "employees_total": 15
         },
         "foundation_year": 1934,
         "coordinates": {
@@ -83,14 +86,15 @@
             "capital": 250000,
             "employees": {
                 "industriarb": 120
-            }
+            },
+            "employees_total": 120
         },
         "foundation_year": 1913,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "Skofabriks AB. Oscaria",
@@ -100,7 +104,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "6": {
         "name": "Skofabriks AB. Tärnan",
@@ -115,7 +119,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 50
         },
         "foundation_year": 1945,
         "coordinates": {

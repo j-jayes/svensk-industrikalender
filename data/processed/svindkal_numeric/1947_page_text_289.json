@@ -20,7 +20,8 @@
                 "industriarb": 55
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 55
         },
         "foundation_year": 1894,
         "corporation_year": 1897,
@@ -47,7 +48,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "Fermia",
@@ -70,7 +71,8 @@
                 "industri-arb!": 27
             },
             "annual_turnover": 500000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 27
         },
         "foundation_year": 1945,
         "corporation_year": "Not provided",
@@ -89,7 +91,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 1
+        "cluster": 11
     },
     "3": {
         "name": "Gust. Ferngrens Verktygsfabrik",
@@ -113,7 +115,8 @@
                 "Antal industriarb": 30
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 30
         },
         "foundation_year": 1916,
         "corporation_year": "Not provided",
@@ -140,7 +143,7 @@
             "Latitude": 59.7595841,
             "Longitude": 18.7013584
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Holger Fernlund",
@@ -163,7 +166,8 @@
                 "industriarb": 75
             },
             "annual_turnover": 800000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 75
         },
         "foundation_year": 1943,
         "corporation_year": "Not provided",
@@ -186,7 +190,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "A. E. Fernstedt &amp; C:o",
@@ -209,7 +213,8 @@
                 "Antal industriarb": 5
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 5
         },
         "foundation_year": 1890,
         "corporation_year": "Not provided",
@@ -228,7 +233,7 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 6
+        "cluster": 3
     },
     "6": {
         "name": "AB. A. K. Fernströms Granit-industrier",
@@ -251,7 +256,8 @@
                 "Antal industriarb": "Not provided"
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 0
         },
         "foundation_year": 1885,
         "corporation_year": 1925,
@@ -286,7 +292,7 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "AB. Ferro Legeringar",
@@ -309,7 +315,8 @@
                 "Antal industriarb": "Not provided"
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 0
         },
         "foundation_year": 1913,
         "corporation_year": "Not provided",
@@ -336,7 +343,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "AB. Ferrosan",
@@ -359,7 +366,8 @@
                 "industriarb": 40
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 40
         },
         "foundation_year": 1919,
         "corporation_year": "Not provided",
@@ -390,7 +398,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "9": {
         "name": "AB. Fiedler &amp; Lundgren",
@@ -413,7 +421,8 @@
                 "industriarb": "Not provided"
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 0
         },
         "foundation_year": "Not provided",
         "corporation_year": "Not provided",

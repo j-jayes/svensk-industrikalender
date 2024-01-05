@@ -16,7 +16,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 70
         },
         "foundation_year": 1835,
         "corporation_year": 1900,
@@ -63,7 +64,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1915,
         "corporation_year": 1945,
@@ -78,7 +80,7 @@
             "Latitude": 60.41140559999999,
             "Longitude": 15.6110187
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. M. Lundgrens Gjuteri",
@@ -98,7 +100,8 @@
                 "industriarb": 185
             },
             "annual_turnover": 3600000,
-            "annual_production_value": 3600000
+            "annual_production_value": 3600000,
+            "employees_total": 185
         },
         "foundation_year": 1917,
         "corporation_year": 1932,
@@ -122,7 +125,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "N. Lundgren",
@@ -141,7 +144,8 @@
             "employees": {
                 "industriarb": 58
             },
-            "annual_turnover": 850000
+            "annual_turnover": 850000,
+            "employees_total": 58
         },
         "foundation_year": 1869,
         "owners": [
@@ -152,7 +156,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "AB. Lundholms Skomanufaktur",
@@ -168,7 +172,8 @@
             "capital": 255000,
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "foundation_year": 1919,
         "board": [
@@ -190,7 +195,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 5
     },
     "6": {
         "name": "David Lundholm, Byggnads AB.",
@@ -205,7 +210,8 @@
         },
         "financials": {
             "capital": 50000,
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 0
         },
         "foundation_year": 1938,
         "board": [
@@ -231,7 +237,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "Lundin & Co.",
@@ -249,7 +255,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 40
         },
         "foundation_year": 1883,
         "corporation_year": 1915,
@@ -262,7 +269,7 @@
             "Latitude": 65.8567851,
             "Longitude": 22.2889188
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "AB. Lundin & Johansson",
@@ -280,7 +287,8 @@
             "employees": {
                 "industriarb": 8
             },
-            "annual_turnover": 80000
+            "annual_turnover": 80000,
+            "employees_total": 8
         },
         "foundation_year": 1924,
         "board": [
@@ -303,7 +311,7 @@
             "Latitude": 57.218617,
             "Longitude": 16.0308871
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "AB. Lundin & Lindberg",
@@ -319,6 +327,6 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

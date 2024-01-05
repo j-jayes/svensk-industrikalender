@@ -26,7 +26,8 @@
                 "industriarb": 60
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 60
         },
         "foundation_year": 1887,
         "corporation_year": 1933,
@@ -48,7 +49,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "M. F. Åkerdahl",
@@ -73,7 +74,8 @@
                 "industriarb": 32
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 32
         },
         "foundation_year": 1928,
         "corporation_year": "N/A",
@@ -89,7 +91,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 10
     },
     "3": {
         "name": "AB. Åkerlund & Rausing",
@@ -128,7 +130,8 @@
                 "industriarb": 515
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 515
         },
         "foundation_year": 1928,
         "corporation_year": "N/A",
@@ -155,7 +158,7 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 5
+        "cluster": 17
     },
     "4": {
         "name": "Åkerlunds Bomullsspinneri AB.",
@@ -181,7 +184,8 @@
                 "industriarb": 150
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 150
         },
         "foundation_year": 1898,
         "corporation_year": "N/A",
@@ -208,7 +212,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "AB. Åkermans Gjuteri & Mek. Verkstad",
@@ -231,7 +235,8 @@
             "capital": 500000,
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "corporation_year": "N/A",
@@ -262,7 +267,7 @@
             "Latitude": 55.8391198,
             "Longitude": 13.3033914
         },
-        "cluster": 1
+        "cluster": 7
     },
     "6": {
         "name": "Åkerman & Lunds Nya Orgelfabriks AB.",
@@ -286,7 +291,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 200000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 20
         },
         "foundation_year": 1860,
         "corporation_year": "N/A",
@@ -309,7 +315,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Åkers Styckebruk",
@@ -331,7 +337,8 @@
             "capital": "N/A",
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "corporation_year": "N/A",
@@ -345,6 +352,6 @@
             "Latitude": 59.25641950000001,
             "Longitude": 17.1052888
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

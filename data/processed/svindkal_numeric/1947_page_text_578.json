@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 30
         },
         "foundation_year": 1916,
         "board": [
@@ -29,7 +30,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "E. Petterssons Träullsfabrik",
@@ -44,7 +45,8 @@
         "financials": {
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1894,
         "owner": "fabr. Edvard Pettersson",
@@ -53,7 +55,7 @@
             "Latitude": 60.2329762,
             "Longitude": 16.4266606
         },
-        "cluster": 7
+        "cluster": 18
     },
     "3": {
         "name": "F. 0. Peterson & Söner",
@@ -78,7 +80,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 6
     },
     "4": {
         "name": "Gunnar Petersson, Gullebo Snickeri",
@@ -88,7 +90,7 @@
             "Latitude": 57.0222025,
             "Longitude": 14.8917539
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Halvdan Petterssons Möbelsnickeri",
@@ -104,7 +106,8 @@
             "employees": {
                 "arb.-antal": 10
             },
-            "annual_production_value": 105000
+            "annual_production_value": 105000,
+            "employees_total": 10
         },
         "foundation_year": 1915,
         "owner": "fabr. Halvdan Pettersson",
@@ -113,7 +116,7 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "John Pettersons Eftr., Juvelerare AB",
@@ -123,7 +126,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "AB. J. A. Petterson & Co.",
@@ -143,7 +146,8 @@
                 "industriarb": 190,
                 "hemarbetare": 60
             },
-            "annual_turnover": 2600000
+            "annual_turnover": 2600000,
+            "employees_total": 250
         },
         "foundation_year": 1863,
         "corporation_year": 1910,
@@ -167,7 +171,7 @@
             "Latitude": 57.68257370000001,
             "Longitude": 13.0529723
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "J. E. Petterssons Järnförädling",
@@ -183,7 +187,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 10
         },
         "foundation_year": 1921,
         "owners": [
@@ -196,7 +201,7 @@
             "Latitude": 57.3150182,
             "Longitude": 13.8805966
         },
-        "cluster": 6
+        "cluster": 18
     },
     "9": {
         "name": "AB. J. C. Peterssons Möbel- & Träindustri",
@@ -213,7 +218,8 @@
             "employees": {
                 "industriarb": 59
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 59
         },
         "foundation_year": 1904,
         "corporation_year": 1922,
@@ -232,7 +238,7 @@
             "Latitude": 57.4989621,
             "Longitude": 14.1486297
         },
-        "cluster": 8
+        "cluster": 15
     },
     "10": {
         "name": "AB. K. J. Pettersson & Söner",
@@ -249,7 +255,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 310000
+            "annual_turnover": 310000,
+            "employees_total": 25
         },
         "foundation_year": 1934,
         "corporation_year": 1938,
@@ -269,6 +276,6 @@
             "Latitude": 59.9601018,
             "Longitude": 17.7041641
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

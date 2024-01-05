@@ -16,7 +16,8 @@
         },
         "financials": {
             "capital": 1000000,
-            "annual_production_value": 9000000
+            "annual_production_value": 9000000,
+            "employees_total": 0
         },
         "foundation_year": 1917,
         "board": [
@@ -46,7 +47,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "AB. Tollare Pappersbruk",
@@ -60,7 +61,8 @@
             "postgiro": "52700"
         },
         "financials": {
-            "capital": 2000000
+            "capital": 2000000,
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "board": [
@@ -90,7 +92,7 @@
             "Latitude": 59.30524089999999,
             "Longitude": 18.2399799
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "Tomtens Kalkbruks AB.",
@@ -106,7 +108,8 @@
         },
         "financials": {
             "capital": 112000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1913,
         "board": [
@@ -128,7 +131,7 @@
             "Latitude": 58.2102316,
             "Longitude": 13.6058656
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "AB. Torebo Cementgjuteri",
@@ -142,7 +145,8 @@
             "postgiro": "161305"
         },
         "financials": {
-            "capital": 57000
+            "capital": 57000,
+            "employees_total": 0
         },
         "foundation_year": 1921,
         "director": "Robert Hansson",
@@ -150,7 +154,7 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "AB. J. W. Torell",
@@ -165,7 +169,8 @@
         },
         "financials": {
             "capital": 35000,
-            "annual_production_value": 450000
+            "annual_production_value": 450000,
+            "employees_total": 0
         },
         "foundation_year": 1894,
         "director": "fabr. Olof Torell",
@@ -173,7 +178,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Toréns Mek. Verkstads AB.",
@@ -187,7 +192,8 @@
             "postgiro": "96990"
         },
         "financials": {
-            "capital": 65000
+            "capital": 65000,
+            "employees_total": 0
         },
         "foundation_year": 1901,
         "director": "fabr. Folke Torén",
@@ -195,7 +201,7 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. Torkapparater",
@@ -212,7 +218,8 @@
         },
         "financials": {
             "capital": 30000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1937,
         "director": "ing. G. Bojner",
@@ -220,7 +227,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 2
     },
     "8": {
         "name": "Tornborg & Lundberg AB.",
@@ -238,6 +245,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

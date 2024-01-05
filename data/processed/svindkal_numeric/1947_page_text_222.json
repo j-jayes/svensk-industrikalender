@@ -18,7 +18,8 @@
                 "industriarb": 27
             },
             "annual_turnover": 950000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 27
         },
         "foundation_year": 1913,
         "corporation_year": 1943,
@@ -37,7 +38,7 @@
             "Latitude": 57.2,
             "Longitude": 13.283333
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Burseryds Träindustri",
@@ -54,7 +55,8 @@
                 "industriarb": 47
             },
             "annual_turnover": 900000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 47
         },
         "foundation_year": 1935,
         "board": [
@@ -72,7 +74,7 @@
             "Latitude": 57.2,
             "Longitude": 13.283333
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Bustorps Tegelbruk",
@@ -90,14 +92,15 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": "2,5 milj. st. tegel varor"
+            "annual_production_value": "2,5 milj. st. tegel varor",
+            "employees_total": 35
         },
         "owner": "fabr. Eric Mattelin",
         "coordinates": {
             "Latitude": 56.2,
             "Longitude": 15.533333
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Buteljglasbrukens Försäljnings AB",
@@ -113,7 +116,8 @@
         },
         "financials": {
             "capital": 70000,
-            "annual_production_value": 12000000
+            "annual_production_value": 12000000,
+            "employees_total": 0
         },
         "foundation_year": 1914,
         "board": [
@@ -127,7 +131,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 0
     },
     "5": {
         "name": "Byggnads AB. Bröderna Bergbäck",
@@ -142,7 +146,8 @@
         },
         "financials": {
             "capital": 40000,
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 0
         },
         "foundation_year": 1905,
         "corporation_year": 1938,
@@ -158,7 +163,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 0
+        "cluster": 6
     },
     "6": {
         "name": "Byggnads AB. Contractor",
@@ -174,7 +179,8 @@
         },
         "financials": {
             "capital": 900000,
-            "annual_turnover": 10000000
+            "annual_turnover": 10000000,
+            "employees_total": 0
         },
         "foundation_year": 1910,
         "board": [
@@ -187,6 +193,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

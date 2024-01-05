@@ -23,7 +23,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 40
         },
         "foundation_year": 1894,
         "corporation_year": 1927,
@@ -45,7 +46,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Carl Johansson Mek. Verkstad AB.",
@@ -71,7 +72,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1925,
         "corporation_year": 1932,
@@ -80,7 +82,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "AB. C. E» Johansson",
@@ -105,7 +107,8 @@
                 "industriarb": 500
             },
             "annual_turnover": 6000000,
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 500
         },
         "foundation_year": 1911,
         "corporation_year": 1941,
@@ -143,7 +146,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. E. C. Johanssons Metallduksfabrik",
@@ -168,7 +171,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 250000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 15
         },
         "foundation_year": 1889,
         "corporation_year": 1936,
@@ -182,7 +186,7 @@
             "Latitude": 57.2812542,
             "Longitude": 13.6271963
         },
-        "cluster": 1
+        "cluster": 12
     },
     "5": {
         "name": "E. Johansson & C. Bohmans Lervarufabrik",
@@ -208,7 +212,8 @@
                 "industriarb": 14
             },
             "annual_turnover": 90000,
-            "annual_production_value": 90000
+            "annual_production_value": 90000,
+            "employees_total": 14
         },
         "foundation_year": 1933,
         "corporation_year": null,
@@ -222,7 +227,7 @@
             "Latitude": 58.70550919999999,
             "Longitude": 14.1261468
         },
-        "cluster": 1
+        "cluster": 0
     },
     "6": {
         "name": "Erik Johanssons Elektro-Mek. Verkstad",
@@ -248,7 +253,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 250000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 20
         },
         "foundation_year": 1918,
         "corporation_year": null,
@@ -262,7 +268,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. E. C. Johanssons Boktryckeri",
@@ -283,7 +289,8 @@
             "capital": null,
             "employees": null,
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 0
         },
         "foundation_year": null,
         "corporation_year": null,
@@ -292,6 +299,6 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

@@ -17,7 +17,8 @@
             },
             "capital": "Ej tillgänglig",
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": "Ej tillgänglig"
+            "annual_production_value": "Ej tillgänglig",
+            "employees_total": 26
         },
         "foundation_year": 1905,
         "current_name_year": null,
@@ -34,7 +35,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Gokef, Gas- o. Koksverkens Ekonomiska Förening u. p. a.",
@@ -54,7 +55,8 @@
             },
             "capital": 200550,
             "annual_turnover": 10200000,
-            "annual_production_value": "Ej tillgänglig"
+            "annual_production_value": "Ej tillgänglig",
+            "employees_total": 0
         },
         "foundation_year": 1918,
         "current_name_year": null,
@@ -100,7 +102,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Gotlands Katfcterk",
@@ -119,7 +121,8 @@
             },
             "capital": 800000,
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 115
         },
         "foundation_year": 1906,
         "current_name_year": null,
@@ -153,7 +156,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 0
+        "cluster": 2
     },
     "4": {
         "name": "Gotlands Nya Tegelbruks AB.",
@@ -172,7 +175,8 @@
             },
             "capital": 43000,
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": "Ej tillgänglig"
+            "annual_production_value": "Ej tillgänglig",
+            "employees_total": 25
         },
         "foundation_year": 1915,
         "current_name_year": null,
@@ -189,7 +193,7 @@
             "Latitude": 57.6348,
             "Longitude": 18.29484
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Gotlands Slipstensbolag, Hugo Hansén & Co.",
@@ -208,7 +212,8 @@
             },
             "capital": "Ej tillgänglig",
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 40
         },
         "foundation_year": 1873,
         "current_name_year": null,
@@ -225,6 +230,6 @@
             "Latitude": 57.03181,
             "Longitude": 18.28152
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

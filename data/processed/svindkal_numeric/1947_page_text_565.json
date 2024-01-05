@@ -22,7 +22,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_production_value": 1050000
+            "annual_production_value": 1050000,
+            "employees_total": 65
         },
         "foundation_year": 1862,
         "corporation_year": 1937,
@@ -45,7 +46,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "AB. Joh. Ohlssons Tekniska Fabrik",
@@ -64,7 +65,8 @@
                 "industriarb": 30
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "6,000 ton"
+            "annual_production_value": "6,000 ton",
+            "employees_total": 30
         },
         "foundation_year": 1859,
         "corporation_year": 1899,
@@ -87,7 +89,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 3
     },
     "3": {
         "name": "M. & E. Ohlssons Klockgjuteri & Armaturfabrik",
@@ -107,7 +109,8 @@
             "employees": {
                 "arb": 8
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 8
         },
         "foundation_year": 1805,
         "board": [
@@ -137,7 +140,7 @@
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Otto Olssons Rörformfabrik",
@@ -162,7 +165,8 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 23
         },
         "foundation_year": 1908,
         "board": [
@@ -179,7 +183,7 @@
             "Latitude": 55.4578377,
             "Longitude": 14.1788258
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "O. J. Olsson & Comp., Korkfabrik",
@@ -196,7 +200,8 @@
             "employees": {
                 "arb": 4
             },
-            "annual_production_value": 120000
+            "annual_production_value": 120000,
+            "employees_total": 4
         },
         "foundation_year": 1884,
         "owner": "Ing. Reinhard Svensson",
@@ -204,7 +209,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "AB. 0. W. Olssons Såg- & Hyvleri",
@@ -223,7 +228,8 @@
                 "industriarb": 23
             },
             "annual_production_value": 175000,
-            "annual_turnover": "600 stds trävaror"
+            "annual_turnover": "600 stds trävaror",
+            "employees_total": 23
         },
         "corporation_year": 1923,
         "director": "Ivar Olsson",
@@ -231,6 +237,6 @@
             "Latitude": 59.028612,
             "Longitude": 12.226943
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

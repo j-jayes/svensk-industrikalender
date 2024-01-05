@@ -22,7 +22,8 @@
                 "industriarb": 120
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 120
         },
         "foundation_year": 1941,
         "board": [],
@@ -33,7 +34,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Nyköpingsverken",
@@ -62,7 +63,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 725000,
-            "annual_production_value": 725000
+            "annual_production_value": 725000,
+            "employees_total": 40
         },
         "foundation_year": 1944,
         "board": [],
@@ -72,7 +74,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "Nylund & Son Pianofabrik",
@@ -97,7 +99,8 @@
                 "industriarb": 29
             },
             "annual_turnover": 375000,
-            "annual_production_value": 375000
+            "annual_production_value": 375000,
+            "employees_total": 29
         },
         "foundation_year": 1906,
         "board": [],
@@ -109,7 +112,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 1
+        "cluster": 15
     },
     "4": {
         "name": "AB. I. Nylunds Litografiska Anstalt",
@@ -134,7 +137,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 30
         },
         "foundation_year": 1873,
         "corporation_year": 1905,
@@ -145,7 +149,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "Nyma Manufaktur AB.",
@@ -174,7 +178,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 250000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 20
         },
         "foundation_year": 1940,
         "board": [],
@@ -184,7 +189,7 @@
             "Latitude": 59.0579376,
             "Longitude": 16.5879122
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB. Nymans Verkstäder",
@@ -230,7 +235,8 @@
                 "industriarb": 1016
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 1016
         },
         "foundation_year": 1899,
         "board": [
@@ -271,7 +277,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "Nynäshamns Tryckeri AB.",
@@ -296,7 +302,8 @@
                 "Arb.-antal": 7
             },
             "annual_turnover": 142000,
-            "annual_production_value": 142000
+            "annual_production_value": 142000,
+            "employees_total": 7
         },
         "foundation_year": 1916,
         "corporation_year": 1933,
@@ -328,7 +335,7 @@
             "Latitude": 58.90292600000001,
             "Longitude": 17.9465289
         },
-        "cluster": 5
+        "cluster": 10
     },
     "8": {
         "name": "Nysilverfabriken Aurora AB.",
@@ -352,7 +359,8 @@
                 "industriarb": 26
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 26
         },
         "foundation_year": 1911,
         "corporation_year": 1945,
@@ -372,6 +380,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

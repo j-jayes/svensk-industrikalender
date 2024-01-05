@@ -86,7 +86,7 @@
             "Latitude": 56.78451219999999,
             "Longitude": 15.1448475
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "Orrefors Skogar",
@@ -139,7 +139,7 @@
             "Latitude": 56.8382325,
             "Longitude": 15.7420197
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Orresta Snickerifabrik",
@@ -165,7 +165,7 @@
             "Latitude": 59.6603886,
             "Longitude": 16.8345381
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Orresta Tegelbruk",
@@ -191,7 +191,7 @@
             "Latitude": 59.6603886,
             "Longitude": 16.8345381
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Orrvikens Såg & Snickerifabrik",
@@ -217,7 +217,7 @@
             "Latitude": 63.1074275,
             "Longitude": 14.4347606
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Orsa Kättingfabrik",
@@ -244,7 +244,7 @@
             "Latitude": 61.1169365,
             "Longitude": 14.6280708
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "Orsa Sågbladsfabrik",
@@ -280,7 +280,7 @@
             "Latitude": 61.1169365,
             "Longitude": 14.6280708
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "Orstadius Boktryckeri AB.",
@@ -293,6 +293,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

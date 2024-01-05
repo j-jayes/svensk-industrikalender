@@ -22,7 +22,7 @@
             "office": "Falköping"
         },
         "foundation_year": 1903,
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. Förenade Möbelfabrikerna",
@@ -40,7 +40,8 @@
             "employees": {
                 "industriarb.": 75
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 75
         },
         "foundation_year": 1918,
         "board": [
@@ -83,7 +84,8 @@
             "capital": 2000000,
             "employees": {
                 "industriarb.": 167
-            }
+            },
+            "employees_total": 167
         },
         "foundation_year": 1917,
         "board": [
@@ -114,7 +116,7 @@
         ],
         "director": "Karl Högberg",
         "sales_manager": "S. H. Lundén-Welden",
-        "cluster": 1
+        "cluster": 15
     },
     "4": {
         "name": "AB. Förenade Superfosfatfabriker",
@@ -131,7 +133,8 @@
             "employees": {
                 "sammanlagt för samtliga fabriker": 740
             },
-            "annual_production_value": 39000000
+            "annual_production_value": 39000000,
+            "employees_total": 740
         },
         "foundation_year": 1931,
         "board": [
@@ -165,6 +168,6 @@
             }
         ],
         "director": "Sven E. Lundberg",
-        "cluster": 1
+        "cluster": 3
     }
 }

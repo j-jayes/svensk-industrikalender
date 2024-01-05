@@ -11,7 +11,8 @@
         "postgiro": "86695",
         "financials": {
             "capital": 150000,
-            "annual_turnover": "5 milj. st. tegel varor"
+            "annual_turnover": "5 milj. st. tegel varor",
+            "employees_total": 0
         },
         "foundation_year": 1914,
         "board": [
@@ -46,7 +47,8 @@
         ],
         "postgiro": "6406",
         "financials": {
-            "capital": 150000
+            "capital": 150000,
+            "employees_total": 0
         },
         "foundation_year": 1922,
         "board": [
@@ -79,7 +81,8 @@
         ],
         "postgiro": "83540",
         "financials": {
-            "capital": 45000
+            "capital": 45000,
+            "employees_total": 0
         },
         "foundation_year": 1927,
         "board": [
@@ -112,7 +115,8 @@
             "postgiro": "10784"
         },
         "financials": {
-            "capital": 100000
+            "capital": 100000,
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "board": [
@@ -146,7 +150,8 @@
         ],
         "postgiro": "10788",
         "financials": {
-            "annual_production_value": 122000
+            "annual_production_value": 122000,
+            "employees_total": 0
         },
         "foundation_year": 1883,
         "manager": "Wilhelm Fall",
@@ -168,7 +173,8 @@
         "postgiro": "85099",
         "financials": {
             "capital": 30000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 0
         },
         "foundation_year": 1933,
         "director": "Gösta Bjurner",
@@ -188,7 +194,8 @@
         "financials": {
             "employees": {
                 "industriarbetare": 450
-            }
+            },
+            "employees_total": 450
         },
         "original_name": "Falu gruva",
         "corporation_year": 1928,

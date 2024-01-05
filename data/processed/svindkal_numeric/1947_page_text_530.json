@@ -16,7 +16,8 @@
                 "entreprenöravd": 20
             },
             "annual_turnover": 3500000,
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 20
         },
         "foundation_year": 1927,
         "director": "Gottfrid Nilsson",
@@ -24,7 +25,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 6
     },
     "2": {
         "name": "AB. Gotthard Nilsson",
@@ -47,7 +48,8 @@
                 "industriarb": 275
             },
             "annual_turnover": "Not applicable",
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 275
         },
         "foundation_year": 1862,
         "corporation_year": 1915,
@@ -73,7 +75,7 @@
             "Latitude": 56.5524461,
             "Longitude": 14.1374047
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "AB. Gunnar Nilsson",
@@ -93,7 +95,8 @@
                 "industriarb": 70
             },
             "annual_turnover": "Not applicable",
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 70
         },
         "foundation_year": 1915,
         "director": "Gunnar Nilsson",
@@ -102,7 +105,7 @@
             "Latitude": 56.161224,
             "Longitude": 15.5869
         },
-        "cluster": 7
+        "cluster": 18
     },
     "4": {
         "name": "G. H. Nilssons Trikåfabrik",
@@ -120,7 +123,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 250000,
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 20
         },
         "foundation_year": 1932,
         "director": "G. Herman Nilsson",
@@ -128,7 +132,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "J. W. Nilsson, Vagn- & Karossfabrik",
@@ -144,7 +148,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 200000,
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 15
         },
         "foundation_year": 1890,
         "director": "fabr. Sven Nilsson",
@@ -152,7 +157,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 6
+        "cluster": 18
     },
     "6": {
         "name": "K. Nilssons Snickeri- & Kaross-fabrik",
@@ -168,7 +173,8 @@
                 "Not applicable": 16
             },
             "annual_turnover": 200000,
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 16
         },
         "foundation_year": 1924,
         "director": "fabr. Karl Nilsson",
@@ -176,7 +182,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "Nils Nilssons Gjuteri",
@@ -192,7 +198,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 100000,
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 15
         },
         "foundation_year": 1912,
         "director": "fabr. Nils Nilsson",
@@ -200,7 +207,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "AB. Oscar Nilssons Metallfabrik",
@@ -219,7 +226,8 @@
                 "industriarb": 37
             },
             "annual_turnover": 480000,
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 37
         },
         "foundation_year": 1898,
         "corporation_year": 1940,
@@ -242,7 +250,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "9": {
         "name": "Wilh. Nilssons Snickerifabrik",
@@ -257,7 +265,8 @@
                 "Not applicable": 2
             },
             "annual_turnover": 20000,
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 2
         },
         "foundation_year": 1926,
         "director": "fabr. Wilhelm Nilsson",
@@ -265,7 +274,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 8
+        "cluster": 18
     },
     "10": {
         "name": "Åke Nilsson",
@@ -280,7 +289,8 @@
                 "Not applicable": "Not applicable"
             },
             "annual_turnover": "Not applicable",
-            "annual_production_value": "Not applicable"
+            "annual_production_value": "Not applicable",
+            "employees_total": 0
         },
         "foundation_year": "Not applicable",
         "director": "Åke Nilsson",
@@ -288,6 +298,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

@@ -18,7 +18,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 60
         },
         "foundation_year": 1882,
         "corporation_year": 1911,
@@ -42,7 +43,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Grundbergs Mek. Verkstads AB.",
@@ -60,7 +61,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 50
         },
         "foundation_year": 1906,
         "corporation_year": 1917,
@@ -83,7 +85,7 @@
             "Latitude": 58.28348939999999,
             "Longitude": 12.2858206
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "Grundéns Regnklädersfabriks AB.",
@@ -101,7 +103,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 30
         },
         "foundation_year": 1927,
         "corporation_year": 1944,
@@ -112,7 +115,7 @@
             "Latitude": 58.214729,
             "Longitude": 11.4178031
         },
-        "cluster": 9
+        "cluster": 18
     },
     "4": {
         "name": "Gruf AB. Dafarne",
@@ -126,7 +129,8 @@
             "employees": {
                 "industriarb": 130
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 130
         },
         "foundation_year": 1901,
         "board": [
@@ -148,7 +152,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "Gruf AB. Lekomberg",
@@ -166,7 +170,8 @@
             "employees": {
                 "industriarb": 220
             },
-            "annual_production_value": 3035000
+            "annual_production_value": 3035000,
+            "employees_total": 220
         },
         "foundation_year": 1910,
         "board": [
@@ -184,7 +189,7 @@
             "Latitude": 60.18451349999999,
             "Longitude": 15.1515572
         },
-        "cluster": 6
+        "cluster": 2
     },
     "6": {
         "name": "Grufve AB. Långban",
@@ -202,7 +207,8 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 80
         },
         "foundation_year": 1885,
         "board": [
@@ -224,6 +230,6 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

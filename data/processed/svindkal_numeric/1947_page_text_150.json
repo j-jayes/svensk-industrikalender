@@ -28,7 +28,8 @@
                 "industriarb": 429
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 429
         },
         "foundation_year": 1839,
         "current_name_year": 1888,
@@ -72,7 +73,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Almunge Snickerifabrik",
@@ -97,7 +98,8 @@
                 "industriarb": 8
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 8
         },
         "foundation_year": 1920,
         "current_name_year": "Not applicable",
@@ -120,7 +122,7 @@
             "Latitude": 59.8686055,
             "Longitude": 18.0706839
         },
-        "cluster": 0
+        "cluster": 11
     },
     "3": {
         "name": "Almviks Såg & Tegelbruk",
@@ -146,7 +148,8 @@
                 "industriarb": 35
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 35
         },
         "foundation_year": "Not available",
         "current_name_year": "Not applicable",
@@ -169,7 +172,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Alnarps Redskapsverkstad, Gustaf Björklund & Son",
@@ -194,7 +197,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1896,
         "current_name_year": "Not applicable",
@@ -217,7 +221,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Alnö Tegelbruk AB.",
@@ -242,7 +246,8 @@
                 "industriarb": 35
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "2,5 milj. st. murtegel"
+            "annual_production_value": "2,5 milj. st. murtegel",
+            "employees_total": 35
         },
         "foundation_year": 1939,
         "current_name_year": "Not applicable",
@@ -265,7 +270,7 @@
             "Latitude": 62.44831420000001,
             "Longitude": 17.4060288
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Alpha",
@@ -291,7 +296,8 @@
                 "industriarb": 800
             },
             "annual_turnover": 9000000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 800
         },
         "foundation_year": 1888,
         "current_name_year": "Not applicable",
@@ -335,6 +341,6 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

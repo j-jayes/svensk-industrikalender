@@ -14,14 +14,15 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1907,
         "coordinates": {
             "Latitude": 56.2573385,
             "Longitude": 12.9704446
         },
-        "cluster": 7
+        "cluster": 18
     },
     "2": {
         "name": "Munkedals AB",
@@ -44,14 +45,15 @@
             "employees": {
                 "industriarb": 600
             },
-            "annual_turnover": "12,000 ton papper o. 2,500 ton papp"
+            "annual_turnover": "12,000 ton papper o. 2,500 ton papp",
+            "employees_total": 600
         },
         "foundation_year": 1871,
         "coordinates": {
             "Latitude": 58.47150509999999,
             "Longitude": 11.6801923
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "Munkedals Snickerifabrik AB",
@@ -61,7 +63,7 @@
             "Latitude": 58.47150509999999,
             "Longitude": 11.6801923
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Munkens Konservfabriker",
@@ -101,14 +103,15 @@
             "employees": {
                 "industriarb": 885
             },
-            "annual_turnover": "40,000 ton papper och papp, 18,000 ton sulfatmassa för avsalu"
+            "annual_turnover": "40,000 ton papper och papp, 18,000 ton sulfatmassa för avsalu",
+            "employees_total": 885
         },
         "foundation_year": 1890,
         "coordinates": {
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 5
+        "cluster": 17
     },
     "7": {
         "name": "Munksunds AB",
@@ -118,6 +121,6 @@
             "Latitude": 65.584819,
             "Longitude": 22.1567026
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

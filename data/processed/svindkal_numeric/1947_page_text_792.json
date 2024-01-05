@@ -14,7 +14,8 @@
             "employees": {
                 "industry": 27
             },
-            "annual_production_value": 1100000
+            "annual_production_value": 1100000,
+            "employees_total": 27
         },
         "foundation_year": 1863,
         "board": [
@@ -35,7 +36,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "Östra Götalands Linodlareförening u. p. a.",
@@ -52,7 +53,8 @@
             "employees": {
                 "industry": 150
             },
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 150
         },
         "foundation_year": 1941,
         "board": [
@@ -69,7 +71,7 @@
             "Latitude": 56.8790044,
             "Longitude": 14.8058522
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "AB. Östrands Sulfatfabrik",
@@ -84,7 +86,8 @@
             "employees": {
                 "industry": 400
             },
-            "annual_turnover": "140,000 ton sulfatcellulosa, varav 30,000 ton blekt, 5,500 ton flytande harts, 1,500 ton råterpentin"
+            "annual_turnover": "140,000 ton sulfatcellulosa, varav 30,000 ton blekt, 5,500 ton flytande harts, 1,500 ton råterpentin",
+            "employees_total": 400
         },
         "foundation_year": 1931,
         "owners": [
@@ -116,7 +119,7 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 2
+        "cluster": 18
     },
     "4": {
         "name": "AB. Östrup-Jeppesen",
@@ -135,7 +138,8 @@
             "employees": {
                 "industry": 20
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 20
         },
         "foundation_year": 1934,
         "board": [
@@ -148,7 +152,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Öström & Fischer AB.",
@@ -160,7 +164,8 @@
             "postgiro": "11911"
         },
         "financials": {
-            "capital": 200000
+            "capital": 200000,
+            "employees_total": 0
         },
         "foundation_year": 1885,
         "board": [
@@ -185,7 +190,7 @@
             "Latitude": 59.39515039999999,
             "Longitude": 13.1952629
         },
-        "cluster": 7
+        "cluster": 18
     },
     "6": {
         "name": "AB. Öwedskiosters Stenindustrier",
@@ -200,7 +205,8 @@
             "employees": {
                 "industry": 26
             },
-            "annual_production_value": 170000
+            "annual_production_value": 170000,
+            "employees_total": 26
         },
         "foundation_year": 1915,
         "board": [
@@ -217,7 +223,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 18
     },
     "7": {
         "name": "Överlida Strumpindustri",
@@ -231,7 +237,8 @@
             "employees": {
                 "industry": 15
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 15
         },
         "board": [
             {
@@ -243,6 +250,6 @@
             "Latitude": 57.349177,
             "Longitude": 12.893943
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

@@ -18,7 +18,8 @@
                 "industriarb": 380
             },
             "annual_turnover": 5500000,
-            "annual_production_value": 5500000
+            "annual_production_value": 5500000,
+            "employees_total": 380
         },
         "foundation_year": 1856,
         "board": [
@@ -47,7 +48,7 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Kamyr",
@@ -61,7 +62,8 @@
             "head_office": "Karlstad"
         },
         "financials": {
-            "capital": 363000
+            "capital": 363000,
+            "employees_total": 0
         },
         "foundation_year": 1919,
         "board": [
@@ -83,7 +85,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Kanex Konfektions AB.",
@@ -100,7 +102,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 40
         },
         "foundation_year": 1944,
         "manager": "Karl Axel Larson",
@@ -108,7 +111,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "AB. Kaniks Tegelfabrik",
@@ -125,7 +128,8 @@
             "capital": 210000,
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1909,
         "board": [
@@ -155,7 +159,7 @@
             "Latitude": 55.7259042,
             "Longitude": 13.0712193
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "AB. Kantex",
@@ -172,7 +176,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1938,
         "manager": "C. Kahn",
@@ -180,7 +185,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Kant hal",
@@ -198,7 +203,8 @@
             "employees": {
                 "industriarb": 400
             },
-            "annual_turnover": 8000000
+            "annual_turnover": 8000000,
+            "employees_total": 400
         },
         "foundation_year": 1931,
         "board": [
@@ -223,7 +229,7 @@
             "Latitude": 59.6132041,
             "Longitude": 16.2294755
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. M. Kaplans Konfektionsfabrik",
@@ -241,7 +247,8 @@
             "employees": {
                 "industriarb": 260
             },
-            "annual_turnover": 3300000
+            "annual_turnover": 3300000,
+            "employees_total": 260
         },
         "foundation_year": 1927,
         "board": [
@@ -266,6 +273,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

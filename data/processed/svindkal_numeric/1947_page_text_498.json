@@ -17,7 +17,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 800000,
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 35
         },
         "foundation_year": 1916,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 0
     },
     "2": {
         "name": "Malmö Nysilverfabrik",
@@ -59,7 +60,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 17
     },
     "3": {
         "name": "Malmö Oljeslageri & Happachs Såp-fabriks AB.",
@@ -89,14 +90,15 @@
                 "industriarb": 150
             },
             "annual_turnover": 8500000,
-            "annual_production_value": 8500000
+            "annual_production_value": 8500000,
+            "employees_total": 150
         },
         "predecessor": "utt..",
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "Malmö Reklamfabrik AB.",
@@ -128,7 +130,8 @@
                 "industriarb": 75
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 75
         },
         "corporation_year": 1937,
         "board": [
@@ -149,7 +152,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "Malmö Sidenväveri AB.",
@@ -168,7 +171,8 @@
                 "industriarb": 65
             },
             "annual_turnover": 3000000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 65
         },
         "foundation_year": 1935,
         "board": [
@@ -190,7 +194,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Malmö Skeppsfärgfabrik",
@@ -220,7 +224,8 @@
         },
         "financials": {
             "capital": 100000,
-            "annual_turnover": 750000
+            "annual_turnover": 750000,
+            "employees_total": 0
         },
         "corporation_year": 1924,
         "director": "Erik B. Dupont",
@@ -228,7 +233,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "7": {
         "name": "Malmö Skjortfabrik",
@@ -252,7 +257,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Malmö Skofabriks AB.",
@@ -282,13 +287,14 @@
             "capital": 500000,
             "employees": {
                 "industriarb": 200
-            }
+            },
+            "employees_total": 200
         },
         "corporation_year": 1934,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

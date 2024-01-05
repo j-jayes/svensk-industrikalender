@@ -29,7 +29,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Boda Bruks AB., Boda glasbruk",
@@ -61,7 +61,7 @@
             "Latitude": 56.9279048,
             "Longitude": 14.8044469
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "AB. Boda Kalk, Kärvsåsen",
@@ -94,7 +94,7 @@
             "Latitude": 61.05375919999999,
             "Longitude": 15.1916504
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Bodafors Snickerifabrik, Fransson & Nilsson",
@@ -121,7 +121,7 @@
             "Latitude": 57.50394780000001,
             "Longitude": 14.7079586
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "A. F. Bodecker",
@@ -182,7 +182,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "AB. Bofors",
@@ -228,6 +228,6 @@
             "Latitude": 59.33335509999999,
             "Longitude": 14.5377751
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

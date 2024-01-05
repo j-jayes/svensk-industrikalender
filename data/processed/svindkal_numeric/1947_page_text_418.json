@@ -21,7 +21,8 @@
                 "Arb.-antal": 12
             },
             "annual_turnover": "",
-            "annual_production_value": 205000
+            "annual_production_value": 205000,
+            "employees_total": 12
         },
         "foundation_year": 1929,
         "current_name_year": "",
@@ -40,7 +41,7 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "N. Karlsson, Kopparslageri & Metall-tryckeri",
@@ -63,7 +64,8 @@
                 "Antal industriarb": 20
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 20
         },
         "foundation_year": 1876,
         "current_name_year": "",
@@ -83,7 +85,7 @@
             "Latitude": 56.210434,
             "Longitude": 15.2760229
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Karlstads Bryggeri AB.",
@@ -106,7 +108,8 @@
                 "Antal industriarb": 26
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 26
         },
         "foundation_year": 1890,
         "current_name_year": "",
@@ -123,7 +126,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "Karlstads Cementvarufabrik",
@@ -147,7 +150,8 @@
                 "Antal industriarb": 20
             },
             "annual_turnover": "",
-            "annual_production_value": 165000
+            "annual_production_value": 165000,
+            "employees_total": 20
         },
         "foundation_year": 1943,
         "current_name_year": "",
@@ -166,7 +170,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Karlstads Dissousgas AB.",
@@ -189,7 +193,8 @@
                 "Arb.-antal": 2
             },
             "annual_turnover": "",
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 2
         },
         "foundation_year": 1928,
         "current_name_year": "",
@@ -206,7 +211,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 1
+        "cluster": 3
     },
     "6": {
         "name": "AB. Karlstads Marmor industri",
@@ -229,7 +234,8 @@
                 "Arb.-antal": 4
             },
             "annual_turnover": "",
-            "annual_production_value": 50000
+            "annual_production_value": 50000,
+            "employees_total": 4
         },
         "foundation_year": 1928,
         "current_name_year": "",
@@ -246,7 +252,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "AB. Karlstads Mekaniska Werkstad",
@@ -271,7 +277,8 @@
                 "Antal industriarb": 1035
             },
             "annual_turnover": "",
-            "annual_production_value": 18000000
+            "annual_production_value": 18000000,
+            "employees_total": 1035
         },
         "foundation_year": 1873,
         "current_name_year": "",
@@ -288,7 +295,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "Karlstads Spinneri- & Väveri AB.",
@@ -312,7 +319,8 @@
                 "Antal industriarb": 125
             },
             "annual_turnover": "",
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 125
         },
         "foundation_year": 1897,
         "current_name_year": "",
@@ -329,7 +337,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 3
+        "cluster": 1
     },
     "9": {
         "name": "AB. Karlstads Strå- & Filthattfabrik",
@@ -348,7 +356,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": "",
         "current_name_year": "",

@@ -46,7 +46,7 @@
             "Latitude": 60.0638925,
             "Longitude": 18.0802923
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Alvesta Gjuteri AB",
@@ -70,7 +70,7 @@
             "Latitude": 56.89921039999999,
             "Longitude": 14.5560006
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Alvesta Glasbruk, Lindahl & Co.",
@@ -95,7 +95,7 @@
             "Latitude": 56.89921039999999,
             "Longitude": 14.5560006
         },
-        "cluster": 2
+        "cluster": 0
     },
     "4": {
         "name": "AB. Alvesta Träförädling & Mek. Verkstad",
@@ -133,7 +133,7 @@
             "Latitude": 56.89921039999999,
             "Longitude": 14.5560006
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Alviks Träförädlings AB.",
@@ -188,7 +188,7 @@
             "Latitude": 62.44831420000001,
             "Longitude": 17.4060288
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Andell & Anderson AB.",
@@ -238,6 +238,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

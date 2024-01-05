@@ -17,7 +17,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 400000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 30
         },
         "foundation_year": 1938,
         "owner": "Elof Rönnqvist",
@@ -29,7 +30,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Ljunglids Snickeriverkstad",
@@ -48,7 +49,8 @@
                 "industriarb": 5
             },
             "annual_turnover": 30000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 5
         },
         "foundation_year": 1943,
         "owners": [
@@ -63,7 +65,7 @@
             "Latitude": 57.5577164,
             "Longitude": 12.5443604
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Ljunglöfs Litografiska AB.",
@@ -83,7 +85,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 900000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 70
         },
         "foundation_year": 1896,
         "corporation_year": 1931,
@@ -109,7 +112,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "AB. Ljungmans Verkstäder",
@@ -135,7 +138,8 @@
                 "industriarb": 340
             },
             "annual_turnover": 5000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 340
         },
         "foundation_year": 1924,
         "owner": "N/A",
@@ -147,7 +151,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Ljungqvists Tapetfabrik",
@@ -166,7 +170,8 @@
                 "industriarb": 40
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 40
         },
         "foundation_year": 1905,
         "corporation_year": 1924,
@@ -192,7 +197,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "AB. S. Ljungqvists Möbelfabrik",
@@ -212,7 +217,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 575000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 35
         },
         "foundation_year": 1926,
         "corporation_year": 1945,
@@ -225,7 +231,7 @@
             "Latitude": 57.90930939999999,
             "Longitude": 14.0743665
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Ljungströms i Göteborg Verkstads AB",
@@ -245,7 +251,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 600000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 60
         },
         "foundation_year": 1931,
         "corporation_year": 1939,
@@ -258,7 +265,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "AB. Ljungströms Konfektionsfabrik",
@@ -277,7 +284,8 @@
                 "industriarb": 0
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "board": [],
@@ -289,6 +297,6 @@
             "Latitude": 59.04337529999999,
             "Longitude": 15.8709394
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

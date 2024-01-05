@@ -25,7 +25,7 @@
             "Latitude": 56.2006388,
             "Longitude": 12.5553288
         },
-        "cluster": 8
+        "cluster": 0
     },
     "2": {
         "name": "Högbergs Kemisk-Tekniska Industri",
@@ -55,7 +55,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Högberg & Hultners Snickerifabrik",
@@ -88,7 +88,7 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Högboholms Mek. Verkstad",
@@ -113,7 +113,7 @@
             "Latitude": 57.0345939,
             "Longitude": 14.5746558
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Högfors AB., Högforsbruk",
@@ -140,7 +140,7 @@
             "Olof Hedin",
             "adv. Helmer Lindh"
         ],
-        "cluster": 6
+        "cluster": 2
     },
     "6": {
         "name": "Högfors Cjuteri & Mek. Verkstad",
@@ -157,7 +157,7 @@
             "Latitude": 59.98853380000001,
             "Longitude": 15.019391
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Högfors och Persbo AB.",
@@ -187,7 +187,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 2
     },
     "8": {
         "name": "AB. Högfors Träsliperi",
@@ -216,6 +216,6 @@
             "Latitude": 63.3934041,
             "Longitude": 14.9062139
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

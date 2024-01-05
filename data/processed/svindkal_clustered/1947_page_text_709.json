@@ -38,7 +38,7 @@
             "Latitude": 59.3320543,
             "Longitude": 18.0628008
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. Tanneforsmöbler, Tannefors",
@@ -76,7 +76,7 @@
             "Latitude": 58.4075041,
             "Longitude": 15.6441541
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Tannin, Västervik",
@@ -137,7 +137,7 @@
             "Latitude": 55.8668993,
             "Longitude": 13.0897474
         },
-        "cluster": 1
+        "cluster": 9
     },
     "5": {
         "name": "Tefako AB., Stockholm",
@@ -158,7 +158,7 @@
         },
         "foundation_year": 1939,
         "director": "E. Lepiorz",
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB. TefCO, Göteborg",
@@ -197,7 +197,7 @@
             "Latitude": 57.73139029999999,
             "Longitude": 11.97554
         },
-        "cluster": 5
+        "cluster": 17
     },
     "7": {
         "name": "Tegeborgs Tegelbruk, Knislinge",
@@ -218,6 +218,6 @@
             "Latitude": 56.1934814,
             "Longitude": 14.0854131
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

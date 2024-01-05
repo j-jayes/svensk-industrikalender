@@ -13,7 +13,8 @@
             "employees": {
                 "industriarb": 12
             },
-            "annual_production_value": 110000
+            "annual_production_value": 110000,
+            "employees_total": 12
         },
         "foundation_year": 1923,
         "owners": [
@@ -23,7 +24,7 @@
             "Latitude": 60.484304,
             "Longitude": 15.433969
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Sodafabrikernas Försäljnings AB",
@@ -40,7 +41,8 @@
             "postgiro": "25536"
         },
         "financials": {
-            "capital": 117600
+            "capital": 117600,
+            "employees_total": 0
         },
         "foundation_year": 1900,
         "board": [
@@ -62,7 +64,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "AB. Solberga Fabriker",
@@ -76,7 +78,8 @@
             "employees": {
                 "Arb.-antal": 10
             },
-            "annual_production_value": 120000
+            "annual_production_value": 120000,
+            "employees_total": 10
         },
         "foundation_year": 1940,
         "board": [
@@ -101,7 +104,7 @@
             "Latitude": 57.73425909999999,
             "Longitude": 14.7513649
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Solberga Mek. Werkstads A B",
@@ -117,7 +120,8 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 45
         },
         "foundation_year": 1900,
         "corporation_year": 1915,
@@ -143,7 +147,7 @@
             "Latitude": 57.73425909999999,
             "Longitude": 14.7513649
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Solfarin",
@@ -159,7 +163,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 15
         },
         "foundation_year": 1904,
         "board": [
@@ -188,7 +193,7 @@
             "Latitude": 56.0537433,
             "Longitude": 14.5796878
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Sollefteå Bryggeri AB",
@@ -203,7 +208,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 25
         },
         "corporation_year": 1937,
         "board": [
@@ -224,7 +230,7 @@
             "Latitude": 63.1654065,
             "Longitude": 17.277135
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "AB. Sollefteå Kalksandstegel",
@@ -238,7 +244,8 @@
             "capital": 50000,
             "employees": {
                 "Arb.-antal": 12
-            }
+            },
+            "employees_total": 12
         },
         "foundation_year": 1908,
         "director": "Gustaf Lunägren",
@@ -246,7 +253,7 @@
             "Latitude": 63.1654065,
             "Longitude": 17.277135
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "AB. Sollefteå Syrgas verk",
@@ -261,7 +268,8 @@
             "employees": {
                 "industriarb": 14
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 14
         },
         "foundation_year": 1914,
         "board": [
@@ -291,6 +299,6 @@
             "Latitude": 63.1654065,
             "Longitude": 17.277135
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

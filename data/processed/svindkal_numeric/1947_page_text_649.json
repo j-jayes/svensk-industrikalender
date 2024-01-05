@@ -18,7 +18,8 @@
                 "Industriarb": 0
             },
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "director": "Thure Block",
@@ -27,7 +28,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Stockholms Pappersindustri",
@@ -49,7 +50,8 @@
                 "Industriarb": 35
             },
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 35
         },
         "foundation_year": 1929,
         "director": "Axel G. Karlsson",
@@ -58,7 +60,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "Stockholms Pälsvarufabriks AB",
@@ -79,7 +81,8 @@
                 "Industriarb": 20
             },
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 20
         },
         "foundation_year": 1911,
         "current_name_year": 1938,
@@ -122,7 +125,8 @@
                 "Arb.-antal": 10
             },
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 10
         },
         "foundation_year": 1934,
         "owners": [
@@ -159,7 +163,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Stockholms Siporexfabrik AB",
@@ -177,7 +181,8 @@
                 "Antal industriarb": 250
             },
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": "Ej tillgänglig"
+            "annual_production_value": "Ej tillgänglig",
+            "employees_total": 250
         },
         "foundation_year": 1935,
         "current_name_year": 1938,
@@ -200,7 +205,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Stockholms Skofabrik",
@@ -219,7 +224,8 @@
                 "industriarb": 185
             },
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 185
         },
         "foundation_year": 1890,
         "board": [
@@ -243,7 +249,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "AB. Stockholms Strumpfabrik",
@@ -264,7 +270,8 @@
                 "Industriarb": 210
             },
             "annual_turnover": "Ej tillgänglig",
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 210
         },
         "foundation_year": 1928,
         "current_name_year": 1943,
@@ -296,7 +303,7 @@
             "Latitude": 59.23633,
             "Longitude": 17.9821561
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "Stockholms Superfosfat Fabriks AB",
@@ -309,6 +316,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 3
     }
 }

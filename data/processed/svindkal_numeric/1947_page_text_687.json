@@ -17,7 +17,8 @@
                 "industriarb": 75
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 75
         },
         "foundation_year": 1941,
         "director": "Carl A. Schröder",
@@ -35,7 +36,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Svenska Sniljegarnsfabriken",
@@ -52,7 +53,8 @@
             "employees": {
                 "Arb.-antal": 11
             },
-            "annual_production_value": 125000
+            "annual_production_value": 125000,
+            "employees_total": 11
         },
         "foundation_year": 1934,
         "owners": [
@@ -62,7 +64,7 @@
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 1
+        "cluster": 3
     },
     "3": {
         "name": "Svenska Sockerfabriks AB.",
@@ -115,14 +117,15 @@
             ],
             "director": "C. F. Tranchell",
             "managing_director": "N. W. Lundblad",
-            "sales_manager": "Gustaf T. Rooth"
+            "sales_manager": "Gustaf T. Rooth",
+            "employees_total": 0
         },
         "foundation_year": 1907,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "AB. Svenska Spiralfabriken",
@@ -141,12 +144,13 @@
                     "role": "N/A"
                 }
             ],
-            "director": "N/A"
+            "director": "N/A",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

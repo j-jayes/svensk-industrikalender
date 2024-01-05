@@ -9,7 +9,8 @@
                 "industriarb": 45
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 45
         },
         "foundation_year": 1901,
         "corporation_year": 1942,
@@ -32,7 +33,7 @@
             "Latitude": 60.2775453,
             "Longitude": 15.985892
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "AB. Södra Snickerifabrikens",
@@ -50,7 +51,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": "Information saknas"
+            "annual_production_value": "Information saknas",
+            "employees_total": 50
         },
         "foundation_year": 1893,
         "corporation_year": 1908,
@@ -64,7 +66,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Södra Snickeri- & Möbelfabriken i Svängsta",
@@ -88,7 +90,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_production_value": 675000
+            "annual_production_value": 675000,
+            "employees_total": 90
         },
         "foundation_year": 1922,
         "corporation_year": 1936,
@@ -97,7 +100,7 @@
             "Latitude": 56.2619903,
             "Longitude": 14.76907
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "AB. Sölvesborgs Glasbruk",
@@ -115,7 +118,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 100
         },
         "foundation_year": 1896,
         "corporation_year": 1933,
@@ -147,7 +151,7 @@
             "Latitude": 56.0537433,
             "Longitude": 14.5796878
         },
-        "cluster": 2
+        "cluster": 0
     },
     "5": {
         "name": "Sölvesborgs Varvs- & Rederi AB.",
@@ -164,7 +168,8 @@
             "employees": {
                 "industriarb": 350
             },
-            "annual_production_value": 2660000
+            "annual_production_value": 2660000,
+            "employees_total": 350
         },
         "corporation_year": 1918,
         "board": [
@@ -181,7 +186,7 @@
             "Latitude": 56.0537433,
             "Longitude": 14.5796878
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Sönnergrens Verkstäder",
@@ -201,7 +206,8 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_production_value": 220000
+            "annual_production_value": 220000,
+            "employees_total": 23
         },
         "corporation_year": 1928,
         "director": "Ture Sönnergren",
@@ -209,7 +215,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "Erik Sörberg, Armaturfabrik",
@@ -227,7 +233,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 65
         },
         "corporation_year": 1936,
         "owner": "Erik Sörberg",
@@ -235,7 +242,7 @@
             "Latitude": 59.422397,
             "Longitude": 16.097786
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "Sörby Mek. Verkstad",
@@ -252,7 +259,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 20
         },
         "corporation_year": 1936,
         "owner": "Helmer Berglund",
@@ -260,6 +268,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

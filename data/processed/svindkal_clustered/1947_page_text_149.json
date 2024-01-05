@@ -62,7 +62,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Almgrens Konfektions AB.",
@@ -87,7 +87,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Almgrens Kravattfabrik",
@@ -112,7 +112,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "C. B. Almquists AB.",
@@ -141,7 +141,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 0
     },
     "5": {
         "name": "AB. Almquist & Cöster",
@@ -178,7 +178,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "AB. Almqvist & Johanson",
@@ -220,6 +220,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

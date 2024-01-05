@@ -23,7 +23,8 @@
                 "industriarb": 130
             },
             "annual_turnover": 3600000,
-            "annual_production_value": 3600000
+            "annual_production_value": 3600000,
+            "employees_total": 130
         },
         "foundation_year": 1845,
         "corporation_year": 1906,
@@ -50,7 +51,7 @@
             "Latitude": 57.80093300000001,
             "Longitude": 15.7170742
         },
-        "cluster": 2
+        "cluster": 0
     },
     "2": {
         "name": "Gullaskrufs Glasbruks AB.",
@@ -76,7 +77,8 @@
                 "industriarb": 80
             },
             "annual_turnover": 900000,
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 80
         },
         "foundation_year": 1893,
         "corporation_year": 1927,
@@ -99,7 +101,7 @@
             "Latitude": 56.8757027,
             "Longitude": 15.675754
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "Cullbergs Maskinfabriks AB.",
@@ -123,7 +125,8 @@
             "capital": 93000,
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "foundation_year": 1871,
         "corporation_year": 1904,
@@ -148,7 +151,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Gullbergs Skofabrik",
@@ -165,7 +168,8 @@
             "employees": {
                 "industriarb": 74
             },
-            "annual_turnover": 1200000
+            "annual_turnover": 1200000,
+            "employees_total": 74
         },
         "foundation_year": 1919,
         "owners": [
@@ -176,7 +180,7 @@
             "Latitude": 59.1962252,
             "Longitude": 15.1487844
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "Cullebo Snickerifabrik",
@@ -203,7 +207,8 @@
             "employees": {
                 "industriarb": 18
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 18
         },
         "foundation_year": 1920,
         "manager": "Gunnar Petersson",
@@ -211,7 +216,7 @@
             "Latitude": 57.0222025,
             "Longitude": 14.8917539
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. Gullhögens Bruk",
@@ -229,7 +234,8 @@
             "employees": {
                 "industriarb": 244
             },
-            "annual_turnover": "§ 100,000 kr"
+            "annual_turnover": "§ 100,000 kr",
+            "employees_total": 244
         },
         "foundation_year": 1916,
         "board": [
@@ -259,7 +265,7 @@
             "Latitude": 58.3902782,
             "Longitude": 13.8461208
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "Gullringens Träförädling",
@@ -279,7 +285,8 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 150
         },
         "foundation_year": 1930,
         "manager": "Stig Ansg. Svensson",
@@ -288,6 +295,6 @@
             "Latitude": 57.80093300000001,
             "Longitude": 15.7170742
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

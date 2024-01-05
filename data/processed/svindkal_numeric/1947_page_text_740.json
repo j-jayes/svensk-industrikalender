@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 75
             },
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 75
         },
         "foundation_year": 1915,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 58.8086316,
             "Longitude": 12.4355554
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Uppsala Armaturfabrik AB.",
@@ -57,7 +58,8 @@
             "employees": {
                 "industriarb": 75
             },
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 75
         },
         "foundation_year": 1915,
         "board": [
@@ -79,7 +81,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Upsala Bayerska Bryggeri AB.",
@@ -96,7 +98,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 60
         },
         "foundation_year": 1865,
         "board": [
@@ -123,7 +126,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "AB. Upsala Bröd",
@@ -140,7 +143,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 60
         },
         "foundation_year": 1919,
         "director": "Ragnar Åkerblom",
@@ -148,7 +152,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Upsala-Ekeby AB.",
@@ -166,7 +170,8 @@
             "employees": {
                 "industriarb": 612
             },
-            "annual_production_value": 10500000
+            "annual_production_value": 10500000,
+            "employees_total": 612
         },
         "foundation_year": 1886,
         "board": [
@@ -203,7 +208,7 @@
             "Latitude": 59.84999999999999,
             "Longitude": 17.6
         },
-        "cluster": 1
+        "cluster": 14
     },
     "6": {
         "name": "AB. Upsala Kappfabrik",
@@ -220,7 +225,8 @@
             "employees": {
                 "industriarb": 350
             },
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 350
         },
         "foundation_year": 1917,
         "board": [
@@ -251,7 +257,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Upsala Kartongfabriks AB.",
@@ -268,7 +274,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1903,
         "manager": "Bengt Wenngren",
@@ -276,6 +283,6 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 1
+        "cluster": 17
     }
 }

@@ -22,7 +22,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 550000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 40
         },
         "foundation_year": 1899,
         "owners": [
@@ -34,7 +35,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 3
+        "cluster": 9
     },
     "2": {
         "name": "Jönköpings och Vuicans Tändsticksfabriks AB.",
@@ -62,7 +63,8 @@
                 "industriarb": 1750
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 1750
         },
         "corporation_year": 1903,
         "owners": [
@@ -97,7 +99,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 6
+        "cluster": 3
     },
     "3": {
         "name": "Jönköpings Vågfabriks AB.",
@@ -120,7 +122,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 20
         },
         "foundation_year": 1918,
         "board": [
@@ -138,6 +141,6 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

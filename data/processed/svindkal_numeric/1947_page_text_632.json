@@ -14,7 +14,8 @@
             "capital": 25000,
             "employees": {
                 "hemarbetare": 110
-            }
+            },
+            "employees_total": 110
         },
         "foundation_year": 1937,
         "corporation_year": 1939,
@@ -44,7 +45,8 @@
         "financials": {
             "employees": {
                 "industriarb.": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1918,
         "owner": "fabr. R. A. Skölin",
@@ -52,7 +54,7 @@
             "Latitude": 59.9472688,
             "Longitude": 17.8793542
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "Skönviks AB.",
@@ -67,7 +69,8 @@
                 "industriarb.": 1,
                 ", ": 100
             },
-            "annual_turnover": "30,000 stds sågade o. hyvlade trävaror, 45,000 ton sulfitcellulosa, 3,5 milj. lit. sulfitsprit, 40,000 ton tidningspapper"
+            "annual_turnover": "30,000 stds sågade o. hyvlade trävaror, 45,000 ton sulfitcellulosa, 3,5 milj. lit. sulfitsprit, 40,000 ton tidningspapper",
+            "employees_total": 101
         },
         "foundation_year": 1861,
         "owners": [
@@ -101,7 +104,7 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Skövde Gasbetong AB.",
@@ -118,7 +121,8 @@
             "capital": 338200,
             "employees": {
                 "industriarb.": 140
-            }
+            },
+            "employees_total": 140
         },
         "corporation_year": 1917,
         "board": [
@@ -148,7 +152,7 @@
             "Latitude": 58.3902782,
             "Longitude": 13.8461208
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Slagteri AB. i Stockholm",
@@ -162,7 +166,8 @@
             "capital": 1040000,
             "employees": {
                 "industriarb.": 40
-            }
+            },
+            "employees_total": 40
         },
         "board": [
             {
@@ -182,7 +187,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 18
     },
     "6": {
         "name": "Slakteri AB. Norrmalm",
@@ -214,7 +219,8 @@
             "employees": {
                 "industriarb.": 15
             },
-            "annual_production_value": 120000
+            "annual_production_value": 120000,
+            "employees_total": 15
         },
         "foundation_year": 1923,
         "owner": "disp. Knut Slettengren",
@@ -222,6 +228,6 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

@@ -9,7 +9,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 10
         },
         "foundation_year": 1917,
         "corporation_year": 1923,
@@ -18,7 +19,7 @@
             "Latitude": 57.68944029999999,
             "Longitude": 11.9941225
         },
-        "cluster": 1
+        "cluster": 3
     },
     "2": {
         "name": "J. A. Wirén, Cjuteri o. Mek. Verkstad",
@@ -36,7 +37,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 65
         },
         "foundation_year": 1919,
         "owner": "dir. J. A. Wirén",
@@ -45,7 +47,7 @@
             "Latitude": 57.71795720000001,
             "Longitude": 12.0825954
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "AB. Wiro",
@@ -58,7 +60,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "corporation_year": 1934,
         "board": [
@@ -76,7 +79,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 17
     },
     "4": {
         "name": "Wirsbo AB., Virsbo",
@@ -92,7 +95,8 @@
             "employees": {
                 "industriarb": 300
             },
-            "annual_turnover": 8000000
+            "annual_turnover": 8000000,
+            "employees_total": 300
         },
         "corporation_year": 1892,
         "board": [
@@ -129,7 +133,8 @@
             "employees": {
                 "arb.-antal": 12
             },
-            "annual_turnover": 155000
+            "annual_turnover": 155000,
+            "employees_total": 12
         },
         "foundation_year": 1902,
         "owner": "fabr. Carl Nilsson",
@@ -137,7 +142,7 @@
             "Latitude": 57.59999999999999,
             "Longitude": 14.75
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Visby Silicat-Tegelfabrik",
@@ -152,7 +157,8 @@
             "employees": {
                 "arb.-antal": 16
             },
-            "annual_turnover": 130000
+            "annual_turnover": 130000,
+            "employees_total": 16
         },
         "foundation_year": 1903,
         "director": "Carl Gardell",
@@ -160,7 +166,7 @@
             "Latitude": 57.6348,
             "Longitude": 18.29484
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "Viskafors Cummifabrik",
@@ -171,6 +177,6 @@
             "Latitude": 57.63374469999999,
             "Longitude": 12.8568382
         },
-        "cluster": 1
+        "cluster": 3
     }
 }

@@ -17,7 +17,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 40
         },
         "foundation_year": 1901,
         "current_name_year": 1925,
@@ -41,7 +42,7 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Emmaboda Tapetfabrik",
@@ -64,7 +65,7 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 8
+        "cluster": 17
     },
     "3": {
         "name": "Emmaljunga Barnvagnsfabrik",
@@ -81,7 +82,8 @@
         "financials": {
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "director": "",
         "managing_director": "",
@@ -90,7 +92,7 @@
             "Latitude": 56.3972437,
             "Longitude": 13.6505764
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "Carl Emond AB.",
@@ -108,7 +110,8 @@
             "capital": 425000,
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "foundation_year": 1923,
         "board": [
@@ -127,7 +130,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 3
+        "cluster": 19
     },
     "5": {
         "name": "Emil Emond AB.",
@@ -147,7 +150,8 @@
             "capital": 600000,
             "employees": {
                 "industriarb": 500
-            }
+            },
+            "employees_total": 500
         },
         "foundation_year": 1921,
         "board": [
@@ -173,7 +177,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB. Emsfors Bruk",
@@ -182,7 +186,8 @@
         "products": "Tillverkar omslags- och påspapper, fruktomslags- och buteljomslagspapper samt sulfitcellulosa.",
         "financials": {
             "capital": 1000000,
-            "annual_turnover": "12,000 ton sulfitpapper o. 3,000 ton sulfitcellulosa (för försäljn.)"
+            "annual_turnover": "12,000 ton sulfitpapper o. 3,000 ton sulfitcellulosa (för försäljn.)",
+            "employees_total": 0
         },
         "foundation_year": 1867,
         "current_name_year": 1914,
@@ -214,7 +219,7 @@
             "Latitude": 57.1638581,
             "Longitude": 16.4618268
         },
-        "cluster": 5
+        "cluster": 17
     },
     "7": {
         "name": "Emtiverken",
@@ -230,7 +235,8 @@
         "financials": {
             "employees": {
                 "arb.-antal": 9
-            }
+            },
+            "employees_total": 9
         },
         "current_name_year": 1930,
         "owner": "ing. O. F. Flodeli",
@@ -238,7 +244,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "AB. Eneroth & Co.",
@@ -250,7 +256,8 @@
             "postgiro": "Stockholm 12"
         },
         "financials": {
-            "capital": 1000000
+            "capital": 1000000,
+            "employees_total": 0
         },
         "foundation_year": 1897,
         "board": [
@@ -272,7 +279,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "9": {
         "name": "Thure Enfors",
@@ -292,6 +299,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

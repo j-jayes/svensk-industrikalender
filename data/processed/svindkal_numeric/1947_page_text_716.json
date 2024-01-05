@@ -19,7 +19,8 @@
                 "industriarb": 300
             },
             "foundation_year": 1915,
-            "current_name_year": 1919
+            "current_name_year": 1919,
+            "employees_total": 300
         },
         "board": [
             {
@@ -43,7 +44,7 @@
             "Latitude": 59.283738,
             "Longitude": 12.7760041
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Thurab",
@@ -65,14 +66,15 @@
                 "industriarb": 50
             },
             "annual_turnover": 500000,
-            "foundation_year": 1939
+            "foundation_year": 1939,
+            "employees_total": 50
         },
         "director": "Ernst Berg",
         "coordinates": {
             "Latitude": 59.283738,
             "Longitude": 12.7760041
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Olof Thylén & Co.",
@@ -92,7 +94,8 @@
             },
             "annual_turnover": 1000000,
             "foundation_year": 1932,
-            "corporation_year": 1944
+            "corporation_year": 1944,
+            "employees_total": 60
         },
         "directors": [
             "Olof Thylén",
@@ -123,7 +126,8 @@
                 "industriarb": 28
             },
             "annual_turnover": 340000,
-            "corporation_year": 1943
+            "corporation_year": 1943,
+            "employees_total": 28
         },
         "board": [
             {
@@ -152,7 +156,7 @@
             "Latitude": 63.0001123,
             "Longitude": 14.745124
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "C. Tibblin AB.",
@@ -173,7 +177,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 1000000,
-            "corporation_year": 1946
+            "corporation_year": 1946,
+            "employees_total": 25
         },
         "board": [
             {
@@ -283,6 +288,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

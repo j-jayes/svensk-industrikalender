@@ -26,6 +26,10 @@ for file_name, file_data in data.items():
 # Concatenate the business and products values
 concatenated_texts = [f"{business} {products}" for business, products in zip(businesses, products)]
 
+# Filter the word "None" from the concatenated texts
+concatenated_texts = [text.replace('None', '') for text in concatenated_texts]
+
+
 # take the first 5 items of the list
 # concatenated_texts = concatenated_texts[:5]
 
@@ -55,10 +59,52 @@ else:
         json.dump(embeddings.tolist(), file, ensure_ascii=False, indent=4)
 
 
+# Choose the number of clusters - this is added later
+
+from sklearn.cluster import KMeans
+import matplotlib.pyplot as plt
+
+# Range of cluster numbers to try
+range_n_clusters = range(5, 30)
+
+# Store the sum of squared distances
+ssd = []
+
+for n_clusters in range_n_clusters:
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
+    kmeans.fit(embeddings)
+    ssd.append(kmeans.inertia_)
+
+# Plotting the elbow graph
+plt.plot(range_n_clusters, ssd, 'bx-')
+plt.xlabel('Number of clusters')
+plt.ylabel('Sum of squared distances')
+plt.title('Elbow Method For Optimal k')
+plt.show()
+
+
+from sklearn.metrics import silhouette_score
+
+silhouette_avg = []
+
+for n_clusters in range_n_clusters:
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
+    cluster_labels = kmeans.fit_predict(embeddings)
+    silhouette_avg.append(silhouette_score(embeddings, cluster_labels))
+
+# Plotting the silhouette scores
+plt.plot(range_n_clusters, silhouette_avg, 'bx-')
+plt.xlabel('Number of clusters')
+plt.ylabel('Silhouette score')
+plt.title('Silhouette Score For Optimal k')
+plt.show()
+
+
 # Perform KMeans clustering
-n_clusters = 10  # Example: setting 10 clusters, this can be adjusted based on the data
+n_clusters = 20  # Example: setting 20 clusters, this can be adjusted based on the data
 kmeans = KMeans(n_clusters=n_clusters, random_state=42)
 cluster_labels = kmeans.fit_predict(embeddings)
+
 
 # Combining the results
 clustered_data = [{'text': text, 'cluster': int(cluster)} for text, cluster in zip(concatenated_texts, cluster_labels)]
@@ -96,13 +142,33 @@ fig.update_layout(title='Cluster Visualization of Firms', xaxis_title='UMAP 1', 
 fig.show()
 
 
+# Read in the clustered data from businesses_clustered.json
+
+# Load the JSON data from the provided file
+file_path = 'data/clustering/businesses_clustered.json'  # Update with the path to your JSON file
+with open(file_path, 'r', encoding='utf-8') as file:
+    data = json.load(file)
+
+# Save a sample of the clustered data to a JSON file with 10 businesses from each cluster
+clustered_data = []
+
+for file_name, file_data in data.items():
+    for key, value in file_data.items():
+        clustered_data.append({'text': value['text'], 'cluster': value['cluster']})
+
+# Save the data to a JSON file
+os.makedirs('data/clustering', exist_ok=True)
+with open('data/clustering/businesses_clustered_sample.json', 'w', encoding='utf-8') as file:
+    json.dump(clustered_data, file, ensure_ascii=False, indent=4)
+
+
 
 
 
 
 
 # count the most common n terms in clustered_data for each cluster
-n = 10
+n = 20
 
 # create a dataframe from clustered_data
 df = pd.DataFrame(clustered_data)

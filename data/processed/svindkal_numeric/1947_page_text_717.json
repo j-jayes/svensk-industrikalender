@@ -21,7 +21,8 @@
                 "industriarb": 350
             },
             "annual_turnover": 5000000,
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 350
         },
         "foundation_year": 1898,
         "owners": [
@@ -47,7 +48,7 @@
             "Latitude": 58.7101119,
             "Longitude": 13.8213327
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Tidans Ullspinneri, F. o. S. Kämpe",
@@ -64,7 +65,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 350000,
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 15
         },
         "foundation_year": 1891,
         "owners": [
@@ -75,7 +77,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "J. H. Tidbeck AB., Stockholm",
@@ -94,7 +96,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 950000
+            "annual_turnover": 950000,
+            "employees_total": 50
         },
         "corporation_year": 1940,
         "board": [
@@ -112,7 +115,7 @@
             }
         ],
         "director": "Herman Tidbeck",
-        "cluster": 3
+        "cluster": 12
     },
     "4": {
         "name": "B. Tielman, Linköping",
@@ -128,11 +131,12 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 20
         },
         "foundation_year": 1931,
         "director": "Bertil Tielman",
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "AB. Tika, Stockholm",
@@ -146,7 +150,8 @@
             "postgiro": "25309"
         },
         "financials": {
-            "capital": 233000
+            "capital": 233000,
+            "employees_total": 0
         },
         "corporation_year": 1927,
         "board": [
@@ -164,7 +169,7 @@
             }
         ],
         "director": "Gösta Lagergren",
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "Tillberga Gjuter i, Johansson & Co.",
@@ -181,14 +186,15 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": "1,500 ton gjutgods"
+            "annual_production_value": "1,500 ton gjutgods",
+            "employees_total": 50
         },
         "director": "David Sjölander",
         "coordinates": {
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "Timander, Bröderna, Lastad",
@@ -208,7 +214,8 @@
             "capital": 225000,
             "employees": {
                 "industriarb": 27
-            }
+            },
+            "employees_total": 27
         },
         "corporation_year": 1926,
         "board": [
@@ -223,7 +230,7 @@
         ],
         "director": "E. Falksten",
         "manager": "John H. Raftell",
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "Timmergata Tegelbruk, Norrköping",
@@ -235,6 +242,6 @@
             ],
             "postgiro": "28334"
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

@@ -19,7 +19,8 @@
                 "industriarb.": 15
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 15
         },
         "foundation_year": 1916,
         "corporation_year": 1922,
@@ -37,7 +38,7 @@
             "Latitude": 59.3,
             "Longitude": 18
         },
-        "cluster": 6
+        "cluster": 3
     },
     "2": {
         "name": "Mackmyra Sulfit AB., Mackmyra",
@@ -53,7 +54,8 @@
             "employees": {
                 "industriarb.": 190
             },
-            "annual_turnover": "30,000 ton sulfitcellulosa, 1 milj. 1. sulfitsprit, 500 stds sågade trävaror"
+            "annual_turnover": "30,000 ton sulfitcellulosa, 1 milj. 1. sulfitsprit, 500 stds sågade trävaror",
+            "employees_total": 190
         },
         "foundation_year": 1890,
         "board": [
@@ -94,7 +96,7 @@
             "Latitude": 60.63333300000001,
             "Longitude": 16.966667
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Madrasser, Karlstad",
@@ -121,7 +123,8 @@
             "employees": {
                 "Arb.-antal": 15
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 15
         },
         "foundation_year": 1936,
         "board": [
@@ -134,7 +137,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Madrass-Fabriken Dux AB., Malmö",
@@ -167,7 +170,8 @@
             "capital": 225000,
             "employees": {
                 "industriarb.": 225
-            }
+            },
+            "employees_total": 225
         },
         "foundation_year": 1926,
         "board": [
@@ -188,7 +192,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Magni AB., Borås",
@@ -203,7 +207,8 @@
             "employees": {
                 "industriarb.": 300
             },
-            "annual_turnover": 5100000
+            "annual_turnover": 5100000,
+            "employees_total": 300
         },
         "foundation_year": 1913,
         "corporation_year": 1914,
@@ -227,7 +232,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Magnussons Lädervaru AB-, Klippan",
@@ -268,7 +273,8 @@
             "employees": {
                 "industriarb.": 30
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 30
         },
         "foundation_year": 1895,
         "corporation_year": 1937,
@@ -292,7 +298,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "AB. Magnusson &amp; Ohlssons Möbelfabrik, Malmhäck",
@@ -307,7 +313,8 @@
             "employees": {
                 "Arb.-antal": 10
             },
-            "annual_turnover": 110000
+            "annual_turnover": 110000,
+            "employees_total": 10
         },
         "foundation_year": 1934,
         "corporation_year": 1935,
@@ -333,6 +340,6 @@
             "Latitude": 57.5781694,
             "Longitude": 14.4641901
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

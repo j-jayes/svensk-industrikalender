@@ -18,7 +18,8 @@
                 "industriarb": 160
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 160
         },
         "foundation_year": 1914,
         "board": [
@@ -35,7 +36,7 @@
             "Latitude": 56.9814885,
             "Longitude": 16.3327375
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Maskinfabriks AB. Thule",
@@ -53,7 +54,8 @@
             "capital": 500000,
             "employees": {
                 "industriarb": 125
-            }
+            },
+            "employees_total": 125
         },
         "foundation_year": 1908,
         "board": [
@@ -74,7 +76,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Maskin- & Gjuteri AB.",
@@ -94,7 +96,8 @@
             "employees": {
                 "industriarb": 95
             },
-            "annual_turnover": 1400000
+            "annual_turnover": 1400000,
+            "employees_total": 95
         },
         "foundation_year": 1924,
         "board": [
@@ -123,7 +126,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Master hand AB.",
@@ -142,7 +145,8 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_turnover": 2500000
+            "annual_turnover": 2500000,
+            "employees_total": 150
         },
         "foundation_year": 1924,
         "board": null,
@@ -150,7 +154,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "AB. Matador verken",
@@ -174,7 +178,8 @@
             "employees": {
                 "industriarb": 110
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 110
         },
         "foundation_year": 1930,
         "corporation_year": 1927,
@@ -196,7 +201,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Mataki",
@@ -214,7 +219,8 @@
             "capital": 1000000,
             "employees": {
                 "industriarb": 125
-            }
+            },
+            "employees_total": 125
         },
         "foundation_year": 1904,
         "corporation_year": 1946,
@@ -252,6 +258,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 17
     }
 }

@@ -22,14 +22,15 @@
                 "industriarb": 30
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 30
         },
         "foundation_year": 1928,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Kohlswa Jernverks AB., Kolsva",
@@ -54,14 +55,15 @@
                 "industriarb": 850
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 850
         },
         "foundation_year": 1892,
         "coordinates": {
             "Latitude": 59.5863092,
             "Longitude": 15.865174
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Kokkärlsfabriken E. Bergman & Co.",
@@ -86,14 +88,15 @@
                 "industriarb": 10
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1919,
         "coordinates": {
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Kolafabriken Aroma",
@@ -118,14 +121,15 @@
                 "industriarb": 37
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 37
         },
         "foundation_year": 1922,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Kolborstfabriken Bunge AB.",
@@ -151,13 +155,14 @@
                 "industriarb": 40
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 40
         },
         "foundation_year": 1915,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

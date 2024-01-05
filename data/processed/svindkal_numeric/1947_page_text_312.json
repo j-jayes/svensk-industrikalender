@@ -19,7 +19,8 @@
                 "industriarb": 166
             },
             "annual_turnover": 3000000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 166
         },
         "foundation_year": 1874,
         "corporation_year": 1907,
@@ -83,7 +84,8 @@
                 "industriarb": 169
             },
             "annual_turnover": 9800000,
-            "annual_production_value": 9800000
+            "annual_production_value": 9800000,
+            "employees_total": 169
         },
         "foundation_year": 1867,
         "corporation_year": 1872,
@@ -116,7 +118,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Galco, Stockholm",
@@ -136,7 +138,8 @@
                 "industriarb": 65
             },
             "annual_turnover": 1200000,
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 65
         },
         "foundation_year": 1912,
         "corporation_year": 1923,
@@ -161,7 +164,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Camla Wellpappfabriken AB., Stockholm",
@@ -171,7 +174,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "Gamlabro AB., Norrköping",
@@ -191,7 +194,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 1300000,
-            "annual_production_value": 1300000
+            "annual_production_value": 1300000,
+            "employees_total": 100
         },
         "corporation_year": 1864,
         "board": [
@@ -211,7 +215,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Gamleby Mek. Verkstad AB., Gamleby",
@@ -229,14 +233,15 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 450000
+            "annual_turnover": 450000,
+            "employees_total": 30
         },
         "foundation_year": 1942,
         "coordinates": {
             "Latitude": 57.89316029999999,
             "Longitude": 16.4060887
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Gamleby Trävaru AB., Gamleby",
@@ -247,6 +252,6 @@
             "Latitude": 57.89316029999999,
             "Longitude": 16.4060887
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

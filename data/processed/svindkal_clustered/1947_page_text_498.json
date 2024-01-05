@@ -38,7 +38,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 0
     },
     "2": {
         "name": "Malmö Nysilverfabrik",
@@ -59,7 +59,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 17
     },
     "3": {
         "name": "Malmö Oljeslageri & Happachs Såp-fabriks AB.",
@@ -96,7 +96,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "Malmö Reklamfabrik AB.",
@@ -149,7 +149,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "Malmö Sidenväveri AB.",
@@ -190,7 +190,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Malmö Skeppsfärgfabrik",
@@ -228,7 +228,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "7": {
         "name": "Malmö Skjortfabrik",
@@ -252,7 +252,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Malmö Skofabriks AB.",
@@ -289,6 +289,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

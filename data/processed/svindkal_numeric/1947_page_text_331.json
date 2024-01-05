@@ -18,7 +18,8 @@
                 "industriarb": 230
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "9,000 ton kraftpapper, 1,600 stds sågade trävaror"
+            "annual_production_value": "9,000 ton kraftpapper, 1,600 stds sågade trävaror",
+            "employees_total": 230
         },
         "foundation_year": 1873,
         "predecessor": "AB. Billingsfors-Långed",
@@ -47,7 +48,7 @@
             "Latitude": 58.98480769999999,
             "Longitude": 12.2502881
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Gustafsson & Anderssons Varvs AB",
@@ -69,7 +70,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 600000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 50
         },
         "foundation_year": 1905,
         "corporation_year": 1942,
@@ -93,7 +95,7 @@
             "Latitude": 59.36295999999999,
             "Longitude": 18.1468
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Gustafson & Söners Skeppsvarv",
@@ -114,7 +116,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 275000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 35
         },
         "foundation_year": 1922,
         "corporation_year": 1931,
@@ -137,7 +140,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Ch. Gustafssons Skofabrik",
@@ -152,7 +155,8 @@
         },
         "financials": {
             "annual_turnover": 450000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 0
         },
         "foundation_year": 1918,
         "manager": "Charles Gustafsson",
@@ -160,7 +164,7 @@
             "Latitude": 56.2573385,
             "Longitude": 12.9704446
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "E. Gustafsons Gravyranstalt & Mek. Verkstad",
@@ -180,7 +184,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 170000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 15
         },
         "foundation_year": 1923,
         "manager": "Elof Gustafsson",
@@ -189,7 +194,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "AB. Einar Gustafsson",
@@ -210,7 +215,8 @@
                 "industriarb": 75
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "1,000 stds trävaror"
+            "annual_production_value": "1,000 stds trävaror",
+            "employees_total": 75
         },
         "foundation_year": 1936,
         "corporation_year": 1944,
@@ -220,7 +226,7 @@
             "Latitude": 61.151154,
             "Longitude": 14.1814897
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Cideon Gustafson",
@@ -235,7 +241,8 @@
         },
         "financials": {
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 0
         },
         "foundation_year": "Not available",
         "manager": "Not available",
@@ -244,6 +251,6 @@
             "Latitude": 59.16741949999999,
             "Longitude": 18.1363475
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

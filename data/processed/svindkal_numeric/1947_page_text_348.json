@@ -23,7 +23,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 56.6743748,
@@ -53,7 +54,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Halmstads Spik- & Trådverk",
@@ -77,13 +78,14 @@
             "capital": 350000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": 1100000
+            "annual_production_value": 1100000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Halmstads Trikåindustri AB",
@@ -107,13 +109,14 @@
             "capital": 25000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Halmstads Valskvarn",
@@ -158,13 +161,14 @@
             "capital": 55000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": 160000
+            "annual_production_value": 160000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "H. Halmö AB",
@@ -189,14 +193,15 @@
             "capital": 25000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 0
         },
         "owner": "Georg Jaeppelt",
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "Hamburger Bryggeriet",
@@ -240,13 +245,14 @@
             "capital": 600000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 58.81200819999999,
             "Longitude": 14.9631045
         },
-        "cluster": 1
+        "cluster": 0
     },
     "10": {
         "name": "AB. Hammars Mek. Verkstad",
@@ -272,7 +278,7 @@
             "Latitude": 63.00667439999999,
             "Longitude": 17.7564249
         },
-        "cluster": 6
+        "cluster": 12
     },
     "11": {
         "name": "C. M. Hammars Metallvarufabrik",
@@ -293,6 +299,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

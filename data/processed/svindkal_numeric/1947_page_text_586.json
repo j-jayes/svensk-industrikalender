@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb": 300
             },
-            "annual_turnover": 4000000
+            "annual_turnover": 4000000,
+            "employees_total": 300
         },
         "foundation_year": 1913,
         "board": [
@@ -49,7 +50,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 12
     },
     "2": {
         "name": "Raintex AB.",
@@ -66,7 +67,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 60
-            }
+            },
+            "employees_total": 60
         },
         "foundation_year": 1943,
         "manager": "Erich Zons",
@@ -75,7 +77,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 9
     },
     "3": {
         "name": "Rakbladsfabriken Sollex",
@@ -89,7 +91,8 @@
         "financials": {
             "employees": {
                 "industriarb": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1933,
         "manager": "Herman Falk",
@@ -98,7 +101,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Ralsta Tegelbruk",
@@ -112,7 +115,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": "3 milj. tegelvaror"
+            "annual_production_value": "3 milj. tegelvaror",
+            "employees_total": 30
         },
         "manager": "Hans v. Kantzow",
         "overing": "Gösta Rehnquist",
@@ -122,7 +126,7 @@
             "Latitude": 59.6132041,
             "Longitude": 16.2294755
         },
-        "cluster": 1
+        "cluster": 14
     },
     "5": {
         "name": "Rambergs Snickerifabrik",
@@ -142,7 +146,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 15
     },
     "6": {
         "name": "AB. Ramlist",
@@ -157,7 +161,8 @@
             "employees": {
                 "industriarb": 27
             },
-            "annual_production_value": 225000
+            "annual_production_value": 225000,
+            "employees_total": 27
         },
         "foundation_year": 1920,
         "owner": [
@@ -168,7 +173,7 @@
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 1
+        "cluster": 15
     },
     "7": {
         "name": "Ram- & Lyxfabriken \"Haga\"",
@@ -179,7 +184,8 @@
             "postgiro": "31311"
         },
         "financials": {
-            "annual_production_value": 17000
+            "annual_production_value": 17000,
+            "employees_total": 0
         },
         "foundation_year": 1917,
         "owner": "fabr. Otto Carlsson",
@@ -187,6 +193,6 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 8
+        "cluster": 0
     }
 }

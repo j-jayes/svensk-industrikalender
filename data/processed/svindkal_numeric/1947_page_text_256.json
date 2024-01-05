@@ -18,7 +18,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 500000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 30
         },
         "foundation_year": 1939,
         "director": "fabr. Sven Bertil Nelson",
@@ -27,7 +28,7 @@
             "Latitude": 55.9344942,
             "Longitude": 13.9744406
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB Ekensbergs Varv",
@@ -44,7 +45,8 @@
             "capital": 600000,
             "employees": {
                 "industriarb": 370
-            }
+            },
+            "employees_total": 370
         },
         "foundation_year": 1870,
         "director": "Åke Tygård",
@@ -74,7 +76,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "Ekenäs Glasbruk AB.",
@@ -93,13 +95,14 @@
             "capital": 62400,
             "employees": {
                 "industriarb": 145
-            }
+            },
+            "employees_total": 145
         },
         "coordinates": {
             "Latitude": 57.49850059999999,
             "Longitude": 15.0070236
         },
-        "cluster": 1
+        "cluster": 0
     },
     "4": {
         "name": "AB. Joh. Ekhoims Skofabrik",
@@ -118,13 +121,14 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 50
         },
         "coordinates": {
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Eklund & Co. Textil AB.",
@@ -136,7 +140,8 @@
             "phone": "136411"
         },
         "financials": {
-            "capital": 85000
+            "capital": 85000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 57.70887,
@@ -159,13 +164,14 @@
             "employees": {
                 "industriarb": 27
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 27
         },
         "coordinates": {
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 5
+        "cluster": 17
     },
     "7": {
         "name": "Ekolsunds Tegelbruk & Sågverk",
@@ -176,6 +182,6 @@
             "Latitude": 59.61970050000001,
             "Longitude": 17.3766542
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

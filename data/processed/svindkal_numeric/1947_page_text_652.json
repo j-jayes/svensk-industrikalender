@@ -18,7 +18,8 @@
             "employees": {
                 "industriarb": 110
             },
-            "foundation_year": 1877
+            "foundation_year": 1877,
+            "employees_total": 110
         },
         "board": [
             {
@@ -38,7 +39,7 @@
             "Latitude": 59.1242346,
             "Longitude": 15.9890463
         },
-        "cluster": 6
+        "cluster": 2
     },
     "2": {
         "name": "Stora Wörta Tegelbruk",
@@ -56,7 +57,8 @@
                 "industriarb": 35
             },
             "annual_production_value": "2,3 milj. st. tegelvaror",
-            "foundation_year": 1862
+            "foundation_year": 1862,
+            "employees_total": 35
         },
         "owners": [
             "fröken Elin Mattelin"
@@ -66,7 +68,7 @@
             "Latitude": 56.2,
             "Longitude": 15.533333
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Storebro Bruks AB.",
@@ -86,7 +88,8 @@
                 "industriarb": 110
             },
             "annual_turnover": 1000000,
-            "corporation_year": 1930
+            "corporation_year": 1930,
+            "employees_total": 110
         },
         "board": [
             {
@@ -110,7 +113,7 @@
             "Latitude": 57.5864655,
             "Longitude": 15.8397223
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Storviks Tegelbruk",
@@ -128,7 +131,8 @@
                 "industriarb": 25
             },
             "annual_production_value": "2 milj. st. tegelvaror, 200 stds trävaror",
-            "foundation_year": 1913
+            "foundation_year": 1913,
+            "employees_total": 25
         },
         "board": [
             {
@@ -149,6 +153,6 @@
             "Latitude": 60.58422459999999,
             "Longitude": 16.5293196
         },
-        "cluster": 7
+        "cluster": 14
     }
 }

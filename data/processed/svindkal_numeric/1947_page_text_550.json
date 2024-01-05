@@ -18,7 +18,8 @@
                 "production": 12
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": 110000
+            "annual_production_value": 110000,
+            "employees_total": 12
         },
         "foundation_year": 1898,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 60.60646000000001,
             "Longitude": 15.6355
         },
-        "cluster": 7
+        "cluster": 2
     },
     "2": {
         "name": "Nya Lervarufabriken, V. Tunberg & Co.",
@@ -55,7 +56,8 @@
             "employees": {
                 "total": 12
             },
-            "annual_production_value": 110000
+            "annual_production_value": 110000,
+            "employees_total": 12
         },
         "foundation_year": 1926,
         "owners": [
@@ -66,7 +68,7 @@
             "Latitude": 58.70550919999999,
             "Longitude": 14.1261468
         },
-        "cluster": 1
+        "cluster": 0
     },
     "3": {
         "name": "Nya AB. Liljeqvists Sågblads- & Redskapsfabrik",
@@ -85,7 +87,8 @@
                 "total": 75
             },
             "annual_turnover": "Information saknas",
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 75
         },
         "foundation_year": 1923,
         "board": [
@@ -130,7 +133,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Nya Linneindustri AB",
@@ -158,7 +161,8 @@
             "employees": {
                 "total": 140
             },
-            "annual_production_value": 1700000
+            "annual_production_value": 1700000,
+            "employees_total": 140
         },
         "foundation_year": 1932,
         "director": "Bengt Sandström",
@@ -166,7 +170,7 @@
             "Latitude": 65.584819,
             "Longitude": 22.1567026
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Nya Läderfabriks AB. Göta",
@@ -184,7 +188,8 @@
             "employees": {
                 "total": 114
             },
-            "annual_production_value": 2980000
+            "annual_production_value": 2980000,
+            "employees_total": 114
         },
         "foundation_year": 1937,
         "owners": [
@@ -212,7 +217,8 @@
             "capital": 360000,
             "employees": {
                 "total": 90
-            }
+            },
+            "employees_total": 90
         },
         "foundation_year": 1866,
         "board": [
@@ -234,7 +240,7 @@
             "Latitude": 58.6605369,
             "Longitude": 16.3990328
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "Nya Mek. Strumpfabriken AB.",
@@ -250,12 +256,13 @@
             "employees": {
                 "total": 20
             },
-            "annual_production_value": "Information saknas"
+            "annual_production_value": "Information saknas",
+            "employees_total": 20
         },
         "coordinates": {
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

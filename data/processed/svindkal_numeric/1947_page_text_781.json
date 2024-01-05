@@ -32,7 +32,8 @@
                 "industriarb": 120
             },
             "annual_turnover": 1100000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 120
         },
         "foundation_year": 1802,
         "board": [
@@ -61,7 +62,7 @@
             "Latitude": 56.8270847,
             "Longitude": 14.9812801
         },
-        "cluster": 3
+        "cluster": 0
     },
     "2": {
         "name": "Åry Manufakturverk",
@@ -79,7 +80,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 600000,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 70
         },
         "foundation_year": 1920,
         "board": [
@@ -96,7 +98,7 @@
             "Latitude": 56.8270847,
             "Longitude": 14.9812801
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Åsebyfors Ullspinneri & Väveri",
@@ -111,7 +113,8 @@
             "employees": {
                 "industriarb": 5
             },
-            "annual_turnover": 20000
+            "annual_turnover": 20000,
+            "employees_total": 5
         },
         "foundation_year": 1925,
         "manager": "Josef Claesson",
@@ -119,7 +122,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Åsedahus",
@@ -135,7 +138,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_turnover": 2300000
+            "annual_turnover": 2300000,
+            "employees_total": 70
         },
         "foundation_year": 1939,
         "manager": "Eric Allring",
@@ -144,7 +148,7 @@
             "Latitude": 57.1676879,
             "Longitude": 15.3468016
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Åsedakläder",
@@ -159,7 +163,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 50
         },
         "foundation_year": 1939,
         "manager": "Sten Gustafsson",
@@ -168,7 +173,7 @@
             "Latitude": 57.1676879,
             "Longitude": 15.3468016
         },
-        "cluster": 1
+        "cluster": 19
     },
     "6": {
         "name": "Åshammars Bultfabriks",
@@ -189,7 +194,8 @@
             "employees": {
                 "industriarb": 95
             },
-            "annual_turnover": 1600000
+            "annual_turnover": 1600000,
+            "employees_total": 95
         },
         "foundation_year": 1899,
         "board": [
@@ -210,7 +216,7 @@
             "Latitude": 60.64498329999999,
             "Longitude": 16.5436086
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Åshammars Byggnadssnickeri",
@@ -222,12 +228,13 @@
             "postgiro": "91280"
         },
         "financials": {
-            "capital": 32000
+            "capital": 32000,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

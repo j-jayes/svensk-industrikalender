@@ -17,7 +17,8 @@
                 "industriarb": 50
             },
             "foundation_year": 1930,
-            "corporation_year": 1940
+            "corporation_year": 1940,
+            "employees_total": 50
         },
         "board": [
             {
@@ -39,7 +40,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "AB. Svenska Kappfabriken",
@@ -61,7 +62,8 @@
             },
             "annual_production_value": 1000000,
             "foundation_year": 1907,
-            "corporation_year": 1911
+            "corporation_year": 1911,
+            "employees_total": 70
         },
         "board": [
             {
@@ -83,7 +85,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "AB. Svenska Kapsyifabriken",
@@ -104,7 +106,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "corporation_year": 1888
+            "corporation_year": 1888,
+            "employees_total": 40
         },
         "board": [
             {
@@ -121,7 +124,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 0
     },
     "4": {
         "name": "Svenska Karosseri Verkstäderna AB.",
@@ -142,7 +145,8 @@
                 "industriarb": 200
             },
             "annual_production_value": 2000000,
-            "corporation_year": 1927
+            "corporation_year": 1927,
+            "employees_total": 200
         },
         "board": [
             {
@@ -161,7 +165,7 @@
             "Latitude": 58.99555109999999,
             "Longitude": 16.2054756
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Svenska Kassaskåpsfabriken",
@@ -179,7 +183,8 @@
             "employees": {
                 "industriarb": 18
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 18
         },
         "owners": [
             "ing. K. R. Berglund"
@@ -190,7 +195,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "Svenska Konfektionsfabriken, Carl Högström AB",
@@ -208,14 +213,15 @@
             "employees": {
                 "industriarb": 25
             },
-            "corporation_year": 1941
+            "corporation_year": 1941,
+            "employees_total": 25
         },
         "director": "Carl Högström",
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "AB. Svenska Konservfabriken Clobus",
@@ -233,7 +239,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "corporation_year": 1945
+            "corporation_year": 1945,
+            "employees_total": 60
         },
         "board": [
             {
@@ -254,7 +261,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "8": {
         "name": "Svenska Kopierings AB.",
@@ -270,6 +277,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

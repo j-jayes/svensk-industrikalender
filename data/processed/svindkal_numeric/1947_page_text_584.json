@@ -17,7 +17,8 @@
                 "industriarb": 11
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 11
         },
         "foundation_year": 1942,
         "director": "fil. dr Josef Heuberger",
@@ -25,7 +26,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Pumpindustri",
@@ -50,7 +51,8 @@
                 "industriarb": 110
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 110
         },
         "foundation_year": 1918,
         "board": [
@@ -77,7 +79,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Pump-Separator",
@@ -119,7 +121,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Pump-Separators Cjuterier",
@@ -158,7 +160,7 @@
             "Latitude": 58.99555109999999,
             "Longitude": 16.2054756
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "AB. Punker",
@@ -177,7 +179,8 @@
                 "industriarb": 75
             },
             "annual_turnover": 800000,
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 75
         },
         "foundation_year": 1940,
         "board": [
@@ -195,7 +198,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 3
     },
     "6": {
         "name": "Pyrotekniska AB. C. R. Hansson & Söner",
@@ -229,6 +232,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

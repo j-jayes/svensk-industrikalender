@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 20
         },
         "foundation_year": 1938,
         "director": "Gust. Månson",
@@ -24,7 +25,7 @@
             "Latitude": 57.5781694,
             "Longitude": 14.4641901
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Industri AB. Mbk-W.",
@@ -41,7 +42,8 @@
             "capital": 80000,
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1943,
         "director": "Carl Wigell",
@@ -49,7 +51,7 @@
             "Latitude": 57.5781694,
             "Longitude": 14.4641901
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Industri AB. Svenska Automatvapen",
@@ -59,7 +61,8 @@
             "phone": "231270"
         },
         "financials": {
-            "capital": 200000
+            "capital": 200000,
+            "employees_total": 0
         },
         "foundation_year": 1940,
         "board": [
@@ -90,7 +93,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "Industri AB. Sylva",
@@ -104,7 +107,8 @@
             "capital": 3000000,
             "employees": {
                 "industriarb": 130
-            }
+            },
+            "employees_total": 130
         },
         "foundation_year": 1916,
         "board": [
@@ -123,7 +127,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Industri AB. Uhr & Son",
@@ -139,7 +143,8 @@
             "employees": {
                 "arb.-antal": 25
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1931,
         "current_name_year": 1945,
@@ -150,7 +155,7 @@
             "Latitude": 58.3954378,
             "Longitude": 15.0862189
         },
-        "cluster": 7
+        "cluster": 18
     },
     "6": {
         "name": "Industri-AB. Viking",
@@ -169,7 +174,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 3400000
+            "annual_turnover": 3400000,
+            "employees_total": 50
         },
         "corporation_year": 1907,
         "board": [
@@ -192,7 +198,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 18
     },
     "7": {
         "name": "Industri AB. Ölandssten",
@@ -208,7 +214,8 @@
             "employees": {
                 "industriarb": 31
             },
-            "annual_production_value": 125000
+            "annual_production_value": 125000,
+            "employees_total": 31
         },
         "foundation_year": 1944,
         "director": "löjtn. Göte Mikaelsson",
@@ -216,7 +223,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "Industrifirman Skandia",
@@ -230,7 +237,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 10
         },
         "foundation_year": 1939,
         "manager": "Oscar Gustafsson",
@@ -239,7 +247,7 @@
             "Latitude": 57.2812542,
             "Longitude": 13.6271963
         },
-        "cluster": 6
+        "cluster": 18
     },
     "9": {
         "name": "AB. Industrifärger",
@@ -255,7 +263,8 @@
             "employees": {
                 "arb.-antal": 20
             },
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 20
         },
         "foundation_year": 1931,
         "current_name_year": 1937,
@@ -266,6 +275,6 @@
             "Latitude": 59.36295999999999,
             "Longitude": 18.1468
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

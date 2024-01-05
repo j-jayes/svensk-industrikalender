@@ -15,7 +15,8 @@
                 "industriarb": 46
             },
             "annual_turnover": "4 milj. kr",
-            "annual_production_value": "4 milj. st. tegelvaror"
+            "annual_production_value": "4 milj. st. tegelvaror",
+            "employees_total": 46
         },
         "foundation_year": 1915,
         "predecessor": "Tegelbruket anlagt 1879",
@@ -24,7 +25,7 @@
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "AB. Lysekils Emballagefabrik",
@@ -40,7 +41,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 130
-            }
+            },
+            "employees_total": 130
         },
         "foundation_year": 1937,
         "board": [
@@ -67,7 +69,7 @@
             "Latitude": 58.27557299999999,
             "Longitude": 11.435558
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "AB. Lysekils Konservfabrik",
@@ -86,7 +88,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 25
         },
         "foundation_year": 1937,
         "director": "disp. Ivar Havstam",
@@ -94,7 +97,7 @@
             "Latitude": 58.27557299999999,
             "Longitude": 11.435558
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Lysekils Stenindustri",
@@ -111,7 +114,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1917,
         "director": "Y. Septus-Larsen",
@@ -119,7 +123,7 @@
             "Latitude": 58.9383459,
             "Longitude": 11.1791871
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Lyths Instrumentfabrik",
@@ -148,7 +152,8 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_turnover": null
+            "annual_turnover": null,
+            "employees_total": 45
         },
         "foundation_year": 1935,
         "board": [
@@ -170,7 +175,7 @@
             "Latitude": 57.9883475,
             "Longitude": 15.6292256
         },
-        "cluster": 5
+        "cluster": 17
     },
     "7": {
         "name": "AB. Långebro Mek. Werkstad",
@@ -188,7 +193,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 350000
+            "annual_turnover": 350000,
+            "employees_total": 50
         },
         "foundation_year": 1903,
         "director": "Carl Björklund",
@@ -196,7 +202,7 @@
             "Latitude": 56.0217107,
             "Longitude": 14.1442461
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "AB. Långeds Pappersbruk",

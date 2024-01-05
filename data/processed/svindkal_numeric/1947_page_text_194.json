@@ -15,7 +15,8 @@
                 "industriarb": 5800
             },
             "annual_turnover": 105000000,
-            "annual_production_value": 105000000
+            "annual_production_value": 105000000,
+            "employees_total": 5800
         },
         "foundation_year": 1873,
         "current_name_year": 1919,
@@ -47,7 +48,7 @@
         "managing_director": "Evert Wijkander",
         "sales_manager": "Sverre R:son Sohlman",
         "manager": null,
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "S. Bogeryds Möbelfabrik",
@@ -57,7 +58,7 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Bogesunds Väveri AB",
@@ -76,14 +77,15 @@
                 "industriarb": 50
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 50
         },
         "foundation_year": 1934,
         "coordinates": {
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Alb. Bohlin & C:os AB",
@@ -103,7 +105,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 35
         },
         "foundation_year": 1894,
         "corporation_year": 1925,
@@ -127,14 +130,15 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 260000
+            "annual_production_value": 260000,
+            "employees_total": 40
         },
         "foundation_year": 1918,
         "coordinates": {
             "Latitude": 59.3100677,
             "Longitude": 14.1089192
         },
-        "cluster": 1
+        "cluster": 12
     },
     "6": {
         "name": "AB. Bohmans Fanérfabrik",
@@ -153,7 +157,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1930,
         "board": [
@@ -176,7 +181,7 @@
             "Latitude": 57.26569929999999,
             "Longitude": 16.4473984
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Bohman & Johansson",
@@ -189,13 +194,14 @@
         "financials": {
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1934,
         "coordinates": {
             "Latitude": 56.9814885,
             "Longitude": 16.3327375
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

@@ -19,7 +19,8 @@
                 "industriarb": 150
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 150
         },
         "foundation_year": 1918,
         "board": [
@@ -44,7 +45,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 1
+        "cluster": 7
     },
     "2": {
         "name": "Svenska Tryckeri AB.",
@@ -66,7 +67,8 @@
                 "industriarb": 184
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 184
         },
         "foundation_year": 1884,
         "board": [
@@ -91,7 +93,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "AB. Svenska Trähus",
@@ -111,7 +113,8 @@
             "capital": 1000000,
             "employees": {},
             "annual_turnover": 22000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1930,
         "board": [
@@ -136,7 +139,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Svenska Trämjölsfabrikerna",
@@ -156,7 +159,8 @@
             "capital": "N/A",
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": "6,000 ton trämjöl"
+            "annual_production_value": "6,000 ton trämjöl",
+            "employees_total": 0
         },
         "foundation_year": 1921,
         "board": [],
@@ -168,7 +172,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 17
     },
     "5": {
         "name": "Svenska AB. Tubus",
@@ -190,7 +194,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 20
         },
         "foundation_year": 1937,
         "board": [],
@@ -202,6 +207,6 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

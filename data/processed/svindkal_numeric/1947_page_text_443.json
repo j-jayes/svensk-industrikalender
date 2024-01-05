@@ -15,7 +15,8 @@
         },
         "financials": {
             "capital": 10055000,
-            "annual_turnover": 4700000
+            "annual_turnover": 4700000,
+            "employees_total": 0
         },
         "foundation_year": 1906,
         "owners": [
@@ -67,7 +68,7 @@
             "Latitude": 58.788083,
             "Longitude": 13.7195538
         },
-        "cluster": 1
+        "cluster": 2
     },
     "2": {
         "name": "Kraftbox AB",
@@ -82,7 +83,8 @@
             "postgiro": "83796"
         },
         "financials": {
-            "capital": 80400
+            "capital": 80400,
+            "employees_total": 0
         },
         "board": [
             {
@@ -103,7 +105,7 @@
             "Latitude": 61.7612907,
             "Longitude": 16.8732569
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "Kraftemballage AB",
@@ -121,7 +123,8 @@
             "factory_phone": "23888"
         },
         "financials": {
-            "capital": 225000
+            "capital": 225000,
+            "employees_total": 0
         },
         "board": [
             {
@@ -150,7 +153,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 17
     },
     "4": {
         "name": "Anders Krahner Industrifirma",
@@ -170,7 +173,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Kramfors AB",
@@ -195,7 +198,8 @@
             ]
         },
         "financials": {
-            "capital": 25000000
+            "capital": 25000000,
+            "employees_total": 0
         },
         "owners": [
             "Svenska Cellulosa AB"
@@ -204,6 +208,6 @@
             "Latitude": 62.9284332,
             "Longitude": 17.7862947
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

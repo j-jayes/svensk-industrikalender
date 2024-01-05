@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 35
         },
         "foundation_year": 1897,
         "corporation_year": 1936,
@@ -39,7 +40,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Hvilans Mek. Verkstads AB.",
@@ -61,7 +62,8 @@
                 "industriarb": 115
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 1700000
+            "annual_production_value": 1700000,
+            "employees_total": 115
         },
         "foundation_year": 1899,
         "board": [
@@ -92,7 +94,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Hydrauliska Industri AB.",
@@ -110,7 +112,8 @@
                 "industriarb": 45
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 45
         },
         "foundation_year": 1944,
         "director": "Carl Johan Börjesson",
@@ -119,7 +122,7 @@
             "Latitude": 61.7273909,
             "Longitude": 17.107401
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Hylin & Co. Fabriks AB.",
@@ -139,7 +142,8 @@
                 "industriarb": 40
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 40
         },
         "foundation_year": 1857,
         "corporation_year": 1891,
@@ -163,7 +167,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Hylte Bruks AB",
@@ -181,7 +185,8 @@
                 "industriarb": 425
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 425
         },
         "foundation_year": 1908,
         "board": [
@@ -212,7 +217,7 @@
             "Latitude": 57.0017639,
             "Longitude": 13.2420994
         },
-        "cluster": 2
+        "cluster": 17
     },
     "6": {
         "name": "J. E. Hylténs Metallvarufabrik",
@@ -231,7 +236,8 @@
                 "industriarb": 25
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 336000
+            "annual_production_value": 336000,
+            "employees_total": 25
         },
         "foundation_year": 1874,
         "owner": "J. E. Hylténs sterbhus",
@@ -241,6 +247,6 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

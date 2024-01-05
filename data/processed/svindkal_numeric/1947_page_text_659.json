@@ -14,7 +14,8 @@
             "capital": 9420000,
             "employees": {
                 "industriarb": 500
-            }
+            },
+            "employees_total": 500
         },
         "foundation_year": 1856,
         "board": [
@@ -45,7 +46,7 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 1
+        "cluster": 4
     },
     "2": {
         "name": "AB. Erik Sundberg",
@@ -60,7 +61,8 @@
             "capital": 60000,
             "employees": {
                 "industriarb": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1921,
         "director": "fru R. Hoffner-Björklund",
@@ -70,7 +72,7 @@
             "Latitude": 59.4289449,
             "Longitude": 17.9443788
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "Sundby Tegelbruks AB.,",
@@ -88,7 +90,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1916,
         "managing_director": "Gustaf Thornstedt",
@@ -96,7 +99,7 @@
             "Latitude": 59.3571637,
             "Longitude": 17.2055807
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Sundby Verkstäder, Uppsala",
@@ -109,7 +112,8 @@
         "financials": {
             "employees": {
                 "antal": 12
-            }
+            },
+            "employees_total": 12
         },
         "foundation_year": 1943,
         "owner": "fabr. Sten Johansson",
@@ -135,7 +139,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 62
-            }
+            },
+            "employees_total": 62
         },
         "foundation_year": 1912,
         "director": "Alfred Sundelin",
@@ -144,7 +149,7 @@
             "Latitude": 62.98552900000001,
             "Longitude": 18.1258604
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Sundins Fabriker, Hudiksvall",
@@ -160,7 +165,8 @@
         "financials": {
             "employees": {
                 "antal": 70
-            }
+            },
+            "employees_total": 70
         },
         "foundation_year": 1927,
         "owner": "fabr. Eric Sundin",
@@ -168,7 +174,7 @@
             "Latitude": 61.7273909,
             "Longitude": 17.107401
         },
-        "cluster": 1
+        "cluster": 15
     },
     "7": {
         "name": "A. E. Sundkvist Skofabrik, Tierp",
@@ -181,7 +187,8 @@
         "financials": {
             "employees": {
                 "antal": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1916,
         "owner": "fabr. Arvid Sundkvist",
@@ -189,7 +196,7 @@
             "Latitude": 60.34758659999999,
             "Longitude": 17.5205086
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "Sundströms Skofabrik, Kumla",
@@ -205,7 +212,8 @@
         "financials": {
             "employees": {
                 "antal": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1910,
         "owner": "fabr. Henry Sundström",
@@ -213,7 +221,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 1
+        "cluster": 4
     },
     "9": {
         "name": "Sundsvallsbolagens Gemensamma Förvaltning AB., Sundsvall",
@@ -226,6 +234,6 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

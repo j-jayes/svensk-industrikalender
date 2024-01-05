@@ -21,7 +21,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 500000,
-            "annual_production_value": "2,500 stds"
+            "annual_production_value": "2,500 stds",
+            "employees_total": 15
         },
         "foundation_year": 1912,
         "board": [
@@ -44,7 +45,7 @@
             "Latitude": 59.06685880000001,
             "Longitude": 15.5407933
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Brevens Bruk",
@@ -64,7 +65,8 @@
                 "industriarb": 150
             },
             "annual_turnover": 2000000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 150
         },
         "foundation_year": "1600-talet",
         "owners": [
@@ -81,7 +83,7 @@
             "Latitude": 59.06685880000001,
             "Longitude": 15.5407933
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Brio-Konfektion AB.",
@@ -102,7 +104,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 400000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 20
         },
         "foundation_year": 1931,
         "director": "disp. Folke Ellioth",
@@ -111,7 +114,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Britanniafabriks AB-",
@@ -128,7 +131,8 @@
             "capital": 90000,
             "employees": {
                 "industriarb": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1891,
         "director": "Carl CJolsman",
@@ -136,7 +140,7 @@
             "Latitude": 57.79513839999999,
             "Longitude": 12.3180158
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Bro Ångsågs AB.",
@@ -155,7 +159,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_production_value": "3,000 stds trävaror, 9,000 läster träkol, 400 ton trätjära och 50 ton träsprit"
+            "annual_production_value": "3,000 stds trävaror, 9,000 läster träkol, 400 ton trätjära och 50 ton träsprit",
+            "employees_total": 90
         },
         "foundation_year": 1909,
         "board": [
@@ -177,7 +182,7 @@
             "Latitude": 60.5099434,
             "Longitude": 14.2253417
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Broby Mek. Verkstads AB",
@@ -195,7 +200,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 25
         },
         "foundation_year": 1907,
         "board": [
@@ -217,7 +223,7 @@
             "Latitude": 56.2543556,
             "Longitude": 14.0718204
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "Nestor Brodin",
@@ -235,7 +241,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 50
         },
         "foundation_year": 1898,
         "director": "disp. Lars Brodin",
@@ -243,7 +250,7 @@
             "Latitude": 57.80154100000001,
             "Longitude": 12.3655998
         },
-        "cluster": 3
+        "cluster": 9
     },
     "8": {
         "name": "AB. Brofjordens Konservfabrik",
@@ -261,6 +268,6 @@
             "Latitude": 57.7009791,
             "Longitude": 11.9581288
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

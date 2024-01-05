@@ -17,7 +17,8 @@
                 "Arb.-antal": 9
             },
             "annual_turnover": 140000,
-            "annual_production_value": 140000
+            "annual_production_value": 140000,
+            "employees_total": 9
         },
         "foundation_year": 1934,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Husqvarna Borstfabrik",
@@ -62,7 +63,8 @@
                 "Antal industriarb.": 275
             },
             "annual_turnover": 4000000,
-            "annual_production_value": 4000000
+            "annual_production_value": 4000000,
+            "employees_total": 275
         },
         "foundation_year": 1896,
         "corporation_year": 1911,
@@ -88,7 +90,7 @@
             "Latitude": 57.7904141,
             "Longitude": 14.2755781
         },
-        "cluster": 6
+        "cluster": 3
     },
     "3": {
         "name": "Husqvarna Vapenfabriks AB.",
@@ -105,7 +107,8 @@
             "employees": {
                 "Antal industriarb. i Huskvarna": 671
             },
-            "annual_turnover": 45000000
+            "annual_turnover": 45000000,
+            "employees_total": 671
         },
         "foundation_year": 1689,
         "corporation_year": 1867,
@@ -145,7 +148,7 @@
             "Latitude": 57.7904141,
             "Longitude": 14.2755781
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Husums Sulfatfabrik",
@@ -172,7 +175,8 @@
             "employees": {
                 "Antal industriarb.": 60
             },
-            "annual_production_value": "6 milj. st. tegel"
+            "annual_production_value": "6 milj. st. tegel",
+            "employees_total": 60
         },
         "foundation_year": 1884,
         "board": [
@@ -194,7 +198,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Hvetlanda Mek. Verkstad",
@@ -212,7 +216,8 @@
                 "Antal industriarb.": 15,
                 " 25 milj. st. tegel": null
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 15
         },
         "foundation_year": 1904,
         "director": "ing. Oscar Sollin",
@@ -220,7 +225,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Hvetlanda Saft- & Syltfabrik",
@@ -237,7 +242,8 @@
             "employees": {
                 "Antal industriarb.": 16
             },
-            "annual_production_value": 213000
+            "annual_production_value": 213000,
+            "employees_total": 16
         },
         "foundation_year": 1919,
         "director": "disp. Arvid Ahlinder",
@@ -245,6 +251,6 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

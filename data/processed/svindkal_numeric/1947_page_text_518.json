@@ -7,7 +7,8 @@
                 "industriarb": 200
             },
             "annual_turnover": 4500000,
-            "annual_production_value": 4500000
+            "annual_production_value": 4500000,
+            "employees_total": 200
         },
         "foundation_year": 1895,
         "board": [
@@ -44,7 +45,8 @@
                 "industriarb": 26
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 26
         },
         "foundation_year": 1917,
         "director": "Bengt Hansson",
@@ -59,7 +61,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 70
         },
         "foundation_year": 1921,
         "board": [
@@ -90,7 +93,8 @@
             "capital": 40000,
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1935,
         "director": "E. P. Wahlberg",
@@ -103,7 +107,8 @@
             "capital": 450000,
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1910,
         "board": [
@@ -131,7 +136,8 @@
             "employees": {
                 "industriarb": 16
             },
-            "annual_production_value": 60000
+            "annual_production_value": 60000,
+            "employees_total": 16
         },
         "foundation_year": 1920,
         "manager": "Eric Forssell",
@@ -143,7 +149,8 @@
             "employees": {
                 "industriarb": 12
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 12
         },
         "foundation_year": 1946,
         "owners": [
@@ -162,7 +169,8 @@
             "employees": {
                 "industriarb": 120
             },
-            "annual_turnover": 1200000
+            "annual_turnover": 1200000,
+            "employees_total": 120
         },
         "foundation_year": 1938,
         "director": "N/A",

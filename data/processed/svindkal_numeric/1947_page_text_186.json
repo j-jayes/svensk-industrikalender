@@ -14,7 +14,8 @@
             "capital": 31020000,
             "employees": {
                 "industriarb": 1850
-            }
+            },
+            "employees_total": 1850
         },
         "foundation_year": 1883,
         "original_name": "Billerud Sales Co. Ltd.",
@@ -22,7 +23,7 @@
             "Latitude": 56.0597658,
             "Longitude": 12.9748334
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "Billesholms Glasulls AB.",
@@ -39,13 +40,14 @@
             "capital": 1000000,
             "employees": {
                 "industriarb": 200
-            }
+            },
+            "employees_total": 200
         },
         "foundation_year": 1933,
         "coordinates": {
             "Latitude": 56.0597658,
             "Longitude": 12.9748334
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

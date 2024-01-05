@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 27
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 27
         },
         "foundation_year": 1931,
         "owners": [
@@ -26,7 +27,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Göteborgs Färg- & Fernissfabrik",
@@ -40,7 +41,8 @@
         "financials": {
             "employees": {
                 "industriarb": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1900,
         "owners": [
@@ -50,7 +52,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Göteborgs Galvaniserings-fabrik",
@@ -65,7 +67,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1911,
         "corporation_year": 1925,
@@ -76,7 +79,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Göteborgs Gamla Trätoffelfabrik",
@@ -88,7 +91,8 @@
         },
         "financials": {
             "capital": 10000,
-            "annual_turnover": 70000
+            "annual_turnover": 70000,
+            "employees_total": 0
         },
         "foundation_year": 1887,
         "corporation_year": 1943,
@@ -99,7 +103,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "AB. Göteborgs Culdlistfabrik",
@@ -119,7 +123,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1897,
         "corporation_year": 1905,
@@ -130,7 +135,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 18
     },
     "6": {
         "name": "AB. Göteborgs Hartsoljefärg-Fabrik",
@@ -145,7 +150,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 10
         },
         "foundation_year": 1888,
         "corporation_year": 1908,
@@ -156,7 +162,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "7": {
         "name": "Göteborgs Hattfabrik",
@@ -170,7 +176,8 @@
             "employees": {
                 "industriarb": 24
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 24
         },
         "foundation_year": 1918,
         "owners": [
@@ -196,13 +203,14 @@
             "employees": {
                 "industriarb": 280
             },
-            "annual_production_value": 7000000
+            "annual_production_value": 7000000,
+            "employees_total": 280
         },
         "foundation_year": 1896,
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

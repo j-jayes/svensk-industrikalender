@@ -14,7 +14,8 @@
         "financials": {
             "capital": 90000,
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 0
         },
         "foundation_year": 1907,
         "corporation_year": 1945,
@@ -23,7 +24,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "Fritz Sjöbloms Trikåfabrik",
@@ -40,7 +41,8 @@
             "employees": {
                 "Arb.-antal": 12
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 12
         },
         "foundation_year": 1909,
         "owner": "fabr. Fritz Sjöblom",
@@ -48,7 +50,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "Sjöboverken AB.",
@@ -74,7 +76,8 @@
         },
         "financials": {
             "capital": 150000,
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 0
         },
         "foundation_year": 1898,
         "board": [
@@ -94,7 +97,7 @@
             "Latitude": 59.36295999999999,
             "Longitude": 18.1468
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. P. A. Sjögren",
@@ -108,7 +111,8 @@
             "postgiro": "1246"
         },
         "financials": {
-            "capital": 375000
+            "capital": 375000,
+            "employees_total": 0
         },
         "foundation_year": 1888,
         "corporation_year": 1916,
@@ -132,7 +136,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "6": {
         "name": "Arvid Sjöquists Clasformfabrik & Mek. Verkstad",
@@ -147,7 +151,8 @@
         "financials": {
             "employees": {
                 "Antal industriarb.": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1888,
         "owner": "fabr. Olof E. Sjöquist",
@@ -155,7 +160,7 @@
             "Latitude": 56.745012,
             "Longitude": 15.907874
         },
-        "cluster": 6
+        "cluster": 0
     },
     "7": {
         "name": "Helmer Sjökvist",
@@ -172,7 +177,8 @@
             "employees": {
                 "Antal industriarb.": 39
             },
-            "annual_production_value": 340000
+            "annual_production_value": 340000,
+            "employees_total": 39
         },
         "foundation_year": 1924,
         "owner": "ing. Helmer Sjökvist",
@@ -182,7 +188,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "AB. P. Sjökvists Skofabrik",
@@ -194,7 +200,8 @@
             ]
         },
         "financials": {
-            "capital": 75000
+            "capital": 75000,
+            "employees_total": 0
         },
         "corporation_year": 1936,
         "owners": [
@@ -212,7 +219,7 @@
             "Latitude": 59.5976983,
             "Longitude": 15.2229108
         },
-        "cluster": 9
+        "cluster": 5
     },
     "9": {
         "name": "Sjölins Byggnads AB.",
@@ -226,7 +233,8 @@
         },
         "financials": {
             "capital": 30000,
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 0
         },
         "foundation_year": 1934,
         "board": [
@@ -246,7 +254,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 0
+        "cluster": 6
     },
     "10": {
         "name": "AB. Sjömarkens Skjortfabrik",
@@ -280,7 +288,8 @@
             "employees": {
                 "Antal industriarb.": 28
             },
-            "annual_production_value": 2100000
+            "annual_production_value": 2100000,
+            "employees_total": 28
         },
         "foundation_year": 1889,
         "corporation_year": 1934,
@@ -288,6 +297,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

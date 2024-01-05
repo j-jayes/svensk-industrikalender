@@ -18,7 +18,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 250000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 40
         },
         "foundation_year": 1910,
         "current_name_year": 1939,
@@ -30,7 +31,7 @@
             "Latitude": 59.132406,
             "Longitude": 16.729194
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Nya Fajansfabriken",
@@ -47,7 +48,8 @@
                 "industriarb": 5
             },
             "annual_turnover": 800000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 5
         },
         "foundation_year": 1908,
         "corporation_year": 1936,
@@ -56,7 +58,7 @@
             "Latitude": 56.7471915,
             "Longitude": 16.2512704
         },
-        "cluster": 5
+        "cluster": 0
     },
     "3": {
         "name": "AB. Nya Fermia",
@@ -79,7 +81,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 20
         },
         "foundation_year": 1907,
         "board": [
@@ -101,7 +104,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Nya Fougstedts Pälsvarufabrik",
@@ -120,7 +123,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 700000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 25
         },
         "foundation_year": 1896,
         "director": "Rolf Winroth",
@@ -145,7 +149,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 180000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 30
         },
         "foundation_year": 1934,
         "director": "ing. Bror Fritz",
@@ -153,7 +158,7 @@
             "Latitude": 57.6348,
             "Longitude": 18.29484
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Nya Kartong AB.",
@@ -171,7 +176,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 490000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 40
         },
         "original_name": "Stockholm 6",
         "corporation_year": 1934,
@@ -181,7 +187,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "7": {
         "name": "AB. Nya Kolbäcks Cementgjuteri",
@@ -198,7 +204,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 400000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 20
         },
         "corporation_year": 1923,
         "board": [
@@ -220,7 +227,7 @@
             "Latitude": 59.5635636,
             "Longitude": 16.2303593
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "AB. Nya Konfektionsfabriken",
@@ -237,7 +244,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 700000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 50
         },
         "corporation_year": 1945,
         "director": "Abr. Warkol",
@@ -245,6 +253,6 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

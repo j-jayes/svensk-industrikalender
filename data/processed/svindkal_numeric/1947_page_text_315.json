@@ -27,7 +27,8 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_turnover": 1800000
+            "annual_turnover": 1800000,
+            "employees_total": 150
         },
         "foundation_year": 1870,
         "board": [
@@ -57,7 +58,7 @@
             "Latitude": 56.641232,
             "Longitude": 14.222439
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Gemla Leksaksfabrik",
@@ -75,7 +76,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 30
         },
         "foundation_year": 1892,
         "owner": [
@@ -88,7 +90,7 @@
             "Latitude": 56.8672585,
             "Longitude": 14.6436202
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "General Motors Nordiska AB",
@@ -103,7 +105,8 @@
             "capital": 9600000,
             "employees": {
                 "industriarb": 510
-            }
+            },
+            "employees_total": 510
         },
         "foundation_year": 1927,
         "board": [
@@ -141,7 +144,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Cense",
@@ -159,7 +162,8 @@
             "employees": {
                 "industriarb": 425
             },
-            "annual_turnover": 6000000
+            "annual_turnover": 6000000,
+            "employees_total": 425
         },
         "foundation_year": 1898,
         "original_name": "AB. Gustaf Erikssons Metallfabrik",
@@ -175,7 +179,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 2
+        "cluster": 18
     },
     "5": {
         "name": "AB. Gentele & Co.",
@@ -190,7 +194,8 @@
             "capital": 550000,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1917,
         "board": [
@@ -223,6 +228,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

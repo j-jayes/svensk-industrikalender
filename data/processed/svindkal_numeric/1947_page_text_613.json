@@ -15,13 +15,14 @@
             "employees": {
                 "industriarb": 180
             },
-            "foundation_year": 1938
+            "foundation_year": 1938,
+            "employees_total": 180
         },
         "coordinates": {
             "Latitude": 61.34444680000001,
             "Longitude": 16.0604207
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Warner Silfversparres Grafiska AB.",
@@ -39,13 +40,14 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 23
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "Siljans Sågverks AB.",
@@ -64,13 +66,14 @@
             "employees": {
                 "industriarb": 115
             },
-            "annual_production_value": "3,000 stds"
+            "annual_production_value": "3,000 stds",
+            "employees_total": 115
         },
         "coordinates": {
             "Latitude": 61.00748549999999,
             "Longitude": 14.5860182
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Silkefabriks AB. Astra",
@@ -95,13 +98,14 @@
             "employees": {
                 "industriarb": 110
             },
-            "annual_production_value": 1800000
+            "annual_production_value": 1800000,
+            "employees_total": 110
         },
         "coordinates": {
             "Latitude": 57.716667,
             "Longitude": 14.8
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "AB. Siikemanufaktur",
@@ -117,13 +121,14 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Sillbo Tegelbruk",
@@ -135,13 +140,14 @@
         "financials": {
             "employees": {
                 "industriarb": 20
-            }
+            },
+            "employees_total": 20
         },
         "coordinates": {
             "Latitude": 60.0503631,
             "Longitude": 16.9865039
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "AB. Sillkungens Konservfabriker",
@@ -156,13 +162,14 @@
         "financials": {
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "coordinates": {
             "Latitude": 57.99105739999999,
             "Longitude": 11.5482426
         },
-        "cluster": 2
+        "cluster": 13
     },
     "8": {
         "name": "Silver- & Nysilver AB. Skandia",
@@ -172,6 +179,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

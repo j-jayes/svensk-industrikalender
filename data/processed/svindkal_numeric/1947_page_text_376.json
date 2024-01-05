@@ -15,7 +15,8 @@
             "capital": "3.000.000 kr",
             "employees": {
                 "industriarb": 200
-            }
+            },
+            "employees_total": 200
         },
         "foundation_year": 1913,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 60.1839348,
             "Longitude": 15.2077846
         },
-        "cluster": 6
+        "cluster": 2
     },
     "2": {
         "name": "Hållstedts AB.",
@@ -54,7 +55,8 @@
         },
         "financials": {
             "capital": "60.000 kr",
-            "annual_production_value": "200.000 kr"
+            "annual_production_value": "200.000 kr",
+            "employees_total": 0
         },
         "foundation_year": 1930,
         "board": [
@@ -67,7 +69,7 @@
             "Latitude": 57.0756318,
             "Longitude": 15.7358363
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Hålltorps AB.",
@@ -81,7 +83,8 @@
             "postgiro": "34612"
         },
         "financials": {
-            "capital": "100.000 kr"
+            "capital": "100.000 kr",
+            "employees_total": 0
         },
         "foundation_year": 1909,
         "director": "J. E. Synnergren",
@@ -89,7 +92,7 @@
             "Latitude": 58.4533816,
             "Longitude": 13.2671394
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Hånsfors Bruks AB.",
@@ -109,7 +112,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_production_value": "1.000 stds sågade och hyvlade trävaror, 3.000 ton papper och pappersmanufaktur"
+            "annual_production_value": "1.000 stds sågade och hyvlade trävaror, 3.000 ton papper och pappersmanufaktur",
+            "employees_total": 70
         },
         "foundation_year": 1919,
         "current_name_year": 1937,
@@ -136,7 +140,7 @@
             "Latitude": 59.5075308,
             "Longitude": 11.8425511
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Hädinge Torfströ AB.",
@@ -156,7 +160,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_production_value": "110.000 st. balar torvströ och torvmull"
+            "annual_production_value": "110.000 st. balar torvströ och torvmull",
+            "employees_total": 60
         },
         "foundation_year": 1906,
         "director": "disp. Johan Elion",
@@ -164,7 +169,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "Häfla Bruks AB.",
@@ -181,12 +186,13 @@
             "postgiro": "93350"
         },
         "financials": {
-            "capital": "Not available"
+            "capital": "Not available",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 58.91482800000001,
             "Longitude": 15.8680792
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

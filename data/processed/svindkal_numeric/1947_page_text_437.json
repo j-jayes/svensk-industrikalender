@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb.": 350
             },
-            "annual_turnover": 4000000
+            "annual_turnover": 4000000,
+            "employees_total": 350
         },
         "foundation_year": 1915,
         "corporation_year": 1924,
@@ -38,7 +39,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "Konfektions AB. Lyon",
@@ -48,7 +49,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Konfektions AB. Oscar Molander",
@@ -65,14 +66,15 @@
             "capital": 1280000,
             "employees": {
                 "industriarb.": 405
-            }
+            },
+            "employees_total": 405
         },
         "foundation_year": 1906,
         "coordinates": {
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Konfektions AB. Noreka",
@@ -85,7 +87,8 @@
             "postgiro": "90970"
         },
         "financials": {
-            "capital": 200000
+            "capital": 200000,
+            "employees_total": 0
         },
         "foundation_year": 1935,
         "coordinates": {
@@ -108,14 +111,15 @@
             "capital": 50000,
             "employees": {
                 "industriarb.": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1928,
         "coordinates": {
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Konfektions AB. Robby",
@@ -129,14 +133,15 @@
         },
         "financials": {
             "capital": 250000,
-            "annual_production_value": 1700000
+            "annual_production_value": 1700000,
+            "employees_total": 0
         },
         "foundation_year": 1935,
         "coordinates": {
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Konfektions AB. Salén",
@@ -155,14 +160,15 @@
             "employees": {
                 "industriarb.": 300
             },
-            "annual_turnover": 6000000
+            "annual_turnover": 6000000,
+            "employees_total": 300
         },
         "foundation_year": 1914,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Konfektions AB. S:t Erik",
@@ -182,7 +188,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "9": {
         "name": "Konfektions AB. Tonex",
@@ -192,7 +198,7 @@
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 9
+        "cluster": 19
     },
     "10": {
         "name": "Konfektions AB. J. A. Wettergren & Co.",

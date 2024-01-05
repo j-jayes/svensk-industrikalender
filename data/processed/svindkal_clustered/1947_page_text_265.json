@@ -60,7 +60,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Eltron",
@@ -95,7 +95,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Elvärme AB.",
@@ -120,7 +120,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Emaljskyltfabriken Svea",
@@ -142,7 +142,7 @@
             "Latitude": 57.5577891,
             "Longitude": 12.7855095
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Eminentverktyg",
@@ -165,7 +165,7 @@
             "Latitude": 59.42129649999999,
             "Longitude": 16.4769698
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. Emmaboda Clasverk",
@@ -191,7 +191,7 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 1
+        "cluster": 0
     },
     "7": {
         "name": "AB. Emmaboda Husinrede",
@@ -216,7 +216,7 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 8
+        "cluster": 18
     },
     "8": {
         "name": "Emmaboda Möbelfabrik, Carlsson, Svensson & Co.",
@@ -238,6 +238,6 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

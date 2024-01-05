@@ -26,14 +26,15 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 50
         },
         "foundation_year": 1935,
         "coordinates": {
             "Latitude": 55.3762427,
             "Longitude": 13.1574231
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Trelleborgs Velocipedfabrik",
@@ -49,14 +50,15 @@
             "capital": 65000,
             "employees": {
                 "industriarb": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1940,
         "coordinates": {
             "Latitude": 55.3762427,
             "Longitude": 13.1574231
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "AB. Tretorn",
@@ -76,14 +78,15 @@
             "capital": 12478800,
             "employees": {
                 "industriarb": 300
-            }
+            },
+            "employees_total": 300
         },
         "foundation_year": 1899,
         "coordinates": {
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "AB. Trikåfabriken Elit",
@@ -101,14 +104,15 @@
             "capital": 125000,
             "employees": {
                 "industriarb": 35
-            }
+            },
+            "employees_total": 35
         },
         "foundation_year": 1940,
         "coordinates": {
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "AB. Trikåfabriken Essve",
@@ -128,14 +132,15 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1928,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Trikåfabriken Svea",
@@ -150,13 +155,14 @@
         "financials": {
             "employees": {
                 "industriarb": 4
-            }
+            },
+            "employees_total": 4
         },
         "foundation_year": 1916,
         "coordinates": {
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

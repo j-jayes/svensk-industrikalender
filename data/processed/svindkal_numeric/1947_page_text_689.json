@@ -29,14 +29,15 @@
             "capital": 1000000,
             "employees": {
                 "industriarb": 330
-            }
+            },
+            "employees_total": 330
         },
         "foundation_year": 1919,
         "coordinates": {
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "AB. Svenska Suckatfabriken",
@@ -61,7 +62,8 @@
                 "arbantal": 9
             },
             "annual_turnover": 330000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 9
         },
         "foundation_year": 1932,
         "corporation_year": 1935,
@@ -69,7 +71,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. Svenska Stilfabriken",
@@ -94,14 +96,15 @@
                 "arbantal": 12
             },
             "annual_turnover": "",
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 12
         },
         "foundation_year": 1931,
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "Svenska Superfosfat-Försäljnings AB.",
@@ -133,14 +136,15 @@
             "capital": 3600000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1909,
         "coordinates": {
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "AB. Svenska Syrgasfabriken",
@@ -163,14 +167,15 @@
             "capital": 264000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": 120000
+            "annual_production_value": 120000,
+            "employees_total": 0
         },
         "foundation_year": 1910,
         "coordinates": {
             "Latitude": 57.26569929999999,
             "Longitude": 16.4473984
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "AB. Svenska Tacksfabriken",
@@ -195,14 +200,15 @@
                 "antalindustriarb": 90
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 90
         },
         "foundation_year": 1901,
         "coordinates": {
             "Latitude": 58.28348939999999,
             "Longitude": 12.2858206
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "AB. Svenska Tagelspinneri",
@@ -225,13 +231,14 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": null,
         "coordinates": {
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 3
+        "cluster": 9
     }
 }

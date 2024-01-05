@@ -38,7 +38,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 6
+        "cluster": 2
     },
     "2": {
         "name": "Pershytte Grufvebolag",
@@ -83,7 +83,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 6
+        "cluster": 2
     },
     "3": {
         "name": "Alfred Perssons Snickerifabrik",
@@ -110,7 +110,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Anders Perssons Skidfabrik",
@@ -135,7 +135,7 @@
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "AB. August Perssons Ekmöbelfabrik",
@@ -161,7 +161,7 @@
             "Latitude": 56.2914154,
             "Longitude": 13.7097126
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Bernh. Perssons Cjuteri",
@@ -187,7 +187,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "Birger Pehrsons Byggnads AB",
@@ -222,7 +222,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 0
+        "cluster": 6
     },
     "8": {
         "name": "B. E. Persson, Skofabrik",
@@ -247,7 +247,7 @@
             "Latitude": 60.686372,
             "Longitude": 13.720966
         },
-        "cluster": 9
+        "cluster": 5
     },
     "9": {
         "name": "Carl Persson & Söner AB",
@@ -269,6 +269,6 @@
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

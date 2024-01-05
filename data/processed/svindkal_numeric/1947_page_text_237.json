@@ -15,7 +15,8 @@
                 "industriarb": 200
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 200
         },
         "foundation_year": 1885,
         "corporation_year": 1918,
@@ -53,7 +54,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": "2,000 stds trävaror"
+            "annual_production_value": "2,000 stds trävaror",
+            "employees_total": 10
         },
         "foundation_year": 1903,
         "board": [
@@ -67,7 +69,7 @@
             "Latitude": 56.9574499,
             "Longitude": 13.0807404
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Axel Christiernsson",
@@ -85,7 +87,8 @@
             "employees": {
                 "industriarb": 18
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 18
         },
         "board": [
             {
@@ -107,6 +110,6 @@
             "Latitude": 59.3300746,
             "Longitude": 18.0603121
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

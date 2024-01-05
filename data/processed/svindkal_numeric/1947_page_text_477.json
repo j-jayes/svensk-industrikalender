@@ -11,14 +11,15 @@
             "employees": {
                 "arb.-antal": 10
             },
-            "annual_production_value": 80000
+            "annual_production_value": 80000,
+            "employees_total": 10
         },
         "foundation_year": 1925,
         "coordinates": {
             "Latitude": 57.3299188,
             "Longitude": 18.7083941
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Ljungs Choklad- & Cacao-Fabrik, AB.",
@@ -33,7 +34,8 @@
             "capital": 350000,
             "employees": {
                 "antal industriarb.": 135
-            }
+            },
+            "employees_total": 135
         },
         "foundation_year": 1916,
         "corporation_year": 1935,
@@ -58,7 +60,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. Ljungs Tegelbruk",
@@ -74,14 +76,15 @@
             "employees": {
                 "antal industriarb.": 30
             },
-            "annual_turnover": "2,5 milj. st. tegelvaror"
+            "annual_turnover": "2,5 milj. st. tegelvaror",
+            "employees_total": 30
         },
         "foundation_year": 1910,
         "coordinates": {
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Ljungaskogs AB.",
@@ -96,14 +99,15 @@
             "employees": {
                 "Arb.-antal": 10
             },
-            "annual_production_value": "14,000 ton våt, vit trämassa för Papyrus pappersbruk"
+            "annual_production_value": "14,000 ton våt, vit trämassa för Papyrus pappersbruk",
+            "employees_total": 10
         },
         "foundation_year": 1910,
         "coordinates": {
             "Latitude": 57.65,
             "Longitude": 12.016667
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. J. C. Ljungbergs Metallfabrik",
@@ -118,7 +122,8 @@
             "employees": {
                 "antal industriarb.": 36
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 36
         },
         "foundation_year": 1889,
         "corporation_year": 1917,
@@ -126,7 +131,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. N. H. Ljungbergs Läderfabrik",
@@ -140,7 +145,8 @@
             "capital": 777000,
             "employees": {
                 "antal industriarb.": 65
-            }
+            },
+            "employees_total": 65
         },
         "foundation_year": 1916,
         "board": [
@@ -161,6 +167,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 1
+        "cluster": 9
     }
 }

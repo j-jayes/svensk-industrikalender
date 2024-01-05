@@ -15,7 +15,8 @@
             "capital": 1800000,
             "employees": {
                 "industriarb": 247
-            }
+            },
+            "employees_total": 247
         },
         "foundation_year": 1899,
         "board": [
@@ -37,7 +38,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Skånska Granit AB.",
@@ -55,7 +56,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 70
-            }
+            },
+            "employees_total": 70
         },
         "foundation_year": 1920,
         "board": [
@@ -76,7 +78,7 @@
             "Latitude": 56.2543556,
             "Longitude": 14.0718204
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Skånska Jutefabriks AB.",
@@ -106,7 +108,8 @@
             "employees": {
                 "industriarb": 300
             },
-            "annual_turnover": 3600000
+            "annual_turnover": 3600000,
+            "employees_total": 300
         },
         "foundation_year": 1896,
         "board": [
@@ -137,7 +140,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Skånska Konfektionsfabriken",
@@ -156,7 +159,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 65
         },
         "foundation_year": 1925,
         "board": [
@@ -174,7 +178,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Skånska Litografiska AB.",
@@ -189,7 +193,8 @@
             "telegraph": "Litografiska, Malmö"
         },
         "financials": {
-            "annual_production_value": "Se AB. Sveriges Litografiska Tryckerier, Stockholm (Se detta bolag)"
+            "annual_production_value": "Se AB. Sveriges Litografiska Tryckerier, Stockholm (Se detta bolag)",
+            "employees_total": 0
         },
         "board": [
             {
@@ -200,7 +205,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "Skånska Makadamfabriken",
@@ -216,13 +221,14 @@
             "capital": 375000,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "coordinates": {
             "Latitude": 56.134262,
             "Longitude": 12.945908
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Skånska Marmor AB.",
@@ -238,7 +244,8 @@
             "capital": 100000,
             "employees": {
                 "arb": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1897,
         "board": [
@@ -259,7 +266,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "Skånska Spisbrödsfabriken",
@@ -285,12 +292,13 @@
             "employees": {
                 "industriarb": 125
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 125
         },
         "coordinates": {
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

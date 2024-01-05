@@ -39,7 +39,7 @@
             "Latitude": 60.60646000000001,
             "Longitude": 15.6355
         },
-        "cluster": 7
+        "cluster": 2
     },
     "2": {
         "name": "Nya Lervarufabriken, V. Tunberg & Co.",
@@ -66,7 +66,7 @@
             "Latitude": 58.70550919999999,
             "Longitude": 14.1261468
         },
-        "cluster": 1
+        "cluster": 0
     },
     "3": {
         "name": "Nya AB. Liljeqvists Sågblads- & Redskapsfabrik",
@@ -130,7 +130,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Nya Linneindustri AB",
@@ -166,7 +166,7 @@
             "Latitude": 65.584819,
             "Longitude": 22.1567026
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Nya Läderfabriks AB. Göta",
@@ -234,7 +234,7 @@
             "Latitude": 58.6605369,
             "Longitude": 16.3990328
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "Nya Mek. Strumpfabriken AB.",
@@ -256,6 +256,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

@@ -15,14 +15,15 @@
             "employees": {
                 "industriarb": 16
             },
-            "annual_turnover": 375000
+            "annual_turnover": 375000,
+            "employees_total": 16
         },
         "foundation_year": 1916,
         "coordinates": {
             "Latitude": 56.134262,
             "Longitude": 12.945908
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "Åstorps Tegelbruks AB.",
@@ -43,14 +44,15 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": "3 milj. st. tegelvaror"
+            "annual_production_value": "3 milj. st. tegelvaror",
+            "employees_total": 20
         },
         "foundation_year": 1934,
         "coordinates": {
             "Latitude": 56.134262,
             "Longitude": 12.945908
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "AB. Åsundens Trikåfabrik",
@@ -71,14 +73,15 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 50
         },
         "foundation_year": 1917,
         "coordinates": {
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Åtvidabergs Bryggeri AB.",
@@ -93,14 +96,15 @@
             "employees": {
                 "arb-antal": 10
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 10
         },
         "foundation_year": 1922,
         "coordinates": {
             "Latitude": 58.2007895,
             "Longitude": 15.9976986
         },
-        "cluster": 2
+        "cluster": 16
     },
     "5": {
         "name": "AB. Åtvidabergs Industrier",
@@ -116,13 +120,14 @@
             "employees": {
                 "industriarb": 545
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 545
         },
         "foundation_year": 1906,
         "coordinates": {
             "Latitude": 58.2007895,
             "Longitude": 15.9976986
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

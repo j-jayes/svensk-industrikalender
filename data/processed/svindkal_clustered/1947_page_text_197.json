@@ -57,7 +57,7 @@
             "Latitude": 59.45244,
             "Longitude": 17.8096203
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "A. E. Bolling",
@@ -79,7 +79,7 @@
             "Latitude": 58.02502339999999,
             "Longitude": 14.4700948
         },
-        "cluster": 6
+        "cluster": 0
     },
     "3": {
         "name": "Bollnäs Nya Bryggeri AB.",
@@ -116,7 +116,7 @@
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "Bollnäs Trävaru AB.",
@@ -140,7 +140,7 @@
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Bongs Fabriker AB.",
@@ -183,7 +183,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "Gustaf Bong AB.",
@@ -204,6 +204,6 @@
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

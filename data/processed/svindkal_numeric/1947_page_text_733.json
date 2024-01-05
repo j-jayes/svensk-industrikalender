@@ -16,7 +16,8 @@
             "employees": {
                 "Arb.-antal": 8
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 8
         },
         "foundation_year": 1941,
         "board": [
@@ -51,7 +52,8 @@
         "financials": {
             "employees": {
                 "Arb.-antal": 5
-            }
+            },
+            "employees_total": 5
         },
         "foundation_year": 1906,
         "owners": [
@@ -63,7 +65,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Typochroma",
@@ -94,7 +96,8 @@
                 "Arb.-antal": 10
             },
             "annual_turnover": "Okänd",
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 10
         },
         "foundation_year": 1896,
         "corporation_year": 1931,
@@ -117,7 +120,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "AB. Tyringe Möbelfabrik",
@@ -135,7 +138,8 @@
             "employees": {
                 "antal industriarb.": 25
             },
-            "annual_production_value": 130000
+            "annual_production_value": 130000,
+            "employees_total": 25
         },
         "foundation_year": 1922,
         "corporation_year": 1938,
@@ -157,7 +161,7 @@
             "Latitude": 56.1594501,
             "Longitude": 13.6032438
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "AB. Tyringe Stanskniv- & Press-verktygsfabrik",
@@ -176,7 +180,8 @@
             "employees": {
                 "Antal industriarb.": 20
             },
-            "annual_production_value": 175000
+            "annual_production_value": 175000,
+            "employees_total": 20
         },
         "foundation_year": 1912,
         "corporation_year": 1923,
@@ -186,7 +191,7 @@
             "Latitude": 56.1594501,
             "Longitude": 13.6032438
         },
-        "cluster": 6
+        "cluster": 9
     },
     "6": {
         "name": "Täckfabriken A. J. Ängel AB",
@@ -203,7 +208,8 @@
             "employees": {
                 "Antal industriarb.": 12
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 12
         },
         "foundation_year": 1898,
         "corporation_year": 1933,
@@ -234,7 +240,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "AB. Täckindustri",
@@ -252,7 +258,8 @@
             "employees": {
                 "Antal industriarb.": 28
             },
-            "annual_production_value": 750000
+            "annual_production_value": 750000,
+            "employees_total": 28
         },
         "foundation_year": 1923,
         "corporation_year": 1932,
@@ -261,7 +268,7 @@
             "Latitude": 59.0579376,
             "Longitude": 16.5879122
         },
-        "cluster": 3
+        "cluster": 9
     },
     "8": {
         "name": "AB. Tärna",
@@ -287,7 +294,8 @@
             "capital": 30000,
             "employees": {
                 "Antal industriarb.": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1932,
         "board": [
@@ -305,6 +313,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

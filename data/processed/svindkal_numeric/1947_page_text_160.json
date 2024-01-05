@@ -28,7 +28,8 @@
                 "hyvlade": 900,
                 "wallboard": 0
             },
-            "annual_turnover": "N/A"
+            "annual_turnover": "N/A",
+            "employees_total": 1800
         },
         "foundation_year": 1891,
         "current_name_year": "N/A",
@@ -56,7 +57,7 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Annetorps Tegelbruk",
@@ -80,7 +81,8 @@
             "employees": {
                 "total": 25
             },
-            "annual_turnover": "N/A"
+            "annual_turnover": "N/A",
+            "employees_total": 25
         },
         "foundation_year": 1874,
         "current_name_year": 1904,
@@ -108,7 +110,7 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "AB. John Antonsons Boktryckeri",
@@ -132,7 +134,8 @@
             "employees": {
                 "total": 50
             },
-            "annual_turnover": "N/A"
+            "annual_turnover": "N/A",
+            "employees_total": 50
         },
         "foundation_year": 1894,
         "current_name_year": 1916,
@@ -156,7 +159,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "Anundsjö Sko- &amp; Läderfabrik, Celinder &amp; Co.",
@@ -180,7 +183,8 @@
             "employees": {
                 "total": 30
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 30
         },
         "foundation_year": 1926,
         "current_name_year": "N/A",
@@ -204,7 +208,7 @@
             "Latitude": 63.45048019999999,
             "Longitude": 18.1031299
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "AB. Apotekarnes Förenade Vattenfabriker",
@@ -228,7 +232,8 @@
             "employees": {
                 "total": 150
             },
-            "annual_turnover": 4200000
+            "annual_turnover": 4200000,
+            "employees_total": 150
         },
         "foundation_year": 1907,
         "current_name_year": "N/A",
@@ -256,7 +261,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 16
     },
     "6": {
         "name": "AB. Apotekarnes Kemiska Fabriker",
@@ -280,7 +285,8 @@
             "employees": {
                 "total": "N/A"
             },
-            "annual_turnover": "N/A"
+            "annual_turnover": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "current_name_year": "N/A",
@@ -299,6 +305,6 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

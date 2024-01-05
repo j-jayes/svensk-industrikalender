@@ -15,14 +15,15 @@
                 "industriarb": 25
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 25
         },
         "foundation_year": 1941,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "AB. Örebro Skofabrik",
@@ -44,7 +45,8 @@
                 "industriarb": 135
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 135
         },
         "foundation_year": 1929,
         "predecessor": "f.d. AB. Skofabriken Svea",
@@ -52,7 +54,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "AB. Örebro Snickeri & Trävaru AB.",
@@ -72,14 +74,15 @@
                 "industriarb": 50
             },
             "annual_turnover": 1600000,
-            "annual_production_value": 1600000
+            "annual_production_value": 1600000,
+            "employees_total": 50
         },
         "foundation_year": 1932,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 0
+        "cluster": 15
     },
     "4": {
         "name": "Örebro Sportindustri",
@@ -92,14 +95,15 @@
             "postgiro": "77450"
         },
         "financials": {
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1921,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "AB. Örebro Strå- & Filthattfabrik",
@@ -115,7 +119,8 @@
             "postgiro": "28372"
         },
         "financials": {
-            "capital": 80000
+            "capital": 80000,
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "coordinates": {
@@ -140,14 +145,15 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 30
         },
         "foundation_year": 1946,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 3
+        "cluster": 9
     },
     "7": {
         "name": "Öregrunds Slip & Warfs AB.",
@@ -165,14 +171,15 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_turnover": 350000
+            "annual_turnover": 350000,
+            "employees_total": 45
         },
         "foundation_year": 1910,
         "coordinates": {
             "Latitude": 60.3392558,
             "Longitude": 18.4402538
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "Öresundsvarvet AB.",
@@ -188,13 +195,14 @@
             "employees": {
                 "industriarb": 1000
             },
-            "annual_turnover": 20000000
+            "annual_turnover": 20000000,
+            "employees_total": 1000
         },
         "foundation_year": 1924,
         "coordinates": {
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

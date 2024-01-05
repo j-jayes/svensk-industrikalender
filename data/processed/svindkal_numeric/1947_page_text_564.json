@@ -14,7 +14,8 @@
         "financials": {
             "capital": 50000,
             "annual_turnover": 855000,
-            "annual_production_value": 855000
+            "annual_production_value": 855000,
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "board": [
@@ -33,7 +34,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "Olsson & Rosenlunds AB.",
@@ -50,7 +51,8 @@
         "financials": {
             "capital": 4350000,
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 0
         },
         "foundation_year": 1882,
         "board": [
@@ -81,7 +83,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Olssons Textilfabriker",
@@ -98,7 +100,8 @@
         "financials": {
             "capital": 150000,
             "annual_turnover": 3000000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 0
         },
         "foundation_year": 1935,
         "board": [
@@ -116,7 +119,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB. Daniel Olssons Pälsvarufabrik",
@@ -133,7 +136,8 @@
         "financials": {
             "capital": 85000,
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 0
         },
         "foundation_year": 1919,
         "board": [
@@ -164,7 +168,8 @@
         "financials": {
             "capital": 75000,
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 0
         },
         "foundation_year": 1896,
         "board": [
@@ -186,7 +191,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. Håkan Ohlssons Boktryckeri",
@@ -205,6 +210,6 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

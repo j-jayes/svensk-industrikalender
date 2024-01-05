@@ -9,7 +9,8 @@
             },
             "annual_turnover": 1500000,
             "foundation_year": 1898,
-            "corporation_year": 1910
+            "corporation_year": 1910,
+            "employees_total": 100
         },
         "coordinates": {
             "Latitude": 59.60990049999999,
@@ -28,13 +29,14 @@
             },
             "annual_turnover": 750000,
             "foundation_year": 1922,
-            "corporation_year": 1937
+            "corporation_year": 1937,
+            "employees_total": 45
         },
         "coordinates": {
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Charles Westerberg & Co. AB.",
@@ -47,13 +49,14 @@
             },
             "annual_turnover": 2000000,
             "foundation_year": 1919,
-            "corporation_year": 1942
+            "corporation_year": 1942,
+            "employees_total": 85
         },
         "coordinates": {
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Ernst Westerbergs Boktryckeri AB.",
@@ -65,13 +68,14 @@
                 "industriarb": 37
             },
             "foundation_year": 1897,
-            "corporation_year": 1916
+            "corporation_year": 1916,
+            "employees_total": 37
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "AB. Westerdahi & Karsten",
@@ -84,13 +88,14 @@
             },
             "annual_turnover": 2500000,
             "foundation_year": 1820,
-            "corporation_year": 1896
+            "corporation_year": 1896,
+            "employees_total": 55
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "lsaac Westergren & C:o AB.",
@@ -103,13 +108,14 @@
             },
             "annual_turnover": 1100000,
             "foundation_year": 1872,
-            "corporation_year": 1933
+            "corporation_year": 1933,
+            "employees_total": 25
         },
         "coordinates": {
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 3
     },
     "7": {
         "name": "Alb. Westerholm",
@@ -129,13 +135,14 @@
                 "arb-antal": 7
             },
             "annual_turnover": 110000,
-            "foundation_year": 1927
+            "foundation_year": 1927,
+            "employees_total": 7
         },
         "coordinates": {
             "Latitude": 62.6322698,
             "Longitude": 17.9408714
         },
-        "cluster": 1
+        "cluster": 13
     },
     "9": {
         "name": "AB. Westerstrand & Söner",
@@ -146,12 +153,13 @@
             "employees": {
                 "industriarb": 220
             },
-            "corporation_year": 1944
+            "corporation_year": 1944,
+            "employees_total": 220
         },
         "coordinates": {
             "Latitude": 58.70550919999999,
             "Longitude": 14.1261468
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

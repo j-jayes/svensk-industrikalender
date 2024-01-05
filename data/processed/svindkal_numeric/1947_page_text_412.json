@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 40
         },
         "foundation_year": 1882,
         "current_name_year": 1902,
@@ -38,7 +39,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "Kalmar Tändsticksfabrik",
@@ -48,7 +49,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Kalmar Varv",
@@ -69,7 +70,8 @@
                 "industriarb": 175
             },
             "annual_turnover": "Unknown",
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 175
         },
         "board": [
             {
@@ -91,7 +93,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 0
+        "cluster": 7
     },
     "4": {
         "name": "Kalmar Verkstads AB",
@@ -107,7 +109,8 @@
                 "industriarb": 350
             },
             "annual_turnover": "Unknown",
-            "annual_production_value": 4000000
+            "annual_production_value": 4000000,
+            "employees_total": 350
         },
         "board": [
             {
@@ -137,7 +140,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Kalmar Ängkvarns Kommanditbolag",
@@ -152,7 +155,8 @@
             "employees": {
                 "industriarb": 165
             },
-            "annual_production_value": 14000000
+            "annual_production_value": 14000000,
+            "employees_total": 165
         },
         "foundation_year": 1847,
         "current_name_year": 1922,
@@ -166,7 +170,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Kalu Choklad & Konfektfabrik AB.",
@@ -176,7 +180,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "AB Kamgarn",
@@ -191,7 +195,8 @@
             "employees": {
                 "industriarb": 160
             },
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 160
         },
         "current_name_year": 1909,
         "board": [
@@ -214,7 +219,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "Kampenhofs AB.",
@@ -224,6 +229,6 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

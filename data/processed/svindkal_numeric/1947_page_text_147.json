@@ -18,14 +18,15 @@
                 "industrial_workers": 41
             },
             "annual_turnover": 800000,
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 41
         },
         "foundation_year": 1892,
         "coordinates": {
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Alingsås Trikåfabrik",
@@ -40,7 +41,8 @@
             "employees": {
                 "industrial_workers": 30
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 30
         },
         "foundation_year": 1939,
         "current_name_year": 1943,
@@ -50,7 +52,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "AB. Alka Aluminiumkapslar",
@@ -65,13 +67,15 @@
             ],
             "postgiro": "85370"
         },
-        "financials": {},
+        "financials": {
+            "employees_total": 0
+        },
         "foundation_year": null,
         "coordinates": {
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Alkafol",
@@ -83,14 +87,15 @@
             "postgiro": "251274"
         },
         "financials": {
-            "capital": 5000
+            "capital": 5000,
+            "employees_total": 0
         },
         "foundation_year": 1945,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 3
     },
     "5": {
         "name": "AB. Allkartong",
@@ -106,7 +111,8 @@
             "employees": {
                 "industrial_workers": 70
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 70
         },
         "foundation_year": 1912,
         "current_name_year": 1938,
@@ -115,7 +121,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "Allkonfektion AB.",
@@ -135,7 +141,8 @@
                 "industrial_workers": 50,
                 "home_workers": 120
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 170
         },
         "foundation_year": 1928,
         "current_name_year": 1934,
@@ -144,7 +151,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "AllmänG0 AB.",
@@ -159,14 +166,15 @@
             "capital": 600000,
             "employees": {
                 "industrial_workers": 200
-            }
+            },
+            "employees_total": 200
         },
         "foundation_year": 1933,
         "coordinates": {
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Allmänna Betongbyggnadsbyrån",
@@ -177,13 +185,15 @@
             "phone": "603988",
             "postgiro": "154311"
         },
-        "financials": {},
+        "financials": {
+            "employees_total": 0
+        },
         "foundation_year": 1925,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "9": {
         "name": "Allmänna Brandredskapsaffären AB.",
@@ -193,12 +203,14 @@
             "phone": "Allmänna Brandredskapsaffären AB., Stockholm",
             "postgiro": "Allmänna Brandredskapsaffären AB."
         },
-        "financials": {},
+        "financials": {
+            "employees_total": 0
+        },
         "foundation_year": null,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

@@ -27,12 +27,12 @@
             "Latitude": 58.70009630000001,
             "Longitude": 15.15074
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Kvarnströms £abrNc$ Ä1l<, Stockholm",
         "business": "Utför förnicklingar och förkromningar m. m.",
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Kvarnsvedens Pappersbruk, Kvarnsveden",
@@ -59,7 +59,7 @@
             "Latitude": 60.484304,
             "Longitude": 15.433969
         },
-        "cluster": 5
+        "cluster": 17
     },
     "4": {
         "name": "Kvarnäs Tegelbruks AB. i Viby, Kristianstad",
@@ -83,7 +83,7 @@
             "Latitude": 56.0145741,
             "Longitude": 14.2300139
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "AB. Kvillsfors Möbler, Kvillsfors",
@@ -104,7 +104,7 @@
             "Latitude": 57.40332290000001,
             "Longitude": 15.5021311
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Kvänums Fläktfabrik, Gustavsson & Karlsson, Kvänum",
@@ -126,7 +126,7 @@
             "Latitude": 58.298928,
             "Longitude": 13.1853539
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "Kurzels Fabriker AB., Malmö",
@@ -140,7 +140,7 @@
                 "industriarb": 600
             }
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "Kyl-Automatik Fabriks AB., Mjölby",
@@ -162,6 +162,6 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

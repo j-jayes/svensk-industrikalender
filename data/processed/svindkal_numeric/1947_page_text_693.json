@@ -19,7 +19,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 25
         },
         "foundation_year": 1922,
         "director": "Rolf Gille",
@@ -27,7 +28,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Svenska Väg AB.",
@@ -48,7 +49,8 @@
         },
         "financials": {
             "capital": 1000000,
-            "annual_production_value": 9000000
+            "annual_production_value": 9000000,
+            "employees_total": 0
         },
         "foundation_year": 1930,
         "board": [
@@ -79,7 +81,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Svenska Värme-Elektr. AB.",
@@ -96,7 +98,8 @@
         },
         "financials": {
             "capital": 50000,
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 0
         },
         "foundation_year": 1930,
         "board": [
@@ -115,7 +118,7 @@
             "Latitude": 59.33688530000001,
             "Longitude": 17.9638876
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "Svenska Yllekoncernen, AB.",
@@ -138,14 +141,15 @@
             "employees": {
                 "industriarb": 170
             },
-            "annual_turnover": 4500000
+            "annual_turnover": 4500000,
+            "employees_total": 170
         },
         "foundation_year": 1911,
         "coordinates": {
             "Latitude": 58.5739538,
             "Longitude": 14.0045851
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "AB. Svenskt Konstsilke",
@@ -160,14 +164,15 @@
             "employees": {
                 "industriarb": 750
             },
-            "annual_turnover": 15000000
+            "annual_turnover": 15000000,
+            "employees_total": 750
         },
         "foundation_year": 1918,
         "coordinates": {
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Svenskt Kontrollregister",
@@ -184,13 +189,14 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 90
         },
         "foundation_year": 1937,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

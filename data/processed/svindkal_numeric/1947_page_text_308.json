@@ -17,7 +17,8 @@
             "capital": 200000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1810,
         "board": [
@@ -30,7 +31,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "Förberg-Film AB",
@@ -51,7 +52,8 @@
                 "Arb.-antal": 5
             },
             "annual_turnover": "",
-            "annual_production_value": 225000
+            "annual_production_value": 225000,
+            "employees_total": 5
         },
         "foundation_year": 1934,
         "current_name_year": 1938,
@@ -78,7 +80,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "AB Förenade Bryggerierna",
@@ -97,7 +99,8 @@
                 "Antal industriarb.": 50
             },
             "annual_turnover": "",
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 50
         },
         "foundation_year": 1882,
         "board": [
@@ -128,7 +131,7 @@
             "Latitude": 56.161224,
             "Longitude": 15.5869
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "AB Förenade Chokladfabrikerna",
@@ -147,7 +150,8 @@
                 "Antal industriarb.": 179
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 179
         },
         "foundation_year": 1910,
         "board": [
@@ -171,7 +175,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "AB Förenade Flygverkstäder",
@@ -189,7 +193,8 @@
             "capital": 1000000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1937,
         "board": [
@@ -211,7 +216,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB Förenade Cranitindustrier",
@@ -230,7 +235,8 @@
                 "Antal industriarb.": 300
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 300
         },
         "foundation_year": 1917,
         "current_name_year": 1921,
@@ -254,7 +260,7 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "Förenade Kaffeimportörers Rosteri AB",
@@ -271,12 +277,13 @@
             "capital": 1800000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 13
     }
 }

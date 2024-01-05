@@ -27,7 +27,8 @@
                 "industriarb.": 390
             },
             "annual_turnover": 4100000,
-            "annual_production_value": 20000000
+            "annual_production_value": 20000000,
+            "employees_total": 390
         },
         "foundation_year": 1918,
         "board": [
@@ -53,7 +54,7 @@
             "Latitude": 57.50394780000001,
             "Longitude": 14.7079586
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Svenska Oljeslageri",
@@ -82,7 +83,8 @@
             "employees": {
                 "industriarb.": 220
             },
-            "annual_turnover": 20000000
+            "annual_turnover": 20000000,
+            "employees_total": 220
         },
         "foundation_year": 1916,
         "board": [
@@ -116,7 +118,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Svenska Pianofabriken",
@@ -126,7 +128,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 15
     },
     "4": {
         "name": "AB. Svenska Precisionsverktyg",
@@ -146,7 +148,7 @@
             "Latitude": 59.30531999999999,
             "Longitude": 18.2475
         },
-        "cluster": 1
+        "cluster": 7
     },
     "5": {
         "name": "AB. Svenska Naxos",
@@ -165,6 +167,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

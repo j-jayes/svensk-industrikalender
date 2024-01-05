@@ -21,7 +21,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 120000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 15
         },
         "foundation_year": 1914,
         "current_name_year": 1931,
@@ -51,7 +52,7 @@
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Nils Mårtenssons Cjuteri AB.",
@@ -76,7 +77,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 600000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 60
         },
         "foundation_year": 1925,
         "current_name_year": 1946,
@@ -93,7 +95,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "AB. Måttstockar, Lidingö",
@@ -117,7 +119,8 @@
                 "industriarb": 45
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 45
         },
         "foundation_year": 1930,
         "current_name_year": null,
@@ -134,7 +137,7 @@
             "Latitude": 59.10059589999999,
             "Longitude": 16.5624079
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "AB. Mälardalens Tegelbruk, Stockholm",
@@ -158,7 +161,8 @@
                 "under säsong": 700
             },
             "annual_turnover": null,
-            "annual_production_value": "55 milj. st. tegelvaror"
+            "annual_production_value": "55 milj. st. tegelvaror",
+            "employees_total": 700
         },
         "foundation_year": 1914,
         "current_name_year": null,
@@ -188,7 +192,7 @@
             "Latitude": 59.8191998,
             "Longitude": 17.7128415
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Möbel AB. Larsson & Co., Karlstad",
@@ -212,7 +216,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 240000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 25
         },
         "foundation_year": 1916,
         "current_name_year": 1935,
@@ -226,7 +231,7 @@
         "sales_manager": null,
         "manager": null,
         "coordinates": null,
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Möbel AB. Vasa, Vaggeryd",
@@ -250,7 +255,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 420000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 40
         },
         "foundation_year": null,
         "current_name_year": null,
@@ -267,7 +273,7 @@
             "Latitude": 57.4989621,
             "Longitude": 14.1486297
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Möbelfabriken Balder, Vaggeryd",
@@ -291,7 +297,8 @@
                 "industriarb": 35
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 35
         },
         "foundation_year": 1939,
         "current_name_year": null,
@@ -308,7 +315,7 @@
             "Latitude": 57.4989621,
             "Longitude": 14.1486297
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "Möbelfabriken Ejdern, Karl Malmberg, Vimmerby",
@@ -333,7 +340,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 150000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 20
         },
         "foundation_year": 1924,
         "current_name_year": null,
@@ -349,6 +357,6 @@
         "sales_manager": null,
         "manager": null,
         "coordinates": null,
-        "cluster": 8
+        "cluster": 15
     }
 }

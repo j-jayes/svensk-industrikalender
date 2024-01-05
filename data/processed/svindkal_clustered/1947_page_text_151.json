@@ -26,7 +26,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Alsterbro Glasbruk",
@@ -75,7 +75,7 @@
             "Latitude": 56.9381594,
             "Longitude": 15.9127217
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "AB. Alsterfors Glasbruk",
@@ -112,7 +112,7 @@
             "Latitude": 56.9147405,
             "Longitude": 15.5692751
         },
-        "cluster": 2
+        "cluster": 0
     },
     "4": {
         "name": "Alstermo Bruks AB.",
@@ -151,7 +151,7 @@
             "Latitude": 56.96666699999999,
             "Longitude": 15.65
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "AB. Alsters Industrier",
@@ -188,7 +188,7 @@
             "Latitude": 59.4012898,
             "Longitude": 13.6138993
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Alströms Trikåfabrik",
@@ -224,7 +224,7 @@
             "Latitude": 58.1368068,
             "Longitude": 13.337379
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Ragnar Alström AB.",
@@ -263,7 +263,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Aluminiseringsverken AB.",
@@ -299,6 +299,6 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

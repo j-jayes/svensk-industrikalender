@@ -17,7 +17,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 2000000,
-            "annual_production_value": "0 kr"
+            "annual_production_value": "0 kr",
+            "employees_total": 15
         },
         "foundation_year": 1942,
         "board": [
@@ -42,7 +43,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Svenska Fruktföreningen u. p. a.",
@@ -63,7 +64,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "0 kr"
+            "annual_production_value": "0 kr",
+            "employees_total": 60
         },
         "foundation_year": 1915,
         "current_name_year": 1920,
@@ -93,7 +95,7 @@
             "Latitude": 56.5312804,
             "Longitude": 14.8146271
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. Svenska Färg- & Kritverken",
@@ -113,7 +115,8 @@
                 "industriarb": 11
             },
             "annual_turnover": "0 kr",
-            "annual_production_value": "0 kr"
+            "annual_production_value": "0 kr",
+            "employees_total": 11
         },
         "corporation_year": 1913,
         "board": [],
@@ -121,7 +124,7 @@
             "Latitude": 55.566667,
             "Longitude": 13.1
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "AB. Svenska Förnickfingsfabriken",
@@ -141,7 +144,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 350000,
-            "annual_production_value": "0 kr"
+            "annual_production_value": "0 kr",
+            "employees_total": 20
         },
         "foundation_year": 1931,
         "corporation_year": 1932,
@@ -150,7 +154,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "AB. Svenska Cardinfabriken",
@@ -170,7 +174,8 @@
                 "industriarb": 58
             },
             "annual_turnover": "0 kr",
-            "annual_production_value": "0 kr"
+            "annual_production_value": "0 kr",
+            "employees_total": 58
         },
         "foundation_year": 1894,
         "board": [
@@ -191,7 +196,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 15
     },
     "6": {
         "name": "AB. Svenska AB. Casaccumulator (Aga)",
@@ -225,6 +230,6 @@
             "Latitude": 59.36295999999999,
             "Longitude": 18.1468
         },
-        "cluster": 6
+        "cluster": 3
     }
 }

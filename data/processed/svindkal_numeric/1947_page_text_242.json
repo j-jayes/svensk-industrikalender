@@ -17,7 +17,8 @@
                 "industriarb": 15
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 15
         },
         "foundation_year": 1923,
         "owners": [
@@ -28,7 +29,7 @@
             "Latitude": 60.375244,
             "Longitude": 16.010328
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "Dalarnes Karamellfabrik",
@@ -49,7 +50,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 700000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 30
         },
         "foundation_year": 1905,
         "owners": [
@@ -60,7 +62,7 @@
             "Latitude": 60.889025,
             "Longitude": 15.123373
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. Dalasågen",
@@ -87,7 +89,8 @@
                 "industriarb": 130
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 130
         },
         "foundation_year": 1929,
         "owners": null,
@@ -96,7 +99,7 @@
             "Latitude": 61.004878,
             "Longitude": 14.537003
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Dalby Siporexfabrik",
@@ -117,7 +120,8 @@
                 "industriarb": 88
             },
             "annual_turnover": 3000000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 88
         },
         "foundation_year": 1935,
         "owners": [
@@ -128,7 +132,7 @@
             "Latitude": 55.6648168,
             "Longitude": 13.3475569
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Dalby Stenkross AB.",
@@ -149,7 +153,8 @@
                 "industriarb": 66
             },
             "annual_turnover": 600000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 66
         },
         "foundation_year": 1914,
         "owners": [
@@ -164,7 +169,7 @@
             "Latitude": 55.6648168,
             "Longitude": 13.3475569
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Dalhems Väfveri",
@@ -184,7 +189,8 @@
                 "industriarb": 105
             },
             "annual_turnover": 2500000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 105
         },
         "foundation_year": 1913,
         "owners": [
@@ -198,6 +204,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

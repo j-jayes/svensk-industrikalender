@@ -14,7 +14,8 @@
         },
         "financials": {
             "capital": 300000,
-            "annual_turnover": 3500000
+            "annual_turnover": 3500000,
+            "employees_total": 0
         },
         "foundation_year": 1894,
         "corporation_year": 1941,
@@ -24,7 +25,7 @@
             "Latitude": 56.2006388,
             "Longitude": 12.5553288
         },
-        "cluster": 3
+        "cluster": 19
     },
     "2": {
         "name": "Arno, Malmö",
@@ -38,11 +39,12 @@
         },
         "financials": {
             "capital": 10000,
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1942,
         "director": "ing. Gösta Mårtensson",
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Aronsdals Färgeri, H. Crauers",
@@ -60,7 +62,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 750000
+            "annual_turnover": 750000,
+            "employees_total": 30
         },
         "foundation_year": 1869,
         "director": "disp. Bertil Crauers",
@@ -68,7 +71,7 @@
             "Latitude": 57.7366497,
             "Longitude": 12.1251968
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "A. K. Aronzons Bokbinderi",
@@ -83,7 +86,8 @@
             "employees": {
                 "industriarb": 73
             },
-            "annual_turnover": 716000
+            "annual_turnover": 716000,
+            "employees_total": 73
         },
         "foundation_year": 1888,
         "owner": "fabr. Henrik Ljunggren",
@@ -91,7 +95,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "AB. Arosverken",
@@ -107,7 +111,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 50
         },
         "corporation_year": 1940,
         "director": "fabr. E. Edvin Eriksson",
@@ -115,7 +120,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Arvika Bryggeri AB.",
@@ -133,7 +138,8 @@
             "employees": {
                 "industriarb": 21
             },
-            "annual_turnover": 140000
+            "annual_turnover": 140000,
+            "employees_total": 21
         },
         "corporation_year": 1906,
         "board": [
@@ -156,7 +162,7 @@
             "Latitude": 59.6548534,
             "Longitude": 12.592136
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "Arvika Metallfabrik",
@@ -171,7 +177,8 @@
             "employees": {
                 "Arb.-antal": 28
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 28
         },
         "foundation_year": 1910,
         "director": "ing. Harry Nilsson",
@@ -179,7 +186,7 @@
             "Latitude": 59.6548534,
             "Longitude": 12.592136
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "AB. Arvika Redskapsfabrik",
@@ -199,7 +206,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 70
         },
         "corporation_year": 1923,
         "board": [
@@ -236,6 +244,6 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

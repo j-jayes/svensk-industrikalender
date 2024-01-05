@@ -21,7 +21,8 @@
                 "industriarb": 12
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 12
         },
         "foundation_year": 1925,
         "board": [
@@ -44,7 +45,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "AB. Dräkt- & Kappfabriken",
@@ -63,7 +64,8 @@
                 "industriarb": 37
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 37
         },
         "foundation_year": 1942,
         "current_name_year": 1946,
@@ -73,7 +75,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "A. C. Dufva AB.",
@@ -92,7 +94,8 @@
         "financials": {
             "capital": 400000,
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 0
         },
         "foundation_year": 1847,
         "corporation_year": 1930,
@@ -120,7 +123,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Josef Dufwenberg AB.",
@@ -140,7 +143,8 @@
         "financials": {
             "capital": 100000,
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 0
         },
         "foundation_year": 1918,
         "board": [
@@ -163,7 +167,7 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 0
+        "cluster": 6
     },
     "5": {
         "name": "And. Dunder",
@@ -180,7 +184,8 @@
             "annual_turnover": 6500000,
             "employees": {
                 "industriarb": 1
-            }
+            },
+            "employees_total": 1
         },
         "foundation_year": 1927,
         "director": "Not available",
@@ -189,7 +194,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "6": {
         "name": "AB. Durotapet",
@@ -208,7 +213,8 @@
                 "industriarb": 50
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 50
         },
         "foundation_year": 1930,
         "current_name_year": 1933,
@@ -228,7 +234,7 @@
             "Latitude": 60.67174199999999,
             "Longitude": 17.0753256
         },
-        "cluster": 8
+        "cluster": 17
     },
     "7": {
         "name": "AB. Dux",
@@ -249,7 +255,8 @@
                 "industriarb": 30
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 30
         },
         "foundation_year": 1900,
         "director": "Not available",
@@ -258,6 +265,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

@@ -17,7 +17,8 @@
                 "industriarb": 83
             },
             "annual_turnover": 1550000,
-            "annual_production_value": 1550000
+            "annual_production_value": 1550000,
+            "employees_total": 83
         },
         "foundation_year": 1903,
         "corporation_year": 1906,
@@ -39,7 +40,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Bröderna Larsson, Kristinehamn",
@@ -58,7 +59,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 350000,
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 35
         },
         "foundation_year": 1904,
         "owner": "fabr. G. Hugo Larsson",
@@ -66,7 +68,7 @@
             "Latitude": 59.3100677,
             "Longitude": 14.1089192
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Bröderna Larsson, Borås",
@@ -85,7 +87,8 @@
             "employees": {
                 "industriarb": 75
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 75
         },
         "corporation_year": 1933,
         "board": [
@@ -102,7 +105,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Bröderna Larsson, Mek. Verkstad, Arentorp",
@@ -119,7 +122,8 @@
             "employees": {
                 "industriarb": 32
             },
-            "annual_turnover": 330000
+            "annual_turnover": 330000,
+            "employees_total": 32
         },
         "foundation_year": 1914,
         "owner": "fabr. Nils A. Larsson",
@@ -127,7 +131,7 @@
             "Latitude": 58.2435416,
             "Longitude": 12.8741956
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Bröderna Larssons Fabriks AB., Örbyhus",
@@ -145,7 +149,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 40
         },
         "foundation_year": 1900,
         "corporation_year": 1945,
@@ -167,7 +172,7 @@
             "Latitude": 60.22448389999999,
             "Longitude": 17.7015559
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "AB. Bröderna Liljenberg, Stockholm",
@@ -187,7 +192,8 @@
             "employees": {
                 "arb": 25
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 25
         },
         "corporation_year": 1942,
         "manager": "Eric Liljenberg",
@@ -195,7 +201,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Bröderna Lindbergs Mek. Verkstad, Storsjö",
@@ -212,7 +218,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 20
         },
         "corporation_year": 1939,
         "owners": [
@@ -223,7 +230,7 @@
             "Latitude": 62.8021837,
             "Longitude": 13.0580181
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "AB« Bröderna Lindéns Choklad-fabrik, Vellinge",
@@ -242,7 +249,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 30
         },
         "corporation_year": 1943,
         "board": [
@@ -266,7 +274,7 @@
             "Latitude": 55.47089279999999,
             "Longitude": 13.0199899
         },
-        "cluster": 2
+        "cluster": 13
     },
     "9": {
         "name": "Bröderna Lindmarks Snickerifabrik, Jokkmokk",
@@ -283,7 +291,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_turnover": 130000
+            "annual_turnover": 130000,
+            "employees_total": 10
         },
         "foundation_year": 1938,
         "owners": [
@@ -294,6 +303,6 @@
             "Latitude": 66.60696089999999,
             "Longitude": 19.8229206
         },
-        "cluster": 7
+        "cluster": 15
     }
 }

@@ -23,7 +23,8 @@
                 "industriarb": 60
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 60
         },
         "foundation_year": 1847,
         "current_name_year": 1917,
@@ -53,7 +54,7 @@
             "Latitude": 60.889025,
             "Longitude": 15.123373
         },
-        "cluster": 6
+        "cluster": 0
     },
     "2": {
         "name": "AB. Njurunda Industrier",
@@ -83,7 +84,8 @@
             "capital": 900000,
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1915,
         "current_name_year": 1922,
@@ -113,7 +115,7 @@
             "Latitude": 58.7101119,
             "Longitude": 13.8213327
         },
-        "cluster": 5
+        "cluster": 17
     },
     "4": {
         "name": "AB. Nora Bryggeri",
@@ -123,7 +125,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 2
+        "cluster": 16
     },
     "5": {
         "name": "AB. Nora Gjuteri & Mek. Verkstad",
@@ -147,7 +149,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 20
         },
         "foundation_year": 1896,
         "current_name_year": 1920,
@@ -169,7 +172,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Nora Möbelfabrik",
@@ -193,7 +196,8 @@
                 "industriarb": 12
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 12
         },
         "foundation_year": 1917,
         "current_name_year": "N/A",
@@ -212,7 +216,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Nora Tändrörsfabrik",
@@ -236,7 +240,8 @@
                 "industriarb": 70
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 70
         },
         "foundation_year": 1899,
         "current_name_year": "N/A",
@@ -266,7 +271,7 @@
             "Latitude": 60.0785553,
             "Longitude": 15.0110618
         },
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "C. Aug. Norberg",
@@ -276,6 +281,6 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

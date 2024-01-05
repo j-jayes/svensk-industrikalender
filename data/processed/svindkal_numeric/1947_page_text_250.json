@@ -17,7 +17,8 @@
                 "industriarb.": 63
             },
             "annual_turnover": "Annual turnover of the firm.",
-            "annual_production_value": "Annual production value."
+            "annual_production_value": "Annual production value.",
+            "employees_total": 63
         },
         "foundation_year": 1926,
         "current_name_year": 1932,
@@ -26,7 +27,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Dyita Bruk",
@@ -36,7 +37,7 @@
             "Latitude": 59.3882568,
             "Longitude": 15.2585188
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Dynamoborstfabriken",
@@ -46,7 +47,7 @@
             "Latitude": 58.44760219999999,
             "Longitude": 14.8902335
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Dyñas AB.",
@@ -56,7 +57,7 @@
             "Latitude": 62.97476959999999,
             "Longitude": 17.7139052
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Dyviks Bruks AB.",
@@ -66,7 +67,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 18
     },
     "6": {
         "name": "AB. Dösebacka Cementindustri",
@@ -76,6 +77,6 @@
             "Latitude": 57.91840010000001,
             "Longitude": 12.0661766
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

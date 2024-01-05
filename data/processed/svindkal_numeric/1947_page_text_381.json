@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": "Tillv.-värde pr år: 300,000 kr"
+            "annual_turnover": "Tillv.-värde pr år: 300,000 kr",
+            "employees_total": 40
         },
         "foundation_year": 1932,
         "corporation_year": 1946,
@@ -26,7 +27,7 @@
             "Latitude": 57.1732585,
             "Longitude": 13.9218207
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Härenfars Metallverk",
@@ -38,7 +39,8 @@
             "postgiro": "Postgiro: 133952"
         },
         "financials": {
-            "annual_production_value": "Tillv.-värde pr år: 120.000 kr"
+            "annual_production_value": "Tillv.-värde pr år: 120.000 kr",
+            "employees_total": 0
         },
         "foundation_year": 1936,
         "owner": "Ägare o. chef: fabr. Verner Lindwall",
@@ -46,7 +48,7 @@
             "Latitude": 57.1732585,
             "Longitude": 13.9218207
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Härnö Bryggeri AB.",
@@ -61,7 +63,8 @@
             "employees": {
                 "industriarb": 225
             },
-            "annual_turnover": "Tillv.-värde pr år: 2,750,000 kr"
+            "annual_turnover": "Tillv.-värde pr år: 2,750,000 kr",
+            "employees_total": 225
         },
         "corporation_year": 1890,
         "board": [
@@ -82,7 +85,7 @@
             "Latitude": 62.6322698,
             "Longitude": 17.9408714
         },
-        "cluster": 1
+        "cluster": 16
     },
     "4": {
         "name": "Härryda Fabriks AB.",
@@ -98,7 +101,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": "Tillv.-värde pr år: 350,000 kr"
+            "annual_turnover": "Tillv.-värde pr år: 350,000 kr",
+            "employees_total": 40
         },
         "foundation_year": 1925,
         "manager": "Styrelse o. verkst. dir.: ing. Martin Hallin",
@@ -106,7 +110,7 @@
             "Latitude": 57.6917444,
             "Longitude": 12.2944159
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Hässle, Apotekare Paul Nordströms Fabriker",
@@ -121,7 +125,8 @@
             "capital": "Akt.-kap.: 450,000 kr",
             "employees": {
                 "industriarb": 58
-            }
+            },
+            "employees_total": 58
         },
         "foundation_year": 1942,
         "board": [
@@ -144,7 +149,7 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "AB. Hässleholms Bryggeri & Maltfabrik",
@@ -159,7 +164,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": "Tillv.-värde pr år: 1,230,000 kr"
+            "annual_turnover": "Tillv.-värde pr år: 1,230,000 kr",
+            "employees_total": 30
         },
         "foundation_year": 1928,
         "board": [
@@ -185,7 +191,7 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "AB. Hässleholms Kapsylfabrik",
@@ -200,7 +206,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": "Tillv.-värde pr år: 1,230,000 kr"
+            "annual_turnover": "Tillv.-värde pr år: 1,230,000 kr",
+            "employees_total": 30
         },
         "foundation_year": 1928,
         "board": [
@@ -226,6 +233,6 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 2
+        "cluster": 0
     }
 }

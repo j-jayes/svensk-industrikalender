@@ -15,7 +15,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1946,
         "director": "Olof Backnäs",
@@ -23,7 +24,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. Hisingstads Snickerifabrik",
@@ -38,7 +39,8 @@
             "capital": 44300,
             "employees": {
                 "industriarb": 13
-            }
+            },
+            "employees_total": 13
         },
         "foundation_year": 1905,
         "board": [
@@ -64,7 +66,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Hissmofors AB.",
@@ -80,7 +82,8 @@
             "employees": {
                 "industriarb": 235
             },
-            "annual_turnover": "24,000 ton sulfitcellulosa, 4,000 stds sågade o. hyvlade trävaror"
+            "annual_turnover": "24,000 ton sulfitcellulosa, 4,000 stds sågade o. hyvlade trävaror",
+            "employees_total": 235
         },
         "foundation_year": 1894,
         "board": [
@@ -111,7 +114,7 @@
             "Latitude": 63.3262424,
             "Longitude": 14.4486544
         },
-        "cluster": 7
+        "cluster": 2
     },
     "4": {
         "name": "Hjeltevads Nya Träförädlings AB.",
@@ -127,7 +130,8 @@
             "employees": {
                 "industriarb": 46
             },
-            "annual_production_value": "2,100 stds sågade o. 800 stds hyvlade trävaror"
+            "annual_production_value": "2,100 stds sågade o. 800 stds hyvlade trävaror",
+            "employees_total": 46
         },
         "foundation_year": 1906,
         "board": [
@@ -158,7 +162,7 @@
             "Latitude": 57.628536,
             "Longitude": 15.3409533
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Hjo Bryggeri",
@@ -171,7 +175,8 @@
             "employees": {
                 "industriarb": 18
             },
-            "annual_turnover": 425000
+            "annual_turnover": 425000,
+            "employees_total": 18
         },
         "foundation_year": 1908,
         "director": "dir. Per A. Forssell",
@@ -179,7 +184,7 @@
             "Latitude": 58.3070702,
             "Longitude": 14.2874663
         },
-        "cluster": 2
+        "cluster": 16
     },
     "6": {
         "name": "Hjo Mek. Verkstad & Elektricitetsverk, K. o. W. Smedberg",
@@ -192,7 +197,8 @@
         "financials": {
             "employees": {
                 "industriarb": 145
-            }
+            },
+            "employees_total": 145
         },
         "foundation_year": 1889,
         "director": "Åke Lindholm",
@@ -202,7 +208,7 @@
             "Latitude": 58.3070702,
             "Longitude": 14.2874663
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "Hjo Snickerifabrik AB.",
@@ -219,7 +225,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1946,
         "director": "Gustaf Törling",
@@ -227,7 +234,7 @@
             "Latitude": 58.3070702,
             "Longitude": 14.2874663
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "AB. Hjo Söm- & Broddfabrik",
@@ -237,6 +244,6 @@
             "Latitude": 58.3070702,
             "Longitude": 14.2874663
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

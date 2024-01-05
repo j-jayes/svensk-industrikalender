@@ -51,7 +51,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 4
     },
     "2": {
         "name": "AB. Örebro Kexfabrik",
@@ -78,7 +78,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. Örebro Kvarn",
@@ -113,7 +113,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Örebro Nya Möbelfabrik",
@@ -138,7 +138,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Örebro Pappersbruks AB.",
@@ -162,7 +162,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 7
+        "cluster": 17
     },
     "6": {
         "name": "AB. Örebro Radiatorfabrik",
@@ -184,7 +184,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. Örebro Skjortfabrik",
@@ -206,6 +206,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

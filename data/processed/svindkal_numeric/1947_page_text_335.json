@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 15
         },
         "foundation_year": 1919,
         "owners": [
@@ -37,7 +38,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Cefle Kartongfabrik",
@@ -53,7 +54,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 225000
+            "annual_turnover": 225000,
+            "employees_total": 15
         },
         "foundation_year": 1907,
         "owners": [
@@ -63,7 +65,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "AB. Cefle Makaronifabrik",
@@ -81,7 +83,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 18
-            }
+            },
+            "employees_total": 18
         },
         "foundation_year": 1923,
         "predecessor": "Såpfabriken Centrum",
@@ -105,7 +108,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Cefle Manufaktur AB.",
@@ -123,7 +126,8 @@
             "employees": {
                 "industriarb": 300
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 300
         },
         "foundation_year": 1849,
         "board": [
@@ -155,7 +159,7 @@
             "Latitude": 60.69951559999999,
             "Longitude": 17.1540728
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Gefle Porslinsfabriks AB.",
@@ -175,7 +179,8 @@
             "employees": {
                 "industriarb": 400
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 400
         },
         "corporation_year": 1913,
         "owners": [
@@ -209,7 +214,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 8
+        "cluster": 0
     },
     "6": {
         "name": "AB. Cefle Valsqvarn",
@@ -225,7 +230,8 @@
             "capital": 140000,
             "employees": {
                 "antal": 6
-            }
+            },
+            "employees_total": 6
         },
         "foundation_year": 1896,
         "board": [
@@ -252,7 +258,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "Gävle Varvs- och Verkstads Nya AB",
@@ -270,13 +276,14 @@
             "employees": {
                 "industriarb": 285
             },
-            "annual_turnover": 4000000
+            "annual_turnover": 4000000,
+            "employees_total": 285
         },
         "corporation_year": 1922,
         "coordinates": {
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

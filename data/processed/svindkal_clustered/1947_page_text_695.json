@@ -30,7 +30,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "AB. Arthur Svensson",
@@ -59,7 +59,7 @@
             "Latitude": 57.69932780000001,
             "Longitude": 14.475408
         },
-        "cluster": 1
+        "cluster": 17
     },
     "3": {
         "name": "AB. C. L. Svensson & Söner",
@@ -108,7 +108,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB. C. O. Svenssons Sliperi- & Spegelfabrik",
@@ -137,7 +137,7 @@
             "Latitude": 56.2,
             "Longitude": 14.833333
         },
-        "cluster": 1
+        "cluster": 0
     },
     "5": {
         "name": "C. Wilh. Svenssons Trävaru AB.",
@@ -170,7 +170,7 @@
             "Latitude": 59.7595841,
             "Longitude": 18.7013584
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Hjalmar Svenson & Co.",
@@ -234,6 +234,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

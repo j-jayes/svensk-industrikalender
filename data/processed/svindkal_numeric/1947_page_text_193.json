@@ -18,7 +18,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 100
         },
         "foundation_year": 1935,
         "director": "Oscar B. Johansson",
@@ -29,7 +30,7 @@
             "Latitude": 56.6634447,
             "Longitude": 16.356779
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Boda Bruks AB., Boda glasbruk",
@@ -50,7 +51,8 @@
                 "industriarb": 122
             },
             "annual_turnover": 800000,
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 122
         },
         "foundation_year": 1864,
         "director": "Lars Gabrielson",
@@ -61,7 +63,7 @@
             "Latitude": 56.9279048,
             "Longitude": 14.8044469
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "AB. Boda Kalk, Kärvsåsen",
@@ -83,7 +85,8 @@
             "employees": {
                 "industriarb": 29
             },
-            "annual_production_value": "12,000 ton bränd kalk"
+            "annual_production_value": "12,000 ton bränd kalk",
+            "employees_total": 29
         },
         "foundation_year": 1930,
         "director": "G. A. Svensson",
@@ -94,7 +97,7 @@
             "Latitude": 61.05375919999999,
             "Longitude": 15.1916504
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Bodafors Snickerifabrik, Fransson & Nilsson",
@@ -110,7 +113,8 @@
             "employees": {
                 "industriarb": 11
             },
-            "annual_turnover": 125000
+            "annual_turnover": 125000,
+            "employees_total": 11
         },
         "foundation_year": 1944,
         "owners": [
@@ -121,7 +125,7 @@
             "Latitude": 57.50394780000001,
             "Longitude": 14.7079586
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "A. F. Bodecker",
@@ -140,7 +144,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1882,
         "director": "kapten Ludwig Graucob",
@@ -171,7 +176,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 1300000
+            "annual_turnover": 1300000,
+            "employees_total": 25
         },
         "foundation_year": 1862,
         "director": "Sven-Axel Boden",
@@ -182,7 +188,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "AB. Bofors",
@@ -200,7 +206,8 @@
         "financials": {
             "employees": {
                 "industriarb": "N/A"
-            }
+            },
+            "employees_total": 0
         },
         "corporation_year": "N/A",
         "board": [
@@ -228,6 +235,6 @@
             "Latitude": 59.33335509999999,
             "Longitude": 14.5377751
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

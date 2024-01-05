@@ -15,7 +15,8 @@
                 "industriarb": 150
             },
             "annual_turnover": 8000000,
-            "annual_production_value": 8000000
+            "annual_production_value": 8000000,
+            "employees_total": 150
         },
         "foundation_year": 1901,
         "board": [
@@ -50,7 +51,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 425000,
-            "annual_production_value": 425000
+            "annual_production_value": 425000,
+            "employees_total": 40
         },
         "foundation_year": 1907,
         "board": [
@@ -86,7 +88,8 @@
             "capital": 1030000,
             "employees": {
                 "industriarb": 135
-            }
+            },
+            "employees_total": 135
         },
         "foundation_year": 1911,
         "board": [
@@ -122,7 +125,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": "2,500,000 st. tegelvaror"
+            "annual_production_value": "2,500,000 st. tegelvaror",
+            "employees_total": 40
         },
         "foundation_year": 1907,
         "director": "Fredrik Anderson",
@@ -145,7 +149,8 @@
             "employees": {
                 "industriarb": 6,
                 "unit": "600"
-            }
+            },
+            "employees_total": 6
         },
         "foundation_year": "1200-talet",
         "current_name_year": 1888,

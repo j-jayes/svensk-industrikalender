@@ -29,7 +29,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 4000000,
-            "annual_production_value": "Not Available"
+            "annual_production_value": "Not Available",
+            "employees_total": 100
         },
         "foundation_year": 1899,
         "current_name_year": null,
@@ -53,7 +54,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 2
     },
     "2": {
         "name": "AB. Slipmaterial - Naxos",
@@ -85,7 +86,8 @@
                 "industriarb": 430
             },
             "annual_turnover": 10000000,
-            "annual_production_value": "Not Available"
+            "annual_production_value": "Not Available",
+            "employees_total": 430
         },
         "foundation_year": 1942,
         "current_name_year": null,
@@ -117,7 +119,7 @@
             "Latitude": 57.75771559999999,
             "Longitude": 16.6369759
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Slipskivefabriken Svea AB",
@@ -140,7 +142,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 225000,
-            "annual_production_value": "Not Available"
+            "annual_production_value": "Not Available",
+            "employees_total": 10
         },
         "foundation_year": 1943,
         "current_name_year": null,
@@ -164,7 +167,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "SI i te Cement och Kalk AB",
@@ -187,7 +190,8 @@
                 "industriarb": 250
             },
             "annual_turnover": "Not Available",
-            "annual_production_value": "Not Available"
+            "annual_production_value": "Not Available",
+            "employees_total": 250
         },
         "foundation_year": 1917,
         "current_name_year": null,
@@ -227,7 +231,7 @@
             "Latitude": 57.7182365,
             "Longitude": 18.7922808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "AB. Slutarps Möbelindustri",
@@ -250,7 +254,8 @@
                 "industriarb": 33
             },
             "annual_turnover": 300000,
-            "annual_production_value": "Not Available"
+            "annual_production_value": "Not Available",
+            "employees_total": 33
         },
         "foundation_year": 1935,
         "current_name_year": null,
@@ -282,6 +287,6 @@
             "Latitude": 58.083378,
             "Longitude": 13.5162754
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

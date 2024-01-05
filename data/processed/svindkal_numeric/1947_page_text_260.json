@@ -18,7 +18,8 @@
                 "industriarb.": 160
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 160
         },
         "foundation_year": 1907,
         "current_name_year": 1932,
@@ -32,7 +33,7 @@
             "Latitude": 57.7366497,
             "Longitude": 12.1251968
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Elektriska AB. John Österman",
@@ -42,7 +43,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Elektriska AB. Sivers &amp; Häger",
@@ -61,7 +62,8 @@
             "employees": {
                 "industriarb.": 120
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 120
         },
         "foundation_year": 1924,
         "board": [
@@ -74,7 +76,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Elektriska AB. Skandia",
@@ -84,7 +86,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Elektriska Svetsnings AB. (ESAB)",
@@ -103,7 +105,8 @@
             "employees": {
                 "industriarb.": 500
             },
-            "annual_turnover": 11000000
+            "annual_turnover": 11000000,
+            "employees_total": 500
         },
         "foundation_year": 1904,
         "board": [
@@ -120,6 +123,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

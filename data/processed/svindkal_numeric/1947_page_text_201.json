@@ -25,7 +25,8 @@
                 "industriarb.": 150
             },
             "annual_turnover": 2500000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 150
         },
         "foundation_year": 1898,
         "current_name_year": "Not available",
@@ -57,7 +58,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. Borås Draperi- & Cardinfabrik",
@@ -85,7 +86,8 @@
                 "industriarb.": 31
             },
             "annual_turnover": 600000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 31
         },
         "foundation_year": 1907,
         "current_name_year": "Not available",
@@ -129,7 +131,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 9
     },
     "3": {
         "name": "AB. Borås Jacquardväfveri",
@@ -157,7 +159,8 @@
                 "industriarb.": 40
             },
             "annual_turnover": 1200000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 40
         },
         "foundation_year": 1913,
         "current_name_year": "Not available",
@@ -189,7 +192,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 9
     },
     "4": {
         "name": "Borås Kliché & Litografiska AB.",
@@ -218,7 +221,8 @@
                 "industriarb.": 70
             },
             "annual_turnover": 720000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 70
         },
         "foundation_year": 1926,
         "current_name_year": 1933,
@@ -246,7 +250,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "AB. Borås Klädningstygsfabrik",
@@ -274,7 +278,8 @@
                 "industriarb.": 125
             },
             "annual_turnover": 3600000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 125
         },
         "foundation_year": 1898,
         "current_name_year": "Not available",
@@ -338,7 +343,8 @@
                 "industriarb.": "Not available"
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 0
         },
         "foundation_year": "Not available",
         "current_name_year": "Not available",
@@ -362,7 +368,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 1
+        "cluster": 11
     },
     "7": {
         "name": "AB. Borås Mattväveri",
@@ -390,7 +396,8 @@
                 "industriarb.": 10
             },
             "annual_turnover": 400000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 10
         },
         "foundation_year": 1935,
         "current_name_year": "1946",
@@ -418,7 +425,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "AB. Borås Mekaniska Cummi-väfveri",
@@ -446,7 +453,8 @@
                 "industriarb.": 235
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 235
         },
         "foundation_year": 1895,
         "current_name_year": "Not available",
@@ -507,7 +515,8 @@
                 "industriarb.": 100
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 100
         },
         "foundation_year": 1888,
         "current_name_year": "Not available",
@@ -539,6 +548,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

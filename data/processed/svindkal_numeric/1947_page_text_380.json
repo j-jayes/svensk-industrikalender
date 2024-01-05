@@ -15,7 +15,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 275000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 40
         },
         "foundation_year": 1941,
         "owners": [
@@ -25,7 +26,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Hälsingborgs Spikfabriks AB.",
@@ -41,7 +42,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 600000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 20
         },
         "foundation_year": 1886,
         "corporation_year": 1905,
@@ -73,7 +75,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Helsingborgs Varfs AB.",
@@ -88,7 +90,8 @@
                 "industriarb": 800
             },
             "annual_turnover": 8000000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 800
         },
         "foundation_year": 1866,
         "corporation_year": 1871,
@@ -96,7 +99,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Helsingborgs Angqvarns AB.",
@@ -112,14 +115,15 @@
                 "industriarb": 40
             },
             "annual_turnover": 5275000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 40
         },
         "foundation_year": 1885,
         "coordinates": {
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "AB. Helsingborgs Angtegelbruk",
@@ -133,7 +137,8 @@
             "employees": {
                 "industriarb": 125
             },
-            "annual_production_value": "30,000 ton tegelvaror"
+            "annual_production_value": "30,000 ton tegelvaror",
+            "employees_total": 125
         },
         "foundation_year": 1873,
         "corporation_year": 1880,
@@ -141,7 +146,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Hälsinglands Linodlareförening u. p. a.",
@@ -156,14 +161,15 @@
                 "industriarb": 70
             },
             "annual_turnover": 750000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 70
         },
         "foundation_year": 1941,
         "coordinates": {
             "Latitude": 61.79616410000001,
             "Longitude": 16.1959274
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Hälsinglands Repslagerl, Verner Llndwall",
@@ -176,6 +182,6 @@
             "Latitude": 61.9737942,
             "Longitude": 17.2555079
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

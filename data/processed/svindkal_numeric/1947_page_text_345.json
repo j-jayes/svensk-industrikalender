@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "foundation_year": 1923
+            "foundation_year": 1923,
+            "employees_total": 25
         },
         "owners": [
             "Ivar Olausson"
@@ -24,7 +25,7 @@
             "Latitude": 57.9473833,
             "Longitude": 11.5435498
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "AB. F. W. Haker & Co.",
@@ -48,14 +49,15 @@
                 "industriarb": 115
             },
             "annual_turnover": 600000,
-            "corporation_year": 1944
+            "corporation_year": 1944,
+            "employees_total": 115
         },
         "director": "Sune Haker",
         "coordinates": {
             "Latitude": 55.48045,
             "Longitude": 13.502349
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Halda AB.",
@@ -82,7 +84,8 @@
             "employees": {
                 "industriarb": 550
             },
-            "corporation_year": 1927
+            "corporation_year": 1927,
+            "employees_total": 550
         },
         "board": [
             {
@@ -103,7 +106,7 @@
             "Latitude": 56.2619903,
             "Longitude": 14.76907
         },
-        "cluster": 5
+        "cluster": 18
     },
     "4": {
         "name": "Halendataxametern, Fabriks AB.",
@@ -137,7 +140,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 1300000,
-            "corporation_year": 1946
+            "corporation_year": 1946,
+            "employees_total": 70
         },
         "board": [
             {
@@ -150,7 +154,7 @@
             "Latitude": 57.5577891,
             "Longitude": 12.7855095
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Halla Textil AB.",
@@ -167,7 +171,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 225000,
-            "corporation_year": 1921
+            "corporation_year": 1921,
+            "employees_total": 30
         },
         "board": [
             {
@@ -188,7 +193,7 @@
             "Latitude": 57.349177,
             "Longitude": 12.893943
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "Hallabo Metallgjuteri",
@@ -203,7 +208,8 @@
             "employees": {
                 "antalarb": 11
             },
-            "annual_production_value": 180000
+            "annual_production_value": 180000,
+            "employees_total": 11
         },
         "owners": [
             "Algot Halidén",
@@ -213,7 +219,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "Hallands läns linodlareförening u. p. a.",
@@ -233,7 +239,8 @@
             "employees": {
                 "industriarb": 120
             },
-            "annual_turnover": 2500000
+            "annual_turnover": 2500000,
+            "employees_total": 120
         },
         "board": [
             {
@@ -246,7 +253,7 @@
             "Latitude": 56.50575569999999,
             "Longitude": 13.0456048
         },
-        "cluster": 2
+        "cluster": 18
     },
     "9": {
         "name": "Haliarums Tegelbruk",
@@ -264,6 +271,6 @@
             "Latitude": 56.2,
             "Longitude": 15.533333
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

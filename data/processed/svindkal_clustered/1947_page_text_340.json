@@ -42,7 +42,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 2
     },
     "2": {
         "name": "AB. Göteborgs Konservfabrik",
@@ -86,7 +86,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 13
     },
     "3": {
         "name": "AB. Göteborgs Kontorsbokfabrik",
@@ -119,7 +119,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "AB. Göteborgs Lerkärlsfabrik",
@@ -145,7 +145,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Göteborgs Mössfabriks AB",
@@ -170,7 +170,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "Göteborgs Nya Påsfabrik",
@@ -192,7 +192,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Göteborgs Pappersbruks AB",
@@ -213,6 +213,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

@@ -11,7 +11,7 @@
             "Latitude": 57.9473833,
             "Longitude": 11.5435498
         },
-        "cluster": 1
+        "cluster": 13
     },
     "2": {
         "name": "Bröderna Pettersson",
@@ -28,7 +28,7 @@
             "Latitude": 57.4431502,
             "Longitude": 13.5960313
         },
-        "cluster": 1
+        "cluster": 15
     },
     "3": {
         "name": "Bröderna Peterssons Snickerifabrik",
@@ -48,7 +48,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Bröderna Sandberg",
@@ -86,7 +86,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "Bröderna Sandbäck AB.",
@@ -100,7 +100,8 @@
             "capital": 25000,
             "employees": {
                 "industriarb": 16
-            }
+            },
+            "employees_total": 16
         },
         "foundation_year": 1929,
         "board": [
@@ -126,7 +127,7 @@
             "Latitude": 61.8308392,
             "Longitude": 16.0817501
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Bröderna Sandstens Tryckeri",
@@ -143,7 +144,8 @@
         "financials": {
             "employees": {
                 "arb-antal": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1917,
         "owners": [
@@ -154,7 +156,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "8": {
         "name": "Bröderna Sandströms Skidfabrik, AB.",
@@ -170,7 +172,8 @@
             "capital": 400000,
             "employees": {
                 "industriarb": 85
-            }
+            },
+            "employees_total": 85
         },
         "foundation_year": 1910,
         "board": [
@@ -204,7 +207,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "9": {
         "name": "Bröderna Skoogs Motorfabrik",
@@ -218,7 +221,8 @@
         "financials": {
             "employees": {
                 "industriarb": 75
-            }
+            },
+            "employees_total": 75
         },
         "foundation_year": 1908,
         "owners": [
@@ -230,7 +234,7 @@
             "Latitude": 60.484304,
             "Longitude": 15.433969
         },
-        "cluster": 1
+        "cluster": 3
     },
     "10": {
         "name": "Bröderna Sparring’s Kassaskåpsfabrik AB.",
@@ -248,7 +252,8 @@
             "capital": 15000,
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1929,
         "owners": [
@@ -259,6 +264,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

@@ -6,7 +6,8 @@
             "capital": 50000,
             "employees": {
                 "Arb.-antal": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1937,
         "director": "Gösta Lindström",
@@ -30,7 +31,8 @@
             "employees": {
                 "antal industriarb.": 15
             },
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 15
         },
         "foundation_year": 1932,
         "owners": [
@@ -57,7 +59,8 @@
             "employees": {
                 "Antal industriarb.": 125
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 125
         },
         "foundation_year": 1895,
         "corporation_year": 1934,
@@ -73,7 +76,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 5
+        "cluster": 18
     },
     "4": {
         "name": "AB. Säters Träförädling",
@@ -91,7 +94,8 @@
             "employees": {
                 "Antal industriarb.": 50
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 50
         },
         "foundation_year": 1924,
         "corporation_year": 1945,
@@ -100,7 +104,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Säters Väveri AB.",
@@ -117,7 +121,8 @@
             "employees": {
                 "Antal industriarb.": 90
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 90
         },
         "foundation_year": 1914,
         "board": [
@@ -148,7 +153,7 @@
             "Latitude": 60.34665,
             "Longitude": 15.7479
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Säters Yxfabrik",
@@ -168,7 +173,8 @@
             "employees": {
                 "Antal industriarb.": 40
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 40
         },
         "foundation_year": 1906,
         "board": [
@@ -199,7 +205,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Säters Ångsågs AB.",
@@ -215,7 +221,8 @@
             "employees": {
                 "Antal industriarb.": 25
             },
-            "annual_turnover": 350000
+            "annual_turnover": 350000,
+            "employees_total": 25
         },
         "foundation_year": 1916,
         "corporation_year": 1936,
@@ -224,7 +231,7 @@
             "Latitude": 60.34665,
             "Longitude": 15.7479
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "Sätherlund & Krook, Tryckeri AB.",
@@ -250,7 +257,8 @@
             "employees": {
                 "Antal industriarb.": 30
             },
-            "annual_production_value": "500 stds trävaror"
+            "annual_production_value": "500 stds trävaror",
+            "employees_total": 30
         },
         "foundation_year": 1932,
         "board": [
@@ -277,6 +285,6 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

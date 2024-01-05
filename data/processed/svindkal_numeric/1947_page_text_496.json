@@ -40,7 +40,8 @@
                 "Antal industriarb.": 50
             },
             "annual_turnover": "unknown",
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 50
         },
         "foundation_year": 1843,
         "corporation_year": 1906,
@@ -66,7 +67,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Malmskogens Träindustri",
@@ -84,7 +85,8 @@
                 "Antal industriarb.": 50
             },
             "annual_turnover": "unknown",
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 50
         },
         "foundation_year": 1933,
         "current_name_year": 1942,
@@ -107,7 +109,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "AB. Lars Malmstedt",
@@ -126,7 +128,8 @@
                 "Antal industriarb.": 9
             },
             "annual_turnover": "unknown",
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 9
         },
         "foundation_year": 1943,
         "corporation_year": 1945,
@@ -135,7 +138,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 7
     },
     "4": {
         "name": "Malmö Armaturfabrik",
@@ -151,7 +154,8 @@
             "employees": {
                 "Antal industriarb.": 55
             },
-            "corporation_year": 1907
+            "corporation_year": 1907,
+            "employees_total": 55
         },
         "board": [
             {
@@ -172,7 +176,7 @@
             "Latitude": 55.6731375,
             "Longitude": 13.0674055
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Malmö Chokolad- & Konfektfabriks. AB.",
@@ -189,7 +193,8 @@
             "employees": {
                 "Antal industriarb.": 420
             },
-            "corporation_year": 1888
+            "corporation_year": 1888,
+            "employees_total": 420
         },
         "board": [
             {
@@ -215,7 +220,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Malmö Förenade Bryggerier",
@@ -233,7 +238,8 @@
             "employees": {
                 "Antal industriarb.": 105
             },
-            "annual_turnover": 4000000
+            "annual_turnover": 4000000,
+            "employees_total": 105
         },
         "corporation_year": 1912,
         "board": [
@@ -264,7 +270,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "Malmö Grafiska Anstalt",
@@ -284,7 +290,8 @@
             "employees": {
                 "Antal industriarb.": 24
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 24
         },
         "corporation_year": 1912,
         "board": [
@@ -307,6 +314,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

@@ -26,7 +26,7 @@
             "Latitude": 55.5724415,
             "Longitude": 12.9147749
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Rosenlunds Järn- & Träförädlingsfabrik, Gustaf Andersson & Söner",
@@ -50,7 +50,7 @@
             "Latitude": 58.3070702,
             "Longitude": 14.2874663
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Ross AB.",
@@ -60,7 +60,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 10
     },
     "4": {
         "name": "Elnär Rostedt, Nya Möbelfabriken",
@@ -118,7 +118,7 @@
             "Latitude": 57.0222025,
             "Longitude": 14.8917539
         },
-        "cluster": 8
+        "cluster": 15
     },
     "9": {
         "name": "AB. Rottneros Bruk",
@@ -128,7 +128,7 @@
             "Latitude": 59.7958694,
             "Longitude": 13.1094255
         },
-        "cluster": 7
+        "cluster": 8
     },
     "10": {
         "name": "AB. Rubberfilm",
@@ -139,6 +139,6 @@
             "Latitude": 59.05111699999999,
             "Longitude": 12.6977323
         },
-        "cluster": 9
+        "cluster": 3
     }
 }

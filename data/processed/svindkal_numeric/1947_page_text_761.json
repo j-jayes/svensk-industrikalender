@@ -17,7 +17,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 300000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 50
         },
         "foundation_year": 1908,
         "owners": [
@@ -28,7 +29,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Vikingsågar AB",
@@ -41,7 +42,8 @@
                 "industriarb": 500
             },
             "annual_turnover": 10000000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 500
         },
         "foundation_year": 1922,
         "owners": null,
@@ -66,7 +68,8 @@
                 "industriarb": 500
             },
             "annual_turnover": 10000000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 500
         },
         "foundation_year": 1922,
         "owners": null,
@@ -74,7 +77,7 @@
             "Latitude": 60.29772490000001,
             "Longitude": 15.826766
         },
-        "cluster": 1
+        "cluster": 2
     },
     "4": {
         "name": "Wiksfors AB",
@@ -91,7 +94,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 400000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 40
         },
         "foundation_year": 1908,
         "owners": null,
@@ -99,7 +103,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 7
     },
     "5": {
         "name": "AB. Wikstrand & Berg",
@@ -116,7 +120,8 @@
                 "industriarb": 30
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 30
         },
         "foundation_year": 1929,
         "owners": null,
@@ -124,6 +129,6 @@
             "Latitude": 61.004878,
             "Longitude": 14.537003
         },
-        "cluster": 1
+        "cluster": 7
     }
 }

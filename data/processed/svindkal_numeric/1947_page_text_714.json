@@ -18,7 +18,8 @@
                 "industriarb": 7
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 7
         },
         "foundation_year": 1940,
         "board": [
@@ -35,7 +36,7 @@
             "Latitude": 56.5689666,
             "Longitude": 13.0289524
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Joh. Thermaenius & Son",
@@ -52,7 +53,8 @@
                 "industriarb": 235
             },
             "annual_turnover": 3000000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 235
         },
         "foundation_year": 1897,
         "owners": [
@@ -80,7 +82,7 @@
             "Latitude": 59.0665316,
             "Longitude": 15.10229
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Thermia-Verken",
@@ -98,7 +100,8 @@
                 "industriarb": 154
             },
             "annual_turnover": 2500000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 154
         },
         "foundation_year": 1923,
         "board": [
@@ -127,7 +130,7 @@
             "Latitude": 59.6548534,
             "Longitude": 12.592136
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Thomsens Fabrikers AB.",
@@ -148,7 +151,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 20
         },
         "foundation_year": 1888,
         "corporation_year": 1909,
@@ -170,7 +174,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "AB. Thors Kemiska Fabriker",
@@ -188,7 +192,8 @@
                 "industriarb": 7
             },
             "annual_turnover": 800000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 7
         },
         "foundation_year": 1921,
         "board": [
@@ -209,7 +214,7 @@
             "Latitude": 59.33688530000001,
             "Longitude": 17.9638876
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "Thors Konfektions AB.",
@@ -229,7 +234,8 @@
                 "industriarb": 80
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 80
         },
         "foundation_year": 1934,
         "corporation_year": 1937,
@@ -239,7 +245,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Thorburns Söners AB.",
@@ -257,7 +263,8 @@
                 "industriarb": 9
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 9
         },
         "foundation_year": 1825,
         "corporation_year": 1886,
@@ -265,6 +272,6 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

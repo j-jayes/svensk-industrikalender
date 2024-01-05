@@ -16,7 +16,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 20
         },
         "foundation_year": 1919,
         "director": "disp. Wilh. Malmesten",
@@ -24,7 +25,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Linköpings Tekniska Industri AB.",
@@ -49,7 +50,8 @@
                 "industriarb": 25
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1935,
         "corporation_year": 1939,
@@ -68,7 +70,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 9
     },
     "3": {
         "name": "Linköpings Trikåfabrik",
@@ -84,7 +86,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 120000
+            "annual_production_value": 120000,
+            "employees_total": 10
         },
         "foundation_year": 1930,
         "director": "ing. Rolf Darnolf",
@@ -92,7 +95,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB. Linköpings Wellpappfabrik",
@@ -109,7 +112,8 @@
             "employees": {
                 "industriarb": 8
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 8
         },
         "foundation_year": 1919,
         "corporation_year": 1945,
@@ -127,7 +131,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 7
+        "cluster": 18
     },
     "5": {
         "name": "Linnefabriken Ideal",
@@ -140,7 +144,8 @@
             "postgiro": "41558"
         },
         "financials": {
-            "annual_production_value": 175000
+            "annual_production_value": 175000,
+            "employees_total": 0
         },
         "foundation_year": 1925,
         "director": "dir. Hj. Hellsén",
@@ -148,7 +153,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 19
     },
     "6": {
         "name": "AB. Linnefabriken Merkur",
@@ -165,7 +170,8 @@
             "employees": {
                 "industriarb": 280
             },
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 280
         },
         "foundation_year": 1919,
         "board": [
@@ -186,7 +192,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "AB Linnefabriken Weco",
@@ -203,7 +209,8 @@
             "employees": {
                 "industriarb": 75
             },
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 75
         },
         "foundation_year": 1927,
         "board": [
@@ -224,7 +231,7 @@
             "Latitude": 56.245748,
             "Longitude": 12.863881
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Linoleum AB. Forshaga",
@@ -253,13 +260,14 @@
             "employees": {
                 "industriarb": 250
             },
-            "annual_production_value": 10350000
+            "annual_production_value": 10350000,
+            "employees_total": 250
         },
         "foundation_year": 1896,
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 18
     }
 }

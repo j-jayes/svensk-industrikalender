@@ -16,7 +16,8 @@
                 "industriarb": 400
             },
             "annual_turnover": 6500000,
-            "annual_production_value": 6500000
+            "annual_production_value": 6500000,
+            "employees_total": 400
         },
         "foundation_year": 1925,
         "board": [
@@ -42,7 +43,7 @@
             "Latitude": 59.2408793,
             "Longitude": 14.2511578
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. J. F. Björsell",
@@ -59,7 +60,8 @@
             "capital": 89000,
             "employees": {
                 "anställda": 21
-            }
+            },
+            "employees_total": 21
         },
         "foundation_year": 1915,
         "director": "Allan Björsell",
@@ -67,7 +69,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Bleck- & Plåtemballage AB.",
@@ -85,7 +87,8 @@
             "employees": {
                 "industriarb": 12
             },
-            "annual_production_value": 160000
+            "annual_production_value": 160000,
+            "employees_total": 12
         },
         "foundation_year": 1940,
         "director": "Gunnar Bernhard",
@@ -93,7 +96,7 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 6
+        "cluster": 17
     },
     "4": {
         "name": "AB. Bleckvarufabriken",
@@ -110,7 +113,8 @@
             "employees": {
                 "industriarb": 360
             },
-            "annual_production_value": 8000000
+            "annual_production_value": 8000000,
+            "employees_total": 360
         },
         "foundation_year": 1898,
         "director": "Axel Laurin",
@@ -120,7 +124,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 12
     },
     "5": {
         "name": "Blikstorps Silkeindustri, Rittfeldt & Co.",
@@ -137,7 +141,8 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 23
         },
         "foundation_year": 1930,
         "director": "C. F. Rittfeldt",
@@ -145,7 +150,7 @@
             "Latitude": 58.28185699999999,
             "Longitude": 14.057215
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Blockmetall",
@@ -174,7 +179,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1902,
         "director": "Gösta Blom",
@@ -182,7 +188,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "8": {
         "name": "Blombacka AB.",
@@ -200,14 +206,15 @@
             "employees": {
                 "industriarb": 130
             },
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 130
         },
         "foundation_year": 1882,
         "coordinates": {
             "Latitude": 59.6051241,
             "Longitude": 13.832237
         },
-        "cluster": 6
+        "cluster": 12
     },
     "9": {
         "name": "David Blombergs Verkstads AB.",

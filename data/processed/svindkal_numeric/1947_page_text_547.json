@@ -15,7 +15,8 @@
                 "industriarb": 80
             },
             "annual_turnover": 1300000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 80
         },
         "foundation_year": 1864,
         "owners": [
@@ -27,7 +28,7 @@
             "Latitude": 59.7595841,
             "Longitude": 18.7013584
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Norrtelje Ångbryggeri AB.",
@@ -45,7 +46,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 300000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 30
         },
         "foundation_year": 1890,
         "owners": [
@@ -55,7 +57,7 @@
             "Latitude": 59.7595841,
             "Longitude": 18.7013584
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "AB. Norshro Sågverksegare",
@@ -71,7 +73,8 @@
                 "industriarb": 75
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 3500000
+            "annual_production_value": 3500000,
+            "employees_total": 75
         },
         "foundation_year": 1873,
         "board": {
@@ -82,7 +85,7 @@
             "Latitude": 60.7303082,
             "Longitude": 14.9998922
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. P. A. Norstedt & Söner",
@@ -100,7 +103,8 @@
                 "industriarb": 390
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 390
         },
         "foundation_year": 1879,
         "board": {
@@ -111,7 +115,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "P. A. Norstedt & Söners Bokbinderi AB.",
@@ -129,14 +133,15 @@
                 "industriarb": "N/A"
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1933,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 9
     },
     "6": {
         "name": "Norsälvens Sågverks AB.",
@@ -157,14 +162,15 @@
                 "industriarb": 50
             },
             "annual_turnover": 1500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 50
         },
         "foundation_year": 1941,
         "coordinates": {
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Notnäs Ångsåg",
@@ -183,14 +189,15 @@
                 "industriarb": 60
             },
             "annual_turnover": 900000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 60
         },
         "foundation_year": 1936,
         "coordinates": {
             "Latitude": 60.14090719999999,
             "Longitude": 13.0102132
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "Nya Asfalt AB.",
@@ -206,13 +213,14 @@
             "capital": 1000000,
             "employees": "N/A",
             "annual_turnover": "N/A",
-            "annual_production_value": 15000000
+            "annual_production_value": 15000000,
+            "employees_total": 0
         },
         "foundation_year": 1875,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

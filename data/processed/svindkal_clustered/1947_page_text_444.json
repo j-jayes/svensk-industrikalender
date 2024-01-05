@@ -34,7 +34,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. Kristallin",
@@ -84,7 +84,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "Kristdala Mek. Verkstads AB.",
@@ -140,7 +140,7 @@
             "Latitude": 57.3997682,
             "Longitude": 16.1997081
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Kristenson och Grähs",
@@ -173,7 +173,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Kristianssons Mek. Verkstad",
@@ -210,7 +210,7 @@
             "Latitude": 58.99555109999999,
             "Longitude": 16.2054756
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Kristianstads Cementgjuteri",
@@ -228,7 +228,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "AB. Kristianstads Kravattfabrik",
@@ -255,6 +255,6 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

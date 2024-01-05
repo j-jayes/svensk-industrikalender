@@ -35,7 +35,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Elektro-Apparat, Göteborg",
@@ -55,7 +55,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 2
     },
     "3": {
         "name": "Elektromek. verkstad i Alingsås",
@@ -92,7 +92,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Elektrofirman A termo, Lindberg & Co., Göteborg",
@@ -119,7 +119,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Elektro-Cennel, Stockholm",
@@ -145,7 +145,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Elektrogjuteriet, Falkenberg",
@@ -186,7 +186,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 3
     },
     "8": {
         "name": "AB. Elektrolux, Stockholm",
@@ -202,6 +202,6 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

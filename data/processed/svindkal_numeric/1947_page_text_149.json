@@ -31,7 +31,8 @@
                 "industrial_workers": 850
             },
             "annual_turnover": 12000000,
-            "annual_production_value": 70000
+            "annual_production_value": 70000,
+            "employees_total": 850
         },
         "foundation_year": 1920,
         "predecessor": "Marks Linnemanufaktur AB., Kungsäter",
@@ -62,7 +63,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Almgrens Konfektions AB.",
@@ -79,7 +80,8 @@
             "capital": 60000,
             "employees": {
                 "industrial_workers": 35
-            }
+            },
+            "employees_total": 35
         },
         "foundation_year": 1945,
         "director": "Hans Bratt-berg",
@@ -87,7 +89,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Almgrens Kravattfabrik",
@@ -104,7 +106,8 @@
             "capital": 60000,
             "employees": {
                 "industrial_workers": 21
-            }
+            },
+            "employees_total": 21
         },
         "foundation_year": 1945,
         "director": "Henrik Brattberg",
@@ -112,7 +115,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "C. B. Almquists AB.",
@@ -132,7 +135,8 @@
             "employees": {
                 "industrial_workers": 8
             },
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 8
         },
         "foundation_year": 1822,
         "corporation_year": 1898,
@@ -141,7 +145,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 0
     },
     "5": {
         "name": "AB. Almquist & Cöster",
@@ -156,7 +160,8 @@
             "employees": {
                 "industrial_workers": 68
             },
-            "annual_turnover": 1270000
+            "annual_turnover": 1270000,
+            "employees_total": 68
         },
         "foundation_year": 1920,
         "corporation_year": 1927,
@@ -178,7 +183,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "AB. Almqvist & Johanson",
@@ -194,7 +199,8 @@
             "employees": {
                 "industrial_workers": 65
             },
-            "annual_turnover": 1400000
+            "annual_turnover": 1400000,
+            "employees_total": 65
         },
         "foundation_year": 1899,
         "corporation_year": 1913,
@@ -220,6 +226,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

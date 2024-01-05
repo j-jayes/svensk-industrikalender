@@ -17,7 +17,8 @@
             "employees": {
                 "industriarb": 110
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 110
         },
         "foundation_year": 1938,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Bara Tegelbruks- & Sågverks AB.",
@@ -58,7 +59,8 @@
                 "industriarb": 22,
                 "tegelbruket": 20
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 42
         },
         "foundation_year": 1932,
         "board": [
@@ -71,7 +73,7 @@
             "Latitude": 55.59782329999999,
             "Longitude": 13.2592414
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Bark & Warburgs AB.",
@@ -88,7 +90,8 @@
             "employees": {
                 "Not available": 0
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 0
         },
         "foundation_year": 1888,
         "board": [
@@ -110,7 +113,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Barkens Sågverks AB.",
@@ -127,7 +130,8 @@
             "employees": {
                 "Not available": 230
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 230
         },
         "foundation_year": 1907,
         "board": [
@@ -153,7 +157,7 @@
             "Latitude": 60.028152,
             "Longitude": 15.6546339
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. S. Barnekows Tekn. Kem. Laboratorium",
@@ -174,7 +178,8 @@
             "employees": {
                 "Not available": 5
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 5
         },
         "foundation_year": 1913,
         "board": [
@@ -205,7 +210,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "AB. Barnstrumpor",
@@ -222,7 +227,8 @@
             "employees": {
                 "Not available": 24
             },
-            "annual_turnover": 350000
+            "annual_turnover": 350000,
+            "employees_total": 24
         },
         "foundation_year": 1935,
         "manager": "Anders Barning",

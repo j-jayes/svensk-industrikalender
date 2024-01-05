@@ -14,7 +14,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1890,
         "board": [
@@ -31,7 +32,7 @@
             "Latitude": 59.36887909999999,
             "Longitude": 18.0084334
         },
-        "cluster": 1
+        "cluster": 13
     },
     "2": {
         "name": "AB. Elit-Sko",
@@ -45,7 +46,8 @@
             "capital": 30000,
             "employees": {
                 "industriarb": 38
-            }
+            },
+            "employees_total": 38
         },
         "foundation_year": 1939,
         "board": [
@@ -70,7 +72,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 1
+        "cluster": 9
     },
     "3": {
         "name": "Elko Konfektions AB.",
@@ -90,7 +92,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 50
         },
         "foundation_year": 1922,
         "current_name_year": 1931,
@@ -104,7 +107,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Otto Ellerström",
@@ -120,7 +123,8 @@
         "financials": {
             "employees": {
                 "industriarb": 60
-            }
+            },
+            "employees_total": 60
         },
         "foundation_year": 1923,
         "owner": "byggm. Otto Ellerström",
@@ -128,7 +132,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 6
     },
     "5": {
         "name": "Eliess Maskinfabrik AB.",
@@ -146,7 +150,8 @@
             "capital": 20000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1901,
         "corporation_year": 1926,
@@ -169,7 +174,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "AB. Bror Eiliot",
@@ -184,7 +189,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1921,
         "corporation_year": 1932,
@@ -210,7 +216,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Elme Glasbruk, Borgarp & Co.",
@@ -229,7 +235,8 @@
                 "glasbruket": 70,
                 "torvmossen": 120
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 190
         },
         "foundation_year": 1918,
         "owners": [
@@ -247,6 +254,6 @@
             "Latitude": 56.5524461,
             "Longitude": 14.1374047
         },
-        "cluster": 1
+        "cluster": 0
     }
 }

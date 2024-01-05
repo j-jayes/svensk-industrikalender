@@ -18,7 +18,8 @@
                 "total": 110
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 110
         },
         "foundation_year": 1895,
         "board": [
@@ -55,7 +56,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "AB Stiftet",
@@ -75,7 +76,8 @@
                 "total": 60
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 60
         },
         "foundation_year": 1943,
         "board": [
@@ -88,7 +90,7 @@
             "Latitude": 56.134262,
             "Longitude": 12.945908
         },
-        "cluster": 5
+        "cluster": 18
     },
     "3": {
         "name": "Stigens AB",
@@ -109,7 +111,8 @@
                 "total": 331
             },
             "annual_turnover": 2500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 331
         },
         "foundation_year": 1897,
         "owners": [
@@ -129,7 +132,7 @@
             "Latitude": 58.566961,
             "Longitude": 12.0641997
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB Alf Stigens Färgeri",
@@ -149,7 +152,8 @@
                 "total": 200
             },
             "annual_turnover": 4000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 200
         },
         "foundation_year": 1931,
         "board": [
@@ -166,7 +170,7 @@
             "Latitude": 57.7099364,
             "Longitude": 12.7924104
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "AB Stilkorsetter",
@@ -184,7 +188,8 @@
                 "total": 20
             },
             "annual_turnover": 350000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 20
         },
         "foundation_year": 1937,
         "board": [
@@ -197,7 +202,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB Stille-Werner",
@@ -217,7 +222,8 @@
                 "total": 200
             },
             "annual_turnover": 2000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 200
         },
         "foundation_year": 1841,
         "board": [
@@ -254,7 +260,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB Stilmöbler",
@@ -273,7 +279,8 @@
                 "total": 35
             },
             "annual_turnover": 350000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 35
         },
         "foundation_year": 1934,
         "board": [
@@ -286,7 +293,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "AB Stjernfors-Ställdalen",
@@ -306,6 +313,6 @@
             "Latitude": 59.93729020000001,
             "Longitude": 14.9403352
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

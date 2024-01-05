@@ -22,7 +22,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "AB. Örebro Skofabrik",
@@ -52,7 +52,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "AB. Örebro Snickeri & Trävaru AB.",
@@ -79,7 +79,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 0
+        "cluster": 15
     },
     "4": {
         "name": "Örebro Sportindustri",
@@ -99,7 +99,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "AB. Örebro Strå- & Filthattfabrik",
@@ -147,7 +147,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 3
+        "cluster": 9
     },
     "7": {
         "name": "Öregrunds Slip & Warfs AB.",
@@ -172,7 +172,7 @@
             "Latitude": 60.3392558,
             "Longitude": 18.4402538
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "Öresundsvarvet AB.",
@@ -195,6 +195,6 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

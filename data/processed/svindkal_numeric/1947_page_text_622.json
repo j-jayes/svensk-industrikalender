@@ -11,7 +11,8 @@
         },
         "financials": {
             "capital": 151800,
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 0
         },
         "foundation_year": 1937,
         "director": "Herman Andersson",
@@ -19,7 +20,7 @@
             "Latitude": 64.6861026,
             "Longitude": 21.2361263
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Skellefteå Spisbrödsfabrik",
@@ -34,7 +35,8 @@
             "employees": {
                 "industriarb": 141
             },
-            "annual_turnover": 4000000
+            "annual_turnover": 4000000,
+            "employees_total": 141
         },
         "foundation_year": 1919,
         "owners": [
@@ -58,7 +60,7 @@
             "Latitude": 64.750244,
             "Longitude": 20.950917
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "Skellefteå Ångbryggeri AB.",
@@ -73,7 +75,8 @@
             "employees": {
                 "industriarb": 28
             },
-            "annual_turnover": 975000
+            "annual_turnover": 975000,
+            "employees_total": 28
         },
         "foundation_year": 1893,
         "board": [
@@ -94,7 +97,7 @@
             "Latitude": 64.750244,
             "Longitude": 20.950917
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "Skeppshults Bruks AB.",
@@ -111,7 +114,8 @@
                 "Skeppshult": 40,
                 "Smålandsstenar": 4
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 44
         },
         "foundation_year": 1916,
         "board": [
@@ -131,7 +135,7 @@
             "Latitude": 57.12744,
             "Longitude": 13.37045
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Skillingaryds Gjuteri AB.",
@@ -145,7 +149,8 @@
             "capital": 40500,
             "employees": {
                 "industriarb": 22
-            }
+            },
+            "employees_total": 22
         },
         "corporation_year": 1938,
         "board": [
@@ -160,7 +165,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 1
+        "cluster": 12
     },
     "6": {
         "name": "Skillingaryds Träförädlingsverk",
@@ -171,7 +176,8 @@
             "postgiro": "269409"
         },
         "financials": {
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 0
         },
         "board": [
             {
@@ -182,7 +188,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Skinnbeklädnadsbolaget",
@@ -198,7 +204,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 30
         },
         "board": [
             {
@@ -231,7 +238,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 70
         },
         "corporation_year": 1942,
         "board": [

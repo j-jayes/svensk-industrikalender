@@ -16,7 +16,8 @@
                 "industriarb.": 1750
             },
             "annual_turnover": 35000000,
-            "annual_production_value": 35000000
+            "annual_production_value": 35000000,
+            "employees_total": 1750
         },
         "foundation_year": 1871,
         "board": [
@@ -56,7 +57,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 3
     },
     "2": {
         "name": "AB. Stockholms Tekniska Pappersfabrik",
@@ -73,7 +74,8 @@
             "employees": {
                 "Arb.-antal": 5
             },
-            "annual_turnover": 110000
+            "annual_turnover": 110000,
+            "employees_total": 5
         },
         "foundation_year": 1910,
         "current_name_year": 1929,
@@ -92,7 +94,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "Stockholms Transport- och Bogserings AB.",
@@ -107,7 +109,8 @@
             "capital": 800000,
             "employees": {
                 "Antal varvsarb.": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1870,
         "current_name_year": 1924,
@@ -130,7 +133,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Stockholms Vaddfabrik",
@@ -148,7 +151,8 @@
             "employees": {
                 "industriarb.": 65
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 65
         },
         "foundation_year": 1901,
         "board": [
@@ -188,7 +192,8 @@
             "employees": {
                 "industriarb.": 20
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1856,
         "director": "Ture öhman",
@@ -196,7 +201,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 3
     },
     "6": {
         "name": "AB. Stohne-Verken",
@@ -213,7 +218,8 @@
             "employees": {
                 "industriarb.": 68
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 68
         },
         "foundation_year": 1944,
         "current_name_year": 1946,
@@ -222,7 +228,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "P. 0. Stokkebyes Kvarn AB.",
@@ -232,6 +238,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

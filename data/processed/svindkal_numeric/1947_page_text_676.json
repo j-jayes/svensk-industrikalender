@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_turnover": 40000
+            "annual_turnover": 40000,
+            "employees_total": 10
         },
         "foundation_year": 1937,
         "board": [
@@ -49,7 +50,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "Svenska Havregryn Gylienhammar & Co. Kommanditbolag",
@@ -68,7 +69,8 @@
             "employees": {
                 "industriarb": null
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 0
         },
         "foundation_year": 1922,
         "description": "Ansvarig chef: dir. Gustaf Hammar",
@@ -76,7 +78,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. Svenska Häftstiftsfabriken",
@@ -94,7 +96,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 35
         },
         "corporation_year": 1936,
         "board": [
@@ -123,7 +126,8 @@
         },
         "financials": {
             "capital": 200000,
-            "annual_turnover": 8000000
+            "annual_turnover": 8000000,
+            "employees_total": 0
         },
         "corporation_year": 1915,
         "board": [
@@ -144,14 +148,15 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "AB. Svenska Idealhus",
         "location": "Hultsfred",
         "description": "Snickerifabrik, sågverk och hyvleri i Hultsfred (Kalmar l.). Tillverkar byggnadssnickerier och monteringsfärdiga trähus.",
         "financials": {
-            "capital": 500000
+            "capital": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1944,
         "board": [

@@ -17,14 +17,15 @@
             "employees": {
                 "industriarb.": 34
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 34
         },
         "foundation_year": 1934,
         "coordinates": {
             "Latitude": 56.1594501,
             "Longitude": 13.6032438
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Svenska Textilindustri AB. Stiab",
@@ -41,7 +42,8 @@
             "capital": 35000,
             "employees": {
                 "industriarb.": 21
-            }
+            },
+            "employees_total": 21
         },
         "foundation_year": 1936,
         "corporation_year": 1939,
@@ -49,7 +51,7 @@
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "AB. Svenska Textilverken",
@@ -69,14 +71,15 @@
             "capital": 550000,
             "employees": {
                 "industriarb.": 150
-            }
+            },
+            "employees_total": 150
         },
         "foundation_year": 1937,
         "coordinates": {
             "Latitude": 56.5689666,
             "Longitude": 13.0289524
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB, Svenska Tobaksmonopolet",
@@ -144,7 +147,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 18
     },
     "5": {
         "name": "Svenska Traktor AB.",
@@ -161,13 +164,14 @@
             "capital": 300000,
             "employees": {
                 "industriarb.": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1935,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

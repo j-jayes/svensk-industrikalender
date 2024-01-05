@@ -29,7 +29,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "Göteborgs Pulveriserings AB",
@@ -51,14 +51,15 @@
                 "industriarb.": 20
             },
             "foundation_year": 1898,
-            "corporation_year": 1900
+            "corporation_year": 1900,
+            "employees_total": 20
         },
         "director": "Olof Mellgren",
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 3
     },
     "3": {
         "name": "Göteborgs Remfabriks AB",
@@ -79,14 +80,15 @@
                 "industriarb.": 35
             },
             "annual_turnover": 1000000,
-            "foundation_year": 1891
+            "foundation_year": 1891,
+            "employees_total": 35
         },
         "director": "Torsten Holmstrand",
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB. Göteborgs Reseffektfabrik",
@@ -109,7 +111,8 @@
             },
             "annual_turnover": 1400000,
             "foundation_year": 1889,
-            "corporation_year": 1928
+            "corporation_year": 1928,
+            "employees_total": 80
         },
         "director": "Carl Kronker",
         "managing_director": "dir. Carl Kronker",
@@ -140,7 +143,8 @@
                 "industriarb.": 90
             },
             "annual_turnover": 3500000,
-            "foundation_year": 1920
+            "foundation_year": 1920,
+            "employees_total": 90
         },
         "board": [
             {
@@ -165,7 +169,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Göteborgs Siporexfabrik",
@@ -185,7 +189,8 @@
             "employees": {
                 "industriarb.": 100
             },
-            "foundation_year": 1938
+            "foundation_year": 1938,
+            "employees_total": 100
         },
         "board": [
             {
@@ -214,7 +219,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "AB. Göteborgs Skeppssnickeri",
@@ -236,7 +241,8 @@
                 "industriarb.": 80
             },
             "annual_turnover": 1000000,
-            "foundation_year": 1944
+            "foundation_year": 1944,
+            "employees_total": 80
         },
         "board": [
             {
@@ -273,6 +279,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

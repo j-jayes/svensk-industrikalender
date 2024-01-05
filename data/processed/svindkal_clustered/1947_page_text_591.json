@@ -50,7 +50,7 @@
         "sales_manager": null,
         "manager": null,
         "coordinates": null,
-        "cluster": 1
+        "cluster": 9
     },
     "2": {
         "name": "Ret-Cé Konfektions AB.",
@@ -109,7 +109,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Rexolin Fabriken AB.",
@@ -156,7 +156,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "Rexor-Industri",
@@ -211,7 +211,7 @@
             "Latitude": 57.9165989,
             "Longitude": 13.8773174
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Reymersholms Gamla industri AB.",
@@ -268,7 +268,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "AB. Reymersholms Livsmedel",
@@ -315,7 +315,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "Erling Richard AB.",
@@ -355,6 +355,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

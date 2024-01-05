@@ -15,7 +15,8 @@
             "capital": 100000,
             "employees": {
                 "Arb.-antal": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1936,
         "board": [
@@ -52,7 +53,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "Berte Qvarn AB.",
@@ -69,7 +70,8 @@
             "employees": {
                 "antal industriarb": 17
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 17
         },
         "foundation_year": 1895,
         "board": [
@@ -91,7 +93,7 @@
             "Latitude": 56.8538934,
             "Longitude": 12.6957071
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Julius Berteisen & Co., AB.",
@@ -109,7 +111,8 @@
             "capital": 100000,
             "employees": {
                 "Antal industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1889,
         "board": [
@@ -146,7 +149,8 @@
             "capital": 150000,
             "employees": {
                 "Antal industriarb": 140
-            }
+            },
+            "employees_total": 140
         },
         "foundation_year": 1912,
         "current_name_year": 1931,
@@ -169,7 +173,7 @@
             "Latitude": 58.55,
             "Longitude": 15.066667
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Beton AB. Vestra Sverige",
@@ -185,7 +189,8 @@
             "postgiro": "45204"
         },
         "financials": {
-            "capital": 150000
+            "capital": 150000,
+            "employees_total": 0
         },
         "corporation_year": 1909,
         "board": [
@@ -203,7 +208,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "Betongbolaget, Varbergs Betong-varu AB.",
@@ -221,7 +226,8 @@
                 "Antal industriarb": 80,
                 "varav 30 montörer": 30
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 110
         },
         "foundation_year": 1939,
         "director": "Lennart Hermanson",
@@ -230,7 +236,7 @@
             "Latitude": 57.107118,
             "Longitude": 12.2520907
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "AB. Betongindustri",
@@ -246,7 +252,8 @@
             "employees": {
                 "Antal industriarb": 170
             },
-            "annual_production_value": 4500000
+            "annual_production_value": 4500000,
+            "employees_total": 170
         },
         "corporation_year": 1930,
         "board": [
@@ -273,6 +280,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 18
     }
 }

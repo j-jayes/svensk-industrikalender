@@ -15,7 +15,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 100000,
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 15
         },
         "foundation_year": 1919,
         "owners": [
@@ -28,7 +29,7 @@
             "Latitude": 59.3100677,
             "Longitude": 14.1089192
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "AB. Verktygsfabriken Virserum",
@@ -46,7 +47,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 25
         },
         "foundation_year": 1943,
         "director": "Nils Welinder",
@@ -56,7 +58,7 @@
             "Latitude": 57.3199949,
             "Longitude": 15.5812344
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "Verktygsindustri, Johansson &amp; Co.",
@@ -73,7 +75,8 @@
             "employees": {
                 "industriarb": 14
             },
-            "annual_turnover": 190000
+            "annual_turnover": 190000,
+            "employees_total": 14
         },
         "foundation_year": 1941,
         "owners": [
@@ -84,7 +87,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Wernqvists Mek. Verkstads AB.",
@@ -102,7 +105,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 30
         },
         "foundation_year": 1936,
         "manager": "K. B. Wernqvist",
@@ -110,7 +114,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Versalefabriken, Melzer &amp; Österblom",
@@ -129,7 +133,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 750000
+            "annual_turnover": 750000,
+            "employees_total": 15
         },
         "foundation_year": 1922,
         "owners": [
@@ -140,7 +145,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "Wessel &amp; Co. AB.",
@@ -158,7 +163,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_turnover": 1300000
+            "annual_turnover": 1300000,
+            "employees_total": 90
         },
         "corporation_year": 1944,
         "manager": "ing. Alvar Mattsson",
@@ -166,6 +172,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

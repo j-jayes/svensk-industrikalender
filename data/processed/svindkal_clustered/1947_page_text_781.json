@@ -61,7 +61,7 @@
             "Latitude": 56.8270847,
             "Longitude": 14.9812801
         },
-        "cluster": 3
+        "cluster": 0
     },
     "2": {
         "name": "Åry Manufakturverk",
@@ -96,7 +96,7 @@
             "Latitude": 56.8270847,
             "Longitude": 14.9812801
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Åsebyfors Ullspinneri & Väveri",
@@ -119,7 +119,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Åsedahus",
@@ -144,7 +144,7 @@
             "Latitude": 57.1676879,
             "Longitude": 15.3468016
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Åsedakläder",
@@ -168,7 +168,7 @@
             "Latitude": 57.1676879,
             "Longitude": 15.3468016
         },
-        "cluster": 1
+        "cluster": 19
     },
     "6": {
         "name": "Åshammars Bultfabriks",
@@ -210,7 +210,7 @@
             "Latitude": 60.64498329999999,
             "Longitude": 16.5436086
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Åshammars Byggnadssnickeri",
@@ -228,6 +228,6 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

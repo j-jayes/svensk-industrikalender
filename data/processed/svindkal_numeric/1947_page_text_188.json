@@ -21,7 +21,8 @@
                 "Antal industriarb.": 50
             },
             "annual_turnover": 1500000,
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 50
         },
         "foundation_year": 1923,
         "corporation_year": 1935,
@@ -43,7 +44,7 @@
             "Latitude": 56.2914154,
             "Longitude": 13.7097126
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "Bjelkes",
@@ -65,7 +66,8 @@
                 "Antal industriarb.": 50
             },
             "annual_turnover": 1500000,
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 50
         },
         "foundation_year": 1923,
         "corporation_year": 1935,
@@ -87,7 +89,7 @@
             "Latitude": 59.32863399999999,
             "Longitude": 14.536414
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Bjerkås AB.",
@@ -111,7 +113,8 @@
                 "Antal industriarb.": 40
             },
             "annual_turnover": 600000,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 40
         },
         "foundation_year": 1927,
         "corporation_year": null,
@@ -124,7 +127,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Bjurhagens Fabrikers AB.",
@@ -148,7 +151,8 @@
                 "Antal industriarb.": 100
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 100
         },
         "foundation_year": 1924,
         "corporation_year": null,
@@ -161,7 +165,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "AB. Bjurstorps Marmorverk",
@@ -185,7 +189,8 @@
                 "Antal industriarb.": 35
             },
             "annual_turnover": 425000,
-            "annual_production_value": 425000
+            "annual_production_value": 425000,
+            "employees_total": 35
         },
         "foundation_year": 1944,
         "corporation_year": null,
@@ -198,7 +203,7 @@
             "Latitude": 57.75771559999999,
             "Longitude": 16.6369759
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Bjursås Kvarn- & Såg AB.",
@@ -223,7 +228,8 @@
                 "Antal industriarb.": 65
             },
             "annual_turnover": 900000,
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 65
         },
         "foundation_year": 1917,
         "corporation_year": null,
@@ -236,7 +242,7 @@
             "Latitude": 60.94526669999999,
             "Longitude": 15.23561
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Bjursås Skomakeriförening",
@@ -260,7 +266,8 @@
                 "Antal industriarb.": 33
             },
             "annual_turnover": 650000,
-            "annual_production_value": 650000
+            "annual_production_value": 650000,
+            "employees_total": 33
         },
         "foundation_year": 1921,
         "corporation_year": null,
@@ -273,7 +280,7 @@
             "Latitude": 60.73846399999999,
             "Longitude": 15.4467669
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "AB. Bjäre Industrier",
@@ -297,7 +304,8 @@
                 "Antal industriarb.": 20
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 20
         },
         "foundation_year": 1918,
         "corporation_year": 1942,
@@ -310,7 +318,7 @@
             "Latitude": 56.03559629999999,
             "Longitude": 14.089078
         },
-        "cluster": 2
+        "cluster": 13
     },
     "9": {
         "name": "AB. Bjärnums Möbelfabriker",
@@ -334,7 +342,8 @@
                 "Antal industriarb.": 70
             },
             "annual_turnover": 550000,
-            "annual_production_value": 550000
+            "annual_production_value": 550000,
+            "employees_total": 70
         },
         "foundation_year": 1919,
         "corporation_year": 1929,
@@ -347,7 +356,7 @@
             "Latitude": 56.2914154,
             "Longitude": 13.7097126
         },
-        "cluster": 8
+        "cluster": 15
     },
     "10": {
         "name": "Bjärnums Redskapsfabrik",
@@ -372,7 +381,8 @@
                 "Arb.-antal": 10
             },
             "annual_turnover": 100000,
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1880,
         "corporation_year": null,
@@ -385,6 +395,6 @@
             "Latitude": 56.2914154,
             "Longitude": 13.7097126
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

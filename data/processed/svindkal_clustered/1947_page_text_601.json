@@ -25,7 +25,7 @@
             "Latitude": 60.889025,
             "Longitude": 15.123373
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. Röbo Tegelbruk",
@@ -48,7 +48,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 1
+        "cluster": 14
     },
     "3": {
         "name": "AB. Rönnarps Makadamfabrik",
@@ -78,7 +78,7 @@
             "Latitude": 55.9256294,
             "Longitude": 12.955556
         },
-        "cluster": 5
+        "cluster": 3
     },
     "4": {
         "name": "AB. Rönninge Handskfabrik",
@@ -141,7 +141,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Rörklammerfabriken, Arvid Lindtte",
@@ -164,7 +164,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "AB. Rörstrands Porslinsfabriker",
@@ -207,6 +207,6 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 6
+        "cluster": 0
     }
 }

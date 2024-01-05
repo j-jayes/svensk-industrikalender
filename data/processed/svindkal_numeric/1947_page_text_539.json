@@ -18,7 +18,8 @@
             "employees": {
                 "industriarb": 28
             },
-            "annual_production_value": 2800000
+            "annual_production_value": 2800000,
+            "employees_total": 28
         },
         "foundation_year": 1937,
         "coordinates": {
@@ -41,14 +42,15 @@
             "employees": {
                 "industriarb": 102
             },
-            "annual_production_value": 2800000
+            "annual_production_value": 2800000,
+            "employees_total": 102
         },
         "foundation_year": 1906,
         "coordinates": {
             "Latitude": 58.4075041,
             "Longitude": 15.6441541
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. Nordstjernans Mineralvatten-fabrik",
@@ -58,7 +60,8 @@
             "office": "Norra Stationsg. 69"
         },
         "financials": {
-            "capital": 2300000
+            "capital": 2300000,
+            "employees_total": 0
         },
         "foundation_year": 1899,
         "coordinates": {
@@ -82,7 +85,8 @@
             "employees": {
                 "industriarb": 155
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 155
         },
         "foundation_year": 1876,
         "coordinates": {
@@ -106,7 +110,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 20
         },
         "foundation_year": 1919,
         "coordinates": {
@@ -129,13 +134,14 @@
             "employees": {
                 "industriarb": 200
             },
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 200
         },
         "foundation_year": 1891,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

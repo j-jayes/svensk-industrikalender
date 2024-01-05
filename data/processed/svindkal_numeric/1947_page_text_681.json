@@ -17,7 +17,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 40
         },
         "foundation_year": 1934,
         "board": [
@@ -45,7 +46,8 @@
             "capital": 30000,
             "employees": {
                 "industriarb": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1946,
         "board": [
@@ -64,7 +66,7 @@
             "Latitude": 59.04784,
             "Longitude": 17.42373
         },
-        "cluster": 8
+        "cluster": 9
     },
     "3": {
         "name": "AB. Svenska Manometerfabriken",
@@ -81,7 +83,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 10
         },
         "foundation_year": 1914,
         "corporation_year": 1927,
@@ -101,7 +104,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Svenska Marattlfabriken",
@@ -118,7 +121,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 165000,
-            "annual_production_value": 165000
+            "annual_production_value": 165000,
+            "employees_total": 15
         },
         "foundation_year": 1932,
         "corporation_year": 1933,
@@ -134,7 +138,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Svenska Maskinaffären AB.",
@@ -148,7 +152,8 @@
             "capital": 30000,
             "employees": {
                 "Arb.-antal": 12
-            }
+            },
+            "employees_total": 12
         },
         "foundation_year": 1912,
         "corporation_year": 1944,
@@ -158,7 +163,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Svenska Maskinskyltfabriken",
@@ -178,7 +183,8 @@
                 "industriarb": 90
             },
             "annual_turnover": 1200000,
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 90
         },
         "foundation_year": 1916,
         "corporation_year": 1938,
@@ -194,7 +200,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 5
+        "cluster": 10
     },
     "7": {
         "name": "AB. Svenska Maskinverken",
@@ -211,7 +217,8 @@
                 "industriarb": 400
             },
             "annual_turnover": 10000000,
-            "annual_production_value": 10000000
+            "annual_production_value": 10000000,
+            "employees_total": 400
         },
         "corporation_year": 1917,
         "predecessor": "AB. Södertälje Verkstäder",
@@ -250,6 +257,6 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

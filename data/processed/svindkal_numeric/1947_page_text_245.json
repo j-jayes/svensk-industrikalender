@@ -13,7 +13,8 @@
                 "industriarb": 2000
             },
             "annual_turnover": 28000000,
-            "annual_production_value": 28000000
+            "annual_production_value": 28000000,
+            "employees_total": 2000
         },
         "foundation_year": 1870,
         "current_name_year": 1939,
@@ -56,7 +57,7 @@
             "Latitude": 59.2391027,
             "Longitude": 14.4339179
         },
-        "cluster": 1
+        "cluster": 2
     },
     "2": {
         "name": "AB. de Lavals Angturbin",
@@ -78,7 +79,8 @@
                 "industriarb": 450
             },
             "annual_turnover": 5000000,
-            "corporation_year": 1893
+            "corporation_year": 1893,
+            "employees_total": 450
         },
         "board": [
             {
@@ -118,7 +120,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Delikon",
@@ -135,6 +137,6 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

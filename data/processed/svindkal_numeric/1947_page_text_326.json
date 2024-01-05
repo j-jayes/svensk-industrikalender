@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb.": 800
             },
-            "annual_turnover": "18,000 ton papper"
+            "annual_turnover": "18,000 ton papper",
+            "employees_total": 800
         },
         "foundation_year": 1740,
         "current_name_year": 1939,
@@ -45,7 +46,7 @@
             "Latitude": 60.6881289,
             "Longitude": 15.4843016
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "AB. Gryts Bruk",
@@ -64,7 +65,8 @@
             "employees": {
                 "industriarb.": 80
             },
-            "annual_turnover": 2500000
+            "annual_turnover": 2500000,
+            "employees_total": 80
         },
         "foundation_year": 1905,
         "board": [
@@ -87,7 +89,7 @@
             "Latitude": 58.89815,
             "Longitude": 15.43822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "AB. Grytgöls Bruks AB.",
@@ -106,7 +108,8 @@
             "employees": {
                 "industriarb.": 130
             },
-            "annual_turnover": 2300000
+            "annual_turnover": 2300000,
+            "employees_total": 130
         },
         "board": [
             {
@@ -128,7 +131,7 @@
             "Latitude": 58.80286950000001,
             "Longitude": 15.5558198
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Crythytte Skifferverk",
@@ -148,7 +151,8 @@
             "employees": {
                 "industriarb.": 80
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 80
         },
         "board": [
             {
@@ -171,7 +175,7 @@
             "Latitude": 59.7054717,
             "Longitude": 14.5355955
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Grängesbergs Bryggeri",
@@ -188,7 +192,8 @@
             "employees": {
                 "Arb.-antal": 12
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 12
         },
         "foundation_year": 1898,
         "owners": [
@@ -200,7 +205,7 @@
             "Latitude": 60.0785553,
             "Longitude": 15.0110618
         },
-        "cluster": 2
+        "cluster": 16
     },
     "6": {
         "name": "Gränsfors Bruks A B.",
@@ -214,7 +219,8 @@
         },
         "financials": {
             "employees": {},
-            "annual_turnover": ""
+            "annual_turnover": "",
+            "employees_total": 0
         },
         "board": [],
         "director": "",
@@ -223,6 +229,6 @@
             "Latitude": 61.9830068,
             "Longitude": 17.0591837
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

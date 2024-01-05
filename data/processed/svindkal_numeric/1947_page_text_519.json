@@ -15,7 +15,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 1750000,
-            "annual_production_value": 1750000
+            "annual_production_value": 1750000,
+            "employees_total": 50
         },
         "foundation_year": 1939,
         "owners": [
@@ -40,7 +41,7 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 8
+        "cluster": 9
     },
     "2": {
         "name": "Motala Vaddfabrik",
@@ -59,7 +60,7 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 8
+        "cluster": 18
     },
     "3": {
         "name": "AB. Motala Verkstad",
@@ -75,7 +76,8 @@
             "employees": {
                 "industriarb": 1,
                 "Tillv.-värde pr år": 30000000
-            }
+            },
+            "employees_total": 30000001
         },
         "foundation_year": 1822,
         "board": [
@@ -98,7 +100,7 @@
             "Latitude": 58.55,
             "Longitude": 15.066667
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Motor AB. Pythagoras",
@@ -114,7 +116,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "foundation_year": 1933
+            "foundation_year": 1933,
+            "employees_total": 15
         },
         "board": [
             {
@@ -127,7 +130,7 @@
             "Latitude": 59.7595841,
             "Longitude": 18.7013584
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Motorfabriken, Stig Bramell",
@@ -144,7 +147,7 @@
             "Latitude": 55.9348588,
             "Longitude": 13.5395904
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Motorslip",
@@ -161,7 +164,8 @@
             "employees": {
                 "industriarb": 110
             },
-            "annual_turnover": 1300000
+            "annual_turnover": 1300000,
+            "employees_total": 110
         },
         "board": [
             {
@@ -182,7 +186,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. Mox",
@@ -197,7 +201,8 @@
         "financials": {
             "capital": 40000,
             "employees": 7,
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 0
         },
         "board": [
             {
@@ -209,7 +214,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "AB. Moälvens Träsliperi",

@@ -18,7 +18,8 @@
             "employees": {
                 "Industriarb": 80
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 80
         },
         "foundation_year": 1916,
         "corporation_year": 1917,
@@ -46,7 +47,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. Rantens Saft- & Vattenfabrik",
@@ -64,7 +65,8 @@
             "employees": {
                 "Arb.-antal": 8
             },
-            "annual_turnover": 45000
+            "annual_turnover": 45000,
+            "employees_total": 8
         },
         "foundation_year": 1904,
         "corporation_year": 1937,
@@ -73,7 +75,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "AB. Rantens Snickerifabrik",
@@ -91,7 +93,8 @@
             "employees": {
                 "Arb.-antal": 15
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 15
         },
         "foundation_year": 1885,
         "corporation_year": 1911,
@@ -100,7 +103,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Rantens Trikåindustri",
@@ -114,7 +117,8 @@
             "employees": {
                 "Antal industriarb.": 10
             },
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 10
         },
         "foundation_year": 1935,
         "manager": "fabr. Fredrik Allers-meier",
@@ -122,7 +126,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Rantzows Gymnastikredskap",
@@ -138,7 +142,8 @@
             "employees": {
                 "Antal industriarb.": 20
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1925,
         "manager": "fabr. Fritiof Rantzow",
@@ -146,7 +151,7 @@
             "Latitude": 56.3231508,
             "Longitude": 12.908397
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "Ranå Tegelbruk",
@@ -160,7 +165,8 @@
             "employees": {
                 "Antal industriarb.": 13
             },
-            "annual_production_value": "1,600,000 st. murtegel"
+            "annual_production_value": "1,600,000 st. murtegel",
+            "employees_total": 13
         },
         "foundation_year": 1906,
         "current_name_year": 1937,
@@ -170,7 +176,7 @@
             "Latitude": 59.76996389999999,
             "Longitude": 13.462544
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "Albin Rapp, Konfektionsfabrik",
@@ -184,13 +190,14 @@
                 "Antal industriarb.": 550
             },
             "foundation_year": 1921,
-            "manager": "fabr. Albin Rapp"
+            "manager": "fabr. Albin Rapp",
+            "employees_total": 550
         },
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "AB. Rasco",
@@ -214,7 +221,8 @@
             "capital": 100000,
             "employees": {
                 "Antal industriarb.": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1927,
         "current_name_year": 1938,
@@ -223,7 +231,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 17
     },
     "9": {
         "name": "Raus Stenkärlsfabrik",
@@ -236,7 +244,8 @@
             "employees": {
                 "Antal industriarb.": 7
             },
-            "annual_turnover": 46000
+            "annual_turnover": 46000,
+            "employees_total": 7
         },
         "foundation_year": 1911,
         "owner": "L. A. Johnssons sterbhus",
@@ -244,6 +253,6 @@
             "Latitude": 60.90000000000001,
             "Longitude": 17.066667
         },
-        "cluster": 1
+        "cluster": 0
     }
 }

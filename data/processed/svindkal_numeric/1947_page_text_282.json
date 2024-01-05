@@ -16,7 +16,8 @@
             "employees": {
                 "industri-arb": 26
             },
-            "annual_turnover": 475000
+            "annual_turnover": 475000,
+            "employees_total": 26
         },
         "foundation_year": 1927,
         "corporation_year": 1938,
@@ -31,7 +32,7 @@
             "Latitude": 57.5781694,
             "Longitude": 14.4641901
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Fabriks AB. Kronsilver",
@@ -50,7 +51,8 @@
             "capital": 850000,
             "employees": {
                 "industri-arb": 45
-            }
+            },
+            "employees_total": 45
         },
         "corporation_year": 1927,
         "board": [
@@ -68,7 +70,7 @@
             "Latitude": 59.36295999999999,
             "Longitude": 18.1468
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Fabriks AB. P. O. Lundgren",
@@ -86,7 +88,8 @@
             "employees": {
                 "industriarb": 38
             },
-            "annual_turnover": 1200000
+            "annual_turnover": 1200000,
+            "employees_total": 38
         },
         "corporation_year": 1942,
         "board": [
@@ -104,7 +107,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Fabriks AB. Osmund",
@@ -122,7 +125,8 @@
             "capital": 257500,
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "corporation_year": 1912,
         "board": [
@@ -144,7 +148,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Fabriks AB. Rudberg & Co.",
@@ -161,7 +165,8 @@
             "capital": 25000,
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "corporation_year": 1939,
         "director": "Nils Rudberg",
@@ -169,7 +174,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 3
+        "cluster": 19
     },
     "6": {
         "name": "Fabriks AB. Säpo",
@@ -185,7 +190,8 @@
             "capital": 25000,
             "employees": {
                 "arb-antal": 7
-            }
+            },
+            "employees_total": 7
         },
         "foundation_year": 1909,
         "director": "fru O. Christell",
@@ -193,7 +199,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "7": {
         "name": "Fabriks AB. Skandinavien",
@@ -212,7 +218,8 @@
             "capital": 700000,
             "employees": {
                 "industriarb": 170
-            }
+            },
+            "employees_total": 170
         },
         "corporation_year": 1894,
         "board": [
@@ -234,7 +241,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "Fabriks AB. Swebe",
@@ -252,7 +259,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 30
         },
         "corporation_year": 1935,
         "board": [
@@ -270,6 +278,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

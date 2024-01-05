@@ -12,7 +12,8 @@
                 "Antal industriarb.": 35
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 35
         },
         "foundation_year": 1883,
         "coordinates": {
@@ -36,7 +37,8 @@
                 "Antal industriarb.": 35
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 35
         },
         "foundation_year": 1883,
         "corporation_year": 1946,
@@ -44,7 +46,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 8
+        "cluster": 7
     },
     "3": {
         "name": "Bålsta Snickeri & Möbelfabrik",
@@ -66,14 +68,15 @@
             "employees": {
                 "Antal industriarb.": 11
             },
-            "annual_turnover": 125000
+            "annual_turnover": 125000,
+            "employees_total": 11
         },
         "foundation_year": 1944,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 18
     },
     "4": {
         "name": "Båstad s Kalkindustri AB.",
@@ -87,14 +90,15 @@
             "employees": {
                 "Antal industriarb.": 60
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 60
         },
         "foundation_year": 1907,
         "coordinates": {
             "Latitude": 56.7957699,
             "Longitude": 12.893493
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Båtbyggeribolaget Andersson & Sundberg",
@@ -107,14 +111,15 @@
             "capital": "N/A",
             "employees": {
                 "Antal industriarb.": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1929,
         "coordinates": {
             "Latitude": 58.4759013,
             "Longitude": 16.3234307
         },
-        "cluster": 1
+        "cluster": 7
     },
     "6": {
         "name": "Bäckebo Industri AB.",
@@ -128,14 +133,15 @@
             "capital": 1150000,
             "employees": {
                 "Antal industriarb.": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1916,
         "coordinates": {
             "Latitude": 57.74999999999999,
             "Longitude": 11.983333
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Bäckerefjordens Konservfabrik, Bernh. Andreasson & Söner",
@@ -153,14 +159,15 @@
             "employees": {
                 "Antal industriarb.": 10
             },
-            "annual_turnover": 90000
+            "annual_turnover": 90000,
+            "employees_total": 10
         },
         "foundation_year": 1900,
         "coordinates": {
             "Latitude": 57.9473833,
             "Longitude": 11.5435498
         },
-        "cluster": 2
+        "cluster": 13
     },
     "8": {
         "name": "Bäckhammars Bruk, AB.",
@@ -175,12 +182,13 @@
             "capital": "N/A",
             "employees": {
                 "Antal industriarb.": 60
-            }
+            },
+            "employees_total": 60
         },
         "coordinates": {
             "Latitude": 59.2408793,
             "Longitude": 14.2511578
         },
-        "cluster": 1
+        "cluster": 17
     }
 }

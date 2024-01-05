@@ -17,7 +17,8 @@
                 "industriarb": 117
             },
             "annual_turnover": "Unknown",
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 117
         },
         "foundation_year": 1889,
         "board": [
@@ -47,7 +48,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. J. A. Wettergren & Co.",
@@ -68,7 +69,8 @@
                 "industriarb": 660
             },
             "annual_turnover": 12000000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 660
         },
         "foundation_year": 1836,
         "board": [
@@ -100,7 +102,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "S. A. Wetterlings Manufaktur AB.",
@@ -119,7 +121,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 450000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 30
         },
         "foundation_year": 1880,
         "board": [
@@ -142,7 +145,7 @@
             "Latitude": 60.58422459999999,
             "Longitude": 16.5293196
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Wexiö Bayerska Bryggeri",
@@ -161,7 +164,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 1500000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 40
         },
         "foundation_year": 1864,
         "board": [
@@ -187,7 +191,7 @@
             "Latitude": 56.8790044,
             "Longitude": 14.8058522
         },
-        "cluster": 2
+        "cluster": 16
     },
     "5": {
         "name": "Wäxjö Elektromek. Verkstad",
@@ -205,7 +209,8 @@
                 "arb-antal": 6
             },
             "annual_turnover": 40000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 6
         },
         "foundation_year": 1919,
         "owner": "Kurt A. Sjölin",
@@ -213,7 +218,7 @@
             "Latitude": 56.8790044,
             "Longitude": 14.8058522
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Växjö Konfektionsfabrik",
@@ -236,7 +241,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 500000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 40
         },
         "owner": "Inge Distner",
         "director": "Sune Nyman",
@@ -244,7 +250,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "AB. Wexiö Mek. Verkstad",
@@ -264,7 +270,8 @@
                 "industriarb": 120
             },
             "annual_turnover": 1900000,
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 120
         },
         "foundation_year": 1911,
         "board": [
@@ -286,7 +293,7 @@
             "Latitude": 56.8790044,
             "Longitude": 14.8058522
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "Weydes Tekn. Fabriks AB.",
@@ -310,6 +317,6 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

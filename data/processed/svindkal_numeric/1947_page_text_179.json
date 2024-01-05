@@ -18,7 +18,8 @@
             "employees": {
                 "industrial workers": 60
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 60
         },
         "foundation_year": 1865,
         "current_name_year": 1940,
@@ -49,7 +50,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "Berglöfs Verkstäder",
@@ -70,7 +71,8 @@
             "employees": {
                 "industrial workers": 55
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 55
         },
         "foundation_year": "Not provided",
         "corporation_year": 1936,
@@ -93,7 +95,7 @@
             "Latitude": 59.87548999999999,
             "Longitude": 15.00051
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Bergmans Chuckfabrik",
@@ -115,7 +117,8 @@
             "employees": {
                 "industrial workers": 75
             },
-            "annual_turnover": 850000
+            "annual_turnover": 850000,
+            "employees_total": 75
         },
         "foundation_year": "Not provided",
         "corporation_year": "Not provided",
@@ -137,7 +140,7 @@
             "Latitude": 56.1594501,
             "Longitude": 13.6032438
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "A. U. Bergmans Enka",
@@ -158,7 +161,8 @@
             "employees": {
                 "industrial workers": 160
             },
-            "annual_turnover": 3500000
+            "annual_turnover": 3500000,
+            "employees_total": 160
         },
         "foundation_year": 1850,
         "corporation_year": 1941,
@@ -169,7 +173,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 13
     },
     "5": {
         "name": "C. J. Bergmans Eftr. Möbel verkstäder AB.",
@@ -190,7 +194,8 @@
             "capital": 54000,
             "employees": {
                 "industrial workers": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1848,
         "corporation_year": 1944,
@@ -209,7 +214,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Hj. Bergman, Skobandfabrik",
@@ -226,7 +231,8 @@
         "financials": {
             "employees": {
                 "industrial workers": 6
-            }
+            },
+            "employees_total": 6
         },
         "foundation_year": 1935,
         "owner": "fabr. Hjalmar Bergman",
@@ -235,7 +241,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "W. Dan Bergman, Södertälje",
@@ -256,7 +262,8 @@
             "employees": {
                 "industrial workers": 350
             },
-            "annual_turnover": 6000000
+            "annual_turnover": 6000000,
+            "employees_total": 350
         },
         "foundation_year": 1919,
         "corporation_year": 1939,
@@ -296,6 +303,6 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

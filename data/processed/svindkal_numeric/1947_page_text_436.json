@@ -15,7 +15,8 @@
                 "industriarb": 85
             },
             "annual_turnover": 900000,
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 85
         },
         "foundation_year": 1932,
         "board": [
@@ -56,7 +57,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 25
         },
         "foundation_year": 1938,
         "director": "Malcus Forsberg",
@@ -64,7 +66,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Konfektions AB. Funk",
@@ -83,7 +85,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 100
         },
         "foundation_year": 1936,
         "director": "Nils Nizén",
@@ -109,7 +112,8 @@
                 "industriarb": 65
             },
             "annual_turnover": 630000,
-            "annual_production_value": 630000
+            "annual_production_value": 630000,
+            "employees_total": 65
         },
         "foundation_year": 1932,
         "director": "Ture Pettersson",
@@ -117,7 +121,7 @@
             "Latitude": 57.1676879,
             "Longitude": 15.3468016
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Konfektions AB. Gripen",
@@ -134,7 +138,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1919,
         "board": [
@@ -156,7 +161,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Konfektions AB. Holmex",
@@ -175,7 +180,8 @@
                 "industriarb": 120
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 120
         },
         "foundation_year": 1934,
         "director": "Ernst Johansson (Göteborg)",
@@ -183,7 +189,7 @@
             "Latitude": 58.1817692,
             "Longitude": 13.9594737
         },
-        "cluster": 1
+        "cluster": 19
     },
     "7": {
         "name": "Konfektions AB. Karlson & Starck",
@@ -210,7 +216,8 @@
                 "industriarb": 170
             },
             "annual_turnover": 3000000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 170
         },
         "foundation_year": 1906,
         "board": [
@@ -246,7 +253,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 75
-            }
+            },
+            "employees_total": 75
         },
         "foundation_year": 1943,
         "board": [
@@ -267,7 +275,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "9": {
         "name": "Konfektions AB. Lesslie",
@@ -287,7 +295,8 @@
                 "industriarb": 420
             },
             "annual_turnover": 6400000,
-            "annual_production_value": 6400000
+            "annual_production_value": 6400000,
+            "employees_total": 420
         },
         "foundation_year": 1910,
         "board": [
@@ -300,7 +309,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "10": {
         "name": "Konfektions AB. Lindström",
@@ -319,12 +328,13 @@
                 "industriarb": 45
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 45
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

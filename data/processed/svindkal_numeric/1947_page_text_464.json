@@ -21,7 +21,8 @@
                 "hemarbetare": 350
             },
             "annual_turnover": 8000000,
-            "annual_production_value": 8000000
+            "annual_production_value": 8000000,
+            "employees_total": 800
         },
         "foundation_year": 1932,
         "current_name_year": 1943,
@@ -51,7 +52,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. Lidans Motor verkstad",
@@ -71,14 +72,15 @@
                 "industriarb": 35
             },
             "annual_turnover": 415000,
-            "annual_production_value": 415000
+            "annual_production_value": 415000,
+            "employees_total": 35
         },
         "corporation_year": 1918,
         "coordinates": {
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Lidboholms AB.",
@@ -96,7 +98,8 @@
             "employees": {
                 "industriarb": 38
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 38
         },
         "foundation_year": 1930,
         "board": [
@@ -109,7 +112,7 @@
             "Latitude": 57.0599208,
             "Longitude": 15.0537039
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Lidingö Nya Warv & Werkstäder",
@@ -125,7 +128,8 @@
             "telegraph": "Åbergvarv, Stockholm"
         },
         "financials": {
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 0
         },
         "predecessor": "Firman etabl. 1939",
         "owners": [
@@ -136,7 +140,7 @@
             "Latitude": 59.36295999999999,
             "Longitude": 18.1468
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Lidköpings Bryggeri AB.",
@@ -154,7 +158,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 25
         },
         "foundation_year": 1866,
         "board": [
@@ -178,7 +183,7 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 2
+        "cluster": 16
     },
     "6": {
         "name": "AB. Lidköpings Konfektyr Industri",
@@ -195,7 +200,8 @@
             "postgiro": null
         },
         "financials": {
-            "capital": 400000
+            "capital": 400000,
+            "employees_total": 0
         },
         "board": [
             {
@@ -225,7 +231,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "Lidköpings Mekaniska Verkstads AB.",
@@ -244,7 +250,8 @@
             "capital": 1500000,
             "employees": {
                 "industriarb": 700
-            }
+            },
+            "employees_total": 700
         },
         "board": [
             {
@@ -270,6 +277,6 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

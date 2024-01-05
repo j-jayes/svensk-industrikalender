@@ -16,7 +16,8 @@
                 "Arb.-antal": 12
             },
             "annual_turnover": 115000,
-            "annual_production_value": 115000
+            "annual_production_value": 115000,
+            "employees_total": 12
         },
         "foundation_year": 1920,
         "corporation_year": 1945,
@@ -25,7 +26,7 @@
             "Latitude": 58.083378,
             "Longitude": 13.5162754
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Slöinge Träförädlings AB.",
@@ -41,7 +42,8 @@
             "employees": {
                 "Arb.-antal": 15
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 15
         },
         "foundation_year": 1901,
         "board": [
@@ -71,7 +73,7 @@
             "Latitude": 56.8538934,
             "Longitude": 12.6957071
         },
-        "cluster": 8
+        "cluster": 18
     },
     "3": {
         "name": "Smedby Mek. Verkstad",
@@ -84,7 +86,8 @@
         "financials": {
             "employees": {
                 "Arb.-antal": 8
-            }
+            },
+            "employees_total": 8
         },
         "foundation_year": 1933,
         "owners": [
@@ -95,7 +98,7 @@
             "Latitude": 59.132406,
             "Longitude": 16.729194
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Smedjebackens Valsverks AB.",
@@ -111,7 +114,8 @@
             "employees": {
                 "Antal industriarb.": 670
             },
-            "annual_turnover": 16000000
+            "annual_turnover": 16000000,
+            "employees_total": 670
         },
         "foundation_year": 1854,
         "board": [
@@ -141,7 +145,7 @@
             "Latitude": 60.1431933,
             "Longitude": 15.4159915
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "Smides AB. Bröderna Lundberg & Co.",
@@ -159,7 +163,8 @@
             "employees": {
                 "Antal industriarb.": 28
             },
-            "annual_turnover": 510000
+            "annual_turnover": 510000,
+            "employees_total": 28
         },
         "foundation_year": 1877,
         "corporation_year": 1909,
@@ -168,7 +173,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Smidesfabriken Standard, Carl E. Bladh",
@@ -182,7 +187,8 @@
             "employees": {
                 "Arb.-antal": 15
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 15
         },
         "foundation_year": 1921,
         "manager": "Carl E. Bladh",
@@ -190,7 +196,7 @@
             "Latitude": 58.3070702,
             "Longitude": 14.2874663
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Smidesfirman O. A. Möller",
@@ -214,7 +220,8 @@
             "employees": {
                 "Antal industriarb.": 192
             },
-            "annual_turnover": 1640000
+            "annual_turnover": 1640000,
+            "employees_total": 192
         },
         "foundation_year": 1911,
         "owners": [
@@ -239,7 +246,7 @@
             "Latitude": 60.22448389999999,
             "Longitude": 17.7015559
         },
-        "cluster": 8
+        "cluster": 18
     },
     "9": {
         "name": "Sigurd Smiths AB.",

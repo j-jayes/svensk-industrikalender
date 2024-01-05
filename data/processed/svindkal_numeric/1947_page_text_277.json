@@ -14,7 +14,8 @@
         "financials": {
             "capital": "Not available",
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 0
         },
         "foundation_year": 1933,
         "board": [
@@ -50,7 +51,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Essge-Konfektion",
@@ -66,14 +67,15 @@
         "financials": {
             "capital": 250000,
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 0
         },
         "foundation_year": 1936,
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Essinge Bruks- och Fabriks AB",
@@ -89,13 +91,14 @@
         "financials": {
             "capital": 150000,
             "annual_turnover": "Not available",
-            "annual_production_value": "800 ton papp o. papper"
+            "annual_production_value": "800 ton papp o. papper",
+            "employees_total": 0
         },
         "foundation_year": 1937,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

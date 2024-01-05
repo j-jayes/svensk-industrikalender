@@ -6,7 +6,8 @@
             "employees": {
                 "industriarb": 180
             },
-            "annual_turnover": "20,000 ton torr sulfitcellulosa, pappersmassa o. konstsilkes-massa"
+            "annual_turnover": "20,000 ton torr sulfitcellulosa, pappersmassa o. konstsilkes-massa",
+            "employees_total": 180
         },
         "foundation_year": 1903,
         "board": [
@@ -40,7 +41,8 @@
         "products": "Tillverkar ljumlim och kall-lim",
         "financials": {
             "capital": 35000,
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 0
         },
         "foundation_year": 1936,
         "owner": "O. Fritz Eelde",
@@ -53,7 +55,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 3
     },
     "3": {
         "name": "Ege Färg- & Fernissindustri",
@@ -69,14 +71,15 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 15
         },
         "owner": "Sven A. Höglund",
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "Egelin & Nilsson",
@@ -92,14 +95,15 @@
             "employees": {
                 "industriarb": 28
             },
-            "annual_production_value": 360000
+            "annual_production_value": 360000,
+            "employees_total": 28
         },
         "owner": "Einar Egelin",
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Egna Hem Vetlandahus",
@@ -113,7 +117,8 @@
             "employees": {
                 "industriarb": 125
             },
-            "annual_production_value": 7000000
+            "annual_production_value": 7000000,
+            "employees_total": 125
         },
         "foundation_year": 1930,
         "current_name_year": 1935,
@@ -136,7 +141,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Egnell & Co., Väveri AB",
@@ -146,7 +151,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Egnetls Bryggeri, Eksjö",
@@ -172,7 +177,8 @@
             "employees": {
                 "arb.-antal": 10
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 10
         },
         "foundation_year": 1919,
         "corporation_year": 1920,
@@ -195,7 +201,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "9": {
         "name": "AB. Alfr. Ehrlin",
@@ -210,7 +216,8 @@
             "employees": {
                 "industriarb": 14
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 14
         },
         "foundation_year": 1923,
         "corporation_year": 1944,
@@ -233,7 +240,7 @@
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 8
+        "cluster": 15
     },
     "10": {
         "name": "AB. Ehrnberg & Sons Läderfabrik",

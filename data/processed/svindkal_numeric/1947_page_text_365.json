@@ -47,7 +47,8 @@
                 "industriarb": 542
             },
             "annual_turnover": 7500000,
-            "annual_production_value": 7500000
+            "annual_production_value": 7500000,
+            "employees_total": 542
         },
         "foundation_year": 1889,
         "corporation_year": 1907,
@@ -72,7 +73,7 @@
             "Latitude": 61.7204047,
             "Longitude": 16.9762016
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. Aug. Holmberg",
@@ -90,14 +91,15 @@
             "capital": 40000,
             "employees": {
                 "industriarb": 75
-            }
+            },
+            "employees_total": 75
         },
         "foundation_year": 1866,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Frits Holmberg AB.",
@@ -116,14 +118,15 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 50
         },
         "foundation_year": 1881,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 17
     },
     "4": {
         "name": "Gottfrid Holmberg & Co. AB.",
@@ -149,7 +152,8 @@
         },
         "financials": {
             "capital": 20000,
-            "annual_turnover": 345000
+            "annual_turnover": 345000,
+            "employees_total": 0
         },
         "foundation_year": 1916,
         "corporation_year": 1932,
@@ -157,7 +161,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 2
     },
     "5": {
         "name": "Karl Holmberg",
@@ -169,14 +173,15 @@
             "postgiro": "142364"
         },
         "financials": {
-            "annual_turnover": 750000
+            "annual_turnover": 750000,
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "coordinates": {
             "Latitude": 58.528002,
             "Longitude": 13.491428
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Knut Holmberg",
@@ -190,14 +195,15 @@
             "postgiro": "189105"
         },
         "financials": {
-            "annual_turnover": 175000
+            "annual_turnover": 175000,
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "coordinates": {
             "Latitude": 57.6348,
             "Longitude": 18.29484
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Pontus Holmberg",
@@ -214,7 +220,8 @@
             "capital": 75000,
             "employees": {
                 "industriarb": 18
-            }
+            },
+            "employees_total": 18
         },
         "foundation_year": 1876,
         "corporation_year": 1911,
@@ -222,6 +229,6 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 7
+        "cluster": 18
     }
 }

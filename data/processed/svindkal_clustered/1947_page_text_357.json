@@ -75,7 +75,7 @@
             "Latitude": 59.783688,
             "Longitude": 14.5225692
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Sikfors Bruk o. gruvavd.",
@@ -89,7 +89,7 @@
             "Latitude": 65.5295328,
             "Longitude": 21.1946713
         },
-        "cluster": 6
+        "cluster": 2
     },
     "3": {
         "name": "Bängbroverken",
@@ -103,7 +103,7 @@
             "Latitude": 59.8613369,
             "Longitude": 15.0421587
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Stållinefabriken",
@@ -117,7 +117,7 @@
             "Latitude": 59.3100677,
             "Longitude": 14.1089192
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Fredriksbergsverken",
@@ -131,7 +131,7 @@
             "Latitude": 60.1409773,
             "Longitude": 14.3732764
         },
-        "cluster": 7
+        "cluster": 17
     },
     "6": {
         "name": "Hellman & Co. AB.",
@@ -167,6 +167,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

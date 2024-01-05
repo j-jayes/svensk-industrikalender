@@ -12,7 +12,8 @@
         },
         "financials": {
             "capital": 100000,
-            "foundation_year": 1937
+            "foundation_year": 1937,
+            "employees_total": 0
         },
         "board": [
             {
@@ -58,7 +59,8 @@
                 "industrial_workers": 1400
             },
             "annual_turnover": 22000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 1400
         },
         "foundation_year": 1873,
         "current_name_year": 1923,
@@ -108,7 +110,8 @@
                 "industrial_workers": 75
             },
             "annual_turnover": 1220000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 75
         },
         "foundation_year": "N/A",
         "current_name_year": "N/A",
@@ -158,7 +161,8 @@
                 "industrial_workers": 300
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 300
         },
         "foundation_year": "N/A",
         "current_name_year": "N/A",
@@ -213,7 +217,8 @@
                 "industrial_workers": 28
             },
             "annual_turnover": 900000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 28
         },
         "foundation_year": 1944,
         "current_name_year": "N/A",

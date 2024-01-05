@@ -29,7 +29,7 @@
             "Latitude": 59.34248889999999,
             "Longitude": 18.0450243
         },
-        "cluster": 1
+        "cluster": 15
     },
     "2": {
         "name": "AB. Ekparkett, Falkenberg",
@@ -62,7 +62,7 @@
             "Latitude": 56.90273329999999,
             "Longitude": 12.4888013
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Eksjö Fabriks Bolag, Skillingaryd",
@@ -88,7 +88,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 8
+        "cluster": 1
     },
     "4": {
         "name": "Eksjö Industri AB., Eksjö",
@@ -116,7 +116,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Eksjö Mek. Verkstad, Eksjö",
@@ -148,7 +148,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. Eksjö Möbelfabrik, Eksjö",
@@ -172,7 +172,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Ekskogens Träförädlingsfabrik, Stockholm",
@@ -202,7 +202,7 @@
             "Latitude": 59.64100000000001,
             "Longitude": 18.2264415
         },
-        "cluster": 0
+        "cluster": 15
     },
     "8": {
         "name": "Ekstrands Snickares Ekonomiska Förening, u. p. a., Stockholm",
@@ -229,7 +229,7 @@
             "Latitude": 59.3,
             "Longitude": 18
         },
-        "cluster": 7
+        "cluster": 15
     },
     "9": {
         "name": "Ekström & Blohm AB., Falköping",
@@ -245,6 +245,6 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

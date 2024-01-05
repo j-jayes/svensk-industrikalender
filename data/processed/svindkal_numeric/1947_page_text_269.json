@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 16
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 16
         },
         "foundation_year": 1887,
         "current_name_year": 1906,
@@ -33,7 +34,7 @@
             "Latitude": 59.63569090000001,
             "Longitude": 17.0778228
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "AB. Eresco",
@@ -52,7 +53,8 @@
             "employees": {
                 "industriarb": 16
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 16
         },
         "foundation_year": 1933,
         "board": [
@@ -65,7 +67,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Erikslunds Ångsåg, Erikslund",
@@ -84,7 +86,8 @@
             "employees": {
                 "industriarb": "N/A"
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "board": [],
@@ -92,6 +95,6 @@
             "Latitude": 62.5272434,
             "Longitude": 15.9086243
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

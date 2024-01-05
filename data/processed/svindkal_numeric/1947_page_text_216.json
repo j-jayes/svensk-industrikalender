@@ -21,7 +21,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 500000,
-            "annual_production_value": "Undefined"
+            "annual_production_value": "Undefined",
+            "employees_total": 25
         },
         "foundation_year": 1933,
         "owners": [
@@ -55,7 +56,8 @@
                 "industriarb": 45
             },
             "annual_turnover": 400000,
-            "annual_production_value": "Undefined"
+            "annual_production_value": "Undefined",
+            "employees_total": 45
         },
         "foundation_year": 1909,
         "board": [
@@ -69,7 +71,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Bröderna Ljungquist",
@@ -92,7 +94,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 650000,
-            "annual_production_value": "Undefined"
+            "annual_production_value": "Undefined",
+            "employees_total": 35
         },
         "foundation_year": 1919,
         "owners": [
@@ -103,7 +106,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB Bröderna Lönn",
@@ -113,7 +116,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Bröderna Magnusson",
@@ -130,7 +133,8 @@
             "capital": "Undefined",
             "employees": "Undefined",
             "annual_turnover": "Undefined",
-            "annual_production_value": "Undefined"
+            "annual_production_value": "Undefined",
+            "employees_total": 0
         },
         "foundation_year": 1934,
         "owners": [
@@ -141,7 +145,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB Bröderna Magnusson Trä & Metallindustri",
@@ -159,7 +163,8 @@
                 "industriarb": 13
             },
             "annual_turnover": 150000,
-            "annual_production_value": "Undefined"
+            "annual_production_value": "Undefined",
+            "employees_total": 13
         },
         "board": [
             {
@@ -180,7 +185,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "AB Bröderna Malmqvists Möbelfabrik",
@@ -210,14 +215,15 @@
                 "industriarb": 100
             },
             "annual_turnover": "Undefined",
-            "annual_production_value": "Undefined"
+            "annual_production_value": "Undefined",
+            "employees_total": 100
         },
         "owner": "civiling. K. G. Lindesvärd",
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "9": {
         "name": "Bröderna Melinders Skofabrik",
@@ -236,7 +242,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 1200000,
-            "annual_production_value": "Undefined"
+            "annual_production_value": "Undefined",
+            "employees_total": 50
         },
         "owners": [
             "fabr. Helmer Melinder",
@@ -246,6 +253,6 @@
             "Latitude": 62.98592969999999,
             "Longitude": 18.4316649
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

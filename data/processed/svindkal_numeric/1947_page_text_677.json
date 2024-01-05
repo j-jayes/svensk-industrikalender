@@ -25,7 +25,8 @@
         },
         "financials": {
             "capital": 200000,
-            "annual_production_value": 7000000
+            "annual_production_value": 7000000,
+            "employees_total": 0
         },
         "foundation_year": 1945,
         "board": [
@@ -55,7 +56,7 @@
             "Latitude": 59.5120962,
             "Longitude": 15.9945102
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "AB. Svenska Isoleringsflaskfabriken",
@@ -71,7 +72,8 @@
             "telegraph": null
         },
         "financials": {
-            "capital": 100000
+            "capital": 100000,
+            "employees_total": 0
         },
         "foundation_year": 1940,
         "board": [
@@ -93,7 +95,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "AB. Svenska Järnvägsverkstäderna",
@@ -123,7 +125,8 @@
             "capital": 12249000,
             "employees": {
                 "industriarb.": 130
-            }
+            },
+            "employees_total": 130
         },
         "foundation_year": 1907,
         "board": [
@@ -149,7 +152,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Svenska Jästfabriks AB.",
@@ -170,7 +173,8 @@
             "capital": 16000000,
             "employees": {
                 "industriarb.": 160
-            }
+            },
+            "employees_total": 160
         },
         "foundation_year": 1919,
         "board": [
@@ -208,7 +212,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Svenska Kamgarnsspinneri AB.",
@@ -224,7 +228,8 @@
             "telegraph": "Tops, Borås"
         },
         "financials": {
-            "capital": 200000
+            "capital": 200000,
+            "employees_total": 0
         },
         "foundation_year": 1915,
         "board": [
@@ -242,7 +247,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Svenska Kapokfabriken AB.",
@@ -258,7 +263,8 @@
             "telegraph": null
         },
         "financials": {
-            "capital": "unknown"
+            "capital": "unknown",
+            "employees_total": 0
         },
         "foundation_year": null,
         "board": [

@@ -21,7 +21,8 @@
                 "industriarb": 555
             },
             "annual_turnover": "16,000 ton M. G.-kraftpapper, 9,000 ton tryckpapper o. dyl., 3,000 ton (torrtänkta) sulfatmassa, 5,000 ton (torr) sulfitmassa och 12,000 ton slipmassa",
-            "annual_production_value": "16,000 ton M. G.-kraftpapper, 9,000 ton tryckpapper o. dyl., 3,000 ton (torrtänkta) sulfatmassa, 5,000 ton (torr) sulfitmassa och 12,000 ton slipmassa"
+            "annual_production_value": "16,000 ton M. G.-kraftpapper, 9,000 ton tryckpapper o. dyl., 3,000 ton (torrtänkta) sulfatmassa, 5,000 ton (torr) sulfitmassa och 12,000 ton slipmassa",
+            "employees_total": 555
         },
         "foundation_year": 1918,
         "board": [
@@ -53,7 +54,7 @@
             "Latitude": 58.98480769999999,
             "Longitude": 12.2502881
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "Stig K. M. Billman",
@@ -78,7 +79,8 @@
         "financials": {
             "capital": 80000,
             "employees": 15,
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 0
         },
         "foundation_year": 1932,
         "corporation_year": 1935,
@@ -87,7 +89,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Svenska Bindgarnsfabriken",
@@ -106,7 +108,7 @@
             "Latitude": 58.70550919999999,
             "Longitude": 14.1261468
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Birka AB., Glödlampfabriken",
@@ -131,7 +133,8 @@
         },
         "financials": {
             "employees": 13,
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 0
         },
         "foundation_year": 1921,
         "director": "civiling. Carl Appelberg",
@@ -139,7 +142,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "AB. Bispbergs",
@@ -165,7 +168,8 @@
         "financials": {
             "capital": 250000,
             "employees": 32,
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 0
         },
         "foundation_year": 1870,
         "corporation_year": 1916,
@@ -188,6 +192,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

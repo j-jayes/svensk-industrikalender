@@ -23,7 +23,8 @@
             "capital": 800000,
             "employees": {
                 "industriarb": 200
-            }
+            },
+            "employees_total": 200
         },
         "foundation_year": 1924,
         "board": [
@@ -52,7 +53,7 @@
             "Latitude": 59.178177,
             "Longitude": 17.427816
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "Nyhammars Bruk",
@@ -70,7 +71,8 @@
             "capital": 300000,
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "corporation_year": 1929,
         "board": [
@@ -91,7 +93,7 @@
             "Latitude": 60.28775270000001,
             "Longitude": 14.9674176
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Nyhammars Träullsfabriks AB",
@@ -105,7 +107,8 @@
             "capital": 20000,
             "employees": {
                 "industriarb": 14
-            }
+            },
+            "employees_total": 14
         },
         "foundation_year": 1931,
         "board": [
@@ -129,7 +132,8 @@
             "phone": null
         },
         "financials": {
-            "capital": 2502500
+            "capital": 2502500,
+            "employees_total": 0
         },
         "corporation_year": 1939,
         "board": [
@@ -154,7 +158,7 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Ny hems Mek. Verkstad",
@@ -172,7 +176,8 @@
             "capital": 53000,
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "corporation_year": 1934,
         "board": [
@@ -193,6 +198,6 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 1
+        "cluster": 7
     }
 }

@@ -19,14 +19,15 @@
                 "industriarb": 28
             },
             "annual_turnover": "2 milj. st. tegelvaror",
-            "annual_production_value": "none"
+            "annual_production_value": "none",
+            "employees_total": 28
         },
         "foundation_year": 1926,
         "coordinates": {
             "Latitude": 55.7046601,
             "Longitude": 13.1910073
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "AB. A. Påhlssons Bageri",
@@ -48,14 +49,15 @@
                 "industriarb": 269
             },
             "annual_turnover": 5490000,
-            "annual_production_value": "none"
+            "annual_production_value": "none",
+            "employees_total": 269
         },
         "foundation_year": 1911,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. Bernh. Pålssons Båtvarv",
@@ -77,14 +79,15 @@
                 "industriarb": 15
             },
             "annual_turnover": 200000,
-            "annual_production_value": "none"
+            "annual_production_value": "none",
+            "employees_total": 15
         },
         "foundation_year": 1936,
         "coordinates": {
             "Latitude": 55.9993601,
             "Longitude": 12.7401366
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "AB. Carl P. Påhlssons Choklad- & Konfektfabrik",
@@ -106,14 +109,15 @@
                 "industriarb": 111
             },
             "annual_turnover": "none",
-            "annual_production_value": "none"
+            "annual_production_value": "none",
+            "employees_total": 111
         },
         "foundation_year": 1917,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Päls AB. Panter",
@@ -140,7 +144,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "none",
-            "annual_production_value": "none"
+            "annual_production_value": "none",
+            "employees_total": 20
         },
         "foundation_year": 1945,
         "coordinates": {
@@ -169,7 +174,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 900000,
-            "annual_production_value": "none"
+            "annual_production_value": "none",
+            "employees_total": 35
         },
         "foundation_year": 1937,
         "coordinates": {
@@ -198,14 +204,15 @@
                 "industriarb": 30
             },
             "annual_turnover": 500000,
-            "annual_production_value": "none"
+            "annual_production_value": "none",
+            "employees_total": 30
         },
         "foundation_year": 1920,
         "coordinates": {
             "Latitude": 58.70009630000001,
             "Longitude": 15.15074
         },
-        "cluster": 6
+        "cluster": 2
     },
     "8": {
         "name": "Otto Qvarnströms Maskin- o. Verktygsfabrik",
@@ -227,13 +234,14 @@
                 "industriarb": 15
             },
             "annual_turnover": 150000,
-            "annual_production_value": "none"
+            "annual_production_value": "none",
+            "employees_total": 15
         },
         "foundation_year": 1888,
         "coordinates": {
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

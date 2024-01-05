@@ -14,7 +14,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 350000
+            "annual_turnover": 350000,
+            "employees_total": 25
         },
         "foundation_year": 1920,
         "owners": [
@@ -25,7 +26,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Nordsvenska Bruk",
@@ -38,7 +39,8 @@
             "postgiro": "153964"
         },
         "financials": {
-            "capital": 25000
+            "capital": 25000,
+            "employees_total": 0
         },
         "foundation_year": 1931,
         "board": [
@@ -60,7 +62,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "AB. W. H. Nordvall & Co.",
@@ -74,7 +76,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 334000
+            "annual_turnover": 334000,
+            "employees_total": 25
         },
         "foundation_year": 1920,
         "owners": [
@@ -93,7 +96,7 @@
             "Latitude": 55.634822,
             "Longitude": 13.70337
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "AB. Nordverk",
@@ -108,7 +111,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 80
-            }
+            },
+            "employees_total": 80
         },
         "foundation_year": 1945,
         "board": [
@@ -131,7 +135,7 @@
             "Latitude": 59.41224800000001,
             "Longitude": 13.6709545
         },
-        "cluster": 8
+        "cluster": 18
     },
     "5": {
         "name": "AB. Norema Industrier",
@@ -145,7 +149,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 35
         },
         "foundation_year": 1932,
         "owner": "fabr. Eric Larsson",
@@ -153,7 +158,7 @@
             "Latitude": 60.686372,
             "Longitude": 13.720966
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. Norlings Bryggeri",
@@ -168,7 +173,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 900006
+            "annual_turnover": 900006,
+            "employees_total": 35
         },
         "foundation_year": 1897,
         "board": [
@@ -186,7 +192,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "Ivar E. Norlins Skofabrik",
@@ -200,7 +206,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_turnover": 1200000
+            "annual_turnover": 1200000,
+            "employees_total": 60
         },
         "foundation_year": 1932,
         "owner": "fabr. Ivar Norlin",
@@ -208,6 +215,6 @@
             "Latitude": 62.98592969999999,
             "Longitude": 18.4316649
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

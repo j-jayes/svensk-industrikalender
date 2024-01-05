@@ -17,7 +17,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 800000,
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 70
         },
         "foundation_year": 1940,
         "corporation_year": 1944,
@@ -40,7 +41,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "AB. Göteborgs Kapsylfabrik",
@@ -57,7 +58,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 65
         },
         "foundation_year": 1900,
         "corporation_year": 1902,
@@ -80,7 +82,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "AB. Göteborgs Kassaskåpsfabrik",
@@ -94,7 +96,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 30
         },
         "foundation_year": 1905,
         "corporation_year": 1942,
@@ -108,7 +111,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Göteborgs Kemiska Fabriks AB.",
@@ -123,7 +126,8 @@
             "capital": 30000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "board": [
             {
@@ -136,7 +140,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Göteborgs Kem.-Tekn. Fabrik, John Larson",
@@ -151,14 +155,15 @@
         "financials": {
             "employees": {
                 "industriarb": 14
-            }
+            },
+            "employees_total": 14
         },
         "director": "fabr. John Larson",
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "Göteborgs Kexfabriks AB.",
@@ -175,7 +180,8 @@
             "employees": {
                 "industriarb": 250
             },
-            "annual_turnover": 6000000
+            "annual_turnover": 6000000,
+            "employees_total": 250
         },
         "board": [
             {
@@ -198,6 +204,6 @@
             "Latitude": 57.86975400000001,
             "Longitude": 11.9740317
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

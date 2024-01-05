@@ -16,7 +16,8 @@
                 "Arbetskontor": 10
             },
             "annual_turnover": "4,000 duss. liar",
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 10
         },
         "foundation_year": 1923,
         "corporation_year": 1941,
@@ -34,7 +35,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "AB. Kristallin",
@@ -62,7 +63,8 @@
                 "industriarb.": 15
             },
             "annual_turnover": null,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 15
         },
         "foundation_year": 1914,
         "current_name_year": 1924,
@@ -84,7 +86,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "Kristdala Mek. Verkstads AB.",
@@ -118,7 +120,8 @@
                 "industriarb.": 20
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 20
         },
         "foundation_year": 1913,
         "corporation_year": null,
@@ -140,7 +143,7 @@
             "Latitude": 57.3997682,
             "Longitude": 16.1997081
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Kristenson och Grähs",
@@ -159,7 +162,8 @@
                 "industriarb.": 50
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 50
         },
         "foundation_year": 1939,
         "corporation_year": 1941,
@@ -173,7 +177,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "AB. Kristianssons Mek. Verkstad",
@@ -192,7 +196,8 @@
                 "industriarb.": 20
             },
             "annual_turnover": null,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1896,
         "corporation_year": 1927,
@@ -210,7 +215,7 @@
             "Latitude": 58.99555109999999,
             "Longitude": 16.2054756
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Kristianstads Cementgjuteri",
@@ -228,7 +233,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "AB. Kristianstads Kravattfabrik",
@@ -241,7 +246,8 @@
                 "industriarb.": 15
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 15
         },
         "foundation_year": 1935,
         "corporation_year": null,
@@ -255,6 +261,6 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

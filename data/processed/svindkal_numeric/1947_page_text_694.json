@@ -16,7 +16,8 @@
                 "industriarb.": 15
             },
             "annual_turnover": 750000,
-            "annual_production_value": 750000
+            "annual_production_value": 750000,
+            "employees_total": 15
         },
         "foundation_year": 1944,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "Svenskt Tenn AB.",
@@ -56,7 +57,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb.": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1924,
         "current_name_year": 1933,
@@ -70,7 +72,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 12
     },
     "3": {
         "name": "AB. Svenson & Hagberg",
@@ -94,7 +96,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb.": 49
-            }
+            },
+            "employees_total": 49
         },
         "foundation_year": 1877,
         "corporation_year": 1925,
@@ -113,7 +116,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Svenssons Portföljfabrik",
@@ -131,7 +134,8 @@
             "employees": {
                 "industriarb.": 25
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 25
         },
         "foundation_year": 1910,
         "owners": [
@@ -160,7 +164,8 @@
             "employees": {
                 "industriarb.": 30
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 30
         },
         "foundation_year": 1919,
         "corporation_year": 1940,
@@ -169,7 +174,7 @@
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Svenssons Stenhuggeri, AB. Bröderna",
@@ -180,7 +185,7 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Svensson, Tengblad & Co.",
@@ -199,7 +204,8 @@
             "employees": {
                 "industriarb.": 40
             },
-            "annual_turnover": 1300000
+            "annual_turnover": 1300000,
+            "employees_total": 40
         },
         "foundation_year": 1921,
         "owners": [
@@ -211,7 +217,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 17
     },
     "8": {
         "name": "Svenssons Träförädling",
@@ -229,7 +235,8 @@
             "employees": {
                 "industriarb.": 25
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 25
         },
         "foundation_year": 1930,
         "manager": "dir. E. K. Järnåker",
@@ -238,7 +245,7 @@
             "Latitude": 58.3860128,
             "Longitude": 13.4393282
         },
-        "cluster": 8
+        "cluster": 15
     },
     "9": {
         "name": "AB. A. Svensson & Co.",
@@ -255,7 +262,8 @@
             "capital": 338200,
             "employees": {
                 "industriarb.": 75
-            }
+            },
+            "employees_total": 75
         },
         "foundation_year": 1884,
         "corporation_year": 1932,
@@ -279,6 +287,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

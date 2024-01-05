@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 88
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 88
         },
         "foundation_year": 1944,
         "board": [
@@ -29,7 +30,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "AB. Modellkonfektion",
@@ -47,7 +48,8 @@
             "employees": {
                 "industriarb": 17
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 17
         },
         "foundation_year": 1936,
         "board": [
@@ -61,7 +63,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "AB. Paul Modig",
@@ -82,7 +84,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 35
-            }
+            },
+            "employees_total": 35
         },
         "foundation_year": 1918,
         "board": [
@@ -96,7 +99,7 @@
             "Latitude": 62.6322698,
             "Longitude": 17.9408714
         },
-        "cluster": 1
+        "cluster": 15
     },
     "4": {
         "name": "AB. Mofors Bruk",
@@ -114,7 +117,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 35
         },
         "foundation_year": 1932,
         "board": [],
@@ -123,7 +127,7 @@
             "Latitude": 57.2812542,
             "Longitude": 13.6271963
         },
-        "cluster": 1
+        "cluster": 7
     },
     "5": {
         "name": "AB. Moheda Skofabrik",
@@ -140,7 +144,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_production_value": 825000
+            "annual_production_value": 825000,
+            "employees_total": 55
         },
         "foundation_year": 1933,
         "board": [],
@@ -149,7 +154,7 @@
             "Latitude": 57.0027566,
             "Longitude": 14.5732973
         },
-        "cluster": 9
+        "cluster": 5
     },
     "6": {
         "name": "AB. Mohögs Mekaniska Verkstad",
@@ -167,7 +172,8 @@
             "capital": 275300,
             "employees": {
                 "industriarb": 85
-            }
+            },
+            "employees_total": 85
         },
         "foundation_year": 1911,
         "board": [],
@@ -176,6 +182,6 @@
             "Latitude": 62.37888899999999,
             "Longitude": 17.340556
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

@@ -39,7 +39,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "AB. Kemiska Fabriken Norden",
@@ -72,7 +72,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Keros",
@@ -114,7 +114,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "AB. Kigus Instrumentfabrik",
@@ -142,7 +142,7 @@
             "Latitude": 59.34893340000001,
             "Longitude": 17.996043
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Josef Kihlberg, II jo",
@@ -176,6 +176,6 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

@@ -17,7 +17,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 180000,
-            "annual_production_value": 180000
+            "annual_production_value": 180000,
+            "employees_total": 15
         },
         "foundation_year": 1885,
         "corporation_year": 1909,
@@ -51,7 +52,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 1040000,
-            "annual_production_value": 1040000
+            "annual_production_value": 1040000,
+            "employees_total": 50
         },
         "foundation_year": 1881,
         "corporation_year": 1909,
@@ -65,7 +67,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 3
+        "cluster": 9
     },
     "3": {
         "name": "Gust. W. Hoorn",
@@ -81,7 +83,8 @@
         "financials": {
             "employees": {
                 "arb": 8
-            }
+            },
+            "employees_total": 8
         },
         "foundation_year": 1896,
         "owners": [
@@ -93,7 +96,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Hörda Möbelfabrik",
@@ -111,7 +114,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 240000
+            "annual_turnover": 240000,
+            "employees_total": 20
         },
         "foundation_year": 1910,
         "owners": [
@@ -121,7 +125,7 @@
             "Latitude": 57.0379442,
             "Longitude": 14.2576593
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Horndals Jernverks AB",
@@ -134,7 +138,8 @@
             ]
         },
         "financials": {
-            "capital": 500000
+            "capital": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1652,
         "corporation_year": 1872,
@@ -149,7 +154,7 @@
             "Latitude": 60.2936178,
             "Longitude": 16.4044992
         },
-        "cluster": 6
+        "cluster": 2
     },
     "6": {
         "name": "AB. Hovmantorps Glasbruk",
@@ -167,7 +172,8 @@
             "employees": {
                 "industriarb": 95
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 95
         },
         "foundation_year": 1905,
         "board": [
@@ -185,7 +191,7 @@
             "Latitude": 56.78451219999999,
             "Longitude": 15.1448475
         },
-        "cluster": 2
+        "cluster": 0
     },
     "7": {
         "name": "AB. Hovslätts Mekaniska Snickerifabrik",
@@ -203,7 +209,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 30
         },
         "foundation_year": 1906,
         "corporation_year": 1908,
@@ -225,7 +232,7 @@
             "Latitude": 57.73202599999999,
             "Longitude": 14.1202423
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "HSB:s Snickerifabrik i Sparreholm AB",
@@ -244,7 +251,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 90
         },
         "foundation_year": 1887,
         "corporation_year": 1907,
@@ -253,6 +261,6 @@
             "Latitude": 59.0704435,
             "Longitude": 16.8303335
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

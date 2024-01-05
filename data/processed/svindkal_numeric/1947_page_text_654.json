@@ -18,7 +18,8 @@
                 "industriarb": 500
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 500
         },
         "foundation_year": 1929,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "Strängnäs Bryggeri AB.",
@@ -55,7 +56,8 @@
                 "industriarb": 19
             },
             "annual_turnover": 450000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 19
         },
         "foundation_year": 1907,
         "board": [
@@ -77,7 +79,7 @@
             "Latitude": 59.37745229999999,
             "Longitude": 17.0321193
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "Strängnäs Elektr. Valskvarn",
@@ -95,7 +97,8 @@
             "employees": {
                 "industriarb": 8
             },
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 8
         },
         "foundation_year": 1914,
         "owner": "Gustav Svenson",
@@ -103,7 +106,7 @@
             "Latitude": 59.37745229999999,
             "Longitude": 17.0321193
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "C. C. Ströms AB.",
@@ -120,7 +123,8 @@
                 "industriarb": 145
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 145
         },
         "foundation_year": 1888,
         "corporation_year": 1930,
@@ -142,7 +146,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "AB. Gust. Ström & Co.",
@@ -158,7 +162,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 25
         },
         "foundation_year": 1925,
         "corporation_year": 1943,
@@ -167,7 +172,7 @@
             "Latitude": 60.5099434,
             "Longitude": 14.2253417
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Ströms Bruks AB.",
@@ -194,7 +199,8 @@
             "employees": {
                 "industriarb": 450
             },
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 450
         },
         "foundation_year": 1873,
         "board": [
@@ -221,7 +227,7 @@
             "Latitude": 61.87011909999999,
             "Longitude": 17.3165175
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Strömbacka Bruk",
@@ -231,7 +237,7 @@
             "Latitude": 61.9573308,
             "Longitude": 16.714294
         },
-        "cluster": 1
+        "cluster": 18
     },
     "8": {
         "name": "AB. H. Strömberg",
@@ -247,7 +253,8 @@
         },
         "financials": {
             "capital": 88000,
-            "annual_production_value": 550000
+            "annual_production_value": 550000,
+            "employees_total": 0
         },
         "foundation_year": 1909,
         "corporation_year": 1938,
@@ -256,6 +263,6 @@
             "Latitude": 57.3199949,
             "Longitude": 15.5812344
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

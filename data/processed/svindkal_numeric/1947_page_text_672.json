@@ -15,7 +15,8 @@
             "capital": 25000,
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1926,
         "board": [
@@ -28,7 +29,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "Svenska Diamantbergborrnings AB.",
@@ -45,7 +46,8 @@
             "employees": {
                 "industriarb": 400
             },
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 400
         },
         "foundation_year": 1886,
         "predecessor": "Äger AB. Elektrisk Malmletning",
@@ -71,7 +73,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "AB. Svenska Dragskivor",
@@ -85,7 +87,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 35
-            }
+            },
+            "employees_total": 35
         },
         "foundation_year": 1944,
         "board": [
@@ -98,7 +101,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Svenska Elektrodfabriken Kroma",
@@ -113,7 +116,8 @@
             "capital": "Not available",
             "employees": {
                 "industriarb": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1933,
         "owner": "ing. Alvar Harlitz",
@@ -121,7 +125,7 @@
             "Latitude": 58.3797283,
             "Longitude": 12.3248032
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "AB. Svenska Elektromagneter",
@@ -136,7 +140,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 125
-            }
+            },
+            "employees_total": 125
         },
         "foundation_year": 1915,
         "board": [
@@ -157,6 +162,6 @@
             "Latitude": 59.05111699999999,
             "Longitude": 12.6977323
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

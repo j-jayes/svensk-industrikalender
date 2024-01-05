@@ -18,7 +18,8 @@
                 "industriarb": 55
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 55
         },
         "foundation_year": 1914,
         "owner": "S. A. Wennerlund",
@@ -27,7 +28,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "AB. Ventilatorverken",
@@ -45,7 +46,8 @@
                 "industriarb": 37
             },
             "annual_turnover": 410000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 37
         },
         "foundation_year": 1918,
         "director": "Ing. Thure Ericson",
@@ -53,7 +55,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Verkstads AB. Haldex",
@@ -71,7 +73,8 @@
                 "industriarb": 130
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 130
         },
         "foundation_year": 1920,
         "board": [
@@ -97,7 +100,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Verkstads AB* Bernhard Hedlund",
@@ -118,7 +121,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 800000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 50
         },
         "foundation_year": 1929,
         "director": "Georg Hedlund",
@@ -126,7 +130,7 @@
             "Latitude": 60.2775453,
             "Longitude": 15.985892
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "Verkstads AB. Lindqvist",
@@ -147,7 +151,8 @@
                 "industriarb": 175
             },
             "annual_turnover": 1650000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 175
         },
         "foundation_year": 1918,
         "director": "Tore Lindqvist",
@@ -155,7 +160,7 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Verkstads AB. Mekano",
@@ -175,7 +180,8 @@
                 "industriarb": 65
             },
             "annual_turnover": 1100000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 65
         },
         "foundation_year": 1917,
         "board": [
@@ -197,7 +203,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "Verkstads AB. Tibo",
@@ -213,12 +219,13 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_turnover": "615"
+            "annual_turnover": "615",
+            "employees_total": 80
         },
         "coordinates": {
             "Latitude": 59.33688530000001,
             "Longitude": 17.9638876
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

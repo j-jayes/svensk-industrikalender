@@ -17,7 +17,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 150000,
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 20
         },
         "foundation_year": 1922,
         "owner": "fabr. Ivar Dorthé",
@@ -25,7 +26,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Drabant, Konfektions AB.",
@@ -35,7 +36,7 @@
             "Latitude": 57.9300205,
             "Longitude": 12.5362113
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Dragéfabriken, Carl Klein",
@@ -50,7 +51,8 @@
                 "industriarb": 5
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 5
         },
         "foundation_year": 1938,
         "owner": "fabr. Carl Klein",
@@ -58,7 +60,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Drags AB.",
@@ -91,7 +93,8 @@
                 "industriarb": 300
             },
             "annual_turnover": 4300000,
-            "annual_production_value": 4300000
+            "annual_production_value": 4300000,
+            "employees_total": 300
         },
         "foundation_year": 1854,
         "board": [
@@ -112,7 +115,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Dragspelsfabriken Skandia, V. B i se",
@@ -128,7 +131,8 @@
                 "industriarb": 7
             },
             "annual_turnover": 50000,
-            "annual_production_value": 50000
+            "annual_production_value": 50000,
+            "employees_total": 7
         },
         "foundation_year": 1931,
         "owner": "fabr. Victor Dise",
@@ -136,7 +140,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "AB. Dress",
@@ -152,7 +156,8 @@
                 "industriarb": 200
             },
             "annual_turnover": 3000000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 200
         },
         "foundation_year": 1916,
         "board": [
@@ -174,7 +179,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Drev &amp; Trassel, Fabriks AB.",
@@ -184,7 +189,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "8": {
         "name": "Drott, Vaddfabriken",
@@ -194,7 +199,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 1
+        "cluster": 18
     },
     "9": {
         "name": "H. I. Drucker &amp; Son AB.",
@@ -214,7 +219,8 @@
                 "industriarb": 40
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 40
         },
         "foundation_year": 1941,
         "owner": "",
@@ -239,7 +245,8 @@
                 "industriarb": 250
             },
             "annual_turnover": 6500000,
-            "annual_production_value": 6500000
+            "annual_production_value": 6500000,
+            "employees_total": 250
         },
         "foundation_year": 1871,
         "board": [
@@ -261,6 +268,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

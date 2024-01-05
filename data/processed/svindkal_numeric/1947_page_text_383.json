@@ -14,7 +14,8 @@
                 "Arb.-antal": 45
             },
             "annual_turnover": 40000,
-            "annual_production_value": 40000
+            "annual_production_value": 40000,
+            "employees_total": 45
         },
         "foundation_year": 1930,
         "owners": [
@@ -25,7 +26,7 @@
             "Latitude": 56.2006388,
             "Longitude": 12.5553288
         },
-        "cluster": 8
+        "cluster": 0
     },
     "2": {
         "name": "Högbergs Kemisk-Tekniska Industri",
@@ -43,7 +44,8 @@
             "employees": {
                 "Antal industriarb.": 32
             },
-            "annual_turnover": 825000
+            "annual_turnover": 825000,
+            "employees_total": 32
         },
         "foundation_year": 1938,
         "owner": "disp. H. J. Johnen",
@@ -55,7 +57,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. Högberg & Hultners Snickerifabrik",
@@ -73,7 +75,8 @@
             "capital": 100000,
             "employees": {
                 "Antal industriarb.": 150
-            }
+            },
+            "employees_total": 150
         },
         "foundation_year": 1901,
         "corporation_year": 1932,
@@ -88,7 +91,7 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Högboholms Mek. Verkstad",
@@ -104,7 +107,8 @@
             "employees": {
                 "Arb.-antal": 10
             },
-            "annual_production_value": 55000
+            "annual_production_value": 55000,
+            "employees_total": 10
         },
         "foundation_year": 1941,
         "owner": "fabr. Yngve Cornfors",
@@ -113,7 +117,7 @@
             "Latitude": 57.0345939,
             "Longitude": 14.5746558
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Högfors AB., Högforsbruk",
@@ -131,7 +135,8 @@
             "employees": {
                 "Antal industriarb.": 100
             },
-            "annual_turnover": 2500000
+            "annual_turnover": 2500000,
+            "employees_total": 100
         },
         "corporation_year": 1897,
         "board": [
@@ -140,7 +145,7 @@
             "Olof Hedin",
             "adv. Helmer Lindh"
         ],
-        "cluster": 6
+        "cluster": 2
     },
     "6": {
         "name": "Högfors Cjuteri & Mek. Verkstad",
@@ -157,7 +162,7 @@
             "Latitude": 59.98853380000001,
             "Longitude": 15.019391
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Högfors och Persbo AB.",
@@ -174,7 +179,8 @@
             "capital": 1000000,
             "employees": {
                 "Antal industriarb.": 200
-            }
+            },
+            "employees_total": 200
         },
         "board": [
             "generalkonsul Axel Ax:son Johnson",
@@ -187,7 +193,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 2
     },
     "8": {
         "name": "AB. Högfors Träsliperi",
@@ -205,7 +211,8 @@
             "capital": 150000,
             "employees": {
                 "Antal industriarb.": 45
-            }
+            },
+            "employees_total": 45
         },
         "board": [
             "dir. G. Bertil örn",
@@ -216,6 +223,6 @@
             "Latitude": 63.3934041,
             "Longitude": 14.9062139
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

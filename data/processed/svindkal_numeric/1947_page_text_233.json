@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 30
         },
         "foundation_year": 1919,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "D. Carnegie & Co.",
@@ -56,7 +57,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 60
         },
         "foundation_year": 1943,
         "board": [],
@@ -66,7 +68,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 4
     },
     "3": {
         "name": "Casparsson & Schmidt, Handels- & Fabriks AB.",
@@ -87,7 +89,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 50
         },
         "foundation_year": 1804,
         "board": [],
@@ -117,7 +120,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 40
         },
         "foundation_year": 1938,
         "board": [
@@ -152,7 +156,7 @@
             "Latitude": 59.37745229999999,
             "Longitude": 17.0321193
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "Cebe AB.",
@@ -169,7 +173,8 @@
             "employees": {
                 "industriarb": 220
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 220
         },
         "foundation_year": 1909,
         "board": [
@@ -196,7 +201,7 @@
             "Latitude": 55.95632999999999,
             "Longitude": 13.13318
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "John Cederblad",
@@ -216,7 +221,8 @@
             "employees": {
                 "industriarb": "N/A"
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1929,
         "board": [],
@@ -228,7 +234,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "Cederquists Grafiska AB.",
@@ -247,7 +253,8 @@
             "employees": {
                 "industriarb": "N/A"
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1908,
         "board": [
@@ -262,7 +269,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "8": {
         "name": "Cederroths Tekniska Fabrik",
@@ -281,7 +288,8 @@
             "employees": {
                 "industriarb": 32
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 32
         },
         "foundation_year": 1895,
         "board": [],
@@ -291,7 +299,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "9": {
         "name": "AB. F. R. Cedervall & Söner",
@@ -310,7 +318,8 @@
             "employees": {
                 "industriarb": "N/A"
             },
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "board": [],
@@ -320,6 +329,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

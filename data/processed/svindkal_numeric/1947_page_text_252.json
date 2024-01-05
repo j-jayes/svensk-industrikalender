@@ -18,7 +18,8 @@
                 "industriarb": 106
             },
             "annual_turnover": 2300000,
-            "annual_production_value": 2300000
+            "annual_production_value": 2300000,
+            "employees_total": 106
         },
         "foundation_year": 1925,
         "corporation_year": 1943,
@@ -32,7 +33,7 @@
             "Latitude": 57.7366497,
             "Longitude": 12.1251968
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Eds Cellulosafabriks AB",
@@ -47,7 +48,8 @@
             "employees": {
                 "industriarb": 109
             },
-            "annual_production_value": "9,000 ton torr sulfatcellulosa"
+            "annual_production_value": "9,000 ton torr sulfatcellulosa",
+            "employees_total": 109
         },
         "foundation_year": 1888,
         "board": [
@@ -68,7 +70,7 @@
             "Latitude": 58.0200522,
             "Longitude": 16.4650392
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "Eds Tegel AB.",
@@ -82,7 +84,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": "0,8 milj. st. tegelvaror"
+            "annual_production_value": "0,8 milj. st. tegelvaror",
+            "employees_total": 20
         },
         "foundation_year": 1915,
         "board": [
@@ -103,7 +106,7 @@
             "Latitude": 58.0200522,
             "Longitude": 16.4650392
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Eda AB.",
@@ -118,7 +121,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 20
         },
         "foundation_year": 1867,
         "board": [
@@ -139,7 +143,7 @@
             "Latitude": 59.7787407,
             "Longitude": 12.2572415
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Eda Glasbruk",
@@ -155,7 +159,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_production_value": 650000
+            "annual_production_value": 650000,
+            "employees_total": 100
         },
         "foundation_year": 1943,
         "board": [
@@ -182,7 +187,7 @@
             "Latitude": 59.7787407,
             "Longitude": 12.2572415
         },
-        "cluster": 2
+        "cluster": 0
     },
     "6": {
         "name": "Edeby Marmorbrott AB.",
@@ -201,7 +206,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 60
         },
         "foundation_year": 1945,
         "board": [
@@ -211,7 +217,7 @@
             }
         ],
         "coordinates": null,
-        "cluster": 1
+        "cluster": 14
     },
     "7": {
         "name": "J. A. Edenholm, Culdlistfabrik",
@@ -234,7 +240,7 @@
             "Latitude": 60.41140559999999,
             "Longitude": 15.6110187
         },
-        "cluster": 8
+        "cluster": 18
     },
     "8": {
         "name": "Paul Edgren",
@@ -256,6 +262,6 @@
             "Latitude": 58.94095799999999,
             "Longitude": 13.156128
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

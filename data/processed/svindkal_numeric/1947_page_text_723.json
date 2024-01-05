@@ -14,14 +14,15 @@
             "employees": {
                 "industriarb": 16
             },
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 16
         },
         "foundation_year": 1903,
         "coordinates": {
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "Tranås Culdlistfabrik, Svensson & Hellberg",
@@ -35,14 +36,15 @@
         "financials": {
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1920,
         "coordinates": {
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 1
+        "cluster": 17
     },
     "3": {
         "name": "Tranås Kartongfabrik",
@@ -58,7 +60,8 @@
         "financials": {
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1914,
         "coordinates": {
@@ -84,7 +87,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 60
         },
         "foundation_year": 1908,
         "corporation_year": 1937,
@@ -92,7 +96,7 @@
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Tranås Möbelfabriks AB",
@@ -107,14 +111,15 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_production_value": 580000
+            "annual_production_value": 580000,
+            "employees_total": 45
         },
         "foundation_year": 1897,
         "coordinates": {
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. Tranåspäls, Ringqvist & Co.",
@@ -129,14 +134,15 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1945,
         "coordinates": {
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Tranås Pälsvarukompani AB",
@@ -154,7 +160,8 @@
             "employees": {
                 "industriarb": 49
             },
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 49
         },
         "foundation_year": 1942,
         "coordinates": {
@@ -180,14 +187,15 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 150
         },
         "foundation_year": 1917,
         "coordinates": {
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 3
+        "cluster": 9
     },
     "9": {
         "name": "Tranås Snickerifabrik AB",
@@ -202,14 +210,15 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 40
         },
         "foundation_year": 1933,
         "coordinates": {
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 8
+        "cluster": 15
     },
     "10": {
         "name": "AB. Tranås Vagnfabrik",
@@ -224,6 +233,6 @@
             "Latitude": 58.035518,
             "Longitude": 14.975696
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

@@ -65,7 +65,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 3
+        "cluster": 9
     },
     "3": {
         "name": "Gust. W. Hoorn",
@@ -93,7 +93,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Hörda Möbelfabrik",
@@ -121,7 +121,7 @@
             "Latitude": 57.0379442,
             "Longitude": 14.2576593
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Horndals Jernverks AB",
@@ -149,7 +149,7 @@
             "Latitude": 60.2936178,
             "Longitude": 16.4044992
         },
-        "cluster": 6
+        "cluster": 2
     },
     "6": {
         "name": "AB. Hovmantorps Glasbruk",
@@ -185,7 +185,7 @@
             "Latitude": 56.78451219999999,
             "Longitude": 15.1448475
         },
-        "cluster": 2
+        "cluster": 0
     },
     "7": {
         "name": "AB. Hovslätts Mekaniska Snickerifabrik",
@@ -225,7 +225,7 @@
             "Latitude": 57.73202599999999,
             "Longitude": 14.1202423
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "HSB:s Snickerifabrik i Sparreholm AB",
@@ -253,6 +253,6 @@
             "Latitude": 59.0704435,
             "Longitude": 16.8303335
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

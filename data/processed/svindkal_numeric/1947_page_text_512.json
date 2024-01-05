@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 310000
+            "annual_turnover": 310000,
+            "employees_total": 15
         },
         "foundation_year": 1906,
         "current_name_year": 1946,
@@ -47,7 +48,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Metallfabriks AB. C. G. Sporrong & Co.",
@@ -66,7 +67,8 @@
             "employees": {
                 "industriarb": 215
             },
-            "annual_turnover": 4000000
+            "annual_turnover": 4000000,
+            "employees_total": 215
         },
         "foundation_year": 1666,
         "current_name_year": 1891,
@@ -87,7 +89,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Metallhyttans AB.",
@@ -105,7 +107,8 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 80
         },
         "foundation_year": 1863,
         "corporation_year": 1923,
@@ -115,7 +118,7 @@
             "Latitude": 57.2812542,
             "Longitude": 13.6271963
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Metaverken",
@@ -133,7 +136,8 @@
             "employees": {
                 "industriarb": 8
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 8
         },
         "foundation_year": 1942,
         "director": "ing. Erik Gustavii",
@@ -142,7 +146,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Otto Meyers Konst-, Metall- & Zink-gjuteri",
@@ -160,7 +164,8 @@
             "employees": {
                 "arb.-antal": 10
             },
-            "annual_turnover": 170000
+            "annual_turnover": 170000,
+            "employees_total": 10
         },
         "foundation_year": 1872,
         "director": "fabr. Arne Spanier",
@@ -168,7 +173,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Vilh. Meyer, Etui- & Kartongfabrik",
@@ -184,13 +189,14 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 35
         },
         "foundation_year": 1924,
         "coordinates": {
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

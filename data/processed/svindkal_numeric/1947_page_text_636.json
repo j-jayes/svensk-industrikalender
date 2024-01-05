@@ -18,14 +18,15 @@
                 "industriarb": 35
             },
             "annual_turnover": 350000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 35
         },
         "foundation_year": 1922,
         "coordinates": {
             "Latitude": 57.1597167,
             "Longitude": 13.403521
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "AB. Smålandsstenars Trikåfabrik",
@@ -45,7 +46,8 @@
                 "industriarb": 18
             },
             "annual_turnover": 400000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 18
         },
         "foundation_year": 1934,
         "coordinates": {
@@ -74,14 +76,15 @@
                 "industriarb": 90
             },
             "annual_turnover": 1800000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 90
         },
         "foundation_year": 1921,
         "coordinates": {
             "Latitude": 57.1597167,
             "Longitude": 13.403521
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Smögens Konservfabrik, Bröderna Ivarsson",
@@ -101,14 +104,15 @@
                 "industriarb": 25
             },
             "annual_turnover": 500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 25
         },
         "foundation_year": 1943,
         "coordinates": {
             "Latitude": 58.36332429999999,
             "Longitude": 11.2367763
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "AB. Snickeribolaget Hägerlöf & Co.",
@@ -128,14 +132,15 @@
                 "industriarb": 16
             },
             "annual_turnover": 220000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 16
         },
         "foundation_year": 1935,
         "coordinates": {
             "Latitude": 58.0323039,
             "Longitude": 12.8089764
         },
-        "cluster": 8
+        "cluster": 18
     },
     "6": {
         "name": "AB. Snickeri & Träförädlingen",
@@ -155,14 +160,15 @@
                 "industriarb": 15
             },
             "annual_turnover": 300000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 15
         },
         "foundation_year": 1928,
         "coordinates": {
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Snickerifabriken Kondoren",
@@ -183,13 +189,14 @@
                 "industriarb": 20
             },
             "annual_turnover": 300000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 20
         },
         "foundation_year": 1862,
         "coordinates": {
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

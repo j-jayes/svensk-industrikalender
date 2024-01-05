@@ -15,7 +15,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 20
         },
         "foundation_year": 1931,
         "owners": [
@@ -26,7 +27,7 @@
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Kinna Yllefabrik",
@@ -45,7 +46,8 @@
                 "industriarb": 50
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 50
         },
         "foundation_year": 1926,
         "owner": "dir. Verner Werner gren",
@@ -53,7 +55,7 @@
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "Kinnahults Trikåfabrik",
@@ -68,7 +70,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1934,
         "owner": "fabr. Sigfrid Johansson",
@@ -76,7 +79,7 @@
             "Latitude": 57.5270879,
             "Longitude": 12.7293925
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Kinnahults Väfveri",
@@ -91,7 +94,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 55
         },
         "foundation_year": 1917,
         "owner": "fabr. Erik Eliason",
@@ -99,7 +103,7 @@
             "Latitude": 57.5270879,
             "Longitude": 12.7293925
         },
-        "cluster": 8
+        "cluster": 1
     },
     "5": {
         "name": "AB. Kinnareds Textil",
@@ -114,7 +118,8 @@
             "employees": {
                 "industriarb": 32
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 32
         },
         "foundation_year": 1934,
         "corporation_year": 1941,
@@ -123,7 +128,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Kinnaströms Väfveri AB.",
@@ -138,7 +143,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 55
         },
         "foundation_year": 1885,
         "corporation_year": 1895,
@@ -151,7 +157,7 @@
             "Latitude": 57.5096481,
             "Longitude": 12.6851107
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "AB. Kinnekulle Kalk",
@@ -166,7 +172,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 70000
+            "annual_production_value": 70000,
+            "employees_total": 20
         },
         "foundation_year": 1928,
         "owners": [
@@ -178,7 +185,7 @@
             "Latitude": 58.573458,
             "Longitude": 13.460525
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "AB. Kinofa",
@@ -196,7 +203,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 40
         },
         "foundation_year": 1913,
         "corporation_year": 1935,
@@ -205,6 +213,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

@@ -6,7 +6,8 @@
             "employees": {
                 "industriarb": 125
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 125
         },
         "foundation_year": 1927,
         "board": [
@@ -44,7 +45,8 @@
             "employees": {
                 "industriarb": 180
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 180
         },
         "foundation_year": 1944,
         "predecessor": "AB. Åkers Styckebruk",
@@ -68,7 +70,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "AB. Gjuterimaskiner, Halmstad",
@@ -84,7 +86,8 @@
             "employees": {
                 "industriarb": 130
             },
-            "annual_turnover": 1550000
+            "annual_turnover": 1550000,
+            "employees_total": 130
         },
         "foundation_year": 1913,
         "board": [
@@ -111,7 +114,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Glacéläderfabriken, Kävlinge",
@@ -127,7 +130,8 @@
             "employees": {
                 "industriarb": 275
             },
-            "annual_turnover": 12000000
+            "annual_turnover": 12000000,
+            "employees_total": 275
         },
         "foundation_year": 1898,
         "current_name_year": 1929,
@@ -151,7 +155,7 @@
             "Latitude": 55.7939999,
             "Longitude": 13.1104293
         },
-        "cluster": 1
+        "cluster": 9
     },
     "5": {
         "name": "AB. Clas & Trä, Hovmantorp",
@@ -167,7 +171,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 60
         },
         "foundation_year": 1943,
         "director": "Verkst. dir.: disp. Gösta Franzén",
@@ -175,7 +180,7 @@
             "Latitude": 56.78451219999999,
             "Longitude": 15.1448475
         },
-        "cluster": 8
+        "cluster": 0
     },
     "6": {
         "name": "AB. E. T. Cleitsmann, Trelleborg",
@@ -189,7 +194,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1901,
         "board": [
@@ -211,7 +217,7 @@
             "Latitude": 55.3762427,
             "Longitude": 13.1574231
         },
-        "cluster": 5
+        "cluster": 10
     },
     "7": {
         "name": "Clemminge Tegelbruk, John Glemming, Glemmingebro",
@@ -225,7 +231,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": "1,900,000 st. tegel var or"
+            "annual_production_value": "1,900,000 st. tegel var or",
+            "employees_total": 25
         },
         "original_name": "Tegelbruket anlagt 1870, nuv. firma etabl. 1933",
         "owners": "disp. John Glemming",
@@ -234,7 +241,7 @@
             "Latitude": 55.4504116,
             "Longitude": 14.0202651
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "Glimma Glasbruks AB., Glimåkra",
@@ -244,6 +251,6 @@
             "Latitude": 56.3028124,
             "Longitude": 14.1337053
         },
-        "cluster": 1
+        "cluster": 0
     }
 }

@@ -21,7 +21,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 20
         },
         "foundation_year": 1904,
         "corporation_year": 1937,
@@ -29,7 +30,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "AB. Malmbäcks Träindustri",
@@ -51,7 +52,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 25
         },
         "foundation_year": 1937,
         "coordinates": {
@@ -75,7 +77,8 @@
             "employees": {
                 "industriarb": 135
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 135
         },
         "foundation_year": 1895,
         "coordinates": {
@@ -96,14 +99,15 @@
             "employees": {
                 "industriarb": 18
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 18
         },
         "foundation_year": 1890,
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "Malmköpings Träförädling AB.",
@@ -121,7 +125,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 30
         },
         "foundation_year": 1904,
         "corporation_year": 1941,
@@ -129,7 +134,7 @@
             "Latitude": 59.132406,
             "Longitude": 16.729194
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Malmletning, AB. Elektrisk",
@@ -156,7 +161,8 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_production_value": 1250000
+            "annual_production_value": 1250000,
+            "employees_total": 80
         },
         "foundation_year": 1881,
         "corporation_year": 1941,
@@ -164,7 +170,7 @@
             "Latitude": 56.8790044,
             "Longitude": 14.8058522
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "d. C. Malmsjö AB.",
@@ -178,6 +184,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 18
     }
 }

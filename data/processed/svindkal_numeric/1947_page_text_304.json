@@ -14,7 +14,8 @@
             "employees": {
                 "industriarb": 97
             },
-            "annual_turnover": 1025000
+            "annual_turnover": 1025000,
+            "employees_total": 97
         },
         "foundation_year": 1905,
         "current_name_year": 1943,
@@ -22,7 +23,7 @@
             "Latitude": 57.5577891,
             "Longitude": 12.7855095
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "AB. Fritsla Linneväveri, Fritsla",
@@ -39,14 +40,15 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "corporation_year": 1931,
         "coordinates": {
             "Latitude": 57.5577891,
             "Longitude": 12.7855095
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "Fritsla Trikåstickeri, Johanson & Co., Fritsla",
@@ -61,7 +63,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 20
         },
         "owners": [
             "fabr. Åke Johanson",
@@ -72,7 +75,7 @@
             "Latitude": 57.5577891,
             "Longitude": 12.7855095
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Erik Frosts Knivfabrik, Mora",
@@ -89,14 +92,15 @@
         },
         "financials": {
             "employees": 50,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 0
         },
         "foundation_year": 1891,
         "coordinates": {
             "Latitude": 61.004878,
             "Longitude": 14.537003
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Fruetus Fabriker, Ulvsunda",
@@ -111,7 +115,8 @@
         },
         "financials": {
             "capital": 410000,
-            "employees": 25
+            "employees": 25,
+            "employees_total": 0
         },
         "foundation_year": 1919,
         "corporation_year": 1930,
@@ -119,7 +124,7 @@
             "Latitude": 59.33688530000001,
             "Longitude": 17.9638876
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Dan. Frändberg, Göteborg",
@@ -136,14 +141,15 @@
             "postgiro": "41006"
         },
         "financials": {
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1916,
         "coordinates": {
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "Erik I. Frändbergs Snickeri- & Karosseriverkstad, Västerås",
@@ -155,14 +161,15 @@
         },
         "financials": {
             "employees": 5,
-            "annual_production_value": 80000
+            "annual_production_value": 80000,
+            "employees_total": 0
         },
         "foundation_year": 1922,
         "coordinates": {
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "AB. Fränkel & Elsner, Göteborg",
@@ -179,6 +186,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

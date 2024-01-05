@@ -178,7 +178,7 @@
             "Latitude": 59.41224800000001,
             "Longitude": 13.6709545
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "AB. Värmlands Trikåfabrik",
@@ -241,7 +241,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Värmlands Träindustri AB.",
@@ -279,7 +279,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "AB. Värnamo Bryggeri",
@@ -321,7 +321,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "Värnamo Byggnadssnickeri, Cust. Lindberg",
@@ -347,7 +347,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "AB. Värnamo Cummifabrik",
@@ -381,6 +381,6 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 1
+        "cluster": 9
     }
 }

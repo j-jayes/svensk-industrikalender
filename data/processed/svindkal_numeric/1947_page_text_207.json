@@ -31,7 +31,8 @@
                 "industriarb.": 480
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 480
         },
         "foundation_year": 1903,
         "board": [
@@ -52,7 +53,7 @@
             "Latitude": 57.5438819,
             "Longitude": 15.7461385
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Fredr. Brusewitz",
@@ -75,7 +76,8 @@
                 "industriarb.": 300
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 2700000
+            "annual_production_value": 2700000,
+            "employees_total": 300
         },
         "foundation_year": 1900,
         "board": [
@@ -100,7 +102,7 @@
             "Latitude": 57.5412417,
             "Longitude": 13.3553359
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "HugO Brusewitz AB.",
@@ -132,7 +134,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "AB. Hugo Brusewitz Bleckvaru-fabrik",
@@ -170,7 +172,8 @@
                 "industriarb.": 35
             },
             "annual_turnover": 600000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 35
         },
         "foundation_year": 1886,
         "board": [
@@ -191,7 +194,7 @@
             "Latitude": 59.0665316,
             "Longitude": 15.10229
         },
-        "cluster": 3
+        "cluster": 9
     },
     "6": {
         "name": "AB. Bruzaholms Bruk",
@@ -212,7 +215,8 @@
                 "industriarb.": 80
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 80
         },
         "foundation_year": 1931,
         "board": [
@@ -237,6 +241,6 @@
             "Latitude": 57.6411056,
             "Longitude": 15.2684486
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

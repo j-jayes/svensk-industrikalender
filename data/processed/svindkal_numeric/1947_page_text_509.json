@@ -17,7 +17,8 @@
                 "industriarb": 95
             },
             "annual_turnover": 1500000,
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 95
         },
         "foundation_year": 1865,
         "manager": "F. And. Mattsson",
@@ -25,7 +26,7 @@
             "Latitude": 61.004878,
             "Longitude": 14.537003
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Karl O. Mattson",
@@ -44,7 +45,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 175000,
-            "annual_production_value": 175000
+            "annual_production_value": 175000,
+            "employees_total": 70
         },
         "foundation_year": 1903,
         "owner": "Leif Markenberg",
@@ -52,7 +54,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "M. Mattssons Möbelfabrik",
@@ -72,7 +74,8 @@
                 "industriarb": 16
             },
             "annual_turnover": 170000,
-            "annual_production_value": 170000
+            "annual_production_value": 170000,
+            "employees_total": 16
         },
         "foundation_year": 1937,
         "manager": "Martin Mattsson",
@@ -80,7 +83,7 @@
             "Latitude": 56.2914154,
             "Longitude": 13.7097126
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Robert Matsson",
@@ -96,7 +99,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1914,
         "owner": "Robert Matsson",
@@ -122,7 +126,8 @@
         "financials": {
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1911,
         "manager": "Nils Lindahl",
@@ -130,7 +135,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "AB. J. B. Meijel",
@@ -147,7 +152,8 @@
             "employees": {
                 "industriarb": 44
             },
-            "annual_turnover": 1200000
+            "annual_turnover": 1200000,
+            "employees_total": 44
         },
         "foundation_year": 1892,
         "corporation_year": 1927,
@@ -161,7 +167,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 5
+        "cluster": 10
     },
     "7": {
         "name": "Mek. Bandväveriet, Käliberg & Co.",
@@ -178,7 +184,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_turnover": 70000
+            "annual_turnover": 70000,
+            "employees_total": 10
         },
         "foundation_year": 1925,
         "manager": "John Käliberg",
@@ -186,7 +193,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "Mek. Verkstaden Alp AB.",
@@ -203,7 +210,8 @@
             "employees": {
                 "industriarb": 12
             },
-            "annual_turnover": 120000
+            "annual_turnover": 120000,
+            "employees_total": 12
         },
         "foundation_year": 1939,
         "corporation_year": 1941,
@@ -212,7 +220,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 6
+        "cluster": 7
     },
     "9": {
         "name": "Mek. Verkstaden Record AB.",
@@ -231,7 +239,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 40
         },
         "foundation_year": 1922,
         "corporation_year": 1929,
@@ -240,6 +249,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

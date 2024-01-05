@@ -17,13 +17,14 @@
             },
             "foundation_year": 1918,
             "original_name": "Fabriken anlagd 1902",
-            "corporation_year": 1918
+            "corporation_year": 1918,
+            "employees_total": 465
         },
         "coordinates": {
             "Latitude": 59.75765879999999,
             "Longitude": 12.3572534
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Norma Skoindustri Eftr., John Jansson & Co.",
@@ -36,7 +37,8 @@
         "financials": {
             "annual_production_value": 75000,
             "foundation_year": 1918,
-            "current_name_year": 1940
+            "current_name_year": 1940,
+            "employees_total": 0
         },
         "owners": [
             "fabr. Erik Jansson",
@@ -46,7 +48,7 @@
             "Latitude": 61.7273909,
             "Longitude": 17.107401
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "Normans Bokbinderi AB.",
@@ -67,7 +69,8 @@
             },
             "annual_turnover": 1200000,
             "foundation_year": 1863,
-            "corporation_year": 1906
+            "corporation_year": 1906,
+            "employees_total": 120
         },
         "board": [
             {
@@ -83,7 +86,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "4": {
         "name": "Normans Skogs- & Sågverks AB.",
@@ -100,7 +103,8 @@
             },
             "annual_production_value": "6,000 stds trävaror",
             "foundation_year": 1921,
-            "corporation_year": 1934
+            "corporation_year": 1934,
+            "employees_total": 200
         },
         "director": "grossh. Rudolf Norman",
         "managing_director": "forstmästare Oscar Norman",
@@ -108,7 +112,7 @@
             "Latitude": 58.1388201,
             "Longitude": 14.9675701
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Knuth Normarks Tegelbruk",
@@ -124,14 +128,15 @@
                 "industriarb": 15
             },
             "annual_production_value": "800,000 st. murtegel",
-            "foundation_year": 1924
+            "foundation_year": 1924,
+            "employees_total": 15
         },
         "owner": "fabr. Knuth A. Normark",
         "coordinates": {
             "Latitude": 64.750244,
             "Longitude": 20.950917
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Norra Kinds Hemindustri",
@@ -149,14 +154,15 @@
             },
             "annual_production_value": 175000,
             "foundation_year": 1931,
-            "corporation_year": 1935
+            "corporation_year": 1935,
+            "employees_total": 30
         },
         "manager": "Axel Bolander",
         "coordinates": {
             "Latitude": 57.66859969999999,
             "Longitude": 13.4328388
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "Norrahammars Bruk",
@@ -172,13 +178,14 @@
             "employees": {
                 "industriarb": 1100
             },
-            "annual_turnover": 20000000
+            "annual_turnover": 20000000,
+            "employees_total": 1100
         },
         "foundation_year": 1877,
         "coordinates": {
             "Latitude": 57.6970541,
             "Longitude": 14.1095846
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

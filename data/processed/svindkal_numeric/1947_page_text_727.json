@@ -17,7 +17,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 325000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 15
         },
         "foundation_year": 1899,
         "board": [
@@ -55,7 +56,7 @@
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Tryckeri AB. Framtiden i Malmö",
@@ -74,7 +75,8 @@
                 "tekn. avd.": 73
             },
             "annual_turnover": 2500000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 73
         },
         "foundation_year": 1897,
         "board": [
@@ -116,7 +118,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Tryckeri AB. Småland",
@@ -136,7 +138,8 @@
                 "industriarb": 49
             },
             "annual_turnover": 1060000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 49
         },
         "foundation_year": 1902,
         "board": [
@@ -174,7 +177,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "Tryckeri AB. Svea",
@@ -193,7 +196,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 650000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 30
         },
         "corporation_year": 1902,
         "board": [
@@ -215,7 +219,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "Tryckeri AB. Sätherlund & Krook",
@@ -234,7 +238,8 @@
                 "industriarb": 14
             },
             "annual_turnover": 190000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 14
         },
         "corporation_year": 1917,
         "board": [
@@ -256,7 +261,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "Tryckerl AB. Thule",
@@ -275,7 +280,8 @@
                 "industriarb": 90
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 90
         },
         "corporation_year": 1926,
         "board": [
@@ -301,7 +307,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "7": {
         "name": "AB. Tryckfärger",
@@ -320,7 +326,8 @@
                 "industriarb": 9
             },
             "annual_turnover": 700000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 9
         },
         "corporation_year": 1924,
         "board": [
@@ -341,7 +348,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "8": {
         "name": "AB. Tryckrör",
@@ -358,6 +365,6 @@
             "Latitude": 55.5724415,
             "Longitude": 12.9147749
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

@@ -19,7 +19,8 @@
             "employees": {
                 "manufacturing": 20
             },
-            "annual_turnover": 550000
+            "annual_turnover": 550000,
+            "employees_total": 20
         },
         "foundation_year": 1928,
         "current_name_year": "Not applicable",
@@ -38,7 +39,7 @@
             "Latitude": 57.8574137,
             "Longitude": 14.1312259
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Eric Andersson & Co. Skofabriker",
@@ -61,7 +62,8 @@
             "employees": {
                 "manufacturing": 90
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 90
         },
         "foundation_year": 1938,
         "current_name_year": "Not applicable",
@@ -94,7 +96,7 @@
             "Latitude": 59.0665316,
             "Longitude": 15.10229
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "Erik Andersson, Byggmästare",
@@ -116,7 +118,8 @@
             "employees": {
                 "manufacturing": 20
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 20
         },
         "foundation_year": "Not available",
         "current_name_year": "Not applicable",
@@ -135,7 +138,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 0
+        "cluster": 6
     },
     "4": {
         "name": "Erik Anderssons Tröskmaskinfabrik",
@@ -158,7 +161,8 @@
             "employees": {
                 "manufacturing": 30
             },
-            "annual_turnover": 360000
+            "annual_turnover": 360000,
+            "employees_total": 30
         },
         "foundation_year": 1902,
         "current_name_year": "Not applicable",
@@ -177,7 +181,7 @@
             "Latitude": 59.3100677,
             "Longitude": 14.1089192
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "Ernst Andersson Handskfabrik AB.",
@@ -199,7 +203,8 @@
             "employees": {
                 "manufacturing": 40
             },
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 40
         },
         "foundation_year": 1906,
         "current_name_year": 1945,
@@ -240,7 +245,8 @@
             "employees": {
                 "manufacturing": 35
             },
-            "annual_turnover": 880000
+            "annual_turnover": 880000,
+            "employees_total": 35
         },
         "foundation_year": 1918,
         "current_name_year": "Not applicable",
@@ -280,7 +286,7 @@
             "Latitude": 56.1989241,
             "Longitude": 15.6562896
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. Herbert Anderssons Möbelverkstäder",
@@ -302,7 +308,8 @@
             "employees": {
                 "manufacturing": "Not available"
             },
-            "annual_turnover": "Not available"
+            "annual_turnover": "Not available",
+            "employees_total": 0
         },
         "foundation_year": "Not available",
         "current_name_year": "Not applicable",
@@ -321,6 +328,6 @@
             "Latitude": 55.55091470000001,
             "Longitude": 14.1756804
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

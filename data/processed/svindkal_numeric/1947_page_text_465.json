@@ -13,7 +13,8 @@
             "employees": {
                 "Arb.-antal": 5
             },
-            "annual_turnover": 40000
+            "annual_turnover": 40000,
+            "employees_total": 5
         },
         "foundation_year": 1926,
         "owners": [
@@ -25,7 +26,7 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 1
+        "cluster": 12
     },
     "2": {
         "name": "AB. Lidköpings Vikingsågar",
@@ -44,7 +45,8 @@
             "capital": 300000,
             "employees": {
                 "Antal industriarb.": 110
-            }
+            },
+            "employees_total": 110
         },
         "foundation_year": 1915,
         "corporation_year": 1922,
@@ -74,7 +76,7 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Lidköpings Wärmelednings-Industri",
@@ -92,7 +94,8 @@
             "employees": {
                 "Antal industriarb.": 70
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 70
         },
         "foundation_year": 1922,
         "corporation_year": 1925,
@@ -115,7 +118,7 @@
             "Latitude": 58.3805528,
             "Longitude": 12.9721839
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "»Lifaco», Livsmedels Fabrikations Co. AB.",
@@ -134,7 +137,8 @@
             "employees": {
                 "Antal industriarb.": 25
             },
-            "annual_turnover": 1400000
+            "annual_turnover": 1400000,
+            "employees_total": 25
         },
         "foundation_year": 1939,
         "board": [
@@ -148,7 +152,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Liljedahls Skofabrik AB.",
@@ -164,7 +168,8 @@
             "employees": {
                 "Antal industriarb.": 20
             },
-            "annual_turnover": 180000
+            "annual_turnover": 180000,
+            "employees_total": 20
         },
         "foundation_year": 1929,
         "corporation_year": 1938,
@@ -173,7 +178,7 @@
             "Latitude": 59.5976983,
             "Longitude": 15.2229108
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "AB. Liljeholmens Kabelfabrik",
@@ -190,12 +195,13 @@
             "capital": 1500000,
             "employees": {
                 "Antal industriarb.": 550
-            }
+            },
+            "employees_total": 550
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

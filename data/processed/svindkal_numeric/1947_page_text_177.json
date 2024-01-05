@@ -34,7 +34,8 @@
             "capital": 480000,
             "employees": {
                 "industriarb": 750
-            }
+            },
+            "employees_total": 750
         },
         "foundation_year": 1903,
         "current_name_year": 1946,
@@ -62,7 +63,7 @@
             "Latitude": 59.5976983,
             "Longitude": 15.2229108
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Bergbom & Co. AB.",
@@ -92,7 +93,8 @@
             "capital": 150000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1939,
         "current_name_year": "",
@@ -120,7 +122,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Bergdala Glasbruk",
@@ -141,7 +143,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 60
         },
         "foundation_year": 1889,
         "current_name_year": "",
@@ -161,7 +164,7 @@
             "Latitude": 56.78451219999999,
             "Longitude": 15.1448475
         },
-        "cluster": 8
+        "cluster": 0
     },
     "4": {
         "name": "AB. Bergendahl och Höckert",
@@ -184,7 +187,8 @@
         },
         "financials": {
             "capital": 200000,
-            "annual_turnover": 7000000
+            "annual_turnover": 7000000,
+            "employees_total": 0
         },
         "foundation_year": 1932,
         "current_name_year": 1943,
@@ -208,7 +212,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 6
     },
     "5": {
         "name": "Bergendahls Boktryckeri",
@@ -228,7 +232,8 @@
         "financials": {
             "capital": "",
             "employees": {},
-            "annual_turnover": ""
+            "annual_turnover": "",
+            "employees_total": 0
         },
         "foundation_year": 1905,
         "current_name_year": "",
@@ -243,7 +248,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "B. Bergendorffs Verkstäder",
@@ -264,7 +269,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 175000
+            "annual_turnover": 175000,
+            "employees_total": 25
         },
         "foundation_year": 1940,
         "current_name_year": "",
@@ -279,6 +285,6 @@
             "Latitude": 56.8025533,
             "Longitude": 12.969062
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

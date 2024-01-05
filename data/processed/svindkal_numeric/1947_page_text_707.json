@@ -12,7 +12,7 @@
             "Latitude": 57.68333329999999,
             "Longitude": 14.0833333
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Sörfors Liefabrik",
@@ -29,7 +29,8 @@
             "employees": {
                 "industriarb": 5
             },
-            "annual_turnover": 40000
+            "annual_turnover": 40000,
+            "employees_total": 5
         },
         "foundation_year": 1911,
         "owners": [
@@ -39,7 +40,7 @@
             "Latitude": 62.96666699999999,
             "Longitude": 18.016667
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "AB. Johan Sörling",
@@ -58,7 +59,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 100
         },
         "foundation_year": 1924,
         "corporation_year": 1942,
@@ -67,7 +69,7 @@
             "Latitude": 59.6196463,
             "Longitude": 17.8555094
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Sörmlands Fruktkonserver",
@@ -84,7 +86,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 1300000
+            "annual_turnover": 1300000,
+            "employees_total": 40
         },
         "foundation_year": 1935,
         "director": "Tage Gutestam",
@@ -92,7 +95,7 @@
             "Latitude": 58.99555109999999,
             "Longitude": 16.2054756
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "AB. Sörmländsk Möbelindustri",
@@ -107,7 +110,8 @@
             "employees": {
                 "industriarb": 28
             },
-            "annual_turnover": 160000
+            "annual_turnover": 160000,
+            "employees_total": 28
         },
         "foundation_year": 1925,
         "director": "Em. östergren",
@@ -115,7 +119,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Sörstafors Pappersbruks AB.",
@@ -135,7 +139,8 @@
             "employees": {
                 "industriarb": 300
             },
-            "annual_turnover": "7,000 ton papper o. 8,000 ton fläkttorkad stark sulfitmassa för avsalu"
+            "annual_turnover": "7,000 ton papper o. 8,000 ton fläkttorkad stark sulfitmassa för avsalu",
+            "employees_total": 300
         },
         "foundation_year": 1944,
         "owner": "AB. T. Bliichers Pappersindustri, Kvidinge",
@@ -167,7 +172,7 @@
             "Latitude": 59.58202009999999,
             "Longitude": 16.2120456
         },
-        "cluster": 7
+        "cluster": 17
     },
     "7": {
         "name": "Söråkers Sulfitfabrik",
@@ -195,7 +200,8 @@
             "capital": 15000,
             "employees": {
                 "industriarb": 35
-            }
+            },
+            "employees_total": 35
         },
         "foundation_year": 1940,
         "director": "E. M. Lorentzon",
@@ -203,6 +209,6 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

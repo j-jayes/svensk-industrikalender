@@ -18,7 +18,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 60
         },
         "foundation_year": 1918,
         "corporation_year": 1934,
@@ -26,7 +27,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 1
+        "cluster": 5
     },
     "2": {
         "name": "AB. Skjutfönster",
@@ -47,13 +48,14 @@
             "employees": {
                 "industriarb": 4
             },
-            "corporation_year": 1934
+            "corporation_year": 1934,
+            "employees_total": 4
         },
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 0
     },
     "3": {
         "name": "AB. Sko-Cement",
@@ -72,13 +74,14 @@
             "employees": {
                 "arb-antal": 10
             },
-            "foundation_year": 1912
+            "foundation_year": 1912,
+            "employees_total": 10
         },
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 3
     },
     "4": {
         "name": "Skofabriken Eyra",
@@ -95,14 +98,15 @@
                 "industriarb": 25
             },
             "annual_turnover": 300000,
-            "corporation_year": 1945
+            "corporation_year": 1945,
+            "employees_total": 25
         },
         "foundation_year": 1920,
         "coordinates": {
             "Latitude": 55.7939999,
             "Longitude": 13.1104293
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "Skofabriken Hebe AB.",
@@ -120,7 +124,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 440000,
-            "corporation_year": 1938
+            "corporation_year": 1938,
+            "employees_total": 40
         },
         "foundation_year": 1919,
         "coordinates": {
@@ -145,13 +150,14 @@
             },
             "annual_turnover": 400000,
             "foundation_year": 1924,
-            "corporation_year": 1931
+            "corporation_year": 1931,
+            "employees_total": 40
         },
         "coordinates": {
             "Latitude": 59.2599776,
             "Longitude": 15.2441033
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "Skofabriken Johansson &amp; Söner",
@@ -167,7 +173,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 15
         },
         "foundation_year": 1916,
         "corporation_year": 1930,
@@ -175,7 +182,7 @@
             "Latitude": 56.90273329999999,
             "Longitude": 12.4888013
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "Skofabriken Ree",
@@ -191,13 +198,14 @@
                 "industriarb": 30
             },
             "annual_turnover": 300000,
-            "foundation_year": 1931
+            "foundation_year": 1931,
+            "employees_total": 30
         },
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "9": {
         "name": "AB. Skofabriken Rex",
@@ -214,13 +222,14 @@
             "employees": {
                 "industriarb": 150
             },
-            "corporation_year": 1913
+            "corporation_year": 1913,
+            "employees_total": 150
         },
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "10": {
         "name": "Skofabriks AB. Runa",
@@ -234,13 +243,14 @@
         "financials": {
             "capital": 20000,
             "annual_turnover": 100000,
-            "corporation_year": 1931
+            "corporation_year": 1931,
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 9
     },
     "11": {
         "name": "AB. Skofabriken Skändia",
@@ -255,6 +265,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

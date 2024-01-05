@@ -19,14 +19,15 @@
                 "industriarb": 10
             },
             "annual_turnover": 150000,
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 10
         },
         "foundation_year": 1897,
         "coordinates": {
             "Latitude": 58.3816095,
             "Longitude": 15.4364379
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Forss & Son AB",
@@ -42,7 +43,8 @@
             "head_office": ""
         },
         "financials": {
-            "capital": 205200
+            "capital": 205200,
+            "employees_total": 0
         },
         "foundation_year": 1920,
         "corporation_year": 1946,
@@ -65,7 +67,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "3": {
         "name": "J. A* Forss’ AB",
@@ -85,7 +87,8 @@
             "capital": 666000,
             "employees": {
                 "industriarb": 60
-            }
+            },
+            "employees_total": 60
         },
         "foundation_year": 1876,
         "board": [
@@ -137,7 +140,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 25
         },
         "foundation_year": 1880,
         "corporation_year": 1934,
@@ -146,7 +150,7 @@
             "Latitude": 58.1493476,
             "Longitude": 13.9178435
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "AB. Forssa Tegelbruk",
@@ -166,7 +170,8 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_production_value": "4 milj. st. tegelvaror"
+            "annual_production_value": "4 milj. st. tegelvaror",
+            "employees_total": 45
         },
         "foundation_year": 1917,
         "board": [
@@ -189,7 +194,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Forssjö Bruk",
@@ -210,7 +215,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_turnover": "2,000 stds trävaror och 10,000 ton kalk"
+            "annual_turnover": "2,000 stds trävaror och 10,000 ton kalk",
+            "employees_total": 100
         },
         "owner": "frih. Carl J. C:son Bonde",
         "manager": "Axel Ekstrand",
@@ -220,7 +226,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Forssjö Nya Trävaru AB",
@@ -241,7 +247,8 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 150
         },
         "foundation_year": 1913,
         "board": [
@@ -267,6 +274,6 @@
             "Latitude": 58.99555109999999,
             "Longitude": 16.2054756
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

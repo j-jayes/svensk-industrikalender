@@ -16,7 +16,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 120000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 10
         },
         "foundation_year": 1916,
         "owners": [
@@ -26,7 +27,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Alsterbro Glasbruk",
@@ -43,7 +44,8 @@
                 "industriarb": 85
             },
             "annual_turnover": 525000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 85
         },
         "foundation_year": 1871,
         "board": [
@@ -75,7 +77,7 @@
             "Latitude": 56.9381594,
             "Longitude": 15.9127217
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "AB. Alsterfors Glasbruk",
@@ -92,7 +94,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 600000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 100
         },
         "foundation_year": 1886,
         "board": [
@@ -112,7 +115,7 @@
             "Latitude": 56.9147405,
             "Longitude": 15.5692751
         },
-        "cluster": 2
+        "cluster": 0
     },
     "4": {
         "name": "Alstermo Bruks AB.",
@@ -131,7 +134,8 @@
                 "industriarb": 185
             },
             "annual_turnover": 2200000,
-            "annual_production_value": "3,000 ton papp"
+            "annual_production_value": "3,000 ton papp",
+            "employees_total": 185
         },
         "foundation_year": 1865,
         "board": [
@@ -151,7 +155,7 @@
             "Latitude": 56.96666699999999,
             "Longitude": 15.65
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "AB. Alsters Industrier",
@@ -168,7 +172,8 @@
                 "industriarb": 74
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 74
         },
         "foundation_year": 1865,
         "board": [
@@ -188,7 +193,7 @@
             "Latitude": 59.4012898,
             "Longitude": 13.6138993
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Alströms Trikåfabrik",
@@ -204,7 +209,8 @@
                 "industriarb": 10
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 10
         },
         "foundation_year": 1935,
         "board": [
@@ -224,7 +230,7 @@
             "Latitude": 58.1368068,
             "Longitude": 13.337379
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Ragnar Alström AB.",
@@ -243,7 +249,8 @@
                 "industriarb": "N/A"
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1943,
         "board": [
@@ -263,7 +270,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Aluminiseringsverken AB.",
@@ -279,7 +286,8 @@
                 "industriarb": "N/A"
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "board": [
@@ -299,6 +307,6 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

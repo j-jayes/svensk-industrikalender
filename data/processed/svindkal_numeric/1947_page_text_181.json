@@ -16,7 +16,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1918,
         "corporation_year": 1937,
@@ -30,7 +31,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "AB. B. Bergström & Co.",
@@ -60,7 +61,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 25
         },
         "corporation_year": 1934,
         "board": [
@@ -85,7 +87,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "AB. B. Bergströms Borstfabrik",
@@ -103,7 +105,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 15
         },
         "corporation_year": 1943,
         "original_name": "AB. Sj. Åkerlunds Borstfabrik",
@@ -122,7 +125,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 8
+        "cluster": 3
     },
     "4": {
         "name": "Herman Bergström",
@@ -136,7 +139,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "J. L. Bergströms Snickerifabrik",
@@ -150,13 +153,14 @@
             "employees": {
                 "industriarb": 12
             },
-            "annual_production_value": 110000
+            "annual_production_value": 110000,
+            "employees_total": 12
         },
         "coordinates": {
             "Latitude": 58.4759013,
             "Longitude": 16.3234307
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Karl Bergström",
@@ -174,7 +178,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "PauI U. Bergströms AB.",
@@ -182,7 +186,8 @@
         "business": "Skrädderi. Tillverkar och försäljer herr-, dam- och barnkläder.",
         "products": "Varumärken: PUB o. PUB SON.",
         "financials": {
-            "capital": 6000000
+            "capital": 6000000,
+            "employees_total": 0
         },
         "corporation_year": 1905,
         "ownership": "äges av Konsumtionsföreningen Stockholm med omnejd u. p. a.",
@@ -220,7 +225,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Paul Bergsöe & Son AB.",
@@ -236,7 +241,8 @@
             "capital": 315000,
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "corporation_year": 1942,
         "board": [
@@ -259,6 +265,6 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

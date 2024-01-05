@@ -8,7 +8,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_turnover": 1358000
+            "annual_turnover": 1358000,
+            "employees_total": 60
         },
         "foundation_year": 1682,
         "corporation_year": 1899,
@@ -31,7 +32,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 10
     },
     "2": {
         "name": "AB. Hägglund & Söner",
@@ -49,7 +50,8 @@
             "employees": {
                 "industriarb": 800
             },
-            "annual_turnover": 12000000
+            "annual_turnover": 12000000,
+            "employees_total": 800
         },
         "foundation_year": 1899,
         "corporation_year": 1922,
@@ -74,7 +76,7 @@
             "Latitude": 63.29004740000001,
             "Longitude": 18.7166166
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Joh. Hägglund",
@@ -91,7 +93,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_turnover": 1450000
+            "annual_turnover": 1450000,
+            "employees_total": 100
         },
         "corporation_year": 1920,
         "board": [
@@ -113,7 +116,7 @@
             "Latitude": 63.29004740000001,
             "Longitude": 18.7166166
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "Fritz Haeggström AB.",
@@ -131,7 +134,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 50
         },
         "corporation_year": 1930,
         "board": [
@@ -144,7 +148,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Ivar Haeggströms Boktryckeri & Bokförlags AB.",
@@ -159,7 +163,8 @@
             "capital": 800000,
             "employees": {
                 "industriarb": 129
-            }
+            },
+            "employees_total": 129
         },
         "corporation_year": 1899,
         "board": [
@@ -177,7 +182,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "AB. Torsten Häggström",
@@ -195,7 +200,8 @@
                 "industriarb": 32,
                 "hemarbetare": 150
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 182
         },
         "corporation_year": 1934,
         "board": [
@@ -209,7 +215,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 19
     },
     "7": {
         "name": "Häggådalens Mek. Linneväfveriers AB.",
@@ -226,12 +232,13 @@
             "employees": {
                 "industriarb": 211
             },
-            "annual_turnover": 6000000
+            "annual_turnover": 6000000,
+            "employees_total": 211
         },
         "coordinates": {
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

@@ -16,7 +16,8 @@
         "financials": {
             "capital": 500000,
             "annual_turnover": 5000000,
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 0
         },
         "foundation_year": 1943,
         "board": [
@@ -66,7 +67,7 @@
             "Latitude": 56.8790044,
             "Longitude": 14.8058522
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "S. J. Skohgs Verkstäder",
@@ -80,14 +81,15 @@
             "postgiro": "28211"
         },
         "financials": {
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 0
         },
         "foundation_year": 1874,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "Skokompaniet",
@@ -100,14 +102,15 @@
             "postgiro": "132021"
         },
         "financials": {
-            "annual_production_value": 740000
+            "annual_production_value": 740000,
+            "employees_total": 0
         },
         "foundation_year": 1937,
         "coordinates": {
             "Latitude": 62.98592969999999,
             "Longitude": 18.4316649
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "AB. Skorna-Borst",
@@ -122,7 +125,8 @@
         },
         "financials": {
             "capital": 20000,
-            "annual_production_value": 40000
+            "annual_production_value": 40000,
+            "employees_total": 0
         },
         "foundation_year": 1942,
         "director": "Edgar Nathan",
@@ -130,7 +134,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 3
     },
     "5": {
         "name": "Skoogs Motorfabrik, Bröderna",
@@ -160,14 +164,15 @@
         },
         "financials": {
             "capital": 100000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 0
         },
         "foundation_year": 1942,
         "coordinates": {
             "Latitude": 63.36865109999999,
             "Longitude": 17.8712706
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Skriv- & Ritboks-AB.",
@@ -185,6 +190,6 @@
             "Latitude": 55.6402145,
             "Longitude": 13.0886413
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

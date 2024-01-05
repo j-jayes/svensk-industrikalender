@@ -21,7 +21,8 @@
                 "industriarb": 27
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 27
         },
         "foundation_year": 1944,
         "board": [
@@ -43,7 +44,7 @@
             "Latitude": 58.44760219999999,
             "Longitude": 14.8902335
         },
-        "cluster": 2
+        "cluster": 18
     },
     "2": {
         "name": "Wadström St Indebetou",
@@ -67,7 +68,8 @@
                 "industriarb": 110
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 110
         },
         "foundation_year": 1907,
         "board": [
@@ -81,7 +83,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "Vaggeryds Mek. Verkstad",
@@ -104,7 +106,8 @@
                 "industriarb": 28
             },
             "annual_turnover": 350000,
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 28
         },
         "foundation_year": 1912,
         "board": [],
@@ -113,7 +116,7 @@
             "Latitude": 57.4989621,
             "Longitude": 14.1486297
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Waggeryds Möbelfabrik AB",
@@ -137,7 +140,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 600000,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 40
         },
         "foundation_year": 1911,
         "board": [
@@ -159,7 +163,7 @@
             "Latitude": 57.4989621,
             "Longitude": 14.1486297
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Wahlbecks Fabriker",
@@ -189,7 +193,8 @@
                 "industriarb": 700
             },
             "annual_turnover": 10000000,
-            "annual_production_value": 10000000
+            "annual_production_value": 10000000,
+            "employees_total": 700
         },
         "foundation_year": 1876,
         "board": [
@@ -224,6 +229,6 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

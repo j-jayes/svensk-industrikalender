@@ -26,7 +26,7 @@
             "Latitude": 57.1732585,
             "Longitude": 13.9218207
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Härenfars Metallverk",
@@ -46,7 +46,7 @@
             "Latitude": 57.1732585,
             "Longitude": 13.9218207
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Härnö Bryggeri AB.",
@@ -82,7 +82,7 @@
             "Latitude": 62.6322698,
             "Longitude": 17.9408714
         },
-        "cluster": 1
+        "cluster": 16
     },
     "4": {
         "name": "Härryda Fabriks AB.",
@@ -106,7 +106,7 @@
             "Latitude": 57.6917444,
             "Longitude": 12.2944159
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB. Hässle, Apotekare Paul Nordströms Fabriker",
@@ -144,7 +144,7 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "AB. Hässleholms Bryggeri & Maltfabrik",
@@ -185,7 +185,7 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "AB. Hässleholms Kapsylfabrik",
@@ -226,6 +226,6 @@
             "Latitude": 56.15891449999999,
             "Longitude": 13.7667655
         },
-        "cluster": 2
+        "cluster": 0
     }
 }

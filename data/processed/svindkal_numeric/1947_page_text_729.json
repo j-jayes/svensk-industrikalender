@@ -18,7 +18,8 @@
                 "industrial": 150
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 150
         },
         "foundation_year": 1889,
         "board": [
@@ -40,7 +41,7 @@
             "Latitude": 60.5099434,
             "Longitude": 14.2253417
         },
-        "cluster": 1
+        "cluster": 8
     },
     "2": {
         "name": "Träkonstruktioner, AB. Fribärande",
@@ -50,7 +51,7 @@
             "Latitude": 58.70550919999999,
             "Longitude": 14.1261468
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Trämanufaktur, Värnamo",
@@ -60,7 +61,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 1
+        "cluster": 4
     },
     "4": {
         "name": "Träspecialen, David Johansson",
@@ -75,7 +76,8 @@
             "employees": {
                 "industrial": 14
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 14
         },
         "foundation_year": 1934,
         "current_name_year": 1940,
@@ -86,7 +88,7 @@
             "Latitude": 57.1597167,
             "Longitude": 13.403521
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Träullit, AB.",
@@ -106,7 +108,8 @@
             "employees": {
                 "industrial": 80
             },
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 80
         },
         "foundation_year": 1943,
         "board": [
@@ -124,7 +127,7 @@
             "Latitude": 59.5120962,
             "Longitude": 15.9945102
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Träullsbolaget Export, Forserum",
@@ -134,7 +137,7 @@
             "Latitude": 57.69932780000001,
             "Longitude": 14.475408
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "Trävaru AB. Braås",
@@ -144,7 +147,7 @@
             "Latitude": 57.0599208,
             "Longitude": 15.0537039
         },
-        "cluster": 1
+        "cluster": 18
     },
     "8": {
         "name": "Trävaru AB. Dalarne",
@@ -158,7 +161,8 @@
         },
         "financials": {
             "capital": 2500000,
-            "annual_turnover": "19,000,000 kWh"
+            "annual_turnover": "19,000,000 kWh",
+            "employees_total": 0
         },
         "foundation_year": 1892,
         "owners": [
@@ -168,7 +172,7 @@
             "Latitude": 60.5099434,
             "Longitude": 14.2253417
         },
-        "cluster": 1
+        "cluster": 2
     },
     "9": {
         "name": "Trävaruindustrin, B. Johansson",
@@ -183,7 +187,8 @@
             "employees": {
                 "industrial": 12
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 12
         },
         "foundation_year": 1944,
         "owners": [
@@ -193,7 +198,7 @@
             "Latitude": 57.1597167,
             "Longitude": 13.403521
         },
-        "cluster": 8
+        "cluster": 15
     },
     "10": {
         "name": "Trävaru AB. N. Chr. Jensen",
@@ -203,7 +208,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 7
+        "cluster": 8
     },
     "11": {
         "name": "Trävaru AB. Kronoberg",
@@ -214,6 +219,6 @@
             "Latitude": 56.8948099,
             "Longitude": 14.7334953
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

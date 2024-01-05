@@ -7,7 +7,8 @@
             "telegraph": "Syrgas verken"
         },
         "financials": {
-            "capital": "2.000.000 kr"
+            "capital": "2.000.000 kr",
+            "employees_total": 0
         },
         "foundation_year": 1907,
         "board": [
@@ -35,7 +36,7 @@
             "Latitude": 63.5671062,
             "Longitude": 19.5050216
         },
-        "cluster": 1
+        "cluster": 4
     },
     "2": {
         "name": "AB. Nordiska Tapetfabriken",
@@ -50,7 +51,8 @@
             "postgiro": "37317"
         },
         "financials": {
-            "capital": "400.000 kr"
+            "capital": "400.000 kr",
+            "employees_total": 0
         },
         "foundation_year": 1905,
         "board": [
@@ -73,7 +75,7 @@
             "Latitude": 59.6548534,
             "Longitude": 12.592136
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "*AB. Nordiska Tubfabriken",
@@ -85,7 +87,8 @@
             "postgiro": "76670"
         },
         "financials": {
-            "capital": "137.500 kr"
+            "capital": "137.500 kr",
+            "employees_total": 0
         },
         "foundation_year": 1917,
         "board": [
@@ -108,7 +111,7 @@
             "Latitude": 59.422397,
             "Longitude": 16.097786
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "*Nordiska Värme- & Ventilations AB.",
@@ -121,7 +124,8 @@
             "postgiro": "42160"
         },
         "financials": {
-            "capital": "900.000 kr"
+            "capital": "900.000 kr",
+            "employees_total": 0
         },
         "foundation_year": 1903,
         "board": [
@@ -145,7 +149,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "*AB. Nordiska Yllefabriken",
@@ -160,7 +164,8 @@
             "postgiro": "11106"
         },
         "financials": {
-            "capital": "100.000 kr"
+            "capital": "100.000 kr",
+            "employees_total": 0
         },
         "foundation_year": 1938,
         "director": "Christian Schnock",
@@ -169,7 +174,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "d. F. Nordlöf",
@@ -185,7 +190,8 @@
             "postgiro": "40826"
         },
         "financials": {
-            "capital": "Undisclosed"
+            "capital": "Undisclosed",
+            "employees_total": 0
         },
         "foundation_year": 1875,
         "director": "Sam. Bjerkander",
@@ -193,7 +199,7 @@
             "Latitude": 57.7694839,
             "Longitude": 12.2688197
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "*Nordmalings Angsågs AB.",
@@ -206,7 +212,8 @@
             "postgiro": "62486"
         },
         "financials": {
-            "capital": "Undisclosed"
+            "capital": "Undisclosed",
+            "employees_total": 0
         },
         "foundation_year": "Undisclosed",
         "director": "Undisclosed",
@@ -214,6 +221,6 @@
             "Latitude": 63.5671062,
             "Longitude": 19.5050216
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

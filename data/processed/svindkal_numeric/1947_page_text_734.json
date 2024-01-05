@@ -17,7 +17,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 1100000,
-            "annual_production_value": 1100000
+            "annual_production_value": 1100000,
+            "employees_total": 60
         },
         "foundation_year": 1873,
         "corporation_year": 1935,
@@ -42,7 +43,7 @@
             "Latitude": 60.1554628,
             "Longitude": 16.9308825
         },
-        "cluster": 3
+        "cluster": 9
     },
     "2": {
         "name": "AB. Tölö Fabriker",
@@ -61,7 +62,8 @@
             "employees": {
                 "industriarb": 8
             },
-            "corporation_year": 1920
+            "corporation_year": 1920,
+            "employees_total": 8
         },
         "board": [
             {
@@ -83,7 +85,7 @@
             "Latitude": 57.48749189999999,
             "Longitude": 12.0761927
         },
-        "cluster": 7
+        "cluster": 17
     },
     "3": {
         "name": "Tönnångers Trävaru AB.",
@@ -102,7 +104,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": "500 stds sågade o. 1,500 stds hyvlade trävaror"
+            "annual_production_value": "500 stds sågade o. 1,500 stds hyvlade trävaror",
+            "employees_total": 35
         },
         "foundation_year": 1919,
         "board": [
@@ -124,7 +127,7 @@
             "Latitude": 61.1131277,
             "Longitude": 16.7279774
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "AB. Tönseth & Co.",
@@ -143,7 +146,8 @@
             "employees": {
                 "industriarb": 300
             },
-            "annual_turnover": 5000000
+            "annual_turnover": 5000000,
+            "employees_total": 300
         },
         "foundation_year": 1921,
         "corporation_year": 1928,
@@ -167,7 +171,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Töreboda Cjuteri & Mek. Verkstads AB.",
@@ -186,7 +190,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 380000
+            "annual_production_value": 380000,
+            "employees_total": 40
         },
         "foundation_year": 1918,
         "director": "Sven Wall",
@@ -194,7 +199,7 @@
             "Latitude": 58.70550919999999,
             "Longitude": 14.1261468
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Töreboda Keramikfabrik, B. Johansson",
@@ -212,7 +217,8 @@
             "employees": {
                 "industriarb": 7
             },
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 7
         },
         "foundation_year": 1941,
         "manager": "Birger Johansson",
@@ -220,7 +226,7 @@
             "Latitude": 58.70550919999999,
             "Longitude": 14.1261468
         },
-        "cluster": 6
+        "cluster": 0
     },
     "7": {
         "name": "AB. Töreboda Tegelbruk",
@@ -240,7 +246,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": "10 milj. st. tegelvaror"
+            "annual_production_value": "10 milj. st. tegelvaror",
+            "employees_total": 35
         },
         "corporation_year": 1927,
         "board": [
@@ -257,6 +264,6 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

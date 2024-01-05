@@ -16,7 +16,8 @@
                 "Arbetsantal": 12
             },
             "annual_turnover": 150000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 12
         },
         "foundation_year": 1911,
         "owner": "fabr. Knut Petrelius",
@@ -24,7 +25,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "Peterson & Co.",
@@ -40,7 +41,8 @@
             "capital": "N/A",
             "employees": "N/A",
             "annual_turnover": 1350000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1921,
         "owner": "grossh. Peter Tellow",
@@ -48,7 +50,7 @@
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Pettersson, Engström & Co.",
@@ -65,7 +67,8 @@
                 "Antal industriarb": 25
             },
             "annual_turnover": 225000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 25
         },
         "foundation_year": 1909,
         "owner": "fabr. Henning S. Pers",
@@ -73,7 +76,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Pettersson & Perssons Möbelfabriks AB.",
@@ -89,7 +92,8 @@
                 "Antal industriarb": 45
             },
             "annual_turnover": 350000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 45
         },
         "foundation_year": 1895,
         "corporation_year": 1928,
@@ -98,7 +102,7 @@
             "Latitude": 56.2914154,
             "Longitude": 13.7097126
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "AB. Pettersson & Tisell",
@@ -114,7 +118,8 @@
                 "Antal industriarb": 75
             },
             "annual_turnover": 1500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 75
         },
         "foundation_year": 1885,
         "corporation_year": 1928,
@@ -137,7 +142,7 @@
             "Latitude": 57.5270879,
             "Longitude": 12.7293925
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Arvid Petersson",
@@ -152,7 +157,8 @@
                 "Arb.-antal": 12
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 12
         },
         "foundation_year": 1920,
         "owner": "trävaruhandl. Arvid Petersson",
@@ -160,7 +166,7 @@
             "Latitude": 57.3196489,
             "Longitude": 14.5937415
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. C. A. Petterson",
@@ -179,7 +185,8 @@
                 "Antal industriarb": 150
             },
             "annual_turnover": 1300000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 150
         },
         "foundation_year": 1906,
         "board": [
@@ -201,7 +208,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "AB. C. E. Petterssons Träförädlings-fabrik",
@@ -214,7 +221,8 @@
             "capital": "N/A",
             "employees": "N/A",
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "predecessor": "N/A",
         "foundation_year": "N/A",
@@ -228,6 +236,6 @@
             "Latitude": 58.20245139999999,
             "Longitude": 16.6013626
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

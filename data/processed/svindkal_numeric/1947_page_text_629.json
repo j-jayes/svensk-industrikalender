@@ -20,7 +20,8 @@
         "financials": {
             "capital": 500000,
             "annual_turnover": 1000000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1893,
         "predecessor": "",
@@ -56,7 +57,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Skånska Cement AB",
@@ -81,7 +82,8 @@
         "financials": {
             "capital": 28000000,
             "annual_turnover": 39000000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1871,
         "predecessor": "",
@@ -117,7 +119,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "AB. Skånska Gementgjuteriet",
@@ -166,7 +168,8 @@
         "financials": {
             "capital": 6000000,
             "annual_turnover": 85000000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 1887,
         "predecessor": "",
@@ -198,6 +201,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

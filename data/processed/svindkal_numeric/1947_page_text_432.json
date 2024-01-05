@@ -13,7 +13,8 @@
             "capital": 120000,
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1892,
         "corporation_year": 1910,
@@ -38,7 +39,7 @@
             "Latitude": 57.107118,
             "Longitude": 12.2520907
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Kocks Snickerifabriker AB.",
@@ -55,7 +56,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 60
         },
         "foundation_year": 1917,
         "corporation_year": 1945,
@@ -78,7 +80,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Kockums Jernverks AB.",
@@ -121,7 +123,8 @@
                 "'700": 19,
                 "'000,000 kr": 1,
                 "'900,000": 1
-            }
+            },
+            "employees_total": 22
         },
         "foundation_year": 1875,
         "board": [
@@ -156,7 +159,7 @@
             "Latitude": 56.2427292,
             "Longitude": 15.291613
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Kockums Mekaniska Verkstads AB.",
@@ -175,7 +178,8 @@
                 "'500": 60,
                 "'000,000 kr": 60,
                 "'000,000": 1
-            }
+            },
+            "employees_total": 124
         },
         "foundation_year": 1840,
         "corporation_year": 1866,
@@ -194,6 +198,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

@@ -19,7 +19,8 @@
             "capital": "N/A",
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "current_name_year": "N/A",
@@ -36,7 +37,7 @@
             "Latitude": 63.416667,
             "Longitude": 17.8
         },
-        "cluster": 2
+        "cluster": 16
     },
     "2": {
         "name": "Jochnick & Norrmans Mek. Verkstad",
@@ -59,7 +60,8 @@
             "capital": 100000,
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": 750000
+            "annual_production_value": 750000,
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "current_name_year": "N/A",
@@ -76,7 +78,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Jofa, Jonssons Fabriker AB.",
@@ -111,7 +113,8 @@
             "capital": 600000,
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "current_name_year": "N/A",
@@ -150,7 +153,8 @@
             "capital": "N/A",
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "current_name_year": "N/A",
@@ -190,7 +194,8 @@
             "capital": "N/A",
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 0
         },
         "foundation_year": 1935,
         "current_name_year": "N/A",
@@ -209,7 +214,7 @@
             "Latitude": 59.3346543,
             "Longitude": 18.0636679
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Johannesborgs Möbelfabriks AB.",
@@ -231,7 +236,8 @@
             "capital": 174800,
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "current_name_year": "N/A",
@@ -248,7 +254,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Arne Johannessens Shoddy-fabrik",
@@ -270,7 +276,8 @@
             "capital": 100000,
             "employees": {},
             "annual_turnover": "N/A",
-            "annual_production_value": 850000
+            "annual_production_value": 850000,
+            "employees_total": 0
         },
         "foundation_year": 1914,
         "current_name_year": "N/A",
@@ -287,6 +294,6 @@
             "Latitude": 57.7366497,
             "Longitude": 12.1251968
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

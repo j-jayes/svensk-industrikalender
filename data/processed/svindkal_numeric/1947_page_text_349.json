@@ -21,7 +21,8 @@
                 "industrial_workers": 35
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 35
         },
         "foundation_year": 1857,
         "owners": [
@@ -33,7 +34,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Hammars Tegelbruk",
@@ -49,7 +50,8 @@
             "capital": 20200,
             "employees": {},
             "annual_turnover": "1,5 milj. st. tegelvaror",
-            "annual_production_value": "1,5 milj. st. tegelvaror"
+            "annual_production_value": "1,5 milj. st. tegelvaror",
+            "employees_total": 0
         },
         "foundation_year": 1909,
         "board": [
@@ -62,7 +64,7 @@
             "Latitude": 57.89316029999999,
             "Longitude": 16.4060887
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Olof Hammarberg",
@@ -80,7 +82,8 @@
                 "workers": 12
             },
             "annual_turnover": 150000,
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 12
         },
         "foundation_year": 1847,
         "owners": [
@@ -90,7 +93,7 @@
             "Latitude": 57.6833243,
             "Longitude": 11.8905052
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Hammarby Bakelit Industri AB.",
@@ -109,7 +112,8 @@
                 "industrial_workers": 90
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 90
         },
         "foundation_year": 1941,
         "board": [
@@ -131,7 +135,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 9
     },
     "5": {
         "name": "AB. Hammarbyverken, Stockholm",
@@ -150,7 +154,8 @@
                 "industrial_workers": 221
             },
             "annual_turnover": 3800000,
-            "annual_production_value": 3800000
+            "annual_production_value": 3800000,
+            "employees_total": 221
         },
         "board": [
             {
@@ -167,7 +172,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Hammargren & C:o AB., Anneberg",
@@ -184,12 +189,13 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

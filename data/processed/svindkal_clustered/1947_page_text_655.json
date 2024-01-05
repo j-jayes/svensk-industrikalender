@@ -37,7 +37,7 @@
             "Latitude": 56.78451219999999,
             "Longitude": 15.1448475
         },
-        "cluster": 2
+        "cluster": 0
     },
     "2": {
         "name": "Strömma Bomulls Spinneri AB.",
@@ -94,7 +94,7 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "AB. Strömma Trikåfabrik",
@@ -133,7 +133,7 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "AB. Strömman & Larsson",
@@ -172,7 +172,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Strömnäs AB.",
@@ -217,7 +217,7 @@
             "Latitude": 62.9284332,
             "Longitude": 17.7862947
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Strömsfors Bruk",
@@ -246,6 +246,6 @@
             "Latitude": 58.6881774,
             "Longitude": 16.3416045
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

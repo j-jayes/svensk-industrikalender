@@ -17,7 +17,8 @@
                 "Arb.-antal": 12
             },
             "annual_turnover": 840000,
-            "annual_production_value": 840000
+            "annual_production_value": 840000,
+            "employees_total": 12
         },
         "foundation_year": 1898,
         "corporation_year": 1921,
@@ -26,7 +27,7 @@
             "Latitude": 59.38053900000001,
             "Longitude": 13.8507171
         },
-        "cluster": 7
+        "cluster": 13
     },
     "2": {
         "name": "Väsk-Fabriks AB.",
@@ -42,7 +43,8 @@
             "employees": {
                 "Antal industriarb.": 65
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 65
         },
         "foundation_year": 1934,
         "board": [
@@ -83,7 +85,8 @@
             "employees": {
                 "Antal industriarb.": 70
             },
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 70
         },
         "foundation_year": 1932,
         "owners": [
@@ -111,7 +114,8 @@
             "employees": {
                 "Antal industriarb.": 45
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 45
         },
         "foundation_year": 1928,
         "director": "ing. Jae. E. Jacobsson",
@@ -119,7 +123,7 @@
             "Latitude": 59.9929333,
             "Longitude": 15.826962
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Västerbo Tegelbruk",
@@ -138,7 +142,7 @@
             "Latitude": 59.9846844,
             "Longitude": 16.47621
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Västergötlands Förenade Kalkindustrier",
@@ -152,7 +156,8 @@
             "capital": 1575000,
             "employees": {
                 "Antal industriarb.": 230
-            }
+            },
+            "employees_total": 230
         },
         "foundation_year": 1918,
         "board": [
@@ -173,7 +178,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 0
+        "cluster": 2
     },
     "7": {
         "name": "AB. Västerviks Motorfabrik",
@@ -188,7 +193,8 @@
             "employees": {
                 "Antal industriarb.": 30
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 30
         },
         "foundation_year": 1910,
         "corporation_year": 1936,
@@ -198,7 +204,7 @@
             "Latitude": 57.75771559999999,
             "Longitude": 16.6369759
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "Westerviks Pappersbruks AB.",
@@ -213,6 +219,6 @@
             "Latitude": 57.75771559999999,
             "Longitude": 16.6369759
         },
-        "cluster": 7
+        "cluster": 17
     }
 }

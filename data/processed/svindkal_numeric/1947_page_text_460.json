@@ -8,7 +8,8 @@
             "postgiro": "N/A"
         },
         "financials": {
-            "capital": "N/A"
+            "capital": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1930,
         "board": [
@@ -33,7 +34,7 @@
             "Latitude": 56.423635,
             "Longitude": 12.6273003
         },
-        "cluster": 1
+        "cluster": 3
     },
     "2": {
         "name": "AB. Lauxein-Casco",
@@ -54,7 +55,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 6000000,
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 100
         },
         "foundation_year": 1929,
         "current_name_year": 1930,
@@ -80,7 +82,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "Lavoné-fabriken, AB. Magnus Jernberg",
@@ -100,7 +102,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 600000,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 20
         },
         "foundation_year": 1934,
         "board": [
@@ -114,7 +117,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "Laxå Bruks AB., Laxå",
@@ -132,7 +135,8 @@
             "capital": 2000000,
             "employees": {
                 "industriarb": 210
-            }
+            },
+            "employees_total": 210
         },
         "foundation_year": 1872,
         "board": [
@@ -155,7 +159,7 @@
             "Latitude": 58.98269,
             "Longitude": 14.62289
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "AB. Laxå Pappersbruk, Örebro",
@@ -173,7 +177,8 @@
             "capital": 110000,
             "employees": {
                 "industriarb": 80
-            }
+            },
+            "employees_total": 80
         },
         "foundation_year": 1938,
         "board": [
@@ -192,7 +197,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "AB. Lee Bruk, Ed",
@@ -211,7 +216,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 50
         },
         "foundation_year": 1910,
         "manager": "Ole Anker Rasch (Halden, Norge)",
@@ -220,7 +226,7 @@
             "Latitude": 58.9122731,
             "Longitude": 11.9327196
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Leidesdorffska Fiskredskaps-fabriken, Stockholm",
@@ -236,7 +242,8 @@
             "telegraph": "Leidesdorff, Stockholm"
         },
         "financials": {
-            "capital": 125000
+            "capital": 125000,
+            "employees_total": 0
         },
         "foundation_year": 1861,
         "board": [
@@ -258,6 +265,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

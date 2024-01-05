@@ -16,7 +16,8 @@
                 "industriarb": 850
             },
             "annual_turnover": 10000000,
-            "annual_production_value": 10000000
+            "annual_production_value": 10000000,
+            "employees_total": 850
         },
         "foundation_year": 1909,
         "corporation_year": 1921,
@@ -41,14 +42,15 @@
             "employees": {
                 "industriarb": 85
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 85
         },
         "foundation_year": 1933,
         "coordinates": {
             "Latitude": 59.04337529999999,
             "Longitude": 15.8709394
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Bröderna Edfasts Skofabrik",
@@ -62,14 +64,15 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 35
         },
         "foundation_year": 1930,
         "coordinates": {
             "Latitude": 65.8567851,
             "Longitude": 22.2889188
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "Bröderna Edmans Stolfabrik",
@@ -81,14 +84,15 @@
         "financials": {
             "employees": {
                 "industriarb": 23
-            }
+            },
+            "employees_total": 23
         },
         "foundation_year": 1941,
         "coordinates": {
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Bröderna Ekbergs Eftr. O. Ekberg",
@@ -102,7 +106,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 750000
+            "annual_turnover": 750000,
+            "employees_total": 30
         },
         "foundation_year": 1919,
         "director": "Oskar Ekberg",
@@ -111,7 +116,7 @@
             "Latitude": 63.29004740000001,
             "Longitude": 18.7166166
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Bröderna Engblom & C:o.",
@@ -128,14 +133,15 @@
         "financials": {
             "employees": {
                 "industriarb": 60
-            }
+            },
+            "employees_total": 60
         },
         "foundation_year": 1917,
         "coordinates": {
             "Latitude": 59.3100677,
             "Longitude": 14.1089192
         },
-        "cluster": 6
+        "cluster": 3
     },
     "7": {
         "name": "AB. Bröderna Engdahls Möbelfabrik",
@@ -150,7 +156,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 275000
+            "annual_turnover": 275000,
+            "employees_total": 30
         },
         "foundation_year": 1916,
         "corporation_year": 1936,
@@ -159,7 +166,7 @@
             "Latitude": 58.0063012,
             "Longitude": 14.5753035
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "AB. Bröderna Envall",
@@ -177,7 +184,8 @@
             "employees": {
                 "industriarb": 75
             },
-            "annual_turnover": 1100000
+            "annual_turnover": 1100000,
+            "employees_total": 75
         },
         "foundation_year": 1909,
         "corporation_year": 1942,
@@ -200,7 +208,7 @@
             "Latitude": 59.4336976,
             "Longitude": 15.5915016
         },
-        "cluster": 6
+        "cluster": 7
     },
     "9": {
         "name": "Bröderna Eriksons Mek. Snickerifabrik",
@@ -217,7 +225,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 55
         },
         "foundation_year": 1885,
         "manager": "O. Welin",
@@ -225,6 +234,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

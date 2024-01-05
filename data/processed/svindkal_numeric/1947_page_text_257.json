@@ -18,7 +18,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 50
         },
         "foundation_year": 1913,
         "owners": [
@@ -29,7 +30,7 @@
             "Latitude": 59.34248889999999,
             "Longitude": 18.0450243
         },
-        "cluster": 1
+        "cluster": 15
     },
     "2": {
         "name": "AB. Ekparkett, Falkenberg",
@@ -49,7 +50,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 70
         },
         "foundation_year": 1933,
         "original_name": "Burseryds Parkett AB",
@@ -62,7 +64,7 @@
             "Latitude": 56.90273329999999,
             "Longitude": 12.4888013
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Eksjö Fabriks Bolag, Skillingaryd",
@@ -78,7 +80,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 10
         },
         "foundation_year": 1926,
         "owners": [
@@ -88,7 +91,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 8
+        "cluster": 1
     },
     "4": {
         "name": "Eksjö Industri AB., Eksjö",
@@ -108,7 +111,8 @@
             "employees": {
                 "industriarb": 75
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 75
         },
         "foundation_year": 1941,
         "owner": "Gösta Ewerman",
@@ -116,7 +120,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "AB. Eksjö Mek. Verkstad, Eksjö",
@@ -136,7 +140,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 100
         },
         "foundation_year": 1905,
         "owners": [
@@ -148,7 +153,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "AB. Eksjö Möbelfabrik, Eksjö",
@@ -164,7 +169,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 375000
+            "annual_production_value": 375000,
+            "employees_total": 40
         },
         "foundation_year": 1931,
         "owner": "Axel L. Bäck",
@@ -172,7 +178,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Ekskogens Träförädlingsfabrik, Stockholm",
@@ -191,7 +197,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 15
         },
         "foundation_year": 1905,
         "owners": [
@@ -202,7 +209,7 @@
             "Latitude": 59.64100000000001,
             "Longitude": 18.2264415
         },
-        "cluster": 0
+        "cluster": 15
     },
     "8": {
         "name": "Ekstrands Snickares Ekonomiska Förening, u. p. a., Stockholm",
@@ -219,7 +226,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 25
         },
         "foundation_year": 1921,
         "owners": [
@@ -229,7 +237,7 @@
             "Latitude": 59.3,
             "Longitude": 18
         },
-        "cluster": 7
+        "cluster": 15
     },
     "9": {
         "name": "Ekström & Blohm AB., Falköping",
@@ -239,12 +247,13 @@
         "financials": {
             "employees": {
                 "industriarb": 0
-            }
+            },
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

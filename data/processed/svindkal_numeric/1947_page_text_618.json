@@ -30,7 +30,8 @@
                 "industriarb": 400
             },
             "annual_turnover": 8000000,
-            "annual_production_value": 8000000
+            "annual_production_value": 8000000,
+            "employees_total": 400
         },
         "foundation_year": 1906,
         "board": [
@@ -72,7 +73,8 @@
                 "industriarb": 180
             },
             "annual_turnover": 850000,
-            "annual_production_value": 850000
+            "annual_production_value": 850000,
+            "employees_total": 180
         },
         "foundation_year": 1894,
         "board": [
@@ -86,7 +88,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 0
     },
     "3": {
         "name": "AB. Skandinaviska Glödlampfabriken, Nyköping",
@@ -109,7 +111,8 @@
                 "industriarb": 285
             },
             "annual_turnover": 5000000,
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 285
         },
         "foundation_year": 1898,
         "board": [
@@ -130,7 +133,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 6
+        "cluster": 0
     },
     "4": {
         "name": "AB. Skandinaviska Grafiteringsverk, Trollhättan",
@@ -149,7 +152,8 @@
             "capital": 1040000,
             "employees": {
                 "industriarb": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1917,
         "board": [
@@ -170,7 +174,7 @@
             "Latitude": 58.28348939999999,
             "Longitude": 12.2858206
         },
-        "cluster": 1
+        "cluster": 2
     },
     "5": {
         "name": "AB. Skandinaviska Granit AB., Göteborg",
@@ -190,7 +194,8 @@
                 "industriarb": 400
             },
             "annual_turnover": 2000000,
-            "corporation_year": 1905
+            "corporation_year": 1905,
+            "employees_total": 400
         },
         "board": [
             {
@@ -210,7 +215,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Skandinaviska Cruv AB., Hedemora",
@@ -227,7 +232,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "corporation_year": 1941
+            "corporation_year": 1941,
+            "employees_total": 30
         },
         "board": [
             {
@@ -243,7 +249,7 @@
             "Latitude": 60.2775453,
             "Longitude": 15.985892
         },
-        "cluster": 1
+        "cluster": 2
     },
     "7": {
         "name": "AB. Skandinaviska Gummi AB., Viskafors",
@@ -261,7 +267,8 @@
             "employees": {
                 "industriarb": 580
             },
-            "corporation_year": 1890
+            "corporation_year": 1890,
+            "employees_total": 580
         },
         "board": [
             {
@@ -285,6 +292,6 @@
             "Latitude": 57.63374469999999,
             "Longitude": 12.8568382
         },
-        "cluster": 6
+        "cluster": 3
     }
 }

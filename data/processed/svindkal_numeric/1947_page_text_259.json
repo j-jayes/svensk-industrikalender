@@ -18,7 +18,8 @@
                 "total": 7
             },
             "annual_turnover": 90000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 7
         },
         "foundation_year": 1925,
         "owners": [
@@ -30,7 +31,7 @@
             "Latitude": 59.26203809999999,
             "Longitude": 17.22311
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "Elektriska AB. Ergo",
@@ -47,7 +48,8 @@
                 "total": 40
             },
             "annual_turnover": 700000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 40
         },
         "foundation_year": 1922,
         "corporation_year": 1929,
@@ -69,7 +71,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Elektriska AB. Helios",
@@ -89,7 +91,8 @@
                 "total": 740
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 740
         },
         "foundation_year": 1919,
         "board": [
@@ -113,7 +116,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Elektriska Industri AB.y",
@@ -137,7 +140,8 @@
                 "total": 60
             },
             "annual_turnover": 1800000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 60
         },
         "foundation_year": 1916,
         "corporation_year": 1926,
@@ -157,7 +161,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "Elektriska AB. Käwe",
@@ -176,7 +180,8 @@
                 "total": 13
             },
             "annual_turnover": 300000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 13
         },
         "foundation_year": 1934,
         "director": "Karl Andersson",
@@ -184,7 +189,7 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 6
+        "cluster": 18
     },
     "6": {
         "name": "Elektriska AB. Lindström & Andeli",
@@ -211,7 +216,8 @@
                 "total": 84
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 84
         },
         "foundation_year": 1918,
         "corporation_year": 1934,
@@ -220,6 +226,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

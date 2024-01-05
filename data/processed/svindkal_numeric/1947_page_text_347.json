@@ -16,7 +16,8 @@
                 "industriarb": 300
             },
             "annual_turnover": 6000000,
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 300
         },
         "foundation_year": 1872,
         "board": [
@@ -44,7 +45,7 @@
             "Latitude": 59.6132041,
             "Longitude": 16.2294755
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Hallströms Kassaskåps & Mek. Verkstads AB.",
@@ -63,7 +64,8 @@
             "employees": {
                 "industriarb": 14
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 14
         },
         "foundation_year": 1937,
         "manager": "John Hallström",
@@ -71,7 +73,7 @@
             "Latitude": 59.33688530000001,
             "Longitude": 17.9638876
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "Halmstad-Falkenbergs Kvarn AB.",
@@ -97,7 +99,8 @@
                 "Halmstad": 38,
                 "Falkenberg": 25
             },
-            "annual_production_value": 7250000
+            "annual_production_value": 7250000,
+            "employees_total": 63
         },
         "corporation_year": 1929,
         "board": [
@@ -119,7 +122,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Halmstads Järnverks AB.",
@@ -133,7 +136,8 @@
         "financials": {
             "capital": 1080000,
             "employees": 230,
-            "annual_production_value": 7300000
+            "annual_production_value": 7300000,
+            "employees_total": 0
         },
         "corporation_year": 1921,
         "board": [
@@ -163,7 +167,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Halmstads Nya Verkstads AB.",
@@ -177,7 +181,8 @@
         "financials": {
             "capital": 525000,
             "employees": 120,
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1875,
         "director": null,
@@ -186,6 +191,6 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

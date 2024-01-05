@@ -27,7 +27,8 @@
                 "vid sågverket": 55,
                 "vid wallboard-fabriken": 155
             },
-            "annual_turnover": "2,500 stds sågade och hyvlade trävaror, 12,000 ton wallboard"
+            "annual_turnover": "2,500 stds sågade och hyvlade trävaror, 12,000 ton wallboard",
+            "employees_total": 210
         },
         "foundation_year": 1928,
         "current_name_year": 1946,
@@ -57,7 +58,7 @@
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Mikro-Verktyg",
@@ -74,7 +75,8 @@
         "financials": {
             "capital": 12000,
             "employees": 30,
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 0
         },
         "foundation_year": 1943,
         "manager": "Sven Gustafson",
@@ -82,7 +84,7 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Mildens Elektr. Motor AB.",
@@ -97,7 +99,8 @@
         "financials": {
             "capital": 84000,
             "employees": 50,
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 0
         },
         "corporation_year": 1925,
         "board": [
@@ -119,7 +122,7 @@
             "Latitude": 59.381668,
             "Longitude": 17.9012902
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Miles &amp; Warnberg AB.",
@@ -136,7 +139,8 @@
         "financials": {
             "capital": 44500,
             "employees": 75,
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 0
         },
         "director": "Ingvar Warnberg",
         "coordinates": {
@@ -162,7 +166,7 @@
             "Latitude": 59.83655749999999,
             "Longitude": 13.1440464
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "Minnesbergs Tegelbruks AB.",
@@ -178,13 +182,14 @@
         "financials": {
             "capital": 700000,
             "employees": 80,
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 0
         },
         "foundation_year": 1888,
         "coordinates": {
             "Latitude": 55.4729762,
             "Longitude": 13.2178665
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

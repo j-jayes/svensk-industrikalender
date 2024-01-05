@@ -22,7 +22,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 500000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 20
         },
         "foundation_year": 1944,
         "current_name_year": null,
@@ -44,7 +45,7 @@
             "Latitude": 57.679116,
             "Longitude": 13.3751051
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "Cällsta-Lundby Snickerifabrik",
@@ -70,7 +71,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 600000,
-            "annual_production_value": "1,200 stds trävaror"
+            "annual_production_value": "1,200 stds trävaror",
+            "employees_total": 40
         },
         "foundation_year": 1901,
         "current_name_year": null,
@@ -96,7 +98,7 @@
             "Latitude": 58.36576479999999,
             "Longitude": 15.3714692
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Cäliö Ångsågs AB.",
@@ -121,7 +123,8 @@
                 "industriarb": 60
             },
             "annual_turnover": null,
-            "annual_production_value": "3,500 stds sågade o. hyvlade trävaror, 3,000 läster träkol"
+            "annual_production_value": "3,500 stds sågade o. hyvlade trävaror, 3,000 läster träkol",
+            "employees_total": 60
         },
         "foundation_year": 1923,
         "current_name_year": null,
@@ -147,7 +150,7 @@
             "Latitude": 62.9141997,
             "Longitude": 15.2335794
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Cärsnäs Snickerifabrik",
@@ -172,7 +175,8 @@
                 "industriarb": 8
             },
             "annual_turnover": 80000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 8
         },
         "foundation_year": 1934,
         "current_name_year": null,
@@ -189,7 +193,7 @@
             "Latitude": 55.55091470000001,
             "Longitude": 14.1756804
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "AB. Gästriklands Yllefabrik",
@@ -214,7 +218,8 @@
                 "industriarb": 252
             },
             "annual_turnover": 3000000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 252
         },
         "foundation_year": 1902,
         "current_name_year": null,
@@ -244,7 +249,7 @@
             "Latitude": 60.719455,
             "Longitude": 16.5909492
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "AB. Gefle Förenade Bryggerier",
@@ -269,7 +274,8 @@
                 "industriarb": 90
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 90
         },
         "foundation_year": 1942,
         "current_name_year": null,
@@ -315,7 +321,7 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "Cävle Galvaniseringsfabrik AB.",
@@ -340,7 +346,8 @@
                 "industriarb": 250
             },
             "annual_turnover": 4500000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 250
         },
         "foundation_year": 1946,
         "current_name_year": null,
@@ -374,6 +381,6 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

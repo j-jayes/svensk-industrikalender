@@ -15,7 +15,8 @@
             "employees": {
                 "Arb.-antal": 8
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 8
         },
         "foundation_year": 1905,
         "board": [
@@ -36,7 +37,7 @@
             "Latitude": 58.2007895,
             "Longitude": 15.9976986
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Åtvidabergs Spårväxlar & Signal-fabriks AB. (Åssa)",
@@ -61,7 +62,8 @@
             "employees": {
                 "Antal industriarb.": 120
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 120
         },
         "foundation_year": 1912,
         "board": [
@@ -82,7 +84,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Ådelmetall AB.",
@@ -97,7 +99,8 @@
             "employees": {
                 "Antal industriarb.": 10
             },
-            "annual_production_value": 4500000
+            "annual_production_value": 4500000,
+            "employees_total": 10
         },
         "foundation_year": 1918,
         "board": [
@@ -118,7 +121,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Åggemballage AB.",
@@ -133,7 +136,8 @@
             "employees": {
                 "Antal industriarb.": 10
             },
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1937,
         "director": "Nils G. Berg",
@@ -141,7 +145,7 @@
             "Latitude": 56.89921039999999,
             "Longitude": 14.5560006
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "Aggfors AB.",
@@ -156,7 +160,8 @@
             "employees": {
                 "Antal industriarb.": 100
             },
-            "annual_production_value": "60,000 ton våt vit trämassa"
+            "annual_production_value": "60,000 ton våt vit trämassa",
+            "employees_total": 100
         },
         "foundation_year": 1887,
         "board": [
@@ -177,7 +182,7 @@
             "Latitude": 63.30797519999999,
             "Longitude": 13.663175
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Alfkarleö Bruk",
@@ -196,7 +201,7 @@
             "Latitude": 60.53977999999999,
             "Longitude": 17.39535
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "Älfängens Tegelbruk, Kilström & Mannerborn",
@@ -214,6 +219,6 @@
             "Latitude": 59.132661,
             "Longitude": 12.930107
         },
-        "cluster": 0
+        "cluster": 14
     }
 }

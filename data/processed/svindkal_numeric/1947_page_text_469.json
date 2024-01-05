@@ -14,7 +14,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 30
         },
         "foundation_year": 1918,
         "corporation_year": 1941,
@@ -23,7 +24,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 4
     },
     "2": {
         "name": "C. Lindborg, Musikinstrumentfabrik",
@@ -37,7 +38,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 15
         },
         "foundation_year": 1937,
         "director": "Gunnar Lindborg",
@@ -45,7 +47,7 @@
             "Latitude": 55.8703477,
             "Longitude": 12.8300802
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "AB. Linde Kvarnmaskiner",
@@ -61,7 +63,8 @@
             "employees": {
                 "industriarb": 130
             },
-            "annual_turnover": 2300000
+            "annual_turnover": 2300000,
+            "employees_total": 130
         },
         "foundation_year": 1853,
         "corporation_year": 1941,
@@ -102,7 +105,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 125
-            }
+            },
+            "employees_total": 125
         },
         "foundation_year": 1928,
         "board": [
@@ -115,7 +119,7 @@
             "Latitude": 59.5976983,
             "Longitude": 15.2229108
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "Bengt Linde",
@@ -130,7 +134,8 @@
             "employees": {
                 "industriarb": 36
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 36
         },
         "foundation_year": 1933,
         "director": "Bengt Linde",
@@ -138,7 +143,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Lindebergs Reklamfabrik",
@@ -156,7 +161,8 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_turnover": 365000
+            "annual_turnover": 365000,
+            "employees_total": 23
         },
         "foundation_year": 1909,
         "director": "Gösta Lindeberg",
@@ -166,7 +172,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 1
+        "cluster": 17
     },
     "7": {
         "name": "H. Lindegren, Orgelbyggeri",
@@ -184,7 +190,8 @@
             "employees": {
                 "arb": 8
             },
-            "annual_turnover": 50000
+            "annual_turnover": 50000,
+            "employees_total": 8
         },
         "foundation_year": 1827,
         "current_name_year": 1918,
@@ -193,7 +200,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "Lindells Vågfabriks AB.",
@@ -208,6 +215,6 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

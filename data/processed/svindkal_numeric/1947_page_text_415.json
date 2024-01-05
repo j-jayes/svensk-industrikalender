@@ -14,7 +14,8 @@
             "capital": 85500,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1931,
         "current_name_year": 1939,
@@ -43,7 +44,8 @@
             "employees": {
                 "industriarb": 350
             },
-            "annual_turnover": 104000000
+            "annual_turnover": 104000000,
+            "employees_total": 350
         },
         "foundation_year": 1932,
         "board": [
@@ -82,7 +84,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "Karlshamns Stads Vatten- och Elektricitetsverk",
@@ -92,7 +94,7 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 1
+        "cluster": 4
     },
     "4": {
         "name": "Karlshamns Yllefabriks AB.",
@@ -102,7 +104,7 @@
             "Latitude": 56.290295,
             "Longitude": 14.7447047
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Kar!shults Såg & Tegelbruk, Patrik Jacobson",
@@ -112,7 +114,7 @@
             "Latitude": 58.55,
             "Longitude": 15.066667
         },
-        "cluster": 7
+        "cluster": 14
     },
     "6": {
         "name": "AB. Karlshälls Cranitindustri",
@@ -122,7 +124,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 14
     },
     "7": {
         "name": "Karlskoga Tegelbruk, Ericsson & Co.",
@@ -132,7 +134,7 @@
             "Latitude": 59.32863399999999,
             "Longitude": 14.536414
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "Karlskoga Ångbryggeri",
@@ -142,6 +144,6 @@
             "Latitude": 59.32863399999999,
             "Longitude": 14.536414
         },
-        "cluster": 2
+        "cluster": 16
     }
 }

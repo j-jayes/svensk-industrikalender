@@ -18,7 +18,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 35
         },
         "foundation_year": 1891,
         "corporation_year": 1922,
@@ -32,7 +33,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Lindholm & Wikström",
@@ -51,7 +52,8 @@
             "employees": {
                 "industriarb": 22
             },
-            "annual_turnover": 130000
+            "annual_turnover": 130000,
+            "employees_total": 22
         },
         "foundation_year": 1885,
         "manager": "ing. Johan Wikström",
@@ -59,7 +61,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB Lindholms Instrumentfabrik",
@@ -76,7 +78,8 @@
             "capital": 20000,
             "employees": {
                 "industriarb": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1851,
         "corporation_year": 1944,
@@ -85,7 +88,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "AB Lindholmens Varv",
@@ -101,7 +104,8 @@
                 "industriarb": 1,
                 "**": 200
             },
-            "annual_turnover": 25000000
+            "annual_turnover": 25000000,
+            "employees_total": 201
         },
         "foundation_year": 1844,
         "board": [
@@ -131,7 +135,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "AB C.&lt;1. Lindners Pelsvarulndustri",
@@ -149,7 +153,8 @@
             "capital": 60000,
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1882,
         "board": [
@@ -188,7 +193,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 15
         },
         "foundation_year": 1919,
         "manager": "fru Kerstin Jonsson",
@@ -196,7 +202,7 @@
             "Latitude": 57.837129,
             "Longitude": 14.2727553
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Lindqulst& Larsson",
@@ -213,7 +219,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 30
         },
         "foundation_year": 1938,
         "owners": [
@@ -242,7 +249,8 @@
             "employees": {
                 "industriarb": 38
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 38
         },
         "foundation_year": 1895,
         "manager": "fabr. Artur Lindqvist",
@@ -250,7 +258,7 @@
             "Latitude": 59.7054717,
             "Longitude": 14.5355955
         },
-        "cluster": 6
+        "cluster": 18
     },
     "9": {
         "name": "AB C. Lindqvists Mek. Verkstad",
@@ -259,12 +267,13 @@
         "financials": {
             "employees": {
                 "industriarb": "**"
-            }
+            },
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 58.56234449999999,
             "Longitude": 15.281769
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

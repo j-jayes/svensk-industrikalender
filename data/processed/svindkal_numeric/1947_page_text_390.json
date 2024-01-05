@@ -17,7 +17,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 200000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 10
         },
         "foundation_year": 1937,
         "owners": [
@@ -32,7 +33,7 @@
             "Latitude": 57.2812542,
             "Longitude": 13.6271963
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "Ingenjörsfirma Sven Carlson AB.",
@@ -52,7 +53,8 @@
                 "industriarb": 24
             },
             "annual_turnover": 500000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 24
         },
         "foundation_year": 1909,
         "corporation_year": 1937,
@@ -64,7 +66,7 @@
             "Latitude": 60.60646000000001,
             "Longitude": 15.6355
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Ingenjörsfirman Certus AB.",
@@ -85,7 +87,8 @@
                 "arban": 15
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 15
         },
         "foundation_year": 1925,
         "corporation_year": 1945,
@@ -97,7 +100,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 5
+        "cluster": 7
     },
     "4": {
         "name": "Ingenjörsfirma J. Owe Elgström",
@@ -119,7 +122,8 @@
                 "arbarb": "Not available"
             },
             "annual_turnover": 2000000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 0
         },
         "foundation_year": 1927,
         "corporation_year": "Not available",
@@ -131,7 +135,7 @@
             "Latitude": 62.6322698,
             "Longitude": 17.9408714
         },
-        "cluster": 0
+        "cluster": 6
     },
     "5": {
         "name": "Ingenjörsfirman Friberg & Co. AB.",
@@ -152,7 +156,8 @@
                 "industriarb": 26
             },
             "annual_turnover": 500000,
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 26
         },
         "foundation_year": 1932,
         "corporation_year": "Not available",
@@ -164,7 +169,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Ingenjörsfirman Hagelin & Larsson",
@@ -184,7 +189,8 @@
                 "industriarb": 100
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 100
         },
         "foundation_year": 1936,
         "corporation_year": "Not available",
@@ -196,7 +202,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "Ingenjörsfirma Ragnar Larson & Co., AB.",
@@ -217,7 +223,8 @@
                 "arbarb": "Not available"
             },
             "annual_turnover": "Not available",
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1927,
         "corporation_year": "Not available",
@@ -229,6 +236,6 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

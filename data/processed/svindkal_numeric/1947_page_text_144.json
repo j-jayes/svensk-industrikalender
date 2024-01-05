@@ -21,7 +21,8 @@
                 "industrial_workers": 150
             },
             "annual_turnover": 1700000,
-            "annual_production_value": 1700000
+            "annual_production_value": 1700000,
+            "employees_total": 150
         },
         "foundation_year": 1878,
         "current_name_year": 1945,
@@ -53,7 +54,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "A. K.-Fabrikerna",
@@ -77,7 +78,8 @@
                 "industrial_workers": 11
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 11
         },
         "foundation_year": 1943,
         "current_name_year": 1945,
@@ -95,7 +97,7 @@
             "Latitude": 59.97705449999999,
             "Longitude": 14.184545
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "AKF Kvarnar & Maskiner, C. Kempff",
@@ -119,7 +121,8 @@
                 "industrial_workers": 22
             },
             "annual_turnover": 240000,
-            "annual_production_value": 240000
+            "annual_production_value": 240000,
+            "employees_total": 22
         },
         "foundation_year": 1939,
         "current_name_year": 1945,
@@ -140,7 +143,7 @@
             "Latitude": 56.89921039999999,
             "Longitude": 14.5560006
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Akuma AB.",
@@ -164,7 +167,8 @@
                 "industrial_workers": 55
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 55
         },
         "foundation_year": 1933,
         "current_name_year": "",
@@ -195,7 +199,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Ala Sågverk",
@@ -219,7 +223,8 @@
                 "industrial_workers": 30
             },
             "annual_turnover": 600000,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 30
         },
         "foundation_year": 1916,
         "current_name_year": "",
@@ -238,7 +243,7 @@
             "Latitude": 61.2114046,
             "Longitude": 17.1266474
         },
-        "cluster": 1
+        "cluster": 4
     },
     "6": {
         "name": "Alba Fabrikers AB.",
@@ -262,7 +267,8 @@
                 "industrial_workers": 100
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 100
         },
         "foundation_year": 1931,
         "current_name_year": 1938,
@@ -287,7 +293,7 @@
             "Latitude": 55.6648168,
             "Longitude": 13.3475569
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "Albackens Vitgarveri",
@@ -311,7 +317,8 @@
                 "industrial_workers": 30
             },
             "annual_turnover": 600000,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 30
         },
         "foundation_year": 1916,
         "current_name_year": "",
@@ -354,7 +361,8 @@
                 "industrial_workers": 7
             },
             "annual_turnover": 90000,
-            "annual_production_value": 90000
+            "annual_production_value": 90000,
+            "employees_total": 7
         },
         "foundation_year": 1936,
         "current_name_year": "",
@@ -370,7 +378,7 @@
             "Latitude": 57.7694839,
             "Longitude": 12.2688197
         },
-        "cluster": 3
+        "cluster": 19
     },
     "9": {
         "name": "Albin Motor Kommanditbolag, L. A. Larsson",
@@ -390,7 +398,8 @@
             "capital": "",
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": 0,
         "current_name_year": "",
@@ -408,6 +417,6 @@
             "Latitude": 59.3100677,
             "Longitude": 14.1089192
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

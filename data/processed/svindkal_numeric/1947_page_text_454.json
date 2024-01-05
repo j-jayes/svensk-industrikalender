@@ -17,7 +17,8 @@
                 "industriarb": 900
             },
             "annual_turnover": 10000000,
-            "annual_production_value": 10000000
+            "annual_production_value": 10000000,
+            "employees_total": 900
         },
         "foundation_year": 1856,
         "corporation_year": 1872,
@@ -49,7 +50,7 @@
             "Latitude": 59.5120962,
             "Longitude": 15.9945102
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Köpings Metallvarufabrik, Eriksson & Co.",
@@ -65,7 +66,8 @@
             "employees": {
                 "antai": 10
             },
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1925,
         "manager": "Gustav Eriksson",
@@ -73,7 +75,7 @@
             "Latitude": 59.5120962,
             "Longitude": 15.9945102
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Köpings Tagelspinneri",
@@ -99,7 +101,8 @@
             "employees": {
                 "antai": 50
             },
-            "annual_production_value": "4,500 ton torvprodukter"
+            "annual_production_value": "4,500 ton torvprodukter",
+            "employees_total": 50
         },
         "foundation_year": 1911,
         "sales_manager": "Svven Jönsson",
@@ -107,7 +110,7 @@
             "Latitude": 56.137972,
             "Longitude": 13.3949862
         },
-        "cluster": 1
+        "cluster": 3
     },
     "5": {
         "name": "Köpmanholmens Sulfitfabrik",
@@ -135,7 +138,8 @@
             "employees": {
                 "industriarb": 235
             },
-            "annual_production_value": "16,000 ton papper och papp"
+            "annual_production_value": "16,000 ton papper och papp",
+            "employees_total": 235
         },
         "foundation_year": 1896,
         "owners": [
@@ -172,7 +176,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Ragnar Lagerblads Boktryckeri",
@@ -187,7 +191,8 @@
         "financials": {
             "employees": {
                 "industriarb": 36
-            }
+            },
+            "employees_total": 36
         },
         "foundation_year": 1864,
         "manager": "R. Lagerblad",
@@ -195,6 +200,6 @@
             "Latitude": 56.170303,
             "Longitude": 14.863073
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

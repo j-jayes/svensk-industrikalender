@@ -34,7 +34,7 @@
             "Latitude": 57.7366497,
             "Longitude": 12.1251968
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Kemigrafiska AB",
@@ -63,7 +63,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "AB. Kemikalia",
@@ -95,7 +95,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "4": {
         "name": "AB. för Kemisk och Elektrokemisk Produktion",
@@ -141,7 +141,7 @@
             "Latitude": 60.14532999999999,
             "Longitude": 16.1738399
         },
-        "cluster": 6
+        "cluster": 3
     },
     "5": {
         "name": "Kemiska Fabriks AB.",
@@ -175,7 +175,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 12
     },
     "6": {
         "name": "Kem. Tekn. Fabriken Triangeln AB.",
@@ -209,7 +209,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "7": {
         "name": "AB. Kem. Tekn. Clasfabriken",
@@ -236,7 +236,7 @@
             "Latitude": 56.745012,
             "Longitude": 15.907874
         },
-        "cluster": 2
+        "cluster": 0
     },
     "8": {
         "name": "Kemiska Fabriken D:r Ernst Harbeck AB.",
@@ -264,6 +264,6 @@
             "Latitude": 57.7366497,
             "Longitude": 12.1251968
         },
-        "cluster": 6
+        "cluster": 3
     }
 }

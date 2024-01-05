@@ -13,7 +13,8 @@
             "capital": 500000,
             "employees": {
                 "industriarb": 120
-            }
+            },
+            "employees_total": 120
         },
         "foundation_year": 1908,
         "board": [
@@ -51,7 +52,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 30
         },
         "foundation_year": 1931,
         "owners": [
@@ -81,7 +83,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 50
         },
         "foundation_year": 1895,
         "board": [
@@ -128,7 +131,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 30
         },
         "foundation_year": 1913,
         "owners": [
@@ -155,7 +159,8 @@
             "employees": {
                 "industriarb": 650
             },
-            "annual_turnover": 10000000
+            "annual_turnover": 10000000,
+            "employees_total": 650
         },
         "foundation_year": 1944,
         "board": [
@@ -200,7 +205,8 @@
             "postgiro": "51341"
         },
         "financials": {
-            "capital": 150000
+            "capital": 150000,
+            "employees_total": 0
         },
         "foundation_year": 1921,
         "current_name_year": 1930,
@@ -238,7 +244,8 @@
         },
         "financials": {
             "capital": 100000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 0
         },
         "foundation_year": 1917,
         "corporation_year": 1944,

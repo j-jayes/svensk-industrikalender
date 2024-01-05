@@ -39,7 +39,7 @@
             "Latitude": 57.7947889,
             "Longitude": 13.4205162
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Husqvarna Borstfabrik",
@@ -88,7 +88,7 @@
             "Latitude": 57.7904141,
             "Longitude": 14.2755781
         },
-        "cluster": 6
+        "cluster": 3
     },
     "3": {
         "name": "Husqvarna Vapenfabriks AB.",
@@ -145,7 +145,7 @@
             "Latitude": 57.7904141,
             "Longitude": 14.2755781
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Husums Sulfatfabrik",
@@ -194,7 +194,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Hvetlanda Mek. Verkstad",
@@ -220,7 +220,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Hvetlanda Saft- & Syltfabrik",
@@ -245,6 +245,6 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

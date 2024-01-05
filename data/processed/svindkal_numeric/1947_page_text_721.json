@@ -54,7 +54,8 @@
                 "Total": 330
             },
             "annual_turnover": "8,000 stds sågade och hyvlade trävaror, 15,000 ton wallboard, 12,000 kbm kryssfanér och lamellträ",
-            "annual_production_value": "8,000 stds sågade och hyvlade trävaror, 15,000 ton wallboard, 12,000 kbm kryssfanér och lamellträ"
+            "annual_production_value": "8,000 stds sågade och hyvlade trävaror, 15,000 ton wallboard, 12,000 kbm kryssfanér och lamellträ",
+            "employees_total": 560
         },
         "foundation_year": 1922,
         "board": [
@@ -80,7 +81,7 @@
             "Latitude": 62.6322698,
             "Longitude": 17.9408714
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Torsåkers Linnefabriks AB.",
@@ -107,7 +108,8 @@
         "financials": {
             "capital": 270000,
             "employees": 100,
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1920,
         "current_name_year": 1932,
@@ -135,7 +137,7 @@
             "Latitude": 60.5105162,
             "Longitude": 16.4729298
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "Torsås Träförädlings AB.",
@@ -150,7 +152,8 @@
         },
         "financials": {
             "capital": 30000,
-            "employees": 75
+            "employees": 75,
+            "employees_total": 0
         },
         "foundation_year": 1935,
         "board": [
@@ -163,7 +166,7 @@
             "Latitude": 56.4126384,
             "Longitude": 15.9982746
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Torvströ AB. Ryttaren",
@@ -176,7 +179,8 @@
         },
         "financials": {
             "capital": 140000,
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 0
         },
         "foundation_year": 1906,
         "board": [
@@ -189,7 +193,7 @@
             "Latitude": 57.9843745,
             "Longitude": 13.77765
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Tostarps Träförädlings AB.",
@@ -203,7 +207,8 @@
         "financials": {
             "capital": 300000,
             "employees": 40,
-            "annual_turnover": 450000
+            "annual_turnover": 450000,
+            "employees_total": 0
         },
         "foundation_year": 1905,
         "board": [
@@ -224,7 +229,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Totebo Hjulfabrik, C. 0. Larsson & Söner",
@@ -240,7 +245,8 @@
         },
         "financials": {
             "employees": 225,
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 0
         },
         "current_name_year": 1925,
         "owners": [
@@ -254,7 +260,7 @@
             "Latitude": 57.6292639,
             "Longitude": 16.1834504
         },
-        "cluster": 7
+        "cluster": 18
     },
     "7": {
         "name": "Trafik AB. Grängesberg-Oxelösund",
@@ -264,6 +270,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

@@ -19,7 +19,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 2160000,
-            "annual_production_value": 2160000
+            "annual_production_value": 2160000,
+            "employees_total": 25
         },
         "foundation_year": 1896,
         "board": [
@@ -88,7 +89,8 @@
                 "industriarb": 220
             },
             "annual_turnover": 4500000,
-            "annual_production_value": 4500000
+            "annual_production_value": 4500000,
+            "employees_total": 220
         },
         "predecessor": "övertogs av nuv. bolag 1874",
         "board": [
@@ -115,7 +117,7 @@
             "Latitude": 59.77475990000001,
             "Longitude": 16.1946769
         },
-        "cluster": 6
+        "cluster": 2
     },
     "4": {
         "name": "Ramonafabriken",
@@ -126,7 +128,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Ranaverken",
@@ -144,7 +146,8 @@
             "employees": {
                 "industriarb": 68
             },
-            "annual_turnover": 1870000
+            "annual_turnover": 1870000,
+            "employees_total": 68
         },
         "corporation_year": 1939,
         "board": [
@@ -157,7 +160,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 17
     },
     "6": {
         "name": "AB. Randfabriken Cimbria",
@@ -187,6 +190,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

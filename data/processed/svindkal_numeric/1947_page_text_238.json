@@ -16,7 +16,8 @@
                 "industriarb": 20
             },
             "foundation_year": 1909,
-            "corporation_year": 1928
+            "corporation_year": 1928,
+            "employees_total": 20
         },
         "board": [
             {
@@ -32,7 +33,7 @@
             "Latitude": 64.71616019999999,
             "Longitude": 21.1390514
         },
-        "cluster": 1
+        "cluster": 7
     },
     "2": {
         "name": "AB. Cleo",
@@ -51,14 +52,15 @@
                 "industriarb": 9
             },
             "annual_production_value": 200000,
-            "foundation_year": 1934
+            "foundation_year": 1934,
+            "employees_total": 9
         },
         "director": "Nils E. Axelsson",
         "coordinates": {
             "Latitude": 56.21496,
             "Longitude": 13.84858
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "AB. Cohn & Lindblom",
@@ -83,7 +85,8 @@
             },
             "annual_production_value": 650000,
             "foundation_year": 1901,
-            "corporation_year": 1912
+            "corporation_year": 1912,
+            "employees_total": 60
         },
         "director": "Georg Nyman",
         "coordinates": {
@@ -109,7 +112,8 @@
             },
             "annual_production_value": 1300000,
             "foundation_year": 1926,
-            "corporation_year": 1941
+            "corporation_year": 1941,
+            "employees_total": 30
         },
         "board": [
             {
@@ -121,7 +125,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Golgate-Palmolive-Peet AB.",
@@ -141,7 +145,8 @@
         },
         "financials": {
             "capital": 500000,
-            "corporation_year": 1928
+            "corporation_year": 1928,
+            "employees_total": 0
         },
         "board": [
             {
@@ -164,7 +169,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "AB. Collan-Olje-Fabriken",
@@ -184,7 +189,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "CoIlins Tekn. Industri",
@@ -194,7 +199,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     },
     "9": {
         "name": "Condorverken AB.",
@@ -210,7 +215,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 1600000
+            "annual_production_value": 1600000,
+            "employees_total": 20
         },
         "director": "Sven A. Höglund",
         "factory_manager": "Sven Ahlström",
@@ -218,6 +224,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

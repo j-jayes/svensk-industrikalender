@@ -27,7 +27,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Avesta Bryggeri AB",
@@ -58,7 +58,7 @@
             "Latitude": 60.14532999999999,
             "Longitude": 16.1738399
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "Avesta Jernverks AB",
@@ -111,7 +111,7 @@
             "Latitude": 60.14532999999999,
             "Longitude": 16.1738399
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Auto-Metallfabrik Ulvsunda",
@@ -137,7 +137,7 @@
             "Latitude": 59.33688530000001,
             "Longitude": 17.9638876
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Automekan Sundsvall",
@@ -163,7 +163,7 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Avancemotor Eskilstuna",
@@ -173,7 +173,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "A-vant Stockholm",
@@ -207,6 +207,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

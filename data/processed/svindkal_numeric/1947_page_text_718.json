@@ -15,7 +15,8 @@
             "employees": {
                 "Antal industriarb.": 42
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 42
         },
         "foundation_year": 1924,
         "predecessor": "såsom handelsbolag",
@@ -33,7 +34,7 @@
             "Latitude": 58.20245139999999,
             "Longitude": 16.6013626
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Tlngvalla Bryggeri AB.",
@@ -47,7 +48,8 @@
             "capital": 155000,
             "employees": {
                 "Arb.-antal": 9
-            }
+            },
+            "employees_total": 9
         },
         "foundation_year": 1898,
         "board": [
@@ -68,7 +70,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "Tjernelds Radiofabrik",
@@ -87,7 +89,8 @@
             ]
         },
         "financials": {
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "owner": "ing. Olof Tjerneld",
@@ -105,7 +108,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Tjustbygdens Fruktförening u.pa.",
@@ -122,7 +125,8 @@
             "employees": {
                 "Antal industriarb.": 16
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 16
         },
         "foundation_year": 1922,
         "board": [
@@ -139,7 +143,7 @@
             "Latitude": 57.89316029999999,
             "Longitude": 16.4060887
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Tjärby Tegelbruks AB.",
@@ -154,7 +158,8 @@
             "employees": {
                 "Antal industriarb.": 30
             },
-            "annual_production_value": "5 milj. st. tegelvaror"
+            "annual_production_value": "5 milj. st. tegelvaror",
+            "employees_total": 30
         },
         "foundation_year": 1898,
         "director": "N. Herbert Andersson",
@@ -162,7 +167,7 @@
             "Latitude": 56.5689666,
             "Longitude": 13.0289524
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "O. Tjärnberg",
@@ -179,7 +184,8 @@
             "employees": {
                 "Antal byggnadsarb.": 180
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 180
         },
         "foundation_year": 1925,
         "owner": "Oscar Tjärnberg",
@@ -188,7 +194,7 @@
             "Latitude": 63.29004740000001,
             "Longitude": 18.7166166
         },
-        "cluster": 0
+        "cluster": 6
     },
     "7": {
         "name": "AB. Tobo Bruk",
@@ -204,7 +210,8 @@
             "employees": {
                 "Antal industriarb.": 220
             },
-            "annual_production_value": 2600000
+            "annual_production_value": 2600000,
+            "employees_total": 220
         },
         "foundation_year": 1937,
         "board": [
@@ -217,7 +224,7 @@
             "Latitude": 60.2580366,
             "Longitude": 17.6561791
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "Tolls Byggnads AB.",
@@ -226,12 +233,13 @@
         "financials": {
             "employees": {
                 "unknown": "Unknown"
-            }
+            },
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

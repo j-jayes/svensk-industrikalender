@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 205
             },
-            "annual_turnover": 3200000
+            "annual_turnover": 3200000,
+            "employees_total": 205
         },
         "foundation_year": 1856,
         "corporation_year": 1888,
@@ -44,7 +45,7 @@
         "owners": [
             "P. 0. Gustafsson, Arboga"
         ],
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "AB. Area Regulatorer, Stockholm",
@@ -63,7 +64,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 15
         },
         "corporation_year": 1918,
         "board": [
@@ -80,7 +82,7 @@
                 "role": "Director"
             }
         ],
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Archimedes, Stockholm",
@@ -98,7 +100,8 @@
             "capital": 750000,
             "employees": {
                 "industriarb": 140
-            }
+            },
+            "employees_total": 140
         },
         "corporation_year": 1907,
         "board": [
@@ -115,7 +118,7 @@
                 "role": "Director"
             }
         ],
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "AB. Arctic, Motala",
@@ -143,7 +146,8 @@
             "employees": {
                 "industriarb": 700
             },
-            "annual_turnover": 10000000
+            "annual_turnover": 10000000,
+            "employees_total": 700
         },
         "foundation_year": 1880,
         "corporation_year": 1896,
@@ -166,7 +170,7 @@
                 "role": "Director"
             }
         ],
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. Aristo, Falköping",

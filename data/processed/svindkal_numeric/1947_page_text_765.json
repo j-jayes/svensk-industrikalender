@@ -19,7 +19,8 @@
                 "industriarb": 55
             },
             "annual_turnover": 850000,
-            "annual_production_value": "3,000 stds sågade, 2,000 stds hyvlade trävaror"
+            "annual_production_value": "3,000 stds sågade, 2,000 stds hyvlade trävaror",
+            "employees_total": 55
         },
         "foundation_year": 1897,
         "board": [
@@ -40,7 +41,7 @@
             "Latitude": 62.44426970000001,
             "Longitude": 16.4412379
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Vitin",
@@ -59,7 +60,8 @@
             "capital": 85000,
             "employees": {
                 "industriarb": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1928,
         "board": [
@@ -84,7 +86,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "3": {
         "name": "M. L. Wittboldt",
@@ -104,7 +106,8 @@
             "employees": {
                 "industriarb": 125
             },
-            "annual_production_value": "10,000 stds trävaror"
+            "annual_production_value": "10,000 stds trävaror",
+            "employees_total": 125
         },
         "board": [],
         "director": "kapten D. Wittboldt",
@@ -112,7 +115,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Vittinge Tegelbruks AB.",
@@ -129,7 +132,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": "3,50 milj. st. tegelvaror"
+            "annual_production_value": "3,50 milj. st. tegelvaror",
+            "employees_total": 30
         },
         "board": [],
         "director": "Karl Erik Wall",
@@ -137,7 +141,7 @@
             "Latitude": 59.9060095,
             "Longitude": 17.0491496
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "AB, Vitvaruindustri",
@@ -152,7 +156,8 @@
             "capital": 250000,
             "employees": {
                 "industriarb": 240
-            }
+            },
+            "employees_total": 240
         },
         "board": [
             {
@@ -173,7 +178,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "Wojidkow & Co. AB.",
@@ -189,7 +194,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 750000
+            "annual_production_value": 750000,
+            "employees_total": 50
         },
         "board": [],
         "director": "civiling. F. Peterzén",
@@ -197,7 +203,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. Yolanit",
@@ -213,14 +219,15 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 450000
+            "annual_production_value": 450000,
+            "employees_total": 20
         },
         "director": "ing. Erik Eriksson",
         "coordinates": {
             "Latitude": 59.3100677,
             "Longitude": 14.1089192
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "O. J. Wollraths Snickerifabrik",
@@ -234,13 +241,14 @@
         "financials": {
             "employees": {
                 "industriarb": 10
-            }
+            },
+            "employees_total": 10
         },
         "director": "snickarmäst. Olof J. Wollrath",
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

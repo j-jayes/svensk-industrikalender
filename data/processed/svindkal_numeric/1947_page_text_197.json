@@ -32,7 +32,8 @@
             "capital": 3600000,
             "employees": {
                 "industriarb": 500
-            }
+            },
+            "employees_total": 500
         },
         "foundation_year": 1933,
         "board": [
@@ -57,7 +58,7 @@
             "Latitude": 59.45244,
             "Longitude": 17.8096203
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "A. E. Bolling",
@@ -72,14 +73,15 @@
             "employees": {
                 "Arb.-antal": 7
             },
-            "annual_production_value": 56000
+            "annual_production_value": 56000,
+            "employees_total": 7
         },
         "foundation_year": 1895,
         "coordinates": {
             "Latitude": 58.02502339999999,
             "Longitude": 14.4700948
         },
-        "cluster": 6
+        "cluster": 0
     },
     "3": {
         "name": "Bollnäs Nya Bryggeri AB.",
@@ -95,7 +97,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 25
         },
         "foundation_year": 1882,
         "board": [
@@ -116,7 +119,7 @@
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "Bollnäs Trävaru AB.",
@@ -133,14 +136,15 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_production_value": "3,500 stds trävaror"
+            "annual_production_value": "3,500 stds trävaror",
+            "employees_total": 65
         },
         "foundation_year": 1917,
         "coordinates": {
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Bongs Fabriker AB.",
@@ -166,7 +170,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 90
         },
         "foundation_year": 1737,
         "board": [
@@ -183,7 +188,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "Gustaf Bong AB.",
@@ -197,13 +202,14 @@
         "financials": {
             "employees": {
                 "Arb.-antal": "N/A"
-            }
+            },
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "coordinates": {
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

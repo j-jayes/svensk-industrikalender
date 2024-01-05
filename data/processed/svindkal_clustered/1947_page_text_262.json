@@ -55,7 +55,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 3
     },
     "2": {
         "name": "Elektro-Metallisator",
@@ -84,7 +84,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 2
     },
     "3": {
         "name": "Elektr o-Värme",
@@ -130,7 +130,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 1
+        "cluster": 2
     },
     "4": {
         "name": "Elfsborgs Mek. Verkstad",
@@ -154,7 +154,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Elfströms Tekniska Fabrik",
@@ -180,6 +180,6 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 1
+        "cluster": 3
     }
 }

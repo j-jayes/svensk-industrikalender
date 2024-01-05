@@ -12,7 +12,8 @@
             "capital": 75600,
             "employees": {
                 "industriarb": 70
-            }
+            },
+            "employees_total": 70
         },
         "foundation_year": 1887,
         "director": "Gunnar Carlsson",
@@ -33,7 +34,8 @@
             "employees": {
                 "industriarb": 55
             },
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 55
         },
         "foundation_year": 1913,
         "manager": "fabr. Hilding Carlsson",
@@ -41,7 +43,7 @@
             "Latitude": 63.8258471,
             "Longitude": 20.2630354
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "AB J. O. Carlssons Möbelindustri",
@@ -56,7 +58,8 @@
             "employees": {
                 "industriarb": 33
             },
-            "annual_production_value": 580000
+            "annual_production_value": 580000,
+            "employees_total": 33
         },
         "foundation_year": 1930,
         "board": [
@@ -80,7 +83,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "K. & E. Carlson",
@@ -97,7 +100,8 @@
         "financials": {
             "employees": {
                 "industriarb": 95
-            }
+            },
+            "employees_total": 95
         },
         "foundation_year": 1918,
         "owners": [
@@ -108,7 +112,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "K. I. Carlsson, Metallvarufabrik",
@@ -122,7 +126,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 15
         },
         "foundation_year": 1920,
         "manager": "fabr. Ivar Cenner",
@@ -130,7 +135,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 17
     },
     "6": {
         "name": "Sven Carlson AB., Ingenjörsfirma",
@@ -141,7 +146,7 @@
             "Latitude": 60.60646000000001,
             "Longitude": 15.6355
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Wilh. Carlssons Skofabriks AB.",
@@ -156,7 +161,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 35
         },
         "corporation_year": 1944,
         "manager": "Wilh. Carlsson",
@@ -164,7 +170,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "Agne Carlströms Fabriks AB.",
@@ -183,7 +189,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 65
         },
         "corporation_year": 1930,
         "board": [
@@ -205,7 +212,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 1
     },
     "9": {
         "name": "AB. C. R. Carlströms Nysilverfabrik",
@@ -220,7 +227,8 @@
             "capital": 120000,
             "employees": {
                 "antal": 10
-            }
+            },
+            "employees_total": 10
         },
         "corporation_year": 1911,
         "board": [
@@ -242,7 +250,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     },
     "10": {
         "name": "AB. E. J. Carlström & Sons Velocipedfabrik",
@@ -257,6 +265,6 @@
             "Latitude": 56.63068550000001,
             "Longitude": 15.540006
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

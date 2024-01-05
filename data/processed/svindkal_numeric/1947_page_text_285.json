@@ -18,7 +18,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 100000,
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1913,
         "corporation_year": 1941,
@@ -32,7 +33,7 @@
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 7
+        "cluster": 18
     },
     "2": {
         "name": "AB. Erik Fahlstrand",
@@ -49,7 +50,8 @@
             "capital": 75000,
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1934,
         "board": [
@@ -62,7 +64,7 @@
             "Latitude": 60.5495902,
             "Longitude": 15.1810152
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "AB. Fajans Tegelbruk",
@@ -78,7 +80,8 @@
         },
         "financials": {
             "capital": 250000,
-            "annual_production_value": "10 milj. st. tegelvaror"
+            "annual_production_value": "10 milj. st. tegelvaror",
+            "employees_total": 0
         },
         "foundation_year": 1909,
         "board": [
@@ -91,7 +94,7 @@
             "Latitude": 56.90273329999999,
             "Longitude": 12.4888013
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "AB. Falbygdens Textilindustri",
@@ -107,7 +110,8 @@
             "employees": {
                 "industriarb": 21
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 21
         },
         "foundation_year": 1941,
         "board": [
@@ -124,7 +128,7 @@
             "Latitude": 58.17502899999999,
             "Longitude": 13.553217
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Falkenbergs Metallförädling AB.",
@@ -139,7 +143,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": 490000
+            "annual_production_value": 490000,
+            "employees_total": 30
         },
         "foundation_year": 1931,
         "corporation_year": 1940,
@@ -153,6 +158,6 @@
             "Latitude": 56.90273329999999,
             "Longitude": 12.4888013
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

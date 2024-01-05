@@ -25,7 +25,7 @@
             "Latitude": 58.424323,
             "Longitude": 14.1616418
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Vargen AB., Regnklädersfabriken",
@@ -55,7 +55,7 @@
             "Latitude": 58.35662159999999,
             "Longitude": 12.3888324
         },
-        "cluster": 7
+        "cluster": 2
     },
     "5": {
         "name": "Varia, AB. Möbelfabriken",
@@ -65,7 +65,7 @@
             "Latitude": 59.0579376,
             "Longitude": 16.5879122
         },
-        "cluster": 8
+        "cluster": 18
     },
     "6": {
         "name": "Wasabryggeriet",
@@ -75,7 +75,7 @@
             "Latitude": 60.484304,
             "Longitude": 15.433969
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Wasa-Bryggeriet",
@@ -85,7 +85,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 16
     },
     "8": {
         "name": "AB. Vasalampan",
@@ -95,7 +95,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 0
     },
     "9": {
         "name": "AB. Wasa Spisbrödsfabrik",
@@ -105,6 +105,6 @@
             "Latitude": 59.7139973,
             "Longitude": 14.1698445
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

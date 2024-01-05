@@ -12,7 +12,8 @@
         },
         "financials": {
             "capital": 4500000,
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 0
         },
         "foundation_year": 1898,
         "owners": [
@@ -51,7 +52,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 4
     },
     "2": {
         "name": "AB. Örebro Kexfabrik",
@@ -68,7 +69,8 @@
         },
         "financials": {
             "capital": 1800000,
-            "annual_production_value": 5300000
+            "annual_production_value": 5300000,
+            "employees_total": 0
         },
         "foundation_year": 1896,
         "owners": [
@@ -78,7 +80,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "AB. Örebro Kvarn",
@@ -91,7 +93,8 @@
             ]
         },
         "financials": {
-            "capital": 950000
+            "capital": 950000,
+            "employees_total": 0
         },
         "foundation_year": 1858,
         "board": [
@@ -113,7 +116,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "AB. Örebro Nya Möbelfabrik",
@@ -127,7 +130,8 @@
         },
         "financials": {
             "capital": 72000,
-            "annual_production_value": 215000
+            "annual_production_value": 215000,
+            "employees_total": 0
         },
         "foundation_year": 1914,
         "owners": [
@@ -138,7 +142,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Örebro Pappersbruks AB.",
@@ -155,14 +159,15 @@
         },
         "financials": {
             "capital": 4693000,
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 0
         },
         "foundation_year": 1901,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 7
+        "cluster": 17
     },
     "6": {
         "name": "AB. Örebro Radiatorfabrik",
@@ -176,7 +181,8 @@
         },
         "financials": {
             "capital": 80000,
-            "annual_production_value": 550000
+            "annual_production_value": 550000,
+            "employees_total": 0
         },
         "foundation_year": 1937,
         "director": "Per A. Duberg",
@@ -184,7 +190,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. Örebro Skjortfabrik",
@@ -199,13 +205,14 @@
         },
         "financials": {
             "capital": 15000,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 0
         },
         "foundation_year": 1932,
         "coordinates": {
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

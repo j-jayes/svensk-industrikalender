@@ -21,7 +21,8 @@
                 "industriarb": 75
             },
             "annual_turnover": 500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 75
         },
         "foundation_year": 1913,
         "corporation_year": 1939,
@@ -44,7 +45,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "AB. A. Melins Börsfabrik",
@@ -68,7 +69,8 @@
                 "industriarb": 40
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 40
         },
         "foundation_year": 1886,
         "corporation_year": 1933,
@@ -106,7 +108,8 @@
                 "industriarb": "N/A"
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": 1886,
         "corporation_year": 1913,
@@ -121,7 +124,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "AB. J. Melin & Söner",
@@ -144,7 +147,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 700000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 60
         },
         "foundation_year": 1905,
         "corporation_year": 1934,
@@ -190,7 +194,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 1300000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 100
         },
         "foundation_year": 1911,
         "corporation_year": 1921,
@@ -213,7 +218,7 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Mepe, Holm & Hoppe",
@@ -236,7 +241,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 30
         },
         "foundation_year": 1930,
         "corporation_year": "N/A",
@@ -246,7 +252,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. Mercer",
@@ -269,7 +275,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 500000,
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 40
         },
         "foundation_year": 1937,
         "corporation_year": "N/A",
@@ -279,6 +286,6 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

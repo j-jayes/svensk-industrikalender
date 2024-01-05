@@ -86,7 +86,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 0
     },
     "3": {
         "name": "AB. Skandinaviska Glödlampfabriken, Nyköping",
@@ -130,7 +130,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 6
+        "cluster": 0
     },
     "4": {
         "name": "AB. Skandinaviska Grafiteringsverk, Trollhättan",
@@ -170,7 +170,7 @@
             "Latitude": 58.28348939999999,
             "Longitude": 12.2858206
         },
-        "cluster": 1
+        "cluster": 2
     },
     "5": {
         "name": "AB. Skandinaviska Granit AB., Göteborg",
@@ -210,7 +210,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "AB. Skandinaviska Cruv AB., Hedemora",
@@ -243,7 +243,7 @@
             "Latitude": 60.2775453,
             "Longitude": 15.985892
         },
-        "cluster": 1
+        "cluster": 2
     },
     "7": {
         "name": "AB. Skandinaviska Gummi AB., Viskafors",
@@ -285,6 +285,6 @@
             "Latitude": 57.63374469999999,
             "Longitude": 12.8568382
         },
-        "cluster": 6
+        "cluster": 3
     }
 }

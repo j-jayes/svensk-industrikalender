@@ -15,7 +15,8 @@
                 "industriarb.": 15
             },
             "annual_turnover": 125000,
-            "annual_production_value": 125000
+            "annual_production_value": 125000,
+            "employees_total": 15
         },
         "foundation_year": 1924,
         "director": "Torsten Nyström",
@@ -23,7 +24,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 0
     },
     "2": {
         "name": "AB. Näfveqvarns Bruk",
@@ -48,7 +49,8 @@
             "employees": {
                 "industriarb.": 220
             },
-            "annual_turnover": 2600000
+            "annual_turnover": 2600000,
+            "employees_total": 220
         },
         "foundation_year": 1917,
         "board": [
@@ -80,7 +82,7 @@
             "Latitude": 58.6304568,
             "Longitude": 16.7977532
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Näldens Ullspinneri AB.",
@@ -97,7 +99,8 @@
             "employees": {
                 "industriarb.": 70
             },
-            "annual_turnover": 1580000
+            "annual_turnover": 1580000,
+            "employees_total": 70
         },
         "foundation_year": 1896,
         "board": [
@@ -119,7 +122,7 @@
             "Latitude": 63.3491079,
             "Longitude": 14.2521057
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB. Näldens Åkdonsfabrik",
@@ -135,7 +138,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb.": 32
-            }
+            },
+            "employees_total": 32
         },
         "foundation_year": 1900,
         "current_name_year": 1907,
@@ -144,7 +148,7 @@
             "Latitude": 63.3491079,
             "Longitude": 14.2521057
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Närkes Torf AB.",
@@ -159,7 +163,8 @@
         },
         "financials": {
             "capital": 112500,
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 0
         },
         "foundation_year": 1905,
         "board": [
@@ -181,7 +186,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 1
+        "cluster": 3
     },
     "6": {
         "name": "Nässjö Bryggeri AB.",
@@ -191,7 +196,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 2
+        "cluster": 16
     },
     "7": {
         "name": "AB. Nässjö Butiksinredningar",
@@ -216,7 +221,8 @@
             "employees": {
                 "industriarb.": 20
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 20
         },
         "foundation_year": 1938,
         "director": "Nils Hedström",
@@ -224,7 +230,7 @@
             "Latitude": 57.6173777,
             "Longitude": 14.5989296
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "Nässjö Industri AB.",
@@ -242,6 +248,6 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

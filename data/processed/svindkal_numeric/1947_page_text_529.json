@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "foundation_year": 1919
+            "foundation_year": 1919,
+            "employees_total": 40
         },
         "board": [
             {
@@ -56,7 +57,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "foundation_year": 1927
+            "foundation_year": 1927,
+            "employees_total": 15
         },
         "owners": [],
         "description": "Tillverkar brons- och mässingmetaller samt aluminium-, rödgods- och mässingsgjutgods.",
@@ -89,7 +91,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": "4550,000 kr"
+            "annual_production_value": "4550,000 kr",
+            "employees_total": 20
         },
         "description": "Tillverkar gravvårdar, skulpturarbeten och granitplattor för beklädnad av fasader samt marmorarbeten.",
         "coordinates": {
@@ -112,7 +115,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": "400,000 ikr"
+            "annual_production_value": "400,000 ikr",
+            "employees_total": 40
         },
         "owner": "Gösta Nilsson",
         "description": "Tillverkar herr- och gosskläder vid fabrik i Gullestorp (Älvsb. l.).",
@@ -146,7 +150,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 20
         },
         "owner": "fabr. Axel W. Nilsson",
         "description": "Tillverkar sandalsydda mans-, dam- och flickskodon samt sandaler vid fabrik i Sävsjö (Jönköp. l.).",
@@ -170,7 +175,8 @@
             "capital": 559000,
             "employees": {
                 "industriarb": 140
-            }
+            },
+            "employees_total": 140
         },
         "owners": [
             "dir. Sven Malmberg",
@@ -197,7 +203,8 @@
         "financials": {
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "owner": "fabr. Bror Nilsson",
         "description": "Utför gravering av valsar för tygtryckning samt för pappers-, tapet- och läderindustrier i Rydboholm (Älvsb. l.).",
@@ -220,7 +227,8 @@
             "capital": 300000,
             "employees": {
                 "industriarb": 60
-            }
+            },
+            "employees_total": 60
         },
         "owner": "disp. Bror H. Nilsson, disp. Elis Nilsson, fröken Isa Nilsson",
         "description": "Tillverkar koftor, jumpers, västar, slipovers m. m. av ylle.",

@@ -14,7 +14,8 @@
             "capital": 136800,
             "employees": {
                 "industriarb": 55
-            }
+            },
+            "employees_total": 55
         },
         "foundation_year": 1933,
         "board": [
@@ -40,7 +41,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 1
+        "cluster": 13
     },
     "2": {
         "name": "Chokladfabriken Ellt",
@@ -55,7 +56,8 @@
         "financials": {
             "employees": {
                 "industriarb": 22
-            }
+            },
+            "employees_total": 22
         },
         "foundation_year": 1920,
         "owners": [
@@ -66,7 +68,7 @@
             "Latitude": 59.36887909999999,
             "Longitude": 18.0084334
         },
-        "cluster": 1
+        "cluster": 13
     },
     "3": {
         "name": "Chokladfabriken Coody",
@@ -85,7 +87,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "AB. Chokladfabriken Marabou",
@@ -102,7 +104,8 @@
             "capital": 7500000,
             "employees": {
                 "industriarb": 610
-            }
+            },
+            "employees_total": 610
         },
         "foundation_year": 1916,
         "board": [
@@ -126,7 +129,7 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Chokladfabriken Silva AB.",
@@ -144,7 +147,8 @@
             "capital": 10000,
             "employees": {
                 "industriarb": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1943,
         "director": "Åke Sil-vander",
@@ -152,7 +156,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 4
     },
     "7": {
         "name": "Chokladfabrtkén Standard",
@@ -168,7 +172,8 @@
         "financials": {
             "employees": {
                 "industriarb": 45
-            }
+            },
+            "employees_total": 45
         },
         "foundation_year": 1920,
         "owners": [
@@ -179,7 +184,7 @@
             "Latitude": 59.4059401,
             "Longitude": 18.0256382
         },
-        "cluster": 2
+        "cluster": 13
     },
     "8": {
         "name": "AB. Choklad- & Konfektfabriken Freja",
@@ -195,7 +200,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1921,
         "board": [
@@ -213,6 +219,6 @@
             "Latitude": 60.6748796,
             "Longitude": 17.1412726
         },
-        "cluster": 2
+        "cluster": 13
     }
 }

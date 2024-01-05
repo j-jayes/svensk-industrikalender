@@ -17,7 +17,8 @@
                 "industriarb": 75
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "40,000 ton"
+            "annual_production_value": "40,000 ton",
+            "employees_total": 75
         },
         "foundation_year": 1938,
         "board": [
@@ -42,7 +43,7 @@
             "Latitude": 55.5885898,
             "Longitude": 13.79127
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Fåglaviks Glasbruk",
@@ -61,7 +62,8 @@
                 "industriarb": 120
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 120
         },
         "foundation_year": 1891,
         "board": [
@@ -83,7 +85,7 @@
             "Latitude": 58.1078458,
             "Longitude": 13.1098176
         },
-        "cluster": 1
+        "cluster": 0
     },
     "3": {
         "name": "Färe Armaturfabrik",
@@ -101,7 +103,8 @@
             "capital": 400000,
             "employees": {
                 "industriarb": 400
-            }
+            },
+            "employees_total": 400
         },
         "foundation_year": 1922,
         "board": [
@@ -124,7 +127,7 @@
             "Latitude": 56.2681512,
             "Longitude": 14.197085
         },
-        "cluster": 6
+        "cluster": 3
     },
     "4": {
         "name": "Färgfabriken Skandia",
@@ -141,7 +144,8 @@
             "capital": 100000,
             "employees": {
                 "arb-antal": 5
-            }
+            },
+            "employees_total": 5
         },
         "foundation_year": 1913,
         "director": "civiling. C.-H. Jacobson",
@@ -149,7 +153,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "Färg AB. International",
@@ -167,7 +171,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 3900000
+            "annual_production_value": 3900000,
+            "employees_total": 50
         },
         "foundation_year": 1913,
         "board": [
@@ -186,7 +191,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "Färg- & Ferniss Fabriks AB. Arvid Lindgren & Co.",
@@ -205,12 +210,13 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 5000000
+            "annual_production_value": 5000000,
+            "employees_total": 50
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

@@ -17,7 +17,8 @@
                 "industriarb": 125
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 125
         },
         "foundation_year": 1905,
         "board": [
@@ -30,7 +31,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "AB. S. Fagerberg & Söners Kartongfabrik",
@@ -47,7 +48,8 @@
             "employees": {
                 "industriarb": 8
             },
-            "annual_turnover": 55000
+            "annual_turnover": 55000,
+            "employees_total": 8
         },
         "foundation_year": 1920,
         "director": "Sigfrid Fagerberg",
@@ -55,7 +57,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "Fagernäs Väveri AB.",
@@ -72,7 +74,8 @@
             "employees": {
                 "industriarb": 28
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 28
         },
         "foundation_year": 1920,
         "corporation_year": 1936,
@@ -81,7 +84,7 @@
             "Latitude": 59.04784,
             "Longitude": 17.42373
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "Fagersanna Verken AB.",
@@ -98,7 +101,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 800000
+            "annual_turnover": 800000,
+            "employees_total": 50
         },
         "foundation_year": 1878,
         "current_name_year": 1939,
@@ -122,7 +126,7 @@
             "Latitude": 58.46794569999999,
             "Longitude": 14.2958394
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Fagersta Bruks AB.",
@@ -132,7 +136,8 @@
             "capital": 30000000,
             "employees": {
                 "industriarb": 5400
-            }
+            },
+            "employees_total": 5400
         },
         "foundation_year": 1873,
         "board": [
@@ -157,6 +162,6 @@
             "Latitude": 59.989144,
             "Longitude": 15.8166418
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

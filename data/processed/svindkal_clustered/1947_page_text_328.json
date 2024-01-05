@@ -50,7 +50,7 @@
             "Latitude": 57.80093300000001,
             "Longitude": 15.7170742
         },
-        "cluster": 2
+        "cluster": 0
     },
     "2": {
         "name": "Gullaskrufs Glasbruks AB.",
@@ -99,7 +99,7 @@
             "Latitude": 56.8757027,
             "Longitude": 15.675754
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "Cullbergs Maskinfabriks AB.",
@@ -148,7 +148,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Gullbergs Skofabrik",
@@ -176,7 +176,7 @@
             "Latitude": 59.1962252,
             "Longitude": 15.1487844
         },
-        "cluster": 9
+        "cluster": 5
     },
     "5": {
         "name": "Cullebo Snickerifabrik",
@@ -211,7 +211,7 @@
             "Latitude": 57.0222025,
             "Longitude": 14.8917539
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. Gullhögens Bruk",
@@ -259,7 +259,7 @@
             "Latitude": 58.3902782,
             "Longitude": 13.8461208
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "Gullringens Träförädling",
@@ -288,6 +288,6 @@
             "Latitude": 57.80093300000001,
             "Longitude": 15.7170742
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

@@ -19,7 +19,8 @@
                 "industriarb": 14
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 14
         },
         "foundation_year": 1943,
         "board": [
@@ -40,7 +41,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Smålands Bandfabrik, Lemke & Söner",
@@ -55,7 +56,8 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 120000
+            "annual_production_value": 120000,
+            "employees_total": 10
         },
         "foundation_year": 1934,
         "owners": [
@@ -68,7 +70,7 @@
             "Latitude": 57.43058180000001,
             "Longitude": 14.0938696
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "A B. Smålands Bryggerier",
@@ -85,7 +87,8 @@
                 "i Jönköping": 47,
                 "i Eksjö": 17
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 64
         },
         "corporation_year": 1929,
         "board": [
@@ -110,7 +113,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 2
+        "cluster": 16
     },
     "4": {
         "name": "Smålands Kraft AB",
@@ -124,7 +127,8 @@
         },
         "financials": {
             "capital": 5400000,
-            "annual_turnover": 2900000
+            "annual_turnover": 2900000,
+            "employees_total": 0
         },
         "foundation_year": 1918,
         "owners": [
@@ -134,7 +138,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "AB. Smålands Skoindustri",
@@ -150,7 +154,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 40
         },
         "foundation_year": 1931,
         "board": [
@@ -167,7 +172,7 @@
             "Latitude": 56.8338774,
             "Longitude": 13.9410417
         },
-        "cluster": 9
+        "cluster": 5
     },
     "6": {
         "name": "AB. Smålands Taberg",
@@ -182,7 +187,8 @@
             "capital": 800000,
             "employees": {
                 "industriarb": 15
-            }
+            },
+            "employees_total": 15
         },
         "foundation_year": 1939,
         "board": [
@@ -199,7 +205,7 @@
             "Latitude": 60.2775453,
             "Longitude": 15.985892
         },
-        "cluster": 6
+        "cluster": 2
     },
     "7": {
         "name": "Smålands Vaddindustri",
@@ -214,7 +220,8 @@
             "employees": {
                 "industriarb": 4
             },
-            "annual_production_value": 30000
+            "annual_production_value": 30000,
+            "employees_total": 4
         },
         "foundation_year": 1929,
         "owners": [
@@ -224,7 +231,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 8
+        "cluster": 18
     },
     "8": {
         "name": "Smålands Yllefabriks AB",
@@ -240,13 +247,14 @@
             "employees": {
                 "industriarb": 200
             },
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 200
         },
         "foundation_year": 1914,
         "coordinates": {
             "Latitude": 56.9137654,
             "Longitude": 13.9874716
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

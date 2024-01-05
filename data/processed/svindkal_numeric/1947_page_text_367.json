@@ -16,7 +16,8 @@
                 "industriarb": 8
             },
             "annual_turnover": "okänt",
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 8
         },
         "foundation_year": 1899,
         "owner_and_manager": {
@@ -27,7 +28,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Allan Holmqvist AB",
@@ -43,7 +44,8 @@
             "capital": 250000,
             "employees": {
                 "industriarb": 25
-            }
+            },
+            "employees_total": 25
         },
         "foundation_year": 1943,
         "owner_and_manager": {
@@ -53,7 +55,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "C. R. Holmqvists Boktryckeri AB",
@@ -71,7 +73,8 @@
             "capital": 50000,
             "employees": {
                 "industriarb": 24
-            }
+            },
+            "employees_total": 24
         },
         "foundation_year": 1886,
         "owner_and_manager": {
@@ -95,7 +98,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "AB. Malcus Holmquist",
@@ -110,7 +113,8 @@
             "capital": 1800000,
             "employees": {
                 "industriarb": 800
-            }
+            },
+            "employees_total": 800
         },
         "foundation_year": 1889,
         "owner_and_manager": {
@@ -168,7 +172,7 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Holms Industri AB.",
@@ -189,7 +193,8 @@
                 "industriarb": 90
             },
             "annual_turnover": "okänt",
-            "annual_production_value": 1400000
+            "annual_production_value": 1400000,
+            "employees_total": 90
         },
         "foundation_year": 1927,
         "owner_and_manager": {
@@ -217,7 +222,7 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Holms Maskinfabrik AB.",
@@ -233,7 +238,8 @@
                 "industriarb": 45
             },
             "annual_turnover": "okänt",
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 45
         },
         "foundation_year": 1940,
         "owner_and_manager": {
@@ -245,6 +251,6 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

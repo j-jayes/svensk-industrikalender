@@ -53,7 +53,7 @@
             "Latitude": 60.889025,
             "Longitude": 15.123373
         },
-        "cluster": 6
+        "cluster": 0
     },
     "2": {
         "name": "AB. Njurunda Industrier",
@@ -113,7 +113,7 @@
             "Latitude": 58.7101119,
             "Longitude": 13.8213327
         },
-        "cluster": 5
+        "cluster": 17
     },
     "4": {
         "name": "AB. Nora Bryggeri",
@@ -123,7 +123,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 2
+        "cluster": 16
     },
     "5": {
         "name": "AB. Nora Gjuteri & Mek. Verkstad",
@@ -169,7 +169,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Nora Möbelfabrik",
@@ -212,7 +212,7 @@
             "Latitude": 59.51920639999999,
             "Longitude": 15.0378667
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Nora Tändrörsfabrik",
@@ -266,7 +266,7 @@
             "Latitude": 60.0785553,
             "Longitude": 15.0110618
         },
-        "cluster": 6
+        "cluster": 18
     },
     "8": {
         "name": "C. Aug. Norberg",
@@ -276,6 +276,6 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

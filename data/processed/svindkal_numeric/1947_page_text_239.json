@@ -17,7 +17,8 @@
                 "industrial": 65
             },
             "annual_turnover": 1000000,
-            "foundation_year": 1938
+            "foundation_year": 1938,
+            "employees_total": 65
         },
         "board": [
             {
@@ -48,7 +49,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "Corda",
@@ -68,7 +69,8 @@
                 "industrial": 25
             },
             "annual_turnover": 200000,
-            "foundation_year": 1938
+            "foundation_year": 1938,
+            "employees_total": 25
         },
         "manager": "Folke Johnsson",
         "contact_description": "Akt.-kap.: 13,300 kr. Antal industriarb.: 25. Tillv.-värde pr år: 200,000 kr. — Bolaget grundat 1938.",
@@ -76,7 +78,7 @@
             "Latitude": 58.28348939999999,
             "Longitude": 12.2858206
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "Cornérs Konservfabrik",
@@ -94,7 +96,8 @@
             "employees": {
                 "industrial": 40
             },
-            "incorporation_year": 1933
+            "incorporation_year": 1933,
+            "employees_total": 40
         },
         "manager": "Helge Cornér",
         "contact_description": "Akt.-kap.: 50,000 kr. Antal industriarb.: 40. — Firman etabl. 1895, bolag 1933.",
@@ -102,7 +105,7 @@
             "Latitude": 58.27557299999999,
             "Longitude": 11.435558
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Corona Belysningskultur",
@@ -121,7 +124,8 @@
             "employees": {
                 "industrial": 28
             },
-            "incorporation_year": 1943
+            "incorporation_year": 1943,
+            "employees_total": 28
         },
         "manager": "Gunnar Cronwin",
         "sales_manager": "ing. Harry Borg",
@@ -130,7 +134,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 0
     },
     "5": {
         "name": "Coronaverken AB",
@@ -149,7 +153,8 @@
             "employees": {
                 "industrial": 65
             },
-            "contact_description": "Bolaget, grundat 1918, äger AB. Vulcanverken, Göteborg, samt driver dess verksamhet och försäljning."
+            "contact_description": "Bolaget, grundat 1918, äger AB. Vulcanverken, Göteborg, samt driver dess verksamhet och försäljning.",
+            "employees_total": 65
         },
         "board": [
             {
@@ -170,7 +175,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 7
     },
     "6": {
         "name": "Corsettindustri",
@@ -189,7 +194,8 @@
             "employees": {
                 "industrial": 150
             },
-            "foundation_year": 1932
+            "foundation_year": 1932,
+            "employees_total": 150
         },
         "manager": "Joel Åkerlund",
         "contact_description": "Akt.-kap.: 200,000 kr. Antal industriarb.: 150. — Firman etabl. 1932.",
@@ -216,7 +222,8 @@
                 "industrial": 150
             },
             "annual_turnover": 1500000,
-            "foundation_year": 1931
+            "foundation_year": 1931,
+            "employees_total": 150
         },
         "board": [
             {
@@ -230,6 +237,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

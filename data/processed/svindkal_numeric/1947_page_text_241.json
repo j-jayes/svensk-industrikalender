@@ -35,7 +35,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 700000,
-            "annual_production_value": "1500-talet"
+            "annual_production_value": "1500-talet",
+            "employees_total": 70
         },
         "foundation_year": 1898,
         "board": [
@@ -56,7 +57,7 @@
             "Latitude": 60.152358,
             "Longitude": 15.191639
         },
-        "cluster": 6
+        "cluster": 2
     },
     "2": {
         "name": "AB. Dahlqvist & Co.",
@@ -72,7 +73,8 @@
             "capital": 40000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "foundation_year": 1920,
         "board": [
@@ -91,7 +93,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Dahlqvist & Co.",
@@ -106,7 +108,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 15
         },
         "foundation_year": 1921,
         "manager": "Karl Viktor Dahlqvist",
@@ -114,7 +117,7 @@
             "Latitude": 64.5197907,
             "Longitude": 20.6566774
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "Hans Dahlstedts Kassaskåpsfabrik",
@@ -132,7 +135,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 20
         },
         "foundation_year": 1944,
         "manager": "Hans Dahlstedt",
@@ -140,7 +144,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "Dahlström & Löfgren",
@@ -155,7 +159,8 @@
         "financials": {
             "employees": {
                 "industriarb": 26
-            }
+            },
+            "employees_total": 26
         },
         "foundation_year": 1908,
         "manager": "Olof Löfgren",
@@ -163,7 +168,7 @@
             "Latitude": 58.55,
             "Longitude": 15.066667
         },
-        "cluster": 6
+        "cluster": 18
     },
     "6": {
         "name": "AB. Dakrysol",
@@ -181,7 +186,8 @@
             "employees": {
                 "arb": 10
             },
-            "annual_production_value": 120000
+            "annual_production_value": 120000,
+            "employees_total": 10
         },
         "foundation_year": 1932,
         "manager": "kamrer Fredrik Jonson",
@@ -189,7 +195,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "7": {
         "name": "Dala Flöda Snickerifabrik",
@@ -199,7 +205,7 @@
             "Latitude": 60.5079552,
             "Longitude": 14.7926914
         },
-        "cluster": 1
+        "cluster": 18
     },
     "8": {
         "name": "AB. Dala Mek. Spisbrödsbageri",
@@ -217,7 +223,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": "1,000,000 kg bröd"
+            "annual_production_value": "1,000,000 kg bröd",
+            "employees_total": 30
         },
         "foundation_year": 1902,
         "board": [
@@ -243,7 +250,7 @@
             "Latitude": 60.34665,
             "Longitude": 15.7479
         },
-        "cluster": 2
+        "cluster": 13
     },
     "9": {
         "name": "AB. Dala Skinnindustri",
@@ -260,7 +267,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_production_value": 225000
+            "annual_production_value": 225000,
+            "employees_total": 15
         },
         "foundation_year": 1938,
         "manager": "E. Ljusterdal",
@@ -285,7 +293,8 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_production_value": 160000
+            "annual_production_value": 160000,
+            "employees_total": 15
         },
         "foundation_year": 1939,
         "manager": "Nestor Eriksson",
@@ -293,6 +302,6 @@
             "Latitude": 60.60646000000001,
             "Longitude": 15.6355
         },
-        "cluster": 8
+        "cluster": 0
     }
 }

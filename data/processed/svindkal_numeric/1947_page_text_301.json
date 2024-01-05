@@ -17,14 +17,15 @@
             "employees": {
                 "industriarb": 60
             },
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 60
         },
         "foundation_year": 1942,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 3
+        "cluster": 19
     },
     "2": {
         "name": "Fougstedts Klädes- & Konfektions AB.",
@@ -44,14 +45,15 @@
             "employees": {
                 "industriarb": 205
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 205
         },
         "foundation_year": 1857,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 3
+        "cluster": 19
     },
     "3": {
         "name": "Fougstedts Pälsvarufabrik, Nya AB.",
@@ -61,7 +63,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 9
     },
     "4": {
         "name": "Framnäs Väveri AB.",
@@ -78,19 +80,20 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 50
         },
         "foundation_year": 1900,
         "coordinates": {
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 3
+        "cluster": 1
     },
     "5": {
         "name": "Framnäs Ångsåg, Sävsjöström",
         "products": "Se AB. Brusafors-Hällefors, Silverdalen.",
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "Framtiden, Tryckeri AB.",
@@ -100,7 +103,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "AB. Carl Franckes Läder & Skofabrik",
@@ -121,14 +124,15 @@
             "employees": {
                 "industriarb": 175
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 175
         },
         "foundation_year": 1888,
         "coordinates": {
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 9
+        "cluster": 5
     },
     "8": {
         "name": "L. E. Franksson, Sågverk & Hyvleri",
@@ -138,7 +142,7 @@
             "Latitude": 60.89178399999999,
             "Longitude": 16.7201873
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "Erik Franssons Fabriker",
@@ -156,14 +160,15 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 650000
+            "annual_turnover": 650000,
+            "employees_total": 35
         },
         "foundation_year": 1936,
         "coordinates": {
             "Latitude": 57.7090032,
             "Longitude": 14.321606
         },
-        "cluster": 8
+        "cluster": 15
     },
     "10": {
         "name": "Franzéns Trävaru AB.",
@@ -178,14 +183,15 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 25
         },
         "foundation_year": 1929,
         "coordinates": {
             "Latitude": 57.0057719,
             "Longitude": 15.1839865
         },
-        "cluster": 7
+        "cluster": 8
     },
     "11": {
         "name": "Fredfors Fabriks AB.",
@@ -204,7 +210,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 10
-            }
+            },
+            "employees_total": 10
         },
         "foundation_year": 1887,
         "corporation_year": 1934,
@@ -212,6 +219,6 @@
             "Latitude": 59.33688530000001,
             "Longitude": 17.9638876
         },
-        "cluster": 6
+        "cluster": 9
     }
 }

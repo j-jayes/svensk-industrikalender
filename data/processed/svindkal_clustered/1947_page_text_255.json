@@ -33,7 +33,7 @@
             "postgiro": "8945",
             "telegraph": "Eickhoff, Norrköping"
         },
-        "cluster": 1
+        "cluster": 4
     },
     "2": {
         "name": "H. Eickhoff",
@@ -60,7 +60,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 3
+        "cluster": 1
     },
     "3": {
         "name": "AB, Eilas",
@@ -101,7 +101,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Ekbergs Eftr. O. Ekberg",
@@ -157,7 +157,7 @@
             "Latitude": 57.75771559999999,
             "Longitude": 16.6369759
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "Bror Ekegrens Boktryckeri",
@@ -183,7 +183,7 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 5
+        "cluster": 10
     },
     "7": {
         "name": "AB. Ekelund & Söderbom",
@@ -213,7 +213,7 @@
             "Latitude": 57.50984,
             "Longitude": 12.6941321
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "Oscar Edv. Ekelunds Snickerifabriks AB.",
@@ -265,7 +265,7 @@
             "Latitude": 57.3199949,
             "Longitude": 15.5812344
         },
-        "cluster": 8
+        "cluster": 15
     },
     "9": {
         "name": "AB. C. Ekengren Mösskonfektion",
@@ -291,7 +291,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 19
     },
     "10": {
         "name": "Ekengårds Maskinfabrik, S. B. Nelson",
@@ -309,6 +309,6 @@
             "Latitude": 56.0537433,
             "Longitude": 14.5796878
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

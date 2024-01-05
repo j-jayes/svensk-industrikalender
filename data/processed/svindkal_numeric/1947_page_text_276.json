@@ -13,7 +13,8 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_turnover": 240000
+            "annual_turnover": 240000,
+            "employees_total": 23
         },
         "foundation_year": 1913,
         "owner": "fabr. W. L. Jernström",
@@ -21,7 +22,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Eskilstuna Stålpressnings AB",
@@ -41,7 +42,8 @@
             "employees": {
                 "industriarb": 580
             },
-            "annual_turnover": 12000000
+            "annual_turnover": 12000000,
+            "employees_total": 580
         },
         "foundation_year": 1893,
         "owners": "AB. Separator, Stockholm",
@@ -70,7 +72,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 2
     },
     "3": {
         "name": "Eskilstuna Termometerfabrik",
@@ -86,7 +88,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 150000
+            "annual_turnover": 150000,
+            "employees_total": 20
         },
         "foundation_year": 1941,
         "owner": "fabr. Fritz Feingold",
@@ -94,7 +97,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 0
     },
     "4": {
         "name": "Eskilstuna Vattenpassfabrik",
@@ -110,7 +113,8 @@
             "employees": {
                 "arb.-antal": 11
             },
-            "annual_turnover": 105000
+            "annual_turnover": 105000,
+            "employees_total": 11
         },
         "foundation_year": 1923,
         "owner": "fabr. Ax. Ridderström",
@@ -118,7 +122,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Eslövs Korkfabrik",
@@ -137,7 +141,7 @@
             "Latitude": 55.8391198,
             "Longitude": 13.3033914
         },
-        "cluster": 2
+        "cluster": 0
     },
     "6": {
         "name": "Eslövs Skofabriks AB.",
@@ -165,7 +169,8 @@
             "employees": {
                 "industriarb": 115
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 115
         },
         "board": [
             {
@@ -195,7 +200,7 @@
             "Latitude": 55.8391198,
             "Longitude": 13.3033914
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "Eslövs Yllefabriks AB.",
@@ -213,7 +218,8 @@
             "employees": {
                 "industriarb": 85
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 85
         },
         "foundation_year": 1905,
         "owners": "disp. Albert Herrmann, disp. Gerhard Herrmann, adv. Wilh. Penser",
@@ -225,7 +231,7 @@
             "Latitude": 55.8391198,
             "Longitude": 13.3033914
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "AB. Esma",
@@ -242,7 +248,8 @@
             "employees": {
                 "arb.-antal": 9
             },
-            "annual_turnover": 110000
+            "annual_turnover": 110000,
+            "employees_total": 9
         },
         "foundation_year": 1938,
         "manager": "Göte Åkesson",
@@ -250,7 +257,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 3
     },
     "9": {
         "name": "AB. Espagnolettfabriken Fix",

@@ -23,7 +23,8 @@
                 "industriarb": 225
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "50,000 ton torr, oblekt, stark sulfitcellulosa"
+            "annual_production_value": "50,000 ton torr, oblekt, stark sulfitcellulosa",
+            "employees_total": 225
         },
         "foundation_year": 1897,
         "board": [
@@ -44,7 +45,7 @@
             "Latitude": 62.773703,
             "Longitude": 17.9164936
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "AB. Utländskt Trä",
@@ -65,7 +66,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 1000000,
-            "annual_production_value": "Not provided"
+            "annual_production_value": "Not provided",
+            "employees_total": 30
         },
         "foundation_year": 1912,
         "board": [
@@ -82,7 +84,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Utnäs Tegelbruk",
@@ -98,7 +100,8 @@
                 "industriarb": 25
             },
             "annual_turnover": "Not provided",
-            "annual_production_value": "1 milj. st. tegel"
+            "annual_production_value": "1 milj. st. tegel",
+            "employees_total": 25
         },
         "foundation_year": 1913,
         "director": "ing. Ivar J. Dahlén",
@@ -106,7 +109,7 @@
             "Latitude": 63.0824973,
             "Longitude": 17.7524903
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Utsiktens Bryggeri",
@@ -116,6 +119,6 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

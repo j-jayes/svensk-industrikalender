@@ -27,7 +27,8 @@
                 "industriarb": 90
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 90
         },
         "foundation_year": 1919,
         "current_name_year": "N/A",
@@ -59,7 +60,7 @@
             "Latitude": 57.50394780000001,
             "Longitude": 14.7079586
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Sandsjöfors Borstträfabrik",
@@ -84,7 +85,8 @@
                 "industriarb": 80
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 80
         },
         "foundation_year": 1922,
         "current_name_year": "N/A",
@@ -108,7 +110,7 @@
             "Latitude": 57.50394780000001,
             "Longitude": 14.7079586
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Sandslätts Möbel- & Industri AB.",
@@ -133,7 +135,8 @@
                 "industriarb": 90
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 90
         },
         "foundation_year": 1920,
         "current_name_year": "N/A",
@@ -173,7 +176,7 @@
             "Latitude": 56.9381594,
             "Longitude": 15.9127217
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "AB. Sandwalls Angbryggeri",
@@ -198,7 +201,8 @@
                 "industriarb": 32
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 32
         },
         "foundation_year": 1862,
         "current_name_year": 1944,
@@ -230,7 +234,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 2
+        "cluster": 16
     },
     "5": {
         "name": "Sandvikens Cellulosa AB.",
@@ -260,7 +264,8 @@
                 "industriarb": 200
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "30,000 ton sulfatmassa"
+            "annual_production_value": "30,000 ton sulfatmassa",
+            "employees_total": 200
         },
         "foundation_year": 1869,
         "current_name_year": 1927,
@@ -292,7 +297,7 @@
             "Latitude": 62.9690304,
             "Longitude": 17.7299441
         },
-        "cluster": 2
+        "cluster": 3
     },
     "6": {
         "name": "Sandvikens Dissousgas AB.",
@@ -317,7 +322,8 @@
                 "arb.-antal": 16
             },
             "annual_turnover": "N/A",
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 16
         },
         "foundation_year": 1916,
         "current_name_year": "N/A",
@@ -349,6 +355,6 @@
             "Latitude": 60.621607,
             "Longitude": 16.775918
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

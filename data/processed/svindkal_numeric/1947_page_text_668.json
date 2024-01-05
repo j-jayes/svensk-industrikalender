@@ -19,7 +19,8 @@
             "capital": 5000000,
             "employees": {
                 "industriarb": 100
-            }
+            },
+            "employees_total": 100
         },
         "foundation_year": 1939,
         "board": [
@@ -60,7 +61,7 @@
             "Latitude": 56.0405672,
             "Longitude": 13.678025
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Svenska Ackumulator AB. Jungner",
@@ -115,7 +116,8 @@
             "capital": 6298500,
             "employees": {
                 "industriarb": 1050
-            }
+            },
+            "employees_total": 1050
         },
         "foundation_year": 1910,
         "board": [
@@ -148,7 +150,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "Svenska Aeroplan AB.",
@@ -168,7 +170,8 @@
             "capital": 21000000,
             "employees": {
                 "industriarb": 2500
-            }
+            },
+            "employees_total": 2500
         },
         "foundation_year": 1937,
         "board": [
@@ -201,7 +204,7 @@
             "Latitude": 58.41080700000001,
             "Longitude": 15.6213727
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Svenska Aloxidverken AB.",
@@ -223,7 +226,8 @@
             "capital": 3000000,
             "employees": {
                 "industriarb": 150
-            }
+            },
+            "employees_total": 150
         },
         "foundation_year": 1941,
         "board": [
@@ -252,7 +256,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Svenska Aluminiumkompaniet",
@@ -274,7 +278,8 @@
             "capital": 3500000,
             "employees": {
                 "industriarb": 95
-            }
+            },
+            "employees_total": 95
         },
         "foundation_year": 1934,
         "annual_turnover": 3000000,
@@ -283,6 +288,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

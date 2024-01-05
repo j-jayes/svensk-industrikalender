@@ -15,7 +15,8 @@
         },
         "financials": {
             "capital": 250100,
-            "annual_turnover": 1500000
+            "annual_turnover": 1500000,
+            "employees_total": 0
         },
         "foundation_year": 1864,
         "corporation_year": 1930,
@@ -29,7 +30,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "AB. Schwartzman & Nordström",
@@ -43,7 +44,8 @@
         },
         "financials": {
             "capital": 2000000,
-            "annual_turnover": 11000000
+            "annual_turnover": 11000000,
+            "employees_total": 0
         },
         "foundation_year": 1903,
         "board": [
@@ -67,7 +69,7 @@
             "Latitude": 58.3498003,
             "Longitude": 11.935649
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Georg Schönander",
@@ -82,7 +84,8 @@
         "financials": {
             "employees": {
                 "antal": 100
-            }
+            },
+            "employees_total": 100
         },
         "foundation_year": 1921,
         "director": "ing. Georg Schönander",
@@ -90,7 +93,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "R. Schönwell, Mössfabrik",
@@ -102,7 +105,8 @@
             "postgiro": "37908"
         },
         "financials": {
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 0
         },
         "foundation_year": 1934,
         "director": "fabr. R. Schönwell",
@@ -121,7 +125,8 @@
             "postgiro": "3764"
         },
         "financials": {
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "owners": [
@@ -132,7 +137,7 @@
             "Latitude": 59.283333,
             "Longitude": 18.05
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "See Fabriks AB.",
@@ -149,7 +154,8 @@
             "employees": {
                 "antal": 655
             },
-            "annual_turnover": 10000000
+            "annual_turnover": 10000000,
+            "employees_total": 655
         },
         "foundation_year": 1895,
         "board": [
@@ -179,7 +185,7 @@
             "Latitude": 60.621607,
             "Longitude": 16.775918
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "AB. W. Segerströms Metallvarufabrik",
@@ -198,7 +204,8 @@
             "employees": {
                 "antal": 40
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 40
         },
         "foundation_year": 1902,
         "corporation_year": 1944,
@@ -206,6 +213,6 @@
             "Latitude": 56.245748,
             "Longitude": 12.863881
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

@@ -17,7 +17,8 @@
                 "industriarb": 37
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 37
         },
         "foundation_year": 1923,
         "board": [
@@ -36,7 +37,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "2": {
         "name": "AB. Lödöse Yarf",
@@ -56,7 +57,8 @@
                 "industriarb": 150
             },
             "annual_turnover": 1500000,
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 150
         },
         "foundation_year": 1899,
         "board": [
@@ -83,7 +85,7 @@
             "Latitude": 58.03274090000001,
             "Longitude": 12.1562058
         },
-        "cluster": 0
+        "cluster": 7
     },
     "3": {
         "name": "AB. a. P. Löfbergs Pianofabrik",
@@ -103,7 +105,8 @@
                 "Arb.-antal": 18
             },
             "annual_turnover": 200000,
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 18
         },
         "foundation_year": 1881,
         "current_name_year": 1912,
@@ -131,7 +134,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "AB. Löfgren &amp; Wahlberg",
@@ -146,7 +149,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 60
         },
         "foundation_year": 1934,
         "board": [],
@@ -160,7 +164,7 @@
             "Latitude": 64.750244,
             "Longitude": 20.950917
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Gust. Löfquist AB",
@@ -175,7 +179,8 @@
                 "industriarb": 12
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 12
         },
         "foundation_year": 1895,
         "current_name_year": 1940,
@@ -211,7 +216,7 @@
             "Latitude": 57.6348,
             "Longitude": 18.29484
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. Löfsko",
@@ -230,7 +235,8 @@
                 "industriarb": 140
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 140
         },
         "foundation_year": 1909,
         "current_name_year": 1945,
@@ -266,7 +272,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "Johu Löfström AB",
@@ -283,7 +289,8 @@
                 "industriarb": 21
             },
             "annual_turnover": 350000,
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 21
         },
         "foundation_year": 1929,
         "board": [
@@ -310,7 +317,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     },
     "8": {
         "name": "Löfuddens AB",
@@ -330,7 +337,8 @@
                 "industriarb": "N/A"
             },
             "annual_turnover": "N/A",
-            "annual_production_value": "N/A"
+            "annual_production_value": "N/A",
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "board": [
@@ -349,6 +357,6 @@
             "Latitude": 62.6322698,
             "Longitude": 17.9408714
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

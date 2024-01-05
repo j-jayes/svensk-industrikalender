@@ -17,7 +17,8 @@
                 "industriarb": 100
             },
             "annual_turnover": 600000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 100
         },
         "foundation_year": 1910,
         "board": [
@@ -46,7 +47,7 @@
             "Latitude": 57.824945,
             "Longitude": 13.007778
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "Skruv AB. (i Uddeholm)",
@@ -71,7 +72,8 @@
                 "industriarb": 250
             },
             "annual_turnover": 5000000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 250
         },
         "foundation_year": "",
         "board": [
@@ -104,7 +106,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Skruvfabriks AB. Strängnäs",
@@ -128,7 +130,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 210000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 15
         },
         "foundation_year": 1919,
         "board": [],
@@ -140,7 +143,7 @@
             "Latitude": 59.37745229999999,
             "Longitude": 17.0321193
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Skutskärs Fabriker",
@@ -164,7 +167,8 @@
                 "industriarb": 570
             },
             "annual_turnover": "",
-            "annual_production_value": "30,000 ton sulfitcellulosa samt 50,000 ton blekt sulfatcellulosa av extra stark specialkvalitet."
+            "annual_production_value": "30,000 ton sulfitcellulosa samt 50,000 ton blekt sulfatcellulosa av extra stark specialkvalitet.",
+            "employees_total": 570
         },
         "foundation_year": "",
         "board": [],
@@ -176,7 +180,7 @@
             "Latitude": 60.6255911,
             "Longitude": 17.4135581
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Skutskärs Sågverk",
@@ -200,7 +204,8 @@
                 "industriarb": 300
             },
             "annual_turnover": "",
-            "annual_production_value": "20,000 stds sågade och hyvlade trävaror."
+            "annual_production_value": "20,000 stds sågade och hyvlade trävaror.",
+            "employees_total": 300
         },
         "foundation_year": "",
         "board": [],
@@ -212,6 +217,6 @@
             "Latitude": 60.6255911,
             "Longitude": 17.4135581
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

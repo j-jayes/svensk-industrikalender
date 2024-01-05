@@ -47,7 +47,8 @@
                 "industriarb": 4700
             },
             "foundation_year": 1862,
-            "corporation_year": 1868
+            "corporation_year": 1868,
+            "employees_total": 4700
         },
         "board": [
             {
@@ -86,7 +87,7 @@
             "Latitude": 60.6717302,
             "Longitude": 16.7782707
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "Sandvikens Metallvarufabrik",
@@ -102,7 +103,8 @@
         "financials": {
             "employees": 7,
             "annual_production_value": 12000,
-            "foundation_year": 1941
+            "foundation_year": 1941,
+            "employees_total": 0
         },
         "owners": [
             "William Lööf"
@@ -111,7 +113,7 @@
             "Latitude": 60.6717302,
             "Longitude": 16.7782707
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "S:t Erik, Konfektions AB.",

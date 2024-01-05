@@ -11,7 +11,8 @@
             "postgiro": "3141"
         },
         "financials": {
-            "capital": 119000000
+            "capital": 119000000,
+            "employees_total": 0
         },
         "foundation_year": 1896,
         "board": [
@@ -54,7 +55,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 2
     },
     "2": {
         "name": "AB. Trané",
@@ -69,7 +70,8 @@
             "postgiro": "2226"
         },
         "financials": {
-            "capital": 15000
+            "capital": 15000,
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "board": [
@@ -97,7 +99,8 @@
         },
         "financials": {
             "capital": 100000,
-            "annual_turnover": 600000
+            "annual_turnover": 600000,
+            "employees_total": 0
         },
         "foundation_year": 1919,
         "corporation_year": 1923,
@@ -124,7 +127,7 @@
             "Latitude": 57.4855688,
             "Longitude": 13.35241
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "Tranemo Textil AB.",
@@ -137,7 +140,8 @@
             "postgiro": "88336"
         },
         "financials": {
-            "capital": 35200
+            "capital": 35200,
+            "employees_total": 0
         },
         "foundation_year": 1934,
         "board": [
@@ -150,7 +154,7 @@
             "Latitude": 57.4855688,
             "Longitude": 13.35241
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Tranemo Trikåindustri AB.",
@@ -165,7 +169,8 @@
             "postgiro": "77000"
         },
         "financials": {
-            "capital": 15000
+            "capital": 15000,
+            "employees_total": 0
         },
         "foundation_year": 1945,
         "corporation_year": 1946,
@@ -183,7 +188,7 @@
             "Latitude": 57.4855688,
             "Longitude": 13.35241
         },
-        "cluster": 3
+        "cluster": 9
     },
     "6": {
         "name": "Tranemo Yllefabriks AB.",
@@ -199,7 +204,8 @@
         },
         "financials": {
             "capital": 250000,
-            "annual_production_value": 2800000
+            "annual_production_value": 2800000,
+            "employees_total": 0
         },
         "foundation_year": 1935,
         "board": [
@@ -216,7 +222,7 @@
             "Latitude": 57.4855688,
             "Longitude": 13.35241
         },
-        "cluster": 9
+        "cluster": 19
     },
     "7": {
         "name": "Transformatorfabriken, Svenska",
@@ -247,7 +253,7 @@
             "Latitude": 56.8440678,
             "Longitude": 15.3960304
         },
-        "cluster": 1
+        "cluster": 0
     },
     "9": {
         "name": "Transportbolaget",
@@ -275,6 +281,6 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

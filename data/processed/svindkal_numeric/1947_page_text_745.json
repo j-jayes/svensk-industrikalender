@@ -36,7 +36,8 @@
                 "industriarb": 30
             },
             "annual_turnover": "NotAvailable",
-            "annual_production_value": "NotAvailable"
+            "annual_production_value": "NotAvailable",
+            "employees_total": 30
         },
         "foundation_year": 1886,
         "corporation_year": 1903,
@@ -58,7 +59,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 3
     },
     "2": {
         "name": "AB. K. F. Wahlgren",
@@ -74,7 +75,8 @@
             "capital": 10000,
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1946,
         "board": [
@@ -95,7 +97,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "Erik Wahlqvist AB.",
@@ -114,7 +116,8 @@
                 "industriarb": 20
             },
             "annual_turnover": "NotAvailable",
-            "annual_production_value": 200000
+            "annual_production_value": 200000,
+            "employees_total": 20
         },
         "foundation_year": 1914,
         "corporation_year": 1933,
@@ -128,7 +131,7 @@
             "Latitude": 59.06165319999999,
             "Longitude": 16.7109753
         },
-        "cluster": 7
+        "cluster": 15
     },
     "4": {
         "name": "Wahlqvistska Klädesfabriken C. A.Svahn",
@@ -147,7 +150,8 @@
                 "industriarb": 200
             },
             "annual_turnover": 2000000,
-            "annual_production_value": "NotAvailable"
+            "annual_production_value": "NotAvailable",
+            "employees_total": 200
         },
         "foundation_year": 1824,
         "board": [
@@ -160,7 +164,7 @@
             "Latitude": 56.2619903,
             "Longitude": 14.76907
         },
-        "cluster": 3
+        "cluster": 19
     },
     "5": {
         "name": "L. E. Wahlström",
@@ -176,7 +180,8 @@
                 "industriarb": 30
             },
             "annual_turnover": "NotAvailable",
-            "annual_production_value": 550000
+            "annual_production_value": 550000,
+            "employees_total": 30
         },
         "foundation_year": 1904,
         "corporation_year": 1927,
@@ -190,7 +195,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 2
+        "cluster": 17
     },
     "6": {
         "name": "AB. Waidele",
@@ -207,7 +212,8 @@
                 "industriarb": 39
             },
             "annual_turnover": "NotAvailable",
-            "annual_production_value": "NotAvailable"
+            "annual_production_value": "NotAvailable",
+            "employees_total": 39
         },
         "foundation_year": 1880,
         "corporation_year": 1924,
@@ -229,7 +235,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "Waksala Nya Tegelbruk, Lundqvist & Johansson",
@@ -255,7 +261,8 @@
                 "industriarb": 30
             },
             "annual_turnover": "NotAvailable",
-            "annual_production_value": "2.3 milj. tegel var or."
+            "annual_production_value": "2.3 milj. tegel var or.",
+            "employees_total": 30
         },
         "foundation_year": 1912,
         "board": [
@@ -268,7 +275,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "8": {
         "name": "Valbo Verkstads AB.",
@@ -287,7 +294,8 @@
                 "industriarb": 40
             },
             "annual_turnover": "NotAvailable",
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 40
         },
         "foundation_year": 1919,
         "corporation_year": 1929,
@@ -309,6 +317,6 @@
             "Latitude": 60.66595729999999,
             "Longitude": 17.0018608
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

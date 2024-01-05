@@ -16,7 +16,8 @@
             "employees": {
                 "industri-sarb": 30
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 30
         },
         "foundation_year": 1907,
         "current_name_year": 1944,
@@ -27,7 +28,7 @@
             "Latitude": 60.484304,
             "Longitude": 15.433969
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. John Fröberg",
@@ -44,7 +45,8 @@
         "financials": {
             "capital": 125000,
             "employees": {},
-            "annual_production_value": 1300000
+            "annual_production_value": 1300000,
+            "employees_total": 0
         },
         "foundation_year": 1879,
         "corporation_year": 1926,
@@ -74,7 +76,7 @@
             "Latitude": 58.7074884,
             "Longitude": 15.773595
         },
-        "cluster": 5
+        "cluster": 10
     },
     "3": {
         "name": "Frölings Paraplyindustri",
@@ -87,7 +89,9 @@
             ],
             "postgiro": "14304"
         },
-        "financials": {},
+        "financials": {
+            "employees_total": 0
+        },
         "foundation_year": 1942,
         "owners": [
             "köpm. Bernt Fröling"
@@ -96,7 +100,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 1
+        "cluster": 9
     },
     "4": {
         "name": "AB. Frövifors Bruks AB.",
@@ -117,7 +121,8 @@
             "employees": {
                 "industriarb": 180
             },
-            "annual_turnover": "12,000 ton papper, 30,000 ton sulfatcellulosa"
+            "annual_turnover": "12,000 ton papper, 30,000 ton sulfatcellulosa",
+            "employees_total": 180
         },
         "foundation_year": 1902,
         "current_name_year": "",
@@ -151,7 +156,7 @@
             "Latitude": 59.46457889999999,
             "Longitude": 15.3648866
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "AB. Fundament",
@@ -167,7 +172,8 @@
         },
         "financials": {
             "capital": 250000,
-            "annual_production_value": 3500000
+            "annual_production_value": 3500000,
+            "employees_total": 0
         },
         "foundation_year": 1923,
         "owners": [],
@@ -196,6 +202,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

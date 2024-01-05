@@ -20,7 +20,8 @@
                 "industriarb": 125
             },
             "annual_turnover": "Annual turnover of the firm.",
-            "annual_production_value": "Annual production value."
+            "annual_production_value": "Annual production value.",
+            "employees_total": 125
         },
         "foundation_year": 1907,
         "board": [
@@ -53,7 +54,7 @@
             "Latitude": 58.985467,
             "Longitude": 14.096623
         },
-        "cluster": 6
+        "cluster": 12
     },
     "2": {
         "name": "AB. Cummerat Papper",
@@ -70,7 +71,8 @@
         },
         "financials": {
             "capital": 16200,
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 0
         },
         "foundation_year": 1940,
         "board": [
@@ -95,7 +97,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "3": {
         "name": "Cummessons Boktryckeri AB",
@@ -114,7 +116,8 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_production_value": 475000
+            "annual_production_value": 475000,
+            "employees_total": 23
         },
         "foundation_year": 1935,
         "board": [
@@ -135,7 +138,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "Gumpel & Bengtson AB",
@@ -151,7 +154,8 @@
         },
         "financials": {
             "capital": 500000,
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 0
         },
         "foundation_year": 1911,
         "corporation_year": 1937,
@@ -170,6 +174,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

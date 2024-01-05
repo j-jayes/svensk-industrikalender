@@ -22,7 +22,8 @@
                 "industriarb": 85
             },
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 85
         },
         "foundation_year": 1850,
         "board": [
@@ -52,7 +53,7 @@
             "Latitude": 56.0537433,
             "Longitude": 14.5796878
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Lillåns Konfektion, Torkeisson & Co.",
@@ -94,7 +95,8 @@
             "capital": 1000000,
             "employees": {
                 "industriarb": "225"
-            }
+            },
+            "employees_total": 0
         },
         "foundation_year": 1916,
         "board": [
@@ -120,7 +122,7 @@
             "Latitude": 55.5724415,
             "Longitude": 12.9147749
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Limhamns Stegindustri, Fr. Holmstrand",
@@ -151,7 +153,7 @@
             "Latitude": 55.5724415,
             "Longitude": 12.9147749
         },
-        "cluster": 0
+        "cluster": 14
     },
     "5": {
         "name": "Limhamns Träindustri AB.",
@@ -165,7 +167,8 @@
         },
         "financials": {
             "capital": 516000,
-            "annual_production_value": 10000000
+            "annual_production_value": 10000000,
+            "employees_total": 0
         },
         "foundation_year": 1886,
         "board": [
@@ -187,7 +190,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 15
     },
     "6": {
         "name": "Linberedningen",
@@ -201,7 +204,8 @@
             "industriarb": 150
         },
         "financials": {
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 0
         },
         "owner": "Mellersta Sveriges Linodlareförening u. p. a.",
         "director": "Frey Larsson",
@@ -209,6 +213,6 @@
             "Latitude": 59.3100677,
             "Longitude": 14.1089192
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

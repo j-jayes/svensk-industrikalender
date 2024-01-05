@@ -15,7 +15,8 @@
                 "industriarb": 60,
                 "hemarbetare": 70
             },
-            "annual_turnover": "l,300,000 kr"
+            "annual_turnover": "l,300,000 kr",
+            "employees_total": 130
         },
         "foundation_year": 1938,
         "board": [
@@ -37,7 +38,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "Sprakareds Emalj verk",
@@ -48,7 +49,8 @@
             "postgiro": "76776"
         },
         "financials": {
-            "employees": 7
+            "employees": 7,
+            "employees_total": 0
         },
         "foundation_year": 1893,
         "director": "ing. Sölve Ericson",
@@ -56,7 +58,7 @@
             "Latitude": 57.5270879,
             "Longitude": 12.7293925
         },
-        "cluster": 1
+        "cluster": 0
     },
     "3": {
         "name": "AB. Spånga Ved- & Brädgårdar",
@@ -71,7 +73,8 @@
         },
         "financials": {
             "capital": 25400,
-            "employees": 14
+            "employees": 14,
+            "employees_total": 0
         },
         "foundation_year": 1913,
         "board": [
@@ -97,7 +100,7 @@
             "Latitude": 59.381668,
             "Longitude": 17.9012902
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Spångsholms Bruks AB.",
@@ -109,7 +112,8 @@
         },
         "financials": {
             "capital": 1015000,
-            "employees": 155
+            "employees": 155,
+            "employees_total": 0
         },
         "foundation_year": 1898,
         "current_name_year": 1941,
@@ -132,7 +136,7 @@
             "Latitude": 58.3345029,
             "Longitude": 15.2242373
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "P. O. Stackes Träförädling",
@@ -143,7 +147,8 @@
             "postgiro": "86829"
         },
         "financials": {
-            "employees": 6
+            "employees": 6,
+            "employees_total": 0
         },
         "foundation_year": 1934,
         "director": "fabr. Oscar Stacke",
@@ -151,7 +156,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Stafnäs Ullspinneri & Väver i AB.",
@@ -164,7 +169,8 @@
         },
         "financials": {
             "capital": 33500,
-            "employees": 60
+            "employees": 60,
+            "employees_total": 0
         },
         "foundation_year": 1888,
         "corporation_year": 1940,
@@ -183,7 +189,7 @@
             "Latitude": 59.53778260000001,
             "Longitude": 12.7433992
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "Stafsjö Bruk, Hedin, Lindström & Co.",
@@ -196,7 +202,8 @@
         },
         "financials": {
             "employees": 50,
-            "annual_production_value": 660000
+            "annual_production_value": 660000,
+            "employees_total": 0
         },
         "foundation_year": 1936,
         "owners": [
@@ -209,7 +216,7 @@
             "Latitude": 58.71667,
             "Longitude": 16.43333
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "Stallarholmens Industri AB.",
@@ -220,6 +227,6 @@
             "Latitude": 59.37745229999999,
             "Longitude": 17.0321193
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

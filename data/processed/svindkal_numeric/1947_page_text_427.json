@@ -12,7 +12,8 @@
             "postgiro": "29009"
         },
         "financials": {
-            "capital": 400000
+            "capital": 400000,
+            "employees_total": 0
         },
         "foundation_year": 1917,
         "current_name_year": 1940,
@@ -26,7 +27,7 @@
             "Latitude": 58.3797283,
             "Longitude": 12.3248032
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "Kiruna Ölbryggeri AB.",
@@ -37,7 +38,8 @@
             "postgiro": "61679"
         },
         "financials": {
-            "capital": 100000
+            "capital": 100000,
+            "employees_total": 0
         },
         "foundation_year": 1905,
         "board": [
@@ -62,7 +64,7 @@
             "Latitude": 67.8557995,
             "Longitude": 20.2252821
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "Kirurgiska Instrument Fabriks AB.",
@@ -76,7 +78,8 @@
             "postgiro": "2103"
         },
         "financials": {
-            "capital": 550000
+            "capital": 550000,
+            "employees_total": 0
         },
         "foundation_year": 1911,
         "board": [
@@ -108,7 +111,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "AB. Kjells Armaturfabrik",
@@ -119,7 +122,8 @@
             "postgiro": "87350"
         },
         "financials": {
-            "capital": 120000
+            "capital": 120000,
+            "employees_total": 0
         },
         "foundation_year": 1918,
         "board": [
@@ -150,7 +154,7 @@
             "Latitude": 58.8058606,
             "Longitude": 12.1563562
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "Kjellander & Co.",
@@ -169,7 +173,7 @@
             "Latitude": 57.42746,
             "Longitude": 15.08533
         },
-        "cluster": 6
+        "cluster": 0
     },
     "6": {
         "name": "A. P. Kjellgrens Brödfabrik AB.",
@@ -180,7 +184,8 @@
             "postgiro": "27907"
         },
         "financials": {
-            "capital": 160000
+            "capital": 160000,
+            "employees_total": 0
         },
         "foundation_year": 1911,
         "board": [
@@ -210,7 +215,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 2
+        "cluster": 13
     },
     "7": {
         "name": "Kjellströms Mek. Verkstad",
@@ -231,7 +236,7 @@
             "Latitude": 58.298928,
             "Longitude": 13.1853539
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "AB. Klackfabriken",
@@ -242,7 +247,8 @@
             "postgiro": "26744"
         },
         "financials": {
-            "capital": 120000
+            "capital": 120000,
+            "employees_total": 0
         },
         "foundation_year": 1918,
         "board": [
@@ -255,6 +261,6 @@
             "Latitude": 57.3199949,
             "Longitude": 15.5812344
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

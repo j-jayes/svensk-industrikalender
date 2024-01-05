@@ -19,7 +19,8 @@
                 "industriarb": 15
             },
             "foundation_year": 1908,
-            "corporation_year": 1936
+            "corporation_year": 1936,
+            "employees_total": 15
         },
         "board": [
             {
@@ -42,7 +43,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Hj. Wikström",
@@ -56,7 +57,8 @@
             "employees": {
                 "Arb.-antal": 4
             },
-            "foundation_year": 1902
+            "foundation_year": 1902,
+            "employees_total": 4
         },
         "owners": [
             "Hjalmar Wikström"
@@ -65,7 +67,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Vimmerby Bryggeri",
@@ -96,7 +98,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 50
         },
         "foundation_year": 1935,
         "director": "Tore Isberg",
@@ -104,7 +107,7 @@
             "Latitude": 57.6690339,
             "Longitude": 15.858857
         },
-        "cluster": 0
+        "cluster": 15
     },
     "5": {
         "name": "Vimmerby Läderfabriks AB.",
@@ -120,7 +123,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 40
         },
         "foundation_year": 1881,
         "coordinates": {
@@ -141,14 +145,15 @@
             "employees": {
                 "industriarb": 27
             },
-            "annual_production_value": 325000
+            "annual_production_value": 325000,
+            "employees_total": 27
         },
         "foundation_year": 1892,
         "coordinates": {
             "Latitude": 57.6690339,
             "Longitude": 15.858857
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "AB. Th. Winborg & Co.",
@@ -165,7 +170,8 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_production_value": 7000000
+            "annual_production_value": 7000000,
+            "employees_total": 150
         },
         "foundation_year": 1861,
         "board": [
@@ -186,7 +192,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "8": {
         "name": "AB. P. Winckler & Comp.",
@@ -202,7 +208,8 @@
             "employees": {
                 "industriarb": 7
             },
-            "annual_production_value": 125000
+            "annual_production_value": 125000,
+            "employees_total": 7
         },
         "foundation_year": 1906,
         "board": [
@@ -223,7 +230,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 8
+        "cluster": 15
     },
     "9": {
         "name": "L. J. Wingqvist, Fritsla Mekaniska Väfveri & Spinnerier",
@@ -234,6 +241,6 @@
             "Latitude": 57.5577891,
             "Longitude": 12.7855095
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

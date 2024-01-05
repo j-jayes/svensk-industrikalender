@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 39
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 39
         },
         "foundation_year": 1912,
         "corporation_year": 1937,
@@ -37,7 +38,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "AB. Möbelfabriken Haga",
@@ -54,7 +55,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 200000
+            "annual_turnover": 200000,
+            "employees_total": 30
         },
         "foundation_year": 1920,
         "director": "Frans Haglund",
@@ -62,7 +64,7 @@
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 8
+        "cluster": 15
     },
     "3": {
         "name": "Möbelfabriken Kåge, K. C. Kårbeck",
@@ -85,7 +87,7 @@
             "Latitude": 58.3226908,
             "Longitude": 15.1335348
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Möbelfabriken Standard, Eriksson & Co.",
@@ -110,7 +112,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Möbelfabriken Svea, Eric Tonebrand",
@@ -133,7 +135,7 @@
             "Latitude": 57.39899579999999,
             "Longitude": 14.6658136
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Möbelfabriken Thule",
@@ -156,7 +158,7 @@
             "Latitude": 59.422397,
             "Longitude": 16.097786
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Möbelfabriken Varia",
@@ -174,7 +176,8 @@
             "employees": {
                 "industriarb": 74
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 74
         },
         "corporation_year": 1922,
         "board": [
@@ -203,7 +206,7 @@
             "Latitude": 59.0579376,
             "Longitude": 16.5879122
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "Möbelfabriks AB. Vega",
@@ -221,7 +224,8 @@
             "employees": {
                 "industriarb": 35
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 35
         },
         "foundation_year": 1927,
         "board": [
@@ -242,7 +246,7 @@
             "Latitude": 57.4989621,
             "Longitude": 14.1486297
         },
-        "cluster": 8
+        "cluster": 15
     },
     "9": {
         "name": "Möbelfirman G. Åberg",
@@ -257,6 +261,6 @@
             "Latitude": 57.5781694,
             "Longitude": 14.4641901
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

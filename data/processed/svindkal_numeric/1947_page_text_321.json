@@ -29,7 +29,8 @@
                 "industriarb": 95
             },
             "annual_turnover": 1750000,
-            "annual_production_value": 1750000
+            "annual_production_value": 1750000,
+            "employees_total": 95
         },
         "foundation_year": 1916,
         "board": [
@@ -52,7 +53,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 3
+        "cluster": 9
     },
     "2": {
         "name": "AB Oscar Gottlow Knappfabrik",
@@ -71,7 +72,8 @@
             "employees": {
                 "industriarb": 5
             },
-            "annual_turnover": 50000
+            "annual_turnover": 50000,
+            "employees_total": 5
         },
         "original_name": "Eslövs Kamfabrik",
         "corporation_year": 1939,
@@ -96,7 +98,8 @@
             "employees": {
                 "industriarb": 33
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 33
         },
         "foundation_year": 1933,
         "board": [
@@ -118,7 +121,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 9
+        "cluster": 5
     },
     "4": {
         "name": "Grafiska AB. Hofving & Myrberg",
@@ -136,7 +139,8 @@
             "employees": {
                 "industriarb": 32
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 32
         },
         "foundation_year": 1919,
         "board": [
@@ -160,7 +164,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 4
     },
     "5": {
         "name": "Grafiska Maskin AB.",
@@ -179,7 +183,8 @@
             "capital": 600000,
             "employees": {
                 "industriarb": 30
-            }
+            },
+            "employees_total": 30
         },
         "corporation_year": 1944,
         "board": [
@@ -209,7 +214,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 10
     },
     "6": {
         "name": "AB. Grafit",
@@ -227,7 +232,8 @@
             "capital": 100000,
             "employees": {
                 "industriarb": 16
-            }
+            },
+            "employees_total": 16
         },
         "foundation_year": 1939,
         "board": [
@@ -245,7 +251,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 2
     },
     "7": {
         "name": "Graham Brothers AB.",
@@ -263,12 +269,13 @@
             "employees": {
                 "industriarb": 140
             },
-            "annual_turnover": 3500000
+            "annual_turnover": 3500000,
+            "employees_total": 140
         },
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

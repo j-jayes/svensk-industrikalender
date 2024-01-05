@@ -16,7 +16,8 @@
             "employees": {
                 "industriarb": 11
             },
-            "annual_turnover": 71000
+            "annual_turnover": 71000,
+            "employees_total": 11
         },
         "foundation_year": 1938,
         "board": [
@@ -46,7 +47,7 @@
             "Latitude": 60.0638925,
             "Longitude": 18.0802923
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Alvesta Gjuteri AB",
@@ -60,7 +61,8 @@
             "employees": {
                 "industriarb": 54
             },
-            "annual_turnover": 850000
+            "annual_turnover": 850000,
+            "employees_total": 54
         },
         "foundation_year": 1943,
         "original_name": "Alvesta Gjuteri i AB.",
@@ -70,7 +72,7 @@
             "Latitude": 56.89921039999999,
             "Longitude": 14.5560006
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "Alvesta Glasbruk, Lindahl & Co.",
@@ -87,7 +89,8 @@
             "employees": {
                 "industriarb": 90
             },
-            "annual_turnover": 700000
+            "annual_turnover": 700000,
+            "employees_total": 90
         },
         "foundation_year": 1932,
         "director": "fabr. Georg Lindahl",
@@ -95,7 +98,7 @@
             "Latitude": 56.89921039999999,
             "Longitude": 14.5560006
         },
-        "cluster": 2
+        "cluster": 0
     },
     "4": {
         "name": "AB. Alvesta Träförädling & Mek. Verkstad",
@@ -111,7 +114,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_turnover": 900000
+            "annual_turnover": 900000,
+            "employees_total": 50
         },
         "foundation_year": 1946,
         "board": [
@@ -133,7 +137,7 @@
             "Latitude": 56.89921039999999,
             "Longitude": 14.5560006
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Alviks Träförädlings AB.",
@@ -153,7 +157,8 @@
             "employees": {
                 "industriarb": 80
             },
-            "annual_turnover": "2,500 ton kryssfanér"
+            "annual_turnover": "2,500 ton kryssfanér",
+            "employees_total": 80
         },
         "foundation_year": 1927,
         "owners": [
@@ -188,7 +193,7 @@
             "Latitude": 62.44831420000001,
             "Longitude": 17.4060288
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Andell & Anderson AB.",
@@ -203,7 +208,8 @@
             "capital": 500000,
             "employees": {
                 "Arb.-antal": 12
-            }
+            },
+            "employees_total": 12
         },
         "foundation_year": 1946,
         "board": [
@@ -238,6 +244,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 9
+        "cluster": 19
     }
 }

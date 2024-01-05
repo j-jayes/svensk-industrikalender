@@ -15,7 +15,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 500000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 30
         },
         "foundation_year": 1909,
         "board": [
@@ -36,7 +37,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "Kopparbergs Bryggeri AB.",
@@ -56,7 +57,8 @@
                 "industriarb": 14
             },
             "annual_turnover": null,
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 14
         },
         "foundation_year": 1885,
         "board": [
@@ -73,7 +75,7 @@
             "Latitude": 59.87548999999999,
             "Longitude": 15.00051
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "Kopparbergs Spisbrödsfabrik AB.",
@@ -94,7 +96,8 @@
                 "industriarb": 45
             },
             "annual_turnover": 600000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 45
         },
         "foundation_year": 1918,
         "board": [
@@ -119,7 +122,7 @@
             "Latitude": 59.87548999999999,
             "Longitude": 15.00051
         },
-        "cluster": 2
+        "cluster": 13
     },
     "4": {
         "name": "Kopparfors AB.",
@@ -140,7 +143,8 @@
                 "industriarb": 690
             },
             "annual_turnover": null,
-            "annual_production_value": "18,000 stds sågade o. hyvlade trävaror, 42,000 ton torr, stark sulfatcellulosa och blekt massa"
+            "annual_production_value": "18,000 stds sågade o. hyvlade trävaror, 42,000 ton torr, stark sulfatcellulosa och blekt massa",
+            "employees_total": 690
         },
         "foundation_year": 1918,
         "board": [
@@ -173,7 +177,7 @@
             "Latitude": 60.89178399999999,
             "Longitude": 16.7201873
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Koppoms Pappersfabriks AB.",
@@ -194,7 +198,8 @@
                 "industriarb": 70
             },
             "annual_turnover": null,
-            "annual_production_value": "5,000 ton papper, 2,000 ton mek. trämassa"
+            "annual_production_value": "5,000 ton papper, 2,000 ton mek. trämassa",
+            "employees_total": 70
         },
         "foundation_year": 1889,
         "board": [
@@ -223,7 +228,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "AB. Kores",
@@ -243,7 +248,8 @@
                 "industriarb": 20
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 20
         },
         "foundation_year": 1934,
         "board": [
@@ -260,6 +266,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

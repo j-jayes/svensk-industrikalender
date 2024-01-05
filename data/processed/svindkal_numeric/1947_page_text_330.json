@@ -16,7 +16,8 @@
                 "industriarb": 50
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 50
         },
         "foundation_year": 1808,
         "current_name_year": 1937,
@@ -54,7 +55,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     },
     "2": {
         "name": "Gunnebo Bruks AB.",
@@ -91,7 +92,8 @@
                 "industriarb": 500
             },
             "annual_turnover": null,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 500
         },
         "foundation_year": 1889,
         "board": [
@@ -124,7 +126,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 6
+        "cluster": 2
     },
     "3": {
         "name": "AB. Gunnilse Tegel",
@@ -144,7 +146,8 @@
                 "industriarb": 25
             },
             "annual_turnover": null,
-            "annual_production_value": "5 milj. st. tegelvaror"
+            "annual_production_value": "5 milj. st. tegelvaror",
+            "employees_total": 25
         },
         "foundation_year": 1937,
         "board": null,
@@ -156,7 +159,7 @@
             "Latitude": 57.78955939999999,
             "Longitude": 12.0921209
         },
-        "cluster": 1
+        "cluster": 14
     },
     "4": {
         "name": "AB. Gusta Stenförädlingsverk",
@@ -176,7 +179,8 @@
                 "industriarb": 80
             },
             "annual_turnover": null,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 80
         },
         "foundation_year": 1915,
         "board": [
@@ -201,7 +205,7 @@
             "Latitude": 63.077899,
             "Longitude": 14.829402
         },
-        "cluster": 0
+        "cluster": 2
     },
     "5": {
         "name": "Gustafs Träindustri AB.",
@@ -218,7 +222,8 @@
             "capital": 100400,
             "employees": null,
             "annual_turnover": 900000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 0
         },
         "foundation_year": 1913,
         "current_name_year": 1939,
@@ -244,7 +249,7 @@
             "Latitude": 60.41140559999999,
             "Longitude": 15.6110187
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "AB. Custavsbergs Fabriker",
@@ -270,7 +275,8 @@
                 "l": 0
             },
             "annual_turnover": 10700000,
-            "annual_production_value": null
+            "annual_production_value": null,
+            "employees_total": 1
         },
         "foundation_year": 1825,
         "board": [
@@ -295,6 +301,6 @@
             "Latitude": 59.314449,
             "Longitude": 18.3985281
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

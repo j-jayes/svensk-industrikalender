@@ -11,7 +11,8 @@
             "capital": 1500000,
             "employees": {
                 "industriarb": 150
-            }
+            },
+            "employees_total": 150
         },
         "foundation_year": 1937,
         "board": [
@@ -42,7 +43,7 @@
             "Latitude": 56.8338774,
             "Longitude": 13.9410417
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Nyköpings Bryggeri AB.",
@@ -57,7 +58,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_turnover": 1400000
+            "annual_turnover": 1400000,
+            "employees_total": 40
         },
         "foundation_year": 1905,
         "board": [
@@ -79,7 +81,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 1
+        "cluster": 16
     },
     "3": {
         "name": "AB. Nyköpings Ekmöbelfabrik",
@@ -94,7 +96,8 @@
             "employees": {
                 "industriarb": 22
             },
-            "annual_production_value": 220000
+            "annual_production_value": 220000,
+            "employees_total": 22
         },
         "foundation_year": 1909,
         "manager": "Carl Johan Johansson",
@@ -102,7 +105,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Nyköpings Entreprenad AB.",
@@ -115,7 +118,8 @@
         },
         "financials": {
             "capital": 75000,
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 0
         },
         "foundation_year": 1945,
         "board": [
@@ -137,7 +141,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 0
+        "cluster": 6
     },
     "5": {
         "name": "AB. Nyköpings Culdlistfabrik",
@@ -153,7 +157,8 @@
         },
         "financials": {
             "capital": 25000,
-            "annual_production_value": 550000
+            "annual_production_value": 550000,
+            "employees_total": 0
         },
         "foundation_year": 1939,
         "manager": "Hilmer A. Andersson",
@@ -161,7 +166,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "Nyköpings Metallfabriks AB.",
@@ -176,7 +181,8 @@
             "employees": {
                 "industriarb": 21
             },
-            "annual_production_value": 120000
+            "annual_production_value": 120000,
+            "employees_total": 21
         },
         "foundation_year": 1921,
         "manager": "Göte Blomdahl",
@@ -184,7 +190,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 8
+        "cluster": 12
     },
     "7": {
         "name": "Nyköpings Nya Möblerings AB.",
@@ -198,7 +204,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 480000
+            "annual_production_value": 480000,
+            "employees_total": 50
         },
         "foundation_year": 1933,
         "manager": "John Tapper",
@@ -206,7 +213,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "AB. Nyköpings Storhusqvarn",
@@ -222,7 +229,8 @@
             "employees": {
                 "industriarb": 19
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 19
         },
         "foundation_year": 1888,
         "board": [
@@ -252,6 +260,6 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 1
+        "cluster": 4
     }
 }

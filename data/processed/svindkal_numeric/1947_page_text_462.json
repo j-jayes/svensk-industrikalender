@@ -20,7 +20,8 @@
                 "industriarb.": 145
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 145
         },
         "foundation_year": 1914,
         "current_name_year": null,
@@ -50,7 +51,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 2
+        "cluster": 3
     },
     "2": {
         "name": "Lerdals Sågverks AB.",
@@ -76,7 +77,8 @@
                 "industriarb.": 80
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 80
         },
         "foundation_year": 1922,
         "current_name_year": null,
@@ -102,7 +104,7 @@
             "Latitude": 60.889025,
             "Longitude": 15.123373
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "Ler- & Tegelindustri AB. Hercules",
@@ -127,7 +129,8 @@
                 "industriarb.": 45
             },
             "annual_turnover": "",
-            "annual_production_value": "5 milj. st. tegelvaror"
+            "annual_production_value": "5 milj. st. tegelvaror",
+            "employees_total": 45
         },
         "foundation_year": 1899,
         "current_name_year": null,
@@ -165,7 +168,7 @@
             "Latitude": 56.0293936,
             "Longitude": 14.1566778
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "AB. Lerviks Konservfabrik",
@@ -203,7 +206,8 @@
                 "industriarb.": 45
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 45
         },
         "foundation_year": 1936,
         "current_name_year": 1919,
@@ -220,7 +224,7 @@
             "Latitude": 59.0643787,
             "Longitude": 11.2081876
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "Lesjöfors AB.",
@@ -250,7 +254,8 @@
                 "industriarb.": 800
             },
             "annual_turnover": 9000000,
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 800
         },
         "foundation_year": 1867,
         "current_name_year": null,
@@ -280,7 +285,7 @@
             "Latitude": 59.97705449999999,
             "Longitude": 14.184545
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Lessebo AB.",
@@ -301,7 +306,8 @@
             "capital": 3600000,
             "employees": {},
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 0
         },
         "foundation_year": null,
         "current_name_year": null,
@@ -318,6 +324,6 @@
             "Latitude": 56.1348998,
             "Longitude": 13.1290409
         },
-        "cluster": 5
+        "cluster": 17
     }
 }

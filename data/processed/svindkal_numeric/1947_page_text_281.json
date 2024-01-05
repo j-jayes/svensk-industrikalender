@@ -17,7 +17,8 @@
                 "industriarbete": 10
             },
             "annual_turnover": 100000,
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1897,
         "owner": "Karl Pehrsson",
@@ -25,7 +26,7 @@
             "Latitude": 56.6182793,
             "Longitude": 12.9465533
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Fabriken Zig-Zag",
@@ -38,13 +39,14 @@
                 "industriarbete": "Ej tillgängligt"
             },
             "annual_turnover": "Ej tillgängligt",
-            "annual_production_value": "Ej tillgängligt"
+            "annual_production_value": "Ej tillgängligt",
+            "employees_total": 0
         },
         "coordinates": {
             "Latitude": 59.132406,
             "Longitude": 16.729194
         },
-        "cluster": 1
+        "cluster": 11
     },
     "3": {
         "name": "Fabriks AB. Blokk",
@@ -57,7 +59,8 @@
                 "industriarbete": 15
             },
             "annual_turnover": 250000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 15
         },
         "corporation_year": 1940,
         "board": [
@@ -70,7 +73,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Fabriks AB. Bröderna Alström",
@@ -83,7 +86,8 @@
                 "industriarbete": 115
             },
             "annual_turnover": 1800000,
-            "annual_production_value": 1800000
+            "annual_production_value": 1800000,
+            "employees_total": 115
         },
         "corporation_year": 1929,
         "board": [
@@ -106,7 +110,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "5": {
         "name": "Fabriks AB. Drev & Trassel",
@@ -127,7 +131,8 @@
                 "industriarbete": 20
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 20
         },
         "foundation_year": 1928,
         "director": "O. Haitkin",
@@ -135,7 +140,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Fabriks AB. Ekå",
@@ -153,7 +158,8 @@
                 "industriarbete": 25
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 25
         },
         "corporation_year": 1928,
         "director": "Ernst O. Andersson",
@@ -161,7 +167,7 @@
             "Latitude": 56.4617744,
             "Longitude": 13.5962744
         },
-        "cluster": 6
+        "cluster": 9
     },
     "7": {
         "name": "Fabriks AB. Elias",
@@ -174,7 +180,8 @@
                 "industriarbete": 35
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 35
         },
         "corporation_year": 1922,
         "director": "Bo Holmberg",
@@ -182,7 +189,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "8": {
         "name": "Fabriks AB. Forslund & Co.",
@@ -202,7 +209,8 @@
                 "industriarbete": 60
             },
             "annual_turnover": 1100000,
-            "annual_production_value": 1100000
+            "annual_production_value": 1100000,
+            "employees_total": 60
         },
         "corporation_year": 1945,
         "director": "Johan Forslund",
@@ -211,7 +219,7 @@
             "Latitude": 64.750244,
             "Longitude": 20.950917
         },
-        "cluster": 6
+        "cluster": 7
     },
     "9": {
         "name": "Fabriks AB. Hageltorns",
@@ -226,14 +234,15 @@
             "capital": 100000,
             "employees": {
                 "industriarbete": "Ej tillgängligt"
-            }
+            },
+            "employees_total": 0
         },
         "manager": "Bror Hageltorn",
         "coordinates": {
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 9
+        "cluster": 19
     },
     "10": {
         "name": "Fabriks AB. Haidataxametern",
@@ -243,6 +252,6 @@
             "Latitude": 56.6743748,
             "Longitude": 12.8577884
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

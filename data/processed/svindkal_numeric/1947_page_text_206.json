@@ -8,7 +8,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 1200000,
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 50
         },
         "foundation_year": 1905,
         "corporation_year": 1946,
@@ -40,7 +41,8 @@
                 "industriarb": 25
             },
             "annual_turnover": 800000,
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 25
         },
         "foundation_year": 1917,
         "board": {
@@ -51,7 +53,7 @@
             "Latitude": 56.9814885,
             "Longitude": 16.3327375
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "A. Th. Broms AB",
@@ -110,7 +112,8 @@
         },
         "financials": {
             "capital": 5000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "board": {
@@ -121,7 +124,7 @@
             "Latitude": 58.27557299999999,
             "Longitude": 11.435558
         },
-        "cluster": 1
+        "cluster": 14
     },
     "8": {
         "name": "Brottby Mek. Verkstads AB",
@@ -139,7 +142,8 @@
             "employees": {
                 "Arb.-antal": 15
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 15
         },
         "foundation_year": 1938,
         "director": "civiling. Sven Rennerfelt",
@@ -147,7 +151,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 1
+        "cluster": 7
     },
     "9": {
         "name": "Bruhns Intressenter AB",
@@ -165,7 +169,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 300000
+            "annual_turnover": 300000,
+            "employees_total": 20
         },
         "foundation_year": 1922,
         "board": {
@@ -177,7 +182,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "10": {
         "name": "AB. Frans Brunke",
@@ -199,7 +204,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 40
         },
         "foundation_year": 1901,
         "board": {
@@ -212,7 +218,7 @@
             "Latitude": 57.6015069,
             "Longitude": 13.2442712
         },
-        "cluster": 3
+        "cluster": 1
     },
     "11": {
         "name": "AB. Fridolf Brunnzell",
@@ -229,7 +235,8 @@
             "capital": 15000,
             "employees": {
                 "montörer": 18
-            }
+            },
+            "employees_total": 18
         },
         "foundation_year": 1912,
         "board": {
@@ -242,6 +249,6 @@
             "Latitude": 62.390811,
             "Longitude": 17.306927
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

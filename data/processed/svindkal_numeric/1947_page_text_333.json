@@ -14,7 +14,8 @@
                 "industriarb": 35
             },
             "annual_turnover": "2 milj. st. tegel var or",
-            "foundation_year": 1800
+            "foundation_year": 1800,
+            "employees_total": 35
         },
         "directors": {
             "owner_and_ceo": "dr Arvid Aaby-Eriesson"
@@ -23,7 +24,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "Gåragöls Stärkelse- & Sagofabrik",
@@ -40,14 +41,15 @@
                 "industriarb": 10
             },
             "annual_production_value": 185000,
-            "foundation_year": 1879
+            "foundation_year": 1879,
+            "employees_total": 10
         },
         "director": "fabr. Jöns Nilsson",
         "coordinates": {
             "Latitude": 57.84551,
             "Longitude": 12.4760433
         },
-        "cluster": 2
+        "cluster": 13
     },
     "3": {
         "name": "Cårda Fabrikers AB.",
@@ -70,7 +72,8 @@
                 "industriarb": 577
             },
             "foundation_year": 1880,
-            "corporation_year": 1893
+            "corporation_year": 1893,
+            "employees_total": 577
         },
         "board": [
             {
@@ -92,7 +95,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB. Gåsöfjordens Konservfabrik",
@@ -108,14 +111,15 @@
                 "industriarb": 20
             },
             "foundation_year": 1925,
-            "corporation_year": 1946
+            "corporation_year": 1946,
+            "employees_total": 20
         },
         "managing_director": "Johan G. Petersson",
         "coordinates": {
             "Latitude": 58.214729,
             "Longitude": 11.4178031
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "AB. Gäddeglo Tegelbruk",
@@ -130,7 +134,8 @@
                 "industriarb": 35
             },
             "annual_turnover": "1,5 milj. st. tegelvaror",
-            "foundation_year": 1904
+            "foundation_year": 1904,
+            "employees_total": 35
         },
         "directors": {
             "owner": "fru Hildur Holmström",
@@ -140,7 +145,7 @@
             "Latitude": 57.75771559999999,
             "Longitude": 16.6369759
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Cäddvikens Superfosfatfabrik",
@@ -150,7 +155,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "7": {
         "name": "Gällaryds Möbel- & Träindustri AB.",
@@ -165,14 +170,15 @@
             "employees": {
                 "industriarb": 17
             },
-            "foundation_year": 1943
+            "foundation_year": 1943,
+            "employees_total": 17
         },
         "manager": "verkm. Bernadotte Peterson",
         "coordinates": {
             "Latitude": 57.127162,
             "Longitude": 14.287306
         },
-        "cluster": 8
+        "cluster": 15
     },
     "8": {
         "name": "Gällivare Bryggeri Kommanditbol»",
@@ -191,7 +197,8 @@
                 "industriarb": 20
             },
             "annual_production_value": 500000,
-            "foundation_year": 1898
+            "foundation_year": 1898,
+            "employees_total": 20
         },
         "board": [
             {
@@ -212,7 +219,7 @@
             "Latitude": 67.1379,
             "Longitude": 20.6593618
         },
-        "cluster": 2
+        "cluster": 16
     },
     "9": {
         "name": "Gällstads Hemindustri AB.",
@@ -229,13 +236,14 @@
                 "hemarbetare": 232
             },
             "annual_production_value": 320000,
-            "foundation_year": 1930
+            "foundation_year": 1930,
+            "employees_total": 256
         },
         "managing_director": "fabr. Eric Höglund",
         "coordinates": {
             "Latitude": 57.66859969999999,
             "Longitude": 13.4328388
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

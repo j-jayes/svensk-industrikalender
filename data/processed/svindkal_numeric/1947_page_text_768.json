@@ -24,7 +24,8 @@
         },
         "financials": {
             "capital": 1000000,
-            "annual_turnover": 13000000
+            "annual_turnover": 13000000,
+            "employees_total": 0
         },
         "foundation_year": 1918,
         "board": [
@@ -73,7 +74,8 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 45
         },
         "foundation_year": 1920,
         "owners": [
@@ -100,7 +102,8 @@
             "employees": {
                 "industriarb": 175
             },
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 175
         },
         "foundation_year": 1907,
         "owners": [
@@ -144,7 +147,8 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 60
-            }
+            },
+            "employees_total": 60
         },
         "foundation_year": 1923,
         "board": [
@@ -193,7 +197,8 @@
             "employees": {
                 "industriarb": 32
             },
-            "annual_production_value": 225000
+            "annual_production_value": 225000,
+            "employees_total": 32
         },
         "foundation_year": 1936,
         "board": [
@@ -232,7 +237,8 @@
             "employees": {
                 "Arb.-antal": 7
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 7
         },
         "foundation_year": 1939,
         "director": "Arvid Axelson",

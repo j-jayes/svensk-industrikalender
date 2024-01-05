@@ -27,7 +27,7 @@
             "Latitude": 55.9344942,
             "Longitude": 13.9744406
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB Ekensbergs Varv",
@@ -74,7 +74,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 7
     },
     "3": {
         "name": "Ekenäs Glasbruk AB.",
@@ -99,7 +99,7 @@
             "Latitude": 57.49850059999999,
             "Longitude": 15.0070236
         },
-        "cluster": 1
+        "cluster": 0
     },
     "4": {
         "name": "AB. Joh. Ekhoims Skofabrik",
@@ -124,7 +124,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Eklund & Co. Textil AB.",
@@ -165,7 +165,7 @@
             "Latitude": 57.78261370000001,
             "Longitude": 14.1617876
         },
-        "cluster": 5
+        "cluster": 17
     },
     "7": {
         "name": "Ekolsunds Tegelbruk & Sågverk",
@@ -176,6 +176,6 @@
             "Latitude": 59.61970050000001,
             "Longitude": 17.3766542
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

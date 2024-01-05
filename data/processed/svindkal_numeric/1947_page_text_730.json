@@ -17,7 +17,8 @@
                 "industriarb": 175
             },
             "annual_turnover": "18,000 stds sågade o. hyvlade trävaror",
-            "annual_production_value": "18,000 stds sågade o. hyvlade trävaror"
+            "annual_production_value": "18,000 stds sågade o. hyvlade trävaror",
+            "employees_total": 175
         },
         "foundation_year": 1903,
         "current_name_year": 1929,
@@ -43,7 +44,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "Trönninge Cummifabriks AB",
@@ -60,7 +61,8 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 40
         },
         "foundation_year": 1941,
         "director": "G. Rossel",
@@ -69,7 +71,7 @@
             "Latitude": 56.6182793,
             "Longitude": 12.9465533
         },
-        "cluster": 6
+        "cluster": 3
     },
     "3": {
         "name": "Trönninge Tegelbruks AB",
@@ -87,7 +89,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": "3,7 milj. st. tegelvaror"
+            "annual_production_value": "3,7 milj. st. tegelvaror",
+            "employees_total": 30
         },
         "foundation_year": 1898,
         "director": "Axel Andersson",
@@ -95,7 +98,7 @@
             "Latitude": 56.6182793,
             "Longitude": 12.9465533
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "AB. Tudor",
@@ -122,7 +125,8 @@
             "capital": 2500000,
             "employees": {
                 "industriarb": 870
-            }
+            },
+            "employees_total": 870
         },
         "foundation_year": 1914,
         "corporation_year": 1946,
@@ -161,7 +165,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "Tuf vassons Transformatorfabrik AB",
@@ -179,7 +183,8 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_production_value": 720000
+            "annual_production_value": 720000,
+            "employees_total": 20
         },
         "foundation_year": 1938,
         "director": "ing. Birger Tuf vasson",
@@ -187,6 +192,6 @@
             "Latitude": 59.6191463,
             "Longitude": 17.7234191
         },
-        "cluster": 1
+        "cluster": 7
     }
 }

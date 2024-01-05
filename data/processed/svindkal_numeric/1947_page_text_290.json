@@ -15,7 +15,8 @@
             "employees": {
                 "industriarb": 100
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 100
         },
         "foundation_year": 1783,
         "board": [
@@ -38,7 +39,7 @@
             "Latitude": 57.3763329,
             "Longitude": 16.5550694
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "AB. FSgo",
@@ -56,7 +57,8 @@
             "employees": {
                 "industriarb": 95
             },
-            "annual_production_value": "1,000 ton presspan m.m."
+            "annual_production_value": "1,000 ton presspan m.m.",
+            "employees_total": 95
         },
         "foundation_year": 1931,
         "board": [
@@ -88,7 +90,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 0
     },
     "3": {
         "name": "Filfabriks AB., Forserum",
@@ -106,7 +108,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 50
         },
         "foundation_year": 1890,
         "board": [
@@ -129,7 +132,7 @@
             "Latitude": 57.69932780000001,
             "Longitude": 14.475408
         },
-        "cluster": 1
+        "cluster": 17
     },
     "4": {
         "name": "AB. Filling & Co.",
@@ -147,7 +150,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 25
         },
         "foundation_year": 1927,
         "board": [
@@ -174,7 +178,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "AB. Finnboda Varf",
@@ -193,7 +197,8 @@
             "employees": {
                 "industriarb": 500
             },
-            "annual_production_value": 8000000
+            "annual_production_value": 8000000,
+            "employees_total": 500
         },
         "corporation_year": 1916,
         "board": [
@@ -224,6 +229,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

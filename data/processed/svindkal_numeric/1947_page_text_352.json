@@ -7,7 +7,8 @@
                 "industriarb": 40
             },
             "foundation_year": 1921,
-            "corporation_year": 1938
+            "corporation_year": 1938,
+            "employees_total": 40
         },
         "director": "Sven Hansson",
         "cluster": 4
@@ -30,7 +31,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "3": {
         "name": "AB. Hansy",
@@ -48,7 +49,8 @@
             },
             "annual_production_value": 200000,
             "foundation_year": 1929,
-            "corporation_year": 1944
+            "corporation_year": 1944,
+            "employees_total": 20
         },
         "board": [
             {
@@ -71,7 +73,7 @@
             "Latitude": 55.4295051,
             "Longitude": 13.8200308
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "Hanås, Henrik Anderson",
@@ -87,14 +89,15 @@
                 "industriarb": 9
             },
             "annual_production_value": 120000,
-            "foundation_year": 1942
+            "foundation_year": 1942,
+            "employees_total": 9
         },
         "director": "Henrik Anderson",
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 17
     },
     "5": {
         "name": "Harge Bruk",
@@ -111,7 +114,8 @@
                 "industriarb": 70
             },
             "foundation_year": 1880,
-            "corporation_year": 1926
+            "corporation_year": 1926,
+            "employees_total": 70
         },
         "board": [
             {
@@ -128,7 +132,7 @@
             "Latitude": 58.81200819999999,
             "Longitude": 14.9631045
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Hargs Bruk",
@@ -141,7 +145,8 @@
         "financials": {
             "employees": {
                 "industriarb": 80
-            }
+            },
+            "employees_total": 80
         },
         "owner": "frih. Carl Beek-Friis",
         "sales_manager": "Jacob Versteegh",
@@ -149,7 +154,7 @@
             "Latitude": 60.1874714,
             "Longitude": 18.3900005
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Hargs Fabrikers AB.",
@@ -166,7 +171,8 @@
             "employees": {
                 "industriarb": 300
             },
-            "annual_production_value": 3500000
+            "annual_production_value": 3500000,
+            "employees_total": 300
         },
         "board": [
             {
@@ -191,7 +197,7 @@
             "Latitude": 58.75284389999999,
             "Longitude": 17.0091593
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "AB. Wilh. Harmsen",
@@ -201,6 +207,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

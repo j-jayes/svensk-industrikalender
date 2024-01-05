@@ -14,7 +14,8 @@
             "capital": 75000,
             "employees": {
                 "industriarb": 40
-            }
+            },
+            "employees_total": 40
         },
         "foundation_year": 1937,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 56.90273329999999,
             "Longitude": 12.4888013
         },
-        "cluster": 6
+        "cluster": 18
     },
     "2": {
         "name": "C. O. Öberg & Co:s AB",
@@ -56,7 +57,8 @@
             "capital": 2800000,
             "employees": {
                 "industriarb": 460
-            }
+            },
+            "employees_total": 460
         },
         "foundation_year": 1850,
         "corporation_year": 1907,
@@ -79,7 +81,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 18
     },
     "3": {
         "name": "AB. J. O. Öberg & Son",
@@ -95,14 +97,15 @@
         "financials": {
             "employees": {
                 "industriarb": 440
-            }
+            },
+            "employees_total": 440
         },
         "foundation_year": 1845,
         "coordinates": {
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 5
+        "cluster": 10
     },
     "4": {
         "name": "Ödbogårdens Kalkbruks AB",
@@ -118,7 +121,8 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 30
         },
         "foundation_year": 1917,
         "board": [
@@ -140,7 +144,7 @@
             "Latitude": 58.573458,
             "Longitude": 13.460525
         },
-        "cluster": 2
+        "cluster": 14
     },
     "5": {
         "name": "Ödeborgs Bruks AB",
@@ -161,7 +165,8 @@
             "employees": {
                 "industriarb": 200
             },
-            "annual_turnover": 4600000
+            "annual_turnover": 4600000,
+            "employees_total": 200
         },
         "foundation_year": 1898,
         "board": [
@@ -185,6 +190,6 @@
             "Latitude": 58.54539930000001,
             "Longitude": 11.9759492
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

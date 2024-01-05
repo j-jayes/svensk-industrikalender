@@ -10,7 +10,8 @@
         },
         "financials": {
             "capital": 80000,
-            "annual_turnover": "2 milj. 1 st. ’tegelvaror"
+            "annual_turnover": "2 milj. 1 st. ’tegelvaror",
+            "employees_total": 0
         },
         "foundation_year": 1927,
         "board": [
@@ -31,7 +32,7 @@
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 0
+        "cluster": 14
     },
     "2": {
         "name": "AB. Norrbottens Cementgjuteri",
@@ -47,7 +48,8 @@
             "employees": {
                 "industriarb.": 40
             },
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 40
         },
         "foundation_year": 1920,
         "corporation_year": 1945,
@@ -56,7 +58,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Norrbottens Järnverk AB.",
@@ -72,7 +74,8 @@
             "employees": {
                 "industriarb.": 225
             },
-            "annual_turnover": 12000000
+            "annual_turnover": 12000000,
+            "employees_total": 225
         },
         "corporation_year": 1940,
         "board": [
@@ -107,7 +110,7 @@
             "Latitude": 65.584819,
             "Longitude": 22.1567026
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Norrbottens Träförädlings AB.",
@@ -123,7 +126,8 @@
             "employees": {
                 "industriarb.": 50
             },
-            "annual_production_value": 1300000
+            "annual_production_value": 1300000,
+            "employees_total": 50
         },
         "foundation_year": 1941,
         "board": [
@@ -140,7 +144,7 @@
             "Latitude": 65.584819,
             "Longitude": 22.1567026
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "Norrfors Snickerifabrik",
@@ -150,7 +154,7 @@
             "Latitude": 63.77533,
             "Longitude": 18.99881
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "AB. Norrhults Cjuteri",
@@ -160,6 +164,6 @@
             "Latitude": 57.1240064,
             "Longitude": 15.1687493
         },
-        "cluster": 6
+        "cluster": 18
     }
 }

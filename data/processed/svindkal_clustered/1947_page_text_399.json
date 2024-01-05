@@ -74,7 +74,7 @@
             "Latitude": 56.7018182,
             "Longitude": 15.5271585
         },
-        "cluster": 1
+        "cluster": 0
     },
     "3": {
         "name": "AB. Johansson & Ljunggren",
@@ -102,7 +102,7 @@
             "Latitude": 57.65303549999999,
             "Longitude": 14.6967247
         },
-        "cluster": 8
+        "cluster": 15
     },
     "4": {
         "name": "AB. A. Johanssons Radiofabrik",
@@ -127,7 +127,7 @@
             "Latitude": 59.369325,
             "Longitude": 17.9609133
         },
-        "cluster": 1
+        "cluster": 18
     },
     "5": {
         "name": "Algot Johansson AB.",
@@ -171,7 +171,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "6": {
         "name": "AB. Axel Johanssons Mek. Verkstad",
@@ -196,7 +196,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 6
+        "cluster": 7
     },
     "7": {
         "name": "AB. Axel Johanssons Möbleringsaffär",
@@ -218,6 +218,6 @@
             "Latitude": 60.60646000000001,
             "Longitude": 15.6355
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

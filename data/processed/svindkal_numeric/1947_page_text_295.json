@@ -13,13 +13,14 @@
             "employees": {
                 "total": 27
             },
-            "annual_turnover": 275000
+            "annual_turnover": 275000,
+            "employees_total": 27
         },
         "coordinates": {
             "Latitude": 57.1280021,
             "Longitude": 16.2644966
         },
-        "cluster": 1
+        "cluster": 4
     },
     "2": {
         "name": "Floby Industri AB.",
@@ -40,13 +41,14 @@
                 "karosserifabriken": 22,
                 "total": 27
             },
-            "annual_turnover": 275000
+            "annual_turnover": 275000,
+            "employees_total": 49
         },
         "coordinates": {
             "Latitude": 58.1368068,
             "Longitude": 13.337379
         },
-        "cluster": 1
+        "cluster": 15
     },
     "3": {
         "name": "AB. Floby SSSketrikå",
@@ -62,13 +64,14 @@
             "employees": {
                 "total": 25
             },
-            "annual_turnover": 460000
+            "annual_turnover": 460000,
+            "employees_total": 25
         },
         "coordinates": {
             "Latitude": 58.1368068,
             "Longitude": 13.337379
         },
-        "cluster": 9
+        "cluster": 19
     },
     "4": {
         "name": "Floby Snickerifabrik",
@@ -78,7 +81,7 @@
             "Latitude": 58.1368068,
             "Longitude": 13.337379
         },
-        "cluster": 1
+        "cluster": 14
     },
     "5": {
         "name": "AB. Flobyverken",
@@ -88,7 +91,7 @@
             "Latitude": 58.1368068,
             "Longitude": 13.337379
         },
-        "cluster": 1
+        "cluster": 7
     },
     "6": {
         "name": "AB. Flöda Parkettfabrik",
@@ -98,7 +101,7 @@
             "Latitude": 57.80154100000001,
             "Longitude": 12.3655998
         },
-        "cluster": 1
+        "cluster": 15
     },
     "7": {
         "name": "Sven Floréns Kravattlndustri AB.",
@@ -108,7 +111,7 @@
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 1
+        "cluster": 9
     },
     "8": {
         "name": "AB. Floretta",
@@ -118,7 +121,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "9": {
         "name": "Flugeby Ullspinneri AB.",
@@ -138,6 +141,6 @@
             "Latitude": 56.8382325,
             "Longitude": 15.7420197
         },
-        "cluster": 1
+        "cluster": 0
     }
 }

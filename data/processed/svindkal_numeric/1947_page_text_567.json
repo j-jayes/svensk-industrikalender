@@ -24,7 +24,8 @@
                 "industriarb": 100
             },
             "annual_turnover": "Okänd",
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 100
         },
         "foundation_year": 1935,
         "owners": [
@@ -58,7 +59,8 @@
                 "industriarb": 300
             },
             "annual_turnover": "Okänd",
-            "annual_production_value": 3000000
+            "annual_production_value": 3000000,
+            "employees_total": 300
         },
         "corporation_year": 1937,
         "board": [
@@ -86,7 +88,7 @@
             "Latitude": 56.78451219999999,
             "Longitude": 15.1448475
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "Orrefors Skogar",
@@ -107,7 +109,8 @@
                 "industriarb": 115
             },
             "annual_turnover": "Okänd",
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 115
         },
         "corporation_year": 1938,
         "board": [
@@ -139,7 +142,7 @@
             "Latitude": 56.8382325,
             "Longitude": 15.7420197
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Orresta Snickerifabrik",
@@ -158,14 +161,15 @@
                 "industriarb": 35
             },
             "annual_turnover": "Okänd",
-            "annual_production_value": 450000
+            "annual_production_value": 450000,
+            "employees_total": 35
         },
         "corporation_year": 1928,
         "coordinates": {
             "Latitude": 59.6603886,
             "Longitude": 16.8345381
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Orresta Tegelbruk",
@@ -184,14 +188,15 @@
                 "industriarb": 25
             },
             "annual_turnover": "Okänd",
-            "annual_production_value": "Okänd"
+            "annual_production_value": "Okänd",
+            "employees_total": 25
         },
         "corporation_year": 1937,
         "coordinates": {
             "Latitude": 59.6603886,
             "Longitude": 16.8345381
         },
-        "cluster": 0
+        "cluster": 14
     },
     "6": {
         "name": "Orrvikens Såg & Snickerifabrik",
@@ -210,14 +215,15 @@
                 "industriarb": 25
             },
             "annual_turnover": "Okänd",
-            "annual_production_value": 370000
+            "annual_production_value": 370000,
+            "employees_total": 25
         },
         "corporation_year": 1934,
         "coordinates": {
             "Latitude": 63.1074275,
             "Longitude": 14.4347606
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Orsa Kättingfabrik",
@@ -236,7 +242,8 @@
                 "industriarb": 40
             },
             "annual_turnover": "Okänd",
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 40
         },
         "foundation_year": 1909,
         "director": "dir. Birger Olsson",
@@ -244,7 +251,7 @@
             "Latitude": 61.1169365,
             "Longitude": 14.6280708
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "Orsa Sågbladsfabrik",
@@ -262,7 +269,8 @@
                 "industriarb": 45
             },
             "annual_turnover": "Okänd",
-            "annual_production_value": 800000
+            "annual_production_value": 800000,
+            "employees_total": 45
         },
         "corporation_year": 1927,
         "board": [
@@ -280,7 +288,7 @@
             "Latitude": 61.1169365,
             "Longitude": 14.6280708
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "Orstadius Boktryckeri AB.",
@@ -293,6 +301,6 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

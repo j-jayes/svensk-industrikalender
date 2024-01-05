@@ -16,14 +16,15 @@
             "employees": {
                 "industriarb": 30
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 30
         },
         "foundation_year": 1921,
         "coordinates": {
             "Latitude": 57.68333329999999,
             "Longitude": 14.0833333
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Tabergs Vadd- & Madrassfabrik, B. Johansson & Co.",
@@ -39,14 +40,15 @@
         "financials": {
             "employees": {
                 "industriarb": 5
-            }
+            },
+            "employees_total": 5
         },
         "foundation_year": 1933,
         "coordinates": {
             "Latitude": 57.68333329999999,
             "Longitude": 14.0833333
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "Tabergs Yllefabriks AB.",
@@ -64,14 +66,15 @@
             "employees": {
                 "industriarb": 300
             },
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 300
         },
         "foundation_year": 1905,
         "coordinates": {
             "Latitude": 57.68333329999999,
             "Longitude": 14.0833333
         },
-        "cluster": 3
+        "cluster": 1
     },
     "4": {
         "name": "AB. Takoleum",
@@ -91,14 +94,15 @@
             "employees": {
                 "industriarb": 15
             },
-            "annual_turnover": 500000
+            "annual_turnover": 500000,
+            "employees_total": 15
         },
         "corporation_year": 1935,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 17
     },
     "5": {
         "name": "AB. Tallåsens Fabriker",
@@ -114,14 +118,15 @@
             "employees": {
                 "industriarb": 150
             },
-            "annual_turnover": 1600000
+            "annual_turnover": 1600000,
+            "employees_total": 150
         },
         "corporation_year": 1939,
         "coordinates": {
             "Latitude": 61.86697969999999,
             "Longitude": 16.0050557
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Tallåsens Snickerifabrik, Nordström & Co., AB.",
@@ -140,14 +145,15 @@
             "employees": {
                 "industriarb": 20
             },
-            "annual_turnover": 280000
+            "annual_turnover": 280000,
+            "employees_total": 20
         },
         "corporation_year": 1942,
         "coordinates": {
             "Latitude": 61.86697969999999,
             "Longitude": 16.0050557
         },
-        "cluster": 7
+        "cluster": 18
     },
     "7": {
         "name": "Tångens Gardinfabrik AB.",
@@ -158,6 +164,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 3
+        "cluster": 1
     }
 }

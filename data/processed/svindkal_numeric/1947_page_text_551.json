@@ -16,14 +16,15 @@
             "capital": 200000,
             "employees": {
                 "industriarb": 80
-            }
+            },
+            "employees_total": 80
         },
         "foundation_year": 1920,
         "coordinates": {
             "Latitude": 57.68333329999999,
             "Longitude": 14.0833333
         },
-        "cluster": 6
+        "cluster": 7
     },
     "2": {
         "name": "Nya AB. Eskil Metzén",
@@ -40,14 +41,15 @@
             "capital": 30000,
             "employees": {
                 "industriarb": 60
-            }
+            },
+            "employees_total": 60
         },
         "foundation_year": 1850,
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 3
     },
     "3": {
         "name": "Nya Murbruksfabrikens i Stockholm AB.",
@@ -65,14 +67,15 @@
                 "industriarb": 200
             },
             "annual_turnover": 6000000,
-            "annual_production_value": 6000000
+            "annual_production_value": 6000000,
+            "employees_total": 200
         },
         "foundation_year": 1889,
         "coordinates": {
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 14
     },
     "4": {
         "name": "AB. Nya Möbelfabriken, Pettersson & Co.",
@@ -91,14 +94,15 @@
             "capital": 96000,
             "employees": {
                 "industriarb": 20
-            }
+            },
+            "employees_total": 20
         },
         "foundation_year": 1923,
         "coordinates": {
             "Latitude": 57.1831605,
             "Longitude": 14.0478214
         },
-        "cluster": 8
+        "cluster": 15
     },
     "5": {
         "name": "Nya Möbelfabriken, Einar Rostedt",
@@ -113,14 +117,15 @@
         "financials": {
             "employees": {
                 "industriarb": 9
-            }
+            },
+            "employees_total": 9
         },
         "foundation_year": 1926,
         "coordinates": {
             "Latitude": 57.39899579999999,
             "Longitude": 14.6658136
         },
-        "cluster": 8
+        "cluster": 15
     },
     "6": {
         "name": "Nya Möbelfabriksföreningen, u. p. a.",
@@ -136,14 +141,15 @@
         "financials": {
             "employees": {
                 "industriarb": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1918,
         "coordinates": {
             "Latitude": 56.3028124,
             "Longitude": 14.1337053
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "Nya AB. Njurunda Industrier",
@@ -161,14 +167,15 @@
             "employees": {
                 "industriarb": 16
             },
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 16
         },
         "foundation_year": 1919,
         "coordinates": {
             "Latitude": 62.27070439999999,
             "Longitude": 17.3718572
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "Nya AB. Nordiska Måttstockfabriken",
@@ -183,14 +190,15 @@
         },
         "financials": {
             "capital": 25000,
-            "annual_turnover": 100000
+            "annual_turnover": 100000,
+            "employees_total": 0
         },
         "foundation_year": 1928,
         "coordinates": {
             "Latitude": 57.824945,
             "Longitude": 13.007778
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "Nya AB. Resinit",
@@ -209,6 +217,6 @@
             "Latitude": 57.75771559999999,
             "Longitude": 16.6369759
         },
-        "cluster": 6
+        "cluster": 7
     }
 }

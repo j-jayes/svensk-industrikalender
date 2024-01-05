@@ -17,7 +17,8 @@
                 "industriarb": 10
             },
             "annual_turnover": 75000,
-            "annual_production_value": 75000
+            "annual_production_value": 75000,
+            "employees_total": 10
         },
         "foundation_year": 1923,
         "owner": "Olof Björk",
@@ -25,7 +26,7 @@
             "Latitude": 61.34837950000001,
             "Longitude": 16.3942685
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Gustaf Björklund & Son",
@@ -38,7 +39,7 @@
             "Latitude": 55.6514078,
             "Longitude": 13.1117452
         },
-        "cluster": 1
+        "cluster": 11
     },
     "3": {
         "name": "Björkshults Glasbruk, Nya AB.",
@@ -48,7 +49,7 @@
             "Latitude": 56.1574262,
             "Longitude": 13.6774309
         },
-        "cluster": 1
+        "cluster": 11
     },
     "4": {
         "name": "Björksätra Lädervaru AB.",
@@ -68,7 +69,8 @@
                 "industriarb": "Not available"
             },
             "annual_turnover": 400000,
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 0
         },
         "foundation_year": 1941,
         "director": "Artur Karlsson",
@@ -76,7 +78,7 @@
             "Latitude": 57.2812542,
             "Longitude": 13.6271963
         },
-        "cluster": 9
+        "cluster": 18
     },
     "5": {
         "name": "AB. Björkträ",
@@ -96,7 +98,8 @@
                 "industriarb": 72
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 72
         },
         "foundation_year": 1923,
         "corporation_year": 1932,
@@ -119,7 +122,7 @@
             "Latitude": 61.338336,
             "Longitude": 15.951713
         },
-        "cluster": 7
+        "cluster": 8
     },
     "6": {
         "name": "Björkå AB.",
@@ -147,7 +150,8 @@
                 "industriarb": 275
             },
             "annual_turnover": "Not available",
-            "annual_production_value": "Not available"
+            "annual_production_value": "Not available",
+            "employees_total": 275
         },
         "foundation_year": 1872,
         "corporation_year": 1933,
@@ -178,7 +182,7 @@
             "Latitude": 63.3526837,
             "Longitude": 16.3753678
         },
-        "cluster": 7
+        "cluster": 8
     },
     "7": {
         "name": "Björkå Glasbruk",
@@ -205,7 +209,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 1200000,
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 30
         },
         "foundation_year": 1940,
         "board": [
@@ -223,7 +228,7 @@
             "Latitude": 57.5188928,
             "Longitude": 14.9045962
         },
-        "cluster": 7
+        "cluster": 8
     },
     "9": {
         "name": "Björns Tegelbruk AB.",
@@ -233,7 +238,7 @@
             "Latitude": 65.584819,
             "Longitude": 22.1567026
         },
-        "cluster": 0
+        "cluster": 14
     },
     "10": {
         "name": "AB. Björnbandsfabriken",
@@ -249,7 +254,8 @@
             "postgiro": "8200"
         },
         "financials": {
-            "capital": 18000
+            "capital": 18000,
+            "employees_total": 0
         },
         "foundation_year": 1912,
         "corporation_year": 1923,
@@ -265,7 +271,7 @@
             "Latitude": 59.4021806,
             "Longitude": 13.5114977
         },
-        "cluster": 5
+        "cluster": 17
     },
     "11": {
         "name": "Björneborgs Jernverks AB.",
@@ -275,6 +281,6 @@
             "Latitude": 59.2408793,
             "Longitude": 14.2511578
         },
-        "cluster": 6
+        "cluster": 2
     }
 }

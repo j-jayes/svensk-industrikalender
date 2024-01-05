@@ -17,7 +17,8 @@
                 "industriarb": 90
             },
             "annual_turnover": 1500000,
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 90
         },
         "foundation_year": 1894,
         "corporation_year": 1928,
@@ -39,7 +40,7 @@
             "Latitude": 61.0459523,
             "Longitude": 16.6846282
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. C. E. Finquists Verkstäder",
@@ -59,7 +60,8 @@
                 "industriarb": 55
             },
             "annual_turnover": 950000,
-            "annual_production_value": 950000
+            "annual_production_value": 950000,
+            "employees_total": 55
         },
         "foundation_year": 1922,
         "corporation_year": 1931,
@@ -82,7 +84,7 @@
             "Latitude": 59.2744881,
             "Longitude": 18.0051298
         },
-        "cluster": 6
+        "cluster": 7
     },
     "3": {
         "name": "AB. Finshyttans Bruk",
@@ -107,7 +109,8 @@
                 "industriarb": 165
             },
             "annual_turnover": 2200000,
-            "annual_production_value": 2200000
+            "annual_production_value": 2200000,
+            "employees_total": 165
         },
         "corporation_year": 1903,
         "board": [
@@ -130,7 +133,7 @@
             "Latitude": 60.29772490000001,
             "Longitude": 15.826766
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Finsjö Kraft AB",
@@ -145,7 +148,8 @@
         },
         "financials": {
             "capital": 654000,
-            "annual_turnover": 3000000
+            "annual_turnover": 3000000,
+            "employees_total": 0
         },
         "corporation_year": 1909,
         "owners": [
@@ -156,7 +160,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 2
     },
     "5": {
         "name": "AB. Finsjö Pappersbruk",
@@ -175,7 +179,8 @@
             "employees": {
                 "industriarb": 65
             },
-            "annual_production_value": "2,500 ton papp och kartong"
+            "annual_production_value": "2,500 ton papp och kartong",
+            "employees_total": 65
         },
         "corporation_year": 1916,
         "director": "disp. Oskar E. Halle",
@@ -183,7 +188,7 @@
             "Latitude": 57.1496854,
             "Longitude": 16.2444178
         },
-        "cluster": 5
+        "cluster": 17
     },
     "6": {
         "name": "AB. Finspongs Hästskor",
@@ -202,7 +207,8 @@
             "employees": {
                 "industriarb": 25
             },
-            "annual_turnover": 400000
+            "annual_turnover": 400000,
+            "employees_total": 25
         },
         "corporation_year": 1922,
         "board": [
@@ -233,7 +239,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 5
     },
     "7": {
         "name": "AB. Fintlings Nickel- & Nysilverfabrik",
@@ -252,6 +258,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

@@ -30,7 +30,8 @@
                 "industriarb": 300
             },
             "annual_turnover": 7000000,
-            "annual_production_value": 7000000
+            "annual_production_value": 7000000,
+            "employees_total": 300
         },
         "foundation_year": 1903,
         "current_name_year": 1924,
@@ -61,7 +62,7 @@
             "Latitude": 60.3939638,
             "Longitude": 17.0067862
         },
-        "cluster": 7
+        "cluster": 2
     },
     "2": {
         "name": "Hedesunda Industri AB",
@@ -85,7 +86,8 @@
                 "industriarb": 50
             },
             "annual_turnover": 350000,
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 50
         },
         "foundation_year": 1908,
         "current_name_year": "",
@@ -112,7 +114,7 @@
             "Latitude": 60.3939638,
             "Longitude": 17.0067862
         },
-        "cluster": 7
+        "cluster": 8
     },
     "3": {
         "name": "AB. Karl Hedin",
@@ -136,7 +138,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 1500000,
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 60
         },
         "foundation_year": 1917,
         "current_name_year": "",
@@ -150,7 +153,7 @@
             "Latitude": 59.9929333,
             "Longitude": 15.826962
         },
-        "cluster": 7
+        "cluster": 8
     },
     "4": {
         "name": "Hedlunds Trävara AB",
@@ -174,7 +177,8 @@
                 "industriarb": 200
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 200
         },
         "foundation_year": 1934,
         "current_name_year": "",
@@ -188,7 +192,7 @@
             "Latitude": 61.1713931,
             "Longitude": 15.1383573
         },
-        "cluster": 7
+        "cluster": 8
     },
     "5": {
         "name": "E. Hedman AB",
@@ -212,7 +216,8 @@
                 "industriarb": 25
             },
             "annual_turnover": "",
-            "annual_production_value": ""
+            "annual_production_value": "",
+            "employees_total": 25
         },
         "foundation_year": 1942,
         "current_name_year": "",
@@ -226,7 +231,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "6": {
         "name": "AB; I. Hedström Kravattfabrik",
@@ -251,7 +256,8 @@
                 "industriarb": 40
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 40
         },
         "foundation_year": 1894,
         "current_name_year": "",
@@ -289,7 +295,8 @@
                 "industriarb": 22
             },
             "annual_turnover": 500000,
-            "annual_production_value": 500000
+            "annual_production_value": 500000,
+            "employees_total": 22
         },
         "foundation_year": 1892,
         "current_name_year": "",
@@ -303,7 +310,7 @@
             "Latitude": 65.8251188,
             "Longitude": 21.6887028
         },
-        "cluster": 1
+        "cluster": 5
     },
     "8": {
         "name": "Oscar Hegert",
@@ -327,7 +334,8 @@
             "capital": "",
             "employees": "",
             "annual_turnover": 2500000,
-            "annual_production_value": 2500000
+            "annual_production_value": 2500000,
+            "employees_total": 0
         },
         "foundation_year": 1906,
         "current_name_year": "",
@@ -341,6 +349,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     }
 }

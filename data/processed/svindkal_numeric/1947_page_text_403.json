@@ -15,7 +15,8 @@
         "financials": {
             "capital": 250000,
             "foundation_year": 1872,
-            "corporation_year": 1939
+            "corporation_year": 1939,
+            "employees_total": 0
         },
         "board": [
             {
@@ -36,7 +37,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Johnssons Korkfabrik",
@@ -57,7 +58,8 @@
                 "industriarb.": 20
             },
             "annual_turnover": 300000,
-            "annual_production_value": 300000
+            "annual_production_value": 300000,
+            "employees_total": 20
         },
         "corporation_year": 1936,
         "director": "Bengt Malmström",
@@ -65,7 +67,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 0
     },
     "3": {
         "name": "AB. Johnson Metall",
@@ -80,7 +82,8 @@
             "capital": 30000,
             "employees": {
                 "industriarb.": 106
-            }
+            },
+            "employees_total": 106
         },
         "corporation_year": 1944,
         "director": "K. Åke Johnson",
@@ -88,7 +91,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "Johnsons Pappersindustri AB.",
@@ -107,7 +110,7 @@
             "Latitude": 56.0464674,
             "Longitude": 12.6945121
         },
-        "cluster": 5
+        "cluster": 10
     },
     "5": {
         "name": "A. Johnson &amp; Co., Oljeraffinaderiet",
@@ -224,6 +227,6 @@
             "Latitude": 58.90292600000001,
             "Longitude": 17.9465289
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

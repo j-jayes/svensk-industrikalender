@@ -17,7 +17,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 700000,
-            "annual_production_value": 700000
+            "annual_production_value": 700000,
+            "employees_total": 35
         },
         "foundation_year": 1868,
         "corporation_year": 1909,
@@ -43,7 +44,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 5
+        "cluster": 17
     },
     "2": {
         "name": "Erik Blomgren",
@@ -60,7 +61,8 @@
             "employees": {
                 "industriarb": 11
             },
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 11
         },
         "foundation_year": 1929,
         "director": "",
@@ -71,7 +73,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 9
+        "cluster": 18
     },
     "3": {
         "name": "Blomqvists Verkstads AB.",
@@ -91,7 +93,8 @@
                 "industriarb": 35
             },
             "annual_turnover": 600000,
-            "corporation_year": 1926
+            "corporation_year": 1926,
+            "employees_total": 35
         },
         "director": "",
         "managing_director": "Axel Aastrup",
@@ -101,7 +104,7 @@
             "Latitude": 59.197762,
             "Longitude": 17.6201942
         },
-        "cluster": 6
+        "cluster": 18
     },
     "4": {
         "name": "Artur Blomkvist Metallfabrik",
@@ -118,7 +121,8 @@
             "employees": {
                 "antal": 12
             },
-            "annual_production_value": 150000
+            "annual_production_value": 150000,
+            "employees_total": 12
         },
         "foundation_year": 1921,
         "director": "",
@@ -129,7 +133,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "5": {
         "name": "C. C. Blomqvist",
@@ -145,7 +149,8 @@
             "employees": {
                 "antal": 6
             },
-            "annual_production_value": 50000
+            "annual_production_value": 50000,
+            "employees_total": 6
         },
         "foundation_year": 1915,
         "director": "",
@@ -156,7 +161,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 18
     },
     "6": {
         "name": "AB. J. E. Blomqvist",
@@ -174,7 +179,8 @@
             "employees": {
                 "antal": 40
             },
-            "annual_production_value": 525000
+            "annual_production_value": 525000,
+            "employees_total": 40
         },
         "corporation_year": 1912,
         "board": [
@@ -195,7 +201,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "AB. Sterner Blomquist",
@@ -213,7 +219,8 @@
             "employees": {
                 "antal": 150
             },
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 150
         },
         "corporation_year": 1928,
         "board": [
@@ -234,7 +241,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 6
+        "cluster": 7
     },
     "8": {
         "name": "Blomsterfabriks AB.",
@@ -251,7 +258,8 @@
             "capital": 48000,
             "employees": {
                 "antal": 50
-            }
+            },
+            "employees_total": 50
         },
         "foundation_year": 1902,
         "board": [
@@ -280,7 +288,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 1
+        "cluster": 13
     },
     "9": {
         "name": "AB. Blomstermåla Möbelfabrik",
@@ -297,7 +305,8 @@
             "capital": "N/A",
             "employees": {
                 "antal": 0
-            }
+            },
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "director": "",
@@ -308,6 +317,6 @@
             "Latitude": 56.9814885,
             "Longitude": 16.3327375
         },
-        "cluster": 8
+        "cluster": 15
     }
 }

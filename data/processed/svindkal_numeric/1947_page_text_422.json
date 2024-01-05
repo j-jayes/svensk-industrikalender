@@ -28,7 +28,8 @@
                 "industriarb": 45
             },
             "annual_turnover": 2000000,
-            "annual_production_value": 2000000
+            "annual_production_value": 2000000,
+            "employees_total": 45
         },
         "foundation_year": 1940,
         "board": [
@@ -48,7 +49,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 2
+        "cluster": 13
     },
     "2": {
         "name": "Albert Keifer Strumpfabrik AB",
@@ -68,7 +69,8 @@
                 "industriarb": 70
             },
             "annual_turnover": 1000000,
-            "annual_production_value": 1000000
+            "annual_production_value": 1000000,
+            "employees_total": 70
         },
         "foundation_year": 1934,
         "corporation_year": 1941,
@@ -82,7 +84,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 9
+        "cluster": 5
     },
     "3": {
         "name": "AB. Carl Keijser & Co.",
@@ -99,7 +101,8 @@
                 "industriarb": 30
             },
             "annual_turnover": 250000,
-            "annual_production_value": 250000
+            "annual_production_value": 250000,
+            "employees_total": 30
         },
         "foundation_year": 1882,
         "corporation_year": 1914,
@@ -109,7 +112,7 @@
             "Latitude": 59.60990049999999,
             "Longitude": 16.5448091
         },
-        "cluster": 6
+        "cluster": 12
     },
     "4": {
         "name": "AB. Kerna",
@@ -127,7 +130,8 @@
             "capital": 5500000,
             "employees": {
                 "total_industriarb": 250
-            }
+            },
+            "employees_total": 250
         },
         "foundation_year": 1929,
         "board": [
@@ -145,7 +149,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     },
     "5": {
         "name": "Kembels Skofabriks AB",
@@ -165,7 +169,8 @@
                 "industriarb": 95
             },
             "annual_turnover": 1500000,
-            "annual_production_value": 1500000
+            "annual_production_value": 1500000,
+            "employees_total": 95
         },
         "foundation_year": 1906,
         "owner": "Kooperativa Förbundet",
@@ -173,7 +178,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 9
+        "cluster": 5
     },
     "6": {
         "name": "AB. Kemicano",
@@ -194,7 +199,8 @@
                 "industriarb": 15
             },
             "annual_turnover": 375000,
-            "annual_production_value": 375000
+            "annual_production_value": 375000,
+            "employees_total": 15
         },
         "foundation_year": 1932,
         "original_name": "Rostskyddsbolaget Lidén & Co.",
@@ -212,6 +218,6 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 2
+        "cluster": 3
     }
 }

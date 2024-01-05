@@ -18,7 +18,8 @@
                 "industriarb": 50
             },
             "annual_turnover": "3,000 stds sågade trävaror, varav 1,000 stds hyvlade",
-            "annual_production_value": "Sågen anlagd 1900, nuv. bolag stiftat 1918"
+            "annual_production_value": "Sågen anlagd 1900, nuv. bolag stiftat 1918",
+            "employees_total": 50
         },
         "foundation_year": 1895,
         "board": [
@@ -39,7 +40,7 @@
             "Latitude": 60.152358,
             "Longitude": 15.191639
         },
-        "cluster": 7
+        "cluster": 8
     },
     "2": {
         "name": "AB. Luleå Bryggeri",
@@ -55,7 +56,8 @@
             "employees": {
                 "industriarb": 45
             },
-            "annual_turnover": 1000000
+            "annual_turnover": 1000000,
+            "employees_total": 45
         },
         "foundation_year": 1908,
         "board": [
@@ -82,7 +84,7 @@
             "Latitude": 65.584819,
             "Longitude": 22.1567026
         },
-        "cluster": 2
+        "cluster": 16
     },
     "3": {
         "name": "Lumalampan AB.",
@@ -99,7 +101,8 @@
             "capital": 2000000,
             "employees": {
                 "industriarb": 1000
-            }
+            },
+            "employees_total": 1000
         },
         "foundation_year": 1930,
         "board": [
@@ -136,7 +139,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 0
     },
     "4": {
         "name": "Aug. Lundhs Metallfabrik",
@@ -149,7 +152,8 @@
             "employees": {
                 "industriarb": 12
             },
-            "annual_production_value": 215000
+            "annual_production_value": 215000,
+            "employees_total": 12
         },
         "foundation_year": 1920,
         "manager": "fabr. Tore Lundh",
@@ -157,6 +161,6 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     }
 }

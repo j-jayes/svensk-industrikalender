@@ -1,6 +1,6 @@
 {
     "1": {
-        "name": "Rättviks Textil AB.",
+        "name": "Ilä ttvik—-Il örstrand",
         "location": "Rättvik",
         "business": "Ullspinneri och trikåfabrik samt kem. t vättanstalt",
         "products": "Tillverkar filtar, raggsockor, toppmössor, vantar, herrtröjor, damjumpers m. m.; utför löngodsspinning och kem. tvätt",
@@ -17,7 +17,8 @@
                 "industriarb": 60
             },
             "annual_turnover": 525000,
-            "annual_production_value": 525000
+            "annual_production_value": 525000,
+            "employees_total": 60
         },
         "foundation_year": 1928,
         "director": "Karl J. Gustafsson",
@@ -25,7 +26,7 @@
             "Latitude": 60.889025,
             "Longitude": 15.123373
         },
-        "cluster": 3
+        "cluster": 1
     },
     "2": {
         "name": "AB. Röbo Tegelbruk",
@@ -40,7 +41,8 @@
                 "industriarb": 20
             },
             "annual_turnover": 145000,
-            "annual_production_value": 145000
+            "annual_production_value": 145000,
+            "employees_total": 20
         },
         "corporation_year": 1935,
         "director": "köpm. Thure Lundberg",
@@ -48,7 +50,7 @@
             "Latitude": 59.85856380000001,
             "Longitude": 17.6389267
         },
-        "cluster": 1
+        "cluster": 14
     },
     "3": {
         "name": "AB. Rönnarps Makadamfabrik",
@@ -65,7 +67,8 @@
             "employees": {
                 "arb": 10
             },
-            "annual_turnover": 250000
+            "annual_turnover": 250000,
+            "employees_total": 10
         },
         "foundation_year": 1911,
         "board": [
@@ -78,7 +81,7 @@
             "Latitude": 55.9256294,
             "Longitude": 12.955556
         },
-        "cluster": 5
+        "cluster": 3
     },
     "4": {
         "name": "AB. Rönninge Handskfabrik",
@@ -95,7 +98,8 @@
             "employees": {
                 "industriarb": 60
             },
-            "corporation_year": 1937
+            "corporation_year": 1937,
+            "employees_total": 60
         },
         "manager": "Leon Lapidus",
         "coordinates": {
@@ -119,7 +123,8 @@
             "employees": {
                 "industriarb": 70
             },
-            "annual_turnover": 2000000
+            "annual_turnover": 2000000,
+            "employees_total": 70
         },
         "corporation_year": 1945,
         "board": [
@@ -141,7 +146,7 @@
             "Latitude": 59.2752626,
             "Longitude": 15.2134105
         },
-        "cluster": 6
+        "cluster": 12
     },
     "6": {
         "name": "Rörklammerfabriken, Arvid Lindtte",
@@ -156,7 +161,8 @@
             "employees": {
                 "industriarb": 7
             },
-            "annual_turnover": 85000
+            "annual_turnover": 85000,
+            "employees_total": 7
         },
         "foundation_year": 1931,
         "manager": "Arvid Lindhe",
@@ -164,7 +170,7 @@
             "Latitude": 57.6172,
             "Longitude": 15.22155
         },
-        "cluster": 6
+        "cluster": 18
     },
     "7": {
         "name": "AB. Rörstrands Porslinsfabriker",
@@ -178,7 +184,8 @@
         },
         "financials": {
             "capital": 4000000,
-            "annual_production_value": 7000000
+            "annual_production_value": 7000000,
+            "employees_total": 0
         },
         "board": [
             {
@@ -207,6 +214,6 @@
             "Latitude": 58.5035047,
             "Longitude": 13.1570768
         },
-        "cluster": 6
+        "cluster": 0
     }
 }

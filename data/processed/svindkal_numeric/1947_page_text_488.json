@@ -7,7 +7,8 @@
             "capital": 110000000,
             "employees": {
                 "industriarb.": 0
-            }
+            },
+            "employees_total": 0
         },
         "foundation_year": 1890,
         "board": [
@@ -57,7 +58,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "2": {
         "name": "Luth & Roséns Elektriska AB.",
@@ -81,7 +82,8 @@
                 "industriarb.": 165
             },
             "annual_turnover": 3500000,
-            "annual_production_value": 3500000
+            "annual_production_value": 3500000,
+            "employees_total": 165
         },
         "foundation_year": 1885,
         "board": [
@@ -114,7 +116,7 @@
             "Latitude": 59.37124859999999,
             "Longitude": 16.5098045
         },
-        "cluster": 6
+        "cluster": 12
     },
     "3": {
         "name": "AB. Lux",
@@ -124,7 +126,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Luxor Radio AB.",
@@ -147,7 +149,8 @@
             "capital": 125400,
             "employees": {
                 "industriarb.": 300
-            }
+            },
+            "employees_total": 300
         },
         "foundation_year": 1918,
         "board": [
@@ -173,7 +176,7 @@
             "Latitude": 58.5380335,
             "Longitude": 15.0470936
         },
-        "cluster": 6
+        "cluster": 18
     },
     "5": {
         "name": "AB. Lyckes Söners Konservfabriker",
@@ -183,7 +186,7 @@
             "Latitude": 58.24742569999999,
             "Longitude": 11.4590081
         },
-        "cluster": 2
+        "cluster": 13
     },
     "6": {
         "name": "Lycksele Industri AB.",
@@ -207,7 +210,8 @@
                 "industriarb.": 110
             },
             "annual_turnover": 2100000,
-            "annual_production_value": 2100000
+            "annual_production_value": 2100000,
+            "employees_total": 110
         },
         "foundation_year": 1941,
         "board": [
@@ -247,7 +251,7 @@
             "Latitude": 64.5958098,
             "Longitude": 18.676367
         },
-        "cluster": 7
+        "cluster": 3
     },
     "7": {
         "name": "Lycksele Snickerifabrik",
@@ -257,6 +261,6 @@
             "Latitude": 64.5958098,
             "Longitude": 18.676367
         },
-        "cluster": 7
+        "cluster": 8
     }
 }

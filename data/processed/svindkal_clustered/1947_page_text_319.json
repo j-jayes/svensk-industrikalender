@@ -58,7 +58,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 2
+        "cluster": 0
     },
     "2": {
         "name": "Glumslövs Tegelbruks AB.",
@@ -108,7 +108,7 @@
             "Latitude": 55.9442238,
             "Longitude": 12.8070146
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Clory, Elektr. Apparatfabriken",
@@ -118,7 +118,7 @@
             "Latitude": 59.26203809999999,
             "Longitude": 17.22311
         },
-        "cluster": 1
+        "cluster": 18
     },
     "4": {
         "name": "Clödlampfabriken Birka AB.",
@@ -128,7 +128,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 1
+        "cluster": 0
     },
     "5": {
         "name": "Cnesta Bryggeri AB.",
@@ -151,7 +151,7 @@
             "Latitude": 59.04834830000001,
             "Longitude": 17.3072276
         },
-        "cluster": 2
+        "cluster": 16
     },
     "6": {
         "name": "Gnosjö Armaturfabrik",
@@ -174,7 +174,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 12
     },
     "7": {
         "name": "Gnosjö Celbgjuteri, A. Jacobson A Co.",
@@ -197,7 +197,7 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 6
+        "cluster": 12
     },
     "8": {
         "name": "Gnosjö Portföljfabrik, Paul Svensson & Co.",
@@ -242,6 +242,6 @@
             "Latitude": 57.35803979999999,
             "Longitude": 13.7371898
         },
-        "cluster": 1
+        "cluster": 18
     }
 }

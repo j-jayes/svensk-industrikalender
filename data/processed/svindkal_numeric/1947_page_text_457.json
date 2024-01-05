@@ -18,7 +18,8 @@
                 "Arbetsgivare": 12
             },
             "annual_turnover": 165000,
-            "annual_production_value": 165000
+            "annual_production_value": 165000,
+            "employees_total": 12
         },
         "foundation_year": 1881,
         "corporation_year": 1923,
@@ -32,7 +33,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 0
     },
     "2": {
         "name": "AB. Lanna Stenhuggeri",
@@ -51,7 +52,8 @@
             "employees": {
                 "industriarb": 48
             },
-            "annual_production_value": 350000
+            "annual_production_value": 350000,
+            "employees_total": 48
         },
         "foundation_year": 1895,
         "corporation_year": 1925,
@@ -65,7 +67,7 @@
             "Latitude": 60.12816100000001,
             "Longitude": 18.643501
         },
-        "cluster": 0
+        "cluster": 14
     },
     "3": {
         "name": "Joh. K. Lannmark, Mek. Verkstad",
@@ -82,7 +84,8 @@
             "employees": {
                 "Arb.-antal": 14
             },
-            "annual_production_value": 140000
+            "annual_production_value": 140000,
+            "employees_total": 14
         },
         "foundation_year": 1904,
         "manager": "Gunnar Lannmark",
@@ -90,7 +93,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 6
+        "cluster": 7
     },
     "4": {
         "name": "Lantmännens Byggnads AB.",
@@ -100,14 +103,15 @@
             "office": "Lund"
         },
         "financials": {
-            "capital": 100000
+            "capital": 100000,
+            "employees_total": 0
         },
         "director": "Gösta Edström",
         "coordinates": {
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 0
+        "cluster": 6
     },
     "5": {
         "name": "AB. T. H. Lapidus",
@@ -130,7 +134,8 @@
             "employees": {
                 "industriarb.": "i Borås 42, i Olsfors 107"
             },
-            "annual_production_value": 2150000
+            "annual_production_value": 2150000,
+            "employees_total": 0
         },
         "foundation_year": 1880,
         "corporation_year": 1924,
@@ -153,7 +158,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 3
+        "cluster": 1
     },
     "6": {
         "name": "Larsbo Kalk AB.",
@@ -173,7 +178,8 @@
             "employees": {
                 "industriarb": 50
             },
-            "annual_production_value": 600000
+            "annual_production_value": 600000,
+            "employees_total": 50
         },
         "foundation_year": 1899,
         "board": [
@@ -187,7 +193,7 @@
             "Latitude": 59.6964815,
             "Longitude": 15.1015112
         },
-        "cluster": 0
+        "cluster": 14
     },
     "7": {
         "name": "O. Larsens Modellsnickeri",
@@ -203,7 +209,8 @@
         "financials": {
             "employees": {
                 "industriarb.": 7
-            }
+            },
+            "employees_total": 7
         },
         "foundation_year": 1932,
         "owner": "fabr. Oscar Larsen",
@@ -211,7 +218,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 7
+        "cluster": 8
     },
     "8": {
         "name": "Larsson & Johansson",
@@ -221,13 +228,14 @@
         "financials": {
             "employees": {
                 "industriarb.": "N/A"
-            }
+            },
+            "employees_total": 0
         },
         "foundation_year": "N/A",
         "coordinates": {
             "Latitude": 59.12653590000001,
             "Longitude": 15.1401053
         },
-        "cluster": 9
+        "cluster": 5
     }
 }

@@ -13,7 +13,8 @@
             "employees": {
                 "Antal industriarb.": 25
             },
-            "annual_production_value": 400000
+            "annual_production_value": 400000,
+            "employees_total": 25
         },
         "foundation_year": 1917,
         "current_name_year": 1944,
@@ -22,7 +23,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "2": {
         "name": "Trio AB., Armaturfabriken",
@@ -32,7 +33,7 @@
             "Latitude": 59.3,
             "Longitude": 18
         },
-        "cluster": 1
+        "cluster": 18
     },
     "3": {
         "name": "AB. Trio-Sport",
@@ -52,7 +53,7 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 2
+        "cluster": 13
     },
     "5": {
         "name": "AB. Triplexfabriken",
@@ -62,7 +63,7 @@
             "Latitude": 59.63569090000001,
             "Longitude": 17.0778228
         },
-        "cluster": 6
+        "cluster": 18
     },
     "6": {
         "name": "Trollebo Yllefabrik",
@@ -72,7 +73,7 @@
             "Latitude": 58.0780287,
             "Longitude": 13.0188387
         },
-        "cluster": 3
+        "cluster": 1
     },
     "7": {
         "name": "AB. Trollhättans Bomullsväverl",
@@ -82,7 +83,7 @@
             "Latitude": 58.28348939999999,
             "Longitude": 12.2858206
         },
-        "cluster": 3
+        "cluster": 1
     },
     "8": {
         "name": "Trollhättans Läskedrycksfabrik & Svagdrycksbryggeri",
@@ -92,7 +93,7 @@
             "Latitude": 58.28348939999999,
             "Longitude": 12.2858206
         },
-        "cluster": 2
+        "cluster": 16
     },
     "9": {
         "name": "Tryckeri AB. C. A. Andersson & Co»",
@@ -102,6 +103,6 @@
             "Latitude": 55.604981,
             "Longitude": 13.003822
         },
-        "cluster": 5
+        "cluster": 10
     }
 }

@@ -20,7 +20,8 @@
                 "industriarb": 45
             },
             "annual_turnover": 1200000,
-            "annual_production_value": 1200000
+            "annual_production_value": 1200000,
+            "employees_total": 45
         },
         "foundation_year": 1939,
         "board": [
@@ -41,7 +42,7 @@
             "Latitude": 58.587745,
             "Longitude": 16.192421
         },
-        "cluster": 8
+        "cluster": 15
     },
     "2": {
         "name": "Erikson & Larson",
@@ -58,7 +59,8 @@
                 "industriarb": 420
             },
             "annual_turnover": "Unknown",
-            "annual_production_value": "Unknown"
+            "annual_production_value": "Unknown",
+            "employees_total": 420
         },
         "foundation_year": 1892,
         "board": [
@@ -87,7 +89,7 @@
             "Latitude": 57.72103500000001,
             "Longitude": 12.939819
         },
-        "cluster": 9
+        "cluster": 19
     },
     "3": {
         "name": "Eriksson & Larssons Felbhattfabrik",
@@ -100,7 +102,8 @@
             "postgiro": "76334"
         },
         "financials": {
-            "annual_production_value": 80000
+            "annual_production_value": 80000,
+            "employees_total": 0
         },
         "foundation_year": 1925,
         "owners": [
@@ -131,7 +134,8 @@
             "employees": {
                 "industriarb": 23
             },
-            "annual_turnover": 345000
+            "annual_turnover": 345000,
+            "employees_total": 23
         },
         "foundation_year": 1914,
         "board": [
@@ -144,7 +148,7 @@
             "Latitude": 59.33688530000001,
             "Longitude": 17.9638876
         },
-        "cluster": 6
+        "cluster": 7
     },
     "5": {
         "name": "Axel Erikssons Instrumentfirma",
@@ -158,7 +162,7 @@
             "Latitude": 57.70887,
             "Longitude": 11.97456
         },
-        "cluster": 6
+        "cluster": 18
     },
     "6": {
         "name": "Axel Eriksson & Co. Snickeri AB",
@@ -174,14 +178,15 @@
             "employees": {
                 "industriarb": 10
             },
-            "annual_production_value": 100000
+            "annual_production_value": 100000,
+            "employees_total": 10
         },
         "foundation_year": 1945,
         "coordinates": {
             "Latitude": 60.5079552,
             "Longitude": 14.7926914
         },
-        "cluster": 8
+        "cluster": 15
     },
     "7": {
         "name": "A. Erik Eriksson, Byggnadsfirman",
@@ -202,7 +207,7 @@
             "Latitude": 59.32932349999999,
             "Longitude": 18.0685808
         },
-        "cluster": 0
+        "cluster": 6
     },
     "8": {
         "name": "AB. A. K. Eriksson",
@@ -222,13 +227,14 @@
             "employees": {
                 "industriarb": 40
             },
-            "annual_production_value": 900000
+            "annual_production_value": 900000,
+            "employees_total": 40
         },
         "foundation_year": 1917,
         "coordinates": {
             "Latitude": 57.6165963,
             "Longitude": 15.5735249
         },
-        "cluster": 6
+        "cluster": 7
     }
 }
