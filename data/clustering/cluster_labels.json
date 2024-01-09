@@ -1,5 +1,5 @@
 cluster_labels = {
-    0: "Glass & Mirror Factories"
+    0: "Glass & Mirror Factories",
     1: "Spinning, weaving and textile industry",
     2: "Iron and Steel Foundries",
     3: "Chemical-technical industry, Chemical and pharmaceutical products, Paint and varnish factories",
@@ -20,3 +20,4 @@ cluster_labels = {
     18: "Electrical appliances and mechanical machinery",
     19: "Clothing and textile industry",
 }
+
