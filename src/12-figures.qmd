@@ -1,0 +1,554 @@
+---
+title: "Figures"
+format: html
+---
+
+
+```{r}
+library(readxl)
+library(tidyverse)
+theme_set(theme_light())
+
+df <- readxl::read_excel("data/output/dbscan_clusters_business_counts.xlsx")
+
+df <- df %>% 
+mutate(foundation_year = parse_number(foundation_year),
+financials_capital = parse_number(financials_capital),
+financials_annual_turnover = parse_number(financials_annual_turnover))
+
+# Define the dictionary
+cluster_labels <- c("Glass & Mirror Factories",
+                    "Spinning, weaving and textile industry",
+                    "Iron and Steel Foundries",
+                    "Chemical-technical industry, Chemical and pharmaceutical products, Paint and varnish factories",
+                    "Various family owned businesses",
+                    "Steel and metal industry",
+                    "Building contractor, Concrete goods factory",
+                    "Mechanical workshops for machine production (heavy industries)",
+                    "Wood, sawmill and carpentry industry",
+                    "Textile and leather processing industry",
+                    "Book Printing and Publishing",
+                    "Information Not Available",
+                    "Metal goods factory, Mechanical workshop (light industries)",
+                    "Preserved and fresh food industries",
+                    "Food industry",
+                    "Furniture and homeware factories",
+                    "Breweries, malt and soft drink factories",
+                    "Chemical-technical industry and jewellery",
+                    "Electrical appliances and mechanical machinery",
+                    "Clothing and textile industry")
+
+# Create a dataframe
+cluster_labels <- cluster_labels %>% 
+    as_tibble() %>% 
+    mutate(cluster = row_number() - 1) %>% 
+    rename(cluster_label = value)
+
+df <- df %>% 
+inner_join(cluster_labels, by = "cluster") 
+```
+
+
+```{r}
+library(showtext)
+## Loading Google fonts (https://fonts.google.com/)
+font_add_google("IBM Plex Mono", "ibm")
+font_add_google("Roboto", "roboto")
+
+showtext_opts(dpi = 300)
+showtext_auto(enable = TRUE)
+```
+
+## Maps
+
+```{r}
+library(sf)
+
+maps_path <- "data/maps/sweden_24_couties.shp"
+
+# Read in the shapefile
+sweden <- st_read(maps_path)
+```
+
+
+```{r}
+df %>% 
+ggplot(aes(x = foundation_year, fill = cluster_label)) +
+geom_density(show.legend = FALSE) +
+facet_wrap(~cluster_label) +
+scale_x_continuous(limits = c(1850, 1947)) 
+
+```
+
+
+## geom density plot
+
+```{r}
+library(ggridges)
+
+order_cluster <- df %>% 
+filter(
+between(foundation_year, 1800, 1950)
+) %>% 
+    count(foundation_year, cluster_label) %>%
+    group_by(cluster_label) %>%
+    slice_max(n, n = 1, with_ties = FALSE) %>%
+    ungroup() %>%
+    arrange(foundation_year) %>%
+    select(cluster_label) %>%
+    mutate(row_num = row_number())
+
+df %>% 
+filter(cluster_label != "Information Not Available") %>%
+inner_join(order_cluster, by = c("cluster_label")) %>% 
+filter(
+    #cluster_label %in% top_10_sectors$cluster_label,
+between(foundation_year, 1800, 1950)) %>%
+mutate(cluster_label = fct_reorder(cluster_label, -row_num)) %>%
+mutate(foundation_year = foundation_year %/% 3 * 3) %>%
+count(cluster_label, foundation_year)  %>% 
+ggplot(aes(x = foundation_year, y = cluster_label, height = n, fill = cluster_label)) +
+geom_density_ridges(stat = "identity", show.legend = F) +
+scale_x_continuous(limits = c(1800, 1947)) +
+labs(x = "Foundation year",
+y = NULL) 
+
+ggsave("figures/geom_density_ridges.png", width = 20, height = 20, units = "cm")
+```
+
+```{r}
+
+```
+
+```{r}
+
+df %>% 
+# create 5 year period to average over
+mutate(foundation_year = foundation_year %/% 5 * 5) %>%
+group_by(cluster_label, foundation_year) %>%
+summarise(n = n()) %>%
+ungroup() %>%
+count(cluster_label, foundation_year) %>% ggplot(aes(x = foundation_year, y = n, fill = cluster_label)) +
+geom_area(show.legend = FALSE, position = "fill") +
+scale_x_continuous(limits = c(1850, 1947)) 
+
+
+```
+
+```{r}
+top_10_sectors <- df %>% 
+count(cluster_label, sort = T) %>% 
+head(10)
+
+
+df %>% 
+filter(cluster_label %in% top_10_sectors$cluster_label) %>%
+ggplot(aes(coordinates_Longitude, coordinates_Latitude, colour = cluster_label)) +
+geom_point() +
+labs(colour = "Most common business by region") +
+facet_wrap(~cluster_label) +
+scale_color_brewer(palette = "Paired") 
+```
+
+```{r}
+
+most_common_business_labels <- cluster_labels %>% 
+rename(most_common_business_label = cluster_label,
+       most_common_business = cluster) 
+
+df %>% 
+inner_join(most_common_business_labels) %>% 
+ggplot(aes(coordinates_Longitude, coordinates_Latitude, colour = most_common_business_label)) +
+geom_point() +
+labs(colour = "Most common business by region") +
+# facet_wrap(~dbscan_cluster) +
+scale_color_brewer(palette = "Paired") 
+
+```
+
+
+## Map with common business by region
+
+```{r}
+df_map <- df %>% 
+inner_join(most_common_business_labels)
+
+
+ggplot() +
+geom_sf(data = sweden, fill = "grey90", color = "black") +
+geom_point(aes(coordinates_Longitude, coordinates_Latitude, colour = most_common_business_label), data = df_map) +
+labs(colour = "Most common business by region") +
+# facet_wrap(~dbscan_cluster) +
+scale_color_brewer(palette = "Paired") +
+labs(x = NULL,
+y = NULL)
+
+ggsave("figures/map_most_common_businesses.png", width = 30, height = 20, units = "cm")
+
+```
+
+
+
+```{r}
+most_specific_business_labels <- cluster_labels %>% 
+rename(most_specific_business_label = cluster_label,
+       most_specific_business = cluster) 
+
+
+df_map <- df %>%
+inner_join(most_specific_business_labels)
+
+
+ggplot() +
+geom_sf(data = sweden, fill = "grey90", color = "black") +
+geom_point(aes(coordinates_Longitude, coordinates_Latitude, colour = most_specific_business_label), data = df_map) +
+labs(colour = "Most specific business by region") +
+# facet_wrap(~dbscan_cluster) +
+scale_color_brewer(palette = "Set1") 
+
+```
+
+
+### Capital vs employees
+
+We can say that the electronics industry is more capital intensive than other industries.
+
+
+```{r}
+df %>% 
+mutate(electronics_flag = ifelse(cluster_label == "Electrical appliances and mechanical machinery", "Electronics", "Other")) %>%
+filter(financials_capital > 0,
+financials_employees_total > 0) %>%
+ggplot(aes(financials_capital, financials_employees_total, colour = electronics_flag)) +
+geom_point() +
+geom_smooth(method = "lm", se = FALSE) +
+scale_x_log10() +
+scale_y_log10() 
+```
+
+
+Run a linear regression to see if there is a difference in the slope of the line between the two groups.
+
+```{r}
+library(broom)
+library(knitr)
+
+df %>%
+mutate(electronics_flag = ifelse(cluster_label == "Electrical appliances and mechanical machinery", "Electronics", "Other")) %>%
+filter(financials_capital > 0,
+financials_employees_total > 0) %>%
+group_by(electronics_flag) %>%
+do(tidy(lm(financials_employees_total ~ financials_capital, data = .))) %>%
+filter(term == "financials_capital") %>%
+select(electronics_flag, estimate, p.value) %>%
+mutate(p.value = round(p.value, 3)) %>%
+rename(slope = estimate) %>%
+kable()
+```
+
+
+```{r}
+library(broom)
+library(knitr)
+
+df %>%
+mutate(mech_flag = ifelse(cluster_label == "Mechanical workshops for machine production (heavy industries)", "Mechanical workshops", "Other")) %>%
+filter(financials_capital > 0,
+financials_employees_total > 0) %>%
+ggplot(aes(financials_capital, financials_employees_total, colour = mech_flag)) +
+geom_point() +
+geom_smooth(method = "lm", se = FALSE) +
+scale_x_log10() +
+scale_y_log10() 
+```
+
+
+We can say that the electronics industry is no more capital intensive than other industries, whereas the mechanical workshops are more.
+
+```{r}
+df %>%
+mutate(flag = case_when(
+    cluster_label == "Mechanical workshops for machine production (heavy industries)" ~ "Mechanical workshops", 
+    cluster_label == "Electrical appliances and mechanical machinery" ~ "Electrical appliances and mechanical machinery",
+    TRUE ~ "Other")) %>%
+filter(financials_capital > 0,
+financials_employees_total > 0) %>%
+ggplot(aes(financials_capital, financials_employees_total, colour = flag)) +
+geom_point(alpha = .5) +
+geom_smooth(method = "lm", se = FALSE) +
+scale_color_brewer(palette = "Dark2") +
+scale_x_log10(labels = scales::dollar_format(prefix = "SEK ")) +
+scale_y_log10(limits = c(NA, 1e4), labels = scales::number_format(big.mark = ",")) +
+labs(colour = "Firm type",
+x = "Stock of financial capital (log scale)",
+y = "Number of employees (log scale)") +
+theme(legend.position = "bottom") +
+coord_cartesian()
+
+ggsave("figures/capital_vs_employees.png", width = 20, height = 20, units = "cm")
+```
+
+
+
+Rerun this analysis for every cluster lable and see if it is more capital intensive than other industries.
+
+```{r}
+library(broom)
+library(knitr)
+
+df %>%
+mutate(electronics_flag = ifelse(cluster_label == "Electrical appliances and mechanical machinery", "Electronics", "Other")) %>%
+filter(financials_capital > 0,
+financials_employees_total > 0) %>%
+group_by(cluster_label) %>%
+do(tidy(lm(financials_employees_total ~ financials_capital, data = .))) %>%
+filter(term == "financials_capital") %>%
+select(cluster_label, estimate, p.value) %>%
+mutate(p.value = round(p.value, 3)) %>%
+rename(slope = estimate) %>%
+arrange(desc(slope)) %>%
+kable()
+
+```
+
+The most capital intensive industries are Mechanical workshops for machine production (heavy industries), as well as Iron and Steel Foundries.
+
+
+
+
+What about the power station
+
+
+```{r}
+
+library(ggrepel)
+
+df %>% 
+filter(str_detect(business, "kraft|elektr"))   %>% view()
+
+
+df_map <- df %>% 
+filter(str_detect(business, "kraft|elektr"))  %>% 
+mutate(
+    firm_type = case_when(
+        str_detect(business, "kraft") ~ "Power station / supply company",
+        str_detect(business, "elektr") ~ "Electronic products company",
+    )
+) 
+
+
+ggplot() +
+geom_sf(data = sweden, fill = "grey90", color = "black") +
+geom_point(aes(coordinates_Longitude, coordinates_Latitude, size = financials_capital, colour = firm_type), data = df_map) +
+geom_text_repel(aes(coordinates_Longitude, coordinates_Latitude, label = name), size = 2, check.overlap = TRUE, data = df_map) +
+scale_colour_brewer(palette = "Dark2") +
+scale_size_continuous(labels = scales::dollar_format(prefix = "SEK ")) +
+labs(colour = "Firm type",
+size = "Stock of financial capital",
+x = NULL, 
+y = NULL)
+
+
+ggsave("figures/map_of_electricity_related_businesses.png", width = 20, height = 20, units = "cm")
+```
+
+
+
+
+
+
+## Animated map of business locations over time
+
+```{r}
+
+df %>% 
+ggplot(aes(coordinates_Latitude, coordinates_Longitude, colour = foundation_year)) 
+
+```
+
+
+
+```{r}
+library(ggthemes)
+library(gganimate)
+library(gifski)
+
+
+df %>% select(cluster_label)  %>% distinct()
+
+
+
+df_gif <- df %>%
+select(name, location, financials_capital, financials_annual_turnover, financials_employees_total, coordinates_Latitude, coordinates_Longitude, foundation_year, cluster_label) %>%
+mutate(end = 1947,
+# mutate(financials_info = case_when(
+#     is.na(financials_capital) & is.na(financials_annual_turnover) ~ NA_real_,
+#     is.na(financials_capital) ~ financials_annual_turnover,
+#     is.na(financials_annual_turnover) ~ financials_capital,
+#     TRUE ~ sum(financials_capital, financials_annual_turnover, na.rm = TRUE)
+# ))
+foundation_year = case_when(
+    foundation_year < 1800 ~ NA_real_,
+    foundation_year > 1947 ~ 1947,
+    TRUE ~ foundation_year
+),
+cluster_type = case_when(
+    cluster_label == "Electrical appliances and mechanical machinery" ~ "Electronics",
+    cluster_label %in% c("Mechanical workshops for machine production (heavy industries)", "Metal goods factory, Mechanical workshop (light industries)") ~ "Mechanical workshops",
+    # textile and clothing 
+    cluster_label %in% c("Spinning, weaving and textile industry", "Clothing and textile industry", "Textile and leather processing industry") ~ "Textile and clothing",
+    TRUE ~ "Other industries"),
+cluster_type = fct_relevel(cluster_type, "Electronics", "Mechanical workshops", "Textile and clothing", "Other industries")) %>% 
+mutate(foundation_year = case_when(
+    cluster_type == "Electronics" & foundation_year < 1890 ~ NA_real_,
+    TRUE ~ foundation_year
+)) %>%
+filter(foundation_year <= 1947,
+!is.na(foundation_year)) %>%
+mutate(year = map2(foundation_year, end, seq)) 
+
+df_gif <- df_gif %>%
+unnest(year) 
+
+p <- df_gif %>% 
+  ggplot(aes(coordinates_Longitude, coordinates_Latitude, colour = cluster_type)) +
+  geom_point(size = .25, alpha = .25) +
+  transition_manual(year) +
+  labs(title = "Establishment of industrial firms in Sweden: Year { current_frame }",
+       colour = "Post Office Established",
+       caption = "Data: Swedish Industrial Firm Calendar 1947") +
+  theme_map() +
+  coord_map() +
+  facet_wrap(~cluster_type, nrow = 1) +
+  scale_colour_brewer(palette = "Dark2") +
+  theme(plot.title = element_text(hjust = .5),
+        legend.position = "none",
+        # text size smaller
+        text = element_text(size = 5), 
+        ) +
+  guides(colour = guide_colorbar(barwidth = 30, 
+                                 barheight = 1, 
+                                 title.position = "top", 
+                                 title.hjust = .5)) 
+
+animate(p, renderer = av_renderer(file = "figures/establishment-ep_sq.mp4"),
+           width = 1080,
+           heigh = 720,
+        res = 360,
+        duration = 60,
+        end_pause = 55
+        )
+
+
+
+```
+
+
+
+```{r}
+df_gif %>% filter(!cluster_type == "Electronics") %>%
+arrange(foundation_year) %>% 
+select(name, foundation_year, cluster_type) %>%
+distinct() 
+
+
+df_gif %>% 
+ggplot(aes(foundation_year)) +
+geom_histogram()
+```
+
+
+
+## Now we make calculations based on whether these are in the treatment or control group
+
+
+
+```{r}
+library(here)
+library(sf)
+
+counties <- st_read(here::here("data", "maps", "sweden_24_couties.shp"))
+
+counties <- counties %>%
+mutate(year = map2(1800, 1947, seq)) %>%
+unnest(year)
+
+parishes_subset_treated <- 
+  st_read(here::here("data", "maps", "parishes_subset_treated.shp"))
+
+parishes_subset_treated = parishes_subset_treated %>% 
+mutate(year = map2(1800, 1947, seq)) %>%
+unnest(year)
+
+parishes_subset_control <-
+    st_read(here::here("data", "maps", "parishes_subset_control.shp"))
+
+parishes_subset_control = parishes_subset_control %>% 
+mutate(year = map2(1800, 1947, seq)) %>%
+unnest(year)
+
+df_gif %>% 
+  ggplot() +
+  geom_sf(data = parishes_subset_treated, fill = "grey90", color = "black") +
+  geom_point(size = .25, alpha = .25, aes(coordinates_Longitude, coordinates_Latitude, colour = cluster_type))
+
+
+p <- df_gif %>% 
+  ggplot() +
+    geom_sf(data = counties, color = "black", alpha = .3, fill = NA) +
+  geom_sf(data = parishes_subset_treated, color = NA, alpha = .7, aes(fill = "Treated parishes")) +
+  geom_sf(data = parishes_subset_control, color = NA, alpha = .7, aes(fill = "Control parishes")) +
+  geom_point(size = .5, alpha = .8, aes(coordinates_Longitude, coordinates_Latitude, colour = cluster_type)) +
+    scale_fill_manual(
+    values = c("Treated parishes" = "#fc8d59", "Control parishes" = "#fef0d9"),
+    guide = guide_legend(override.aes = list(linetype = "blank", shape = NA))
+  ) +
+  transition_manual(year) +
+  labs(title = "Establishment of industrial firms in Sweden: Year { current_frame }",
+       colour = "Post Office Established",
+       caption = "Data: Swedish Industrial Firm Calendar 1947",
+       fill = "Parish type") +
+  theme_map() +
+  coord_sf() +
+  # coord_map() +
+  facet_wrap(~cluster_type, nrow = 1) +
+  scale_colour_brewer(palette = "Dark2") +
+  theme(plot.title = element_text(hjust = .5),
+        legend.position = "bottom",
+        # text size smaller
+        text = element_text(size = 5), 
+        ) +
+  guides(colour = guide_colorbar(barwidth = 30, 
+                                 barheight = 1, 
+                                 title.position = "top", 
+                                 title.hjust = .5)) 
+
+animate(p, renderer = av_renderer(file = "figures/establishment-ep_sq.mp4"),
+           width = 1400,
+           heigh = 1000,
+        res = 360,
+        duration = 60,
+        end_pause = 10
+        )
+
+
+
+```
+
+
+
+
+
+```{r}
+# use coordinates_Longitude and coordinates_Latitude to create a point geometry
+df_sf <- st_as_sf(df %>% 
+filter(!is.na(coordinates_Longitude), !is.na(coordinates_Latitude)), coords = c("coordinates_Longitude", "coordinates_Latitude"))
+
+# set df_sf to the same CRS as the parishes
+df_sf <- st_transform(df_sf, st_crs(parishes_subset_treated))
+
+
+df_sf %>% 
+st_filter(parishes_subset_treated)
+
+```

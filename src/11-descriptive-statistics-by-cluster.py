@@ -59,22 +59,3 @@ combined_df.head()
 
 # save the dataframe to an excel file
 combined_df.to_excel('data/processed/svindkal_numeric/combined_df.xlsx', index=False)
-
-
-import numpy as np
-from sklearn.cluster import DBSCAN
-from sklearn.preprocessing import StandardScaler
-
-# Prepare data
-coordinates = data[['coordinates_Latitude', 'coordinates_Longitude']].dropna()
-coordinates_scaled = StandardScaler().fit_transform(coordinates)
-
-# Run DBSCAN
-dbscan = DBSCAN(eps=0.3, min_samples=10)  # Adjust eps and min_samples
-clusters = dbscan.fit_predict(coordinates_scaled)
-
-# Add cluster labels to your dataframe
-data['dbscan_cluster'] = np.nan
-data.loc[coordinates.index, 'dbscan_cluster'] = clusters
-
-# Now you can proceed to calculate firm specificity within these clusters
